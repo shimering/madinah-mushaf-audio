@@ -856,5 +856,92 @@
       "34177"
     ],
     "includesIntroductionsAndRecaps": true
-  }
+  },
+  "topics": [
+    {
+      "id": "amma-purpose",
+      "title": "جزء عم وجمع مقاصد القرآن",
+      "file": "078-النبأ/introduction-00.mp3",
+      "startMs": 30500,
+      "endMs": 118100
+    },
+    {
+      "id": "naba-mursalat",
+      "title": "صلة سورة النبأ بالمرسلات ويوم الفصل",
+      "file": "078-النبأ/introduction-00.mp3",
+      "startMs": 118100,
+      "endMs": 217250
+    },
+    {
+      "id": "adraka-yudrika",
+      "title": "الفرق بين «وما أدراك» و«وما يدريك»",
+      "file": "078-النبأ/introduction-00.mp3",
+      "startMs": 217250,
+      "endMs": 291600
+    },
+    {
+      "id": "surah-order",
+      "title": "التكامل بين سور الإنسان والمرسلات والنبأ",
+      "file": "078-النبأ/introduction-00.mp3",
+      "startMs": 291600,
+      "endMs": 420700
+    },
+    {
+      "id": "creator-evidence",
+      "title": "شهادة الكون ووحدانية الخالق",
+      "file": "078-النبأ/closing-11.mp3",
+      "startMs": 0,
+      "endMs": 211900
+    },
+    {
+      "id": "resurrection-justice",
+      "title": "دليل البعث وحكمة الحساب",
+      "file": "078-النبأ/closing-11.mp3",
+      "startMs": 211900,
+      "endMs": 367000
+    },
+    {
+      "id": "resurrection-recap",
+      "title": "مراجعة مشاهد البعث والجزاء",
+      "file": "078-النبأ/closing-11.mp3",
+      "startMs": 367000,
+      "endMs": 452700
+    },
+    {
+      "id": "proof-oath",
+      "title": "إثبات الحقائق بالشهادة واليمين",
+      "file": "078-النبأ/closing-11.mp3",
+      "startMs": 452700,
+      "endMs": 585770
+    },
+    {
+      "id": "great-news",
+      "title": "النبأ العظيم وحكمة الحساب",
+      "file": "078-النبأ/introduction-12.mp3",
+      "startMs": 0,
+      "endMs": 89700
+    },
+    {
+      "id": "certainty-levels",
+      "title": "علم اليقين وعين اليقين وحق اليقين",
+      "file": "078-النبأ/introduction-12.mp3",
+      "startMs": 89700,
+      "endMs": 134300
+    },
+    {
+      "id": "seen-unseen",
+      "title": "الاستدلال بالمحسوس على الغيب",
+      "file": "078-النبأ/introduction-12.mp3",
+      "startMs": 134300,
+      "endMs": 207730
+    },
+    {
+      "id": "judgment-necessity",
+      "title": "دلائل القدرة والعدل وضرورة يوم الفصل",
+      "file": "078-النبأ/introduction-27.mp3",
+      "startMs": 0,
+      "endMs": 199550
+    }
+  ],
+  "topicTitles": "Editorial descriptive titles; not original lecture titles or Quran text."
 }
