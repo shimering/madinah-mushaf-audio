@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "collection": "shaarawi",
   "speaker": "محمد متولي الشعراوي",
   "source": "القناة الرسمية للشيخ الشعراوي على يوتيوب",
@@ -2635,6 +2635,7 @@
     }
   ],
   "fullSurah": {
+    "mode": "reused-clips",
     "sourceOrder": [
       "yt-001",
       "yt-002",
@@ -2655,217 +2656,2854 @@
     "includesIntroductionsAndRecaps": true,
     "tracks": [
       {
-        "file": "018-الكهف-youtube-v1/full-001.mp3",
-        "durationMs": 1670010,
-        "bytes": 32810733,
-        "sha256": "1b1cd4aee5c47101e1cba71b6d6bf4952abff3e328580cd06d9804db0fe06676",
+        "file": "018-الكهف-youtube-v1/introduction-105.mp3",
+        "startMs": 0,
+        "endMs": 48640,
+        "durationMs": 48640,
+        "recordingDurationMs": 48640,
+        "bytes": 1054021,
+        "sha256": "3d75891868d0063f12a681a0d45be32aa3b9f0e9502cb85ac3313eb5925c5766",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-001",
             "start": 0,
+            "end": 48.6
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 995740,
+        "durationMs": 995740,
+        "recordingDurationMs": 995740,
+        "bytes": 19460803,
+        "sha256": "1e6b2f94ea5fcb705040bbb4c542e79d849331d1f6d66fda3db0a91d8cdb3603",
+        "sharedAyahs": [
+          "18:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 48.6,
+            "end": 1044.3
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 233010,
+        "durationMs": 233010,
+        "recordingDurationMs": 233010,
+        "bytes": 4589168,
+        "sha256": "8d4664cf960e0de7d0b3241edc578be1a92f5dcbbf68e6c4f9b967fafa1cc85f",
+        "sharedAyahs": [
+          "18:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1044.3,
+            "end": 1277.29
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 66850,
+        "durationMs": 66850,
+        "recordingDurationMs": 66850,
+        "bytes": 1311107,
+        "sha256": "1469af8b6a20e0e4b81598423e0ac6c7df27da77c2c0294bb4846ded6ee3cb81",
+        "sharedAyahs": [
+          "18:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1277.29,
+            "end": 1344.13
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 65200,
+        "durationMs": 65200,
+        "recordingDurationMs": 65200,
+        "bytes": 1279707,
+        "sha256": "2934bc5fbe7dec695d9c8ef96cfc5dec187a7f78f7f4d68420caf58c323e3377",
+        "sharedAyahs": [
+          "18:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1344.13,
+            "end": 1409.3
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 255648,
+        "durationMs": 255648,
+        "recordingDurationMs": 589640,
+        "bytes": 11600069,
+        "sha256": "eb972b71b3c1689594907d6333535f8e7933be20ac4fd69172dff2211f504d67",
+        "sharedAyahs": [
+          "18:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1409.3,
+            "end": 1664.92
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-106.mp3",
+        "startMs": 0,
+        "endMs": 5070,
+        "durationMs": 5070,
+        "recordingDurationMs": 5070,
+        "bytes": 92611,
+        "sha256": "73918616b0f12396f83f48fce3e94076feac1d35b433f1e331a72b3517095907",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1664.92,
             "end": 1670.01
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-002.mp3",
-        "durationMs": 1733220,
-        "bytes": 34121432,
-        "sha256": "3436084a4c380ea63b6e72032eab0b35388babe1b31117ce875cd82ca8dfe3f3",
+        "file": "018-الكهف-youtube-v1/introduction-107.mp3",
+        "startMs": 0,
+        "endMs": 26880,
+        "durationMs": 26880,
+        "recordingDurationMs": 26880,
+        "bytes": 539123,
+        "sha256": "6623f384c0bb6cd49a6025f9dd38e4b49dc86c2bc0d37bd742faf20964bba826",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-002",
             "start": 0,
+            "end": 26.84
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/005.mp3",
+        "startMs": 255648,
+        "endMs": 589640,
+        "durationMs": 333992,
+        "recordingDurationMs": 589640,
+        "bytes": 11600069,
+        "sha256": "eb972b71b3c1689594907d6333535f8e7933be20ac4fd69172dff2211f504d67",
+        "sharedAyahs": [
+          "18:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 26.84,
+            "end": 360.8
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 192370,
+        "durationMs": 192370,
+        "recordingDurationMs": 192370,
+        "bytes": 3772380,
+        "sha256": "5170e53f8651d30c9594417af4036eb50f05f232b3e9a672087a11196c1399ba",
+        "sharedAyahs": [
+          "18:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 360.8,
+            "end": 553.13
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 168100,
+        "durationMs": 168100,
+        "recordingDurationMs": 168100,
+        "bytes": 3348003,
+        "sha256": "69560ec60e3571125d287148047e88d12a40533845df59657c8fec2554ff9787",
+        "sharedAyahs": [
+          "18:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 553.13,
+            "end": 721.2
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 48980,
+        "durationMs": 48980,
+        "recordingDurationMs": 48980,
+        "bytes": 975026,
+        "sha256": "f9ef96b8a217f301b229ce360452e1cc529cec295e924f624ea7ac3e8f9be269",
+        "sharedAyahs": [
+          "18:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 721.2,
+            "end": 770.16
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 671530,
+        "durationMs": 671530,
+        "recordingDurationMs": 671530,
+        "bytes": 13246385,
+        "sha256": "d62bdf0fd0886bb5d2c1f9b6bd15b62789b7bdda0bd8706c4e16f85ba9ccbb69",
+        "sharedAyahs": [
+          "18:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 770.16,
+            "end": 1441.66
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 121000,
+        "durationMs": 121000,
+        "recordingDurationMs": 121000,
+        "bytes": 2380399,
+        "sha256": "c1db4a93c8a92199c9156a854cdda271435c65675137a142208ab713aa5272b1",
+        "sharedAyahs": [
+          "18:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 1441.66,
+            "end": 1562.64
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 166623,
+        "durationMs": 166623,
+        "recordingDurationMs": 395000,
+        "bytes": 8236901,
+        "sha256": "8be81cc99901969dce02073e4c00d77de726f816c2af6ba26d56894731552a71",
+        "sharedAyahs": [
+          "18:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 1562.64,
+            "end": 1729.25
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-108.mp3",
+        "startMs": 0,
+        "endMs": 3970,
+        "durationMs": 3970,
+        "recordingDurationMs": 3970,
+        "bytes": 73489,
+        "sha256": "3635533a8d258db06c864c9e93da873e30d0a5db12ccc94b772166b0e81a9bdb",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 1729.25,
             "end": 1733.22
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-003.mp3",
-        "durationMs": 1745680,
-        "bytes": 38026190,
-        "sha256": "92fca24cecea18f524af5585f802faa063a82d5a30fb01a3cbdd1516cfeecd0e",
+        "file": "018-الكهف-youtube-v1/introduction-109.mp3",
+        "startMs": 0,
+        "endMs": 23770,
+        "durationMs": 23770,
+        "recordingDurationMs": 23770,
+        "bytes": 459445,
+        "sha256": "db9ff968b95fb254cd5672683a4c22a16377c69655f73dc8a09be46eae7870f1",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-003",
             "start": 0,
+            "end": 23.74
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/011.mp3",
+        "startMs": 166623,
+        "endMs": 395000,
+        "durationMs": 228377,
+        "recordingDurationMs": 395000,
+        "bytes": 8236901,
+        "sha256": "8be81cc99901969dce02073e4c00d77de726f816c2af6ba26d56894731552a71",
+        "sharedAyahs": [
+          "18:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 23.74,
+            "end": 252.08
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 66060,
+        "durationMs": 66060,
+        "recordingDurationMs": 66060,
+        "bytes": 1428975,
+        "sha256": "d9a072ffff470bd0359905106b974dd2bebb2dff2c5fa18358c3fa021c5f4bfc",
+        "sharedAyahs": [
+          "18:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 252.08,
+            "end": 318.1
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 422610,
+        "durationMs": 422610,
+        "recordingDurationMs": 422610,
+        "bytes": 9155840,
+        "sha256": "5c691aa3eb82131a9a7bfeaa0a559a10242ff0ec1ad777e58b47e2427395201d",
+        "sharedAyahs": [
+          "18:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 318.1,
+            "end": 740.7
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 83750,
+        "durationMs": 83750,
+        "recordingDurationMs": 83750,
+        "bytes": 1846487,
+        "sha256": "f503fe02bf01163d04c7b94cbbaa8285af90a777737d76b92c6ac237df0f6ffe",
+        "sharedAyahs": [
+          "18:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 740.7,
+            "end": 824.4
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 53710,
+        "durationMs": 53710,
+        "recordingDurationMs": 53710,
+        "bytes": 1187412,
+        "sha256": "1f23050660896f4720faca931f0124b1f58d24d1d3a09a4db4e4f90041004940",
+        "sharedAyahs": [
+          "18:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 824.4,
+            "end": 878.1
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 180320,
+        "durationMs": 180320,
+        "recordingDurationMs": 180320,
+        "bytes": 3898620,
+        "sha256": "8d998aed33b2b085679123264e5a02d76f85fa0397b50525c7354b39a4a8ab7e",
+        "sharedAyahs": [
+          "18:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 878.1,
+            "end": 1058.4
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 226640,
+        "durationMs": 226640,
+        "recordingDurationMs": 226640,
+        "bytes": 4965459,
+        "sha256": "a5dfb021e216a3e3cac928c1bb15154b85059bca97b6a53fd71b9a608c2ca7b1",
+        "sharedAyahs": [
+          "18:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 1058.4,
+            "end": 1285.0
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 86670,
+        "durationMs": 86670,
+        "recordingDurationMs": 86670,
+        "bytes": 1895208,
+        "sha256": "07b0d7a783312c465befe7390e53310845c093a83231661ae8b83c0b47b49836",
+        "sharedAyahs": [
+          "18:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 1285.0,
+            "end": 1371.65
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 332770,
+        "durationMs": 332770,
+        "recordingDurationMs": 332770,
+        "bytes": 7294908,
+        "sha256": "d81137d3adc0f8b98731eb6d7e147a2f33da18d781bd206f70d56e99fc8adc30",
+        "sharedAyahs": [
+          "18:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 1371.65,
+            "end": 1704.39
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 20010,
+        "durationMs": 20010,
+        "recordingDurationMs": 20010,
+        "bytes": 424321,
+        "sha256": "712f88dc5f736ab5188a0544cb04ae51618b02b971853bf05550ac46aaac6cb6",
+        "sharedAyahs": [
+          "18:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 1704.39,
+            "end": 1724.39
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 16602,
+        "durationMs": 16602,
+        "recordingDurationMs": 105800,
+        "bytes": 2300855,
+        "sha256": "a3153d25b7b772384771b30f1ff62cef651a04c0601890ea1e00b9481951b252",
+        "sharedAyahs": [
+          "18:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 1724.39,
+            "end": 1740.97
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-110.mp3",
+        "startMs": 0,
+        "endMs": 4700,
+        "durationMs": 4700,
+        "recordingDurationMs": 4700,
+        "bytes": 100278,
+        "sha256": "a9c3f9eb2db7329e0b162fe86699f167ac466bd3147452042dfbb898324cf048",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 1740.97,
             "end": 1745.68
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-004.mp3",
-        "durationMs": 1725540,
-        "bytes": 35975951,
-        "sha256": "5510a1e60833941fec013cf3cff22d74408fda1c778dbca26d857ccb9d0102ef",
+        "file": "018-الكهف-youtube-v1/introduction-111.mp3",
+        "startMs": 0,
+        "endMs": 17010,
+        "durationMs": 17010,
+        "recordingDurationMs": 17010,
+        "bytes": 351580,
+        "sha256": "95ac01315ac7f1282278f9ee550c1d5136bc8429d8ba3c2e4bbc5baf060cf8e3",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-004",
             "start": 0,
+            "end": 16.97
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/021.mp3",
+        "startMs": 16602,
+        "endMs": 105800,
+        "durationMs": 89198,
+        "recordingDurationMs": 105800,
+        "bytes": 2300855,
+        "sha256": "a3153d25b7b772384771b30f1ff62cef651a04c0601890ea1e00b9481951b252",
+        "sharedAyahs": [
+          "18:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 16.97,
+            "end": 106.12
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 363050,
+        "durationMs": 363050,
+        "recordingDurationMs": 363050,
+        "bytes": 7506753,
+        "sha256": "144f1fe8a73bcc9f9bf5b604ac3285b03cb2236ef79915fa0528afc78101b8b5",
+        "sharedAyahs": [
+          "18:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 106.12,
+            "end": 469.15
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 106680,
+        "durationMs": 106680,
+        "recordingDurationMs": 106680,
+        "bytes": 2254888,
+        "sha256": "6737e6f3e777a0d1439d81b2a2262405357a1bf6a628b6f3d4530f0ace685a86",
+        "sharedAyahs": [
+          "18:23",
+          "18:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 469.15,
+            "end": 575.8
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 114470,
+        "durationMs": 114470,
+        "recordingDurationMs": 114470,
+        "bytes": 2378997,
+        "sha256": "c03baed39a0499039dbe5f0ddc25e951292bf87119dd05ce0b30226bfbd73cd9",
+        "sharedAyahs": [
+          "18:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 575.8,
+            "end": 690.24
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 201560,
+        "durationMs": 201560,
+        "recordingDurationMs": 201560,
+        "bytes": 4223242,
+        "sha256": "a4a29bc46d85646544523a50dfdae2d1456b1c98ab43fba9bb0a2968838b7ba6",
+        "sharedAyahs": [
+          "18:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 690.24,
+            "end": 891.78
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 115380,
+        "durationMs": 115380,
+        "recordingDurationMs": 115380,
+        "bytes": 2461291,
+        "sha256": "a1d68a1d1150bb8cea1647e67418470a875c5682dcc4430ce0ac852f516e4a2c",
+        "sharedAyahs": [
+          "18:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 891.78,
+            "end": 1007.14
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 382250,
+        "durationMs": 382250,
+        "recordingDurationMs": 382250,
+        "bytes": 7923191,
+        "sha256": "1ea0d6c1e71caf217f5f9cdec682fa5b24fc113dc35126d94f5e2e3f53db118f",
+        "sharedAyahs": [
+          "18:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1007.14,
+            "end": 1389.35
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 331038,
+        "durationMs": 331038,
+        "recordingDurationMs": 1767860,
+        "bytes": 36903516,
+        "sha256": "558e91f64b8513d28c4f5a288a1b361f0a71b5a88f8670ab8ab623abb3f0847e",
+        "sharedAyahs": [
+          "18:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1389.35,
+            "end": 1720.38
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-112.mp3",
+        "startMs": 0,
+        "endMs": 5150,
+        "durationMs": 5150,
+        "recordingDurationMs": 5150,
+        "bytes": 91718,
+        "sha256": "e5fc10b85bc33f4285aa29e8a8ff5b2f89f9c108921d4ee0b085f0647ec3a7cd",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1720.38,
             "end": 1725.54
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-005.mp3",
-        "durationMs": 1630560,
-        "bytes": 34009289,
-        "sha256": "7a00437b2675b9b488f903bf49fad45d9a3803fad8bdefbbce5dc94836400775",
+        "file": "018-الكهف-youtube-v1/introduction-113.mp3",
+        "startMs": 0,
+        "endMs": 19410,
+        "durationMs": 19410,
+        "recordingDurationMs": 19410,
+        "bytes": 364545,
+        "sha256": "46a7727ae0449d0d6c469662c7223993e4ba77b4895ac6cb6a42f90b7e165a5e",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-005",
             "start": 0,
+            "end": 19.38
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/029.mp3",
+        "startMs": 331038,
+        "endMs": 1767860,
+        "durationMs": 1436822,
+        "recordingDurationMs": 1767860,
+        "bytes": 36903516,
+        "sha256": "558e91f64b8513d28c4f5a288a1b361f0a71b5a88f8670ab8ab623abb3f0847e",
+        "sharedAyahs": [
+          "18:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 19.38,
+            "end": 1456.15
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 171900,
+        "durationMs": 171900,
+        "recordingDurationMs": 215220,
+        "bytes": 4482000,
+        "sha256": "228bb13e05a7f0600822d7fa8008f75fec9f3aca241d762737951657cbd9f106",
+        "sharedAyahs": [
+          "18:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 1456.15,
+            "end": 1628.04
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-114.mp3",
+        "startMs": 0,
+        "endMs": 2510,
+        "durationMs": 2510,
+        "recordingDurationMs": 2510,
+        "bytes": 45839,
+        "sha256": "a44603b971a91636855c2ae97f3e75cb3c35e863250e21cc27c3f85754069e56",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 1628.04,
             "end": 1630.56
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-006.mp3",
-        "durationMs": 1700810,
-        "bytes": 35693640,
-        "sha256": "68a93fb95df71cf1a929d58082f397a298ae571525f2eb16c0a600719d9b7267",
+        "file": "018-الكهف-youtube-v1/introduction-115.mp3",
+        "startMs": 0,
+        "endMs": 20660,
+        "durationMs": 20660,
+        "recordingDurationMs": 20660,
+        "bytes": 407494,
+        "sha256": "ad11946477b6059a86a023b087a5d9fdae44b49560a3512c12dc89dd581ccb01",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-006",
             "start": 0,
+            "end": 20.62
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/030.mp3",
+        "startMs": 171900,
+        "endMs": 215220,
+        "durationMs": 43320,
+        "recordingDurationMs": 215220,
+        "bytes": 4482000,
+        "sha256": "228bb13e05a7f0600822d7fa8008f75fec9f3aca241d762737951657cbd9f106",
+        "sharedAyahs": [
+          "18:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 20.62,
+            "end": 63.9
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 954120,
+        "durationMs": 954120,
+        "recordingDurationMs": 954120,
+        "bytes": 20205742,
+        "sha256": "fda149409aad597b20877d95083e13e8d1e446e3106d161d37bf55b2a7a4ceb1",
+        "sharedAyahs": [
+          "18:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 63.9,
+            "end": 1018.0
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 635660,
+        "durationMs": 635660,
+        "recordingDurationMs": 635660,
+        "bytes": 13226427,
+        "sha256": "7e565f7e697d9d8ecc79a6742b5b27161c4ab00eee25c11b03d571b452264c8e",
+        "sharedAyahs": [
+          "18:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 1018.0,
+            "end": 1653.64
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 42150,
+        "durationMs": 42150,
+        "recordingDurationMs": 362270,
+        "bytes": 7940025,
+        "sha256": "41f97585f1c938bfe79aa6dd96559452b22713888278a2b12d4608d8aa2b230d",
+        "sharedAyahs": [
+          "18:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 1653.64,
+            "end": 1695.78
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-116.mp3",
+        "startMs": 0,
+        "endMs": 5020,
+        "durationMs": 5020,
+        "recordingDurationMs": 5020,
+        "bytes": 96461,
+        "sha256": "8f47fc09e0073b4ecbf4cd0b844cfe3b067f4c9f3518989e3f8734d5d6ff15f6",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 1695.78,
             "end": 1700.81
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-007.mp3",
-        "durationMs": 1661730,
-        "bytes": 35363192,
-        "sha256": "bf39bde319c493a02a098347d0072260b580f77cb1146567f41a6b0ead014872",
+        "file": "018-الكهف-youtube-v1/introduction-117.mp3",
+        "startMs": 0,
+        "endMs": 16900,
+        "durationMs": 16900,
+        "recordingDurationMs": 16900,
+        "bytes": 346701,
+        "sha256": "c5049fa7b304c7c72244ec82afb8830b2c1dbbffb9c88b89b3ae74df569bc94a",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-007",
             "start": 0,
+            "end": 16.86
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/033.mp3",
+        "startMs": 42150,
+        "endMs": 362270,
+        "durationMs": 320120,
+        "recordingDurationMs": 362270,
+        "bytes": 7940025,
+        "sha256": "41f97585f1c938bfe79aa6dd96559452b22713888278a2b12d4608d8aa2b230d",
+        "sharedAyahs": [
+          "18:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 16.86,
+            "end": 336.93
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 107340,
+        "durationMs": 107340,
+        "recordingDurationMs": 107340,
+        "bytes": 2346833,
+        "sha256": "afb1c8fd7cef6a542b2d5328dbaeae225a4b0036ed246785dd93132ba165275c",
+        "sharedAyahs": [
+          "18:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 336.93,
+            "end": 444.25
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 193380,
+        "durationMs": 193380,
+        "recordingDurationMs": 193380,
+        "bytes": 4052369,
+        "sha256": "e15b4ded21353e11b99033b112a5407c343c2f8182e7950a0bd1de77434f0821",
+        "sharedAyahs": [
+          "18:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 444.25,
+            "end": 637.61
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 69360,
+        "durationMs": 69360,
+        "recordingDurationMs": 69360,
+        "bytes": 1464726,
+        "sha256": "25af1c44266b1b119754424fde0063e49c32e62f5ade1d047efe182ee9b6bdea",
+        "sharedAyahs": [
+          "18:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 637.61,
+            "end": 706.93
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 252190,
+        "durationMs": 252190,
+        "recordingDurationMs": 252190,
+        "bytes": 5409793,
+        "sha256": "db83d7a907221c44fc351a6788698837203eb84677af4a422127d953485c71be",
+        "sharedAyahs": [
+          "18:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 706.93,
+            "end": 959.09
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 73480,
+        "durationMs": 73480,
+        "recordingDurationMs": 73480,
+        "bytes": 1555924,
+        "sha256": "2210753f0d057168e6908b214601f95f25c3a24e5db763cdbd9fab3fccf3a301",
+        "sharedAyahs": [
+          "18:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 959.09,
+            "end": 1032.56
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 626457,
+        "durationMs": 626457,
+        "recordingDurationMs": 870710,
+        "bytes": 17915835,
+        "sha256": "8393c622f9e39340555ba416a93505698f27f6dedd82b741095798bf2239119d",
+        "sharedAyahs": [
+          "18:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 1032.56,
+            "end": 1659.01
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-118.mp3",
+        "startMs": 0,
+        "endMs": 2720,
+        "durationMs": 2720,
+        "recordingDurationMs": 2720,
+        "bytes": 46271,
+        "sha256": "8543c10bab2824663542f5726300f6232ff1149d24eb0b7876b0c751884e0fcc",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 1659.01,
             "end": 1661.73
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-008.mp3",
-        "durationMs": 1734710,
-        "bytes": 34633052,
-        "sha256": "c2807b7ea757cf83c2b1eb57db12cb7509c07c0b56a03b0ac140fda4d582ddc8",
+        "file": "018-الكهف-youtube-v1/introduction-119.mp3",
+        "startMs": 0,
+        "endMs": 26490,
+        "durationMs": 26490,
+        "recordingDurationMs": 26490,
+        "bytes": 497284,
+        "sha256": "f1d8aefd72eb3a268bb3ca767bd9fb4245f1217201d8e72b8080fe4af77bd277",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-008",
             "start": 0,
+            "end": 26.44
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/039.mp3",
+        "startMs": 626457,
+        "endMs": 870710,
+        "durationMs": 244253,
+        "recordingDurationMs": 870710,
+        "bytes": 17915835,
+        "sha256": "8393c622f9e39340555ba416a93505698f27f6dedd82b741095798bf2239119d",
+        "sharedAyahs": [
+          "18:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 26.44,
+            "end": 270.68
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 295710,
+        "durationMs": 295710,
+        "recordingDurationMs": 295710,
+        "bytes": 5914586,
+        "sha256": "5129822f233c26c9f90193deb07309615268d74a5407dd59849e68e80982a363",
+        "sharedAyahs": [
+          "18:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 270.68,
+            "end": 566.35
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 56320,
+        "durationMs": 56320,
+        "recordingDurationMs": 56320,
+        "bytes": 1133670,
+        "sha256": "5e3979d1d27fded3a9d0bd7176a8be3d0000a8dc5a387b66f11de053e0ffd3fa",
+        "sharedAyahs": [
+          "18:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 566.35,
+            "end": 622.65
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 200120,
+        "durationMs": 200120,
+        "recordingDurationMs": 200120,
+        "bytes": 3964112,
+        "sha256": "b72b23dfa0f46ec17422d7d760ad3a14deff367a74093589e7e1f41494dbf925",
+        "sharedAyahs": [
+          "18:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 622.65,
+            "end": 822.73
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 145580,
+        "durationMs": 145580,
+        "recordingDurationMs": 145580,
+        "bytes": 2866270,
+        "sha256": "a96162a6cc0b1a2b5f3514abfc304c4500c04f79c8604181b0a881b05f137b98",
+        "sharedAyahs": [
+          "18:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 822.73,
+            "end": 968.3
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 69720,
+        "durationMs": 69720,
+        "recordingDurationMs": 69720,
+        "bytes": 1410012,
+        "sha256": "c5a6727a8040f40b57b50c5323a245dddd9eb2dc67f62e0039b90f5d70313b7c",
+        "sharedAyahs": [
+          "18:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 968.3,
+            "end": 1038.0
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 340430,
+        "durationMs": 340430,
+        "recordingDurationMs": 340430,
+        "bytes": 6980252,
+        "sha256": "3980bd28e569f39ae44f9005e2e4e4493205f321b27cfa0991fcb89fb702c3e5",
+        "sharedAyahs": [
+          "18:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 1038.0,
+            "end": 1378.4
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 353738,
+        "durationMs": 353738,
+        "recordingDurationMs": 555100,
+        "bytes": 11466333,
+        "sha256": "81ca8556b37e09cf20a3dc9ef63c7f4deb58d8fc48570269ebdfd8e4d3cf11c2",
+        "sharedAyahs": [
+          "18:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 1378.4,
+            "end": 1732.11
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-120.mp3",
+        "startMs": 0,
+        "endMs": 2590,
+        "durationMs": 2590,
+        "recordingDurationMs": 2590,
+        "bytes": 42273,
+        "sha256": "befef89dbec205ea8ff080197508f2a313bdd1d32a0715e178b749636701359e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 1732.11,
             "end": 1734.71
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-009.mp3",
-        "durationMs": 1721360,
-        "bytes": 38412020,
-        "sha256": "c64c56ffc09272fc5c329a702558e2a0b3242a07d0573480bcd9e94b41b58543",
+        "file": "018-الكهف-youtube-v1/introduction-121.mp3",
+        "startMs": 0,
+        "endMs": 25470,
+        "durationMs": 25470,
+        "recordingDurationMs": 25470,
+        "bytes": 457768,
+        "sha256": "6e0600c2009e0081894ea3556f88ffb17d1cd373452aae01ab26cf3287f95182",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-009",
             "start": 0,
+            "end": 25.42
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/046.mp3",
+        "startMs": 353738,
+        "endMs": 555100,
+        "durationMs": 201362,
+        "recordingDurationMs": 555100,
+        "bytes": 11466333,
+        "sha256": "81ca8556b37e09cf20a3dc9ef63c7f4deb58d8fc48570269ebdfd8e4d3cf11c2",
+        "sharedAyahs": [
+          "18:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 25.42,
+            "end": 226.75
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 214180,
+        "durationMs": 214180,
+        "recordingDurationMs": 214180,
+        "bytes": 4821165,
+        "sha256": "bdff2fc0c41427ebbfbbdcc44b423425e44e7d9d4d98245ec079c9feac9cce25",
+        "sharedAyahs": [
+          "18:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 226.75,
+            "end": 440.9
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 258660,
+        "durationMs": 258660,
+        "recordingDurationMs": 258660,
+        "bytes": 5674388,
+        "sha256": "ccdddcca238103c95ece933c693271ce83bb88e26cd620b1cdefee592075d563",
+        "sharedAyahs": [
+          "18:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 440.9,
+            "end": 699.55
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 226690,
+        "durationMs": 226690,
+        "recordingDurationMs": 226690,
+        "bytes": 4943998,
+        "sha256": "e104af11922927e798472f268025400d1e68bf4984ee21ee417b333b70c72a1c",
+        "sharedAyahs": [
+          "18:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 699.55,
+            "end": 926.2
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 298210,
+        "durationMs": 298210,
+        "recordingDurationMs": 298210,
+        "bytes": 6757517,
+        "sha256": "592fcc8c5c7e25930a0a9efbb8d1c1c11f5bf9fc18c7396ea4d453307b58dd67",
+        "sharedAyahs": [
+          "18:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 926.2,
+            "end": 1224.4
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 196410,
+        "durationMs": 196410,
+        "recordingDurationMs": 196410,
+        "bytes": 4450682,
+        "sha256": "cae74258e29fd72603cfde9107387f7be8f285960e8be565a48ce5f9b0b0b1e9",
+        "sharedAyahs": [
+          "18:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 1224.4,
+            "end": 1420.8
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 169430,
+        "durationMs": 169430,
+        "recordingDurationMs": 169430,
+        "bytes": 3879693,
+        "sha256": "b0391615c52b09a8fa19a1a627659e332d9f7016b078a4b94d30172bbd922a39",
+        "sharedAyahs": [
+          "18:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 1420.8,
+            "end": 1590.18
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 120350,
+        "durationMs": 120350,
+        "recordingDurationMs": 120350,
+        "bytes": 2718863,
+        "sha256": "599a28462dd9dc5e03f47e91cb58553d912d113dc25a2a8003833c0a80c59c33",
+        "sharedAyahs": [
+          "18:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 1590.18,
+            "end": 1710.51
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 5970,
+        "durationMs": 5970,
+        "recordingDurationMs": 217700,
+        "bytes": 4875777,
+        "sha256": "19975ddcb3e661c9b81ecb5b93d2a874ff42de242d3c12aa4cec5835a61147bd",
+        "sharedAyahs": [
+          "18:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 1710.51,
+            "end": 1716.47
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-122.mp3",
+        "startMs": 0,
+        "endMs": 4880,
+        "durationMs": 4880,
+        "recordingDurationMs": 4880,
+        "bytes": 104744,
+        "sha256": "bf7fa26a290de3e4d0deedc295ad0da008fa0130a836c6406e9f37e0568894ed",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 1716.47,
             "end": 1721.36
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-010.mp3",
-        "durationMs": 1697800,
-        "bytes": 36898156,
-        "sha256": "8d52037670af2a2d0940137d116523d883f92aed2542b6972a5c3a56c97b589f",
+        "file": "018-الكهف-youtube-v1/introduction-123.mp3",
+        "startMs": 0,
+        "endMs": 21580,
+        "durationMs": 21580,
+        "recordingDurationMs": 21580,
+        "bytes": 457015,
+        "sha256": "5775d9ea891a69babda9ffac24200a827ec0603e1584c3c96a6461244918017a",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-010",
             "start": 0,
+            "end": 21.54
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/054.mp3",
+        "startMs": 5970,
+        "endMs": 217700,
+        "durationMs": 211730,
+        "recordingDurationMs": 217700,
+        "bytes": 4875777,
+        "sha256": "19975ddcb3e661c9b81ecb5b93d2a874ff42de242d3c12aa4cec5835a61147bd",
+        "sharedAyahs": [
+          "18:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 21.54,
+            "end": 233.24
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 109480,
+        "durationMs": 109480,
+        "recordingDurationMs": 109480,
+        "bytes": 2473417,
+        "sha256": "58e71200e0862fdd654f184a2766ec40f30c46a2b671c82de2abae2f9e7890c2",
+        "sharedAyahs": [
+          "18:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 233.24,
+            "end": 342.7
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 43230,
+        "durationMs": 43230,
+        "recordingDurationMs": 43230,
+        "bytes": 914418,
+        "sha256": "2b931a21c1ae1d3bd44d20ae6c7c821df8ca13f0fd4f770e55e15ae46de205d4",
+        "sharedAyahs": [
+          "18:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 342.7,
+            "end": 385.9
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 256780,
+        "durationMs": 256780,
+        "recordingDurationMs": 256780,
+        "bytes": 5486673,
+        "sha256": "0f327dc35adb011a73d56dd675ae4e75c801f3e8a316d9907038775b26505f6e",
+        "sharedAyahs": [
+          "18:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 385.9,
+            "end": 642.66
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 28500,
+        "durationMs": 28500,
+        "recordingDurationMs": 28500,
+        "bytes": 616592,
+        "sha256": "127fd86e16e291e1ddf195b8306b78c4e7feedab1446b9f89daddc6a15cbde8c",
+        "sharedAyahs": [
+          "18:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 642.66,
+            "end": 671.13
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 143600,
+        "durationMs": 143600,
+        "recordingDurationMs": 143600,
+        "bytes": 3140326,
+        "sha256": "8784cf9b351a30e208ffb45834fb36186d06c5c5614e8b5a4e20b410e90cb09a",
+        "sharedAyahs": [
+          "18:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 671.13,
+            "end": 814.69
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 598130,
+        "durationMs": 598130,
+        "recordingDurationMs": 598130,
+        "bytes": 12924360,
+        "sha256": "9b8a1942c311dcbf8b2fbc4180226b2b5c1970d1ead535da6508dba7c0c9b482",
+        "sharedAyahs": [
+          "18:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 814.69,
+            "end": 1412.8
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 198010,
+        "durationMs": 198010,
+        "recordingDurationMs": 198010,
+        "bytes": 4286233,
+        "sha256": "1d93f736bd302c235dff95800cc1ec1329449b49ec488685e35ca2fefe40139f",
+        "sharedAyahs": [
+          "18:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 1412.8,
+            "end": 1610.78
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 43310,
+        "durationMs": 43310,
+        "recordingDurationMs": 43310,
+        "bytes": 939131,
+        "sha256": "f1a6b46be334023bad3735470bc3b6c461eaf8846909dcfdcb7e80aee3b69dc1",
+        "sharedAyahs": [
+          "18:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 1610.78,
+            "end": 1654.05
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 37761,
+        "durationMs": 37761,
+        "recordingDurationMs": 270940,
+        "bytes": 5384279,
+        "sha256": "e5bf52f066ab64ca91adb3d55842cd1f13fe79c284e681d8c1ff63470d875f35",
+        "sharedAyahs": [
+          "18:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 1654.05,
+            "end": 1691.8
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-124.mp3",
+        "startMs": 0,
+        "endMs": 5980,
+        "durationMs": 5980,
+        "recordingDurationMs": 5980,
+        "bytes": 123434,
+        "sha256": "59e1890c99067a90324bb073e72a2edab459401c7be8d72b093fca46db782440",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 1691.8,
             "end": 1697.8
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-011.mp3",
-        "durationMs": 1686830,
-        "bytes": 34057876,
-        "sha256": "9fcc2941937108b0d3baf6f6af2cd99906c7a22e433e159c28e76fd7c5bda4eb",
+        "file": "018-الكهف-youtube-v1/introduction-125.mp3",
+        "startMs": 0,
+        "endMs": 29990,
+        "durationMs": 29990,
+        "recordingDurationMs": 29990,
+        "bytes": 587098,
+        "sha256": "5b99f240b7999b365330e6a9dbf8744913535f3b61de521d754fad5076572d3a",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-011",
             "start": 0,
+            "end": 29.94
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/063.mp3",
+        "startMs": 37761,
+        "endMs": 270940,
+        "durationMs": 233179,
+        "recordingDurationMs": 270940,
+        "bytes": 5384279,
+        "sha256": "e5bf52f066ab64ca91adb3d55842cd1f13fe79c284e681d8c1ff63470d875f35",
+        "sharedAyahs": [
+          "18:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 29.94,
+            "end": 263.09
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 47600,
+        "durationMs": 47600,
+        "recordingDurationMs": 47600,
+        "bytes": 961035,
+        "sha256": "bb9d98b4751d2d52104301ed94e748f33fe94824c49e8e902a09dc89c15bdb56",
+        "sharedAyahs": [
+          "18:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 263.09,
+            "end": 310.65
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 276240,
+        "durationMs": 276240,
+        "recordingDurationMs": 276240,
+        "bytes": 5536624,
+        "sha256": "2265ca20e9af9ed77b04ee42a7531f4f584fe9bc6bb8ffca25cd2f04ebce117b",
+        "sharedAyahs": [
+          "18:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 310.65,
+            "end": 586.89
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 347140,
+        "durationMs": 347140,
+        "recordingDurationMs": 347140,
+        "bytes": 7107258,
+        "sha256": "c3496390e7d4b5970ef7bbe081c26234850b06643f1696e8982d5fabe06aa7ef",
+        "sharedAyahs": [
+          "18:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 586.89,
+            "end": 934.0
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 52090,
+        "durationMs": 52090,
+        "recordingDurationMs": 52090,
+        "bytes": 1046313,
+        "sha256": "bb6d83a1c8cdfb737bbe09103227544ab12a30047b4112b2ade45ef9f6160d2d",
+        "sharedAyahs": [
+          "18:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 934.0,
+            "end": 986.06
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 72670,
+        "durationMs": 72670,
+        "recordingDurationMs": 72670,
+        "bytes": 1450416,
+        "sha256": "f8789dcce5235bca19db27a02e74aaa959173b24f1bae17b159eec76f646c3ab",
+        "sharedAyahs": [
+          "18:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 986.06,
+            "end": 1058.71
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 31220,
+        "durationMs": 31220,
+        "recordingDurationMs": 31220,
+        "bytes": 637535,
+        "sha256": "531be029e4e563cef369c3850a4daeeeb712580c28f5aaacf2fd7fd6525d559e",
+        "sharedAyahs": [
+          "18:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1058.71,
+            "end": 1089.9
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 39520,
+        "durationMs": 39520,
+        "recordingDurationMs": 39520,
+        "bytes": 798687,
+        "sha256": "be8b4a2894c89a6fc8b980821918d1ae7202c36f0c61b2ce107a0d6fdd3042a4",
+        "sharedAyahs": [
+          "18:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1089.9,
+            "end": 1129.4
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 150520,
+        "durationMs": 150520,
+        "recordingDurationMs": 150520,
+        "bytes": 3031848,
+        "sha256": "8a003051aed08345524004cdc6b2322574dc18d702549dae5467bd819efb35d0",
+        "sharedAyahs": [
+          "18:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1129.4,
+            "end": 1279.89
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 42290,
+        "durationMs": 42290,
+        "recordingDurationMs": 42290,
+        "bytes": 860669,
+        "sha256": "8c6f115e59261f8bb01c348d19d121a539dfbc1caf7d0ad60dea4ca3a8532b54",
+        "sharedAyahs": [
+          "18:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1279.89,
+            "end": 1322.16
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 13770,
+        "durationMs": 13770,
+        "recordingDurationMs": 13770,
+        "bytes": 273614,
+        "sha256": "352a65fab6efc563298017b000be90601747f8f0af3cbb63286fba96fa7b3f12",
+        "sharedAyahs": [
+          "18:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1322.16,
+            "end": 1335.9
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 48270,
+        "durationMs": 48270,
+        "recordingDurationMs": 48270,
+        "bytes": 984857,
+        "sha256": "a7045a755d9c53a52e23cb0ff6ee338dafb944fe565a13efb643649ff2a3e86d",
+        "sharedAyahs": [
+          "18:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1335.9,
+            "end": 1384.14
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 52920,
+        "durationMs": 52920,
+        "recordingDurationMs": 52920,
+        "bytes": 1103038,
+        "sha256": "41034a3da02297f7354a15ba60684cc7b7da233094650b7d1ea27b11406c2f88",
+        "sharedAyahs": [
+          "18:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1384.14,
+            "end": 1437.03
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 38820,
+        "durationMs": 38820,
+        "recordingDurationMs": 38820,
+        "bytes": 792416,
+        "sha256": "1168d9c6a5524b5be3364fe9a6e92b536c6daa83116faa3bdee0fe2592be5c97",
+        "sharedAyahs": [
+          "18:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1437.03,
+            "end": 1475.84
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 203168,
+        "durationMs": 203168,
+        "recordingDurationMs": 464430,
+        "bytes": 9522421,
+        "sha256": "80734eee8906a69945aeb8817f9266b40cd079e79594382d91806e33620230c2",
+        "sharedAyahs": [
+          "18:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1475.84,
+            "end": 1678.98
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-126.mp3",
+        "startMs": 0,
+        "endMs": 7840,
+        "durationMs": 7840,
+        "recordingDurationMs": 7840,
+        "bytes": 161789,
+        "sha256": "51aabc7e9a3cde892ac916c0b999ed6796cde3fcea322b671aab2aff7eefdc15",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1678.98,
             "end": 1686.83
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-012.mp3",
-        "durationMs": 1687280,
-        "bytes": 34554527,
-        "sha256": "ebd1e6ce38aa193d2b730675531e39dab5f0bf2df4f150afee9fff2152c19004",
+        "file": "018-الكهف-youtube-v1/introduction-127.mp3",
+        "startMs": 0,
+        "endMs": 18960,
+        "durationMs": 18960,
+        "recordingDurationMs": 18960,
+        "bytes": 382489,
+        "sha256": "86f287e5db6dc2584d4e58c6a7f7f1077875dcd9582c55bdcdec11294179c4e9",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-012",
             "start": 0,
+            "end": 18.92
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/077.mp3",
+        "startMs": 203168,
+        "endMs": 464430,
+        "durationMs": 261262,
+        "recordingDurationMs": 464430,
+        "bytes": 9522421,
+        "sha256": "80734eee8906a69945aeb8817f9266b40cd079e79594382d91806e33620230c2",
+        "sharedAyahs": [
+          "18:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 18.92,
+            "end": 280.15
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 122720,
+        "durationMs": 122720,
+        "recordingDurationMs": 122720,
+        "bytes": 2548427,
+        "sha256": "606818b65dcbed8e0b0da35e49f3d9fee33658895d6caf888c0a010e63c64b7b",
+        "sharedAyahs": [
+          "18:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 280.15,
+            "end": 402.85
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 683810,
+        "durationMs": 683810,
+        "recordingDurationMs": 683810,
+        "bytes": 13971667,
+        "sha256": "5844cdc387297277e953ec60d4b040fe3603412459ee0e00cf96bc690997a208",
+        "sharedAyahs": [
+          "18:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 402.85,
+            "end": 1086.62
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 85660,
+        "durationMs": 85660,
+        "recordingDurationMs": 85660,
+        "bytes": 1786686,
+        "sha256": "54d955e64ee18ad9fa4dd5a3e6e76c8e81c19d88f3c65379ffbbeb6e34c5d84c",
+        "sharedAyahs": [
+          "18:80",
+          "18:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 1086.62,
+            "end": 1172.27
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 324750,
+        "durationMs": 324750,
+        "recordingDurationMs": 324750,
+        "bytes": 6567897,
+        "sha256": "4af168311bac8dfb384da0fd5b394148cb83615a2c1c5313a4f8a4168e75d13e",
+        "sharedAyahs": [
+          "18:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 1172.27,
+            "end": 1497.0
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 183498,
+        "durationMs": 183498,
+        "recordingDurationMs": 674800,
+        "bytes": 13747552,
+        "sha256": "6374671b1cc6042d39867eb0a4efd89c0888c57b59e76860fe5f3d82133fbe3e",
+        "sharedAyahs": [
+          "18:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 1497.0,
+            "end": 1680.48
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-128.mp3",
+        "startMs": 0,
+        "endMs": 6790,
+        "durationMs": 6790,
+        "recordingDurationMs": 6790,
+        "bytes": 140142,
+        "sha256": "84c41fe1485890150887d42f1d1c77e3f2a9980226a3132efd99e56028888184",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 1680.48,
             "end": 1687.28
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-013.mp3",
-        "durationMs": 1681160,
-        "bytes": 34370257,
-        "sha256": "a0c94aa0688b368b379c71eca6c40cf49d39f8ef40b824223a43b1c32e8f8274",
+        "file": "018-الكهف-youtube-v1/introduction-129.mp3",
+        "startMs": 0,
+        "endMs": 27530,
+        "durationMs": 27530,
+        "recordingDurationMs": 27530,
+        "bytes": 538042,
+        "sha256": "0ca34706cb804cd7ce2c49f10066fedd45db005b1d7772fd95c077ed8a210ad9",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-013",
             "start": 0,
+            "end": 27.5
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/083.mp3",
+        "startMs": 183498,
+        "endMs": 231041,
+        "durationMs": 47543,
+        "recordingDurationMs": 674800,
+        "bytes": 13747552,
+        "sha256": "6374671b1cc6042d39867eb0a4efd89c0888c57b59e76860fe5f3d82133fbe3e",
+        "sharedAyahs": [
+          "18:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 27.5,
+            "end": 75.0
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/other-135.mp3",
+        "startMs": 0,
+        "endMs": 304400,
+        "durationMs": 304400,
+        "recordingDurationMs": 304400,
+        "bytes": 6066579,
+        "sha256": "4894f46e6078ad1eb19ecf2f4f0deb1ac4a96bedd4a009a67480f962d316f19e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 75.0,
+            "end": 379.4
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/other-136.mp3",
+        "startMs": 0,
+        "endMs": 42190,
+        "durationMs": 42190,
+        "recordingDurationMs": 42190,
+        "bytes": 862245,
+        "sha256": "1eb1a77f228d423cbc818ee591a4804f5478def696550cbb8979506d092df2ee",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 379.4,
+            "end": 421.55
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/other-137.mp3",
+        "startMs": 0,
+        "endMs": 129460,
+        "durationMs": 129460,
+        "recordingDurationMs": 129460,
+        "bytes": 2649735,
+        "sha256": "23125c34f762e63c806be5c417a0dceeca70770dd356f08aaf5290238ecfb720",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 421.55,
+            "end": 551.0
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/083.mp3",
+        "startMs": 231041,
+        "endMs": 674800,
+        "durationMs": 443759,
+        "recordingDurationMs": 674800,
+        "bytes": 13747552,
+        "sha256": "6374671b1cc6042d39867eb0a4efd89c0888c57b59e76860fe5f3d82133fbe3e",
+        "sharedAyahs": [
+          "18:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 551.0,
+            "end": 994.7
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 289490,
+        "durationMs": 289490,
+        "recordingDurationMs": 289490,
+        "bytes": 6047113,
+        "sha256": "6b7f78ad1e0a47a79c9079dbd3ad1f77589f1972474bf62d10318110c4b033ba",
+        "sharedAyahs": [
+          "18:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 994.7,
+            "end": 1284.16
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 140410,
+        "durationMs": 140410,
+        "recordingDurationMs": 140410,
+        "bytes": 2879238,
+        "sha256": "bad1cdc997535955fbcb15b92f0bdd74f7744938c824e3c8c34640d26c50bc5a",
+        "sharedAyahs": [
+          "18:85",
+          "18:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1284.16,
+            "end": 1424.55
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 128440,
+        "durationMs": 128440,
+        "recordingDurationMs": 128440,
+        "bytes": 2715113,
+        "sha256": "86b1282ee2a592fe0642c1ee2a8b7f22e470c7f52ddcb226f7d6be484313439d",
+        "sharedAyahs": [
+          "18:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1424.55,
+            "end": 1552.98
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 118570,
+        "durationMs": 118570,
+        "recordingDurationMs": 118570,
+        "bytes": 2487273,
+        "sha256": "03e7b395ee867b1efb3a5e199c561fc027521b5418c9fc5f6a73f017bb13e9d0",
+        "sharedAyahs": [
+          "18:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1552.98,
+            "end": 1671.5
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 2574,
+        "durationMs": 2574,
+        "recordingDurationMs": 224940,
+        "bytes": 4599919,
+        "sha256": "c1f9fd86c881edf6bd40a3941530c84febe775da4f72978b1d3742731566a827",
+        "sharedAyahs": [
+          "18:89",
+          "18:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1671.5,
+            "end": 1674.08
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-130.mp3",
+        "startMs": 0,
+        "endMs": 7080,
+        "durationMs": 7080,
+        "recordingDurationMs": 7080,
+        "bytes": 151372,
+        "sha256": "59345f6d542a84b77cb4d76a546e395bd01c57f3f4554e22ebd1c0775b095ea1",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1674.08,
             "end": 1681.16
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-014.mp3",
-        "durationMs": 1722440,
-        "bytes": 33836671,
-        "sha256": "df52b2e5f7108e0cd31c8e368aebf020413e0388c7b7f486bf005e866c460fc8",
+        "file": "018-الكهف-youtube-v1/introduction-131.mp3",
+        "startMs": 0,
+        "endMs": 23170,
+        "durationMs": 23170,
+        "recordingDurationMs": 23170,
+        "bytes": 465107,
+        "sha256": "e15fc13b5badca29d5d8b68211147eae613a856c94622e7a83c627c6df73c4e5",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-014",
             "start": 0,
+            "end": 23.13
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/089.mp3",
+        "startMs": 2574,
+        "endMs": 224940,
+        "durationMs": 222366,
+        "recordingDurationMs": 224940,
+        "bytes": 4599919,
+        "sha256": "c1f9fd86c881edf6bd40a3941530c84febe775da4f72978b1d3742731566a827",
+        "sharedAyahs": [
+          "18:89",
+          "18:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 23.13,
+            "end": 245.46
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/091.mp3",
+        "startMs": 0,
+        "endMs": 13450,
+        "durationMs": 13450,
+        "recordingDurationMs": 13450,
+        "bytes": 287199,
+        "sha256": "f059bad9b4eb1344fb6978a59f1ef820c05cb29ff9ca4a14487216fe98207b13",
+        "sharedAyahs": [
+          "18:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 245.46,
+            "end": 258.89
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 75760,
+        "durationMs": 75760,
+        "recordingDurationMs": 75760,
+        "bytes": 1539532,
+        "sha256": "baca20d841e3ce358a9d6624536dec826279857da9a50129234b6252c94e74db",
+        "sharedAyahs": [
+          "18:92",
+          "18:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 258.89,
+            "end": 334.62
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/094.mp3",
+        "startMs": 0,
+        "endMs": 278440,
+        "durationMs": 278440,
+        "recordingDurationMs": 278440,
+        "bytes": 5496900,
+        "sha256": "5cd398872b4b12a60f375c70e6afbfcdf9ce7c57836152f1c6040702f011a567",
+        "sharedAyahs": [
+          "18:94"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 334.62,
+            "end": 613.04
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/095.mp3",
+        "startMs": 0,
+        "endMs": 161850,
+        "durationMs": 161850,
+        "recordingDurationMs": 161850,
+        "bytes": 3172397,
+        "sha256": "9cb3ac43aaf935fc762ba6ccd827a17b0caa7bd9eb8133916687e802ee61e1a6",
+        "sharedAyahs": [
+          "18:95"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 613.04,
+            "end": 774.85
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/096.mp3",
+        "startMs": 0,
+        "endMs": 206520,
+        "durationMs": 206520,
+        "recordingDurationMs": 206520,
+        "bytes": 4067224,
+        "sha256": "4686bef9f756d331620337246ab77aedd03d6401a0dd72cb8b00c91be09d2d77",
+        "sharedAyahs": [
+          "18:96"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 774.85,
+            "end": 981.35
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/097.mp3",
+        "startMs": 0,
+        "endMs": 25780,
+        "durationMs": 25780,
+        "recordingDurationMs": 25780,
+        "bytes": 500046,
+        "sha256": "d28ef44f8ce174f994d38d571241d1190a35250b4b0d47e11583c9c4102d6451",
+        "sharedAyahs": [
+          "18:97"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 981.35,
+            "end": 1007.1
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/098.mp3",
+        "startMs": 0,
+        "endMs": 133560,
+        "durationMs": 133560,
+        "recordingDurationMs": 133560,
+        "bytes": 2585431,
+        "sha256": "221d5acea9c2da4b603e872c61a6e01f19736ff636c5de4bd82a0608ef48dfbf",
+        "sharedAyahs": [
+          "18:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 1007.1,
+            "end": 1140.65
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/099.mp3",
+        "startMs": 0,
+        "endMs": 263990,
+        "durationMs": 263990,
+        "recordingDurationMs": 263990,
+        "bytes": 5132217,
+        "sha256": "f672d876fc37bb0906efdd7e68a689c14b111e287ca3315d825276c707307c9c",
+        "sharedAyahs": [
+          "18:99"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 1140.65,
+            "end": 1404.63
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/100.mp3",
+        "startMs": 0,
+        "endMs": 250510,
+        "durationMs": 250510,
+        "recordingDurationMs": 250510,
+        "bytes": 4760655,
+        "sha256": "69b8f50b71aabcd0fb4c71a70181c5a8ea4369f2521aaf649f4b9ee2e09cfcfd",
+        "sharedAyahs": [
+          "18:100"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 1404.63,
+            "end": 1655.11
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/101.mp3",
+        "startMs": 0,
+        "endMs": 61794,
+        "durationMs": 61794,
+        "recordingDurationMs": 250830,
+        "bytes": 4835084,
+        "sha256": "eae9445df00c338d63d72f0afd3fac645ed3a63ef418b98152230a92027c9c83",
+        "sharedAyahs": [
+          "18:101"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 1655.11,
+            "end": 1716.88
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-132.mp3",
+        "startMs": 0,
+        "endMs": 5540,
+        "durationMs": 5540,
+        "recordingDurationMs": 5540,
+        "bytes": 116353,
+        "sha256": "9d18a51fe424b2231ad1e094a8aeb67d9e90c9405da2c9ae980066c7f0bfda36",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 1716.88,
             "end": 1722.44
           }
         ]
       },
       {
-        "file": "018-الكهف-youtube-v1/full-015.mp3",
-        "durationMs": 2281090,
-        "bytes": 43405823,
-        "sha256": "0f48b7cfcaf636e48ee0c6c6f697f0c85e867f3ad6035e247c84389aedb5ceaf",
+        "file": "018-الكهف-youtube-v1/introduction-133.mp3",
+        "startMs": 0,
+        "endMs": 19570,
+        "durationMs": 19570,
+        "recordingDurationMs": 19570,
+        "bytes": 379069,
+        "sha256": "e48f109728952ea996a1e4251646c1609aade506e6e1d9ea4f17c5fd30476ea8",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-015",
             "start": 0,
+            "end": 19.53
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/101.mp3",
+        "startMs": 61794,
+        "endMs": 250830,
+        "durationMs": 189036,
+        "recordingDurationMs": 250830,
+        "bytes": 4835084,
+        "sha256": "eae9445df00c338d63d72f0afd3fac645ed3a63ef418b98152230a92027c9c83",
+        "sharedAyahs": [
+          "18:101"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 19.53,
+            "end": 208.52
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/102.mp3",
+        "startMs": 0,
+        "endMs": 116580,
+        "durationMs": 116580,
+        "recordingDurationMs": 116580,
+        "bytes": 2356939,
+        "sha256": "40d01a1e642e0de65d16ed5a46d735c73bda746ac09c9e45874e10a438f0e678",
+        "sharedAyahs": [
+          "18:102"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 208.52,
+            "end": 325.08
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/103.mp3",
+        "startMs": 0,
+        "endMs": 22180,
+        "durationMs": 22180,
+        "recordingDurationMs": 22180,
+        "bytes": 431897,
+        "sha256": "a534c5bdb3f284b36511f679f33fb0ca72d5fadd0b277fdbe257bf4917121d15",
+        "sharedAyahs": [
+          "18:103"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 325.08,
+            "end": 347.24
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/104.mp3",
+        "startMs": 0,
+        "endMs": 447870,
+        "durationMs": 447870,
+        "recordingDurationMs": 447870,
+        "bytes": 8641553,
+        "sha256": "7a876669c2ec0dc1c2af8c8b34eb0a7ac29a798e6e2c65e3138cf7414a242af1",
+        "sharedAyahs": [
+          "18:104"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 347.24,
+            "end": 795.09
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/105.mp3",
+        "startMs": 0,
+        "endMs": 175670,
+        "durationMs": 175670,
+        "recordingDurationMs": 175670,
+        "bytes": 3327580,
+        "sha256": "5c597e1fcf5c4ca3203030275c261dbee3c5e295b0591124e0433b4de9d7e698",
+        "sharedAyahs": [
+          "18:105"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 795.09,
+            "end": 970.72
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/106.mp3",
+        "startMs": 0,
+        "endMs": 108720,
+        "durationMs": 108720,
+        "recordingDurationMs": 108720,
+        "bytes": 2074937,
+        "sha256": "7caf4468b013546ae01fba1cad45134cee61552f8fa7c9b071773aeb18e20dec",
+        "sharedAyahs": [
+          "18:106"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 970.72,
+            "end": 1079.43
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/107.mp3",
+        "startMs": 0,
+        "endMs": 376610,
+        "durationMs": 376610,
+        "recordingDurationMs": 376610,
+        "bytes": 7219396,
+        "sha256": "aa0bf08707dc35c54fe69e4075a2148ed22b2b9b7e6da6a739c4b445d033d2d1",
+        "sharedAyahs": [
+          "18:107"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1079.43,
+            "end": 1455.99
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/108.mp3",
+        "startMs": 0,
+        "endMs": 153310,
+        "durationMs": 153310,
+        "recordingDurationMs": 153310,
+        "bytes": 2890116,
+        "sha256": "73b1e55df3fc6c9c4445d464e41073c60c9f09c5c5ea2f8d613bd05e0f1fb4bb",
+        "sharedAyahs": [
+          "18:108"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1455.99,
+            "end": 1609.28
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/109.mp3",
+        "startMs": 0,
+        "endMs": 324340,
+        "durationMs": 324340,
+        "recordingDurationMs": 324340,
+        "bytes": 6083407,
+        "sha256": "d1281589eeecef9694d631003e3936282c24b9faca139c7249559a8817335b67",
+        "sharedAyahs": [
+          "18:109"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1609.28,
+            "end": 1933.6
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/110.mp3",
+        "startMs": 0,
+        "endMs": 345390,
+        "durationMs": 345390,
+        "recordingDurationMs": 345390,
+        "bytes": 6330025,
+        "sha256": "b48c6d2ec0b2ff16d438f3ff88490dc0eb2f622e31b1e6503a1b02525fad02f2",
+        "sharedAyahs": [
+          "18:110"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1933.6,
+            "end": 2278.96
+          }
+        ]
+      },
+      {
+        "file": "018-الكهف-youtube-v1/closing-134.mp3",
+        "startMs": 0,
+        "endMs": 2120,
+        "durationMs": 2120,
+        "recordingDurationMs": 2120,
+        "bytes": 38677,
+        "sha256": "74b91a5a4501e30a6bd6d4fc7a7ff181603b3f5be1f90e7548cdba34797a588a",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 2278.96,
             "end": 2281.06
           }
         ]
       }
     ],
-    "durationMs": 26080220,
-    "bytes": 536168809
+    "durationMs": 26083820,
+    "additionalAudioBytes": 0
   }
 }

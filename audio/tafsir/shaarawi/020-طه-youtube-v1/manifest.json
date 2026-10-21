@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "collection": "shaarawi",
   "speaker": "محمد متولي الشعراوي",
   "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي على يوتيوب",
@@ -3214,6 +3214,7 @@
   "audioProcessing": "Balanced MP3 source, -16 LUFS; exports copy MP3 frames without re-encoding",
   "alignmentMethod": "Old semantic ayah groups; acoustic speech matching; local ASR quotation candidates; pause adjustment",
   "fullSurah": {
+    "mode": "reused-clips",
     "sourceOrder": [
       "yt-001",
       "yt-002",
@@ -3236,246 +3237,3372 @@
     "includesIntroductionsAndRecaps": true,
     "tracks": [
       {
-        "file": "020-طه-youtube-v1/full-001.mp3",
-        "durationMs": 1872640,
-        "bytes": 37326321,
-        "sha256": "a57803d1a1038a293356796b413b7afcbb117ac400e664e605acb3fef49508cc",
+        "file": "020-طه-youtube-v1/introduction-123.mp3",
+        "startMs": 0,
+        "endMs": 26380,
+        "durationMs": 26380,
+        "recordingDurationMs": 26380,
+        "bytes": 515877,
+        "sha256": "7e47d018dd67c225359609babd38ebc864000bfa7344c196c7a147afd75a88af",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-001",
-            "start": 0,
+            "start": 0.0,
+            "end": 26.34
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 383840,
+        "durationMs": 383840,
+        "recordingDurationMs": 383840,
+        "bytes": 7712526,
+        "sha256": "0e17dfbf3255e8fbd5ba93c416d9adc6a365e78c0a00dc547e064ce1d0490ec9",
+        "sharedAyahs": [
+          "20:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 26.34,
+            "end": 410.155
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 444580,
+        "durationMs": 444580,
+        "recordingDurationMs": 444580,
+        "bytes": 8924746,
+        "sha256": "dc8840adefc1f8f678c5bb938886a102de214553a3deb2486fd98fcee224468f",
+        "sharedAyahs": [
+          "20:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 410.155,
+            "end": 854.725
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 40620,
+        "durationMs": 40620,
+        "recordingDurationMs": 40620,
+        "bytes": 788096,
+        "sha256": "1ecdbf74a57756738627c8befbcbc9e27222e10004bcbe3448d76fdf071211e0",
+        "sharedAyahs": [
+          "20:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 854.725,
+            "end": 895.305
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 610820,
+        "durationMs": 610820,
+        "recordingDurationMs": 610820,
+        "bytes": 12120239,
+        "sha256": "918a13cfd59d3c6db2a1b7c90b2925e628ea83c933954c4f54dceada40144ca1",
+        "sharedAyahs": [
+          "20:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 895.305,
+            "end": 1506.095
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 161020,
+        "durationMs": 161020,
+        "recordingDurationMs": 161020,
+        "bytes": 3245383,
+        "sha256": "5b15c01d3f37aa0999724f427233458bdb6dc04c78d350da5c1b8968950a65a7",
+        "sharedAyahs": [
+          "20:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1506.095,
+            "end": 1667.095
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 165170,
+        "durationMs": 165170,
+        "recordingDurationMs": 165170,
+        "bytes": 3270743,
+        "sha256": "8adc40dbdd97f6ee99dd6a245d732138e4ad2282c02524ce22a53a2da1ef8cc4",
+        "sharedAyahs": [
+          "20:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1667.095,
+            "end": 1832.255
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 35306,
+        "durationMs": 35306,
+        "recordingDurationMs": 244140,
+        "bytes": 4965309,
+        "sha256": "2864cbcbf926fa2162fa594fd66a182410dcf68e4f4f4f3deed1872e73397355",
+        "sharedAyahs": [
+          "20:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1832.255,
+            "end": 1867.53
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-124.mp3",
+        "startMs": 0,
+        "endMs": 5090,
+        "durationMs": 5090,
+        "recordingDurationMs": 5090,
+        "bytes": 89431,
+        "sha256": "83e85804ee6970daa1c9c62588b8b04d9892c6e9a599fd4c6c1807ea38cf77e9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 1867.53,
             "end": 1872.64
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-002.mp3",
-        "durationMs": 2722800,
-        "bytes": 56395812,
-        "sha256": "b2429759bc1b354936394c0a0452911bebe779edc8c90c61454d663f76391ec7",
+        "file": "020-طه-youtube-v1/introduction-125.mp3",
+        "startMs": 0,
+        "endMs": 25180,
+        "durationMs": 25180,
+        "recordingDurationMs": 25180,
+        "bytes": 497642,
+        "sha256": "469674a9101bfc2a6623641c20b04add5aa9be80323ba7814d898efe5c323384",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-002",
-            "start": 0,
+            "start": 0.0,
+            "end": 25.15
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/007.mp3",
+        "startMs": 35306,
+        "endMs": 50666,
+        "durationMs": 15360,
+        "recordingDurationMs": 244140,
+        "bytes": 4965309,
+        "sha256": "2864cbcbf926fa2162fa594fd66a182410dcf68e4f4f4f3deed1872e73397355",
+        "sharedAyahs": [
+          "20:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 25.15,
+            "end": 40.49
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/introduction-07.mp3",
+        "startMs": 0,
+        "endMs": 152110,
+        "durationMs": 152110,
+        "recordingDurationMs": 152110,
+        "bytes": 3116820,
+        "sha256": "5dee30b0c2ce6955bf911cf19480b1c83fcafcf8b2e06ea6435baf3cd5102b2f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 40.49,
+            "end": 192.569
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/007.mp3",
+        "startMs": 50666,
+        "endMs": 244140,
+        "durationMs": 193474,
+        "recordingDurationMs": 244140,
+        "bytes": 4965309,
+        "sha256": "2864cbcbf926fa2162fa594fd66a182410dcf68e4f4f4f3deed1872e73397355",
+        "sharedAyahs": [
+          "20:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 192.569,
+            "end": 385.995
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 497080,
+        "durationMs": 497080,
+        "recordingDurationMs": 497080,
+        "bytes": 10428487,
+        "sha256": "ec516b91525fff3c0f92817fea6a3cb490b5d17a6ae74759aec841c683d1d038",
+        "sharedAyahs": [
+          "20:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 385.995,
+            "end": 883.065
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 254300,
+        "durationMs": 254300,
+        "recordingDurationMs": 254300,
+        "bytes": 5260613,
+        "sha256": "d04c85feb0de074e2381fd981d4642fd18ade8d86655f6001afe9bda32685328",
+        "sharedAyahs": [
+          "20:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 883.065,
+            "end": 1137.345
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 456910,
+        "durationMs": 456910,
+        "recordingDurationMs": 456910,
+        "bytes": 9518191,
+        "sha256": "1992bc6940fd1115459e16c2fc2a76c76aefc5a1230e94ffb4944f06f7055372",
+        "sharedAyahs": [
+          "20:10",
+          "20:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 1137.345,
+            "end": 1594.205
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 362210,
+        "durationMs": 362210,
+        "recordingDurationMs": 362210,
+        "bytes": 7489500,
+        "sha256": "b3e06cdd7ff240b49d4885a31bd3e1624951167805ffdedbecd8d877fac5727b",
+        "sharedAyahs": [
+          "20:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 1594.205,
+            "end": 1956.415
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 751322,
+        "durationMs": 751322,
+        "recordingDurationMs": 1022960,
+        "bytes": 21344740,
+        "sha256": "0fb069c72ac7f34a3d0cdf6305c93791b7adc014d1643ecaf95d206134c198ce",
+        "sharedAyahs": [
+          "20:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 1956.415,
+            "end": 2707.7
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-126.mp3",
+        "startMs": 0,
+        "endMs": 15070,
+        "durationMs": 15070,
+        "recordingDurationMs": 15070,
+        "bytes": 298555,
+        "sha256": "74ecaf9c5e25f003702986e77398765b9e7a455150e112ad955be004c9b39dd9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 2707.7,
             "end": 2722.8
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-003.mp3",
-        "durationMs": 2727970,
-        "bytes": 62015863,
-        "sha256": "59ff86c69d955a9ebf571a106c1f3af3bec4e9aa3b3e0fbaa05a13bf0f7d2fc2",
+        "file": "020-طه-youtube-v1/introduction-127.mp3",
+        "startMs": 0,
+        "endMs": 20950,
+        "durationMs": 20950,
+        "recordingDurationMs": 20950,
+        "bytes": 441027,
+        "sha256": "1e248ab741abad5e5ba09e1e6074f21e60002c34e9eb5aef6f01e5506d4bcde1",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-003",
-            "start": 0,
+            "start": 0.0,
+            "end": 20.91
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/013.mp3",
+        "startMs": 751322,
+        "endMs": 1022960,
+        "durationMs": 271638,
+        "recordingDurationMs": 1022960,
+        "bytes": 21344740,
+        "sha256": "0fb069c72ac7f34a3d0cdf6305c93791b7adc014d1643ecaf95d206134c198ce",
+        "sharedAyahs": [
+          "20:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 20.91,
+            "end": 292.495
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 901960,
+        "durationMs": 901960,
+        "recordingDurationMs": 901960,
+        "bytes": 20699764,
+        "sha256": "0bb2fc2583bc3e8c1eaaa3de0c4b96253730507c1f2274c79b0fd1cd1f731ca9",
+        "sharedAyahs": [
+          "20:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 292.495,
+            "end": 1194.435
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 929960,
+        "durationMs": 929960,
+        "recordingDurationMs": 929960,
+        "bytes": 21368608,
+        "sha256": "b13ea421b02dab2c9c83a161819593a98dfb9247821dbfdfee835723909ac078",
+        "sharedAyahs": [
+          "20:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 1194.435,
+            "end": 2124.365
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 87820,
+        "durationMs": 87820,
+        "recordingDurationMs": 87820,
+        "bytes": 2007865,
+        "sha256": "4ec8ca0fe092f96153ece51d868d151dac052c4517393862c35589afc79e0973",
+        "sharedAyahs": [
+          "20:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 2124.365,
+            "end": 2212.156
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/introduction-16.mp3",
+        "startMs": 0,
+        "endMs": 28110,
+        "durationMs": 28110,
+        "recordingDurationMs": 28110,
+        "bytes": 656369,
+        "sha256": "601d5ccf47027cd0b308687ee63ad5b5b327665c615d7c3a9434513a9ca4ed7d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 2212.156,
+            "end": 2240.245
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 147200,
+        "durationMs": 147200,
+        "recordingDurationMs": 147200,
+        "bytes": 3278515,
+        "sha256": "5c647bbcf1cd9a5c30b877e4edb329341f8fd9dc9e4f18d4b7e0cb53028cd1c3",
+        "sharedAyahs": [
+          "20:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 2240.245,
+            "end": 2387.415
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 338352,
+        "durationMs": 338352,
+        "recordingDurationMs": 1042550,
+        "bytes": 22855321,
+        "sha256": "a9c62f858a9d178ca0a8d29d6a6c8cccea4e69d232bf49125255cd2108852d94",
+        "sharedAyahs": [
+          "20:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 2387.415,
+            "end": 2725.76
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-128.mp3",
+        "startMs": 0,
+        "endMs": 2190,
+        "durationMs": 2190,
+        "recordingDurationMs": 2190,
+        "bytes": 43742,
+        "sha256": "9497585c52fb354132329f132f81a8d0557c7a19b99c0c7d32f2883900c0de30",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 2725.76,
             "end": 2727.97
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-004.mp3",
-        "durationMs": 2697330,
-        "bytes": 57891631,
-        "sha256": "bb93813c12bcd40fcad9101847fe087fa882a14e0596061ff28088f6238830ea",
+        "file": "020-طه-youtube-v1/introduction-129.mp3",
+        "startMs": 0,
+        "endMs": 18000,
+        "durationMs": 18000,
+        "recordingDurationMs": 18000,
+        "bytes": 393426,
+        "sha256": "0c4d8d1c975b65a25626975e39cdf6e1f8c2fc833495c8f2fbe7c62728a20bca",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-004",
-            "start": 0,
+            "start": 0.0,
+            "end": 17.95
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/018.mp3",
+        "startMs": 338352,
+        "endMs": 1042550,
+        "durationMs": 704198,
+        "recordingDurationMs": 1042550,
+        "bytes": 22855321,
+        "sha256": "a9c62f858a9d178ca0a8d29d6a6c8cccea4e69d232bf49125255cd2108852d94",
+        "sharedAyahs": [
+          "20:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 17.95,
+            "end": 722.126
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 243150,
+        "durationMs": 243150,
+        "recordingDurationMs": 243150,
+        "bytes": 5290353,
+        "sha256": "3c6f493d79c16428e453a3cbabc5bf65a6ee35fd9cf2e96723efe0e7331e32e1",
+        "sharedAyahs": [
+          "20:19",
+          "20:20",
+          "20:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 722.126,
+            "end": 965.235
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 262610,
+        "durationMs": 262610,
+        "recordingDurationMs": 262610,
+        "bytes": 5669095,
+        "sha256": "3bafdc88f33ce04df0646aed9e71e908e3f85486b39ce1aa50b96601d2fb79af",
+        "sharedAyahs": [
+          "20:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 965.235,
+            "end": 1227.815
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 143620,
+        "durationMs": 143620,
+        "recordingDurationMs": 143620,
+        "bytes": 3060320,
+        "sha256": "2d333dc0bd2da736fb19e96e007bbdaf6e002721955d078ee0344cb30b8c5066",
+        "sharedAyahs": [
+          "20:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1227.815,
+            "end": 1371.405
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 47330,
+        "durationMs": 47330,
+        "recordingDurationMs": 47330,
+        "bytes": 1036183,
+        "sha256": "24d89ff6aa1cea17c1cb84b590ff6ca69f02cc1cd212ac60067a391a8ef41858",
+        "sharedAyahs": [
+          "20:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1371.405,
+            "end": 1418.735
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 68650,
+        "durationMs": 68650,
+        "recordingDurationMs": 68650,
+        "bytes": 1481073,
+        "sha256": "745328fd60ae58ad5c07834619f9f75f0e8d7961dfd62adde454bd1fc52832a3",
+        "sharedAyahs": [
+          "20:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1418.735,
+            "end": 1487.345
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 11440,
+        "durationMs": 11440,
+        "recordingDurationMs": 11440,
+        "bytes": 239067,
+        "sha256": "10bdb759fe33edf6cb89b78e78cbad2e29ae8b3e99ee38fbc205a743eb55975d",
+        "sharedAyahs": [
+          "20:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1487.345,
+            "end": 1498.775
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 99710,
+        "durationMs": 99710,
+        "recordingDurationMs": 99710,
+        "bytes": 2122617,
+        "sha256": "2773d803a86a58648c0e1cf6b67c5e6eea73e55b52f75b9acca29f0bd64977e3",
+        "sharedAyahs": [
+          "20:27",
+          "20:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1498.775,
+            "end": 1598.455
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 607090,
+        "durationMs": 607090,
+        "recordingDurationMs": 607090,
+        "bytes": 12911701,
+        "sha256": "83a4f3a2e02d28ea283af407ef46a103c27233749e6856c612dc283882a383b1",
+        "sharedAyahs": [
+          "20:29",
+          "20:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 1598.455,
+            "end": 2205.505
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 128470,
+        "durationMs": 128470,
+        "recordingDurationMs": 128470,
+        "bytes": 2736554,
+        "sha256": "c6393eb5d15ec9d25e988f17cc780c4f994276ea295f229ce3d70758e7ab90b5",
+        "sharedAyahs": [
+          "20:31",
+          "20:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2205.505,
+            "end": 2333.945
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 88400,
+        "durationMs": 88400,
+        "recordingDurationMs": 88400,
+        "bytes": 1898724,
+        "sha256": "843eb3ff0b60e1bf19acf1a6024f007c60df4a4bf9e0f7d97e958594241b2381",
+        "sharedAyahs": [
+          "20:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2333.945,
+            "end": 2422.325
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 12880,
+        "durationMs": 12880,
+        "recordingDurationMs": 12880,
+        "bytes": 275603,
+        "sha256": "8c6212c6fb33c6ba5648cd3335cb47c248ec20d153c1e30171d590fd11a08195",
+        "sharedAyahs": [
+          "20:34",
+          "20:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2422.325,
+            "end": 2435.175
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 40670,
+        "durationMs": 40670,
+        "recordingDurationMs": 40670,
+        "bytes": 869573,
+        "sha256": "2aa9f7ececeb6553122cb922e28f5ed77323c7030f3973ff46894c3ea2ce51df",
+        "sharedAyahs": [
+          "20:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2435.175,
+            "end": 2475.815
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 109101,
+        "durationMs": 109101,
+        "recordingDurationMs": 166240,
+        "bytes": 3605470,
+        "sha256": "bdbafda4bd541f9ae3f351ffd1d650249dca08ae36c5e522fb17c45488d25a33",
+        "sharedAyahs": [
+          "20:37",
+          "20:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2475.815,
+            "end": 2584.915
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 104452,
+        "durationMs": 104452,
+        "recordingDurationMs": 832240,
+        "bytes": 18503933,
+        "sha256": "06ba5401041af1d05b0dee8438b0d004c88f4dcd7b66839b753688a8d70bd36b",
+        "sharedAyahs": [
+          "20:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2584.915,
+            "end": 2689.342
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/037.mp3",
+        "startMs": 109101,
+        "endMs": 109154,
+        "durationMs": 53,
+        "recordingDurationMs": 166240,
+        "bytes": 3605470,
+        "sha256": "bdbafda4bd541f9ae3f351ffd1d650249dca08ae36c5e522fb17c45488d25a33",
+        "sharedAyahs": [
+          "20:37",
+          "20:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2689.342,
+            "end": 2689.38
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-130.mp3",
+        "startMs": 0,
+        "endMs": 7940,
+        "durationMs": 7940,
+        "recordingDurationMs": 7940,
+        "bytes": 180411,
+        "sha256": "43da7695cf59b0bcdfc0a8edceae8be3f976a499e2b97d2d6401b098d8c086a9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2689.38,
             "end": 2697.33
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-005.mp3",
-        "durationMs": 2730840,
-        "bytes": 59717344,
-        "sha256": "ebaae65f72a70bbc68d8c6ebaef4f00865fe72346befe5136e577638653b8509",
+        "file": "020-طه-youtube-v1/introduction-131.mp3",
+        "startMs": 0,
+        "endMs": 23380,
+        "durationMs": 23380,
+        "recordingDurationMs": 23380,
+        "bytes": 517246,
+        "sha256": "079bc17c60ad7c6d5a92dabfd9ee68dc0d43004eaf1abbf3371332da7aa3b2b9",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-005",
-            "start": 0,
+            "start": 0.0,
+            "end": 23.35
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/037.mp3",
+        "startMs": 109154,
+        "endMs": 166240,
+        "durationMs": 57086,
+        "recordingDurationMs": 166240,
+        "bytes": 3605470,
+        "sha256": "bdbafda4bd541f9ae3f351ffd1d650249dca08ae36c5e522fb17c45488d25a33",
+        "sharedAyahs": [
+          "20:37",
+          "20:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 23.35,
+            "end": 80.405
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/039.mp3",
+        "startMs": 104452,
+        "endMs": 832240,
+        "durationMs": 727788,
+        "recordingDurationMs": 832240,
+        "bytes": 18503933,
+        "sha256": "06ba5401041af1d05b0dee8438b0d004c88f4dcd7b66839b753688a8d70bd36b",
+        "sharedAyahs": [
+          "20:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 80.405,
+            "end": 808.133
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 503850,
+        "durationMs": 503850,
+        "recordingDurationMs": 503850,
+        "bytes": 11260117,
+        "sha256": "2d27428ee05df611e0e1a75308a479583667d58c2942e2ec7f4324ee534e8ae8",
+        "sharedAyahs": [
+          "20:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 808.133,
+            "end": 1311.968
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/introduction-34.mp3",
+        "startMs": 0,
+        "endMs": 125810,
+        "durationMs": 125810,
+        "recordingDurationMs": 125810,
+        "bytes": 2806039,
+        "sha256": "fc5e74a65eca56821f75267c00c24d524f0468bf43ae3f86e44b198022ddd9d1",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 1311.968,
+            "end": 1437.735
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 2510,
+        "durationMs": 2510,
+        "recordingDurationMs": 2510,
+        "bytes": 55082,
+        "sha256": "eb2427d7a88116de6e27c53e2ea0f125dc63c942dce4eeca82e83337848c4d14",
+        "sharedAyahs": [
+          "20:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 1437.735,
+            "end": 1440.235
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 53520,
+        "durationMs": 53520,
+        "recordingDurationMs": 53520,
+        "bytes": 1181204,
+        "sha256": "abf51312ba35fd28bad0379e561b55d7c9556c511adc24712a6ecd9780a9ac3d",
+        "sharedAyahs": [
+          "20:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 1440.235,
+            "end": 1493.725
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 26310,
+        "durationMs": 26310,
+        "recordingDurationMs": 26310,
+        "bytes": 580736,
+        "sha256": "6ae38c3b30114105e26656b4217b0a045c4371fc1a26db121566087afa88478a",
+        "sharedAyahs": [
+          "20:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 1493.725,
+            "end": 1519.995
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 344480,
+        "durationMs": 344480,
+        "recordingDurationMs": 344480,
+        "bytes": 7496476,
+        "sha256": "df4eedd61cb95803c9371d30c3f32b6422b750ffebb229a819c2c1093eddb2d0",
+        "sharedAyahs": [
+          "20:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 1519.995,
+            "end": 1864.455
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 257070,
+        "durationMs": 257070,
+        "recordingDurationMs": 257070,
+        "bytes": 5491131,
+        "sha256": "3efcfa0e01888aa1a9d01fdcb480cf7b048786e50f8cd1396295d8706dbc3982",
+        "sharedAyahs": [
+          "20:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 1864.455,
+            "end": 2121.505
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 121700,
+        "durationMs": 121700,
+        "recordingDurationMs": 121700,
+        "bytes": 2591256,
+        "sha256": "b8d40c16a72053ce2920a486eb6e393a96cb06dcff7a66b08d49185a75d7bf34",
+        "sharedAyahs": [
+          "20:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 2121.505,
+            "end": 2243.175
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 318280,
+        "durationMs": 318280,
+        "recordingDurationMs": 318280,
+        "bytes": 6677244,
+        "sha256": "153a4c471a1597ef0aabc89ba5788acfb0897fe3ff0ebda95b9407bb883e241f",
+        "sharedAyahs": [
+          "20:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 2243.175,
+            "end": 2561.435
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 39650,
+        "durationMs": 39650,
+        "recordingDurationMs": 39650,
+        "bytes": 848233,
+        "sha256": "c8f59d6feb736fde164441ab3f92ba99dd23c935965fcc9ba971c9abcd9d63cc",
+        "sharedAyahs": [
+          "20:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 2561.435,
+            "end": 2601.065
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 8180,
+        "durationMs": 8180,
+        "recordingDurationMs": 8180,
+        "bytes": 163731,
+        "sha256": "603233f31fd0283760fa84c232b240fcfc9f3169ecc60b208de1a0be8d61471f",
+        "sharedAyahs": [
+          "20:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 2601.065,
+            "end": 2609.205
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 118767,
+        "durationMs": 118767,
+        "recordingDurationMs": 862280,
+        "bytes": 18010099,
+        "sha256": "7e5f3260a16fe495e245fa8d963eb9dd9e7f3503cf6562076d4430027c5149a2",
+        "sharedAyahs": [
+          "20:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 2609.205,
+            "end": 2727.95
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-132.mp3",
+        "startMs": 0,
+        "endMs": 2870,
+        "durationMs": 2870,
+        "recordingDurationMs": 2870,
+        "bytes": 62067,
+        "sha256": "d91e99f256a45f2ef6b49aae5a4a7eb664e92b7a074f4420db00d7c3ff672fbd",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 2727.95,
             "end": 2730.84
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-006.mp3",
-        "durationMs": 2689250,
-        "bytes": 56955956,
-        "sha256": "9ea60a4268058a797225a9e7695d4cf3683c29e45ff4ad87f9d27a25bafc4cb5",
+        "file": "020-طه-youtube-v1/introduction-133.mp3",
+        "startMs": 0,
+        "endMs": 19440,
+        "durationMs": 19440,
+        "recordingDurationMs": 19440,
+        "bytes": 397743,
+        "sha256": "df2fe2210b1d221bf8f2ed1f7d95bcd55cc7c9eaf6df2375ee07b7824a621da9",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-006",
-            "start": 0,
+            "start": 0.0,
+            "end": 19.385
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/050.mp3",
+        "startMs": 118767,
+        "endMs": 862280,
+        "durationMs": 743513,
+        "recordingDurationMs": 862280,
+        "bytes": 18010099,
+        "sha256": "7e5f3260a16fe495e245fa8d963eb9dd9e7f3503cf6562076d4430027c5149a2",
+        "sharedAyahs": [
+          "20:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 19.385,
+            "end": 762.855
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 144720,
+        "durationMs": 144720,
+        "recordingDurationMs": 144720,
+        "bytes": 3061589,
+        "sha256": "dd79bb583f41f739d976041d3fce6b7285f1a6e6a839efdfbb77a2d117a7c786",
+        "sharedAyahs": [
+          "20:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 762.855,
+            "end": 907.565
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 16800,
+        "durationMs": 16800,
+        "recordingDurationMs": 16800,
+        "bytes": 357976,
+        "sha256": "95013d29d1bd544f87436fff00ea0bf5b4e31a46509bdf452aa0697fa3b90a0e",
+        "sharedAyahs": [
+          "20:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 907.565,
+            "end": 924.332
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 1204660,
+        "durationMs": 1204660,
+        "recordingDurationMs": 1204660,
+        "bytes": 25627138,
+        "sha256": "a878ae288e6fa5c5f7edebb4e5da51c7d262fe618d0780495d595841c811fc79",
+        "sharedAyahs": [
+          "20:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 924.332,
+            "end": 2128.965
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 371720,
+        "durationMs": 371720,
+        "recordingDurationMs": 371720,
+        "bytes": 7967967,
+        "sha256": "ee0eeed7987b0dcdcabd0851cd6b7cd6846ebd6f810febaa7dec4cedd0a4a85c",
+        "sharedAyahs": [
+          "20:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 2128.965,
+            "end": 2500.675
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 165604,
+        "durationMs": 165604,
+        "recordingDurationMs": 544890,
+        "bytes": 11839764,
+        "sha256": "cf21b09f1c0043c44e5044a31b845ae081c7e0a56e33095a01959a76980ed70c",
+        "sharedAyahs": [
+          "20:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 2500.675,
+            "end": 2666.25
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-134.mp3",
+        "startMs": 0,
+        "endMs": 22990,
+        "durationMs": 22990,
+        "recordingDurationMs": 22990,
+        "bytes": 491636,
+        "sha256": "e6eb0535bcf83d48567c91531c4de6532da9b7e7a8a9117b111e46bf2964acd3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 2666.25,
             "end": 2689.25
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-007.mp3",
-        "durationMs": 2672250,
-        "bytes": 56856984,
-        "sha256": "5f68fba0c516f1b6676949da9aba9ec3cfa8ce89c46f96ca138e620583a6ee0a",
+        "file": "020-طه-youtube-v1/introduction-135.mp3",
+        "startMs": 0,
+        "endMs": 26020,
+        "durationMs": 26020,
+        "recordingDurationMs": 26020,
+        "bytes": 599622,
+        "sha256": "c2cbec59304edb069e2c38e081d0240e5af65dfabf9b0a7eb3be7d4292a98c20",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-007",
-            "start": 0,
+            "start": 0.0,
+            "end": 25.97
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/055.mp3",
+        "startMs": 165604,
+        "endMs": 544890,
+        "durationMs": 379286,
+        "recordingDurationMs": 544890,
+        "bytes": 11839764,
+        "sha256": "cf21b09f1c0043c44e5044a31b845ae081c7e0a56e33095a01959a76980ed70c",
+        "sharedAyahs": [
+          "20:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 25.97,
+            "end": 405.225
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 227340,
+        "durationMs": 227340,
+        "recordingDurationMs": 227340,
+        "bytes": 4847895,
+        "sha256": "bc74eb2943936decded0b6977eadae993b2302040cb29eafa46507fd37d89517",
+        "sharedAyahs": [
+          "20:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 405.225,
+            "end": 632.535
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 146080,
+        "durationMs": 146080,
+        "recordingDurationMs": 146080,
+        "bytes": 3114502,
+        "sha256": "2077376aaf8c415d18cd2cf2eb2eedd8768a65cdafdcd3fa18d5db63c8bb2ac3",
+        "sharedAyahs": [
+          "20:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 632.535,
+            "end": 778.585
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 288470,
+        "durationMs": 288470,
+        "recordingDurationMs": 288470,
+        "bytes": 6203961,
+        "sha256": "eb1ee2e9f73185dc05fa5d98f1530275ba053b4859cef53f7818933278460f00",
+        "sharedAyahs": [
+          "20:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 778.585,
+            "end": 1067.045
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 161720,
+        "durationMs": 161720,
+        "recordingDurationMs": 161720,
+        "bytes": 3465201,
+        "sha256": "4c2eddd43ce611cee8e47a734a936f7f0349c9bafafab514760bfe44e22175fe",
+        "sharedAyahs": [
+          "20:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 1067.045,
+            "end": 1228.725
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 282910,
+        "durationMs": 282910,
+        "recordingDurationMs": 282910,
+        "bytes": 5958841,
+        "sha256": "6010e0fa2132cee4afe8a3f0b6703ee323f6cdfb53e7222f6058033ac15dcd47",
+        "sharedAyahs": [
+          "20:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 1228.725,
+            "end": 1511.605
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 99530,
+        "durationMs": 99530,
+        "recordingDurationMs": 99530,
+        "bytes": 2096365,
+        "sha256": "56d1754dc1201b90c10ae6cc7c49dda5255a31b35015fe866b2262bb33cc3915",
+        "sharedAyahs": [
+          "20:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 1511.605,
+            "end": 1611.125
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 32420,
+        "durationMs": 32420,
+        "recordingDurationMs": 32420,
+        "bytes": 684882,
+        "sha256": "705b8f5abe5028efa86cbce7b36cd89d6f5f403af4db274655816d6936b4ddcd",
+        "sharedAyahs": [
+          "20:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 1611.125,
+            "end": 1643.515
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 676280,
+        "durationMs": 676280,
+        "recordingDurationMs": 676280,
+        "bytes": 14191921,
+        "sha256": "c62a696daf3064173ca8d60fbdac969cbaa11d6d35344134a690221847af2879",
+        "sharedAyahs": [
+          "20:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 1643.515,
+            "end": 2319.764
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 197800,
+        "durationMs": 197800,
+        "recordingDurationMs": 197800,
+        "bytes": 4153783,
+        "sha256": "53aa9d062265091449f2c01f0eb4a02b5c92bd27e462925d7bf688e7cfe1edda",
+        "sharedAyahs": [
+          "20:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 2319.764,
+            "end": 2517.535
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 85278,
+        "durationMs": 85278,
+        "recordingDurationMs": 208640,
+        "bytes": 4474173,
+        "sha256": "76a1959676bf099c603db9963fd764d333ea2a3cdf35e7dfaf4c84d6f0ba7f32",
+        "sharedAyahs": [
+          "20:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 2517.535,
+            "end": 2602.805
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 66783,
+        "durationMs": 66783,
+        "recordingDurationMs": 967500,
+        "bytes": 21285005,
+        "sha256": "06feaf5b8e003c18fe851fe79bec55ab102b25e9f3afe70c7aaf1f01c4d34977",
+        "sharedAyahs": [
+          "20:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 2602.805,
+            "end": 2669.58
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-136.mp3",
+        "startMs": 0,
+        "endMs": 2660,
+        "durationMs": 2660,
+        "recordingDurationMs": 2660,
+        "bytes": 59558,
+        "sha256": "aca5d3341eee718640fa8faf0183402b009191c02d4873cb63f100510979c6b7",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 2669.58,
             "end": 2672.25
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-008.mp3",
-        "durationMs": 2726320,
-        "bytes": 58926273,
-        "sha256": "1fc465ce4e1a3cfc3e6b55787ac20b708845c3a5c6fa285a55af1018da3063e7",
+        "file": "020-طه-youtube-v1/introduction-137.mp3",
+        "startMs": 0,
+        "endMs": 15750,
+        "durationMs": 15750,
+        "recordingDurationMs": 15750,
+        "bytes": 339086,
+        "sha256": "69b7c127c71bc0099e74907671af86b6c20ed3b74163b658beb62b28fff3501c",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-008",
-            "start": 0,
+            "start": 0.0,
+            "end": 15.725
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/066.mp3",
+        "startMs": 66783,
+        "endMs": 83057,
+        "durationMs": 16274,
+        "recordingDurationMs": 967500,
+        "bytes": 21285005,
+        "sha256": "06feaf5b8e003c18fe851fe79bec55ab102b25e9f3afe70c7aaf1f01c4d34977",
+        "sharedAyahs": [
+          "20:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 15.725,
+            "end": 31.952
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/introduction-60.mp3",
+        "startMs": 0,
+        "endMs": 65070,
+        "durationMs": 65070,
+        "recordingDurationMs": 65070,
+        "bytes": 1407150,
+        "sha256": "ffa444fb06cca834aee373fa293a8310e4ca09de34ba41619c16b47f64bd5940",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 31.952,
+            "end": 97.0
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/065.mp3",
+        "startMs": 85278,
+        "endMs": 208640,
+        "durationMs": 123362,
+        "recordingDurationMs": 208640,
+        "bytes": 4474173,
+        "sha256": "76a1959676bf099c603db9963fd764d333ea2a3cdf35e7dfaf4c84d6f0ba7f32",
+        "sharedAyahs": [
+          "20:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 97.0,
+            "end": 220.33
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/066.mp3",
+        "startMs": 83057,
+        "endMs": 967500,
+        "durationMs": 884443,
+        "recordingDurationMs": 967500,
+        "bytes": 21285005,
+        "sha256": "06feaf5b8e003c18fe851fe79bec55ab102b25e9f3afe70c7aaf1f01c4d34977",
+        "sharedAyahs": [
+          "20:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 220.33,
+            "end": 1104.735
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 405290,
+        "durationMs": 405290,
+        "recordingDurationMs": 405290,
+        "bytes": 8737712,
+        "sha256": "d85f595733d430b265c66e1dd2e99185e07ebaca4603149df81e7f52fd59ae65",
+        "sharedAyahs": [
+          "20:67",
+          "20:68",
+          "20:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 1104.735,
+            "end": 1509.997
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 456750,
+        "durationMs": 456750,
+        "recordingDurationMs": 456750,
+        "bytes": 9754122,
+        "sha256": "b8472c4ec995e225526c9aaf2b8ec3014ffc20ef0368aedfba941971c5e12d18",
+        "sharedAyahs": [
+          "20:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 1509.997,
+            "end": 1966.725
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 655150,
+        "durationMs": 655150,
+        "recordingDurationMs": 655150,
+        "bytes": 13889031,
+        "sha256": "dc360c4f92d3cc9f8df812d156cc4b0ecff45fafdf8010942eca1f16262d0f2b",
+        "sharedAyahs": [
+          "20:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 1966.725,
+            "end": 2621.845
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 91469,
+        "durationMs": 91469,
+        "recordingDurationMs": 443820,
+        "bytes": 9412508,
+        "sha256": "f736be4229944774c565ee1bf8b4a6961aa7cb87620d8eb943962b99a402aefe",
+        "sharedAyahs": [
+          "20:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 2621.845,
+            "end": 2713.3
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-138.mp3",
+        "startMs": 0,
+        "endMs": 13010,
+        "durationMs": 13010,
+        "recordingDurationMs": 13010,
+        "bytes": 281544,
+        "sha256": "93fd4ee08b0dbc0b06d06364ab89ac74c655d0bfbefc8f3d020ddece50abd745",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 2713.3,
             "end": 2726.32
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-009.mp3",
-        "durationMs": 2808080,
-        "bytes": 59177790,
-        "sha256": "392b6c8e3584754c7583307a664cfd414e9a122398e730335338012968537919",
+        "file": "020-طه-youtube-v1/introduction-139.mp3",
+        "startMs": 0,
+        "endMs": 19750,
+        "durationMs": 19750,
+        "recordingDurationMs": 19750,
+        "bytes": 459237,
+        "sha256": "6f08545b3dd365151955e823084cc364f573467dfc13a3db275f06e563692ea6",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-009",
-            "start": 0,
+            "start": 0.0,
+            "end": 19.71
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/072.mp3",
+        "startMs": 91469,
+        "endMs": 443820,
+        "durationMs": 352351,
+        "recordingDurationMs": 443820,
+        "bytes": 9412508,
+        "sha256": "f736be4229944774c565ee1bf8b4a6961aa7cb87620d8eb943962b99a402aefe",
+        "sharedAyahs": [
+          "20:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 19.71,
+            "end": 372.025
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 330290,
+        "durationMs": 330290,
+        "recordingDurationMs": 330290,
+        "bytes": 6821736,
+        "sha256": "959a1da4e64dca47e5cf8021eed4a5612c881e8e0aea007b9e704bad0f242b7d",
+        "sharedAyahs": [
+          "20:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 372.025,
+            "end": 702.295
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 344400,
+        "durationMs": 344400,
+        "recordingDurationMs": 344400,
+        "bytes": 7205858,
+        "sha256": "9a3162685f762541e0a0ee8a073c23bf6d73b7a88661e8f37da17b9e1c247e62",
+        "sharedAyahs": [
+          "20:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 702.295,
+            "end": 1046.665
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 230270,
+        "durationMs": 230270,
+        "recordingDurationMs": 230270,
+        "bytes": 4877493,
+        "sha256": "83bff66ba621d6a32e370d0f0c78709ee6ec6226559961a5c92f13c25f6cae22",
+        "sharedAyahs": [
+          "20:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 1046.665,
+            "end": 1276.915
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 519370,
+        "durationMs": 519370,
+        "recordingDurationMs": 519370,
+        "bytes": 10940400,
+        "sha256": "ae2660f1eb3e15df06482a567d4ed18f070e0f892ce0105df59390f29648fa6d",
+        "sharedAyahs": [
+          "20:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 1276.915,
+            "end": 1796.255
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 233640,
+        "durationMs": 233640,
+        "recordingDurationMs": 233640,
+        "bytes": 4906471,
+        "sha256": "abf118d080c36d36d0cfd8ce18a31dbea4a7bfeeeb8ce188a4c6a4d4de7d04e6",
+        "sharedAyahs": [
+          "20:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 1796.255,
+            "end": 2029.855
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 381440,
+        "durationMs": 381440,
+        "recordingDurationMs": 381440,
+        "bytes": 8128614,
+        "sha256": "7a8c751c9f75c23e46814ee4c1489c7916ace4a17b8674e9c560e57d8f3c5224",
+        "sharedAyahs": [
+          "20:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 2029.855,
+            "end": 2411.285
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 150440,
+        "durationMs": 150440,
+        "recordingDurationMs": 150440,
+        "bytes": 3189707,
+        "sha256": "2eb250bd4a08a4ab9fb5e10bc59e6e5e1e35efc8388d7f71c524837e2e9d4cc8",
+        "sharedAyahs": [
+          "20:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 2411.285,
+            "end": 2561.675
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 244390,
+        "durationMs": 244390,
+        "recordingDurationMs": 485540,
+        "bytes": 9853500,
+        "sha256": "6e9be1716e77ada2602366939c6d4fed93871dfebb551c77e23d6f8840619f66",
+        "sharedAyahs": [
+          "20:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 2561.675,
+            "end": 2806.06
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-140.mp3",
+        "startMs": 0,
+        "endMs": 2010,
+        "durationMs": 2010,
+        "recordingDurationMs": 2010,
+        "bytes": 39443,
+        "sha256": "1e6aadc26ead96b04d8ea3ecaf973ef5c2a9c3369923b13d241da27cd3fc4250",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 2806.06,
             "end": 2808.08
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-010.mp3",
-        "durationMs": 2736220,
-        "bytes": 51395711,
-        "sha256": "615dc04060897562c40e90d43843d170ebce0e183352e59d4f07a13c152b7567",
+        "file": "020-طه-youtube-v1/introduction-141.mp3",
+        "startMs": 0,
+        "endMs": 17210,
+        "durationMs": 17210,
+        "recordingDurationMs": 17210,
+        "bytes": 341192,
+        "sha256": "c33e5af3ca0826ff0e18084d6a89bfa251b9d82c6d80554f0929662e77734738",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-010",
-            "start": 0,
+            "start": 0.0,
+            "end": 17.18
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/080.mp3",
+        "startMs": 244390,
+        "endMs": 485540,
+        "durationMs": 241150,
+        "recordingDurationMs": 485540,
+        "bytes": 9853500,
+        "sha256": "6e9be1716e77ada2602366939c6d4fed93871dfebb551c77e23d6f8840619f66",
+        "sharedAyahs": [
+          "20:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 17.18,
+            "end": 258.274
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 1330520,
+        "durationMs": 1330520,
+        "recordingDurationMs": 1330520,
+        "bytes": 25119967,
+        "sha256": "22bcb20a8d65615518a24a443933b1b15825e0197b104a8f76d0a0fa47dbd179",
+        "sharedAyahs": [
+          "20:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 258.274,
+            "end": 1588.794
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 293410,
+        "durationMs": 293410,
+        "recordingDurationMs": 293410,
+        "bytes": 5441962,
+        "sha256": "905be07fbe336c8d460460f99bb92328030f6eae2f4aea2f9b8af9bc8eb613d6",
+        "sharedAyahs": [
+          "20:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 1588.794,
+            "end": 1882.175
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 41090,
+        "durationMs": 41090,
+        "recordingDurationMs": 41090,
+        "bytes": 755931,
+        "sha256": "5b1ea6e8597943b2798a244deb3a06a5c3a0c212d7def76bf84092abeb5926a6",
+        "sharedAyahs": [
+          "20:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 1882.175,
+            "end": 1923.235
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 177950,
+        "durationMs": 177950,
+        "recordingDurationMs": 177950,
+        "bytes": 3320732,
+        "sha256": "d6983dc78fc813c2739aa5bd108f13b33b38b798ec5c42e7f8dc99c77c3d1ec2",
+        "sharedAyahs": [
+          "20:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 1923.235,
+            "end": 2101.145
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 281100,
+        "durationMs": 281100,
+        "recordingDurationMs": 281100,
+        "bytes": 5180680,
+        "sha256": "def13287c1419d8664de962276324eec9753c995a81b55c794548a7bb8a39488",
+        "sharedAyahs": [
+          "20:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 2101.145,
+            "end": 2382.215
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 210760,
+        "durationMs": 210760,
+        "recordingDurationMs": 210760,
+        "bytes": 3914374,
+        "sha256": "be879790689573f90e285d1554ed27f080640adf39970212583170c62f02b32e",
+        "sharedAyahs": [
+          "20:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 2382.215,
+            "end": 2592.955
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 127857,
+        "durationMs": 127857,
+        "recordingDurationMs": 443170,
+        "bytes": 8311037,
+        "sha256": "0d1d795e83744a9afddfed255af6d807c1e2b05951008b0c44650ee6be7827d3",
+        "sharedAyahs": [
+          "20:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 2592.955,
+            "end": 2720.81
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-142.mp3",
+        "startMs": 0,
+        "endMs": 15410,
+        "durationMs": 15410,
+        "recordingDurationMs": 15410,
+        "bytes": 305974,
+        "sha256": "536251372209a7b49a84c996837a2f29a7a3d8c6c799056bafb880e7ebe52098",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 2720.81,
             "end": 2736.22
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-011.mp3",
-        "durationMs": 2690510,
-        "bytes": 50323715,
-        "sha256": "f9fc12df07a149a529e74e65dd4f6163616aee3eba015f3fac594eed01ed87aa",
+        "file": "020-طه-youtube-v1/introduction-143.mp3",
+        "startMs": 0,
+        "endMs": 21920,
+        "durationMs": 21920,
+        "recordingDurationMs": 21920,
+        "bytes": 421235,
+        "sha256": "f4d786a0a4616d70559d9035cd56a7e4b2679b1803780280ea9bf5d5cf41de9e",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-011",
-            "start": 0,
+            "start": 0.0,
+            "end": 21.88
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/087.mp3",
+        "startMs": 127857,
+        "endMs": 443170,
+        "durationMs": 315313,
+        "recordingDurationMs": 443170,
+        "bytes": 8311037,
+        "sha256": "0d1d795e83744a9afddfed255af6d807c1e2b05951008b0c44650ee6be7827d3",
+        "sharedAyahs": [
+          "20:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 21.88,
+            "end": 337.155
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 340820,
+        "durationMs": 340820,
+        "recordingDurationMs": 340820,
+        "bytes": 6334684,
+        "sha256": "a30bca15897b55df8fdeac66a1cd9d706db055273cbff5c14c13ca3595f568f4",
+        "sharedAyahs": [
+          "20:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 337.155,
+            "end": 677.935
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 134090,
+        "durationMs": 134090,
+        "recordingDurationMs": 134090,
+        "bytes": 2528653,
+        "sha256": "c668679749ae70fd8f1d55c458de3e3c58986219a91d77cd77bc768bd13e5fa2",
+        "sharedAyahs": [
+          "20:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 677.935,
+            "end": 812.005
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/090.mp3",
+        "startMs": 0,
+        "endMs": 172380,
+        "durationMs": 172380,
+        "recordingDurationMs": 172380,
+        "bytes": 3251473,
+        "sha256": "8ae2ee623800deb297879337c21b22b5be63d16224d2dbc18c0adbdca81e0eb1",
+        "sharedAyahs": [
+          "20:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 812.005,
+            "end": 984.355
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/091.mp3",
+        "startMs": 0,
+        "endMs": 127270,
+        "durationMs": 127270,
+        "recordingDurationMs": 127270,
+        "bytes": 2424199,
+        "sha256": "6dac62cc76d31b0fbbb3e612ab61a6c7db3c505ab8dd63f2bb6fbcec2406c0d8",
+        "sharedAyahs": [
+          "20:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 984.355,
+            "end": 1111.595
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 160860,
+        "durationMs": 160860,
+        "recordingDurationMs": 160860,
+        "bytes": 3005213,
+        "sha256": "229a33aa637201c1ddab230a88d32ce0b9fe4c8b338375bd91468797e60a476b",
+        "sharedAyahs": [
+          "20:92",
+          "20:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1111.595,
+            "end": 1272.432
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/094.mp3",
+        "startMs": 0,
+        "endMs": 119480,
+        "durationMs": 119480,
+        "recordingDurationMs": 119480,
+        "bytes": 2261115,
+        "sha256": "5ef94eaa34df161a734572f6dd7c1b845fd026f6f41e83c2900427c3bb3d5263",
+        "sharedAyahs": [
+          "20:94"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1272.432,
+            "end": 1391.884
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/095.mp3",
+        "startMs": 0,
+        "endMs": 92060,
+        "durationMs": 92060,
+        "recordingDurationMs": 92060,
+        "bytes": 1728527,
+        "sha256": "07eb294f40c6c29248145ecd8b1017cfb00f96617fe32ca16160e29d393babc9",
+        "sharedAyahs": [
+          "20:95"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1391.884,
+            "end": 1483.915
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/096.mp3",
+        "startMs": 0,
+        "endMs": 493110,
+        "durationMs": 493110,
+        "recordingDurationMs": 493110,
+        "bytes": 9184649,
+        "sha256": "7ef65dfcd05d9e3c981dd2dc50a166b5794308cf001365ed520662b991ccc546",
+        "sharedAyahs": [
+          "20:96"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1483.915,
+            "end": 1977.015
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/097.mp3",
+        "startMs": 0,
+        "endMs": 477810,
+        "durationMs": 477810,
+        "recordingDurationMs": 477810,
+        "bytes": 8905005,
+        "sha256": "ebbc1abdcdf4e91ddb5d97893d3089a6eec4ca217b153ddd7f0315dccedcca3c",
+        "sharedAyahs": [
+          "20:97"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 1977.015,
+            "end": 2454.785
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/098.mp3",
+        "startMs": 0,
+        "endMs": 231093,
+        "durationMs": 231093,
+        "recordingDurationMs": 772700,
+        "bytes": 14142561,
+        "sha256": "eeeebdbca57097cc6922cb02df32915c20ac8375770a04bc8c96d7dd3fb709df",
+        "sharedAyahs": [
+          "20:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 2454.785,
+            "end": 2685.86
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-144.mp3",
+        "startMs": 0,
+        "endMs": 4620,
+        "durationMs": 4620,
+        "recordingDurationMs": 4620,
+        "bytes": 83899,
+        "sha256": "b2a0c30b4f997be8e94e03b147676dcc6b3de51c6ca456e1b01061e4c46ce564",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 2685.86,
             "end": 2690.51
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-012.mp3",
-        "durationMs": 2718070,
-        "bytes": 49950502,
-        "sha256": "302b7f64bd3857796a04ace7ca5551e6c34c1d4f9fde5f6bda65a9f7c879c2a9",
+        "file": "020-طه-youtube-v1/introduction-145.mp3",
+        "startMs": 0,
+        "endMs": 27640,
+        "durationMs": 27640,
+        "recordingDurationMs": 27640,
+        "bytes": 523856,
+        "sha256": "ec3aec21a0adcbe25e8239de371283b0016f70e6604020e002d9aa0a89609bc3",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-012",
-            "start": 0,
+            "start": 0.0,
+            "end": 27.59
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/098.mp3",
+        "startMs": 231093,
+        "endMs": 772700,
+        "durationMs": 541607,
+        "recordingDurationMs": 772700,
+        "bytes": 14142561,
+        "sha256": "eeeebdbca57097cc6922cb02df32915c20ac8375770a04bc8c96d7dd3fb709df",
+        "sharedAyahs": [
+          "20:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 27.59,
+            "end": 569.178
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/099.mp3",
+        "startMs": 0,
+        "endMs": 834090,
+        "durationMs": 834090,
+        "recordingDurationMs": 834090,
+        "bytes": 15223596,
+        "sha256": "ae5ae9b95eddeaa852998ec055ec1833939f9d4237c9262269a0ced955545aaa",
+        "sharedAyahs": [
+          "20:99"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 569.178,
+            "end": 1403.245
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/100.mp3",
+        "startMs": 0,
+        "endMs": 293410,
+        "durationMs": 293410,
+        "recordingDurationMs": 293410,
+        "bytes": 5410215,
+        "sha256": "c8b377ded5500f7351f090ba1da96a65b9a193aba7bbb2b71b42912c351e4b2c",
+        "sharedAyahs": [
+          "20:100"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 1403.245,
+            "end": 1696.605
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/101.mp3",
+        "startMs": 0,
+        "endMs": 37830,
+        "durationMs": 37830,
+        "recordingDurationMs": 37830,
+        "bytes": 710058,
+        "sha256": "5e7fee2035b0acc321cbfd126e4ef4508552951e8f3c88d7b876513a6a990f92",
+        "sharedAyahs": [
+          "20:101"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 1696.605,
+            "end": 1734.415
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/102.mp3",
+        "startMs": 0,
+        "endMs": 119350,
+        "durationMs": 119350,
+        "recordingDurationMs": 119350,
+        "bytes": 2187736,
+        "sha256": "179f70b4d199b7f463440b9b59b4eb710ef26997068ba326868248db3a569c7c",
+        "sharedAyahs": [
+          "20:102"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 1734.415,
+            "end": 1853.75
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/103.mp3",
+        "startMs": 0,
+        "endMs": 483160,
+        "durationMs": 483160,
+        "recordingDurationMs": 483160,
+        "bytes": 8949089,
+        "sha256": "12170309634f8aee7eaa004046f3ed33230d830755059defacb56fc5618a562a",
+        "sharedAyahs": [
+          "20:103",
+          "20:104"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 1853.75,
+            "end": 2336.865
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/105.mp3",
+        "startMs": 0,
+        "endMs": 369882,
+        "durationMs": 369882,
+        "recordingDurationMs": 872280,
+        "bytes": 17425387,
+        "sha256": "0218b68bc1852736d5b7804aa05f80e738c69c9cba4e8eaaa982dfe1f8269517",
+        "sharedAyahs": [
+          "20:105"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 2336.865,
+            "end": 2706.75
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-146.mp3",
+        "startMs": 0,
+        "endMs": 11310,
+        "durationMs": 11310,
+        "recordingDurationMs": 11310,
+        "bytes": 223832,
+        "sha256": "6a6e0f4b7d9e11dd8498eb29222abcd8366848ed798fff2ec9cf85a9af572a44",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 2706.75,
             "end": 2718.07
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-013.mp3",
-        "durationMs": 2736590,
-        "bytes": 57376625,
-        "sha256": "f49129b2fb41a353874fa3487ad88002b29d62781243c433b5b52ab79a627248",
+        "file": "020-طه-youtube-v1/introduction-147.mp3",
+        "startMs": 0,
+        "endMs": 21970,
+        "durationMs": 21970,
+        "recordingDurationMs": 21970,
+        "bytes": 474570,
+        "sha256": "7adb00d445e90fcd2150a00e69fb1170df6628d0868e581ce4e5a754b446d149",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-013",
-            "start": 0,
+            "start": 0.0,
+            "end": 21.93
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/105.mp3",
+        "startMs": 369882,
+        "endMs": 872280,
+        "durationMs": 502398,
+        "recordingDurationMs": 872280,
+        "bytes": 17425387,
+        "sha256": "0218b68bc1852736d5b7804aa05f80e738c69c9cba4e8eaaa982dfe1f8269517",
+        "sharedAyahs": [
+          "20:105"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 21.93,
+            "end": 524.295
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/106.mp3",
+        "startMs": 0,
+        "endMs": 396120,
+        "durationMs": 396120,
+        "recordingDurationMs": 396120,
+        "bytes": 8217873,
+        "sha256": "43b60e60b3edecbe322d77513e10e0cd42cdd4282860d998ca19aa7510638720",
+        "sharedAyahs": [
+          "20:106"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 524.295,
+            "end": 920.395
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/107.mp3",
+        "startMs": 0,
+        "endMs": 94960,
+        "durationMs": 94960,
+        "recordingDurationMs": 94960,
+        "bytes": 1969267,
+        "sha256": "c68dd17c35ccc7343c79e491120c2bbfac98b4b9a46f6fe9d30da3f35a369f50",
+        "sharedAyahs": [
+          "20:107"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 920.395,
+            "end": 1015.305
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/108.mp3",
+        "startMs": 0,
+        "endMs": 201900,
+        "durationMs": 201900,
+        "recordingDurationMs": 201900,
+        "bytes": 4226194,
+        "sha256": "22e7de9ae7e81bbcb2f5c9c5acf16f0afa71ffd8e010a8a05f77c63c4f1f8d7f",
+        "sharedAyahs": [
+          "20:108"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1015.305,
+            "end": 1217.185
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/109.mp3",
+        "startMs": 0,
+        "endMs": 101040,
+        "durationMs": 101040,
+        "recordingDurationMs": 101040,
+        "bytes": 2110500,
+        "sha256": "8e8ce0357d8d919a48808194408e8ac8ae1548e64d81bbfa5915ddb4fd7129c1",
+        "sharedAyahs": [
+          "20:109"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1217.185,
+            "end": 1318.195
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/110.mp3",
+        "startMs": 0,
+        "endMs": 242680,
+        "durationMs": 242680,
+        "recordingDurationMs": 242680,
+        "bytes": 5076990,
+        "sha256": "109269aec128bd351829aa49bfbde0cb4e1e47ce3cb4a255447d1f068a08c915",
+        "sharedAyahs": [
+          "20:110"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1318.195,
+            "end": 1560.865
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/111.mp3",
+        "startMs": 0,
+        "endMs": 210310,
+        "durationMs": 210310,
+        "recordingDurationMs": 210310,
+        "bytes": 4401471,
+        "sha256": "1bc7b89d3ee36cf328b0dbf9636e5096e17e00952de5fec690010940e52f2930",
+        "sharedAyahs": [
+          "20:111"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1560.865,
+            "end": 1771.155
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/112.mp3",
+        "startMs": 0,
+        "endMs": 427780,
+        "durationMs": 427780,
+        "recordingDurationMs": 427780,
+        "bytes": 9033778,
+        "sha256": "1b6deb0aee4ac09c2f2ff52a646362e2c46b7914332e4af7ccc894e7d1d75ff9",
+        "sharedAyahs": [
+          "20:112"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1771.155,
+            "end": 2198.885
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/113.mp3",
+        "startMs": 0,
+        "endMs": 396213,
+        "durationMs": 396213,
+        "recordingDurationMs": 599540,
+        "bytes": 12652286,
+        "sha256": "bf81d21d1508ee3e6233eec65e1c015b6074dbb63b3c2629f05751ac6bc30952",
+        "sharedAyahs": [
+          "20:113"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 2198.885,
+            "end": 2595.095
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/114.mp3",
+        "startMs": 0,
+        "endMs": 137235,
+        "durationMs": 137235,
+        "recordingDurationMs": 1510300,
+        "bytes": 31979939,
+        "sha256": "63b67d534e489e3100d034be66b467308de52e2df4a2863696b02e08ea2845f3",
+        "sharedAyahs": [
+          "20:114"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 2595.095,
+            "end": 2732.31
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-148.mp3",
+        "startMs": 0,
+        "endMs": 4260,
+        "durationMs": 4260,
+        "recordingDurationMs": 4260,
+        "bytes": 88843,
+        "sha256": "5f09383fc91c286a088ad0abfe3cce130d52a75b6549528bc117217728636aeb",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 2732.31,
             "end": 2736.59
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-014.mp3",
-        "durationMs": 2756000,
-        "bytes": 58720679,
-        "sha256": "8e9f3679e7198c495d6d3c65404cf8a8d92f81b1f1c92c51dd45029f08eddf22",
+        "file": "020-طه-youtube-v1/introduction-149.mp3",
+        "startMs": 0,
+        "endMs": 26360,
+        "durationMs": 26360,
+        "recordingDurationMs": 26360,
+        "bytes": 573317,
+        "sha256": "82962d9fda28953d2923fa0a1e2775913df793cb06b3848a9a269072732ad334",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-014",
-            "start": 0,
+            "start": 0.0,
+            "end": 26.33
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/114.mp3",
+        "startMs": 137235,
+        "endMs": 147789,
+        "durationMs": 10554,
+        "recordingDurationMs": 1510300,
+        "bytes": 31979939,
+        "sha256": "63b67d534e489e3100d034be66b467308de52e2df4a2863696b02e08ea2845f3",
+        "sharedAyahs": [
+          "20:114"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 26.33,
+            "end": 36.855
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/113.mp3",
+        "startMs": 396213,
+        "endMs": 599540,
+        "durationMs": 203327,
+        "recordingDurationMs": 599540,
+        "bytes": 12652286,
+        "sha256": "bf81d21d1508ee3e6233eec65e1c015b6074dbb63b3c2629f05751ac6bc30952",
+        "sharedAyahs": [
+          "20:113"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 36.855,
+            "end": 240.135
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/114.mp3",
+        "startMs": 147789,
+        "endMs": 1510300,
+        "durationMs": 1362511,
+        "recordingDurationMs": 1510300,
+        "bytes": 31979939,
+        "sha256": "63b67d534e489e3100d034be66b467308de52e2df4a2863696b02e08ea2845f3",
+        "sharedAyahs": [
+          "20:114"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 240.135,
+            "end": 1602.602
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/115.mp3",
+        "startMs": 0,
+        "endMs": 741430,
+        "durationMs": 741430,
+        "recordingDurationMs": 741430,
+        "bytes": 15888910,
+        "sha256": "9c15ae866a4ad65261a39e88a8218217bae132b9ed2425e6531b84b31d86daba",
+        "sharedAyahs": [
+          "20:115"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 1602.602,
+            "end": 2343.995
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/116.mp3",
+        "startMs": 0,
+        "endMs": 362515,
+        "durationMs": 362515,
+        "recordingDurationMs": 1380340,
+        "bytes": 27502670,
+        "sha256": "6768806417322d59e132679880c3fbfd01934b0a4bf10acc9672ac47129e9f27",
+        "sharedAyahs": [
+          "20:116"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 2343.995,
+            "end": 2706.5
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-150.mp3",
+        "startMs": 0,
+        "endMs": 49480,
+        "durationMs": 49480,
+        "recordingDurationMs": 49480,
+        "bytes": 1072191,
+        "sha256": "05e2e9d49e30241c8b3aaa5c27ea362858ac354aeeaa3a61c872975ed3dade60",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 2706.5,
             "end": 2756.0
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-015.mp3",
-        "durationMs": 2781310,
-        "bytes": 53751306,
-        "sha256": "31859cfe508f7c18cac335836637cfb13743ff3c2af4d5122325e54590d39fc3",
+        "file": "020-طه-youtube-v1/introduction-151.mp3",
+        "startMs": 0,
+        "endMs": 19700,
+        "durationMs": 19700,
+        "recordingDurationMs": 19700,
+        "bytes": 378878,
+        "sha256": "286cff5615bec2c36f0cbf6e0acf84004ca7264084740eed61d41d2fc8ef8a87",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-015",
-            "start": 0,
+            "start": 0.0,
+            "end": 19.67
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/116.mp3",
+        "startMs": 362515,
+        "endMs": 1380340,
+        "durationMs": 1017825,
+        "recordingDurationMs": 1380340,
+        "bytes": 27502670,
+        "sha256": "6768806417322d59e132679880c3fbfd01934b0a4bf10acc9672ac47129e9f27",
+        "sharedAyahs": [
+          "20:116"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 19.67,
+            "end": 1037.445
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/117.mp3",
+        "startMs": 0,
+        "endMs": 139390,
+        "durationMs": 139390,
+        "recordingDurationMs": 139390,
+        "bytes": 2682873,
+        "sha256": "756bb5001d64bae215be562e2ce71d378a99cd228bbeea24d77e683c3919abbb",
+        "sharedAyahs": [
+          "20:117"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1037.445,
+            "end": 1176.805
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/118.mp3",
+        "startMs": 0,
+        "endMs": 79440,
+        "durationMs": 79440,
+        "recordingDurationMs": 79440,
+        "bytes": 1526195,
+        "sha256": "b9a8b5e1a13138f2e0f1746e49d0aad43ca1438dbe7b52f4355b54da608a533b",
+        "sharedAyahs": [
+          "20:118",
+          "20:119"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1176.805,
+            "end": 1256.205
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/120.mp3",
+        "startMs": 0,
+        "endMs": 486370,
+        "durationMs": 486370,
+        "recordingDurationMs": 486370,
+        "bytes": 9377316,
+        "sha256": "4326cf098deb786e540819ba749756525b51f4e5d75b776886c8c03a4b8e6096",
+        "sharedAyahs": [
+          "20:120",
+          "20:121"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1256.205,
+            "end": 1742.555
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/122.mp3",
+        "startMs": 0,
+        "endMs": 50100,
+        "durationMs": 50100,
+        "recordingDurationMs": 50100,
+        "bytes": 984839,
+        "sha256": "7a4e403417d06a5c95688bcdaafd6d3a4a4317a6d4687ce60620145834f59f62",
+        "sharedAyahs": [
+          "20:122"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1742.555,
+            "end": 1792.643
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/123.mp3",
+        "startMs": 0,
+        "endMs": 573390,
+        "durationMs": 573390,
+        "recordingDurationMs": 573390,
+        "bytes": 11074713,
+        "sha256": "652e92a55f170e81901e852c2e699ee9a6ebae2695be8a685f8db3fd3f656899",
+        "sharedAyahs": [
+          "20:123"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1792.643,
+            "end": 2365.995
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/124.mp3",
+        "startMs": 0,
+        "endMs": 410502,
+        "durationMs": 410502,
+        "recordingDurationMs": 855800,
+        "bytes": 16440191,
+        "sha256": "b6eeb0e568a7447f30a862e918e00e2606a05ec5b8ee40fdff8ded317f545671",
+        "sharedAyahs": [
+          "20:124",
+          "20:125",
+          "20:126"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 2365.995,
+            "end": 2776.5
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-152.mp3",
+        "startMs": 0,
+        "endMs": 4810,
+        "durationMs": 4810,
+        "recordingDurationMs": 4810,
+        "bytes": 90287,
+        "sha256": "db8e52fe496f717141fd2d933859692129d18e355e3da2068f2a87f3124e01d9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 2776.5,
             "end": 2781.31
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-016.mp3",
-        "durationMs": 2718430,
-        "bytes": 53815618,
-        "sha256": "a0fd86e4db641440a8b7f0e94a1a48e60601a1a4768048fcaed63f8c6ec7b8b1",
+        "file": "020-طه-youtube-v1/introduction-153.mp3",
+        "startMs": 0,
+        "endMs": 25310,
+        "durationMs": 25310,
+        "recordingDurationMs": 25310,
+        "bytes": 485635,
+        "sha256": "a050d609febc78c33062c6032f5d0f91c5bd06452eff4ab14ab59eea69f7c166",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-016",
-            "start": 0,
+            "start": 0.0,
+            "end": 25.27
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/124.mp3",
+        "startMs": 410502,
+        "endMs": 855800,
+        "durationMs": 445298,
+        "recordingDurationMs": 855800,
+        "bytes": 16440191,
+        "sha256": "b6eeb0e568a7447f30a862e918e00e2606a05ec5b8ee40fdff8ded317f545671",
+        "sharedAyahs": [
+          "20:124",
+          "20:125",
+          "20:126"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 25.27,
+            "end": 470.532
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/127.mp3",
+        "startMs": 0,
+        "endMs": 474360,
+        "durationMs": 474360,
+        "recordingDurationMs": 474360,
+        "bytes": 9208631,
+        "sha256": "e0a64849edfa4daeac30702cd4a17866a7779a7de975bb73a5d9c08efe105889",
+        "sharedAyahs": [
+          "20:127"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 470.532,
+            "end": 944.875
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/128.mp3",
+        "startMs": 0,
+        "endMs": 476970,
+        "durationMs": 476970,
+        "recordingDurationMs": 476970,
+        "bytes": 9353097,
+        "sha256": "8d50345306bef8043dfca256f1881b577c218c3805a81855bd109f561e104aa9",
+        "sharedAyahs": [
+          "20:128"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 944.875,
+            "end": 1421.805
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/129.mp3",
+        "startMs": 0,
+        "endMs": 256990,
+        "durationMs": 256990,
+        "recordingDurationMs": 256990,
+        "bytes": 5152072,
+        "sha256": "d840b413824ec380f229c281645e0d71a117e4973fc36fe75737ebc3d7f1ec26",
+        "sharedAyahs": [
+          "20:129"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 1421.805,
+            "end": 1678.775
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/130.mp3",
+        "startMs": 0,
+        "endMs": 1034202,
+        "durationMs": 1034202,
+        "recordingDurationMs": 1476210,
+        "bytes": 31133451,
+        "sha256": "ecf3943fe269cbd6a74d5060fe64beecc29ab2802e92f24a2aa3722744b90b11",
+        "sharedAyahs": [
+          "20:130"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 1678.775,
+            "end": 2712.97
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-154.mp3",
+        "startMs": 0,
+        "endMs": 5460,
+        "durationMs": 5460,
+        "recordingDurationMs": 5460,
+        "bytes": 111300,
+        "sha256": "70244b949913dd495f7bf7df336ff226ad84b336c9fe2385908880bb53605f67",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 2712.97,
             "end": 2718.43
           }
         ]
       },
       {
-        "file": "020-طه-youtube-v1/full-017.mp3",
-        "durationMs": 2093980,
-        "bytes": 46037452,
-        "sha256": "82ac84ef967d50e33ab4e304b22e28904027faa49ea8a26cdc560cc692f32604",
+        "file": "020-طه-youtube-v1/introduction-155.mp3",
+        "startMs": 0,
+        "endMs": 23380,
+        "durationMs": 23380,
+        "recordingDurationMs": 23380,
+        "bytes": 528552,
+        "sha256": "7375f1b4e87b69f4f113ffe19a7dcdcf097c6cee32b4f30da7b0c2082505d666",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "yt-017",
-            "start": 0,
+            "start": 0.0,
+            "end": 23.345
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/130.mp3",
+        "startMs": 1034202,
+        "endMs": 1476210,
+        "durationMs": 442008,
+        "recordingDurationMs": 1476210,
+        "bytes": 31133451,
+        "sha256": "ecf3943fe269cbd6a74d5060fe64beecc29ab2802e92f24a2aa3722744b90b11",
+        "sharedAyahs": [
+          "20:130"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 23.345,
+            "end": 465.305
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/131.mp3",
+        "startMs": 0,
+        "endMs": 238320,
+        "durationMs": 238320,
+        "recordingDurationMs": 238320,
+        "bytes": 5410474,
+        "sha256": "0f7f9ae3d8a192d3face401a48daefbbe78c3836ce6ab571139be7260da3a608",
+        "sharedAyahs": [
+          "20:131"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 465.305,
+            "end": 703.605
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/132.mp3",
+        "startMs": 0,
+        "endMs": 421220,
+        "durationMs": 421220,
+        "recordingDurationMs": 421220,
+        "bytes": 9291217,
+        "sha256": "5c4d6a6125dfa882e24f756286994a88c313c221eb904e021db01afbc3deafee",
+        "sharedAyahs": [
+          "20:132"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 703.605,
+            "end": 1124.795
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/133.mp3",
+        "startMs": 0,
+        "endMs": 247330,
+        "durationMs": 247330,
+        "recordingDurationMs": 247330,
+        "bytes": 5304427,
+        "sha256": "80892d53207a5ac93c6fd5f301eac7cb510b519d8590294f30a188876e9e05c2",
+        "sharedAyahs": [
+          "20:133"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 1124.795,
+            "end": 1372.085
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/134.mp3",
+        "startMs": 0,
+        "endMs": 451760,
+        "durationMs": 451760,
+        "recordingDurationMs": 451760,
+        "bytes": 9627572,
+        "sha256": "59923cf2fc15a74fdff26673451df5b7f03e69c1fa1c75497c4c8a1a95ace958",
+        "sharedAyahs": [
+          "20:134"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 1372.085,
+            "end": 1823.835
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/135.mp3",
+        "startMs": 0,
+        "endMs": 261980,
+        "durationMs": 261980,
+        "recordingDurationMs": 261980,
+        "bytes": 5551484,
+        "sha256": "c45e3d4b2220831d1b5034a7f3bda90538f89d354e71389877d91b6a7cdff740",
+        "sharedAyahs": [
+          "20:135"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 1823.835,
+            "end": 2085.79
+          }
+        ]
+      },
+      {
+        "file": "020-طه-youtube-v1/closing-156.mp3",
+        "startMs": 0,
+        "endMs": 8180,
+        "durationMs": 8180,
+        "recordingDurationMs": 8180,
+        "bytes": 172691,
+        "sha256": "59d410c9a735b34e26943f3ef165adaaac0129ecc315d3ccf755fd4e63959970",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 2085.79,
             "end": 2093.98
           }
         ]
       }
     ],
-    "durationMs": 44878590,
-    "bytes": 926635582
+    "durationMs": 44882880,
+    "additionalAudioBytes": 0
   },
   "topics": [
     {

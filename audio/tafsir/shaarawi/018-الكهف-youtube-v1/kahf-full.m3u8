@@ -1,31 +1,614 @@
 #EXTM3U
-#EXTINF:1670.010,خواطر الكهف — الدرس 1
-full-001.mp3
-#EXTINF:1733.220,خواطر الكهف — الدرس 2
-full-002.mp3
-#EXTINF:1745.680,خواطر الكهف — الدرس 3
-full-003.mp3
-#EXTINF:1725.540,خواطر الكهف — الدرس 4
-full-004.mp3
-#EXTINF:1630.560,خواطر الكهف — الدرس 5
-full-005.mp3
-#EXTINF:1700.810,خواطر الكهف — الدرس 6
-full-006.mp3
-#EXTINF:1661.730,خواطر الكهف — الدرس 7
-full-007.mp3
-#EXTINF:1734.710,خواطر الكهف — الدرس 8
-full-008.mp3
-#EXTINF:1721.360,خواطر الكهف — الدرس 9
-full-009.mp3
-#EXTINF:1697.800,خواطر الكهف — الدرس 10
-full-010.mp3
-#EXTINF:1686.830,خواطر الكهف — الدرس 11
-full-011.mp3
-#EXTINF:1687.280,خواطر الكهف — الدرس 12
-full-012.mp3
-#EXTINF:1681.160,خواطر الكهف — الدرس 13
-full-013.mp3
-#EXTINF:1722.440,خواطر الكهف — الدرس 14
-full-014.mp3
-#EXTINF:2281.090,خواطر الكهف — الدرس 15
-full-015.mp3
+# VLC playlist: start/stop options preserve internal clip ranges.
+#EXTINF:48.640,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=48.640
+introduction-105.mp3
+#EXTINF:995.740,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=995.740
+001.mp3
+#EXTINF:233.010,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=233.010
+002.mp3
+#EXTINF:66.850,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=66.850
+003.mp3
+#EXTINF:65.200,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=65.200
+004.mp3
+#EXTINF:255.648,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=255.648
+005.mp3
+#EXTINF:5.070,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.070
+closing-106.mp3
+#EXTINF:26.880,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=26.880
+introduction-107.mp3
+#EXTINF:333.992,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=255.648
+#EXTVLCOPT:stop-time=589.640
+005.mp3
+#EXTINF:192.370,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=192.370
+006.mp3
+#EXTINF:168.100,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=168.100
+007.mp3
+#EXTINF:48.980,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=48.980
+008.mp3
+#EXTINF:671.530,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=671.530
+009.mp3
+#EXTINF:121.000,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=121.000
+010.mp3
+#EXTINF:166.623,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=166.623
+011.mp3
+#EXTINF:3.970,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=3.970
+closing-108.mp3
+#EXTINF:23.770,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=23.770
+introduction-109.mp3
+#EXTINF:228.377,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=166.623
+#EXTVLCOPT:stop-time=395.000
+011.mp3
+#EXTINF:66.060,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=66.060
+012.mp3
+#EXTINF:422.610,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=422.610
+013.mp3
+#EXTINF:83.750,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=83.750
+014.mp3
+#EXTINF:53.710,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=53.710
+015.mp3
+#EXTINF:180.320,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=180.320
+016.mp3
+#EXTINF:226.640,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=226.640
+017.mp3
+#EXTINF:86.670,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=86.670
+018.mp3
+#EXTINF:332.770,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=332.770
+019.mp3
+#EXTINF:20.010,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=20.010
+020.mp3
+#EXTINF:16.602,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=16.602
+021.mp3
+#EXTINF:4.700,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=4.700
+closing-110.mp3
+#EXTINF:17.010,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=17.010
+introduction-111.mp3
+#EXTINF:89.198,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=16.602
+#EXTVLCOPT:stop-time=105.800
+021.mp3
+#EXTINF:363.050,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=363.050
+022.mp3
+#EXTINF:106.680,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=106.680
+023.mp3
+#EXTINF:114.470,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=114.470
+025.mp3
+#EXTINF:201.560,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=201.560
+026.mp3
+#EXTINF:115.380,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=115.380
+027.mp3
+#EXTINF:382.250,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=382.250
+028.mp3
+#EXTINF:331.038,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=331.038
+029.mp3
+#EXTINF:5.150,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.150
+closing-112.mp3
+#EXTINF:19.410,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=19.410
+introduction-113.mp3
+#EXTINF:1436.822,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=331.038
+#EXTVLCOPT:stop-time=1767.860
+029.mp3
+#EXTINF:171.900,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=171.900
+030.mp3
+#EXTINF:2.510,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.510
+closing-114.mp3
+#EXTINF:20.660,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=20.660
+introduction-115.mp3
+#EXTINF:43.320,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=171.900
+#EXTVLCOPT:stop-time=215.220
+030.mp3
+#EXTINF:954.120,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=954.120
+031.mp3
+#EXTINF:635.660,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=635.660
+032.mp3
+#EXTINF:42.150,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=42.150
+033.mp3
+#EXTINF:5.020,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.020
+closing-116.mp3
+#EXTINF:16.900,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=16.900
+introduction-117.mp3
+#EXTINF:320.120,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=42.150
+#EXTVLCOPT:stop-time=362.270
+033.mp3
+#EXTINF:107.340,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=107.340
+034.mp3
+#EXTINF:193.380,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=193.380
+035.mp3
+#EXTINF:69.360,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=69.360
+036.mp3
+#EXTINF:252.190,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=252.190
+037.mp3
+#EXTINF:73.480,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=73.480
+038.mp3
+#EXTINF:626.457,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=626.457
+039.mp3
+#EXTINF:2.720,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.720
+closing-118.mp3
+#EXTINF:26.490,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=26.490
+introduction-119.mp3
+#EXTINF:244.253,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=626.457
+#EXTVLCOPT:stop-time=870.710
+039.mp3
+#EXTINF:295.710,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=295.710
+040.mp3
+#EXTINF:56.320,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=56.320
+041.mp3
+#EXTINF:200.120,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=200.120
+042.mp3
+#EXTINF:145.580,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=145.580
+043.mp3
+#EXTINF:69.720,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=69.720
+044.mp3
+#EXTINF:340.430,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=340.430
+045.mp3
+#EXTINF:353.738,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=353.738
+046.mp3
+#EXTINF:2.590,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.590
+closing-120.mp3
+#EXTINF:25.470,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=25.470
+introduction-121.mp3
+#EXTINF:201.362,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=353.738
+#EXTVLCOPT:stop-time=555.100
+046.mp3
+#EXTINF:214.180,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=214.180
+047.mp3
+#EXTINF:258.660,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=258.660
+048.mp3
+#EXTINF:226.690,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=226.690
+049.mp3
+#EXTINF:298.210,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=298.210
+050.mp3
+#EXTINF:196.410,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=196.410
+051.mp3
+#EXTINF:169.430,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=169.430
+052.mp3
+#EXTINF:120.350,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=120.350
+053.mp3
+#EXTINF:5.970,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.970
+054.mp3
+#EXTINF:4.880,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=4.880
+closing-122.mp3
+#EXTINF:21.580,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=21.580
+introduction-123.mp3
+#EXTINF:211.730,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=5.970
+#EXTVLCOPT:stop-time=217.700
+054.mp3
+#EXTINF:109.480,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=109.480
+055.mp3
+#EXTINF:43.230,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=43.230
+056.mp3
+#EXTINF:256.780,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=256.780
+057.mp3
+#EXTINF:28.500,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=28.500
+058.mp3
+#EXTINF:143.600,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=143.600
+059.mp3
+#EXTINF:598.130,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=598.130
+060.mp3
+#EXTINF:198.010,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=198.010
+061.mp3
+#EXTINF:43.310,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=43.310
+062.mp3
+#EXTINF:37.761,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=37.761
+063.mp3
+#EXTINF:5.980,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.980
+closing-124.mp3
+#EXTINF:29.990,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=29.990
+introduction-125.mp3
+#EXTINF:233.179,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=37.761
+#EXTVLCOPT:stop-time=270.940
+063.mp3
+#EXTINF:47.600,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=47.600
+064.mp3
+#EXTINF:276.240,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=276.240
+065.mp3
+#EXTINF:347.140,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=347.140
+066.mp3
+#EXTINF:52.090,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=52.090
+067.mp3
+#EXTINF:72.670,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=72.670
+068.mp3
+#EXTINF:31.220,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=31.220
+069.mp3
+#EXTINF:39.520,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=39.520
+070.mp3
+#EXTINF:150.520,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=150.520
+071.mp3
+#EXTINF:42.290,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=42.290
+072.mp3
+#EXTINF:13.770,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=13.770
+073.mp3
+#EXTINF:48.270,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=48.270
+074.mp3
+#EXTINF:52.920,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=52.920
+075.mp3
+#EXTINF:38.820,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=38.820
+076.mp3
+#EXTINF:203.168,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=203.168
+077.mp3
+#EXTINF:7.840,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=7.840
+closing-126.mp3
+#EXTINF:18.960,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=18.960
+introduction-127.mp3
+#EXTINF:261.262,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=203.168
+#EXTVLCOPT:stop-time=464.430
+077.mp3
+#EXTINF:122.720,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=122.720
+078.mp3
+#EXTINF:683.810,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=683.810
+079.mp3
+#EXTINF:85.660,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=85.660
+080.mp3
+#EXTINF:324.750,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=324.750
+082.mp3
+#EXTINF:183.498,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=183.498
+083.mp3
+#EXTINF:6.790,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=6.790
+closing-128.mp3
+#EXTINF:27.530,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=27.530
+introduction-129.mp3
+#EXTINF:47.543,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=183.498
+#EXTVLCOPT:stop-time=231.041
+083.mp3
+#EXTINF:304.400,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=304.400
+other-135.mp3
+#EXTINF:42.190,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=42.190
+other-136.mp3
+#EXTINF:129.460,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=129.460
+other-137.mp3
+#EXTINF:443.759,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=231.041
+#EXTVLCOPT:stop-time=674.800
+083.mp3
+#EXTINF:289.490,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=289.490
+084.mp3
+#EXTINF:140.410,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=140.410
+085.mp3
+#EXTINF:128.440,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=128.440
+087.mp3
+#EXTINF:118.570,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=118.570
+088.mp3
+#EXTINF:2.574,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.574
+089.mp3
+#EXTINF:7.080,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=7.080
+closing-130.mp3
+#EXTINF:23.170,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=23.170
+introduction-131.mp3
+#EXTINF:222.366,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=2.574
+#EXTVLCOPT:stop-time=224.940
+089.mp3
+#EXTINF:13.450,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=13.450
+091.mp3
+#EXTINF:75.760,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=75.760
+092.mp3
+#EXTINF:278.440,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=278.440
+094.mp3
+#EXTINF:161.850,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=161.850
+095.mp3
+#EXTINF:206.520,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=206.520
+096.mp3
+#EXTINF:25.780,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=25.780
+097.mp3
+#EXTINF:133.560,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=133.560
+098.mp3
+#EXTINF:263.990,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=263.990
+099.mp3
+#EXTINF:250.510,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=250.510
+100.mp3
+#EXTINF:61.794,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=61.794
+101.mp3
+#EXTINF:5.540,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.540
+closing-132.mp3
+#EXTINF:19.570,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=19.570
+introduction-133.mp3
+#EXTINF:189.036,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=61.794
+#EXTVLCOPT:stop-time=250.830
+101.mp3
+#EXTINF:116.580,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=116.580
+102.mp3
+#EXTINF:22.180,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=22.180
+103.mp3
+#EXTINF:447.870,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=447.870
+104.mp3
+#EXTINF:175.670,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=175.670
+105.mp3
+#EXTINF:108.720,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=108.720
+106.mp3
+#EXTINF:376.610,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=376.610
+107.mp3
+#EXTINF:153.310,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=153.310
+108.mp3
+#EXTINF:324.340,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=324.340
+109.mp3
+#EXTINF:345.390,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=345.390
+110.mp3
+#EXTINF:2.120,خواطر الشعراوي - الكهف
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.120
+closing-134.mp3

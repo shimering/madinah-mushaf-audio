@@ -1,11 +1,178 @@
 #EXTM3U
-#EXTINF:1623.790,خواطر الحجرات — الدرس 1
-full-001.mp3
-#EXTINF:2559.860,خواطر الحجرات — الدرس 2
-full-002.mp3
-#EXTINF:2500.370,خواطر الحجرات — الدرس 3
-full-003.mp3
-#EXTINF:2854.700,خواطر الحجرات — الدرس 4
-full-004.mp3
-#EXTINF:396.600,خواطر الحجرات — الدرس 5
-full-005.mp3
+# VLC playlist: start/stop options preserve internal clip ranges.
+#EXTINF:12.360,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=12.360
+introduction-17.mp3
+#EXTINF:561.910,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=561.910
+001.mp3
+#EXTINF:274.580,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=274.580
+002.mp3
+#EXTINF:327.960,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=327.960
+003.mp3
+#EXTINF:159.340,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=159.340
+004.mp3
+#EXTINF:281.461,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=281.461
+006.mp3
+#EXTINF:6.310,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=6.310
+closing-22.mp3
+#EXTINF:19.700,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=19.700
+introduction-18.mp3
+#EXTINF:487.039,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=281.461
+#EXTVLCOPT:stop-time=768.500
+006.mp3
+#EXTINF:560.520,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=560.520
+007.mp3
+#EXTINF:198.020,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=198.020
+008.mp3
+#EXTINF:526.220,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=526.220
+009.mp3
+#EXTINF:287.520,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=287.520
+010.mp3
+#EXTINF:473.317,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=473.317
+011.mp3
+#EXTINF:7.680,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=7.680
+closing-23.mp3
+#EXTINF:28.390,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=28.390
+introduction-19.mp3
+#EXTINF:14.136,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=473.317
+#EXTVLCOPT:stop-time=487.453
+011.mp3
+#EXTINF:110.520,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=110.520
+other-26.mp3
+#EXTINF:1188.087,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=487.453
+#EXTVLCOPT:stop-time=1675.540
+011.mp3
+#EXTINF:948.980,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=948.980
+012.mp3
+#EXTINF:207.709,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=207.709
+013.mp3
+#EXTINF:2.690,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.690
+closing-24.mp3
+#EXTINF:33.600,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=33.600
+introduction-20.mp3
+#EXTINF:559.920,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=207.709
+#EXTVLCOPT:stop-time=767.629
+013.mp3
+#EXTINF:404.710,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=404.710
+other-27.mp3
+#EXTINF:294.441,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=767.629
+#EXTVLCOPT:stop-time=1062.070
+013.mp3
+#EXTINF:486.133,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=486.133
+014.mp3
+#EXTINF:329.605,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=329.605
+015.mp3
+#EXTINF:180.530,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=180.530
+other-28.mp3
+#EXTINF:27.035,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=329.605
+#EXTVLCOPT:stop-time=356.640
+015.mp3
+#EXTINF:76.861,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=76.861
+016.mp3
+#EXTINF:108.829,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=108.829
+017.mp3
+#EXTINF:56.359,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=76.861
+#EXTVLCOPT:stop-time=133.220
+016.mp3
+#EXTINF:86.832,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=108.829
+#EXTVLCOPT:stop-time=195.661
+017.mp3
+#EXTINF:75.035,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=75.035
+018.mp3
+#EXTINF:49.128,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=195.661
+#EXTVLCOPT:stop-time=244.789
+017.mp3
+#EXTINF:18.637,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=486.133
+#EXTVLCOPT:stop-time=504.770
+014.mp3
+#EXTINF:7.521,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=244.789
+#EXTVLCOPT:stop-time=252.310
+017.mp3
+#EXTINF:59.832,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=75.035
+#EXTVLCOPT:stop-time=134.867
+018.mp3
+#EXTINF:34.510,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=34.510
+introduction-21.mp3
+#EXTINF:221.016,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=134.867
+#EXTVLCOPT:stop-time=355.883
+018.mp3
+#EXTINF:87.910,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=87.910
+other-29.mp3
+#EXTINF:42.227,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=355.883
+#EXTVLCOPT:stop-time=398.110
+018.mp3
+#EXTINF:11.110,خواطر الشعراوي - الحجرات
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=11.110
+closing-25.mp3

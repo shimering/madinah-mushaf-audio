@@ -1,35 +1,722 @@
-﻿#EXTM3U
-#EXTINF:1873,خواطر طه
-full-001.mp3
-#EXTINF:2723,خواطر طه
-full-002.mp3
-#EXTINF:2728,خواطر طه
-full-003.mp3
-#EXTINF:2697,خواطر طه
-full-004.mp3
-#EXTINF:2731,خواطر طه
-full-005.mp3
-#EXTINF:2689,خواطر طه
-full-006.mp3
-#EXTINF:2672,خواطر طه
-full-007.mp3
-#EXTINF:2726,خواطر طه
-full-008.mp3
-#EXTINF:2808,خواطر طه
-full-009.mp3
-#EXTINF:2736,خواطر طه
-full-010.mp3
-#EXTINF:2691,خواطر طه
-full-011.mp3
-#EXTINF:2718,خواطر طه
-full-012.mp3
-#EXTINF:2737,خواطر طه
-full-013.mp3
-#EXTINF:2756,خواطر طه
-full-014.mp3
-#EXTINF:2781,خواطر طه
-full-015.mp3
-#EXTINF:2718,خواطر طه
-full-016.mp3
-#EXTINF:2094,خواطر طه
-full-017.mp3
+#EXTM3U
+# VLC playlist: start/stop options preserve internal clip ranges.
+#EXTINF:26.380,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=26.380
+introduction-123.mp3
+#EXTINF:383.840,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=383.840
+001.mp3
+#EXTINF:444.580,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=444.580
+002.mp3
+#EXTINF:40.620,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=40.620
+003.mp3
+#EXTINF:610.820,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=610.820
+004.mp3
+#EXTINF:161.020,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=161.020
+005.mp3
+#EXTINF:165.170,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=165.170
+006.mp3
+#EXTINF:35.306,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=35.306
+007.mp3
+#EXTINF:5.090,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.090
+closing-124.mp3
+#EXTINF:25.180,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=25.180
+introduction-125.mp3
+#EXTINF:15.360,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=35.306
+#EXTVLCOPT:stop-time=50.666
+007.mp3
+#EXTINF:152.110,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=152.110
+introduction-07.mp3
+#EXTINF:193.474,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=50.666
+#EXTVLCOPT:stop-time=244.140
+007.mp3
+#EXTINF:497.080,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=497.080
+008.mp3
+#EXTINF:254.300,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=254.300
+009.mp3
+#EXTINF:456.910,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=456.910
+010.mp3
+#EXTINF:362.210,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=362.210
+012.mp3
+#EXTINF:751.322,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=751.322
+013.mp3
+#EXTINF:15.070,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=15.070
+closing-126.mp3
+#EXTINF:20.950,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=20.950
+introduction-127.mp3
+#EXTINF:271.638,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=751.322
+#EXTVLCOPT:stop-time=1022.960
+013.mp3
+#EXTINF:901.960,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=901.960
+014.mp3
+#EXTINF:929.960,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=929.960
+015.mp3
+#EXTINF:87.820,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=87.820
+016.mp3
+#EXTINF:28.110,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=28.110
+introduction-16.mp3
+#EXTINF:147.200,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=147.200
+017.mp3
+#EXTINF:338.352,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=338.352
+018.mp3
+#EXTINF:2.190,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.190
+closing-128.mp3
+#EXTINF:18.000,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=18.000
+introduction-129.mp3
+#EXTINF:704.198,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=338.352
+#EXTVLCOPT:stop-time=1042.550
+018.mp3
+#EXTINF:243.150,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=243.150
+019.mp3
+#EXTINF:262.610,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=262.610
+022.mp3
+#EXTINF:143.620,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=143.620
+023.mp3
+#EXTINF:47.330,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=47.330
+024.mp3
+#EXTINF:68.650,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=68.650
+025.mp3
+#EXTINF:11.440,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=11.440
+026.mp3
+#EXTINF:99.710,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=99.710
+027.mp3
+#EXTINF:607.090,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=607.090
+029.mp3
+#EXTINF:128.470,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=128.470
+031.mp3
+#EXTINF:88.400,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=88.400
+033.mp3
+#EXTINF:12.880,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=12.880
+034.mp3
+#EXTINF:40.670,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=40.670
+036.mp3
+#EXTINF:109.101,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=109.101
+037.mp3
+#EXTINF:104.452,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=104.452
+039.mp3
+#EXTINF:0.053,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=109.101
+#EXTVLCOPT:stop-time=109.154
+037.mp3
+#EXTINF:7.940,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=7.940
+closing-130.mp3
+#EXTINF:23.380,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=23.380
+introduction-131.mp3
+#EXTINF:57.086,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=109.154
+#EXTVLCOPT:stop-time=166.240
+037.mp3
+#EXTINF:727.788,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=104.452
+#EXTVLCOPT:stop-time=832.240
+039.mp3
+#EXTINF:503.850,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=503.850
+040.mp3
+#EXTINF:125.810,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=125.810
+introduction-34.mp3
+#EXTINF:2.510,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.510
+041.mp3
+#EXTINF:53.520,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=53.520
+042.mp3
+#EXTINF:26.310,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=26.310
+043.mp3
+#EXTINF:344.480,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=344.480
+044.mp3
+#EXTINF:257.070,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=257.070
+045.mp3
+#EXTINF:121.700,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=121.700
+046.mp3
+#EXTINF:318.280,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=318.280
+047.mp3
+#EXTINF:39.650,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=39.650
+048.mp3
+#EXTINF:8.180,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=8.180
+049.mp3
+#EXTINF:118.767,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=118.767
+050.mp3
+#EXTINF:2.870,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.870
+closing-132.mp3
+#EXTINF:19.440,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=19.440
+introduction-133.mp3
+#EXTINF:743.513,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=118.767
+#EXTVLCOPT:stop-time=862.280
+050.mp3
+#EXTINF:144.720,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=144.720
+051.mp3
+#EXTINF:16.800,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=16.800
+052.mp3
+#EXTINF:1204.660,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1204.660
+053.mp3
+#EXTINF:371.720,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=371.720
+054.mp3
+#EXTINF:165.604,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=165.604
+055.mp3
+#EXTINF:22.990,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=22.990
+closing-134.mp3
+#EXTINF:26.020,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=26.020
+introduction-135.mp3
+#EXTINF:379.286,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=165.604
+#EXTVLCOPT:stop-time=544.890
+055.mp3
+#EXTINF:227.340,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=227.340
+056.mp3
+#EXTINF:146.080,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=146.080
+057.mp3
+#EXTINF:288.470,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=288.470
+058.mp3
+#EXTINF:161.720,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=161.720
+059.mp3
+#EXTINF:282.910,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=282.910
+060.mp3
+#EXTINF:99.530,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=99.530
+061.mp3
+#EXTINF:32.420,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=32.420
+062.mp3
+#EXTINF:676.280,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=676.280
+063.mp3
+#EXTINF:197.800,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=197.800
+064.mp3
+#EXTINF:85.278,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=85.278
+065.mp3
+#EXTINF:66.783,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=66.783
+066.mp3
+#EXTINF:2.660,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.660
+closing-136.mp3
+#EXTINF:15.750,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=15.750
+introduction-137.mp3
+#EXTINF:16.274,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=66.783
+#EXTVLCOPT:stop-time=83.057
+066.mp3
+#EXTINF:65.070,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=65.070
+introduction-60.mp3
+#EXTINF:123.362,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=85.278
+#EXTVLCOPT:stop-time=208.640
+065.mp3
+#EXTINF:884.443,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=83.057
+#EXTVLCOPT:stop-time=967.500
+066.mp3
+#EXTINF:405.290,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=405.290
+067.mp3
+#EXTINF:456.750,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=456.750
+070.mp3
+#EXTINF:655.150,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=655.150
+071.mp3
+#EXTINF:91.469,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=91.469
+072.mp3
+#EXTINF:13.010,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=13.010
+closing-138.mp3
+#EXTINF:19.750,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=19.750
+introduction-139.mp3
+#EXTINF:352.351,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=91.469
+#EXTVLCOPT:stop-time=443.820
+072.mp3
+#EXTINF:330.290,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=330.290
+073.mp3
+#EXTINF:344.400,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=344.400
+074.mp3
+#EXTINF:230.270,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=230.270
+075.mp3
+#EXTINF:519.370,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=519.370
+076.mp3
+#EXTINF:233.640,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=233.640
+077.mp3
+#EXTINF:381.440,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=381.440
+078.mp3
+#EXTINF:150.440,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=150.440
+079.mp3
+#EXTINF:244.390,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=244.390
+080.mp3
+#EXTINF:2.010,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2.010
+closing-140.mp3
+#EXTINF:17.210,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=17.210
+introduction-141.mp3
+#EXTINF:241.150,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=244.390
+#EXTVLCOPT:stop-time=485.540
+080.mp3
+#EXTINF:1330.520,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1330.520
+081.mp3
+#EXTINF:293.410,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=293.410
+082.mp3
+#EXTINF:41.090,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=41.090
+083.mp3
+#EXTINF:177.950,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=177.950
+084.mp3
+#EXTINF:281.100,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=281.100
+085.mp3
+#EXTINF:210.760,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=210.760
+086.mp3
+#EXTINF:127.857,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=127.857
+087.mp3
+#EXTINF:15.410,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=15.410
+closing-142.mp3
+#EXTINF:21.920,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=21.920
+introduction-143.mp3
+#EXTINF:315.313,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=127.857
+#EXTVLCOPT:stop-time=443.170
+087.mp3
+#EXTINF:340.820,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=340.820
+088.mp3
+#EXTINF:134.090,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=134.090
+089.mp3
+#EXTINF:172.380,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=172.380
+090.mp3
+#EXTINF:127.270,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=127.270
+091.mp3
+#EXTINF:160.860,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=160.860
+092.mp3
+#EXTINF:119.480,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=119.480
+094.mp3
+#EXTINF:92.060,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=92.060
+095.mp3
+#EXTINF:493.110,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=493.110
+096.mp3
+#EXTINF:477.810,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=477.810
+097.mp3
+#EXTINF:231.093,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=231.093
+098.mp3
+#EXTINF:4.620,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=4.620
+closing-144.mp3
+#EXTINF:27.640,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=27.640
+introduction-145.mp3
+#EXTINF:541.607,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=231.093
+#EXTVLCOPT:stop-time=772.700
+098.mp3
+#EXTINF:834.090,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=834.090
+099.mp3
+#EXTINF:293.410,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=293.410
+100.mp3
+#EXTINF:37.830,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=37.830
+101.mp3
+#EXTINF:119.350,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=119.350
+102.mp3
+#EXTINF:483.160,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=483.160
+103.mp3
+#EXTINF:369.882,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=369.882
+105.mp3
+#EXTINF:11.310,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=11.310
+closing-146.mp3
+#EXTINF:21.970,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=21.970
+introduction-147.mp3
+#EXTINF:502.398,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=369.882
+#EXTVLCOPT:stop-time=872.280
+105.mp3
+#EXTINF:396.120,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=396.120
+106.mp3
+#EXTINF:94.960,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=94.960
+107.mp3
+#EXTINF:201.900,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=201.900
+108.mp3
+#EXTINF:101.040,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=101.040
+109.mp3
+#EXTINF:242.680,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=242.680
+110.mp3
+#EXTINF:210.310,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=210.310
+111.mp3
+#EXTINF:427.780,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=427.780
+112.mp3
+#EXTINF:396.213,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=396.213
+113.mp3
+#EXTINF:137.235,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=137.235
+114.mp3
+#EXTINF:4.260,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=4.260
+closing-148.mp3
+#EXTINF:26.360,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=26.360
+introduction-149.mp3
+#EXTINF:10.554,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=137.235
+#EXTVLCOPT:stop-time=147.789
+114.mp3
+#EXTINF:203.327,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=396.213
+#EXTVLCOPT:stop-time=599.540
+113.mp3
+#EXTINF:1362.511,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=147.789
+#EXTVLCOPT:stop-time=1510.300
+114.mp3
+#EXTINF:741.430,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=741.430
+115.mp3
+#EXTINF:362.515,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=362.515
+116.mp3
+#EXTINF:49.480,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=49.480
+closing-150.mp3
+#EXTINF:19.700,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=19.700
+introduction-151.mp3
+#EXTINF:1017.825,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=362.515
+#EXTVLCOPT:stop-time=1380.340
+116.mp3
+#EXTINF:139.390,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=139.390
+117.mp3
+#EXTINF:79.440,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=79.440
+118.mp3
+#EXTINF:486.370,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=486.370
+120.mp3
+#EXTINF:50.100,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=50.100
+122.mp3
+#EXTINF:573.390,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=573.390
+123.mp3
+#EXTINF:410.502,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=410.502
+124.mp3
+#EXTINF:4.810,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=4.810
+closing-152.mp3
+#EXTINF:25.310,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=25.310
+introduction-153.mp3
+#EXTINF:445.298,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=410.502
+#EXTVLCOPT:stop-time=855.800
+124.mp3
+#EXTINF:474.360,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=474.360
+127.mp3
+#EXTINF:476.970,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=476.970
+128.mp3
+#EXTINF:256.990,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=256.990
+129.mp3
+#EXTINF:1034.202,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1034.202
+130.mp3
+#EXTINF:5.460,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.460
+closing-154.mp3
+#EXTINF:23.380,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=23.380
+introduction-155.mp3
+#EXTINF:442.008,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=1034.202
+#EXTVLCOPT:stop-time=1476.210
+130.mp3
+#EXTINF:238.320,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=238.320
+131.mp3
+#EXTINF:421.220,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=421.220
+132.mp3
+#EXTINF:247.330,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=247.330
+133.mp3
+#EXTINF:451.760,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=451.760
+134.mp3
+#EXTINF:261.980,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=261.980
+135.mp3
+#EXTINF:8.180,خواطر الشعراوي - طه
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=8.180
+closing-156.mp3

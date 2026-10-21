@@ -1,0 +1,4 @@
+# Full playback must reference the existing clips; never upload duplicate full recordings.
+audio/tafsir/shaarawi/*/full*.mp3
+# Retired by the user; the active Ta-Ha edition is the YouTube version.
+audio/tafsir/shaarawi/020-طه/

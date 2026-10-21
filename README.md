@@ -1,54 +1,9 @@
-# خواطر الشيخ الشعراوي — تجربة فهرسة صوتية
+# Shaarawi audio for Mushaf Android
 
-المحاضر: الشيخ محمد متولي الشعراوي. مصدر التسجيلات: إسلام ويب.
-المتاح: طه (١٣٥ آية) والنبأ (٤٠ آية). هذه ملفات شرح وليست تلاوة.
+Ayah commentary and general topics for Al-Kahf, Ta-Ha (YouTube edition), Al-Hujurat and An-Naba.
 
-## ترتيب الملفات
+Full-surah playback reuses the existing clips in original lecture order, including introductions, recaps and topics. No separate full-surah MP3 is needed. The JSON manifests use schema version 2 and include exact start/end ranges within existing recordings.
 
-- `020-طه/001.mp3` إلى `135.mp3`، وأربعة ملفات عامة مستقلة، وتسعة أجزاء `full-001.mp3` إلى `full-009.mp3` للسورة كاملة.
-- `078-النبأ/001.mp3` إلى `040.mp3`، وأربعة ملفات عامة مستقلة، و`full.mp3` للسورة كاملة.
-- `manifest.json` داخل كل سورة يحدد الربط والمدد والبصمات والمواضع في المصادر.
+The retired Islamweb Ta-Ha edition and duplicate full recordings have been removed from the current branch. Older Android builds need an update to use the new playlists. Original source attribution, editorial review limits and local backups are preserved.
 
-عند تناول الشيخ عدة آيات معًا يحفظ الشرح نفسه بأرقامها، ويسجل الفهرس
-`sharedAyahs` لعرض هذه المعلومة وعدم تكرار المقطع عند الاستكمال.
-
-تشغيل السورة كاملة يحفظ الترتيب الأصلي للمقدمات والمراجعات والشرح، ولا
-يبنى من تجميع ملفات الآيات. طه مقسمة إلى تسعة أجزاء لتناسب حد حجم الملف
-في الاستضافة، ويعرضها التطبيق كسورة واحدة على شريط زمني متصل. استبعد
-شرح مريم السابق لطه وشرح الأنبياء اللاحق لها من الملفين الطرفيين.
-
-## الاستخدام في تطبيق أندرويد
-
-- «خواطر» يفتح القائمة من يسار الشاشة؛ اضغط اسم السورة لتوسيع قائمة آياتها.
-- زر التشغيل بجانب اسم السورة يشغل الشرح الكامل، شاملًا المقدمات والمراجعات.
-- لكل آية خيار «الآية فقط» وخيار «من الآية إلى نهاية السورة». تتاح الخيارات أيضًا بالضغط المطول على الآية في المصحف.
-- تستخدم الخواطر والترتيل المشغل السفلي نفسه. بدء مصدر جديد يستبدل قائمة التشغيل الحالية.
-- إغلاق قائمة الخواطر يترك الصوت مستمرًا؛ استخدم الإيقاف أو الإيقاف المؤقت من المشغل السفلي. الخدمة تدعم التشغيل في الخلفية.
-
-الصوتيات تبث عبر الإنترنت ولا تضاف إلى APK. قد يستخدم المشغل التخزين
-المؤقت المشترك لتحسين التشغيل.
-
-الرابط الأساسي:
-
-```text
-https://raw.githubusercontent.com/shimering/madinah-mushaf-audio/main/audio/tafsir/shaarawi
-```
-
-يعتمد التطبيق على فهرسي `shaarawi-020.json` و`shaarawi-078.json` في
-`app/src/main/assets/audio-tafsir`، ويُرمّز اسم مجلد السورة العربي داخل الرابط.
-
-## المصدر والمراجعة
-
-مصدر طه: https://audio.islamweb.net/audio/index.php?lg=477&page=lecview&sid=772
-والدرس الأخير المشترك مع الأنبياء: https://audio.islamweb.net/audio/index.php?lg=478&page=lecview&sid=772
-
-القص يحفظ ترميز MP3 الأصلي دون إعادة ضغط. تحقق التصدير من بصمات المصادر،
-وتغطية الآيات، وتغطية مدد المصادر دون فجوات أو تكرار، ومطابقة التشغيل الكامل
-للأجزاء الداخلة في السورة، ثم فُك ترميز جميع الملفات لاكتشاف التلف.
-
-التقسيم تجريبي: حددت الحدود بمراجعة سياق التفريغ الآلي ثم ضبطها عند وقفات
-قريبة. لم تكتمل المراجعة السمعية البشرية الدقيقة، وقد تحتاج الحدود تصحيحًا.
-التفريغ الآلي أداة مساعدة ولا يُستخدم نصًا للقرآن داخل التطبيق.
-
-نسب التسجيلات إلى مصدرها وتقسيمها لا يمنحان ترخيصًا بإعادة نشرها؛ تظل موافقة
-صاحب الحقوق على الاستضافة والبث والاستخدام المطلوب مسألة مستقلة.
+See [the Arabic catalog guide](audio/tafsir/shaarawi/README.md) and [storage accounting](audio/tafsir/shaarawi/STORAGE.md).
