@@ -1,0 +1,5018 @@
+{
+  "mode": "reused-clips",
+  "sourceOrder": [
+    "yt-001",
+    "yt-002",
+    "youtube-TF02OzF7rZI",
+    "yt-003",
+    "archive-2554",
+    "archive-2555",
+    "archive-2556",
+    "archive-2557",
+    "archive-2558",
+    "archive-2559",
+    "yt-004",
+    "yt-005",
+    "yt-006",
+    "official-E-pcp9yD1t8",
+    "archive-2568",
+    "archive-2569",
+    "yt-008",
+    "yt-009",
+    "yt-010",
+    "yt-011",
+    "yt-012",
+    "yt-013",
+    "yt-014",
+    "yt-015",
+    "yt-016",
+    "yt-017",
+    "yt-018",
+    "yt-019",
+    "yt-020",
+    "yt-021",
+    "yt-022",
+    "yt-023",
+    "yt-024",
+    "yt-025",
+    "yt-026",
+    "yt-027",
+    "yt-028",
+    "yt-029",
+    "yt-031",
+    "yt-032",
+    "yt-033",
+    "yt-034",
+    "yt-035",
+    "yt-036",
+    "yt-037",
+    "yt-038",
+    "yt-040",
+    "yt-039",
+    "yt-041",
+    "yt-042",
+    "yt-043",
+    "yt-044",
+    "yt-045",
+    "yt-046",
+    "yt-047",
+    "yt-048"
+  ],
+  "includesIntroductionsAndRecaps": true,
+  "tracks": [
+    {
+      "file": "005-المائدة-youtube-v1/introduction-120.mp3",
+      "startMs": 0,
+      "endMs": 27550,
+      "durationMs": 27550,
+      "recordingDurationMs": 27550,
+      "bytes": 220745,
+      "sha256": "47d2d148d19423e35b74503a911a4281dc0cb23690a0717009817f398c000406",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 0,
+          "end": 27.526
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/other-00.mp3",
+      "startMs": 0,
+      "endMs": 842140,
+      "durationMs": 842140,
+      "recordingDurationMs": 842140,
+      "bytes": 6737410,
+      "sha256": "c8aa7536a27eb927c3208724bdeec9d05e84cfa0c4eabe641f5464d3790268c3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 27.526,
+          "end": 869.64
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1826629,
+      "durationMs": 1826629,
+      "recordingDurationMs": 2143560,
+      "bytes": 17148809,
+      "sha256": "d81ca937bb37075d6ebaad497f8fba07dd45746eeac2c106b9a667a4fa4c531f",
+      "sharedAyahs": [
+        "5:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 869.64,
+          "end": 2696.256
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-168.mp3",
+      "startMs": 0,
+      "endMs": 9020,
+      "durationMs": 9020,
+      "recordingDurationMs": 9020,
+      "bytes": 72516,
+      "sha256": "30369c45d47015839ebca1d72a13775238919c9f474b1178bc4fa1784e1fd363",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 2696.256,
+          "end": 2705.28
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-121.mp3",
+      "startMs": 0,
+      "endMs": 26740,
+      "durationMs": 26740,
+      "recordingDurationMs": 26740,
+      "bytes": 214217,
+      "sha256": "5d279ebc738221e80d9aa7cff67e1605b22463360b81a55fed6a05565170ef8f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 0,
+          "end": 26.71
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/001.mp3",
+      "startMs": 1826629,
+      "endMs": 2143560,
+      "durationMs": 316931,
+      "recordingDurationMs": 2143560,
+      "bytes": 17148809,
+      "sha256": "d81ca937bb37075d6ebaad497f8fba07dd45746eeac2c106b9a667a4fa4c531f",
+      "sharedAyahs": [
+        "5:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 26.71,
+          "end": 343.6
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 2385961,
+      "durationMs": 2385961,
+      "recordingDurationMs": 3500860,
+      "bytes": 28007177,
+      "sha256": "1c2b06285a23df28fb78d508d116755a869b68db825557c1228cec45f55a8255",
+      "sharedAyahs": [
+        "5:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 343.6,
+          "end": 2729.566
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-169.mp3",
+      "startMs": 0,
+      "endMs": 6430,
+      "durationMs": 6430,
+      "recordingDurationMs": 6430,
+      "bytes": 51780,
+      "sha256": "7b2f7e773e8ddfb3a6bf0ceb56155cb40adca9128aae3fe3bce0a6302a9c7056",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2729.566,
+          "end": 2736.0
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/002.mp3",
+      "startMs": 2385961,
+      "endMs": 3500860,
+      "durationMs": 1114899,
+      "recordingDurationMs": 3500860,
+      "bytes": 28007177,
+      "sha256": "1c2b06285a23df28fb78d508d116755a869b68db825557c1228cec45f55a8255",
+      "sharedAyahs": [
+        "5:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "youtube-TF02OzF7rZI",
+          "start": 0,
+          "end": 1114.829
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 1346531,
+      "durationMs": 1346531,
+      "recordingDurationMs": 4030390,
+      "bytes": 32243465,
+      "sha256": "de34bd18eab904cdeb90b08565188a57443cb0bcf4baf1a5b466c7b042d2a42b",
+      "sharedAyahs": [
+        "5:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "youtube-TF02OzF7rZI",
+          "start": 1114.829,
+          "end": 2461.46
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-122.mp3",
+      "startMs": 0,
+      "endMs": 23660,
+      "durationMs": 23660,
+      "recordingDurationMs": 23660,
+      "bytes": 189641,
+      "sha256": "5ab8ddd1740a6d90cd0add6ff652d677a43a187b12528c67d4a7f516d2d795b3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 0,
+          "end": 23.64
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/003.mp3",
+      "startMs": 1346531,
+      "endMs": 4030390,
+      "durationMs": 2683859,
+      "recordingDurationMs": 4030390,
+      "bytes": 32243465,
+      "sha256": "de34bd18eab904cdeb90b08565188a57443cb0bcf4baf1a5b466c7b042d2a42b",
+      "sharedAyahs": [
+        "5:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 23.64,
+          "end": 2707.38
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 30037,
+      "durationMs": 30037,
+      "recordingDurationMs": 1699060,
+      "bytes": 13592777,
+      "sha256": "b0f0a01a37ea5682925e54cfb484d5349dff94d85e28845c8c5e78babb148262",
+      "sharedAyahs": [
+        "5:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 2707.38,
+          "end": 2737.4
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-170.mp3",
+      "startMs": 0,
+      "endMs": 8660,
+      "durationMs": 8660,
+      "recordingDurationMs": 8660,
+      "bytes": 69636,
+      "sha256": "903110d836a6826b3d4da9b1d65c27f94222fe0df0e187887d0b9361fe6f64ed",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 2737.4,
+          "end": 2746.08
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-123.mp3",
+      "startMs": 0,
+      "endMs": 8640,
+      "durationMs": 8640,
+      "recordingDurationMs": 8640,
+      "bytes": 69449,
+      "sha256": "663e7d1599d474f53db0473010371e0a6211c0257f1b9fe36ac67c9e7df03483",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive-2554",
+          "start": 0,
+          "end": 8.616
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/004.mp3",
+      "startMs": 30037,
+      "endMs": 1699060,
+      "durationMs": 1669023,
+      "recordingDurationMs": 1699060,
+      "bytes": 13592777,
+      "sha256": "b0f0a01a37ea5682925e54cfb484d5349dff94d85e28845c8c5e78babb148262",
+      "sharedAyahs": [
+        "5:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2554",
+          "start": 8.616,
+          "end": 1677.59
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 201515,
+      "durationMs": 201515,
+      "recordingDurationMs": 1291300,
+      "bytes": 10330697,
+      "sha256": "2dd6744f4a53a55f37488f92c1f845b6fb852ea96d619862624c86a12a59354d",
+      "sharedAyahs": [
+        "5:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2554",
+          "start": 1677.59,
+          "end": 1879.2
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/005.mp3",
+      "startMs": 201515,
+      "endMs": 961211,
+      "durationMs": 759696,
+      "recordingDurationMs": 1291300,
+      "bytes": 10330697,
+      "sha256": "2dd6744f4a53a55f37488f92c1f845b6fb852ea96d619862624c86a12a59354d",
+      "sharedAyahs": [
+        "5:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2555",
+          "start": 0,
+          "end": 759.672
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-171.mp3",
+      "startMs": 0,
+      "endMs": 1750,
+      "durationMs": 1750,
+      "recordingDurationMs": 1750,
+      "bytes": 14439,
+      "sha256": "a255f2c3808cfbf69b5dcfb6246af0f06a741110feb3fe40d44a3d74bcfd8847",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive-2555",
+          "start": 759.672,
+          "end": 761.42
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/005.mp3",
+      "startMs": 961211,
+      "endMs": 1291300,
+      "durationMs": 330089,
+      "recordingDurationMs": 1291300,
+      "bytes": 10330697,
+      "sha256": "2dd6744f4a53a55f37488f92c1f845b6fb852ea96d619862624c86a12a59354d",
+      "sharedAyahs": [
+        "5:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2556",
+          "start": 0,
+          "end": 329.976
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 92891,
+      "durationMs": 92891,
+      "recordingDurationMs": 3208630,
+      "bytes": 25669385,
+      "sha256": "f2fe214edfcc98c4f04439af532a4ae97cd11b0cebd6eaa12fa666c5642daae0",
+      "sharedAyahs": [
+        "5:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2556",
+          "start": 329.976,
+          "end": 422.92
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/other-07.mp3",
+      "startMs": 0,
+      "endMs": 395620,
+      "durationMs": 395620,
+      "recordingDurationMs": 395620,
+      "bytes": 3165349,
+      "sha256": "1a45f82ea9ecdcefc6513e3c161146bcb4903499538f282285ebccbcda30b88e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive-2556",
+          "start": 422.92,
+          "end": 818.5
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/006.mp3",
+      "startMs": 92891,
+      "endMs": 921875,
+      "durationMs": 828984,
+      "recordingDurationMs": 3208630,
+      "bytes": 25669385,
+      "sha256": "f2fe214edfcc98c4f04439af532a4ae97cd11b0cebd6eaa12fa666c5642daae0",
+      "sharedAyahs": [
+        "5:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2556",
+          "start": 818.5,
+          "end": 1647.5
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/006.mp3",
+      "startMs": 921875,
+      "endMs": 1923731,
+      "durationMs": 1001856,
+      "recordingDurationMs": 3208630,
+      "bytes": 25669385,
+      "sha256": "f2fe214edfcc98c4f04439af532a4ae97cd11b0cebd6eaa12fa666c5642daae0",
+      "sharedAyahs": [
+        "5:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2557",
+          "start": 8.57,
+          "end": 1010.424
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-172.mp3",
+      "startMs": 0,
+      "endMs": 2760,
+      "durationMs": 2760,
+      "recordingDurationMs": 2760,
+      "bytes": 22503,
+      "sha256": "8f9d04b059cf8ea3ceca722ff90d0282547486e5a83e221c8b9d8ef19d6664c1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive-2557",
+          "start": 1010.424,
+          "end": 1013.18
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-124.mp3",
+      "startMs": 0,
+      "endMs": 29040,
+      "durationMs": 29040,
+      "recordingDurationMs": 29040,
+      "bytes": 232649,
+      "sha256": "bd42b29ce81aa545cd1688131d107c50e37592fa0df8f864c496eda1f6a99d25",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive-2558",
+          "start": 0,
+          "end": 29.0
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/006.mp3",
+      "startMs": 1923731,
+      "endMs": 3208630,
+      "durationMs": 1284899,
+      "recordingDurationMs": 3208630,
+      "bytes": 25669385,
+      "sha256": "f2fe214edfcc98c4f04439af532a4ae97cd11b0cebd6eaa12fa666c5642daae0",
+      "sharedAyahs": [
+        "5:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2558",
+          "start": 29.0,
+          "end": 1313.8
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 576371,
+      "durationMs": 576371,
+      "recordingDurationMs": 1070470,
+      "bytes": 8564105,
+      "sha256": "4b190b5a3f70e1e12b20fb510a810e87a47c6d4981f48309b48d3e7413cc034b",
+      "sharedAyahs": [
+        "5:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2558",
+          "start": 1313.8,
+          "end": 1890.26
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/007.mp3",
+      "startMs": 576371,
+      "endMs": 1070470,
+      "durationMs": 494099,
+      "recordingDurationMs": 1070470,
+      "bytes": 8564105,
+      "sha256": "4b190b5a3f70e1e12b20fb510a810e87a47c6d4981f48309b48d3e7413cc034b",
+      "sharedAyahs": [
+        "5:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2559",
+          "start": 0,
+          "end": 493.97
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 345275,
+      "durationMs": 345275,
+      "recordingDurationMs": 1983140,
+      "bytes": 15865481,
+      "sha256": "5f865d02c52dcf5e4c8200dc6dc07eb50f840f5e6aac306daf47b075d9f684fe",
+      "sharedAyahs": [
+        "5:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2559",
+          "start": 493.97,
+          "end": 839.35
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-125.mp3",
+      "startMs": 0,
+      "endMs": 24170,
+      "durationMs": 24170,
+      "recordingDurationMs": 24170,
+      "bytes": 193673,
+      "sha256": "1a5769ace8e83b3577da1048f159baf02b4e45fd23a89995e979a0e17a7d66aa",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 0,
+          "end": 24.144
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/008.mp3",
+      "startMs": 345275,
+      "endMs": 1983140,
+      "durationMs": 1637865,
+      "recordingDurationMs": 1983140,
+      "bytes": 15865481,
+      "sha256": "5f865d02c52dcf5e4c8200dc6dc07eb50f840f5e6aac306daf47b075d9f684fe",
+      "sharedAyahs": [
+        "5:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 24.144,
+          "end": 1661.9
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 322300,
+      "durationMs": 322300,
+      "recordingDurationMs": 322300,
+      "bytes": 2578697,
+      "sha256": "270d7337094a3a133df7813d7bae87964e9ab92aa0a51ef9055112e22ad7b8d1",
+      "sharedAyahs": [
+        "5:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 1661.9,
+          "end": 1984.153
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 92950,
+      "durationMs": 92950,
+      "recordingDurationMs": 92950,
+      "bytes": 743947,
+      "sha256": "bac8550e544c59015a9f018f16dd9efea7c0e6f8e7b91dfc39d7dcfae88f8b6b",
+      "sharedAyahs": [
+        "5:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 1984.153,
+          "end": 2077.1
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 815197,
+      "durationMs": 815197,
+      "recordingDurationMs": 3182570,
+      "bytes": 25460875,
+      "sha256": "2475f1509afb115b07b4bdb20680c6a876b1ca036a18669e5382cccacc1837aa",
+      "sharedAyahs": [
+        "5:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 2077.1,
+          "end": 2892.286
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-173.mp3",
+      "startMs": 0,
+      "endMs": 9790,
+      "durationMs": 9790,
+      "recordingDurationMs": 9790,
+      "bytes": 78660,
+      "sha256": "c3b43860545e940b0f838d31166690b476065b5b56c81c5e6a019afb77bd352e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 2892.286,
+          "end": 2902.08
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-126.mp3",
+      "startMs": 0,
+      "endMs": 21960,
+      "durationMs": 21960,
+      "recordingDurationMs": 21960,
+      "bytes": 176009,
+      "sha256": "542c2ca00da81073c0fc39772f29559ae4f390348cc1ca8d1e3c610bb959106a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 0,
+          "end": 21.936
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/011.mp3",
+      "startMs": 815197,
+      "endMs": 3182570,
+      "durationMs": 2367373,
+      "recordingDurationMs": 3182570,
+      "bytes": 25460875,
+      "sha256": "2475f1509afb115b07b4bdb20680c6a876b1ca036a18669e5382cccacc1837aa",
+      "sharedAyahs": [
+        "5:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 21.936,
+          "end": 2389.254
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 287077,
+      "durationMs": 287077,
+      "recordingDurationMs": 1867540,
+      "bytes": 14940619,
+      "sha256": "0e21fbe40e73233a850df200303ecbf512a8201d3cc420079b56d1041941fc82",
+      "sharedAyahs": [
+        "5:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 2389.254,
+          "end": 2676.336
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-174.mp3",
+      "startMs": 0,
+      "endMs": 6860,
+      "durationMs": 6860,
+      "recordingDurationMs": 6860,
+      "bytes": 55236,
+      "sha256": "49eb2756aaa17e47315423915e0d3a3319fb3064df4b3624bcfd7937f1a1e0ea",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 2676.336,
+          "end": 2683.2
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-127.mp3",
+      "startMs": 0,
+      "endMs": 20400,
+      "durationMs": 20400,
+      "recordingDurationMs": 20400,
+      "bytes": 163529,
+      "sha256": "e928aa8ee21a101e0fe98194576355def6ccc4fa45c1f506ee043b061af32101",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 0,
+          "end": 20.37
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/012.mp3",
+      "startMs": 287077,
+      "endMs": 1867540,
+      "durationMs": 1580463,
+      "recordingDurationMs": 1867540,
+      "bytes": 14940619,
+      "sha256": "0e21fbe40e73233a850df200303ecbf512a8201d3cc420079b56d1041941fc82",
+      "sharedAyahs": [
+        "5:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 20.37,
+          "end": 1600.777
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 1167877,
+      "durationMs": 1167877,
+      "recordingDurationMs": 2096090,
+      "bytes": 16769035,
+      "sha256": "05eb36f1c3bfafb7bf3869fe1f24c15bb64512b8d56e4f3c49b7cac81dba8b2c",
+      "sharedAyahs": [
+        "5:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 1600.777,
+          "end": 2768.664
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-175.mp3",
+      "startMs": 0,
+      "endMs": 7080,
+      "durationMs": 7080,
+      "recordingDurationMs": 7080,
+      "bytes": 56964,
+      "sha256": "4759cc6f6aab931cc055b357e60cd823c1d877b4f6840e0eeba55786352ec903",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 2768.664,
+          "end": 2775.74
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-128.mp3",
+      "startMs": 0,
+      "endMs": 17450,
+      "durationMs": 17450,
+      "recordingDurationMs": 17450,
+      "bytes": 139913,
+      "sha256": "654d50033dedcba77ffea717bf8a03ee167f2e61f5f9f4da6263906fabe9541b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "official-E-pcp9yD1t8",
+          "start": 0,
+          "end": 17.41
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/013.mp3",
+      "startMs": 1167877,
+      "endMs": 2096090,
+      "durationMs": 928213,
+      "recordingDurationMs": 2096090,
+      "bytes": 16769035,
+      "sha256": "05eb36f1c3bfafb7bf3869fe1f24c15bb64512b8d56e4f3c49b7cac81dba8b2c",
+      "sharedAyahs": [
+        "5:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "official-E-pcp9yD1t8",
+          "start": 17.41,
+          "end": 945.584
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 263900,
+      "durationMs": 263900,
+      "recordingDurationMs": 263900,
+      "bytes": 2111563,
+      "sha256": "aea5fde0b7453295fa16d3e9d15066950df85fa7532a798b274a577bd4d6ef55",
+      "sharedAyahs": [
+        "5:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "official-E-pcp9yD1t8",
+          "start": 945.584,
+          "end": 1209.48
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/015.mp3",
+      "startMs": 0,
+      "endMs": 1525153,
+      "durationMs": 1525153,
+      "recordingDurationMs": 2878150,
+      "bytes": 23025547,
+      "sha256": "f58ae3d6be0876f550c0a29df8ff3a2338f4871491e6357ccdf9dd7c5bb2d20c",
+      "sharedAyahs": [
+        "5:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "official-E-pcp9yD1t8",
+          "start": 1209.48,
+          "end": 2734.632
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-176.mp3",
+      "startMs": 0,
+      "endMs": 2520,
+      "durationMs": 2520,
+      "recordingDurationMs": 2520,
+      "bytes": 20484,
+      "sha256": "72c1d90da874a57aee8366a5c2b729922d32359208e786b0ae14997e326a1093",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "official-E-pcp9yD1t8",
+          "start": 2734.632,
+          "end": 2737.15
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/015.mp3",
+      "startMs": 1525153,
+      "endMs": 2878150,
+      "durationMs": 1352997,
+      "recordingDurationMs": 2878150,
+      "bytes": 23025547,
+      "sha256": "f58ae3d6be0876f550c0a29df8ff3a2338f4871491e6357ccdf9dd7c5bb2d20c",
+      "sharedAyahs": [
+        "5:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2568",
+          "start": 0,
+          "end": 1352.94
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 298115,
+      "durationMs": 298115,
+      "recordingDurationMs": 673180,
+      "bytes": 5385739,
+      "sha256": "5a64d09f26740eaa60f8d597bbef58c50f8592637c4c1dba4a7c56ab641be36f",
+      "sharedAyahs": [
+        "5:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2568",
+          "start": 1352.94,
+          "end": 1651.15
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/016.mp3",
+      "startMs": 298115,
+      "endMs": 673180,
+      "durationMs": 375065,
+      "recordingDurationMs": 673180,
+      "bytes": 5385739,
+      "sha256": "5a64d09f26740eaa60f8d597bbef58c50f8592637c4c1dba4a7c56ab641be36f",
+      "sharedAyahs": [
+        "5:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2569",
+          "start": 0,
+          "end": 374.939
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 291820,
+      "durationMs": 291820,
+      "recordingDurationMs": 291820,
+      "bytes": 2334958,
+      "sha256": "943d82e4d660d819f86bf44599c00cf6dc185e548df96e3ea66116a9c95a917a",
+      "sharedAyahs": [
+        "5:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2569",
+          "start": 374.939,
+          "end": 666.744
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 230520,
+      "durationMs": 230520,
+      "recordingDurationMs": 230520,
+      "bytes": 1844590,
+      "sha256": "2c9fd1016aa9095aa5a40885954cbd0b4cb51ba8941e493f01be2ab9d75b0786",
+      "sharedAyahs": [
+        "5:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-2569",
+          "start": 666.744,
+          "end": 897.24
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-177.mp3",
+      "startMs": 0,
+      "endMs": 940,
+      "durationMs": 940,
+      "recordingDurationMs": 940,
+      "bytes": 7911,
+      "sha256": "2585f1be16f54e695dd53dcf59da65e144416ea2bb367c008508d528ce0bd101",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive-2569",
+          "start": 897.24,
+          "end": 898.18
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-129.mp3",
+      "startMs": 0,
+      "endMs": 46100,
+      "durationMs": 46100,
+      "recordingDurationMs": 46100,
+      "bytes": 369161,
+      "sha256": "7be8a1b8f296315d791ca1dcc0cd411a4b0aeb9784c0f75aa98781b768f8ae2b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 0,
+          "end": 46.068
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 614450,
+      "durationMs": 614450,
+      "recordingDurationMs": 614450,
+      "bytes": 4915915,
+      "sha256": "d3a6494e5e55124ffa652a82e40cf15a15deef61d89827cfc40d3b3d1f2c2ccd",
+      "sharedAyahs": [
+        "5:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 46.068,
+          "end": 660.504
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 414480,
+      "durationMs": 414480,
+      "recordingDurationMs": 414480,
+      "bytes": 3316171,
+      "sha256": "10282eca45e751caf2df8b1d46cba415eb0956c71ebf4ba15b187364b61b0e30",
+      "sharedAyahs": [
+        "5:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 660.504,
+          "end": 1074.96
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 1594933,
+      "durationMs": 1594933,
+      "recordingDurationMs": 2249900,
+      "bytes": 17999563,
+      "sha256": "31f699bbc42040face544d2d5fc63dc626a933201efb913e55ee7ab5dd316f51",
+      "sharedAyahs": [
+        "5:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1074.96,
+          "end": 2669.88
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-178.mp3",
+      "startMs": 0,
+      "endMs": 15290,
+      "durationMs": 15290,
+      "recordingDurationMs": 15290,
+      "bytes": 122628,
+      "sha256": "db601e7ded77c9d817fae94d42a92b55ba5c7fb013f02ebd2d300a1b5cbc4a4b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2669.88,
+          "end": 2685.17
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-130.mp3",
+      "startMs": 0,
+      "endMs": 22390,
+      "durationMs": 22390,
+      "recordingDurationMs": 22390,
+      "bytes": 179465,
+      "sha256": "7b0f8ce0fe271f64f7290d69e0c730efcca99eb6c44dc1342223f3fa73d79459",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 0,
+          "end": 22.345
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/021.mp3",
+      "startMs": 1594933,
+      "endMs": 2249900,
+      "durationMs": 654967,
+      "recordingDurationMs": 2249900,
+      "bytes": 17999563,
+      "sha256": "31f699bbc42040face544d2d5fc63dc626a933201efb913e55ee7ab5dd316f51",
+      "sharedAyahs": [
+        "5:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 22.345,
+          "end": 677.3
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 292440,
+      "durationMs": 292440,
+      "recordingDurationMs": 292440,
+      "bytes": 2339851,
+      "sha256": "858f5a28211de74e9356c8685feff90a0c0141e6a9efc39717217ae88c660421",
+      "sharedAyahs": [
+        "5:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 677.3,
+          "end": 969.7
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 433700,
+      "durationMs": 433700,
+      "recordingDurationMs": 433700,
+      "bytes": 3469963,
+      "sha256": "117172348800292681bec7dccb3e7e6ef1402d5621ab98803f5092f9dec3f9c9",
+      "sharedAyahs": [
+        "5:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 969.7,
+          "end": 1403.4
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 46560,
+      "durationMs": 46560,
+      "recordingDurationMs": 46560,
+      "bytes": 372811,
+      "sha256": "2ecb6260e6f1f1aa4c9c4a3a1818f830ef1c9e72eb427ae36d91c25c8a40900e",
+      "sharedAyahs": [
+        "5:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1403.4,
+          "end": 1449.936
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/025.mp3",
+      "startMs": 0,
+      "endMs": 149710,
+      "durationMs": 149710,
+      "recordingDurationMs": 149710,
+      "bytes": 1198027,
+      "sha256": "282f6a68040293696339254f487784e7f7c4061eb7673d1281edf5d47bc3a1e3",
+      "sharedAyahs": [
+        "5:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1449.936,
+          "end": 1599.624
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 377230,
+      "durationMs": 377230,
+      "recordingDurationMs": 377230,
+      "bytes": 3018187,
+      "sha256": "c9171cde4ac1d895bdce5feee50d44ced90ffc0f0ab82e1af5e72cede57c56b2",
+      "sharedAyahs": [
+        "5:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1599.624,
+          "end": 1976.819
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 842917,
+      "durationMs": 842917,
+      "recordingDurationMs": 1893430,
+      "bytes": 15147787,
+      "sha256": "7195f8754cd1f05eb09d711471c2426a4f5cdd464097a548446094fda87e236e",
+      "sharedAyahs": [
+        "5:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1976.819,
+          "end": 2819.72
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-179.mp3",
+      "startMs": 0,
+      "endMs": 8090,
+      "durationMs": 8090,
+      "recordingDurationMs": 8090,
+      "bytes": 65028,
+      "sha256": "f98f81605dfb7c7e5f5150a30442ff4690654bbceec110b89a93faa2e3646a5b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 2819.72,
+          "end": 2827.82
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-131.mp3",
+      "startMs": 0,
+      "endMs": 24500,
+      "durationMs": 24500,
+      "recordingDurationMs": 24500,
+      "bytes": 196361,
+      "sha256": "ea48df0c5922984657eb617e98f6c61df810259377778d25da71ff700b8c499a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 0,
+          "end": 24.479
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/027.mp3",
+      "startMs": 842917,
+      "endMs": 1893430,
+      "durationMs": 1050513,
+      "recordingDurationMs": 1893430,
+      "bytes": 15147787,
+      "sha256": "7195f8754cd1f05eb09d711471c2426a4f5cdd464097a548446094fda87e236e",
+      "sharedAyahs": [
+        "5:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 24.479,
+          "end": 1074.959
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 566280,
+      "durationMs": 566280,
+      "recordingDurationMs": 566280,
+      "bytes": 4530571,
+      "sha256": "878f29a85880d587a6c827d91b5eb116144173af4e599b701f10022b38045b0f",
+      "sharedAyahs": [
+        "5:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1074.959,
+          "end": 1641.2
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 393240,
+      "durationMs": 393240,
+      "recordingDurationMs": 393240,
+      "bytes": 3146251,
+      "sha256": "032a8380083515ee1fa99f0b060dbb9b133febd4088533eab751e23bc48e2ce5",
+      "sharedAyahs": [
+        "5:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1641.2,
+          "end": 2034.43
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 381310,
+      "durationMs": 381310,
+      "recordingDurationMs": 381310,
+      "bytes": 3050827,
+      "sha256": "79b4ca31214242d316582a367b4e9456bd5842eaacf3863ed95accc58d934370",
+      "sharedAyahs": [
+        "5:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2034.43,
+          "end": 2415.72
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/031.mp3",
+      "startMs": 0,
+      "endMs": 298717,
+      "durationMs": 298717,
+      "recordingDurationMs": 888360,
+      "bytes": 7107211,
+      "sha256": "b396309dcc56560c92c2f6b593b28b7447b20670ea0a83c12bc7a073a6acd769",
+      "sharedAyahs": [
+        "5:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2415.72,
+          "end": 2714.42
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-180.mp3",
+      "startMs": 0,
+      "endMs": 4820,
+      "durationMs": 4820,
+      "recordingDurationMs": 4820,
+      "bytes": 38916,
+      "sha256": "d4b4d3aee3f6cc18d2044591f165431fe93b04fd11389b67f3ef013d21931e4d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2714.42,
+          "end": 2719.25
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-132.mp3",
+      "startMs": 0,
+      "endMs": 23090,
+      "durationMs": 23090,
+      "recordingDurationMs": 23090,
+      "bytes": 185033,
+      "sha256": "834f0be07c191412aa46c24682a5288fdaefb38cd70f9d84a79104f0c9e9971b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 0,
+          "end": 23.064
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/031.mp3",
+      "startMs": 298717,
+      "endMs": 888360,
+      "durationMs": 589643,
+      "recordingDurationMs": 888360,
+      "bytes": 7107211,
+      "sha256": "b396309dcc56560c92c2f6b593b28b7447b20670ea0a83c12bc7a073a6acd769",
+      "sharedAyahs": [
+        "5:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 23.064,
+          "end": 612.65
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 1773890,
+      "durationMs": 1773890,
+      "recordingDurationMs": 1773890,
+      "bytes": 14191435,
+      "sha256": "5043b9b9221a671aad64bb311918642cd860f8bfde49f3e9e76a10002afac073",
+      "sharedAyahs": [
+        "5:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 612.65,
+          "end": 2386.52
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 397597,
+      "durationMs": 397597,
+      "recordingDurationMs": 2048690,
+      "bytes": 16389835,
+      "sha256": "ffc2a5c8c2d6bbedf444917e4dd5acfc0f2032a99f67b54f7d850ac8a4203e28",
+      "sharedAyahs": [
+        "5:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 2386.52,
+          "end": 2784.12
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-181.mp3",
+      "startMs": 0,
+      "endMs": 7580,
+      "durationMs": 7580,
+      "recordingDurationMs": 7580,
+      "bytes": 60996,
+      "sha256": "1835bb2ff35ec6a59a2fd89f91bc464ad927614c5c1728e5d0d213dc93c58863",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 2784.12,
+          "end": 2791.7
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-133.mp3",
+      "startMs": 0,
+      "endMs": 21740,
+      "durationMs": 21740,
+      "recordingDurationMs": 21740,
+      "bytes": 174281,
+      "sha256": "98568e5082b0f9d9a88e5726bb914470b71d59e87eb18d7348299572eecab66a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 0,
+          "end": 21.697
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/033.mp3",
+      "startMs": 397597,
+      "endMs": 2048690,
+      "durationMs": 1651093,
+      "recordingDurationMs": 2048690,
+      "bytes": 16389835,
+      "sha256": "ffc2a5c8c2d6bbedf444917e4dd5acfc0f2032a99f67b54f7d850ac8a4203e28",
+      "sharedAyahs": [
+        "5:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 21.697,
+          "end": 1672.77
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/034.mp3",
+      "startMs": 0,
+      "endMs": 238660,
+      "durationMs": 238660,
+      "recordingDurationMs": 238660,
+      "bytes": 1909579,
+      "sha256": "da69ab23f34866b8a4830a6c111bdcf83253ddae48c5339eb6e4cc34cbcab2a0",
+      "sharedAyahs": [
+        "5:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 1672.77,
+          "end": 1911.385
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 755051,
+      "durationMs": 755051,
+      "recordingDurationMs": 1124520,
+      "bytes": 8996491,
+      "sha256": "ef20ff83c2d31b663ed3472b26b7eac6770b3520b73e74fb5903e5366d2799bd",
+      "sharedAyahs": [
+        "5:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 1911.385,
+          "end": 2666.54
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-134.mp3",
+      "startMs": 0,
+      "endMs": 19660,
+      "durationMs": 19660,
+      "recordingDurationMs": 19660,
+      "bytes": 157577,
+      "sha256": "23412baeff0d8cd0f6eaf92c54f6240e596c577c0c001c95aba24f310b1d4411",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 0,
+          "end": 19.61
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/035.mp3",
+      "startMs": 755051,
+      "endMs": 1124520,
+      "durationMs": 369469,
+      "recordingDurationMs": 1124520,
+      "bytes": 8996491,
+      "sha256": "ef20ff83c2d31b663ed3472b26b7eac6770b3520b73e74fb5903e5366d2799bd",
+      "sharedAyahs": [
+        "5:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 19.61,
+          "end": 388.969
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 369840,
+      "durationMs": 369840,
+      "recordingDurationMs": 369840,
+      "bytes": 2959051,
+      "sha256": "ab8d2c9aa90ffdabb1d3afa26f41f497d83115dd4ad72f317191b676b3e8dabd",
+      "sharedAyahs": [
+        "5:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 388.969,
+          "end": 758.785
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 141260,
+      "durationMs": 141260,
+      "recordingDurationMs": 141260,
+      "bytes": 1130443,
+      "sha256": "d5959ead67e141498bfd3eba3d61b1a01f6fc7be139008fe721f5f190d1cdb57",
+      "sharedAyahs": [
+        "5:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 758.785,
+          "end": 900.044
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 1927043,
+      "durationMs": 1927043,
+      "recordingDurationMs": 2778580,
+      "bytes": 22228939,
+      "sha256": "9e0a6f261b0f3449b54aba49464c3111341f354988f50f6a6f52e5a0ddb3056f",
+      "sharedAyahs": [
+        "5:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 900.044,
+          "end": 2827.18
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-135.mp3",
+      "startMs": 0,
+      "endMs": 20210,
+      "durationMs": 20210,
+      "recordingDurationMs": 20210,
+      "bytes": 161993,
+      "sha256": "6bbf573f19c8982f238c8c9cee384f256c46537066fb6d556df0c09c59f596c8",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 0,
+          "end": 20.184
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/038.mp3",
+      "startMs": 1927043,
+      "endMs": 2778580,
+      "durationMs": 851537,
+      "recordingDurationMs": 2778580,
+      "bytes": 22228939,
+      "sha256": "9e0a6f261b0f3449b54aba49464c3111341f354988f50f6a6f52e5a0ddb3056f",
+      "sharedAyahs": [
+        "5:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 20.184,
+          "end": 871.59
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 259130,
+      "durationMs": 259130,
+      "recordingDurationMs": 259130,
+      "bytes": 2073355,
+      "sha256": "49c25cc7bac36820d53c5714005eea3f3f67baa4ec9c41daac994bacdd496934",
+      "sharedAyahs": [
+        "5:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 871.59,
+          "end": 1130.712
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 622320,
+      "durationMs": 622320,
+      "recordingDurationMs": 622320,
+      "bytes": 4978891,
+      "sha256": "61eeb945328e10aad9922944f1eed146d3d8fddec463000f01e023c7b32eafd3",
+      "sharedAyahs": [
+        "5:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 1130.712,
+          "end": 1753.0
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 950389,
+      "durationMs": 950389,
+      "recordingDurationMs": 2363110,
+      "bytes": 18905227,
+      "sha256": "ca7f2fd69a97a79cc53b5e29b4250844d5cba42632f0e44f4b5377d2ffe14c05",
+      "sharedAyahs": [
+        "5:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 1753.0,
+          "end": 2703.362
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-182.mp3",
+      "startMs": 0,
+      "endMs": 8300,
+      "durationMs": 8300,
+      "recordingDurationMs": 8300,
+      "bytes": 66756,
+      "sha256": "09f0b76811cca762cb72f2d22f35a3af337edec8e2f2c6ad46eb23b1d778e562",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 2703.362,
+          "end": 2711.69
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-136.mp3",
+      "startMs": 0,
+      "endMs": 23260,
+      "durationMs": 23260,
+      "recordingDurationMs": 23260,
+      "bytes": 186377,
+      "sha256": "c95450a4f5470ddf12da3045b05b66a916ed7023835ae45394a502a179024382",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 0,
+          "end": 23.232
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/041.mp3",
+      "startMs": 950389,
+      "endMs": 2363110,
+      "durationMs": 1412721,
+      "recordingDurationMs": 2363110,
+      "bytes": 18905227,
+      "sha256": "ca7f2fd69a97a79cc53b5e29b4250844d5cba42632f0e44f4b5377d2ffe14c05",
+      "sharedAyahs": [
+        "5:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 23.232,
+          "end": 1435.92
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 1271461,
+      "durationMs": 1271461,
+      "recordingDurationMs": 2522570,
+      "bytes": 20180875,
+      "sha256": "9a698d04c560c7c1c2f616f30bdc14bc34d33f67282f1ebd333a0580b3d672db",
+      "sharedAyahs": [
+        "5:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 1435.92,
+          "end": 2707.35
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-183.mp3",
+      "startMs": 0,
+      "endMs": 8950,
+      "durationMs": 8950,
+      "recordingDurationMs": 8950,
+      "bytes": 71940,
+      "sha256": "4575b4b0558f26c742c30120788273d40c4a12f332007ce64f3a9d404872b6fc",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 2707.35,
+          "end": 2716.32
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-137.mp3",
+      "startMs": 0,
+      "endMs": 25510,
+      "durationMs": 25510,
+      "recordingDurationMs": 25510,
+      "bytes": 204425,
+      "sha256": "51f697a2905091e665252057d9e0014989272ad644cfad6cc519bc3200a1feea",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 0,
+          "end": 25.487
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/042.mp3",
+      "startMs": 1271461,
+      "endMs": 2522570,
+      "durationMs": 1251109,
+      "recordingDurationMs": 2522570,
+      "bytes": 20180875,
+      "sha256": "9a698d04c560c7c1c2f616f30bdc14bc34d33f67282f1ebd333a0580b3d672db",
+      "sharedAyahs": [
+        "5:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 25.487,
+          "end": 1276.55
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 148490,
+      "durationMs": 148490,
+      "recordingDurationMs": 148490,
+      "bytes": 1188235,
+      "sha256": "3ed9cb4a40e7a1c6357a451a47fe69788e4edf502af5eca9fbe22b57b80e08fd",
+      "sharedAyahs": [
+        "5:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 1276.55,
+          "end": 1425.001
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 1349689,
+      "durationMs": 1349689,
+      "recordingDurationMs": 2434750,
+      "bytes": 19478347,
+      "sha256": "0a1bd082e843fcb93fffe458584587caad718d96759c562405c59bdcf785212b",
+      "sharedAyahs": [
+        "5:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 1425.001,
+          "end": 2774.7
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-184.mp3",
+      "startMs": 0,
+      "endMs": 67510,
+      "durationMs": 67510,
+      "recordingDurationMs": 67510,
+      "bytes": 540420,
+      "sha256": "ea53172b70b96413b8ceedcbb080513ee4714d629051bb55a86c5dbd250f57f9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 2774.7,
+          "end": 2842.22
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/044.mp3",
+      "startMs": 1349689,
+      "endMs": 2434750,
+      "durationMs": 1085061,
+      "recordingDurationMs": 2434750,
+      "bytes": 19478347,
+      "sha256": "0a1bd082e843fcb93fffe458584587caad718d96759c562405c59bdcf785212b",
+      "sharedAyahs": [
+        "5:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 0,
+          "end": 1085.0
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 653930,
+      "durationMs": 653930,
+      "recordingDurationMs": 653930,
+      "bytes": 5231755,
+      "sha256": "657e099b18dde4b75b1cc87577b4ad509567ce26a0b92993741e42c1109d466d",
+      "sharedAyahs": [
+        "5:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 1085.0,
+          "end": 1738.897
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 188900,
+      "durationMs": 188900,
+      "recordingDurationMs": 188900,
+      "bytes": 1511563,
+      "sha256": "b33146253c355cd37d85ee19f7272a229407eade051f09149e3b51b70ed9c1d4",
+      "sharedAyahs": [
+        "5:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 1738.897,
+          "end": 1927.799
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 86420,
+      "durationMs": 86420,
+      "recordingDurationMs": 86420,
+      "bytes": 691723,
+      "sha256": "0c318bf7f0dd0e8eb5cccdc64965f2234e8ac40175d8234adaf9cbad8bcfa7e1",
+      "sharedAyahs": [
+        "5:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 1927.799,
+          "end": 2014.2
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 740437,
+      "durationMs": 740437,
+      "recordingDurationMs": 2426350,
+      "bytes": 19411147,
+      "sha256": "70a2c8c47535d85c77b0487e8c9abba0f1d6c23dfc9ce3ea6bedd308bdad027e",
+      "sharedAyahs": [
+        "5:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 2014.2,
+          "end": 2754.601
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-185.mp3",
+      "startMs": 0,
+      "endMs": 9220,
+      "durationMs": 9220,
+      "recordingDurationMs": 9220,
+      "bytes": 74052,
+      "sha256": "4c3518bea102c43a4c800ca3010bf6f8fe2e1e7d280e46e20d195be9528f3de1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 2754.601,
+          "end": 2763.84
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-138.mp3",
+      "startMs": 0,
+      "endMs": 31850,
+      "durationMs": 31850,
+      "recordingDurationMs": 31850,
+      "bytes": 255113,
+      "sha256": "c59bfb1fed4b13ced6a621250f2bdf3b0c28d81e3d4b22b80d2b1539ea9e010c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 0,
+          "end": 31.824
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/048.mp3",
+      "startMs": 740437,
+      "endMs": 2351773,
+      "durationMs": 1611336,
+      "recordingDurationMs": 2426350,
+      "bytes": 19411147,
+      "sha256": "70a2c8c47535d85c77b0487e8c9abba0f1d6c23dfc9ce3ea6bedd308bdad027e",
+      "sharedAyahs": [
+        "5:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 31.824,
+          "end": 1643.136
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-186.mp3",
+      "startMs": 0,
+      "endMs": 4900,
+      "durationMs": 4900,
+      "recordingDurationMs": 4900,
+      "bytes": 39492,
+      "sha256": "7a5452dc287b28d4c6b29ecfa1c90bf65d3bb17824847cab939be3ecfad8e7fe",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 1643.136,
+          "end": 1648.03
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-139.mp3",
+      "startMs": 0,
+      "endMs": 26500,
+      "durationMs": 26500,
+      "recordingDurationMs": 26500,
+      "bytes": 212297,
+      "sha256": "6f1dfddcbb98493d5c091a85b28a3e78c4c84c0ca89694ea4a510fed678bd7b6",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 0,
+          "end": 26.472
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/048.mp3",
+      "startMs": 2351773,
+      "endMs": 2426350,
+      "durationMs": 74577,
+      "recordingDurationMs": 2426350,
+      "bytes": 19411147,
+      "sha256": "70a2c8c47535d85c77b0487e8c9abba0f1d6c23dfc9ce3ea6bedd308bdad027e",
+      "sharedAyahs": [
+        "5:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 26.472,
+          "end": 100.999
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 399720,
+      "durationMs": 399720,
+      "recordingDurationMs": 399720,
+      "bytes": 3198091,
+      "sha256": "09fadae9139f0744d77bc468a18fec281e3ca12001deb5f560301c7ba5e02257",
+      "sharedAyahs": [
+        "5:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 100.999,
+          "end": 500.69
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 1110720,
+      "durationMs": 1110720,
+      "recordingDurationMs": 1110720,
+      "bytes": 8886091,
+      "sha256": "eec232aa5ebc5ecd3a86c468357360b7d62736dbfea9aecbe5770a2967b0d998",
+      "sharedAyahs": [
+        "5:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 500.69,
+          "end": 1611.4
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 100837,
+      "durationMs": 100837,
+      "recordingDurationMs": 656180,
+      "bytes": 5249803,
+      "sha256": "76170a8caabee825786ae958406ba29556ed9059e56c75337f13dacd1109873a",
+      "sharedAyahs": [
+        "5:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 1611.4,
+          "end": 1712.232
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-187.mp3",
+      "startMs": 0,
+      "endMs": 5260,
+      "durationMs": 5260,
+      "recordingDurationMs": 5260,
+      "bytes": 42372,
+      "sha256": "5ac6970d51b73139ac37bf6fea1deab5b23256b1733aa89c5bc80c605b749044",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 1712.232,
+          "end": 1717.49
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-140.mp3",
+      "startMs": 0,
+      "endMs": 25420,
+      "durationMs": 25420,
+      "recordingDurationMs": 25420,
+      "bytes": 203657,
+      "sha256": "b53830c2bcfdfaced7c64dffa0d76d79c6310f8f63576a79737a91e9f1ade533",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 0,
+          "end": 25.392
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/051.mp3",
+      "startMs": 100837,
+      "endMs": 656180,
+      "durationMs": 555343,
+      "recordingDurationMs": 656180,
+      "bytes": 5249803,
+      "sha256": "76170a8caabee825786ae958406ba29556ed9059e56c75337f13dacd1109873a",
+      "sharedAyahs": [
+        "5:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 25.392,
+          "end": 580.7
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 726860,
+      "durationMs": 726860,
+      "recordingDurationMs": 726860,
+      "bytes": 5815243,
+      "sha256": "153d8f544d92e5646eb182007f23e1a6c07f7779fa975582d3e7c0248c094f09",
+      "sharedAyahs": [
+        "5:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 580.7,
+          "end": 1307.522
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 305280,
+      "durationMs": 305280,
+      "recordingDurationMs": 305280,
+      "bytes": 2442571,
+      "sha256": "1727337d3e053ac2796e451fc38318a21acd557b25274b7814208dbaf49a5df7",
+      "sharedAyahs": [
+        "5:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 1307.522,
+          "end": 1612.8
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/054.mp3",
+      "startMs": 0,
+      "endMs": 27275,
+      "durationMs": 27275,
+      "recordingDurationMs": 5261810,
+      "bytes": 42094795,
+      "sha256": "68d744299d2d946c42f55e9faa3eec59a483be3bf546dde12d82b920204fa351",
+      "sharedAyahs": [
+        "5:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 1612.8,
+          "end": 1640.16
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-141.mp3",
+      "startMs": 0,
+      "endMs": 26020,
+      "durationMs": 26020,
+      "recordingDurationMs": 26020,
+      "bytes": 208457,
+      "sha256": "19d5db88df1075b1294773f26033efe387bce1ec07ad61aed53da8f01c552571",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 0,
+          "end": 25.991
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/054.mp3",
+      "startMs": 27275,
+      "endMs": 1606571,
+      "durationMs": 1579296,
+      "recordingDurationMs": 5261810,
+      "bytes": 42094795,
+      "sha256": "68d744299d2d946c42f55e9faa3eec59a483be3bf546dde12d82b920204fa351",
+      "sharedAyahs": [
+        "5:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 25.991,
+          "end": 1605.25
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-188.mp3",
+      "startMs": 0,
+      "endMs": 5140,
+      "durationMs": 5140,
+      "recordingDurationMs": 5140,
+      "bytes": 41412,
+      "sha256": "292dd74570104803952d1e98325ccb0cd50ea50363ee83cdc7f8e150ef61cfe3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 1605.25,
+          "end": 1610.4
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-142.mp3",
+      "startMs": 0,
+      "endMs": 26860,
+      "durationMs": 26860,
+      "recordingDurationMs": 26860,
+      "bytes": 215177,
+      "sha256": "42129a88cc4044a8b57278284787bed2c0bf96ce4bc2556c1681ef13263824d7",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 0,
+          "end": 26.832
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/054.mp3",
+      "startMs": 1606571,
+      "endMs": 3195995,
+      "durationMs": 1589424,
+      "recordingDurationMs": 5261810,
+      "bytes": 42094795,
+      "sha256": "68d744299d2d946c42f55e9faa3eec59a483be3bf546dde12d82b920204fa351",
+      "sharedAyahs": [
+        "5:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 26.832,
+          "end": 1616.232
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-189.mp3",
+      "startMs": 0,
+      "endMs": 5710,
+      "durationMs": 5710,
+      "recordingDurationMs": 5710,
+      "bytes": 46020,
+      "sha256": "cb543bcc0480c965dca7ca529d9f8d7ad818effd91fbc64f2df1956195fcdbc0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 1616.232,
+          "end": 1621.94
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-143.mp3",
+      "startMs": 0,
+      "endMs": 27220,
+      "durationMs": 27220,
+      "recordingDurationMs": 27220,
+      "bytes": 218057,
+      "sha256": "f65b3c75e5666861cb1fee73e72e79f9b22e8e08f03ea59e003161b58ef39be1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 0,
+          "end": 27.192
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/054.mp3",
+      "startMs": 3195995,
+      "endMs": 4851899,
+      "durationMs": 1655904,
+      "recordingDurationMs": 5261810,
+      "bytes": 42094795,
+      "sha256": "68d744299d2d946c42f55e9faa3eec59a483be3bf546dde12d82b920204fa351",
+      "sharedAyahs": [
+        "5:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 27.192,
+          "end": 1683.072
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-190.mp3",
+      "startMs": 0,
+      "endMs": 5140,
+      "durationMs": 5140,
+      "recordingDurationMs": 5140,
+      "bytes": 41412,
+      "sha256": "daf0a6b82ed04ddd233f1b2f96ce57317360024caaff427d6d27abc4906a803d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 1683.072,
+          "end": 1688.21
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-144.mp3",
+      "startMs": 0,
+      "endMs": 25250,
+      "durationMs": 25250,
+      "recordingDurationMs": 25250,
+      "bytes": 202313,
+      "sha256": "a2df2e52defe8debe002616721939e6dc4ea05f4520e263cb1cbc6dc1bee5640",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 0,
+          "end": 25.22
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/054.mp3",
+      "startMs": 4851899,
+      "endMs": 5261810,
+      "durationMs": 409911,
+      "recordingDurationMs": 5261810,
+      "bytes": 42094795,
+      "sha256": "68d744299d2d946c42f55e9faa3eec59a483be3bf546dde12d82b920204fa351",
+      "sharedAyahs": [
+        "5:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 25.22,
+          "end": 435.023
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/055.mp3",
+      "startMs": 0,
+      "endMs": 906190,
+      "durationMs": 906190,
+      "recordingDurationMs": 906190,
+      "bytes": 7249867,
+      "sha256": "6d439065325a2fbf4714a78f5ff3c2cee42a4471a430dad2d04238474b85b35b",
+      "sharedAyahs": [
+        "5:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 435.023,
+          "end": 1341.19
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 278509,
+      "durationMs": 278509,
+      "recordingDurationMs": 571580,
+      "bytes": 4573003,
+      "sha256": "a41cb0dea014fe4d9795792be6e150275dd30e97046a63eaa518fa8885f504aa",
+      "sharedAyahs": [
+        "5:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 1341.19,
+          "end": 1619.688
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-191.mp3",
+      "startMs": 0,
+      "endMs": 10870,
+      "durationMs": 10870,
+      "recordingDurationMs": 10870,
+      "bytes": 87300,
+      "sha256": "8ffa36a34d0bcda80c7ad0c792ad7512e313cc264d84d5cbc78033584f88e3a4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 1619.688,
+          "end": 1630.56
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-145.mp3",
+      "startMs": 0,
+      "endMs": 23860,
+      "durationMs": 23860,
+      "recordingDurationMs": 23860,
+      "bytes": 191177,
+      "sha256": "33289a14e201cd1e5550baa787ccb28e5aa2f345c876a62b3e5f39b9664d3284",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 0,
+          "end": 23.83
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/056.mp3",
+      "startMs": 278509,
+      "endMs": 571580,
+      "durationMs": 293071,
+      "recordingDurationMs": 571580,
+      "bytes": 4573003,
+      "sha256": "a41cb0dea014fe4d9795792be6e150275dd30e97046a63eaa518fa8885f504aa",
+      "sharedAyahs": [
+        "5:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 23.83,
+          "end": 316.87
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/057.mp3",
+      "startMs": 0,
+      "endMs": 342960,
+      "durationMs": 342960,
+      "recordingDurationMs": 342960,
+      "bytes": 2744011,
+      "sha256": "e00e00c33a4602f45f35bb277689c85a8857dea37123cfe110fa665cb20eea9f",
+      "sharedAyahs": [
+        "5:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 316.87,
+          "end": 659.808
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/058.mp3",
+      "startMs": 0,
+      "endMs": 470230,
+      "durationMs": 470230,
+      "recordingDurationMs": 470230,
+      "bytes": 3762187,
+      "sha256": "50b8cd8070f89e90681a7d803f1a22c2152b19927350a34f776342c441356650",
+      "sharedAyahs": [
+        "5:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 659.808,
+          "end": 1130.01
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 407845,
+      "durationMs": 407845,
+      "recordingDurationMs": 542740,
+      "bytes": 4342219,
+      "sha256": "6a364d9831383a2b0a70732b7cd5a322a2582bd7bf55301b861f526f2c233a5d",
+      "sharedAyahs": [
+        "5:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 1130.01,
+          "end": 1537.848
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/060.mp3",
+      "startMs": 0,
+      "endMs": 153277,
+      "durationMs": 153277,
+      "recordingDurationMs": 1453510,
+      "bytes": 11628427,
+      "sha256": "005e08405185015b4adb8c04604ceaa842bf44465b51ff6014da2fa6a50a467a",
+      "sharedAyahs": [
+        "5:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 1537.848,
+          "end": 1691.09
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-192.mp3",
+      "startMs": 0,
+      "endMs": 4850,
+      "durationMs": 4850,
+      "recordingDurationMs": 4850,
+      "bytes": 39108,
+      "sha256": "5852e6591e34659214e6ec72ad608f7e2f5e43a3cacc7446b31df8fc32cd8d2a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 1691.09,
+          "end": 1695.96
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-146.mp3",
+      "startMs": 0,
+      "endMs": 20660,
+      "durationMs": 20660,
+      "recordingDurationMs": 20660,
+      "bytes": 165641,
+      "sha256": "8c3aeb91f76a5548f9063b1ff7138a58940b817a1de9c32c69a96de7e2496a17",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 0,
+          "end": 20.64
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/059.mp3",
+      "startMs": 407845,
+      "endMs": 542740,
+      "durationMs": 134895,
+      "recordingDurationMs": 542740,
+      "bytes": 4342219,
+      "sha256": "6a364d9831383a2b0a70732b7cd5a322a2582bd7bf55301b861f526f2c233a5d",
+      "sharedAyahs": [
+        "5:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 20.64,
+          "end": 155.473
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/060.mp3",
+      "startMs": 153277,
+      "endMs": 1453510,
+      "durationMs": 1300233,
+      "recordingDurationMs": 1453510,
+      "bytes": 11628427,
+      "sha256": "005e08405185015b4adb8c04604ceaa842bf44465b51ff6014da2fa6a50a467a",
+      "sharedAyahs": [
+        "5:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 155.473,
+          "end": 1455.674
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/061.mp3",
+      "startMs": 0,
+      "endMs": 179317,
+      "durationMs": 179317,
+      "recordingDurationMs": 319560,
+      "bytes": 2556811,
+      "sha256": "0d8a77c9b9dc23496c7c96bd98e9b9523d9d8740f33e84eb1c0a03ae59f99657",
+      "sharedAyahs": [
+        "5:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 1455.674,
+          "end": 1635.0
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-193.mp3",
+      "startMs": 0,
+      "endMs": 10080,
+      "durationMs": 10080,
+      "recordingDurationMs": 10080,
+      "bytes": 80964,
+      "sha256": "57763a3ac932d69d83e24f19631b966b7995baf452c8b2ae01ad3b52b6a12dd9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 1635.0,
+          "end": 1645.08
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-147.mp3",
+      "startMs": 0,
+      "endMs": 28320,
+      "durationMs": 28320,
+      "recordingDurationMs": 28320,
+      "bytes": 226889,
+      "sha256": "1672a1f2a910c51649fd122a35965cc16abfd21dfa59ed2034e325a53e422309",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 0,
+          "end": 28.296
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/061.mp3",
+      "startMs": 179317,
+      "endMs": 319560,
+      "durationMs": 140243,
+      "recordingDurationMs": 319560,
+      "bytes": 2556811,
+      "sha256": "0d8a77c9b9dc23496c7c96bd98e9b9523d9d8740f33e84eb1c0a03ae59f99657",
+      "sharedAyahs": [
+        "5:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 28.296,
+          "end": 168.504
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/062.mp3",
+      "startMs": 0,
+      "endMs": 423340,
+      "durationMs": 423340,
+      "recordingDurationMs": 423340,
+      "bytes": 3387019,
+      "sha256": "2510f40e4618dc7c995e8ca67b3dd753de08df484ba138a4249e2a6f7ea096ff",
+      "sharedAyahs": [
+        "5:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 168.504,
+          "end": 591.81
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 436320,
+      "durationMs": 436320,
+      "recordingDurationMs": 436320,
+      "bytes": 3490891,
+      "sha256": "a1abc54ae04ca73ae049b797cfe21b4a8a2c7d0df8076067c8da84e8a3294894",
+      "sharedAyahs": [
+        "5:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 591.81,
+          "end": 1028.112
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/064.mp3",
+      "startMs": 0,
+      "endMs": 621085,
+      "durationMs": 621085,
+      "recordingDurationMs": 2902370,
+      "bytes": 23219275,
+      "sha256": "bfaf7ecdcad1d7baa34e608c97d55459fb3bc0dabb68dd6c4b1d4a95cf44aa34",
+      "sharedAyahs": [
+        "5:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 1028.112,
+          "end": 1649.184
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-194.mp3",
+      "startMs": 0,
+      "endMs": 27580,
+      "durationMs": 27580,
+      "recordingDurationMs": 27580,
+      "bytes": 220932,
+      "sha256": "2c4771d3e1e7d69dda9e86cea402cf647ae2200f7fa4d9ed777ba41e43f7bdc7",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 1649.184,
+          "end": 1676.76
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-148.mp3",
+      "startMs": 0,
+      "endMs": 24360,
+      "durationMs": 24360,
+      "recordingDurationMs": 24360,
+      "bytes": 195209,
+      "sha256": "c9cdad2dea5156ab1fab064625a80d08837642084f7cd3aaf61d73950940c024",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 0,
+          "end": 24.324
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/064.mp3",
+      "startMs": 621085,
+      "endMs": 2255293,
+      "durationMs": 1634208,
+      "recordingDurationMs": 2902370,
+      "bytes": 23219275,
+      "sha256": "bfaf7ecdcad1d7baa34e608c97d55459fb3bc0dabb68dd6c4b1d4a95cf44aa34",
+      "sharedAyahs": [
+        "5:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 24.324,
+          "end": 1658.508
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-195.mp3",
+      "startMs": 0,
+      "endMs": 12380,
+      "durationMs": 12380,
+      "recordingDurationMs": 12380,
+      "bytes": 99396,
+      "sha256": "6fd0715e9eba32be393fd8e570317703cef50b63628fad89c77222f371fbd4b2",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 1658.508,
+          "end": 1670.9
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-149.mp3",
+      "startMs": 0,
+      "endMs": 42740,
+      "durationMs": 42740,
+      "recordingDurationMs": 42740,
+      "bytes": 342281,
+      "sha256": "7e490d457648810e99193132854742821e3e5478b5e0fa61bf64f73b7d2f8cb4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 0,
+          "end": 42.72
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/064.mp3",
+      "startMs": 2255293,
+      "endMs": 2902370,
+      "durationMs": 647077,
+      "recordingDurationMs": 2902370,
+      "bytes": 23219275,
+      "sha256": "bfaf7ecdcad1d7baa34e608c97d55459fb3bc0dabb68dd6c4b1d4a95cf44aa34",
+      "sharedAyahs": [
+        "5:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 42.72,
+          "end": 689.76
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/065.mp3",
+      "startMs": 0,
+      "endMs": 579890,
+      "durationMs": 579890,
+      "recordingDurationMs": 579890,
+      "bytes": 4639435,
+      "sha256": "fb4d4b6eb1605aed69dca1bbd5c39f066a7f8bb509fc06f4c0cd1da7ac665fdb",
+      "sharedAyahs": [
+        "5:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 689.76,
+          "end": 1269.602
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/066.mp3",
+      "startMs": 0,
+      "endMs": 551950,
+      "durationMs": 551950,
+      "recordingDurationMs": 551950,
+      "bytes": 4415947,
+      "sha256": "fe81ebc08bf13e6c50495887c4d15872193043d17e1054c22e6e6a7afc6ff318",
+      "sharedAyahs": [
+        "5:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 1269.602,
+          "end": 1821.54
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-196.mp3",
+      "startMs": 0,
+      "endMs": 16490,
+      "durationMs": 16490,
+      "recordingDurationMs": 16490,
+      "bytes": 132228,
+      "sha256": "58bad89ba8e8b0e236cbe888a14cb111b39542540eeb3477569834179bfcac5e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 1821.54,
+          "end": 1838.04
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-150.mp3",
+      "startMs": 0,
+      "endMs": 25010,
+      "durationMs": 25010,
+      "recordingDurationMs": 25010,
+      "bytes": 200393,
+      "sha256": "d18a5a50f435c42800d98c095c139c3bb60879b7c9be8f9db9c71a36c1494f0a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 0,
+          "end": 24.97
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 631630,
+      "durationMs": 631630,
+      "recordingDurationMs": 631630,
+      "bytes": 5053387,
+      "sha256": "51af081c571b5558e4c7cbfe51d9a95242ec272393b9f850fb6a84c5dc02e97f",
+      "sharedAyahs": [
+        "5:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 24.97,
+          "end": 656.574
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/068.mp3",
+      "startMs": 0,
+      "endMs": 527180,
+      "durationMs": 527180,
+      "recordingDurationMs": 527180,
+      "bytes": 4217803,
+      "sha256": "ca5a09529ae97a6df76bc264f3121d3fca35adb8c11cc88893103f4a37bbcf29",
+      "sharedAyahs": [
+        "5:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 656.574,
+          "end": 1183.752
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/069.mp3",
+      "startMs": 0,
+      "endMs": 519109,
+      "durationMs": 519109,
+      "recordingDurationMs": 990120,
+      "bytes": 7921291,
+      "sha256": "1c4328dff03f76019f2088460353b21a99a7cee1ecdf6f97f59fff390940ed3b",
+      "sharedAyahs": [
+        "5:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 1183.752,
+          "end": 1702.848
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-197.mp3",
+      "startMs": 0,
+      "endMs": 2640,
+      "durationMs": 2640,
+      "recordingDurationMs": 2640,
+      "bytes": 21444,
+      "sha256": "3b6e3c923d486052609d2084d8c6265b31ea11da09f1dff48abced92b29a4188",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 1702.848,
+          "end": 1705.49
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-151.mp3",
+      "startMs": 0,
+      "endMs": 22850,
+      "durationMs": 22850,
+      "recordingDurationMs": 22850,
+      "bytes": 183113,
+      "sha256": "820962f12a8ced8974675cbdc239e3a63e0b3047562d98cb4393d3d0f52990d0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 0,
+          "end": 22.822
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/069.mp3",
+      "startMs": 519109,
+      "endMs": 990120,
+      "durationMs": 471011,
+      "recordingDurationMs": 990120,
+      "bytes": 7921291,
+      "sha256": "1c4328dff03f76019f2088460353b21a99a7cee1ecdf6f97f59fff390940ed3b",
+      "sharedAyahs": [
+        "5:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 22.822,
+          "end": 493.777
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/070.mp3",
+      "startMs": 0,
+      "endMs": 1140140,
+      "durationMs": 1140140,
+      "recordingDurationMs": 1140140,
+      "bytes": 9121483,
+      "sha256": "b21c7655857801dc50ffe48f6fd92d7ba35023a61f040f38e6e3b2d20aaff64f",
+      "sharedAyahs": [
+        "5:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 493.777,
+          "end": 1633.9
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/071.mp3",
+      "startMs": 0,
+      "endMs": 63851,
+      "durationMs": 63851,
+      "recordingDurationMs": 1576490,
+      "bytes": 12612235,
+      "sha256": "f421f01ebc27311ed34820723354b2f077e834dc7900cc4c6723e04a329cc4ff",
+      "sharedAyahs": [
+        "5:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 1633.9,
+          "end": 1697.86
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-152.mp3",
+      "startMs": 0,
+      "endMs": 31420,
+      "durationMs": 31420,
+      "recordingDurationMs": 31420,
+      "bytes": 251657,
+      "sha256": "833aba1e30d7b374b8dc05adee1b8228602fe096a921aaf2a1ab2959001b4c0e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 0,
+          "end": 31.392
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/071.mp3",
+      "startMs": 63851,
+      "endMs": 1576490,
+      "durationMs": 1512639,
+      "recordingDurationMs": 1576490,
+      "bytes": 12612235,
+      "sha256": "f421f01ebc27311ed34820723354b2f077e834dc7900cc4c6723e04a329cc4ff",
+      "sharedAyahs": [
+        "5:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 31.392,
+          "end": 1543.9
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/072.mp3",
+      "startMs": 0,
+      "endMs": 107020,
+      "durationMs": 107020,
+      "recordingDurationMs": 107020,
+      "bytes": 856464,
+      "sha256": "d9ca693fd813ac357f743e7fb89ec5f4aa55bb2ce2869d571dc1973b60b35698",
+      "sharedAyahs": [
+        "5:72",
+        "5:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 1543.9,
+          "end": 1650.912
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/075.mp3",
+      "startMs": 0,
+      "endMs": 46931,
+      "durationMs": 46931,
+      "recordingDurationMs": 775510,
+      "bytes": 6204427,
+      "sha256": "000f268595112f201364325afd813df68f979888791314420d8ab706f372c2d0",
+      "sharedAyahs": [
+        "5:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 1650.912,
+          "end": 1697.93
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-153.mp3",
+      "startMs": 0,
+      "endMs": 24260,
+      "durationMs": 24260,
+      "recordingDurationMs": 24260,
+      "bytes": 194441,
+      "sha256": "303db7df5c8cfd47f2b4ba2c88d8ff08fcf0cdfaf32ff06b7537241c11d1841c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 0,
+          "end": 24.23
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/075.mp3",
+      "startMs": 46931,
+      "endMs": 775510,
+      "durationMs": 728579,
+      "recordingDurationMs": 775510,
+      "bytes": 6204427,
+      "sha256": "000f268595112f201364325afd813df68f979888791314420d8ab706f372c2d0",
+      "sharedAyahs": [
+        "5:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 24.23,
+          "end": 752.69
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/076.mp3",
+      "startMs": 0,
+      "endMs": 104400,
+      "durationMs": 104400,
+      "recordingDurationMs": 104400,
+      "bytes": 835531,
+      "sha256": "4387c3f682a059292f82f177be58f3b86dbaac9ed81a2a66b17c31dda0db2380",
+      "sharedAyahs": [
+        "5:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 752.69,
+          "end": 857.084
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/077.mp3",
+      "startMs": 0,
+      "endMs": 712300,
+      "durationMs": 712300,
+      "recordingDurationMs": 712300,
+      "bytes": 5698699,
+      "sha256": "ed891db343dba5ebe75190cac4064a8a296439f8a84d4c1fcdf46370eb1c94d5",
+      "sharedAyahs": [
+        "5:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 857.084,
+          "end": 1569.35
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/078.mp3",
+      "startMs": 0,
+      "endMs": 115883,
+      "durationMs": 115883,
+      "recordingDurationMs": 447340,
+      "bytes": 3579019,
+      "sha256": "dde7beddf6c1e33b447e1ebc45e9d17c6212dde9316a00062a7775018396f86a",
+      "sharedAyahs": [
+        "5:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 1569.35,
+          "end": 1685.33
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-154.mp3",
+      "startMs": 0,
+      "endMs": 23230,
+      "durationMs": 23230,
+      "recordingDurationMs": 23230,
+      "bytes": 186185,
+      "sha256": "2cfdeedbd356113a405bdc48db25900213f5171993b8fa6b902c99017df97aad",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 0,
+          "end": 23.2
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/078.mp3",
+      "startMs": 115883,
+      "endMs": 447340,
+      "durationMs": 331457,
+      "recordingDurationMs": 447340,
+      "bytes": 3579019,
+      "sha256": "dde7beddf6c1e33b447e1ebc45e9d17c6212dde9316a00062a7775018396f86a",
+      "sharedAyahs": [
+        "5:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 23.2,
+          "end": 354.544
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/079.mp3",
+      "startMs": 0,
+      "endMs": 718730,
+      "durationMs": 718730,
+      "recordingDurationMs": 718730,
+      "bytes": 5750155,
+      "sha256": "2fc9ac60b1eb4c438875811b6946a2afafd935c3d0a249344d8e70712ea83212",
+      "sharedAyahs": [
+        "5:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 354.544,
+          "end": 1073.245
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/080.mp3",
+      "startMs": 0,
+      "endMs": 388970,
+      "durationMs": 388970,
+      "recordingDurationMs": 388970,
+      "bytes": 3112075,
+      "sha256": "aaba20367fe01aafcca63c9f6d0456571ae516b3ae7cf9bd658718bff5d58e1b",
+      "sharedAyahs": [
+        "5:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 1073.245,
+          "end": 1462.2
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/081.mp3",
+      "startMs": 0,
+      "endMs": 81430,
+      "durationMs": 81430,
+      "recordingDurationMs": 81430,
+      "bytes": 651787,
+      "sha256": "6d1d1156cb401dc3341a72703499e2cbe468930599d889edd8c2ad306754d5b6",
+      "sharedAyahs": [
+        "5:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 1462.2,
+          "end": 1543.604
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/082.mp3",
+      "startMs": 0,
+      "endMs": 171851,
+      "durationMs": 171851,
+      "recordingDurationMs": 1093320,
+      "bytes": 8746891,
+      "sha256": "9f85834e2c796d3f518a21ef842edb0d4d7d7901ee195d61bfaaf5ccec21a075",
+      "sharedAyahs": [
+        "5:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 1543.604,
+          "end": 1715.54
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-155.mp3",
+      "startMs": 0,
+      "endMs": 20980,
+      "durationMs": 20980,
+      "recordingDurationMs": 20980,
+      "bytes": 168137,
+      "sha256": "43cc5b9237f1f7f7907266427613310115f349e9c39ef88e7c3b99747dc97ff0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 0,
+          "end": 20.952
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/082.mp3",
+      "startMs": 171851,
+      "endMs": 1093320,
+      "durationMs": 921469,
+      "recordingDurationMs": 1093320,
+      "bytes": 8746891,
+      "sha256": "9f85834e2c796d3f518a21ef842edb0d4d7d7901ee195d61bfaaf5ccec21a075",
+      "sharedAyahs": [
+        "5:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 20.952,
+          "end": 942.312
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/083.mp3",
+      "startMs": 0,
+      "endMs": 772669,
+      "durationMs": 772669,
+      "recordingDurationMs": 972340,
+      "bytes": 7779019,
+      "sha256": "5055b08a1badfd7e1ef8ef5a22a7c00dc56c02ea109f7677869894179b216749",
+      "sharedAyahs": [
+        "5:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 942.312,
+          "end": 1714.96
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-198.mp3",
+      "startMs": 0,
+      "endMs": 4900,
+      "durationMs": 4900,
+      "recordingDurationMs": 4900,
+      "bytes": 39492,
+      "sha256": "ac783593c64fc3946fe82000ad3ce5757964a6369ff0b1075da1a288a1251021",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 1714.96,
+          "end": 1719.86
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-156.mp3",
+      "startMs": 0,
+      "endMs": 23740,
+      "durationMs": 23740,
+      "recordingDurationMs": 23740,
+      "bytes": 190217,
+      "sha256": "875a66fe891537d6e282b142def3e7d9ce3655b2ddb2b73f5088633eb42767bf",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 0,
+          "end": 23.712
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/083.mp3",
+      "startMs": 772669,
+      "endMs": 972340,
+      "durationMs": 199671,
+      "recordingDurationMs": 972340,
+      "bytes": 7779019,
+      "sha256": "5055b08a1badfd7e1ef8ef5a22a7c00dc56c02ea109f7677869894179b216749",
+      "sharedAyahs": [
+        "5:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 23.712,
+          "end": 223.344
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/084.mp3",
+      "startMs": 0,
+      "endMs": 263450,
+      "durationMs": 263450,
+      "recordingDurationMs": 263450,
+      "bytes": 2107915,
+      "sha256": "e4aad7707b8560aab5052fbfbee2e15db8a17ee924477c67170b9d5ce9a2a4e6",
+      "sharedAyahs": [
+        "5:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 223.344,
+          "end": 486.745
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/085.mp3",
+      "startMs": 0,
+      "endMs": 239380,
+      "durationMs": 239380,
+      "recordingDurationMs": 239380,
+      "bytes": 1915339,
+      "sha256": "4ba613f3451d40458e369d53ab3133bf8f48993261e3c524fa9b8b55d27124e6",
+      "sharedAyahs": [
+        "5:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 486.745,
+          "end": 726.1
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/086.mp3",
+      "startMs": 0,
+      "endMs": 47520,
+      "durationMs": 47520,
+      "recordingDurationMs": 47520,
+      "bytes": 380491,
+      "sha256": "adbcf57fcae9a37aa6f03208e540a0ce4afecc7cef00ff385f5b16adfe6a8223",
+      "sharedAyahs": [
+        "5:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 726.1,
+          "end": 773.599
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/087.mp3",
+      "startMs": 0,
+      "endMs": 988907,
+      "durationMs": 988907,
+      "recordingDurationMs": 1747680,
+      "bytes": 13981771,
+      "sha256": "29d0954203c9de1f0e80186da886a05bb9b69472a5eeb163dea25cba40b8bb99",
+      "sharedAyahs": [
+        "5:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 773.599,
+          "end": 1762.61
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-157.mp3",
+      "startMs": 0,
+      "endMs": 24310,
+      "durationMs": 24310,
+      "recordingDurationMs": 24310,
+      "bytes": 194825,
+      "sha256": "dd6644c22316367e144420f4961b98a304699f04731ba0ef1721e7d9fb35f69f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 0,
+          "end": 24.288
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/087.mp3",
+      "startMs": 988907,
+      "endMs": 1747680,
+      "durationMs": 758773,
+      "recordingDurationMs": 1747680,
+      "bytes": 13981771,
+      "sha256": "29d0954203c9de1f0e80186da886a05bb9b69472a5eeb163dea25cba40b8bb99",
+      "sharedAyahs": [
+        "5:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 24.288,
+          "end": 782.95
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/088.mp3",
+      "startMs": 0,
+      "endMs": 876901,
+      "durationMs": 876901,
+      "recordingDurationMs": 895870,
+      "bytes": 7167307,
+      "sha256": "d2b79f216caeb21bdac5e8739f3ef949476af15287d244f9a5aee904eaac6ee7",
+      "sharedAyahs": [
+        "5:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 782.95,
+          "end": 1659.84
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-199.mp3",
+      "startMs": 0,
+      "endMs": 8230,
+      "durationMs": 8230,
+      "recordingDurationMs": 8230,
+      "bytes": 66180,
+      "sha256": "1ba272bccb68daf317f11f4fea9879da0da2d643fcdb52ffeb50a3e24fb4dd7d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 1659.84,
+          "end": 1668.07
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-158.mp3",
+      "startMs": 0,
+      "endMs": 22030,
+      "durationMs": 22030,
+      "recordingDurationMs": 22030,
+      "bytes": 176585,
+      "sha256": "2cb0c1c26222923ce847fc3ea5a5f64306602a364184e7d697a838bb1870f5df",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 0,
+          "end": 22.008
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/088.mp3",
+      "startMs": 876901,
+      "endMs": 895870,
+      "durationMs": 18969,
+      "recordingDurationMs": 895870,
+      "bytes": 7167307,
+      "sha256": "d2b79f216caeb21bdac5e8739f3ef949476af15287d244f9a5aee904eaac6ee7",
+      "sharedAyahs": [
+        "5:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 22.008,
+          "end": 40.943
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/089.mp3",
+      "startMs": 0,
+      "endMs": 856850,
+      "durationMs": 856850,
+      "recordingDurationMs": 856850,
+      "bytes": 6855115,
+      "sha256": "478ee23829ab15118144b82ea2a6c27f9277035b54b648a9c83920714f667099",
+      "sharedAyahs": [
+        "5:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 40.943,
+          "end": 897.754
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/090.mp3",
+      "startMs": 0,
+      "endMs": 1762285,
+      "durationMs": 1762285,
+      "recordingDurationMs": 2079820,
+      "bytes": 16638859,
+      "sha256": "13e7ef24fe4f259a46256ec15cb0cbf28014afab969713401e5186d2c6964931",
+      "sharedAyahs": [
+        "5:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 897.754,
+          "end": 2660.026
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-200.mp3",
+      "startMs": 0,
+      "endMs": 11210,
+      "durationMs": 11210,
+      "recordingDurationMs": 11210,
+      "bytes": 89988,
+      "sha256": "4a289ec4a35de57c39e2130790e8bd0b68522a79840e4262e68171da6f577ec0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 2660.026,
+          "end": 2671.25
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-159.mp3",
+      "startMs": 0,
+      "endMs": 22610,
+      "durationMs": 22610,
+      "recordingDurationMs": 22610,
+      "bytes": 181193,
+      "sha256": "0e9cec53222c036e8fc621bc84704167ecbe8da9d29ea085c96b787a25db4462",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 0,
+          "end": 22.584
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/090.mp3",
+      "startMs": 1762285,
+      "endMs": 2079820,
+      "durationMs": 317535,
+      "recordingDurationMs": 2079820,
+      "bytes": 16638859,
+      "sha256": "13e7ef24fe4f259a46256ec15cb0cbf28014afab969713401e5186d2c6964931",
+      "sharedAyahs": [
+        "5:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 22.584,
+          "end": 340.08
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/091.mp3",
+      "startMs": 0,
+      "endMs": 1649640,
+      "durationMs": 1649640,
+      "recordingDurationMs": 1649640,
+      "bytes": 13197451,
+      "sha256": "02db06b49158d736ac5f353442e2c675b3f1a9fb5d5210e71965ef2c75e7b26c",
+      "sharedAyahs": [
+        "5:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 340.08,
+          "end": 1989.68
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/092.mp3",
+      "startMs": 0,
+      "endMs": 717757,
+      "durationMs": 717757,
+      "recordingDurationMs": 877780,
+      "bytes": 7022539,
+      "sha256": "538fc65a33228bcda3f1b189ebb20aa053229ce196676d3dd3be2abccf584b13",
+      "sharedAyahs": [
+        "5:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 1989.68,
+          "end": 2707.44
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-201.mp3",
+      "startMs": 0,
+      "endMs": 11780,
+      "durationMs": 11780,
+      "recordingDurationMs": 11780,
+      "bytes": 94596,
+      "sha256": "8df8fbe79f102ca1eb0e4d149684a24fcf024d726550c4fe6c9a4b99ce6485ac",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 2707.44,
+          "end": 2719.22
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-160.mp3",
+      "startMs": 0,
+      "endMs": 23280,
+      "durationMs": 23280,
+      "recordingDurationMs": 23280,
+      "bytes": 186569,
+      "sha256": "8f30ec10b4791adae1278b588913e6c507e5865a5fd8d79584fccbd384152541",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 0,
+          "end": 23.256
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/092.mp3",
+      "startMs": 717757,
+      "endMs": 877780,
+      "durationMs": 160023,
+      "recordingDurationMs": 877780,
+      "bytes": 7022539,
+      "sha256": "538fc65a33228bcda3f1b189ebb20aa053229ce196676d3dd3be2abccf584b13",
+      "sharedAyahs": [
+        "5:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 23.256,
+          "end": 183.24
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/093.mp3",
+      "startMs": 0,
+      "endMs": 1030970,
+      "durationMs": 1030970,
+      "recordingDurationMs": 1030970,
+      "bytes": 8248075,
+      "sha256": "86269b05706243153d5ccdceb09fed5130ddbaf34beb90b3c4966c7c6c0b054c",
+      "sharedAyahs": [
+        "5:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 183.24,
+          "end": 1214.161
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/094.mp3",
+      "startMs": 0,
+      "endMs": 1284157,
+      "durationMs": 1284157,
+      "recordingDurationMs": 1340900,
+      "bytes": 10727563,
+      "sha256": "5eddf98644ef0958d4f24858d1df0934e6662f38626599b9ef75dd5c5555d82c",
+      "sharedAyahs": [
+        "5:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 1214.161,
+          "end": 2498.305
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/095.mp3",
+      "startMs": 0,
+      "endMs": 182989,
+      "durationMs": 182989,
+      "recordingDurationMs": 1129420,
+      "bytes": 9035659,
+      "sha256": "f1f013769bebdae2a2be86b79f1b2fb4fa665d2a5e71a61316da8955be30ecbe",
+      "sharedAyahs": [
+        "5:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 2498.305,
+          "end": 2681.304
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-202.mp3",
+      "startMs": 0,
+      "endMs": 10130,
+      "durationMs": 10130,
+      "recordingDurationMs": 10130,
+      "bytes": 81348,
+      "sha256": "ff53edd7c3d6493bc925c596c0698c01c9737bc238ce2230abba1a1533f06d93",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 2681.304,
+          "end": 2691.43
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-161.mp3",
+      "startMs": 0,
+      "endMs": 19800,
+      "durationMs": 19800,
+      "recordingDurationMs": 19800,
+      "bytes": 158729,
+      "sha256": "157ee9927b16e594ba187d26428f43f385c865232c320471801f026a413d8e57",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 0,
+          "end": 19.766
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/094.mp3",
+      "startMs": 1284157,
+      "endMs": 1340900,
+      "durationMs": 56743,
+      "recordingDurationMs": 1340900,
+      "bytes": 10727563,
+      "sha256": "5eddf98644ef0958d4f24858d1df0934e6662f38626599b9ef75dd5c5555d82c",
+      "sharedAyahs": [
+        "5:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 19.766,
+          "end": 76.484
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/095.mp3",
+      "startMs": 182989,
+      "endMs": 1129420,
+      "durationMs": 946431,
+      "recordingDurationMs": 1129420,
+      "bytes": 9035659,
+      "sha256": "f1f013769bebdae2a2be86b79f1b2fb4fa665d2a5e71a61316da8955be30ecbe",
+      "sharedAyahs": [
+        "5:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 76.484,
+          "end": 1022.88
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/096.mp3",
+      "startMs": 0,
+      "endMs": 446860,
+      "durationMs": 446860,
+      "recordingDurationMs": 446860,
+      "bytes": 3575179,
+      "sha256": "af549a45edeb456018104dc450cc3fd74211c853a86f7d5ef92f600cf58b5c14",
+      "sharedAyahs": [
+        "5:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 1022.88,
+          "end": 1469.69
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/097.mp3",
+      "startMs": 0,
+      "endMs": 1167613,
+      "durationMs": 1167613,
+      "recordingDurationMs": 1773240,
+      "bytes": 14186251,
+      "sha256": "877c4b65327e244b351c8ba09901913031621f5bbb2bff053940568bf43496b6",
+      "sharedAyahs": [
+        "5:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 1469.69,
+          "end": 2637.3
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-203.mp3",
+      "startMs": 0,
+      "endMs": 34420,
+      "durationMs": 34420,
+      "recordingDurationMs": 34420,
+      "bytes": 275652,
+      "sha256": "967a020c35930cfb059c83b8ae156f3381251a386575605bfcbbca10a0a3a181",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 2637.3,
+          "end": 2671.73
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-162.mp3",
+      "startMs": 0,
+      "endMs": 20140,
+      "durationMs": 20140,
+      "recordingDurationMs": 20140,
+      "bytes": 161417,
+      "sha256": "9a4a2d0f4eca7b1f2a89bb413be0dcf82c399fc3bccfe9614f673cbd0c891a84",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 0,
+          "end": 20.112
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/097.mp3",
+      "startMs": 1167613,
+      "endMs": 1773240,
+      "durationMs": 605627,
+      "recordingDurationMs": 1773240,
+      "bytes": 14186251,
+      "sha256": "877c4b65327e244b351c8ba09901913031621f5bbb2bff053940568bf43496b6",
+      "sharedAyahs": [
+        "5:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 20.112,
+          "end": 625.703
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/098.mp3",
+      "startMs": 0,
+      "endMs": 179180,
+      "durationMs": 179180,
+      "recordingDurationMs": 179180,
+      "bytes": 1433803,
+      "sha256": "96bedf43406eecc2aa40164d4a7919d59cbe09bd592bc1c2761718dc10b28d24",
+      "sharedAyahs": [
+        "5:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 625.703,
+          "end": 804.849
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/099.mp3",
+      "startMs": 0,
+      "endMs": 443590,
+      "durationMs": 443590,
+      "recordingDurationMs": 443590,
+      "bytes": 3549067,
+      "sha256": "a4612bbdf93f5a2b3b6bc6a244afa210c7119918ac31f6db9da2e26100bca57c",
+      "sharedAyahs": [
+        "5:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 804.849,
+          "end": 1248.424
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/100.mp3",
+      "startMs": 0,
+      "endMs": 830400,
+      "durationMs": 830400,
+      "recordingDurationMs": 830400,
+      "bytes": 6643533,
+      "sha256": "9444efd2430080687c2bd17a15274583215fff37bda5e08f6bcb211dd73df760",
+      "sharedAyahs": [
+        "5:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 1248.424,
+          "end": 2078.8
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/101.mp3",
+      "startMs": 0,
+      "endMs": 494160,
+      "durationMs": 494160,
+      "recordingDurationMs": 494160,
+      "bytes": 3953613,
+      "sha256": "5ce89006719cb8b5956cb9dc823708a973cec73818bb41428b61f23103609b4c",
+      "sharedAyahs": [
+        "5:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 2078.8,
+          "end": 2572.929
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/102.mp3",
+      "startMs": 0,
+      "endMs": 22270,
+      "durationMs": 22270,
+      "recordingDurationMs": 22270,
+      "bytes": 178509,
+      "sha256": "049a25e254f52ebedd91644de37ad27a1fbf0f409392f0ea1c5934f16033971a",
+      "sharedAyahs": [
+        "5:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 2572.929,
+          "end": 2595.191
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/103.mp3",
+      "startMs": 0,
+      "endMs": 188509,
+      "durationMs": 188509,
+      "recordingDurationMs": 1202640,
+      "bytes": 9621453,
+      "sha256": "fc6aab06ac8cb2492f90f70c65f764526882336c2a995417d27dfcb64f11bc4e",
+      "sharedAyahs": [
+        "5:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 2595.191,
+          "end": 2783.67
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-204.mp3",
+      "startMs": 0,
+      "endMs": 8980,
+      "durationMs": 8980,
+      "recordingDurationMs": 8980,
+      "bytes": 72132,
+      "sha256": "6541cb7551ac517f057468d251ad335e65e610f87068a9f71ca4c159196ede20",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 2783.67,
+          "end": 2792.66
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-163.mp3",
+      "startMs": 0,
+      "endMs": 24890,
+      "durationMs": 24890,
+      "recordingDurationMs": 24890,
+      "bytes": 199433,
+      "sha256": "13a2c5a25dbbb6369fadabbd74924be2c9645eb54c627e2ff23f45d4b53b3974",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 0,
+          "end": 24.864
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/103.mp3",
+      "startMs": 188509,
+      "endMs": 1202640,
+      "durationMs": 1014131,
+      "recordingDurationMs": 1202640,
+      "bytes": 9621453,
+      "sha256": "fc6aab06ac8cb2492f90f70c65f764526882336c2a995417d27dfcb64f11bc4e",
+      "sharedAyahs": [
+        "5:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 24.864,
+          "end": 1038.96
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/104.mp3",
+      "startMs": 0,
+      "endMs": 349820,
+      "durationMs": 349820,
+      "recordingDurationMs": 349820,
+      "bytes": 2798925,
+      "sha256": "e388212ee098151122cd02e642b6779ac26e928f4fbb6cf5b0a5dcf231b21949",
+      "sharedAyahs": [
+        "5:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 1038.96,
+          "end": 1388.76
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/105.mp3",
+      "startMs": 0,
+      "endMs": 1032600,
+      "durationMs": 1032600,
+      "recordingDurationMs": 1032600,
+      "bytes": 8261133,
+      "sha256": "cc326a43c3bea8a8d30fb0d853b5137912cea31713641804daabe6ce92168960",
+      "sharedAyahs": [
+        "5:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 1388.76,
+          "end": 2421.314
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/106.mp3",
+      "startMs": 0,
+      "endMs": 228853,
+      "durationMs": 228853,
+      "recordingDurationMs": 859610,
+      "bytes": 6877197,
+      "sha256": "8fad3f2c1287ef2a425eb6450396fce15479786fa2c47bdf2df21d2008762505",
+      "sharedAyahs": [
+        "5:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 2421.314,
+          "end": 2650.176
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-205.mp3",
+      "startMs": 0,
+      "endMs": 9000,
+      "durationMs": 9000,
+      "recordingDurationMs": 9000,
+      "bytes": 72324,
+      "sha256": "5c0312a33c589c945e081f9997591196c80809597e601b896dac7e3015faa5ae",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 2650.176,
+          "end": 2659.18
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-164.mp3",
+      "startMs": 0,
+      "endMs": 20210,
+      "durationMs": 20210,
+      "recordingDurationMs": 20210,
+      "bytes": 161993,
+      "sha256": "32e32dc73b07f6fc2af2a56776635e38af0d6ee896b56c3c327f8ea383d66eb0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 0,
+          "end": 20.183
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/106.mp3",
+      "startMs": 228853,
+      "endMs": 859610,
+      "durationMs": 630757,
+      "recordingDurationMs": 859610,
+      "bytes": 6877197,
+      "sha256": "8fad3f2c1287ef2a425eb6450396fce15479786fa2c47bdf2df21d2008762505",
+      "sharedAyahs": [
+        "5:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 20.183,
+          "end": 650.904
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/107.mp3",
+      "startMs": 0,
+      "endMs": 605660,
+      "durationMs": 605660,
+      "recordingDurationMs": 605660,
+      "bytes": 4845645,
+      "sha256": "294fdf6c3da38bee1bd3c63b1447a625a100aaa804c69ca3c83a4233e59a3fb6",
+      "sharedAyahs": [
+        "5:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 650.904,
+          "end": 1256.542
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/108.mp3",
+      "startMs": 0,
+      "endMs": 113280,
+      "durationMs": 113280,
+      "recordingDurationMs": 113280,
+      "bytes": 906573,
+      "sha256": "1e57b98eb03418f0aee7dd160212eeceded07bb21a2e3e43199d28ced15715eb",
+      "sharedAyahs": [
+        "5:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 1256.542,
+          "end": 1369.784
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/109.mp3",
+      "startMs": 0,
+      "endMs": 311660,
+      "durationMs": 311660,
+      "recordingDurationMs": 311660,
+      "bytes": 2493645,
+      "sha256": "9ca5a7ab3c11110790d34dff7d5870ba3f36346428b229561edad15ed5dd2d89",
+      "sharedAyahs": [
+        "5:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 1369.784,
+          "end": 1681.439
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/110.mp3",
+      "startMs": 0,
+      "endMs": 1047157,
+      "durationMs": 1047157,
+      "recordingDurationMs": 2827660,
+      "bytes": 22621581,
+      "sha256": "bd0319515efc00f165ad1f98338556c37ed7a514d525f4fde722f9fa9675ccb0",
+      "sharedAyahs": [
+        "5:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 1681.439,
+          "end": 2728.57
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-206.mp3",
+      "startMs": 0,
+      "endMs": 11260,
+      "durationMs": 11260,
+      "recordingDurationMs": 11260,
+      "bytes": 90372,
+      "sha256": "224bc91dcb03cdea74df0a7af7bc6737b20f1eee4d6a26c45d790e1b4c10aa41",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 2728.57,
+          "end": 2739.84
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-165.mp3",
+      "startMs": 0,
+      "endMs": 28270,
+      "durationMs": 28270,
+      "recordingDurationMs": 28270,
+      "bytes": 226505,
+      "sha256": "9087b2d6cf0d437026f7e7c0a30d0c91b4ffda345da9a13a93788e649064d37a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 0,
+          "end": 28.248
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/110.mp3",
+      "startMs": 1047157,
+      "endMs": 2827660,
+      "durationMs": 1780503,
+      "recordingDurationMs": 2827660,
+      "bytes": 22621581,
+      "sha256": "bd0319515efc00f165ad1f98338556c37ed7a514d525f4fde722f9fa9675ccb0",
+      "sharedAyahs": [
+        "5:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 28.248,
+          "end": 1808.689
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/111.mp3",
+      "startMs": 0,
+      "endMs": 446880,
+      "durationMs": 446880,
+      "recordingDurationMs": 446880,
+      "bytes": 3575373,
+      "sha256": "e23f588d4939b0d264c88e9a6e2cbf2ae8d6a8157002d3a1cb28ffafb6ad2b9b",
+      "sharedAyahs": [
+        "5:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 1808.689,
+          "end": 2255.567
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/112.mp3",
+      "startMs": 0,
+      "endMs": 56053,
+      "durationMs": 56053,
+      "recordingDurationMs": 228240,
+      "bytes": 1826253,
+      "sha256": "a04d55f2d60247b5aa46c3e5a0fb72a8289d8e1a6a08e62928d61bd5f5f1bbf5",
+      "sharedAyahs": [
+        "5:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 2255.567,
+          "end": 2311.59
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/113.mp3",
+      "startMs": 0,
+      "endMs": 77797,
+      "durationMs": 77797,
+      "recordingDurationMs": 145030,
+      "bytes": 1160589,
+      "sha256": "f0cea2241d83fa331bd71c93fe9e150fb74aee45311896290b7fee01f0039eb9",
+      "sharedAyahs": [
+        "5:113"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 2311.59,
+          "end": 2389.392
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/114.mp3",
+      "startMs": 0,
+      "endMs": 175765,
+      "durationMs": 175765,
+      "recordingDurationMs": 599640,
+      "bytes": 4797453,
+      "sha256": "602b1cd12ce2f0e0daafcb9c731a156a7c9b25bc923f146b36d4dc7c45af70d0",
+      "sharedAyahs": [
+        "5:114"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 2389.392,
+          "end": 2565.144
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/112.mp3",
+      "startMs": 56053,
+      "endMs": 228240,
+      "durationMs": 172187,
+      "recordingDurationMs": 228240,
+      "bytes": 1826253,
+      "sha256": "a04d55f2d60247b5aa46c3e5a0fb72a8289d8e1a6a08e62928d61bd5f5f1bbf5",
+      "sharedAyahs": [
+        "5:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 2565.144,
+          "end": 2737.29
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-207.mp3",
+      "startMs": 0,
+      "endMs": 10820,
+      "durationMs": 10820,
+      "recordingDurationMs": 10820,
+      "bytes": 86916,
+      "sha256": "f0b2bcd8859c1cddb9b4a4837fbeee04d5acf67b62dc7135e8489d1481b55bf1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 2737.29,
+          "end": 2748.12
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-166.mp3",
+      "startMs": 0,
+      "endMs": 19630,
+      "durationMs": 19630,
+      "recordingDurationMs": 19630,
+      "bytes": 157385,
+      "sha256": "3666c836863e1adf5c2c014ca3e8457cea784a0c5248d9adbd5d9ec1c3e92bd0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 0,
+          "end": 19.606
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/113.mp3",
+      "startMs": 77797,
+      "endMs": 145030,
+      "durationMs": 67233,
+      "recordingDurationMs": 145030,
+      "bytes": 1160589,
+      "sha256": "f0cea2241d83fa331bd71c93fe9e150fb74aee45311896290b7fee01f0039eb9",
+      "sharedAyahs": [
+        "5:113"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 19.606,
+          "end": 86.8
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/114.mp3",
+      "startMs": 175765,
+      "endMs": 599640,
+      "durationMs": 423875,
+      "recordingDurationMs": 599640,
+      "bytes": 4797453,
+      "sha256": "602b1cd12ce2f0e0daafcb9c731a156a7c9b25bc923f146b36d4dc7c45af70d0",
+      "sharedAyahs": [
+        "5:114"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 86.8,
+          "end": 510.634
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/115.mp3",
+      "startMs": 0,
+      "endMs": 404880,
+      "durationMs": 404880,
+      "recordingDurationMs": 404880,
+      "bytes": 3239373,
+      "sha256": "bdf7d4c63f6213ce2a9decfbbb658a29b0d250aac2144fde1caa2f35c750883e",
+      "sharedAyahs": [
+        "5:115"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 510.634,
+          "end": 915.5
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/116.mp3",
+      "startMs": 0,
+      "endMs": 1645957,
+      "durationMs": 1645957,
+      "recordingDurationMs": 1745590,
+      "bytes": 13965069,
+      "sha256": "f66a3208a9a55d8bd1dee992f31ec05861e94f0e8c71d2cae03f5bf60bc5611b",
+      "sharedAyahs": [
+        "5:116"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 915.5,
+          "end": 2561.434
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/117.mp3",
+      "startMs": 0,
+      "endMs": 144829,
+      "durationMs": 144829,
+      "recordingDurationMs": 931750,
+      "bytes": 7454349,
+      "sha256": "26cf5ca97d6108b101fa4a2ad444cfc56273a84fff5b452361c642948a06d6e0",
+      "sharedAyahs": [
+        "5:117"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 2561.434,
+          "end": 2706.264
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-208.mp3",
+      "startMs": 0,
+      "endMs": 11420,
+      "durationMs": 11420,
+      "recordingDurationMs": 11420,
+      "bytes": 91716,
+      "sha256": "19ca056915d41be1562be5ac0cdd813bb49df12c92eb588a7af3cc073c1e2472",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 2706.264,
+          "end": 2717.69
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/introduction-167.mp3",
+      "startMs": 0,
+      "endMs": 20540,
+      "durationMs": 20540,
+      "recordingDurationMs": 20540,
+      "bytes": 164681,
+      "sha256": "c0319bf2a6de7edae06b0d39378358b22b3f30b4c6067e1529766c1724c12f4c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 0,
+          "end": 20.52
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/116.mp3",
+      "startMs": 1645957,
+      "endMs": 1745590,
+      "durationMs": 99633,
+      "recordingDurationMs": 1745590,
+      "bytes": 13965069,
+      "sha256": "f66a3208a9a55d8bd1dee992f31ec05861e94f0e8c71d2cae03f5bf60bc5611b",
+      "sharedAyahs": [
+        "5:116"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 20.52,
+          "end": 120.119
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/117.mp3",
+      "startMs": 144829,
+      "endMs": 238045,
+      "durationMs": 93216,
+      "recordingDurationMs": 931750,
+      "bytes": 7454349,
+      "sha256": "26cf5ca97d6108b101fa4a2ad444cfc56273a84fff5b452361c642948a06d6e0",
+      "sharedAyahs": [
+        "5:117"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 120.119,
+          "end": 213.311
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/118.mp3",
+      "startMs": 0,
+      "endMs": 885240,
+      "durationMs": 885240,
+      "recordingDurationMs": 885240,
+      "bytes": 7082253,
+      "sha256": "81420f670fe1a815aae4fac599f8be7b155f9177ae6a0531d1598d7b8d1bcd74",
+      "sharedAyahs": [
+        "5:118"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 213.311,
+          "end": 1098.527
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/117.mp3",
+      "startMs": 238045,
+      "endMs": 931750,
+      "durationMs": 693705,
+      "recordingDurationMs": 931750,
+      "bytes": 7454349,
+      "sha256": "26cf5ca97d6108b101fa4a2ad444cfc56273a84fff5b452361c642948a06d6e0",
+      "sharedAyahs": [
+        "5:117"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 1098.527,
+          "end": 1792.18
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/119.mp3",
+      "startMs": 0,
+      "endMs": 241340,
+      "durationMs": 241340,
+      "recordingDurationMs": 241340,
+      "bytes": 1931085,
+      "sha256": "e585bc2a2107915d0d883e09dbd755491989737fc90628dd73b9a241c269e75e",
+      "sharedAyahs": [
+        "5:119"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 1792.18,
+          "end": 2033.5
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/120.mp3",
+      "startMs": 0,
+      "endMs": 632590,
+      "durationMs": 632590,
+      "recordingDurationMs": 632590,
+      "bytes": 5061069,
+      "sha256": "1106c4e2e2d50edfb6c908371e0c7776c09ba05932cb8b39d219bd0b93e5f97a",
+      "sharedAyahs": [
+        "5:120"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 2033.5,
+          "end": 2666.086
+        }
+      ]
+    },
+    {
+      "file": "005-المائدة-youtube-v1/closing-209.mp3",
+      "startMs": 0,
+      "endMs": 10900,
+      "durationMs": 10900,
+      "recordingDurationMs": 10900,
+      "bytes": 87492,
+      "sha256": "4f61c5550f2ec23ed1c79015a1457026e8c86254ecaeb8b7aa54c3ada07e6400",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 2666.086,
+          "end": 2676.98
+        }
+      ]
+    }
+  ],
+  "durationMs": 120699900,
+  "additionalAudioBytes": 0,
+  "completeCommentaryCoverage": false,
+  "missingAyahs": [
+    "5:74"
+  ],
+  "label": "الدروس المتاحة بتسلسلها الأصلي"
+}

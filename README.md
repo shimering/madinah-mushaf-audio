@@ -1,6 +1,6 @@
 # Shaarawi audio for Mushaf Android
 
-Ayah commentary and general topics for Al-Kahf, Ta-Ha (YouTube edition), Al-Hujurat and An-Naba.
+Ayah commentary and general topics for Al-Maidah (119 ayahs; commentary for ayah 74 unavailable), Al-Kahf, Ta-Ha (YouTube edition), Al-Hujurat and An-Naba.
 
 Full-surah playback reuses the existing clips in original lecture order, including introductions, recaps and topics. No separate full-surah MP3 is needed. The JSON manifests use schema version 2 and include exact start/end ranges within existing recordings.
 
