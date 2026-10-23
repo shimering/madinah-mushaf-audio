@@ -1,0 +1,6365 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "الملفات الموردة من القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي على يوتيوب؛ روابط كل لقاء موثقة منفردة، مضغوطة إلى MP3 90k",
+  "surah": 10,
+  "surahName": "يونس",
+  "ayahCount": 109,
+  "reviewStatus": "complete_editorial_review",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 109,
+    "mappedAyahCount": 109,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "yt-001": {
+      "durationSeconds": 2700.86,
+      "bytes": 32410965,
+      "sha256": "a8e15ca530ffc0e66e4163fa309029e39fd429415f8201cd4f54b5a57d98a799",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-002_O603Pcxufpw.mp3",
+      "url": "https://www.youtube.com/watch?v=O603Pcxufpw"
+    },
+    "yt-002": {
+      "durationSeconds": 2699.06,
+      "bytes": 32389365,
+      "sha256": "69c9402d3cc1398faec8ef11a276c490a3eb6f1dbf5412f4decde957264a6601",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_002-003_Jhg-1oYTsqw.mp3",
+      "url": "https://www.youtube.com/watch?v=Jhg-1oYTsqw"
+    },
+    "yt-003": {
+      "durationSeconds": 2754.31,
+      "bytes": 33052338,
+      "sha256": "3a336e14e585bd31874a0ffcbb1093e8c74d3a5e832a5cb904a8768ef447bdd1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_003-003_HCHzQ3qDTcw.mp3",
+      "url": "https://www.youtube.com/watch?v=HCHzQ3qDTcw"
+    },
+    "yt-004": {
+      "durationSeconds": 2734.46,
+      "bytes": 32814165,
+      "sha256": "50458b94ed99a174d1e0bce43f7d7c1574edd7eba15be1188e51f7421442e8b4",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_003-004_mgxfzVnkB6s.mp3",
+      "url": "https://www.youtube.com/watch?v=mgxfzVnkB6s"
+    },
+    "yt-005": {
+      "durationSeconds": 2725.97,
+      "bytes": 32712213,
+      "sha256": "7d335efd87f810e0e7164f41f722af180b49cbade4a7c7d48737879e205b65a4",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_004-006_gss9IFSiZFg.mp3",
+      "url": "https://www.youtube.com/watch?v=gss9IFSiZFg"
+    },
+    "yt-006": {
+      "durationSeconds": 2708.04,
+      "bytes": 32497079,
+      "sha256": "39f58c483f8bccd92c8af7bc0e5e540490913d74f660cc74fc11be3472da156c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_006-012_mwiksBMGlQc.mp3",
+      "url": "https://www.youtube.com/watch?v=mwiksBMGlQc"
+    },
+    "yt-007": {
+      "durationSeconds": 2728.42,
+      "bytes": 32741593,
+      "sha256": "a3830e32fa6b6eef68e4ebd78f53d0ac46e38c959c5b71c255077c4cbb4be8d7",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_012-013_j4lIXxTKU30.mp3",
+      "url": "https://www.youtube.com/watch?v=j4lIXxTKU30"
+    },
+    "yt-008": {
+      "durationSeconds": 2745.65,
+      "bytes": 32948377,
+      "sha256": "9751804ed835803688e1cabfb90c6178561eabe4b6416d667e1177b71c0c3c9e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_013-016_XVg7o_QJ_40.mp3",
+      "url": "https://www.youtube.com/watch?v=XVg7o_QJ_40"
+    },
+    "yt-009": {
+      "durationSeconds": 2680.87,
+      "bytes": 32171065,
+      "sha256": "332a93c202cf90836ca03e8604af27505668d0a2d4dc223ba54a5c7e32f9d17b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_016-019_ipL8TKJUgw8.mp3",
+      "url": "https://www.youtube.com/watch?v=ipL8TKJUgw8"
+    },
+    "yt-010": {
+      "durationSeconds": 2823.72,
+      "bytes": 33885242,
+      "sha256": "852417a675c3376cbe1772631647480a41c79383d60bb14054c20ad9c05e50ad",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_019-022_mg4yVbtLy7M.mp3",
+      "url": "https://www.youtube.com/watch?v=mg4yVbtLy7M"
+    },
+    "yt-011": {
+      "durationSeconds": 2702.93,
+      "bytes": 32435738,
+      "sha256": "49cef0a029a465ecd0d1a981c14934e70eddd8694b07607a43e850ad49612d20",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_022-024_I0tuoDWPy3Y.mp3",
+      "url": "https://www.youtube.com/watch?v=I0tuoDWPy3Y"
+    },
+    "yt-012": {
+      "durationSeconds": 2774.69,
+      "bytes": 33296858,
+      "sha256": "9e0c638e3e2b2692612b36b313c10af6d66a2e3ed385d8dfecdedf0e50e1223e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_024-027_yWyeiIJh7uU.mp3",
+      "url": "https://www.youtube.com/watch?v=yWyeiIJh7uU"
+    },
+    "yt-013": {
+      "durationSeconds": 2743.58,
+      "bytes": 32923610,
+      "sha256": "02b6ad96f59e4dee0451fbdad070cc0abd101f31ffda94be248b6616fb3a668f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_027-029_hRynnqR4T7U.mp3",
+      "url": "https://www.youtube.com/watch?v=hRynnqR4T7U"
+    },
+    "yt-014": {
+      "durationSeconds": 2755.03,
+      "bytes": 33060986,
+      "sha256": "8e031bf230d553c98632f1e711978a6909cee5b90ef3949b0521f8f533a20110",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_029-031_WN93YLl50qY.mp3",
+      "url": "https://www.youtube.com/watch?v=WN93YLl50qY"
+    },
+    "yt-015": {
+      "durationSeconds": 2662.66,
+      "bytes": 31952474,
+      "sha256": "6ed68afdd99e6f85b7953b18077108e9f4f32f883ffc0d9d3bd84bb973e930d6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_031-035_ZiwtAxZoISE.mp3",
+      "url": "https://www.youtube.com/watch?v=ZiwtAxZoISE"
+    },
+    "yt-016": {
+      "durationSeconds": 2716.94,
+      "bytes": 32603930,
+      "sha256": "50a90d1e862176cba2f4e01286c2782b1e848eb59745dcab0dce68085097e1d2",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_035-038_Ez1SfBKQ7dI.mp3",
+      "url": "https://www.youtube.com/watch?v=Ez1SfBKQ7dI"
+    },
+    "yt-017": {
+      "durationSeconds": 2740.87,
+      "bytes": 32891066,
+      "sha256": "4770fc0810cc9b53798f45ece341844dee118e509cf48e2d8cd43d37f640e903",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "017_038-043_4anUxMLWidc.mp3",
+      "url": "https://www.youtube.com/watch?v=4anUxMLWidc"
+    },
+    "yt-018": {
+      "durationSeconds": 2813.93,
+      "bytes": 33767738,
+      "sha256": "c59d429c103d864db41535a28603aec4299389246e7bb0da8810f6d6ab214db0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "018_043-049_WC_dVmucjGs.mp3",
+      "url": "https://www.youtube.com/watch?v=WC_dVmucjGs"
+    },
+    "yt-019": {
+      "durationSeconds": 2573.35,
+      "bytes": 30880826,
+      "sha256": "d6eb0bbe87e1abf5100e2d02e0a5622b4c6e7d3643819c631eb29d79f45fc259",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "019_049-055__UZ7bDwfG5g.mp3",
+      "url": "https://www.youtube.com/watch?v=_UZ7bDwfG5g"
+    },
+    "yt-020": {
+      "durationSeconds": 2685.38,
+      "bytes": 32225210,
+      "sha256": "2f44a179616983c79d13562002cf15e0bd793ac133827c0fea852c7fbf308076",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "020_055-061_Uwo9K3SInV8.mp3",
+      "url": "https://www.youtube.com/watch?v=Uwo9K3SInV8"
+    },
+    "yt-021": {
+      "durationSeconds": 2602.15,
+      "bytes": 31226427,
+      "sha256": "a852b6f65afa055da0fc424b54aadaff58f73db4cb829f1c88bcc670cf91c95e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "021_061-062_H6sE1CXYRTo.mp3",
+      "url": "https://www.youtube.com/watch?v=H6sE1CXYRTo"
+    },
+    "yt-022": {
+      "durationSeconds": 2810.62,
+      "bytes": 33727994,
+      "sha256": "1a6527b0b7f73f77a550030da940d0f0d580c7fe957b985ba88e534ec3a68fee",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "022_062-065_lvoP120GLs0.mp3",
+      "url": "https://www.youtube.com/watch?v=lvoP120GLs0"
+    },
+    "yt-023": {
+      "durationSeconds": 1684.37,
+      "bytes": 20213018,
+      "sha256": "afd8e5c1038e33501af16fc69de33fcb7fcc4d8ef66458cd3fd0036b9bb3cfad",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "023_065-067_U9YjDhBFq3g.mp3",
+      "url": "https://www.youtube.com/watch?v=U9YjDhBFq3g"
+    },
+    "yt-024": {
+      "durationSeconds": 1718.66,
+      "bytes": 20624570,
+      "sha256": "bffe0a4cb53f8f9de45de29b5d702ecc6953956ec9f932273f96adc81758d6b2",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "024_067-068_fQunF9eCDj0.mp3",
+      "url": "https://www.youtube.com/watch?v=fQunF9eCDj0"
+    },
+    "yt-025": {
+      "durationSeconds": 2179.03,
+      "bytes": 26148986,
+      "sha256": "70887fad95a9b134b28024dd684a49d3cd935130876f26edbc453ce8ebeff93b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "025_068-069_Ziz9jgKTQRk.mp3",
+      "url": "https://www.youtube.com/watch?v=Ziz9jgKTQRk"
+    },
+    "yt-026": {
+      "durationSeconds": 1644.53,
+      "bytes": 19734938,
+      "sha256": "8d2928a3181b7837110103256405c85978cfcde9dd461c83308d6788182e3969",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "026_069-071_KVwjEf6BdGI.mp3",
+      "url": "https://www.youtube.com/watch?v=KVwjEf6BdGI"
+    },
+    "yt-027": {
+      "durationSeconds": 1660.06,
+      "bytes": 19921274,
+      "sha256": "4a3e939b4ff6c5d211d2bdee24f3293d0e1c7d2bec58f224a72d21b411271a9c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "027_071-073_8AuvyRHLspE.mp3",
+      "url": "https://www.youtube.com/watch?v=8AuvyRHLspE"
+    },
+    "yt-028": {
+      "durationSeconds": 1678.85,
+      "bytes": 20146778,
+      "sha256": "bd9b8064342d091e4f2757602e2788bfecc8f8cfb5cc9ed86f28d9298c43c09f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "028_073-075_XtpJVd-dRy4.mp3",
+      "url": "https://www.youtube.com/watch?v=XtpJVd-dRy4"
+    },
+    "yt-029": {
+      "durationSeconds": 1649.83,
+      "bytes": 19798586,
+      "sha256": "8a5434a812204bad826dd77ffd28395a3916b0781ec78fc684a8cef6c126dd9c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "029_075-078_g9-gGytbRsg.mp3",
+      "url": "https://www.youtube.com/watch?v=g9-gGytbRsg"
+    },
+    "yt-030": {
+      "durationSeconds": 1693.15,
+      "bytes": 20318426,
+      "sha256": "f33b3db299efc9cf787fad7fdb68f98b8cd8d907f6cc8b188210c3579c20cb70",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "030_078-083_6dlM_HtH_w8.mp3",
+      "url": "https://www.youtube.com/watch?v=6dlM_HtH_w8"
+    },
+    "yt-031": {
+      "durationSeconds": 1720.58,
+      "bytes": 20647610,
+      "sha256": "efda5315d3db7fbab296fd213144444d4b6200ebc11d6f1d1176008036fa7520",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "031_083-087_WauKGoPveXY.mp3",
+      "url": "https://www.youtube.com/watch?v=WauKGoPveXY"
+    },
+    "yt-032": {
+      "durationSeconds": 1646.95,
+      "bytes": 19764026,
+      "sha256": "7e0dda81000c8c9ec70859574398cf469d1e058c97d733bd78be3ca11499a53d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "032_087-089_peXblPtfZh0.mp3",
+      "url": "https://www.youtube.com/watch?v=peXblPtfZh0"
+    },
+    "yt-033": {
+      "durationSeconds": 1691.71,
+      "bytes": 20301146,
+      "sha256": "d801ba89c1c2f750f8c9414b1d95e0bd390137b7f0301f8dcb48bcfb89cd7449",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "033_089-092_2L3EJfkXdQA.mp3",
+      "url": "https://www.youtube.com/watch?v=2L3EJfkXdQA"
+    },
+    "yt-034": {
+      "durationSeconds": 1735.51,
+      "bytes": 20826746,
+      "sha256": "701c9b52af4bc693d355c76af0b786cbd6a19716ccfeb436caa49ff5457b7360",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "034_092-095_l0PHubYD8OE.mp3",
+      "url": "https://www.youtube.com/watch?v=l0PHubYD8OE"
+    },
+    "yt-035": {
+      "durationSeconds": 1742.57,
+      "bytes": 20911415,
+      "sha256": "c5dcbdf34a8785f1d3f21b641d9d25fa51358b716b6d8b43bdf4b4854d1eb5e6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "035_095-098_lgSfa1NWqk8.mp3",
+      "url": "https://www.youtube.com/watch?v=lgSfa1NWqk8"
+    },
+    "yt-036": {
+      "durationSeconds": 1651.25,
+      "bytes": 19815580,
+      "sha256": "0dc0bf4c68fc4e5508afa3b74ad2883f849e861e0773078f8d7d0a0c71f774a0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "036_098-100_IJxsXskIhfs.mp3",
+      "url": "https://www.youtube.com/watch?v=IJxsXskIhfs"
+    },
+    "yt-037": {
+      "durationSeconds": 1786.37,
+      "bytes": 21437022,
+      "sha256": "68e54ecf966180ccb50a993c238de1e4d38ddfcd047212e448fd1c266dda06d6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "037_100-104_G4gmrvmgrpo.mp3",
+      "url": "https://www.youtube.com/watch?v=G4gmrvmgrpo"
+    },
+    "yt-038": {
+      "durationSeconds": 1719.53,
+      "bytes": 20634942,
+      "sha256": "22e03aba8afa04cc512997499664dba4276d48193b6c288de50cafae327b6aaf",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "038_104-109_CfNLBj0g8pQ.mp3",
+      "url": "https://www.youtube.com/watch?v=CfNLBj0g8pQ"
+    }
+  },
+  "ayahs": {
+    "10:1": {
+      "file": "010-يونس-youtube-v1/001.mp3",
+      "durationMs": 224570,
+      "bytes": 2695397,
+      "sha256": "3d41988d7bebeea0ace36e94cf22470b2f72970e449c496398a2eecaa483199c",
+      "sharedAyahs": [
+        "10:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 19.63,
+          "end": 244.16
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 1"
+    },
+    "10:2": {
+      "file": "010-يونس-youtube-v1/002.mp3",
+      "durationMs": 2453780,
+      "bytes": 29445989,
+      "sha256": "baef672862eb192b4871651743d4566049d31695a219c660b6a6c5142e85671f",
+      "sharedAyahs": [
+        "10:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 244.16,
+          "end": 2697.92
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 2"
+    },
+    "10:3": {
+      "file": "010-يونس-youtube-v1/003.mp3",
+      "durationMs": 2678500,
+      "bytes": 32142533,
+      "sha256": "0a8eeb2ec998bd75e0af40cbc8bd8f28b641569b1372638422abbaecdf01e4c9",
+      "sharedAyahs": [
+        "10:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 18.45,
+          "end": 2696.92
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 3"
+    },
+    "10:4": {
+      "file": "010-يونس-youtube-v1/004.mp3",
+      "durationMs": 2678330,
+      "bytes": 32140517,
+      "sha256": "5ba6feebd8a9f66a26c95e7784b9cc5e916db6bfa6f8d23426eb8e93db158449",
+      "sharedAyahs": [
+        "10:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 21.82,
+          "end": 2700.14
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 4"
+    },
+    "10:5": {
+      "file": "010-يونس-youtube-v1/005.mp3",
+      "durationMs": 2605270,
+      "bytes": 31263845,
+      "sha256": "e2eebc723e42c4728b1398bda35a5869c0d46da970916f86ba4ab10cee8e473d",
+      "sharedAyahs": [
+        "10:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 50.7,
+          "end": 2655.95
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 5"
+    },
+    "10:6": {
+      "file": "010-يونس-youtube-v1/006.mp3",
+      "durationMs": 67220,
+      "bytes": 807269,
+      "sha256": "ae604b54396423127589d407f6446422400cfdbf7cd7b3125c789aa35898d52a",
+      "sharedAyahs": [
+        "10:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 2655.95,
+          "end": 2723.15
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 6"
+    },
+    "10:7": {
+      "file": "010-يونس-youtube-v1/007.mp3",
+      "durationMs": 1321610,
+      "bytes": 15859881,
+      "sha256": "3b2132899a214b09ce62e647089336cca55e47fee74a54b8ea45c04c1fc8f69d",
+      "sharedAyahs": [
+        "10:7",
+        "10:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 21.09,
+          "end": 1342.67
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 7,8"
+    },
+    "10:8": {
+      "file": "010-يونس-youtube-v1/007.mp3",
+      "durationMs": 1321610,
+      "bytes": 15859881,
+      "sha256": "3b2132899a214b09ce62e647089336cca55e47fee74a54b8ea45c04c1fc8f69d",
+      "sharedAyahs": [
+        "10:7",
+        "10:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 21.09,
+          "end": 1342.67
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 7,8"
+    },
+    "10:9": {
+      "file": "010-يونس-youtube-v1/009.mp3",
+      "durationMs": 141980,
+      "bytes": 1704389,
+      "sha256": "3c0322cb9d34f36c5c3e3169d924c8962aa1517ec33900f7bc74b3ac4f441385",
+      "sharedAyahs": [
+        "10:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 1342.67,
+          "end": 1484.63
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 9"
+    },
+    "10:10": {
+      "file": "010-يونس-youtube-v1/010.mp3",
+      "durationMs": 572740,
+      "bytes": 6873415,
+      "sha256": "e7479402240471fccd21639aed359f1875a6f16a912ecf8b2859593215bfd757",
+      "sharedAyahs": [
+        "10:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 1484.63,
+          "end": 2057.35
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 10"
+    },
+    "10:11": {
+      "file": "010-يونس-youtube-v1/011.mp3",
+      "durationMs": 482280,
+      "bytes": 5787943,
+      "sha256": "f1c44532504e6591383f0248bf3f3563bcc3ff974c636ce8473b322716b3271d",
+      "sharedAyahs": [
+        "10:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 2057.35,
+          "end": 2539.6
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 11"
+    },
+    "10:12": {
+      "file": "010-يونس-youtube-v1/012.mp3",
+      "durationMs": 158710,
+      "bytes": 1905127,
+      "sha256": "6b9a4ac5798c5b5ac98717bb482a9eb1538403c16b5b63b5e40a797181bde3bf",
+      "sharedAyahs": [
+        "10:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 2539.6,
+          "end": 2698.29
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 12"
+    },
+    "10:13": {
+      "file": "010-يونس-youtube-v1/013.mp3",
+      "durationMs": 2667170,
+      "bytes": 32006599,
+      "sha256": "398f8a0d00f8d01ffda36210cf55c002925d443fc55dc040451ae99b5f5782c8",
+      "sharedAyahs": [
+        "10:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 58.83,
+          "end": 2725.98
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 13"
+    },
+    "10:14": {
+      "file": "010-يونس-youtube-v1/014.mp3",
+      "durationMs": 1208180,
+      "bytes": 14498791,
+      "sha256": "bec8e773629cd2c7eea41e4e1faad146fea9c7bf3421b4c2727fface579d1fa7",
+      "sharedAyahs": [
+        "10:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 23.28,
+          "end": 1231.43
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 14"
+    },
+    "10:15": {
+      "file": "010-يونس-youtube-v1/015.mp3",
+      "durationMs": 1263940,
+      "bytes": 15167815,
+      "sha256": "f1a27a19530050b9a3f47bc8e76ac3b0150b1d59f19f2385ab41cd4259f46259",
+      "sharedAyahs": [
+        "10:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1231.43,
+          "end": 2495.34
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 15"
+    },
+    "10:16": {
+      "file": "010-يونس-youtube-v1/016.mp3",
+      "durationMs": 163940,
+      "bytes": 1967911,
+      "sha256": "2ebdb7dc51469cf8994a3186c0ccb0f564682160793aa0aa2265f82234d16bd5",
+      "sharedAyahs": [
+        "10:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2495.34,
+          "end": 2659.26
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 16"
+    },
+    "10:17": {
+      "file": "010-يونس-youtube-v1/017.mp3",
+      "durationMs": 882840,
+      "bytes": 10594663,
+      "sha256": "2ac5966c7510c025f1e3aaaece48762fe9570d6caad28ea95a45c1b1242c73b9",
+      "sharedAyahs": [
+        "10:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 30.42,
+          "end": 913.24
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 17"
+    },
+    "10:18": {
+      "file": "010-يونس-youtube-v1/018.mp3",
+      "durationMs": 1218650,
+      "bytes": 14624359,
+      "sha256": "d270d8e7dcba4eabbeaf3809ac459a58f36debfe7e1a40c495ebdd5289860080",
+      "sharedAyahs": [
+        "10:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 913.24,
+          "end": 2131.85
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 18"
+    },
+    "10:19": {
+      "file": "010-يونس-youtube-v1/019.mp3",
+      "durationMs": 549000,
+      "bytes": 6588583,
+      "sha256": "2af24f9ba4b01b0d336dde3e9b37fb0723f0e0e0b276f02d2eb0f438ca8daf51",
+      "sharedAyahs": [
+        "10:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 2131.85,
+          "end": 2680.872
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 19"
+    },
+    "10:20": {
+      "file": "010-يونس-youtube-v1/020.mp3",
+      "durationMs": 1832450,
+      "bytes": 21989959,
+      "sha256": "124e5101d33a5b63696efbce61d87ea775041b91fbfe21a1f1a7eba4cc5f8588",
+      "sharedAyahs": [
+        "10:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 24.79,
+          "end": 1857.2
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 20"
+    },
+    "10:21": {
+      "file": "010-يونس-youtube-v1/021.mp3",
+      "durationMs": 828910,
+      "bytes": 9947527,
+      "sha256": "211a6464d33e0014bc5409ce297d21df4a161ea7788eb3ac6fb7afd1956146c4",
+      "sharedAyahs": [
+        "10:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1857.2,
+          "end": 2686.09
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 21"
+    },
+    "10:22": {
+      "file": "010-يونس-youtube-v1/022.mp3",
+      "durationMs": 86810,
+      "bytes": 1042279,
+      "sha256": "c5fa659e450e268aa8f58b090226b88cd50e95a127e540c2a6febd1e8a9397af",
+      "sharedAyahs": [
+        "10:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2686.09,
+          "end": 2772.88
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 22"
+    },
+    "10:23": {
+      "file": "010-يونس-youtube-v1/023.mp3",
+      "durationMs": 2347540,
+      "bytes": 28171015,
+      "sha256": "50a76d365ab8890d23ba1632a0d027485431f87b248a0d11aad781168e38c297",
+      "sharedAyahs": [
+        "10:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 36.77,
+          "end": 2384.3
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 23"
+    },
+    "10:24": {
+      "file": "010-يونس-youtube-v1/024.mp3",
+      "durationMs": 318620,
+      "bytes": 3824071,
+      "sha256": "5019441f21e0a8d6edea0209a9e375b89348f55a652e43c77715f2e0aa9e992f",
+      "sharedAyahs": [
+        "10:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 2384.3,
+          "end": 2702.928
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 24"
+    },
+    "10:25": {
+      "file": "010-يونس-youtube-v1/025.mp3",
+      "durationMs": 2177780,
+      "bytes": 26133991,
+      "sha256": "d49f0059be801aa68cf0131063fddebe365d56a50378e2e6f2b297bde1ed2b30",
+      "sharedAyahs": [
+        "10:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 24.38,
+          "end": 2202.13
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 25"
+    },
+    "10:26": {
+      "file": "010-يونس-youtube-v1/026.mp3",
+      "durationMs": 462500,
+      "bytes": 5550631,
+      "sha256": "a4a8bb5515731a0d5e8dbf78dba91132a8633c172c657e2069cfad9b95d88457",
+      "sharedAyahs": [
+        "10:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 2202.13,
+          "end": 2664.62
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 26"
+    },
+    "10:27": {
+      "file": "010-يونس-youtube-v1/027.mp3",
+      "durationMs": 110060,
+      "bytes": 1321351,
+      "sha256": "bdbc3916366fa2f2c0fbbba5a4605783911cebc5fee0f7fb2032aaadcba0f096",
+      "sharedAyahs": [
+        "10:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 2664.62,
+          "end": 2774.688
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 27"
+    },
+    "10:28": {
+      "file": "010-يونس-youtube-v1/028.mp3",
+      "durationMs": 1210870,
+      "bytes": 14531047,
+      "sha256": "fd9e12629bcb0c3ff98725045cae19072dc121b50e7fc5f7200ea5d83a03ab99",
+      "sharedAyahs": [
+        "10:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 19.16,
+          "end": 1230.02
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 28"
+    },
+    "10:29": {
+      "file": "010-يونس-youtube-v1/029.mp3",
+      "durationMs": 1501100,
+      "bytes": 18013831,
+      "sha256": "8dbb6692faac55dbc1aa9323a522f73ec6dde9f2a0a99999125c51985fd72f41",
+      "sharedAyahs": [
+        "10:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 1230.02,
+          "end": 2731.09
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 29"
+    },
+    "10:30": {
+      "file": "010-يونس-youtube-v1/030.mp3",
+      "durationMs": 1122100,
+      "bytes": 13465735,
+      "sha256": "e96b453e94925c822dffe00498d7c1a2fae0da6d21517b40c686fea92240d5ab",
+      "sharedAyahs": [
+        "10:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 20.31,
+          "end": 1142.39
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 30"
+    },
+    "10:31": {
+      "file": "010-يونس-youtube-v1/031.mp3",
+      "durationMs": 1591780,
+      "bytes": 19101895,
+      "sha256": "6704e29273d64a01aca964aacc1147827e196a3048d363b139ed2826b0eb8b61",
+      "sharedAyahs": [
+        "10:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 1142.39,
+          "end": 2734.15
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 31"
+    },
+    "10:32": {
+      "file": "010-يونس-youtube-v1/032.mp3",
+      "durationMs": 1117560,
+      "bytes": 13411303,
+      "sha256": "005530fba752e38b4433a7beedabba30d52a1adb001c926a766d1a4818d5abd2",
+      "sharedAyahs": [
+        "10:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 23.63,
+          "end": 1141.17
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 32"
+    },
+    "10:33": {
+      "file": "010-يونس-youtube-v1/033.mp3",
+      "durationMs": 228170,
+      "bytes": 2738599,
+      "sha256": "c585cfdb7561fd3601cc4d4295026c2b08e921adece59ee3401d137bd8190afc",
+      "sharedAyahs": [
+        "10:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 1141.17,
+          "end": 1369.31
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 33"
+    },
+    "10:34": {
+      "file": "010-يونس-youtube-v1/034.mp3",
+      "durationMs": 1287480,
+      "bytes": 15450348,
+      "sha256": "b774d0eedc8ad9596d42fc138145d51c8730533a1c0e0d887ec7bb9e7f67efce",
+      "sharedAyahs": [
+        "10:34",
+        "10:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 1369.31,
+          "end": 2656.76
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 34,35"
+    },
+    "10:35": {
+      "file": "010-يونس-youtube-v1/034.mp3",
+      "durationMs": 1287480,
+      "bytes": 15450348,
+      "sha256": "b774d0eedc8ad9596d42fc138145d51c8730533a1c0e0d887ec7bb9e7f67efce",
+      "sharedAyahs": [
+        "10:34",
+        "10:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 1369.31,
+          "end": 2656.76
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 34,35"
+    },
+    "10:36": {
+      "file": "010-يونس-youtube-v1/036.mp3",
+      "durationMs": 1254360,
+      "bytes": 15052903,
+      "sha256": "5d4dcf891544f1f78c0be58d682ca8f41fcc456c1fc3b5ff3df8193c434627bd",
+      "sharedAyahs": [
+        "10:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 22.81,
+          "end": 1277.14
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 36"
+    },
+    "10:37": {
+      "file": "010-يونس-youtube-v1/037.mp3",
+      "durationMs": 779640,
+      "bytes": 9356263,
+      "sha256": "35d59c7b45df35abadbc9de7824ab48798c363eb34bb0779cfeb6297253540f4",
+      "sharedAyahs": [
+        "10:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 1277.14,
+          "end": 2056.76
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 37"
+    },
+    "10:38": {
+      "file": "010-يونس-youtube-v1/038.mp3",
+      "durationMs": 644180,
+      "bytes": 7730791,
+      "sha256": "2d225b8ab4ecae8bd277d3b137a5bf533ee32f75a388a2391e3e358291964343",
+      "sharedAyahs": [
+        "10:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 2056.76,
+          "end": 2700.93
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 38"
+    },
+    "10:39": {
+      "file": "010-يونس-youtube-v1/039.mp3",
+      "durationMs": 1594370,
+      "bytes": 19132999,
+      "sha256": "2ab60b20fa17e0c847a780b195195119fbdc5cd0df2514d04007106b68ee8017",
+      "sharedAyahs": [
+        "10:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 24.37,
+          "end": 1618.72
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 39"
+    },
+    "10:40": {
+      "file": "010-يونس-youtube-v1/040.mp3",
+      "durationMs": 389860,
+      "bytes": 4678855,
+      "sha256": "6faadfe31684c3b7bed1aea126cf224e01a9a9582f0e7cf97870d1838088c2ff",
+      "sharedAyahs": [
+        "10:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 1618.72,
+          "end": 2008.56
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 40"
+    },
+    "10:41": {
+      "file": "010-يونس-youtube-v1/041.mp3",
+      "durationMs": 123650,
+      "bytes": 1484359,
+      "sha256": "93345e26837cffd73d9282b93ed13a7b1d3207bdbef6bdfb17424364bc0bfb11",
+      "sharedAyahs": [
+        "10:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 2008.56,
+          "end": 2132.18
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 41"
+    },
+    "10:42": {
+      "file": "010-يونس-youtube-v1/042.mp3",
+      "durationMs": 536570,
+      "bytes": 6439399,
+      "sha256": "3b3ed32a8b5fa4d883dff743c71ce7d2bd7e654af4dbd04d3523f4295fda260f",
+      "sharedAyahs": [
+        "10:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 2132.18,
+          "end": 2668.71
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 42"
+    },
+    "10:43": {
+      "file": "010-يونس-youtube-v1/043.mp3",
+      "durationMs": 58970,
+      "bytes": 708199,
+      "sha256": "635f8a4fcc79f3588247bf03358e448e70cbb821e22bc190999607be23f68652",
+      "sharedAyahs": [
+        "10:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 2668.71,
+          "end": 2727.67
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 43"
+    },
+    "10:44": {
+      "file": "010-يونس-youtube-v1/044.mp3",
+      "durationMs": 1383980,
+      "bytes": 16608391,
+      "sha256": "e459ea8d989395520ef5e98a2e9d6eb61987cd164e1895c7acece9b1daf0e5fa",
+      "sharedAyahs": [
+        "10:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 20.05,
+          "end": 1404.01
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 44"
+    },
+    "10:45": {
+      "file": "010-يونس-youtube-v1/045.mp3",
+      "durationMs": 652730,
+      "bytes": 7833319,
+      "sha256": "0eeb1d9f166d829aa0a1f5a2ee48b806f2e85115e5334fffb45428073aac3f3a",
+      "sharedAyahs": [
+        "10:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 1404.01,
+          "end": 2056.71
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 45"
+    },
+    "10:46": {
+      "file": "010-يونس-youtube-v1/046.mp3",
+      "durationMs": 304970,
+      "bytes": 3660199,
+      "sha256": "b04afee86b9744e9d8ef44d78acc0f9f88c073a6654b437e177acff20411b972",
+      "sharedAyahs": [
+        "10:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 2056.71,
+          "end": 2361.67
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 46"
+    },
+    "10:47": {
+      "file": "010-يونس-youtube-v1/047.mp3",
+      "durationMs": 392620,
+      "bytes": 4711975,
+      "sha256": "882bfac6e4a336c64f8c293dd055887a11faddb09ca68957703ed49236c14aed",
+      "sharedAyahs": [
+        "10:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 2361.67,
+          "end": 2754.26
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 47"
+    },
+    "10:48": {
+      "file": "010-يونس-youtube-v1/048.mp3",
+      "durationMs": 35280,
+      "bytes": 423948,
+      "sha256": "1cf4f07edf4e0566b8fb3985e7b09547547127e8e1ca760251219f7abe9ecf01",
+      "sharedAyahs": [
+        "10:48",
+        "10:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 2754.26,
+          "end": 2789.52
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 48,49"
+    },
+    "10:49": {
+      "file": "010-يونس-youtube-v1/048.mp3",
+      "durationMs": 35280,
+      "bytes": 423948,
+      "sha256": "1cf4f07edf4e0566b8fb3985e7b09547547127e8e1ca760251219f7abe9ecf01",
+      "sharedAyahs": [
+        "10:48",
+        "10:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 2754.26,
+          "end": 2789.52
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 48,49"
+    },
+    "10:50": {
+      "file": "010-يونس-youtube-v1/050.mp3",
+      "durationMs": 711290,
+      "bytes": 8536044,
+      "sha256": "64b80f6803d745fe0349b58311b610305b5587889c44dc3a9e1dab721aac8603",
+      "sharedAyahs": [
+        "10:50",
+        "10:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 30.12,
+          "end": 741.37
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 50,51"
+    },
+    "10:51": {
+      "file": "010-يونس-youtube-v1/050.mp3",
+      "durationMs": 711290,
+      "bytes": 8536044,
+      "sha256": "64b80f6803d745fe0349b58311b610305b5587889c44dc3a9e1dab721aac8603",
+      "sharedAyahs": [
+        "10:50",
+        "10:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 30.12,
+          "end": 741.37
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 50,51"
+    },
+    "10:52": {
+      "file": "010-يونس-youtube-v1/052.mp3",
+      "durationMs": 228550,
+      "bytes": 2743207,
+      "sha256": "6fdfbb495a55070da388866d765fe5bb5e56632c86e3dda15c4068ccca42b949",
+      "sharedAyahs": [
+        "10:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 741.37,
+          "end": 969.91
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 52"
+    },
+    "10:53": {
+      "file": "010-يونس-youtube-v1/053.mp3",
+      "durationMs": 498670,
+      "bytes": 5984647,
+      "sha256": "7b48e73b5a0b2baeeb75681bedda687d63add39710a1c909fb6e3b34bd4b418c",
+      "sharedAyahs": [
+        "10:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 969.91,
+          "end": 1468.56
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 53"
+    },
+    "10:54": {
+      "file": "010-يونس-youtube-v1/054.mp3",
+      "durationMs": 608090,
+      "bytes": 7297639,
+      "sha256": "15b0bcc2e7a5654306ab506d7948a0a4b38b1992c43046997716595f3c06a0db",
+      "sharedAyahs": [
+        "10:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 1468.56,
+          "end": 2076.62
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 54"
+    },
+    "10:55": {
+      "file": "010-يونس-youtube-v1/055.mp3",
+      "durationMs": 496730,
+      "bytes": 5961319,
+      "sha256": "7d94d1ea13f6bf348e6c9767b7a6dc4932b42a10137cdc3d6c8d6d8485bcb6b9",
+      "sharedAyahs": [
+        "10:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 2076.62,
+          "end": 2573.352
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 55"
+    },
+    "10:56": {
+      "file": "010-يونس-youtube-v1/056.mp3",
+      "durationMs": 416520,
+      "bytes": 4998823,
+      "sha256": "66d8ddb44b20172ea6becd81b6d6315bfa5bef2d13733cee3f2fe1ed86f36907",
+      "sharedAyahs": [
+        "10:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 18.51,
+          "end": 435.01
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 56"
+    },
+    "10:57": {
+      "file": "010-يونس-youtube-v1/057.mp3",
+      "durationMs": 604990,
+      "bytes": 7260487,
+      "sha256": "81cc87fe318b10e9c8b14a5e4fc6e2364aac144803cf29fde62b07167ce7c930",
+      "sharedAyahs": [
+        "10:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 435.01,
+          "end": 1039.98
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 57"
+    },
+    "10:58": {
+      "file": "010-يونس-youtube-v1/058.mp3",
+      "durationMs": 638640,
+      "bytes": 7664263,
+      "sha256": "0ed437ed634026023f509162fbefa5f84f9269a648cc2e9972fcd3390a5a7d53",
+      "sharedAyahs": [
+        "10:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 1039.98,
+          "end": 1678.59
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 58"
+    },
+    "10:59": {
+      "file": "010-يونس-youtube-v1/059.mp3",
+      "durationMs": 346150,
+      "bytes": 4154407,
+      "sha256": "af9ef013686b2349005ba4ca0e334e00dfcc2b6d99ca90656c95934c6b0533bc",
+      "sharedAyahs": [
+        "10:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 1678.59,
+          "end": 2024.73
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 59"
+    },
+    "10:60": {
+      "file": "010-يونس-youtube-v1/060.mp3",
+      "durationMs": 98830,
+      "bytes": 1186567,
+      "sha256": "0d5aff891d7211700a1f6c3d68541bcfd23747d3ff904f2e3c4541b6fe007d3f",
+      "sharedAyahs": [
+        "10:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 2024.73,
+          "end": 2123.53
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 60"
+    },
+    "10:61": {
+      "file": "010-يونس-youtube-v1/061.mp3",
+      "durationMs": 552910,
+      "bytes": 6635527,
+      "sha256": "819a2496c3aca279108f6f9b2294520b837ca38911d3d23eca72ebbd85978ee1",
+      "sharedAyahs": [
+        "10:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 2123.53,
+          "end": 2676.43
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 61"
+    },
+    "10:62": {
+      "file": "010-يونس-youtube-v1/062.mp3",
+      "durationMs": 2559000,
+      "bytes": 30708583,
+      "sha256": "d6517510fcb271ae320753654422063cd7994e2bdb0f3f7e7340a1a4c98f67a1",
+      "sharedAyahs": [
+        "10:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 39.3,
+          "end": 2598.28
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 62"
+    },
+    "10:63": {
+      "file": "010-يونس-youtube-v1/063.mp3",
+      "durationMs": 1271180,
+      "bytes": 15254791,
+      "sha256": "f3f47e39b91e7847b3fc834ebbc45df48ace105328e666e86320ea94e1abef3d",
+      "sharedAyahs": [
+        "10:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 20.84,
+          "end": 1292.01
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 63"
+    },
+    "10:64": {
+      "file": "010-يونس-youtube-v1/064.mp3",
+      "durationMs": 1309850,
+      "bytes": 15718759,
+      "sha256": "84c05e93858ad6da609690f4d55c59da2aa04a04e29d7286fc5ef854fa653a31",
+      "sharedAyahs": [
+        "10:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 1292.01,
+          "end": 2601.82
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 64"
+    },
+    "10:65": {
+      "file": "010-يونس-youtube-v1/065.mp3",
+      "durationMs": 107780,
+      "bytes": 1293991,
+      "sha256": "ca63c6ea7c523292bbff51bd085cfdd4841b27a9bbdcfd859dd306bd06695653",
+      "sharedAyahs": [
+        "10:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 2601.82,
+          "end": 2709.58
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 65"
+    },
+    "10:66": {
+      "file": "010-يونس-youtube-v1/066.mp3",
+      "durationMs": 1398410,
+      "bytes": 16781479,
+      "sha256": "e9d7e3a18b9effd63c8ebda3e1eaded307ef7a326429193300eadca329325b38",
+      "sharedAyahs": [
+        "10:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 46.72,
+          "end": 1445.1
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 66"
+    },
+    "10:67": {
+      "file": "010-يونس-youtube-v1/067.mp3",
+      "durationMs": 237070,
+      "bytes": 2845447,
+      "sha256": "81f3cc121018a7c6b2e53ee36344fd44c6c726159b35ef9e340f94ff13d13e67",
+      "sharedAyahs": [
+        "10:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 1445.1,
+          "end": 1682.14
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 67"
+    },
+    "10:68": {
+      "file": "010-يونس-youtube-v1/068.mp3",
+      "durationMs": 1715520,
+      "bytes": 20586823,
+      "sha256": "069df3df7ede24396a9b4f1f951cd9b79fc09872602931b951890634028414c2",
+      "sharedAyahs": [
+        "10:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 0.0,
+          "end": 1715.49
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 68"
+    },
+    "10:69": {
+      "file": "010-يونس-youtube-v1/069.mp3",
+      "durationMs": 2078040,
+      "bytes": 24937063,
+      "sha256": "03993aaa7f15630ee1158d808ded67d4ada61f97fa8e2ebd9e1022604ac8c634",
+      "sharedAyahs": [
+        "10:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 0.0,
+          "end": 2078.01
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 69"
+    },
+    "10:70": {
+      "file": "010-يونس-youtube-v1/070.mp3",
+      "durationMs": 867550,
+      "bytes": 10411207,
+      "sha256": "42b9166e365ab153498f1153a13612c20b10d894464c82d37146d271854f2928",
+      "sharedAyahs": [
+        "10:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 19.92,
+          "end": 887.43
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 70"
+    },
+    "10:71": {
+      "file": "010-يونس-youtube-v1/071.mp3",
+      "durationMs": 753670,
+      "bytes": 9044647,
+      "sha256": "0b79fd7828cd98682856270f3c13be5009fc0ddd1428eac485fcd3e7cc798d42",
+      "sharedAyahs": [
+        "10:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 887.43,
+          "end": 1641.09
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 71"
+    },
+    "10:72": {
+      "file": "010-يونس-youtube-v1/072.mp3",
+      "durationMs": 1626020,
+      "bytes": 19512876,
+      "sha256": "69e3617d4b950e11fbd4226ab26a86299cca6920bd81d7c0b4195c6bc3e06292",
+      "sharedAyahs": [
+        "10:72",
+        "10:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 29.85,
+          "end": 1655.85
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 72,73"
+    },
+    "10:73": {
+      "file": "010-يونس-youtube-v1/072.mp3",
+      "durationMs": 1626020,
+      "bytes": 19512876,
+      "sha256": "69e3617d4b950e11fbd4226ab26a86299cca6920bd81d7c0b4195c6bc3e06292",
+      "sharedAyahs": [
+        "10:72",
+        "10:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 29.85,
+          "end": 1655.85
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 72,73"
+    },
+    "10:74": {
+      "file": "010-يونس-youtube-v1/074.mp3",
+      "durationMs": 1528390,
+      "bytes": 18341287,
+      "sha256": "6214056454095a961cdde48aa73430a8c91640f4b0d7fc2f21a7eec4fa98eb26",
+      "sharedAyahs": [
+        "10:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 18.29,
+          "end": 1546.66
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 74"
+    },
+    "10:75": {
+      "file": "010-يونس-youtube-v1/075.mp3",
+      "durationMs": 132170,
+      "bytes": 1586599,
+      "sha256": "7a8d4cc7bd382d821dda42a44e539bd8ce2999a4d5a8128d95344744b73fc112",
+      "sharedAyahs": [
+        "10:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 1546.66,
+          "end": 1678.848
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 75"
+    },
+    "10:76": {
+      "file": "010-يونس-youtube-v1/076.mp3",
+      "durationMs": 875880,
+      "bytes": 10511143,
+      "sha256": "8d3b40c303deb52d75f1ae2366bf066903ffffed8cfb6946f46e64579249a6e3",
+      "sharedAyahs": [
+        "10:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 21.55,
+          "end": 897.4
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 76"
+    },
+    "10:77": {
+      "file": "010-يونس-youtube-v1/077.mp3",
+      "durationMs": 747860,
+      "bytes": 8974956,
+      "sha256": "1b2a24f526cfb16055b59c25b9eeb52f98ff3077d3a1c40933e67a4b34059a55",
+      "sharedAyahs": [
+        "10:77",
+        "10:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 897.4,
+          "end": 1645.23
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 77,78"
+    },
+    "10:78": {
+      "file": "010-يونس-youtube-v1/077.mp3",
+      "durationMs": 747860,
+      "bytes": 8974956,
+      "sha256": "1b2a24f526cfb16055b59c25b9eeb52f98ff3077d3a1c40933e67a4b34059a55",
+      "sharedAyahs": [
+        "10:77",
+        "10:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 897.4,
+          "end": 1645.23
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 77,78"
+    },
+    "10:79": {
+      "file": "010-يونس-youtube-v1/079.mp3",
+      "durationMs": 980420,
+      "bytes": 11765671,
+      "sha256": "b17baf79faa731befc072f23f0e4397defcba382804de4d56d51dc27d6abe5bd",
+      "sharedAyahs": [
+        "10:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 0.0,
+          "end": 980.39
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 79"
+    },
+    "10:80": {
+      "file": "010-يونس-youtube-v1/080.mp3",
+      "durationMs": 145580,
+      "bytes": 1747591,
+      "sha256": "97ed246051b96ea81b27a910a217fadfdd9adf3428e90011d68af92e2a53d570",
+      "sharedAyahs": [
+        "10:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 980.39,
+          "end": 1125.95
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 80"
+    },
+    "10:81": {
+      "file": "010-يونس-youtube-v1/081.mp3",
+      "durationMs": 79440,
+      "bytes": 953863,
+      "sha256": "4c4582f06cbfae2011835ea189abce1be0e7365600b6254615e94b4ac3820d2d",
+      "sharedAyahs": [
+        "10:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 1125.95,
+          "end": 1205.36
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 81"
+    },
+    "10:82": {
+      "file": "010-يونس-youtube-v1/082.mp3",
+      "durationMs": 75530,
+      "bytes": 906919,
+      "sha256": "87621e285483bb632cfc56410577d5b9d45f48940070164cc2421b6cdb3e86c6",
+      "sharedAyahs": [
+        "10:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 1205.36,
+          "end": 1280.86
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 82"
+    },
+    "10:83": {
+      "file": "010-يونس-youtube-v1/083.mp3",
+      "durationMs": 408340,
+      "bytes": 4900615,
+      "sha256": "84b3bcdfbb5bd6d5a84b1d994817778562de5876dbb1540d76eecb622c37c827",
+      "sharedAyahs": [
+        "10:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 1280.86,
+          "end": 1689.18
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 83"
+    },
+    "10:84": {
+      "file": "010-يونس-youtube-v1/084.mp3",
+      "durationMs": 714600,
+      "bytes": 8575783,
+      "sha256": "fd6ab92372df58c19b1140b87b5342d3113d102242405d6d80ad3891f363515f",
+      "sharedAyahs": [
+        "10:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 23.07,
+          "end": 737.65
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 84"
+    },
+    "10:85": {
+      "file": "010-يونس-youtube-v1/085.mp3",
+      "durationMs": 512660,
+      "bytes": 6152551,
+      "sha256": "41676c0ece796fd0429e52d55bf05e5c294b98b888da825b78fe7d245403bb52",
+      "sharedAyahs": [
+        "10:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 737.65,
+          "end": 1250.3
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 85"
+    },
+    "10:86": {
+      "file": "010-يونس-youtube-v1/086.mp3",
+      "durationMs": 79970,
+      "bytes": 960199,
+      "sha256": "fc5fd9b082eb6c88a045e259d3103696b46586ca5948cd1967061fa64aa2ff91",
+      "sharedAyahs": [
+        "10:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 1250.3,
+          "end": 1330.23
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 86"
+    },
+    "10:87": {
+      "file": "010-يونس-youtube-v1/087.mp3",
+      "durationMs": 351190,
+      "bytes": 4214887,
+      "sha256": "a2b51fa89706720bf500980c66e3eb473b4636b77577d7d50dacb94673896e10",
+      "sharedAyahs": [
+        "10:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 1330.23,
+          "end": 1681.4
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 87"
+    },
+    "10:88": {
+      "file": "010-يونس-youtube-v1/088.mp3",
+      "durationMs": 1571810,
+      "bytes": 18862279,
+      "sha256": "cfab2cb81b7865f17e32d8e49e30baee6aa7e0a1d8a88abc342477d6f796a68c",
+      "sharedAyahs": [
+        "10:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 25.29,
+          "end": 1597.06
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 88"
+    },
+    "10:89": {
+      "file": "010-يونس-youtube-v1/089.mp3",
+      "durationMs": 45700,
+      "bytes": 548935,
+      "sha256": "0774e4b4d7d8dacf763fc1fef1c42f3080410f46bb4c06acabac4f770dbf00cc",
+      "sharedAyahs": [
+        "10:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 1597.06,
+          "end": 1642.75
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 89"
+    },
+    "10:90": {
+      "file": "010-يونس-youtube-v1/090.mp3",
+      "durationMs": 1169330,
+      "bytes": 14032519,
+      "sha256": "38968d4e6c4a1f0b71d3b11648d919cb619cceaa5d5e426b86e1f72dac90649a",
+      "sharedAyahs": [
+        "10:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 23.22,
+          "end": 1192.52
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 90"
+    },
+    "10:91": {
+      "file": "010-يونس-youtube-v1/091.mp3",
+      "durationMs": 64250,
+      "bytes": 771559,
+      "sha256": "1598d34b8d86628560bdf656e6056867cc89e29e5b2d7593d0e23e746853c3b4",
+      "sharedAyahs": [
+        "10:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 1192.52,
+          "end": 1256.74
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 91"
+    },
+    "10:92": {
+      "file": "010-يونس-youtube-v1/092.mp3",
+      "durationMs": 432430,
+      "bytes": 5189767,
+      "sha256": "303c3c18ea0c8f49cfefff5aa3bd59df71c949c9beae16ef21736ad41b0e8cfa",
+      "sharedAyahs": [
+        "10:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 1256.74,
+          "end": 1689.16
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 92"
+    },
+    "10:93": {
+      "file": "010-يونس-youtube-v1/093.mp3",
+      "durationMs": 1200220,
+      "bytes": 14403175,
+      "sha256": "5af837f2ec9e919422000d27e28568c4ff1bbb8310347c5651baf753de97e5c1",
+      "sharedAyahs": [
+        "10:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 18.09,
+          "end": 1218.28
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 93"
+    },
+    "10:94": {
+      "file": "010-يونس-youtube-v1/094.mp3",
+      "durationMs": 333460,
+      "bytes": 4002055,
+      "sha256": "7b5138717ad2d463de57ffa4d132768435176f6a500a75f6ff66bfc574099176",
+      "sharedAyahs": [
+        "10:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 1218.28,
+          "end": 1551.71
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 94"
+    },
+    "10:95": {
+      "file": "010-يونس-youtube-v1/095.mp3",
+      "durationMs": 114550,
+      "bytes": 1375207,
+      "sha256": "de7678f0564967b760de1c9893a64ad7ae96993afae76cc93626a1c43fd57cf8",
+      "sharedAyahs": [
+        "10:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 1551.71,
+          "end": 1666.23
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 95"
+    },
+    "10:96": {
+      "file": "010-يونس-youtube-v1/096.mp3",
+      "durationMs": 745270,
+      "bytes": 8943847,
+      "sha256": "7d839d86bdbba7002d49399e20415273948296cc7b263f3d947c94efd29f1ab8",
+      "sharedAyahs": [
+        "10:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 0.0,
+          "end": 745.23
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 96"
+    },
+    "10:97": {
+      "file": "010-يونس-youtube-v1/097.mp3",
+      "durationMs": 991660,
+      "bytes": 11900455,
+      "sha256": "542ab613ddd5521003f37e6b28bb64775c83361dff3df8e68ba24dd480b8da20",
+      "sharedAyahs": [
+        "10:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 745.23,
+          "end": 1736.88
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 97"
+    },
+    "10:98": {
+      "file": "010-يونس-youtube-v1/098.mp3",
+      "durationMs": 817270,
+      "bytes": 9807847,
+      "sha256": "e3a31442a14d3bf4226ceae9d2a84bf9cc13f70241597655a8a9f8f8fa84a0f6",
+      "sharedAyahs": [
+        "10:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 17.29,
+          "end": 834.53
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 98"
+    },
+    "10:99": {
+      "file": "010-يونس-youtube-v1/099.mp3",
+      "durationMs": 145100,
+      "bytes": 1741831,
+      "sha256": "1ac6f1d5d06894dca2484764a7d1b78c3a2ea2cde5ae4ff976d67b931c0ebf84",
+      "sharedAyahs": [
+        "10:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 834.53,
+          "end": 979.63
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 99"
+    },
+    "10:100": {
+      "file": "010-يونس-youtube-v1/100.mp3",
+      "durationMs": 671620,
+      "bytes": 8059977,
+      "sha256": "62571df149c558ded5ae661a61be6d4303d4671cc678df76c9b8a1028de19e3e",
+      "sharedAyahs": [
+        "10:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 979.63,
+          "end": 1651.248
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 100"
+    },
+    "10:101": {
+      "file": "010-يونس-youtube-v1/101.mp3",
+      "durationMs": 1187020,
+      "bytes": 14244777,
+      "sha256": "521ccddc3b91f9e7d50b1323f7c59d8103d35930372330ef3d75f208f566747e",
+      "sharedAyahs": [
+        "10:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 0.0,
+          "end": 1186.99
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 101"
+    },
+    "10:102": {
+      "file": "010-يونس-youtube-v1/102.mp3",
+      "durationMs": 411480,
+      "bytes": 4938345,
+      "sha256": "0392886fa4d39cc8f132a01099b165944066f279718bb7a6fefd593c12f6668c",
+      "sharedAyahs": [
+        "10:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 1186.99,
+          "end": 1598.43
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 102"
+    },
+    "10:103": {
+      "file": "010-يونس-youtube-v1/103.mp3",
+      "durationMs": 130460,
+      "bytes": 1566153,
+      "sha256": "22031b6077862f29df04d3b9b87d2076593146d280507eb5c20df5c8ee632f9a",
+      "sharedAyahs": [
+        "10:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 1598.43,
+          "end": 1728.88
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 103"
+    },
+    "10:104": {
+      "file": "010-يونس-youtube-v1/104.mp3",
+      "durationMs": 38930,
+      "bytes": 467721,
+      "sha256": "85367bb382b95f43bd9d61a6fca41383259a6f6b4e4303bc468bd65fd0650f68",
+      "sharedAyahs": [
+        "10:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 1728.88,
+          "end": 1767.78
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 104"
+    },
+    "10:105": {
+      "file": "010-يونس-youtube-v1/105.mp3",
+      "durationMs": 586270,
+      "bytes": 7035849,
+      "sha256": "e496a24000354eec9be4fbcc0623017a75676e10b1cd8283dbf47c2ae0dcf7ce",
+      "sharedAyahs": [
+        "10:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 25.38,
+          "end": 611.63
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 105"
+    },
+    "10:106": {
+      "file": "010-يونس-youtube-v1/106.mp3",
+      "durationMs": 971760,
+      "bytes": 11661711,
+      "sha256": "0186ed9b5d3fe9e978642a9f9d9150f7ecf6e5aaa2d9f30ac37187eed4915d1e",
+      "sharedAyahs": [
+        "10:106",
+        "10:107",
+        "10:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 611.63,
+          "end": 1583.37
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 106,107,108"
+    },
+    "10:107": {
+      "file": "010-يونس-youtube-v1/106.mp3",
+      "durationMs": 971760,
+      "bytes": 11661711,
+      "sha256": "0186ed9b5d3fe9e978642a9f9d9150f7ecf6e5aaa2d9f30ac37187eed4915d1e",
+      "sharedAyahs": [
+        "10:106",
+        "10:107",
+        "10:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 611.63,
+          "end": 1583.37
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 106,107,108"
+    },
+    "10:108": {
+      "file": "010-يونس-youtube-v1/106.mp3",
+      "durationMs": 971760,
+      "bytes": 11661711,
+      "sha256": "0186ed9b5d3fe9e978642a9f9d9150f7ecf6e5aaa2d9f30ac37187eed4915d1e",
+      "sharedAyahs": [
+        "10:106",
+        "10:107",
+        "10:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 611.63,
+          "end": 1583.37
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 106,107,108"
+    },
+    "10:109": {
+      "file": "010-يونس-youtube-v1/109.mp3",
+      "durationMs": 117410,
+      "bytes": 1409481,
+      "sha256": "1d5e06848c352f6f94245defd88a4d405228b235054adce29165648fa5d4b683",
+      "sharedAyahs": [
+        "10:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 1583.37,
+          "end": 1700.76
+        }
+      ],
+      "reviewNote": "تفسير سورة يونس الآيات 109"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "010-يونس-youtube-v1/other-101.mp3",
+      "kind": "other",
+      "durationMs": 2696160,
+      "bytes": 32354494,
+      "sha256": "ed47dea2bd6da8b22924aa0ae844030482bbf260dcc583f7fbcee9a5de028893",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 54.62,
+          "end": 2750.75
+        }
+      ],
+      "reviewNote": "مقطع موضوعي عام مستقل: آيات الخلق وتدبير الأمر في الكون"
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-102.mp3",
+      "kind": "introduction",
+      "durationMs": 19660,
+      "bytes": 236453,
+      "sha256": "26373a3abb0575a7837239de6a851d2f8b7dd976e02dac666df33cc5bbbe3b4d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 0.0,
+          "end": 19.63
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 1."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-103.mp3",
+      "kind": "introduction",
+      "durationMs": 18480,
+      "bytes": 222341,
+      "sha256": "58887804fcebcd72c98254f461906ceb9a6b240ce4e6cfa22ee8ae8a1c3239f6",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 0.0,
+          "end": 18.45
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 2."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-104.mp3",
+      "kind": "introduction",
+      "durationMs": 54650,
+      "bytes": 656357,
+      "sha256": "1b0dcdb434933aa5cb7e39c17f3cb4421a53f5423ee7179c2c42a2e2cd8c94d8",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 0.0,
+          "end": 54.62
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 3."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-105.mp3",
+      "kind": "introduction",
+      "durationMs": 21860,
+      "bytes": 262949,
+      "sha256": "5228e6d4073f8f0266d1f1db8f01a6d2243a58981acf2d22ed6583c150cc0224",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 0.0,
+          "end": 21.82
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 4."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-106.mp3",
+      "kind": "introduction",
+      "durationMs": 50740,
+      "bytes": 609413,
+      "sha256": "9a4c48bbb8a153b0cd6b984fb00cd447ed294ddb0ea62d62b7fa4fe11c99c137",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 0.0,
+          "end": 50.7
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 5."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-107.mp3",
+      "kind": "introduction",
+      "durationMs": 21120,
+      "bytes": 254021,
+      "sha256": "2f80ee191c0d2e26d8430a3764e9a225c356b2420a8a7eefe6af3a55b204e611",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 0.0,
+          "end": 21.09
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 6."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-108.mp3",
+      "kind": "introduction",
+      "durationMs": 58870,
+      "bytes": 707045,
+      "sha256": "343c504d65d157ccc6af529fac7d29aa86bcd27d0d3fb735147ede15ab251dc9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 0.0,
+          "end": 58.83
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 7."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-109.mp3",
+      "kind": "introduction",
+      "durationMs": 23300,
+      "bytes": 280229,
+      "sha256": "303a0f3fbbc45f338a308846d515a50b0acf9d06c2c41efe5295cd43ebb0a0ea",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 0.0,
+          "end": 23.28
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 8."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-110.mp3",
+      "kind": "introduction",
+      "durationMs": 30460,
+      "bytes": 366053,
+      "sha256": "4f12e43449e9e558a760755f6799d53963bb127b736a5d68c925a75c8b03835d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 0.0,
+          "end": 30.42
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 9."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-111.mp3",
+      "kind": "introduction",
+      "durationMs": 24820,
+      "bytes": 298373,
+      "sha256": "12143aff025cc4521256f51158404c9a3c60ecfa7da96dae3bd26134c0e7dea7",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 0.0,
+          "end": 24.79
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 10."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-112.mp3",
+      "kind": "introduction",
+      "durationMs": 36820,
+      "bytes": 442373,
+      "sha256": "6e4bd81454306aa38e3a1008cbedaf3327c085bacd66a8e3b8bfd259a81ceda0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 0.0,
+          "end": 36.77
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 11."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-113.mp3",
+      "kind": "introduction",
+      "durationMs": 24410,
+      "bytes": 293477,
+      "sha256": "27a8097d8023bfe2457980a9f294df902eb20e830fd0e4feaee6729f16a12b2f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 0.0,
+          "end": 24.38
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 12."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-114.mp3",
+      "kind": "introduction",
+      "durationMs": 19200,
+      "bytes": 230981,
+      "sha256": "bc7611b8d11d9e76d81a72f7309c3f9a2660b3d44e17a5ebd60d2237e1e71ab3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 0.0,
+          "end": 19.16
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 13."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-115.mp3",
+      "kind": "introduction",
+      "durationMs": 20350,
+      "bytes": 244805,
+      "sha256": "d318f7dd69522a606b4017b2577454e263cce485ca070a171d26ee14ee534946",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 0.0,
+          "end": 20.31
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 14."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-116.mp3",
+      "kind": "introduction",
+      "durationMs": 23660,
+      "bytes": 284549,
+      "sha256": "ea7154237a52ddf75c78e224e7b90035384f7182281c2e41399e8ce351691bb1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 0.0,
+          "end": 23.63
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 15."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-117.mp3",
+      "kind": "introduction",
+      "durationMs": 22850,
+      "bytes": 274757,
+      "sha256": "b8ca29f377ac6db540f80f5343aa38864918607bd340751e6583f786f293ba28",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 0.0,
+          "end": 22.81
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 16."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-118.mp3",
+      "kind": "introduction",
+      "durationMs": 24410,
+      "bytes": 293477,
+      "sha256": "88745a7c45cef684b6f30be76a737891ada7caa40572eb9669b13a5cca2907c9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 0.0,
+          "end": 24.37
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 17."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-119.mp3",
+      "kind": "introduction",
+      "durationMs": 20090,
+      "bytes": 241637,
+      "sha256": "afa72efcc978ec5803197835003ba398edbcfaa7c612b6a285c8f539d1770b61",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 0.0,
+          "end": 20.05
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 18."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-120.mp3",
+      "kind": "introduction",
+      "durationMs": 30140,
+      "bytes": 362309,
+      "sha256": "325534f64df6f1d84f2690047fc470814a29be07a6004944ad68bc5d6d146939",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 0.0,
+          "end": 30.12
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 19."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-121.mp3",
+      "kind": "introduction",
+      "durationMs": 18550,
+      "bytes": 223205,
+      "sha256": "b4c7bad7de57fcaf6246750dcbb7f3b1d7afbddb6fcee03fb0664689d123e1f8",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 0.0,
+          "end": 18.51
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 20."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-122.mp3",
+      "kind": "introduction",
+      "durationMs": 39340,
+      "bytes": 472613,
+      "sha256": "14ba1cc067833222aabde3d968582730c8bc74c34dabf43763a24809a37b260c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 0.0,
+          "end": 39.3
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 21."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-123.mp3",
+      "kind": "introduction",
+      "durationMs": 20880,
+      "bytes": 251141,
+      "sha256": "7ca37740f439c1ab48a7d83abe8bca2c38f4eaedfa1ee13f16227c2d510d6263",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 0.0,
+          "end": 20.84
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 22."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-124.mp3",
+      "kind": "introduction",
+      "durationMs": 46750,
+      "bytes": 561605,
+      "sha256": "748f033b4c19368212264a1311e7f520b2cb8e2cc16477bacf00a34390fbb4af",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 0.0,
+          "end": 46.72
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 23."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-125.mp3",
+      "kind": "introduction",
+      "durationMs": 19940,
+      "bytes": 239909,
+      "sha256": "d59d4d54362098469dcc05155d47aace231703ca5eaa81d7301318ba65db1540",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 0.0,
+          "end": 19.92
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 26."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-126.mp3",
+      "kind": "introduction",
+      "durationMs": 29880,
+      "bytes": 359141,
+      "sha256": "5ecbb8fc7a19da1fe48b0ae0ea0c07950ae2490541f54ac647d8ff3a611e75f5",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 0.0,
+          "end": 29.85
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 27."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-127.mp3",
+      "kind": "introduction",
+      "durationMs": 18340,
+      "bytes": 220613,
+      "sha256": "b9a5b933be3300b296fccf192951dfdda7ac86094090346000555047d2b26734",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 0.0,
+          "end": 18.29
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 28."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-128.mp3",
+      "kind": "introduction",
+      "durationMs": 21580,
+      "bytes": 259493,
+      "sha256": "4ad743ac865adef7d2b8cc8af049478fc2d5d75c744db0acd4157cc9fe294db3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 0.0,
+          "end": 21.55
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 29."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-129.mp3",
+      "kind": "introduction",
+      "durationMs": 23110,
+      "bytes": 277925,
+      "sha256": "c5981a3df9ae9421635718383efb2f06a0dddc7a94ad710a6e48f3b10fadf891",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 0.0,
+          "end": 23.07
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 31."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-130.mp3",
+      "kind": "introduction",
+      "durationMs": 25320,
+      "bytes": 304421,
+      "sha256": "e02c3382f50876f478adfb4e469846180d116bc74927d94fef61c3a944b1b7bc",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 0.0,
+          "end": 25.29
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 32."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-131.mp3",
+      "kind": "introduction",
+      "durationMs": 23260,
+      "bytes": 279653,
+      "sha256": "82271baf033e456ce412169399aef4119a9077f47c40245037a20e48d48c6925",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 0.0,
+          "end": 23.22
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 33."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-132.mp3",
+      "kind": "introduction",
+      "durationMs": 18120,
+      "bytes": 218021,
+      "sha256": "117a78c1d35ad109401ff77aee2081679d69f5248a9e54ba745592223e364bd6",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 0.0,
+          "end": 18.09
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 34."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-133.mp3",
+      "kind": "introduction",
+      "durationMs": 17330,
+      "bytes": 208517,
+      "sha256": "d28c9f85592381179ca7a6375391053a82e783e878fa55dce23d0a16e5e94e04",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 0.0,
+          "end": 17.29
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 36."
+    },
+    {
+      "file": "010-يونس-youtube-v1/introduction-134.mp3",
+      "kind": "introduction",
+      "durationMs": 25420,
+      "bytes": 305573,
+      "sha256": "31ed247b4340f85ef9f39eba34162c29060b8af2087987a0cfe548a1fa464374",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 0.0,
+          "end": 25.38
+        }
+      ],
+      "reviewNote": "افتتاح الدرس والدعاء للقاء 38."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-135.mp3",
+      "kind": "closing",
+      "durationMs": 2930,
+      "bytes": 35712,
+      "sha256": "a0f15b11672dfbb1c08e95dc904fdcdaaa380608d229d47104bc7359a5115a26",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 2697.92,
+          "end": 2700.864
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 1."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-136.mp3",
+      "kind": "closing",
+      "durationMs": 2140,
+      "bytes": 26208,
+      "sha256": "82bf8e28da6214cd84cbbd8a96ebfc132681d6cee826f4e9aef48dcb151e1fce",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2696.92,
+          "end": 2699.064
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 2."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-137.mp3",
+      "kind": "closing",
+      "durationMs": 3550,
+      "bytes": 43200,
+      "sha256": "a357048e006d25ef700ec23462afc8b1f878ddb0230472c4af136d0b9f9b9e89",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 2750.75,
+          "end": 2754.312
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 3."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-138.mp3",
+      "kind": "closing",
+      "durationMs": 34320,
+      "bytes": 412416,
+      "sha256": "07e2c89ff67ff59cbfc8e97362b5e450f44d9f13a42dff3ea25a7944e950e228",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 2700.14,
+          "end": 2734.464
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 4."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-139.mp3",
+      "kind": "closing",
+      "durationMs": 2810,
+      "bytes": 34272,
+      "sha256": "a41a26ff05a36f3bb5f1cbca57f24a81e912e268a2ac5898af890915b8e232ab",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 2723.15,
+          "end": 2725.968
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 5."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-140.mp3",
+      "kind": "closing",
+      "durationMs": 9740,
+      "bytes": 117504,
+      "sha256": "4966b8e82606e07856dea21faf38cdb3512ec624f4bc9c4a605605599495b678",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 2698.29,
+          "end": 2708.04
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 6."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-141.mp3",
+      "kind": "closing",
+      "durationMs": 2420,
+      "bytes": 29664,
+      "sha256": "fa88ff94c22ae557fc1290e6db86dddfb9d2944df087188ab12a90201120d5ae",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 2725.98,
+          "end": 2728.416
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 7."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-142.mp3",
+      "kind": "closing",
+      "durationMs": 86380,
+      "bytes": 1037088,
+      "sha256": "184f5621858d0f0b3e1150c5935681c037e2662c2da4e6737cd2b023fd3a090c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2659.26,
+          "end": 2745.648
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 8."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-143.mp3",
+      "kind": "closing",
+      "durationMs": 50830,
+      "bytes": 610560,
+      "sha256": "3e3aea3d09f55b8e84c8e832b992bc1e67fb63f395a3f885a15dbcf4e50b6b7e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2772.88,
+          "end": 2823.72
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 10."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-144.mp3",
+      "kind": "closing",
+      "durationMs": 12480,
+      "bytes": 150336,
+      "sha256": "5464239e9e89307d27cc5eaf7f3baca384022ab989b266e6a92719f27343bdeb",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 2731.09,
+          "end": 2743.584
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 13."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-145.mp3",
+      "kind": "closing",
+      "durationMs": 20880,
+      "bytes": 251136,
+      "sha256": "bf0abc038e73f2c8bd2b9621040e6dfeba444e56988d2607b07363f9ce44444e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 2734.15,
+          "end": 2755.032
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 14."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-146.mp3",
+      "kind": "closing",
+      "durationMs": 5880,
+      "bytes": 71136,
+      "sha256": "e7d2528f044c36b17faee491807bab2290ae77253df3205efb4ec14c15c9a026",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 2656.76,
+          "end": 2662.656
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 15."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-147.mp3",
+      "kind": "closing",
+      "durationMs": 16010,
+      "bytes": 192672,
+      "sha256": "e8530fa95cd86338a6f2b228cf9255836e60e5af531fcb34c008c803ea61b1ac",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 2700.93,
+          "end": 2716.944
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 16."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-148.mp3",
+      "kind": "closing",
+      "durationMs": 13200,
+      "bytes": 158976,
+      "sha256": "df5a3b49a84c5bd6afc22f76432c1a93fc018200d6c6279f8e483b156c1037c9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 2727.67,
+          "end": 2740.872
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 17."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-149.mp3",
+      "kind": "closing",
+      "durationMs": 24410,
+      "bytes": 293472,
+      "sha256": "42f3caaf4dc86a146b619dfd1e4f42a6f96b22681820281ff20af4ea4a70b1bd",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 2789.52,
+          "end": 2813.928
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 18."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-150.mp3",
+      "kind": "closing",
+      "durationMs": 8950,
+      "bytes": 108000,
+      "sha256": "6604430285daf80004c1e20ed7558e917362215dc7b5d8820401bd5517438516",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 2676.43,
+          "end": 2685.384
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 20."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-151.mp3",
+      "kind": "closing",
+      "durationMs": 3860,
+      "bytes": 46944,
+      "sha256": "1232dc04faea50c60c9da50871f8bb8186fa3b01f7f398d00914cecd4b757c9b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 2598.28,
+          "end": 2602.152
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 21."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-152.mp3",
+      "kind": "closing",
+      "durationMs": 101020,
+      "bytes": 1212768,
+      "sha256": "c8c8c8c55f5b0cbd3d01a31b8008d6c8fcae4920384ecb8bfbfb53bc9c74b709",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 2709.58,
+          "end": 2810.616
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 22."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-153.mp3",
+      "kind": "closing",
+      "durationMs": 2210,
+      "bytes": 27072,
+      "sha256": "99e7223dafc970df11d22e30e89c7982717fe0209dc7573b154721ccc189eb32",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 1682.14,
+          "end": 1684.368
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 23."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-154.mp3",
+      "kind": "closing",
+      "durationMs": 3170,
+      "bytes": 38592,
+      "sha256": "19a46e74e48fdfe2654391e58ef41948578b387190c2caf028383b1503f3a094",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 1715.49,
+          "end": 1718.664
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 24."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-155.mp3",
+      "kind": "closing",
+      "durationMs": 101020,
+      "bytes": 1212768,
+      "sha256": "235f9e4d21c759cf12e88b0f24ba852fe03934bfd4bf6ae801c6ca18829cb136",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 2078.01,
+          "end": 2179.032
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 25."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-156.mp3",
+      "kind": "closing",
+      "durationMs": 3430,
+      "bytes": 41760,
+      "sha256": "f33ced8c21acc9173d22354c79a9209fe2d456c250eee4ea0ac172a0989e0899",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 1641.09,
+          "end": 1644.528
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 26."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-157.mp3",
+      "kind": "closing",
+      "durationMs": 4200,
+      "bytes": 50976,
+      "sha256": "6f2021e7d08152e20f26c4feeeff681f7a79a4fb1f0127add16083ad9c7c0e77",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 1655.85,
+          "end": 1660.056
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 27."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-158.mp3",
+      "kind": "closing",
+      "durationMs": 4580,
+      "bytes": 55584,
+      "sha256": "5240ff7f3a0553b1182760d190df803ad8ab939a48ce5956583f62b49f42b74b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 1645.23,
+          "end": 1649.832
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 29."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-159.mp3",
+      "kind": "closing",
+      "durationMs": 3960,
+      "bytes": 48096,
+      "sha256": "4daf86b1b93c2b31ecc51a5de8c74e5caa213a758c2df70be51b5d95e30c1cf9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 1689.18,
+          "end": 1693.152
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 30."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-160.mp3",
+      "kind": "closing",
+      "durationMs": 39170,
+      "bytes": 470592,
+      "sha256": "aad7ca87e0fe2e5eeb111263d162682c8e4327e65ef9e7d9f819a234977f5da9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 1681.4,
+          "end": 1720.584
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 31."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-161.mp3",
+      "kind": "closing",
+      "durationMs": 4200,
+      "bytes": 50976,
+      "sha256": "6443286941eb4824ea11eca75baf59b57e65ee7dc09a6b63761ff2b7dbbc61d6",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 1642.75,
+          "end": 1646.952
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 32."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-162.mp3",
+      "kind": "closing",
+      "durationMs": 2540,
+      "bytes": 31104,
+      "sha256": "c09f92c1b0acf82225fadc7fb6900ab9ae3cf3674a605f56cbeefd0214d743d1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 1689.16,
+          "end": 1691.712
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 33."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-163.mp3",
+      "kind": "closing",
+      "durationMs": 69260,
+      "bytes": 831744,
+      "sha256": "0450bd3faa77df7837d4f665d8755319d12dc3787cccf4499d4ce6d0f62ba939",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 1666.23,
+          "end": 1735.512
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 34."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-164.mp3",
+      "kind": "closing",
+      "durationMs": 5690,
+      "bytes": 68832,
+      "sha256": "59c99e0897c2479e4742eb192dff1ea21d56e77c47bca6890bcb384f3cb15c1b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 1736.88,
+          "end": 1742.568
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 35."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-165.mp3",
+      "kind": "closing",
+      "durationMs": 18580,
+      "bytes": 223488,
+      "sha256": "e4d51c5f91a94acb381c48345de4a79da0877bdaca7cd104a3798cfceda45ced",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 1767.78,
+          "end": 1786.368
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 37."
+    },
+    {
+      "file": "010-يونس-youtube-v1/closing-166.mp3",
+      "kind": "closing",
+      "durationMs": 18770,
+      "bytes": 225792,
+      "sha256": "14c2c6cb3290d2fb80aeddff0d532373f77ed173093d5d1f3abb7bca7315609b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 1700.76,
+          "end": 1719.528
+        }
+      ],
+      "reviewNote": "خاتمة ودعاء اللقاء 38."
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0AC40016005AE898",
+  "audioProcessing": "Supplied MP3 90 kbps mono 48 kHz retained without re-encoding. Every export uses stream copy without re-encoding.",
+  "topics": [
+    {
+      "id": "yunus-creation-cosmic-order",
+      "title": "آيات الخلق وتدبير الأمر في الكون",
+      "file": "010-يونس-youtube-v1/other-101.mp3",
+      "startMs": 0,
+      "endMs": 2696160
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "yt-001",
+      "yt-002",
+      "yt-003",
+      "yt-004",
+      "yt-005",
+      "yt-006",
+      "yt-007",
+      "yt-008",
+      "yt-009",
+      "yt-010",
+      "yt-011",
+      "yt-012",
+      "yt-013",
+      "yt-014",
+      "yt-015",
+      "yt-016",
+      "yt-017",
+      "yt-018",
+      "yt-019",
+      "yt-020",
+      "yt-021",
+      "yt-022",
+      "yt-023",
+      "yt-024",
+      "yt-025",
+      "yt-026",
+      "yt-027",
+      "yt-028",
+      "yt-029",
+      "yt-030",
+      "yt-031",
+      "yt-032",
+      "yt-033",
+      "yt-034",
+      "yt-035",
+      "yt-036",
+      "yt-037",
+      "yt-038"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "010-يونس-youtube-v1/introduction-102.mp3",
+        "startMs": 0,
+        "endMs": 19660,
+        "durationMs": 19660,
+        "recordingDurationMs": 19660,
+        "bytes": 236453,
+        "sha256": "26373a3abb0575a7837239de6a851d2f8b7dd976e02dac666df33cc5bbbe3b4d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 0.0,
+            "end": 19.63
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 224570,
+        "durationMs": 224570,
+        "recordingDurationMs": 224570,
+        "bytes": 2695397,
+        "sha256": "3d41988d7bebeea0ace36e94cf22470b2f72970e449c496398a2eecaa483199c",
+        "sharedAyahs": [
+          "10:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 19.63,
+            "end": 244.16
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 2453780,
+        "durationMs": 2453780,
+        "recordingDurationMs": 2453780,
+        "bytes": 29445989,
+        "sha256": "baef672862eb192b4871651743d4566049d31695a219c660b6a6c5142e85671f",
+        "sharedAyahs": [
+          "10:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 244.16,
+            "end": 2697.92
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-135.mp3",
+        "startMs": 0,
+        "endMs": 2930,
+        "durationMs": 2930,
+        "recordingDurationMs": 2930,
+        "bytes": 35712,
+        "sha256": "a0f15b11672dfbb1c08e95dc904fdcdaaa380608d229d47104bc7359a5115a26",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-001",
+            "start": 2697.92,
+            "end": 2700.864
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-103.mp3",
+        "startMs": 0,
+        "endMs": 18480,
+        "durationMs": 18480,
+        "recordingDurationMs": 18480,
+        "bytes": 222341,
+        "sha256": "58887804fcebcd72c98254f461906ceb9a6b240ce4e6cfa22ee8ae8a1c3239f6",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 0.0,
+            "end": 18.45
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 2678500,
+        "durationMs": 2678500,
+        "recordingDurationMs": 2678500,
+        "bytes": 32142533,
+        "sha256": "0a8eeb2ec998bd75e0af40cbc8bd8f28b641569b1372638422abbaecdf01e4c9",
+        "sharedAyahs": [
+          "10:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 18.45,
+            "end": 2696.92
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-136.mp3",
+        "startMs": 0,
+        "endMs": 2140,
+        "durationMs": 2140,
+        "recordingDurationMs": 2140,
+        "bytes": 26208,
+        "sha256": "82bf8e28da6214cd84cbbd8a96ebfc132681d6cee826f4e9aef48dcb151e1fce",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-002",
+            "start": 2696.92,
+            "end": 2699.064
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-104.mp3",
+        "startMs": 0,
+        "endMs": 54650,
+        "durationMs": 54650,
+        "recordingDurationMs": 54650,
+        "bytes": 656357,
+        "sha256": "1b0dcdb434933aa5cb7e39c17f3cb4421a53f5423ee7179c2c42a2e2cd8c94d8",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 0.0,
+            "end": 54.62
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/other-101.mp3",
+        "startMs": 0,
+        "endMs": 2696160,
+        "durationMs": 2696160,
+        "recordingDurationMs": 2696160,
+        "bytes": 32354494,
+        "sha256": "ed47dea2bd6da8b22924aa0ae844030482bbf260dcc583f7fbcee9a5de028893",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 54.62,
+            "end": 2750.75
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-137.mp3",
+        "startMs": 0,
+        "endMs": 3550,
+        "durationMs": 3550,
+        "recordingDurationMs": 3550,
+        "bytes": 43200,
+        "sha256": "a357048e006d25ef700ec23462afc8b1f878ddb0230472c4af136d0b9f9b9e89",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-003",
+            "start": 2750.75,
+            "end": 2754.312
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-105.mp3",
+        "startMs": 0,
+        "endMs": 21860,
+        "durationMs": 21860,
+        "recordingDurationMs": 21860,
+        "bytes": 262949,
+        "sha256": "5228e6d4073f8f0266d1f1db8f01a6d2243a58981acf2d22ed6583c150cc0224",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 0.0,
+            "end": 21.82
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 2678330,
+        "durationMs": 2678330,
+        "recordingDurationMs": 2678330,
+        "bytes": 32140517,
+        "sha256": "5ba6feebd8a9f66a26c95e7784b9cc5e916db6bfa6f8d23426eb8e93db158449",
+        "sharedAyahs": [
+          "10:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 21.82,
+            "end": 2700.14
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-138.mp3",
+        "startMs": 0,
+        "endMs": 34320,
+        "durationMs": 34320,
+        "recordingDurationMs": 34320,
+        "bytes": 412416,
+        "sha256": "07e2c89ff67ff59cbfc8e97362b5e450f44d9f13a42dff3ea25a7944e950e228",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-004",
+            "start": 2700.14,
+            "end": 2734.464
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-106.mp3",
+        "startMs": 0,
+        "endMs": 50740,
+        "durationMs": 50740,
+        "recordingDurationMs": 50740,
+        "bytes": 609413,
+        "sha256": "9a4c48bbb8a153b0cd6b984fb00cd447ed294ddb0ea62d62b7fa4fe11c99c137",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 0.0,
+            "end": 50.7
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 2605270,
+        "durationMs": 2605270,
+        "recordingDurationMs": 2605270,
+        "bytes": 31263845,
+        "sha256": "e2eebc723e42c4728b1398bda35a5869c0d46da970916f86ba4ab10cee8e473d",
+        "sharedAyahs": [
+          "10:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 50.7,
+            "end": 2655.95
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 67220,
+        "durationMs": 67220,
+        "recordingDurationMs": 67220,
+        "bytes": 807269,
+        "sha256": "ae604b54396423127589d407f6446422400cfdbf7cd7b3125c789aa35898d52a",
+        "sharedAyahs": [
+          "10:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 2655.95,
+            "end": 2723.15
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-139.mp3",
+        "startMs": 0,
+        "endMs": 2810,
+        "durationMs": 2810,
+        "recordingDurationMs": 2810,
+        "bytes": 34272,
+        "sha256": "a41a26ff05a36f3bb5f1cbca57f24a81e912e268a2ac5898af890915b8e232ab",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-005",
+            "start": 2723.15,
+            "end": 2725.968
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-107.mp3",
+        "startMs": 0,
+        "endMs": 21120,
+        "durationMs": 21120,
+        "recordingDurationMs": 21120,
+        "bytes": 254021,
+        "sha256": "2f80ee191c0d2e26d8430a3764e9a225c356b2420a8a7eefe6af3a55b204e611",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 0.0,
+            "end": 21.09
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 1321610,
+        "durationMs": 1321610,
+        "recordingDurationMs": 1321610,
+        "bytes": 15859881,
+        "sha256": "3b2132899a214b09ce62e647089336cca55e47fee74a54b8ea45c04c1fc8f69d",
+        "sharedAyahs": [
+          "10:7",
+          "10:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 21.09,
+            "end": 1342.67
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 141980,
+        "durationMs": 141980,
+        "recordingDurationMs": 141980,
+        "bytes": 1704389,
+        "sha256": "3c0322cb9d34f36c5c3e3169d924c8962aa1517ec33900f7bc74b3ac4f441385",
+        "sharedAyahs": [
+          "10:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 1342.67,
+            "end": 1484.63
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 572740,
+        "durationMs": 572740,
+        "recordingDurationMs": 572740,
+        "bytes": 6873415,
+        "sha256": "e7479402240471fccd21639aed359f1875a6f16a912ecf8b2859593215bfd757",
+        "sharedAyahs": [
+          "10:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 1484.63,
+            "end": 2057.35
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 482280,
+        "durationMs": 482280,
+        "recordingDurationMs": 482280,
+        "bytes": 5787943,
+        "sha256": "f1c44532504e6591383f0248bf3f3563bcc3ff974c636ce8473b322716b3271d",
+        "sharedAyahs": [
+          "10:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 2057.35,
+            "end": 2539.6
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 158710,
+        "durationMs": 158710,
+        "recordingDurationMs": 158710,
+        "bytes": 1905127,
+        "sha256": "6b9a4ac5798c5b5ac98717bb482a9eb1538403c16b5b63b5e40a797181bde3bf",
+        "sharedAyahs": [
+          "10:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 2539.6,
+            "end": 2698.29
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-140.mp3",
+        "startMs": 0,
+        "endMs": 9740,
+        "durationMs": 9740,
+        "recordingDurationMs": 9740,
+        "bytes": 117504,
+        "sha256": "4966b8e82606e07856dea21faf38cdb3512ec624f4bc9c4a605605599495b678",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-006",
+            "start": 2698.29,
+            "end": 2708.04
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-108.mp3",
+        "startMs": 0,
+        "endMs": 58870,
+        "durationMs": 58870,
+        "recordingDurationMs": 58870,
+        "bytes": 707045,
+        "sha256": "343c504d65d157ccc6af529fac7d29aa86bcd27d0d3fb735147ede15ab251dc9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 0.0,
+            "end": 58.83
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 2667170,
+        "durationMs": 2667170,
+        "recordingDurationMs": 2667170,
+        "bytes": 32006599,
+        "sha256": "398f8a0d00f8d01ffda36210cf55c002925d443fc55dc040451ae99b5f5782c8",
+        "sharedAyahs": [
+          "10:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 58.83,
+            "end": 2725.98
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-141.mp3",
+        "startMs": 0,
+        "endMs": 2420,
+        "durationMs": 2420,
+        "recordingDurationMs": 2420,
+        "bytes": 29664,
+        "sha256": "fa88ff94c22ae557fc1290e6db86dddfb9d2944df087188ab12a90201120d5ae",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-007",
+            "start": 2725.98,
+            "end": 2728.416
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-109.mp3",
+        "startMs": 0,
+        "endMs": 23300,
+        "durationMs": 23300,
+        "recordingDurationMs": 23300,
+        "bytes": 280229,
+        "sha256": "303a0f3fbbc45f338a308846d515a50b0acf9d06c2c41efe5295cd43ebb0a0ea",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 0.0,
+            "end": 23.28
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 1208180,
+        "durationMs": 1208180,
+        "recordingDurationMs": 1208180,
+        "bytes": 14498791,
+        "sha256": "bec8e773629cd2c7eea41e4e1faad146fea9c7bf3421b4c2727fface579d1fa7",
+        "sharedAyahs": [
+          "10:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 23.28,
+            "end": 1231.43
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 1263940,
+        "durationMs": 1263940,
+        "recordingDurationMs": 1263940,
+        "bytes": 15167815,
+        "sha256": "f1a27a19530050b9a3f47bc8e76ac3b0150b1d59f19f2385ab41cd4259f46259",
+        "sharedAyahs": [
+          "10:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 1231.43,
+            "end": 2495.34
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 163940,
+        "durationMs": 163940,
+        "recordingDurationMs": 163940,
+        "bytes": 1967911,
+        "sha256": "2ebdb7dc51469cf8994a3186c0ccb0f564682160793aa0aa2265f82234d16bd5",
+        "sharedAyahs": [
+          "10:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 2495.34,
+            "end": 2659.26
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-142.mp3",
+        "startMs": 0,
+        "endMs": 86380,
+        "durationMs": 86380,
+        "recordingDurationMs": 86380,
+        "bytes": 1037088,
+        "sha256": "184f5621858d0f0b3e1150c5935681c037e2662c2da4e6737cd2b023fd3a090c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-008",
+            "start": 2659.26,
+            "end": 2745.648
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-110.mp3",
+        "startMs": 0,
+        "endMs": 30460,
+        "durationMs": 30460,
+        "recordingDurationMs": 30460,
+        "bytes": 366053,
+        "sha256": "4f12e43449e9e558a760755f6799d53963bb127b736a5d68c925a75c8b03835d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 0.0,
+            "end": 30.42
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 882840,
+        "durationMs": 882840,
+        "recordingDurationMs": 882840,
+        "bytes": 10594663,
+        "sha256": "2ac5966c7510c025f1e3aaaece48762fe9570d6caad28ea95a45c1b1242c73b9",
+        "sharedAyahs": [
+          "10:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 30.42,
+            "end": 913.24
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 1218650,
+        "durationMs": 1218650,
+        "recordingDurationMs": 1218650,
+        "bytes": 14624359,
+        "sha256": "d270d8e7dcba4eabbeaf3809ac459a58f36debfe7e1a40c495ebdd5289860080",
+        "sharedAyahs": [
+          "10:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 913.24,
+            "end": 2131.85
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 549000,
+        "durationMs": 549000,
+        "recordingDurationMs": 549000,
+        "bytes": 6588583,
+        "sha256": "2af24f9ba4b01b0d336dde3e9b37fb0723f0e0e0b276f02d2eb0f438ca8daf51",
+        "sharedAyahs": [
+          "10:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-009",
+            "start": 2131.85,
+            "end": 2680.872
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-111.mp3",
+        "startMs": 0,
+        "endMs": 24820,
+        "durationMs": 24820,
+        "recordingDurationMs": 24820,
+        "bytes": 298373,
+        "sha256": "12143aff025cc4521256f51158404c9a3c60ecfa7da96dae3bd26134c0e7dea7",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 0.0,
+            "end": 24.79
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 1832450,
+        "durationMs": 1832450,
+        "recordingDurationMs": 1832450,
+        "bytes": 21989959,
+        "sha256": "124e5101d33a5b63696efbce61d87ea775041b91fbfe21a1f1a7eba4cc5f8588",
+        "sharedAyahs": [
+          "10:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 24.79,
+            "end": 1857.2
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 828910,
+        "durationMs": 828910,
+        "recordingDurationMs": 828910,
+        "bytes": 9947527,
+        "sha256": "211a6464d33e0014bc5409ce297d21df4a161ea7788eb3ac6fb7afd1956146c4",
+        "sharedAyahs": [
+          "10:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 1857.2,
+            "end": 2686.09
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 86810,
+        "durationMs": 86810,
+        "recordingDurationMs": 86810,
+        "bytes": 1042279,
+        "sha256": "c5fa659e450e268aa8f58b090226b88cd50e95a127e540c2a6febd1e8a9397af",
+        "sharedAyahs": [
+          "10:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 2686.09,
+            "end": 2772.88
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-143.mp3",
+        "startMs": 0,
+        "endMs": 50830,
+        "durationMs": 50830,
+        "recordingDurationMs": 50830,
+        "bytes": 610560,
+        "sha256": "3e3aea3d09f55b8e84c8e832b992bc1e67fb63f395a3f885a15dbcf4e50b6b7e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-010",
+            "start": 2772.88,
+            "end": 2823.72
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-112.mp3",
+        "startMs": 0,
+        "endMs": 36820,
+        "durationMs": 36820,
+        "recordingDurationMs": 36820,
+        "bytes": 442373,
+        "sha256": "6e4bd81454306aa38e3a1008cbedaf3327c085bacd66a8e3b8bfd259a81ceda0",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 0.0,
+            "end": 36.77
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 2347540,
+        "durationMs": 2347540,
+        "recordingDurationMs": 2347540,
+        "bytes": 28171015,
+        "sha256": "50a76d365ab8890d23ba1632a0d027485431f87b248a0d11aad781168e38c297",
+        "sharedAyahs": [
+          "10:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 36.77,
+            "end": 2384.3
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 318620,
+        "durationMs": 318620,
+        "recordingDurationMs": 318620,
+        "bytes": 3824071,
+        "sha256": "5019441f21e0a8d6edea0209a9e375b89348f55a652e43c77715f2e0aa9e992f",
+        "sharedAyahs": [
+          "10:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-011",
+            "start": 2384.3,
+            "end": 2702.928
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-113.mp3",
+        "startMs": 0,
+        "endMs": 24410,
+        "durationMs": 24410,
+        "recordingDurationMs": 24410,
+        "bytes": 293477,
+        "sha256": "27a8097d8023bfe2457980a9f294df902eb20e830fd0e4feaee6729f16a12b2f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 0.0,
+            "end": 24.38
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 2177780,
+        "durationMs": 2177780,
+        "recordingDurationMs": 2177780,
+        "bytes": 26133991,
+        "sha256": "d49f0059be801aa68cf0131063fddebe365d56a50378e2e6f2b297bde1ed2b30",
+        "sharedAyahs": [
+          "10:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 24.38,
+            "end": 2202.13
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 462500,
+        "durationMs": 462500,
+        "recordingDurationMs": 462500,
+        "bytes": 5550631,
+        "sha256": "a4a8bb5515731a0d5e8dbf78dba91132a8633c172c657e2069cfad9b95d88457",
+        "sharedAyahs": [
+          "10:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 2202.13,
+            "end": 2664.62
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 110060,
+        "durationMs": 110060,
+        "recordingDurationMs": 110060,
+        "bytes": 1321351,
+        "sha256": "bdbc3916366fa2f2c0fbbba5a4605783911cebc5fee0f7fb2032aaadcba0f096",
+        "sharedAyahs": [
+          "10:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-012",
+            "start": 2664.62,
+            "end": 2774.688
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-114.mp3",
+        "startMs": 0,
+        "endMs": 19200,
+        "durationMs": 19200,
+        "recordingDurationMs": 19200,
+        "bytes": 230981,
+        "sha256": "bc7611b8d11d9e76d81a72f7309c3f9a2660b3d44e17a5ebd60d2237e1e71ab3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 0.0,
+            "end": 19.16
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 1210870,
+        "durationMs": 1210870,
+        "recordingDurationMs": 1210870,
+        "bytes": 14531047,
+        "sha256": "fd9e12629bcb0c3ff98725045cae19072dc121b50e7fc5f7200ea5d83a03ab99",
+        "sharedAyahs": [
+          "10:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 19.16,
+            "end": 1230.02
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 1501100,
+        "durationMs": 1501100,
+        "recordingDurationMs": 1501100,
+        "bytes": 18013831,
+        "sha256": "8dbb6692faac55dbc1aa9323a522f73ec6dde9f2a0a99999125c51985fd72f41",
+        "sharedAyahs": [
+          "10:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 1230.02,
+            "end": 2731.09
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-144.mp3",
+        "startMs": 0,
+        "endMs": 12480,
+        "durationMs": 12480,
+        "recordingDurationMs": 12480,
+        "bytes": 150336,
+        "sha256": "5464239e9e89307d27cc5eaf7f3baca384022ab989b266e6a92719f27343bdeb",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-013",
+            "start": 2731.09,
+            "end": 2743.584
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-115.mp3",
+        "startMs": 0,
+        "endMs": 20350,
+        "durationMs": 20350,
+        "recordingDurationMs": 20350,
+        "bytes": 244805,
+        "sha256": "d318f7dd69522a606b4017b2577454e263cce485ca070a171d26ee14ee534946",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 0.0,
+            "end": 20.31
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 1122100,
+        "durationMs": 1122100,
+        "recordingDurationMs": 1122100,
+        "bytes": 13465735,
+        "sha256": "e96b453e94925c822dffe00498d7c1a2fae0da6d21517b40c686fea92240d5ab",
+        "sharedAyahs": [
+          "10:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 20.31,
+            "end": 1142.39
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 1591780,
+        "durationMs": 1591780,
+        "recordingDurationMs": 1591780,
+        "bytes": 19101895,
+        "sha256": "6704e29273d64a01aca964aacc1147827e196a3048d363b139ed2826b0eb8b61",
+        "sharedAyahs": [
+          "10:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 1142.39,
+            "end": 2734.15
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-145.mp3",
+        "startMs": 0,
+        "endMs": 20880,
+        "durationMs": 20880,
+        "recordingDurationMs": 20880,
+        "bytes": 251136,
+        "sha256": "bf0abc038e73f2c8bd2b9621040e6dfeba444e56988d2607b07363f9ce44444e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-014",
+            "start": 2734.15,
+            "end": 2755.032
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-116.mp3",
+        "startMs": 0,
+        "endMs": 23660,
+        "durationMs": 23660,
+        "recordingDurationMs": 23660,
+        "bytes": 284549,
+        "sha256": "ea7154237a52ddf75c78e224e7b90035384f7182281c2e41399e8ce351691bb1",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 0.0,
+            "end": 23.63
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 1117560,
+        "durationMs": 1117560,
+        "recordingDurationMs": 1117560,
+        "bytes": 13411303,
+        "sha256": "005530fba752e38b4433a7beedabba30d52a1adb001c926a766d1a4818d5abd2",
+        "sharedAyahs": [
+          "10:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 23.63,
+            "end": 1141.17
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 228170,
+        "durationMs": 228170,
+        "recordingDurationMs": 228170,
+        "bytes": 2738599,
+        "sha256": "c585cfdb7561fd3601cc4d4295026c2b08e921adece59ee3401d137bd8190afc",
+        "sharedAyahs": [
+          "10:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1141.17,
+            "end": 1369.31
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 1287480,
+        "durationMs": 1287480,
+        "recordingDurationMs": 1287480,
+        "bytes": 15450348,
+        "sha256": "b774d0eedc8ad9596d42fc138145d51c8730533a1c0e0d887ec7bb9e7f67efce",
+        "sharedAyahs": [
+          "10:34",
+          "10:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 1369.31,
+            "end": 2656.76
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-146.mp3",
+        "startMs": 0,
+        "endMs": 5880,
+        "durationMs": 5880,
+        "recordingDurationMs": 5880,
+        "bytes": 71136,
+        "sha256": "e7d2528f044c36b17faee491807bab2290ae77253df3205efb4ec14c15c9a026",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-015",
+            "start": 2656.76,
+            "end": 2662.656
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-117.mp3",
+        "startMs": 0,
+        "endMs": 22850,
+        "durationMs": 22850,
+        "recordingDurationMs": 22850,
+        "bytes": 274757,
+        "sha256": "b8ca29f377ac6db540f80f5343aa38864918607bd340751e6583f786f293ba28",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 0.0,
+            "end": 22.81
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 1254360,
+        "durationMs": 1254360,
+        "recordingDurationMs": 1254360,
+        "bytes": 15052903,
+        "sha256": "5d4dcf891544f1f78c0be58d682ca8f41fcc456c1fc3b5ff3df8193c434627bd",
+        "sharedAyahs": [
+          "10:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 22.81,
+            "end": 1277.14
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 779640,
+        "durationMs": 779640,
+        "recordingDurationMs": 779640,
+        "bytes": 9356263,
+        "sha256": "35d59c7b45df35abadbc9de7824ab48798c363eb34bb0779cfeb6297253540f4",
+        "sharedAyahs": [
+          "10:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 1277.14,
+            "end": 2056.76
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 644180,
+        "durationMs": 644180,
+        "recordingDurationMs": 644180,
+        "bytes": 7730791,
+        "sha256": "2d225b8ab4ecae8bd277d3b137a5bf533ee32f75a388a2391e3e358291964343",
+        "sharedAyahs": [
+          "10:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 2056.76,
+            "end": 2700.93
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-147.mp3",
+        "startMs": 0,
+        "endMs": 16010,
+        "durationMs": 16010,
+        "recordingDurationMs": 16010,
+        "bytes": 192672,
+        "sha256": "e8530fa95cd86338a6f2b228cf9255836e60e5af531fcb34c008c803ea61b1ac",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-016",
+            "start": 2700.93,
+            "end": 2716.944
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-118.mp3",
+        "startMs": 0,
+        "endMs": 24410,
+        "durationMs": 24410,
+        "recordingDurationMs": 24410,
+        "bytes": 293477,
+        "sha256": "88745a7c45cef684b6f30be76a737891ada7caa40572eb9669b13a5cca2907c9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 0.0,
+            "end": 24.37
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 1594370,
+        "durationMs": 1594370,
+        "recordingDurationMs": 1594370,
+        "bytes": 19132999,
+        "sha256": "2ab60b20fa17e0c847a780b195195119fbdc5cd0df2514d04007106b68ee8017",
+        "sharedAyahs": [
+          "10:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 24.37,
+            "end": 1618.72
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 389860,
+        "durationMs": 389860,
+        "recordingDurationMs": 389860,
+        "bytes": 4678855,
+        "sha256": "6faadfe31684c3b7bed1aea126cf224e01a9a9582f0e7cf97870d1838088c2ff",
+        "sharedAyahs": [
+          "10:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 1618.72,
+            "end": 2008.56
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 123650,
+        "durationMs": 123650,
+        "recordingDurationMs": 123650,
+        "bytes": 1484359,
+        "sha256": "93345e26837cffd73d9282b93ed13a7b1d3207bdbef6bdfb17424364bc0bfb11",
+        "sharedAyahs": [
+          "10:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 2008.56,
+            "end": 2132.18
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 536570,
+        "durationMs": 536570,
+        "recordingDurationMs": 536570,
+        "bytes": 6439399,
+        "sha256": "3b3ed32a8b5fa4d883dff743c71ce7d2bd7e654af4dbd04d3523f4295fda260f",
+        "sharedAyahs": [
+          "10:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 2132.18,
+            "end": 2668.71
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 58970,
+        "durationMs": 58970,
+        "recordingDurationMs": 58970,
+        "bytes": 708199,
+        "sha256": "635f8a4fcc79f3588247bf03358e448e70cbb821e22bc190999607be23f68652",
+        "sharedAyahs": [
+          "10:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 2668.71,
+            "end": 2727.67
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-148.mp3",
+        "startMs": 0,
+        "endMs": 13200,
+        "durationMs": 13200,
+        "recordingDurationMs": 13200,
+        "bytes": 158976,
+        "sha256": "df5a3b49a84c5bd6afc22f76432c1a93fc018200d6c6279f8e483b156c1037c9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-017",
+            "start": 2727.67,
+            "end": 2740.872
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-119.mp3",
+        "startMs": 0,
+        "endMs": 20090,
+        "durationMs": 20090,
+        "recordingDurationMs": 20090,
+        "bytes": 241637,
+        "sha256": "afa72efcc978ec5803197835003ba398edbcfaa7c612b6a285c8f539d1770b61",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-018",
+            "start": 0.0,
+            "end": 20.05
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 1383980,
+        "durationMs": 1383980,
+        "recordingDurationMs": 1383980,
+        "bytes": 16608391,
+        "sha256": "e459ea8d989395520ef5e98a2e9d6eb61987cd164e1895c7acece9b1daf0e5fa",
+        "sharedAyahs": [
+          "10:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-018",
+            "start": 20.05,
+            "end": 1404.01
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 652730,
+        "durationMs": 652730,
+        "recordingDurationMs": 652730,
+        "bytes": 7833319,
+        "sha256": "0eeb1d9f166d829aa0a1f5a2ee48b806f2e85115e5334fffb45428073aac3f3a",
+        "sharedAyahs": [
+          "10:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-018",
+            "start": 1404.01,
+            "end": 2056.71
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 304970,
+        "durationMs": 304970,
+        "recordingDurationMs": 304970,
+        "bytes": 3660199,
+        "sha256": "b04afee86b9744e9d8ef44d78acc0f9f88c073a6654b437e177acff20411b972",
+        "sharedAyahs": [
+          "10:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-018",
+            "start": 2056.71,
+            "end": 2361.67
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 392620,
+        "durationMs": 392620,
+        "recordingDurationMs": 392620,
+        "bytes": 4711975,
+        "sha256": "882bfac6e4a336c64f8c293dd055887a11faddb09ca68957703ed49236c14aed",
+        "sharedAyahs": [
+          "10:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-018",
+            "start": 2361.67,
+            "end": 2754.26
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 35280,
+        "durationMs": 35280,
+        "recordingDurationMs": 35280,
+        "bytes": 423948,
+        "sha256": "1cf4f07edf4e0566b8fb3985e7b09547547127e8e1ca760251219f7abe9ecf01",
+        "sharedAyahs": [
+          "10:48",
+          "10:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-018",
+            "start": 2754.26,
+            "end": 2789.52
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-149.mp3",
+        "startMs": 0,
+        "endMs": 24410,
+        "durationMs": 24410,
+        "recordingDurationMs": 24410,
+        "bytes": 293472,
+        "sha256": "42f3caaf4dc86a146b619dfd1e4f42a6f96b22681820281ff20af4ea4a70b1bd",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-018",
+            "start": 2789.52,
+            "end": 2813.928
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-120.mp3",
+        "startMs": 0,
+        "endMs": 30140,
+        "durationMs": 30140,
+        "recordingDurationMs": 30140,
+        "bytes": 362309,
+        "sha256": "325534f64df6f1d84f2690047fc470814a29be07a6004944ad68bc5d6d146939",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-019",
+            "start": 0.0,
+            "end": 30.12
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 711290,
+        "durationMs": 711290,
+        "recordingDurationMs": 711290,
+        "bytes": 8536044,
+        "sha256": "64b80f6803d745fe0349b58311b610305b5587889c44dc3a9e1dab721aac8603",
+        "sharedAyahs": [
+          "10:50",
+          "10:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-019",
+            "start": 30.12,
+            "end": 741.37
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 228550,
+        "durationMs": 228550,
+        "recordingDurationMs": 228550,
+        "bytes": 2743207,
+        "sha256": "6fdfbb495a55070da388866d765fe5bb5e56632c86e3dda15c4068ccca42b949",
+        "sharedAyahs": [
+          "10:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-019",
+            "start": 741.37,
+            "end": 969.91
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 498670,
+        "durationMs": 498670,
+        "recordingDurationMs": 498670,
+        "bytes": 5984647,
+        "sha256": "7b48e73b5a0b2baeeb75681bedda687d63add39710a1c909fb6e3b34bd4b418c",
+        "sharedAyahs": [
+          "10:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-019",
+            "start": 969.91,
+            "end": 1468.56
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 608090,
+        "durationMs": 608090,
+        "recordingDurationMs": 608090,
+        "bytes": 7297639,
+        "sha256": "15b0bcc2e7a5654306ab506d7948a0a4b38b1992c43046997716595f3c06a0db",
+        "sharedAyahs": [
+          "10:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-019",
+            "start": 1468.56,
+            "end": 2076.62
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 496730,
+        "durationMs": 496730,
+        "recordingDurationMs": 496730,
+        "bytes": 5961319,
+        "sha256": "7d94d1ea13f6bf348e6c9767b7a6dc4932b42a10137cdc3d6c8d6d8485bcb6b9",
+        "sharedAyahs": [
+          "10:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-019",
+            "start": 2076.62,
+            "end": 2573.352
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-121.mp3",
+        "startMs": 0,
+        "endMs": 18550,
+        "durationMs": 18550,
+        "recordingDurationMs": 18550,
+        "bytes": 223205,
+        "sha256": "b4c7bad7de57fcaf6246750dcbb7f3b1d7afbddb6fcee03fb0664689d123e1f8",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-020",
+            "start": 0.0,
+            "end": 18.51
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 416520,
+        "durationMs": 416520,
+        "recordingDurationMs": 416520,
+        "bytes": 4998823,
+        "sha256": "66d8ddb44b20172ea6becd81b6d6315bfa5bef2d13733cee3f2fe1ed86f36907",
+        "sharedAyahs": [
+          "10:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-020",
+            "start": 18.51,
+            "end": 435.01
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 604990,
+        "durationMs": 604990,
+        "recordingDurationMs": 604990,
+        "bytes": 7260487,
+        "sha256": "81cc87fe318b10e9c8b14a5e4fc6e2364aac144803cf29fde62b07167ce7c930",
+        "sharedAyahs": [
+          "10:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-020",
+            "start": 435.01,
+            "end": 1039.98
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 638640,
+        "durationMs": 638640,
+        "recordingDurationMs": 638640,
+        "bytes": 7664263,
+        "sha256": "0ed437ed634026023f509162fbefa5f84f9269a648cc2e9972fcd3390a5a7d53",
+        "sharedAyahs": [
+          "10:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-020",
+            "start": 1039.98,
+            "end": 1678.59
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 346150,
+        "durationMs": 346150,
+        "recordingDurationMs": 346150,
+        "bytes": 4154407,
+        "sha256": "af9ef013686b2349005ba4ca0e334e00dfcc2b6d99ca90656c95934c6b0533bc",
+        "sharedAyahs": [
+          "10:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-020",
+            "start": 1678.59,
+            "end": 2024.73
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 98830,
+        "durationMs": 98830,
+        "recordingDurationMs": 98830,
+        "bytes": 1186567,
+        "sha256": "0d5aff891d7211700a1f6c3d68541bcfd23747d3ff904f2e3c4541b6fe007d3f",
+        "sharedAyahs": [
+          "10:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-020",
+            "start": 2024.73,
+            "end": 2123.53
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 552910,
+        "durationMs": 552910,
+        "recordingDurationMs": 552910,
+        "bytes": 6635527,
+        "sha256": "819a2496c3aca279108f6f9b2294520b837ca38911d3d23eca72ebbd85978ee1",
+        "sharedAyahs": [
+          "10:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-020",
+            "start": 2123.53,
+            "end": 2676.43
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-150.mp3",
+        "startMs": 0,
+        "endMs": 8950,
+        "durationMs": 8950,
+        "recordingDurationMs": 8950,
+        "bytes": 108000,
+        "sha256": "6604430285daf80004c1e20ed7558e917362215dc7b5d8820401bd5517438516",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-020",
+            "start": 2676.43,
+            "end": 2685.384
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-122.mp3",
+        "startMs": 0,
+        "endMs": 39340,
+        "durationMs": 39340,
+        "recordingDurationMs": 39340,
+        "bytes": 472613,
+        "sha256": "14ba1cc067833222aabde3d968582730c8bc74c34dabf43763a24809a37b260c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-021",
+            "start": 0.0,
+            "end": 39.3
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 2559000,
+        "durationMs": 2559000,
+        "recordingDurationMs": 2559000,
+        "bytes": 30708583,
+        "sha256": "d6517510fcb271ae320753654422063cd7994e2bdb0f3f7e7340a1a4c98f67a1",
+        "sharedAyahs": [
+          "10:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-021",
+            "start": 39.3,
+            "end": 2598.28
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-151.mp3",
+        "startMs": 0,
+        "endMs": 3860,
+        "durationMs": 3860,
+        "recordingDurationMs": 3860,
+        "bytes": 46944,
+        "sha256": "1232dc04faea50c60c9da50871f8bb8186fa3b01f7f398d00914cecd4b757c9b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-021",
+            "start": 2598.28,
+            "end": 2602.152
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-123.mp3",
+        "startMs": 0,
+        "endMs": 20880,
+        "durationMs": 20880,
+        "recordingDurationMs": 20880,
+        "bytes": 251141,
+        "sha256": "7ca37740f439c1ab48a7d83abe8bca2c38f4eaedfa1ee13f16227c2d510d6263",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-022",
+            "start": 0.0,
+            "end": 20.84
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 1271180,
+        "durationMs": 1271180,
+        "recordingDurationMs": 1271180,
+        "bytes": 15254791,
+        "sha256": "f3f47e39b91e7847b3fc834ebbc45df48ace105328e666e86320ea94e1abef3d",
+        "sharedAyahs": [
+          "10:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-022",
+            "start": 20.84,
+            "end": 1292.01
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 1309850,
+        "durationMs": 1309850,
+        "recordingDurationMs": 1309850,
+        "bytes": 15718759,
+        "sha256": "84c05e93858ad6da609690f4d55c59da2aa04a04e29d7286fc5ef854fa653a31",
+        "sharedAyahs": [
+          "10:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-022",
+            "start": 1292.01,
+            "end": 2601.82
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 107780,
+        "durationMs": 107780,
+        "recordingDurationMs": 107780,
+        "bytes": 1293991,
+        "sha256": "ca63c6ea7c523292bbff51bd085cfdd4841b27a9bbdcfd859dd306bd06695653",
+        "sharedAyahs": [
+          "10:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-022",
+            "start": 2601.82,
+            "end": 2709.58
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-152.mp3",
+        "startMs": 0,
+        "endMs": 101020,
+        "durationMs": 101020,
+        "recordingDurationMs": 101020,
+        "bytes": 1212768,
+        "sha256": "c8c8c8c55f5b0cbd3d01a31b8008d6c8fcae4920384ecb8bfbfb53bc9c74b709",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-022",
+            "start": 2709.58,
+            "end": 2810.616
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-124.mp3",
+        "startMs": 0,
+        "endMs": 46750,
+        "durationMs": 46750,
+        "recordingDurationMs": 46750,
+        "bytes": 561605,
+        "sha256": "748f033b4c19368212264a1311e7f520b2cb8e2cc16477bacf00a34390fbb4af",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-023",
+            "start": 0.0,
+            "end": 46.72
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 1398410,
+        "durationMs": 1398410,
+        "recordingDurationMs": 1398410,
+        "bytes": 16781479,
+        "sha256": "e9d7e3a18b9effd63c8ebda3e1eaded307ef7a326429193300eadca329325b38",
+        "sharedAyahs": [
+          "10:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-023",
+            "start": 46.72,
+            "end": 1445.1
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 237070,
+        "durationMs": 237070,
+        "recordingDurationMs": 237070,
+        "bytes": 2845447,
+        "sha256": "81f3cc121018a7c6b2e53ee36344fd44c6c726159b35ef9e340f94ff13d13e67",
+        "sharedAyahs": [
+          "10:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-023",
+            "start": 1445.1,
+            "end": 1682.14
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-153.mp3",
+        "startMs": 0,
+        "endMs": 2210,
+        "durationMs": 2210,
+        "recordingDurationMs": 2210,
+        "bytes": 27072,
+        "sha256": "99e7223dafc970df11d22e30e89c7982717fe0209dc7573b154721ccc189eb32",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-023",
+            "start": 1682.14,
+            "end": 1684.368
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 1715520,
+        "durationMs": 1715520,
+        "recordingDurationMs": 1715520,
+        "bytes": 20586823,
+        "sha256": "069df3df7ede24396a9b4f1f951cd9b79fc09872602931b951890634028414c2",
+        "sharedAyahs": [
+          "10:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-024",
+            "start": 0.0,
+            "end": 1715.49
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-154.mp3",
+        "startMs": 0,
+        "endMs": 3170,
+        "durationMs": 3170,
+        "recordingDurationMs": 3170,
+        "bytes": 38592,
+        "sha256": "19a46e74e48fdfe2654391e58ef41948578b387190c2caf028383b1503f3a094",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-024",
+            "start": 1715.49,
+            "end": 1718.664
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 2078040,
+        "durationMs": 2078040,
+        "recordingDurationMs": 2078040,
+        "bytes": 24937063,
+        "sha256": "03993aaa7f15630ee1158d808ded67d4ada61f97fa8e2ebd9e1022604ac8c634",
+        "sharedAyahs": [
+          "10:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-025",
+            "start": 0.0,
+            "end": 2078.01
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-155.mp3",
+        "startMs": 0,
+        "endMs": 101020,
+        "durationMs": 101020,
+        "recordingDurationMs": 101020,
+        "bytes": 1212768,
+        "sha256": "235f9e4d21c759cf12e88b0f24ba852fe03934bfd4bf6ae801c6ca18829cb136",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-025",
+            "start": 2078.01,
+            "end": 2179.032
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-125.mp3",
+        "startMs": 0,
+        "endMs": 19940,
+        "durationMs": 19940,
+        "recordingDurationMs": 19940,
+        "bytes": 239909,
+        "sha256": "d59d4d54362098469dcc05155d47aace231703ca5eaa81d7301318ba65db1540",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-026",
+            "start": 0.0,
+            "end": 19.92
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 867550,
+        "durationMs": 867550,
+        "recordingDurationMs": 867550,
+        "bytes": 10411207,
+        "sha256": "42b9166e365ab153498f1153a13612c20b10d894464c82d37146d271854f2928",
+        "sharedAyahs": [
+          "10:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-026",
+            "start": 19.92,
+            "end": 887.43
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 753670,
+        "durationMs": 753670,
+        "recordingDurationMs": 753670,
+        "bytes": 9044647,
+        "sha256": "0b79fd7828cd98682856270f3c13be5009fc0ddd1428eac485fcd3e7cc798d42",
+        "sharedAyahs": [
+          "10:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-026",
+            "start": 887.43,
+            "end": 1641.09
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-156.mp3",
+        "startMs": 0,
+        "endMs": 3430,
+        "durationMs": 3430,
+        "recordingDurationMs": 3430,
+        "bytes": 41760,
+        "sha256": "f33ced8c21acc9173d22354c79a9209fe2d456c250eee4ea0ac172a0989e0899",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-026",
+            "start": 1641.09,
+            "end": 1644.528
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-126.mp3",
+        "startMs": 0,
+        "endMs": 29880,
+        "durationMs": 29880,
+        "recordingDurationMs": 29880,
+        "bytes": 359141,
+        "sha256": "5ecbb8fc7a19da1fe48b0ae0ea0c07950ae2490541f54ac647d8ff3a611e75f5",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-027",
+            "start": 0.0,
+            "end": 29.85
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 1626020,
+        "durationMs": 1626020,
+        "recordingDurationMs": 1626020,
+        "bytes": 19512876,
+        "sha256": "69e3617d4b950e11fbd4226ab26a86299cca6920bd81d7c0b4195c6bc3e06292",
+        "sharedAyahs": [
+          "10:72",
+          "10:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-027",
+            "start": 29.85,
+            "end": 1655.85
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-157.mp3",
+        "startMs": 0,
+        "endMs": 4200,
+        "durationMs": 4200,
+        "recordingDurationMs": 4200,
+        "bytes": 50976,
+        "sha256": "6f2021e7d08152e20f26c4feeeff681f7a79a4fb1f0127add16083ad9c7c0e77",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-027",
+            "start": 1655.85,
+            "end": 1660.056
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-127.mp3",
+        "startMs": 0,
+        "endMs": 18340,
+        "durationMs": 18340,
+        "recordingDurationMs": 18340,
+        "bytes": 220613,
+        "sha256": "b9a5b933be3300b296fccf192951dfdda7ac86094090346000555047d2b26734",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-028",
+            "start": 0.0,
+            "end": 18.29
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 1528390,
+        "durationMs": 1528390,
+        "recordingDurationMs": 1528390,
+        "bytes": 18341287,
+        "sha256": "6214056454095a961cdde48aa73430a8c91640f4b0d7fc2f21a7eec4fa98eb26",
+        "sharedAyahs": [
+          "10:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-028",
+            "start": 18.29,
+            "end": 1546.66
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 132170,
+        "durationMs": 132170,
+        "recordingDurationMs": 132170,
+        "bytes": 1586599,
+        "sha256": "7a8d4cc7bd382d821dda42a44e539bd8ce2999a4d5a8128d95344744b73fc112",
+        "sharedAyahs": [
+          "10:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-028",
+            "start": 1546.66,
+            "end": 1678.848
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-128.mp3",
+        "startMs": 0,
+        "endMs": 21580,
+        "durationMs": 21580,
+        "recordingDurationMs": 21580,
+        "bytes": 259493,
+        "sha256": "4ad743ac865adef7d2b8cc8af049478fc2d5d75c744db0acd4157cc9fe294db3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-029",
+            "start": 0.0,
+            "end": 21.55
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 875880,
+        "durationMs": 875880,
+        "recordingDurationMs": 875880,
+        "bytes": 10511143,
+        "sha256": "8d3b40c303deb52d75f1ae2366bf066903ffffed8cfb6946f46e64579249a6e3",
+        "sharedAyahs": [
+          "10:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-029",
+            "start": 21.55,
+            "end": 897.4
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 747860,
+        "durationMs": 747860,
+        "recordingDurationMs": 747860,
+        "bytes": 8974956,
+        "sha256": "1b2a24f526cfb16055b59c25b9eeb52f98ff3077d3a1c40933e67a4b34059a55",
+        "sharedAyahs": [
+          "10:77",
+          "10:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-029",
+            "start": 897.4,
+            "end": 1645.23
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-158.mp3",
+        "startMs": 0,
+        "endMs": 4580,
+        "durationMs": 4580,
+        "recordingDurationMs": 4580,
+        "bytes": 55584,
+        "sha256": "5240ff7f3a0553b1182760d190df803ad8ab939a48ce5956583f62b49f42b74b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-029",
+            "start": 1645.23,
+            "end": 1649.832
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 980420,
+        "durationMs": 980420,
+        "recordingDurationMs": 980420,
+        "bytes": 11765671,
+        "sha256": "b17baf79faa731befc072f23f0e4397defcba382804de4d56d51dc27d6abe5bd",
+        "sharedAyahs": [
+          "10:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-030",
+            "start": 0.0,
+            "end": 980.39
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 145580,
+        "durationMs": 145580,
+        "recordingDurationMs": 145580,
+        "bytes": 1747591,
+        "sha256": "97ed246051b96ea81b27a910a217fadfdd9adf3428e90011d68af92e2a53d570",
+        "sharedAyahs": [
+          "10:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-030",
+            "start": 980.39,
+            "end": 1125.95
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 79440,
+        "durationMs": 79440,
+        "recordingDurationMs": 79440,
+        "bytes": 953863,
+        "sha256": "4c4582f06cbfae2011835ea189abce1be0e7365600b6254615e94b4ac3820d2d",
+        "sharedAyahs": [
+          "10:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-030",
+            "start": 1125.95,
+            "end": 1205.36
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 75530,
+        "durationMs": 75530,
+        "recordingDurationMs": 75530,
+        "bytes": 906919,
+        "sha256": "87621e285483bb632cfc56410577d5b9d45f48940070164cc2421b6cdb3e86c6",
+        "sharedAyahs": [
+          "10:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-030",
+            "start": 1205.36,
+            "end": 1280.86
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 408340,
+        "durationMs": 408340,
+        "recordingDurationMs": 408340,
+        "bytes": 4900615,
+        "sha256": "84b3bcdfbb5bd6d5a84b1d994817778562de5876dbb1540d76eecb622c37c827",
+        "sharedAyahs": [
+          "10:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-030",
+            "start": 1280.86,
+            "end": 1689.18
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-159.mp3",
+        "startMs": 0,
+        "endMs": 3960,
+        "durationMs": 3960,
+        "recordingDurationMs": 3960,
+        "bytes": 48096,
+        "sha256": "4daf86b1b93c2b31ecc51a5de8c74e5caa213a758c2df70be51b5d95e30c1cf9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-030",
+            "start": 1689.18,
+            "end": 1693.152
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-129.mp3",
+        "startMs": 0,
+        "endMs": 23110,
+        "durationMs": 23110,
+        "recordingDurationMs": 23110,
+        "bytes": 277925,
+        "sha256": "c5981a3df9ae9421635718383efb2f06a0dddc7a94ad710a6e48f3b10fadf891",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-031",
+            "start": 0.0,
+            "end": 23.07
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 714600,
+        "durationMs": 714600,
+        "recordingDurationMs": 714600,
+        "bytes": 8575783,
+        "sha256": "fd6ab92372df58c19b1140b87b5342d3113d102242405d6d80ad3891f363515f",
+        "sharedAyahs": [
+          "10:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-031",
+            "start": 23.07,
+            "end": 737.65
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 512660,
+        "durationMs": 512660,
+        "recordingDurationMs": 512660,
+        "bytes": 6152551,
+        "sha256": "41676c0ece796fd0429e52d55bf05e5c294b98b888da825b78fe7d245403bb52",
+        "sharedAyahs": [
+          "10:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-031",
+            "start": 737.65,
+            "end": 1250.3
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 79970,
+        "durationMs": 79970,
+        "recordingDurationMs": 79970,
+        "bytes": 960199,
+        "sha256": "fc5fd9b082eb6c88a045e259d3103696b46586ca5948cd1967061fa64aa2ff91",
+        "sharedAyahs": [
+          "10:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-031",
+            "start": 1250.3,
+            "end": 1330.23
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 351190,
+        "durationMs": 351190,
+        "recordingDurationMs": 351190,
+        "bytes": 4214887,
+        "sha256": "a2b51fa89706720bf500980c66e3eb473b4636b77577d7d50dacb94673896e10",
+        "sharedAyahs": [
+          "10:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-031",
+            "start": 1330.23,
+            "end": 1681.4
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-160.mp3",
+        "startMs": 0,
+        "endMs": 39170,
+        "durationMs": 39170,
+        "recordingDurationMs": 39170,
+        "bytes": 470592,
+        "sha256": "aad7ca87e0fe2e5eeb111263d162682c8e4327e65ef9e7d9f819a234977f5da9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-031",
+            "start": 1681.4,
+            "end": 1720.584
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-130.mp3",
+        "startMs": 0,
+        "endMs": 25320,
+        "durationMs": 25320,
+        "recordingDurationMs": 25320,
+        "bytes": 304421,
+        "sha256": "e02c3382f50876f478adfb4e469846180d116bc74927d94fef61c3a944b1b7bc",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-032",
+            "start": 0.0,
+            "end": 25.29
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 1571810,
+        "durationMs": 1571810,
+        "recordingDurationMs": 1571810,
+        "bytes": 18862279,
+        "sha256": "cfab2cb81b7865f17e32d8e49e30baee6aa7e0a1d8a88abc342477d6f796a68c",
+        "sharedAyahs": [
+          "10:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-032",
+            "start": 25.29,
+            "end": 1597.06
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 45700,
+        "durationMs": 45700,
+        "recordingDurationMs": 45700,
+        "bytes": 548935,
+        "sha256": "0774e4b4d7d8dacf763fc1fef1c42f3080410f46bb4c06acabac4f770dbf00cc",
+        "sharedAyahs": [
+          "10:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-032",
+            "start": 1597.06,
+            "end": 1642.75
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-161.mp3",
+        "startMs": 0,
+        "endMs": 4200,
+        "durationMs": 4200,
+        "recordingDurationMs": 4200,
+        "bytes": 50976,
+        "sha256": "6443286941eb4824ea11eca75baf59b57e65ee7dc09a6b63761ff2b7dbbc61d6",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-032",
+            "start": 1642.75,
+            "end": 1646.952
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-131.mp3",
+        "startMs": 0,
+        "endMs": 23260,
+        "durationMs": 23260,
+        "recordingDurationMs": 23260,
+        "bytes": 279653,
+        "sha256": "82271baf033e456ce412169399aef4119a9077f47c40245037a20e48d48c6925",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-033",
+            "start": 0.0,
+            "end": 23.22
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/090.mp3",
+        "startMs": 0,
+        "endMs": 1169330,
+        "durationMs": 1169330,
+        "recordingDurationMs": 1169330,
+        "bytes": 14032519,
+        "sha256": "38968d4e6c4a1f0b71d3b11648d919cb619cceaa5d5e426b86e1f72dac90649a",
+        "sharedAyahs": [
+          "10:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-033",
+            "start": 23.22,
+            "end": 1192.52
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/091.mp3",
+        "startMs": 0,
+        "endMs": 64250,
+        "durationMs": 64250,
+        "recordingDurationMs": 64250,
+        "bytes": 771559,
+        "sha256": "1598d34b8d86628560bdf656e6056867cc89e29e5b2d7593d0e23e746853c3b4",
+        "sharedAyahs": [
+          "10:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-033",
+            "start": 1192.52,
+            "end": 1256.74
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 432430,
+        "durationMs": 432430,
+        "recordingDurationMs": 432430,
+        "bytes": 5189767,
+        "sha256": "303c3c18ea0c8f49cfefff5aa3bd59df71c949c9beae16ef21736ad41b0e8cfa",
+        "sharedAyahs": [
+          "10:92"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-033",
+            "start": 1256.74,
+            "end": 1689.16
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-162.mp3",
+        "startMs": 0,
+        "endMs": 2540,
+        "durationMs": 2540,
+        "recordingDurationMs": 2540,
+        "bytes": 31104,
+        "sha256": "c09f92c1b0acf82225fadc7fb6900ab9ae3cf3674a605f56cbeefd0214d743d1",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-033",
+            "start": 1689.16,
+            "end": 1691.712
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-132.mp3",
+        "startMs": 0,
+        "endMs": 18120,
+        "durationMs": 18120,
+        "recordingDurationMs": 18120,
+        "bytes": 218021,
+        "sha256": "117a78c1d35ad109401ff77aee2081679d69f5248a9e54ba745592223e364bd6",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-034",
+            "start": 0.0,
+            "end": 18.09
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/093.mp3",
+        "startMs": 0,
+        "endMs": 1200220,
+        "durationMs": 1200220,
+        "recordingDurationMs": 1200220,
+        "bytes": 14403175,
+        "sha256": "5af837f2ec9e919422000d27e28568c4ff1bbb8310347c5651baf753de97e5c1",
+        "sharedAyahs": [
+          "10:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-034",
+            "start": 18.09,
+            "end": 1218.28
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/094.mp3",
+        "startMs": 0,
+        "endMs": 333460,
+        "durationMs": 333460,
+        "recordingDurationMs": 333460,
+        "bytes": 4002055,
+        "sha256": "7b5138717ad2d463de57ffa4d132768435176f6a500a75f6ff66bfc574099176",
+        "sharedAyahs": [
+          "10:94"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-034",
+            "start": 1218.28,
+            "end": 1551.71
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/095.mp3",
+        "startMs": 0,
+        "endMs": 114550,
+        "durationMs": 114550,
+        "recordingDurationMs": 114550,
+        "bytes": 1375207,
+        "sha256": "de7678f0564967b760de1c9893a64ad7ae96993afae76cc93626a1c43fd57cf8",
+        "sharedAyahs": [
+          "10:95"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-034",
+            "start": 1551.71,
+            "end": 1666.23
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-163.mp3",
+        "startMs": 0,
+        "endMs": 69260,
+        "durationMs": 69260,
+        "recordingDurationMs": 69260,
+        "bytes": 831744,
+        "sha256": "0450bd3faa77df7837d4f665d8755319d12dc3787cccf4499d4ce6d0f62ba939",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-034",
+            "start": 1666.23,
+            "end": 1735.512
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/096.mp3",
+        "startMs": 0,
+        "endMs": 745270,
+        "durationMs": 745270,
+        "recordingDurationMs": 745270,
+        "bytes": 8943847,
+        "sha256": "7d839d86bdbba7002d49399e20415273948296cc7b263f3d947c94efd29f1ab8",
+        "sharedAyahs": [
+          "10:96"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-035",
+            "start": 0.0,
+            "end": 745.23
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/097.mp3",
+        "startMs": 0,
+        "endMs": 991660,
+        "durationMs": 991660,
+        "recordingDurationMs": 991660,
+        "bytes": 11900455,
+        "sha256": "542ab613ddd5521003f37e6b28bb64775c83361dff3df8e68ba24dd480b8da20",
+        "sharedAyahs": [
+          "10:97"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-035",
+            "start": 745.23,
+            "end": 1736.88
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-164.mp3",
+        "startMs": 0,
+        "endMs": 5690,
+        "durationMs": 5690,
+        "recordingDurationMs": 5690,
+        "bytes": 68832,
+        "sha256": "59c99e0897c2479e4742eb192dff1ea21d56e77c47bca6890bcb384f3cb15c1b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-035",
+            "start": 1736.88,
+            "end": 1742.568
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-133.mp3",
+        "startMs": 0,
+        "endMs": 17330,
+        "durationMs": 17330,
+        "recordingDurationMs": 17330,
+        "bytes": 208517,
+        "sha256": "d28c9f85592381179ca7a6375391053a82e783e878fa55dce23d0a16e5e94e04",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-036",
+            "start": 0.0,
+            "end": 17.29
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/098.mp3",
+        "startMs": 0,
+        "endMs": 817270,
+        "durationMs": 817270,
+        "recordingDurationMs": 817270,
+        "bytes": 9807847,
+        "sha256": "e3a31442a14d3bf4226ceae9d2a84bf9cc13f70241597655a8a9f8f8fa84a0f6",
+        "sharedAyahs": [
+          "10:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-036",
+            "start": 17.29,
+            "end": 834.53
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/099.mp3",
+        "startMs": 0,
+        "endMs": 145100,
+        "durationMs": 145100,
+        "recordingDurationMs": 145100,
+        "bytes": 1741831,
+        "sha256": "1ac6f1d5d06894dca2484764a7d1b78c3a2ea2cde5ae4ff976d67b931c0ebf84",
+        "sharedAyahs": [
+          "10:99"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-036",
+            "start": 834.53,
+            "end": 979.63
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/100.mp3",
+        "startMs": 0,
+        "endMs": 671620,
+        "durationMs": 671620,
+        "recordingDurationMs": 671620,
+        "bytes": 8059977,
+        "sha256": "62571df149c558ded5ae661a61be6d4303d4671cc678df76c9b8a1028de19e3e",
+        "sharedAyahs": [
+          "10:100"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-036",
+            "start": 979.63,
+            "end": 1651.248
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/101.mp3",
+        "startMs": 0,
+        "endMs": 1187020,
+        "durationMs": 1187020,
+        "recordingDurationMs": 1187020,
+        "bytes": 14244777,
+        "sha256": "521ccddc3b91f9e7d50b1323f7c59d8103d35930372330ef3d75f208f566747e",
+        "sharedAyahs": [
+          "10:101"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-037",
+            "start": 0.0,
+            "end": 1186.99
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/102.mp3",
+        "startMs": 0,
+        "endMs": 411480,
+        "durationMs": 411480,
+        "recordingDurationMs": 411480,
+        "bytes": 4938345,
+        "sha256": "0392886fa4d39cc8f132a01099b165944066f279718bb7a6fefd593c12f6668c",
+        "sharedAyahs": [
+          "10:102"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-037",
+            "start": 1186.99,
+            "end": 1598.43
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/103.mp3",
+        "startMs": 0,
+        "endMs": 130460,
+        "durationMs": 130460,
+        "recordingDurationMs": 130460,
+        "bytes": 1566153,
+        "sha256": "22031b6077862f29df04d3b9b87d2076593146d280507eb5c20df5c8ee632f9a",
+        "sharedAyahs": [
+          "10:103"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-037",
+            "start": 1598.43,
+            "end": 1728.88
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/104.mp3",
+        "startMs": 0,
+        "endMs": 38930,
+        "durationMs": 38930,
+        "recordingDurationMs": 38930,
+        "bytes": 467721,
+        "sha256": "85367bb382b95f43bd9d61a6fca41383259a6f6b4e4303bc468bd65fd0650f68",
+        "sharedAyahs": [
+          "10:104"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-037",
+            "start": 1728.88,
+            "end": 1767.78
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-165.mp3",
+        "startMs": 0,
+        "endMs": 18580,
+        "durationMs": 18580,
+        "recordingDurationMs": 18580,
+        "bytes": 223488,
+        "sha256": "e4d51c5f91a94acb381c48345de4a79da0877bdaca7cd104a3798cfceda45ced",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-037",
+            "start": 1767.78,
+            "end": 1786.368
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/introduction-134.mp3",
+        "startMs": 0,
+        "endMs": 25420,
+        "durationMs": 25420,
+        "recordingDurationMs": 25420,
+        "bytes": 305573,
+        "sha256": "31ed247b4340f85ef9f39eba34162c29060b8af2087987a0cfe548a1fa464374",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-038",
+            "start": 0.0,
+            "end": 25.38
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/105.mp3",
+        "startMs": 0,
+        "endMs": 586270,
+        "durationMs": 586270,
+        "recordingDurationMs": 586270,
+        "bytes": 7035849,
+        "sha256": "e496a24000354eec9be4fbcc0623017a75676e10b1cd8283dbf47c2ae0dcf7ce",
+        "sharedAyahs": [
+          "10:105"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-038",
+            "start": 25.38,
+            "end": 611.63
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/106.mp3",
+        "startMs": 0,
+        "endMs": 971760,
+        "durationMs": 971760,
+        "recordingDurationMs": 971760,
+        "bytes": 11661711,
+        "sha256": "0186ed9b5d3fe9e978642a9f9d9150f7ecf6e5aaa2d9f30ac37187eed4915d1e",
+        "sharedAyahs": [
+          "10:106",
+          "10:107",
+          "10:108"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-038",
+            "start": 611.63,
+            "end": 1583.37
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/109.mp3",
+        "startMs": 0,
+        "endMs": 117410,
+        "durationMs": 117410,
+        "recordingDurationMs": 117410,
+        "bytes": 1409481,
+        "sha256": "1d5e06848c352f6f94245defd88a4d405228b235054adce29165648fa5d4b683",
+        "sharedAyahs": [
+          "10:109"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yt-038",
+            "start": 1583.37,
+            "end": 1700.76
+          }
+        ]
+      },
+      {
+        "file": "010-يونس-youtube-v1/closing-166.mp3",
+        "startMs": 0,
+        "endMs": 18770,
+        "durationMs": 18770,
+        "recordingDurationMs": 18770,
+        "bytes": 225792,
+        "sha256": "14c2c6cb3290d2fb80aeddff0d532373f77ed173093d5d1f3abb7bca7315609b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yt-038",
+            "start": 1700.76,
+            "end": 1719.528
+          }
+        ]
+      }
+    ],
+    "durationMs": 87489570,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
