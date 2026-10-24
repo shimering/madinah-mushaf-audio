@@ -1,0 +1,953 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 58,
+  "surahName": "المجادلة",
+  "ayahCount": 22,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 22,
+    "mappedAyahCount": 22,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "Wgjbh-9sDZs": {
+      "durationSeconds": 3087.89,
+      "bytes": 37055268,
+      "sha256": "5933cb510d430285ab0bdd28361f7ee7387be60826ce47027cc18beea508a72a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-005_Wgjbh-9sDZs.mp3",
+      "url": "https://www.youtube.com/watch?v=Wgjbh-9sDZs"
+    },
+    "PEIJSuwffYk": {
+      "durationSeconds": 2909.35,
+      "bytes": 34912839,
+      "sha256": "e9ece7ffb90798cc3f155c2d61a4307b5f96e0954e8907f3dff7c4e125f61e6d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_006-011_PEIJSuwffYk.mp3",
+      "url": "https://www.youtube.com/watch?v=PEIJSuwffYk"
+    },
+    "oE-pjH59WEI": {
+      "durationSeconds": 2645.81,
+      "bytes": 31750312,
+      "sha256": "713c616598af2f71b682cf133c3f9b8c914ed7ab1dc6d69f37f7d1aaeae4daf5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_012-022_oE-pjH59WEI.mp3",
+      "url": "https://www.youtube.com/watch?v=oE-pjH59WEI"
+    }
+  },
+  "ayahs": {
+    "58:1": {
+      "file": "058-المجادلة-youtube-v1/001.mp3",
+      "durationMs": 435940,
+      "bytes": 5231829,
+      "sha256": "ebb59b887608e49d54ead3d1f8c50563b3e0d8c64f9e10ee59050efcec52ff7a",
+      "sharedAyahs": [
+        "58:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Wgjbh-9sDZs",
+          "start": 0.0,
+          "end": 435.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: قد سمع الله قول التي تجادلك في زوجها وتشتكي إلى الله"
+    },
+    "58:2": {
+      "file": "058-المجادلة-youtube-v1/002.mp3",
+      "durationMs": 322510,
+      "bytes": 3870741,
+      "sha256": "c6ed99d807d13150252e99285b56746f292657b49b2ee9c1e644597586c784ac",
+      "sharedAyahs": [
+        "58:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Wgjbh-9sDZs",
+          "start": 435.9,
+          "end": 758.4
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: الذين يظاهرون منكم من نسائهم ما هن أمهاتهم"
+    },
+    "58:3": {
+      "file": "058-المجادلة-youtube-v1/003.mp3",
+      "durationMs": 1228730,
+      "bytes": 14745333,
+      "sha256": "92edb969d6bc1ff03100c5b299724ebcdbb5bdab880e4f4604a04d5272d3e21f",
+      "sharedAyahs": [
+        "58:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Wgjbh-9sDZs",
+          "start": 758.4,
+          "end": 1987.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: والذين يظاهرون من نسائهم ثم يعودون لما قالوا فتحرير رقبة"
+    },
+    "58:4": {
+      "file": "058-المجادلة-youtube-v1/004.mp3",
+      "durationMs": 479040,
+      "bytes": 5749077,
+      "sha256": "11e979f6295c6e4df7add1fc17849386edfbedbb5e04400c68b992a20b781ca3",
+      "sharedAyahs": [
+        "58:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Wgjbh-9sDZs",
+          "start": 1987.1,
+          "end": 2466.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: فمن لم يجد فصيام شهرين متتابعين من قبل أن يتماسا"
+    },
+    "58:5": {
+      "file": "058-المجادلة-youtube-v1/005.mp3",
+      "durationMs": 621770,
+      "bytes": 7461813,
+      "sha256": "6508126719af0292398f7436c987d0dec22256aa1ed5b849299d8162b266a501",
+      "sharedAyahs": [
+        "58:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Wgjbh-9sDZs",
+          "start": 2466.1,
+          "end": 3087.89
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: إن الذين يحادون الله ورسوله كبتوا كما كبت الذين من قبلهم"
+    },
+    "58:6": {
+      "file": "058-المجادلة-youtube-v1/006.mp3",
+      "durationMs": 524830,
+      "bytes": 6298581,
+      "sha256": "9f9a639d40109849450eaddf5bd2a08efab46c6008a1e297856c548f92773d7a",
+      "sharedAyahs": [
+        "58:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PEIJSuwffYk",
+          "start": 0.0,
+          "end": 524.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: يوم يبعثهم الله جميعا فينبئهم بما عملوا أحصاه الله ونسوه"
+    },
+    "58:7": {
+      "file": "058-المجادلة-youtube-v1/007.mp3",
+      "durationMs": 809830,
+      "bytes": 9718581,
+      "sha256": "42ca9371bf2ede4c8da441195a7d698bfb31b5fbd60d627fccd49566a5b60ea4",
+      "sharedAyahs": [
+        "58:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PEIJSuwffYk",
+          "start": 524.8,
+          "end": 1334.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: ألم تر أن الله يعلم ما في السماوات وما في الأرض ما يكون من نجوى ثلاثة إلا هو رابعهم"
+    },
+    "58:8": {
+      "file": "058-المجادلة-youtube-v1/008.mp3",
+      "durationMs": 265730,
+      "bytes": 3189333,
+      "sha256": "f720165a11f8c0facdf15242c36e68bb337e9e539f8b6d2c12246b8c962fb7e3",
+      "sharedAyahs": [
+        "58:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PEIJSuwffYk",
+          "start": 1334.6,
+          "end": 1600.3
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: ألم تر إلى الذين نهوا عن النجوى ثم يعودون لما نهوا عنه"
+    },
+    "58:9": {
+      "file": "058-المجادلة-youtube-v1/009.mp3",
+      "durationMs": 476020,
+      "bytes": 5712789,
+      "sha256": "69bc818f80ab5b5a7226eca077ac515571b620448a129759d00e4ba54608649e",
+      "sharedAyahs": [
+        "58:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PEIJSuwffYk",
+          "start": 1600.3,
+          "end": 2076.3
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: يا أيها الذين آمنوا إذا تناجيتم فلا تتناجوا بالإثم والعدوان ومعصية الرسول"
+    },
+    "58:10": {
+      "file": "058-المجادلة-youtube-v1/010.mp3",
+      "durationMs": 452930,
+      "bytes": 5435735,
+      "sha256": "9e563555b0b679b8bc287b7719cadf25929b6db5c3b72c3621681b5c2dda30d7",
+      "sharedAyahs": [
+        "58:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PEIJSuwffYk",
+          "start": 2076.3,
+          "end": 2529.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: إنما النجوى من الشيطان ليحزن الذين آمنوا وليس بضارهم شيئا إلا بإذن الله"
+    },
+    "58:11": {
+      "file": "058-المجادلة-youtube-v1/011.mp3",
+      "durationMs": 372620,
+      "bytes": 4472087,
+      "sha256": "b8d463e512fe41792924b0b60351fe09fedc66ccb77d9927fbb8adb97f37237c",
+      "sharedAyahs": [
+        "58:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PEIJSuwffYk",
+          "start": 2529.2,
+          "end": 2901.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 11: يا أيها الذين آمنوا إذا قيل لكم تفسحوا في المجالس فافسحوا يفسح الله لكم"
+    },
+    "58:12": {
+      "file": "058-المجادلة-youtube-v1/012.mp3",
+      "durationMs": 352680,
+      "bytes": 4232759,
+      "sha256": "5842ed2d246f079223077e7b47f7d4bedbeeda0b71f6923e675b9c1dc29b719f",
+      "sharedAyahs": [
+        "58:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 24.14,
+          "end": 376.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: يا أيها الذين آمنوا إذا ناجيتم الرسول فقدموا بين يدي نجواكم صدقة"
+    },
+    "58:13": {
+      "file": "058-المجادلة-youtube-v1/013.mp3",
+      "durationMs": 58220,
+      "bytes": 699287,
+      "sha256": "d8d87c30c910181808dc93cc0336dbe66b24b02139c39c43d1eef5f1ba875efd",
+      "sharedAyahs": [
+        "58:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 376.8,
+          "end": 435.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: أأشفقتم أن تقدموا بين يدي نجواكم صدقات فإذ لم تفعلوا وتاب الله عليكم"
+    },
+    "58:14": {
+      "file": "058-المجادلة-youtube-v1/014.mp3",
+      "durationMs": 503040,
+      "bytes": 6037079,
+      "sha256": "02cde0878c3a6d3a43b4ffb571930fe80a6179e9fa7c94f9f9fdee6f2e0ac15a",
+      "sharedAyahs": [
+        "58:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 435.0,
+          "end": 938.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: ألم تر إلى الذين تولوا قوما غضب الله عليهم ما هم منكم ولا منهم"
+    },
+    "58:15": {
+      "file": "058-المجادلة-youtube-v1/015.mp3",
+      "durationMs": 91220,
+      "bytes": 1095287,
+      "sha256": "20d3a7ae20628b842f6540d61cfa9e80882a6a1c83403d60799e979aeb254fc5",
+      "sharedAyahs": [
+        "58:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 938.0,
+          "end": 1029.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: أعد الله لهم عذابا شديدا إنهم ساء ما كانوا يعملون"
+    },
+    "58:16": {
+      "file": "058-المجادلة-youtube-v1/016.mp3",
+      "durationMs": 97420,
+      "bytes": 1169591,
+      "sha256": "c19150167e760e8b4fccca32dec41d651369b5519032caaedec172174e4ac658",
+      "sharedAyahs": [
+        "58:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 1029.2,
+          "end": 1126.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: اتخذوا أيمانهم جنة فصدوا عن سبيل الله فلهم عذاب مهين"
+    },
+    "58:17": {
+      "file": "058-المجادلة-youtube-v1/017.mp3",
+      "durationMs": 35620,
+      "bytes": 427991,
+      "sha256": "59204d6e98b419508d2819e9a25cb429975257adccf7738cb9d288585788dc11",
+      "sharedAyahs": [
+        "58:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 1126.6,
+          "end": 1162.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 17: لن تغني عنهم أموالهم ولا أولادهم من الله شيئا أولئك أصحاب النار"
+    },
+    "58:18": {
+      "file": "058-المجادلة-youtube-v1/018.mp3",
+      "durationMs": 97130,
+      "bytes": 1166135,
+      "sha256": "835b3bcd2fb91e598e496d67a31215e02ca162829be9dc1889cc3c1534ba33b2",
+      "sharedAyahs": [
+        "58:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 1162.2,
+          "end": 1259.3
+        }
+      ],
+      "reviewNote": "تفسير الآية 18: يوم يبعثهم الله جميعا فيحلفون له كما يحلفون لكم"
+    },
+    "58:19": {
+      "file": "058-المجادلة-youtube-v1/019.mp3",
+      "durationMs": 218330,
+      "bytes": 2620535,
+      "sha256": "ca522b8524be30113b8caaf6308262d388a5be821a2638bd22d8426721b70a15",
+      "sharedAyahs": [
+        "58:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 1259.3,
+          "end": 1477.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: استحوذ عليهم الشيطان فأنساهم ذكر الله أولئك حزب الشيطان"
+    },
+    "58:20": {
+      "file": "058-المجادلة-youtube-v1/020.mp3",
+      "durationMs": 184630,
+      "bytes": 2216183,
+      "sha256": "e50b5f995773d5b9fa12d3c846d526ac5faf769d7462361f27fcbd051b498ce2",
+      "sharedAyahs": [
+        "58:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 1477.6,
+          "end": 1662.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: إن الذين يحادون الله ورسوله أولئك في الأذلين"
+    },
+    "58:21": {
+      "file": "058-المجادلة-youtube-v1/021.mp3",
+      "durationMs": 350330,
+      "bytes": 4204535,
+      "sha256": "eebf37d5039d94ee0d4980d949004927d1fd8cd7068f9a77d66b90a19f2d415a",
+      "sharedAyahs": [
+        "58:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 1662.2,
+          "end": 2012.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 21: كتب الله لأغلبن أنا ورسلي إن الله قوي عزيز"
+    },
+    "58:22": {
+      "file": "058-المجادلة-youtube-v1/022.mp3",
+      "durationMs": 633290,
+      "bytes": 7600055,
+      "sha256": "3c5421edd8df7650fd3737db19dca80ab6668a88dacd8939cdbdd12e019a045c",
+      "sharedAyahs": [
+        "58:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 2012.5,
+          "end": 2645.81
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: لا تجد قوما يؤمنون بالله واليوم الآخر يوادون من حاد الله ورسوله... أولئك حزب الله"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "058-المجادلة-youtube-v1/closing-11.mp3",
+      "kind": "closing",
+      "durationMs": 7540,
+      "bytes": 91024,
+      "sha256": "9c8d7bd887b09b02fd24fb6aa72b0b7e3efe0d1b570a458b63a7d3d426322d2e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "PEIJSuwffYk",
+          "start": 2901.8,
+          "end": 2909.35
+        }
+      ],
+      "reviewNote": "خاتمة الدرس الثاني وإلى لقاء آخر إن شاء الله"
+    },
+    {
+      "file": "058-المجادلة-youtube-v1/introduction-12.mp3",
+      "kind": "introduction",
+      "durationMs": 24170,
+      "bytes": 290613,
+      "sha256": "4d5b3f047be4bc80c32bd9820700dbea722f909fdca215152817385e79b33044",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "oE-pjH59WEI",
+          "start": 0.0,
+          "end": 24.14
+        }
+      ],
+      "reviewNote": "مقدمة الدرس الثالث والحمد والثناء والصلاة على رسول الله"
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLABAE28B890BD0B12",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "Wgjbh-9sDZs",
+      "PEIJSuwffYk",
+      "oE-pjH59WEI"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "058-المجادلة-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 435940,
+        "durationMs": 435940,
+        "recordingDurationMs": 435940,
+        "bytes": 5231829,
+        "sha256": "ebb59b887608e49d54ead3d1f8c50563b3e0d8c64f9e10ee59050efcec52ff7a",
+        "sharedAyahs": [
+          "58:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Wgjbh-9sDZs",
+            "start": 0.0,
+            "end": 435.9
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 322510,
+        "durationMs": 322510,
+        "recordingDurationMs": 322510,
+        "bytes": 3870741,
+        "sha256": "c6ed99d807d13150252e99285b56746f292657b49b2ee9c1e644597586c784ac",
+        "sharedAyahs": [
+          "58:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Wgjbh-9sDZs",
+            "start": 435.9,
+            "end": 758.4
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 1228730,
+        "durationMs": 1228730,
+        "recordingDurationMs": 1228730,
+        "bytes": 14745333,
+        "sha256": "92edb969d6bc1ff03100c5b299724ebcdbb5bdab880e4f4604a04d5272d3e21f",
+        "sharedAyahs": [
+          "58:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Wgjbh-9sDZs",
+            "start": 758.4,
+            "end": 1987.1
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 479040,
+        "durationMs": 479040,
+        "recordingDurationMs": 479040,
+        "bytes": 5749077,
+        "sha256": "11e979f6295c6e4df7add1fc17849386edfbedbb5e04400c68b992a20b781ca3",
+        "sharedAyahs": [
+          "58:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Wgjbh-9sDZs",
+            "start": 1987.1,
+            "end": 2466.1
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 621770,
+        "durationMs": 621770,
+        "recordingDurationMs": 621770,
+        "bytes": 7461813,
+        "sha256": "6508126719af0292398f7436c987d0dec22256aa1ed5b849299d8162b266a501",
+        "sharedAyahs": [
+          "58:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Wgjbh-9sDZs",
+            "start": 2466.1,
+            "end": 3087.89
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 524830,
+        "durationMs": 524830,
+        "recordingDurationMs": 524830,
+        "bytes": 6298581,
+        "sha256": "9f9a639d40109849450eaddf5bd2a08efab46c6008a1e297856c548f92773d7a",
+        "sharedAyahs": [
+          "58:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PEIJSuwffYk",
+            "start": 0.0,
+            "end": 524.8
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 809830,
+        "durationMs": 809830,
+        "recordingDurationMs": 809830,
+        "bytes": 9718581,
+        "sha256": "42ca9371bf2ede4c8da441195a7d698bfb31b5fbd60d627fccd49566a5b60ea4",
+        "sharedAyahs": [
+          "58:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PEIJSuwffYk",
+            "start": 524.8,
+            "end": 1334.6
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 265730,
+        "durationMs": 265730,
+        "recordingDurationMs": 265730,
+        "bytes": 3189333,
+        "sha256": "f720165a11f8c0facdf15242c36e68bb337e9e539f8b6d2c12246b8c962fb7e3",
+        "sharedAyahs": [
+          "58:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PEIJSuwffYk",
+            "start": 1334.6,
+            "end": 1600.3
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 476020,
+        "durationMs": 476020,
+        "recordingDurationMs": 476020,
+        "bytes": 5712789,
+        "sha256": "69bc818f80ab5b5a7226eca077ac515571b620448a129759d00e4ba54608649e",
+        "sharedAyahs": [
+          "58:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PEIJSuwffYk",
+            "start": 1600.3,
+            "end": 2076.3
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 452930,
+        "durationMs": 452930,
+        "recordingDurationMs": 452930,
+        "bytes": 5435735,
+        "sha256": "9e563555b0b679b8bc287b7719cadf25929b6db5c3b72c3621681b5c2dda30d7",
+        "sharedAyahs": [
+          "58:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PEIJSuwffYk",
+            "start": 2076.3,
+            "end": 2529.2
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 372620,
+        "durationMs": 372620,
+        "recordingDurationMs": 372620,
+        "bytes": 4472087,
+        "sha256": "b8d463e512fe41792924b0b60351fe09fedc66ccb77d9927fbb8adb97f37237c",
+        "sharedAyahs": [
+          "58:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PEIJSuwffYk",
+            "start": 2529.2,
+            "end": 2901.8
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/closing-11.mp3",
+        "startMs": 0,
+        "endMs": 7540,
+        "durationMs": 7540,
+        "recordingDurationMs": 7540,
+        "bytes": 91024,
+        "sha256": "9c8d7bd887b09b02fd24fb6aa72b0b7e3efe0d1b570a458b63a7d3d426322d2e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "PEIJSuwffYk",
+            "start": 2901.8,
+            "end": 2909.35
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/introduction-12.mp3",
+        "startMs": 0,
+        "endMs": 24170,
+        "durationMs": 24170,
+        "recordingDurationMs": 24170,
+        "bytes": 290613,
+        "sha256": "4d5b3f047be4bc80c32bd9820700dbea722f909fdca215152817385e79b33044",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 0.0,
+            "end": 24.14
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 352680,
+        "durationMs": 352680,
+        "recordingDurationMs": 352680,
+        "bytes": 4232759,
+        "sha256": "5842ed2d246f079223077e7b47f7d4bedbeeda0b71f6923e675b9c1dc29b719f",
+        "sharedAyahs": [
+          "58:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 24.14,
+            "end": 376.8
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 58220,
+        "durationMs": 58220,
+        "recordingDurationMs": 58220,
+        "bytes": 699287,
+        "sha256": "d8d87c30c910181808dc93cc0336dbe66b24b02139c39c43d1eef5f1ba875efd",
+        "sharedAyahs": [
+          "58:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 376.8,
+            "end": 435.0
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 503040,
+        "durationMs": 503040,
+        "recordingDurationMs": 503040,
+        "bytes": 6037079,
+        "sha256": "02cde0878c3a6d3a43b4ffb571930fe80a6179e9fa7c94f9f9fdee6f2e0ac15a",
+        "sharedAyahs": [
+          "58:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 435.0,
+            "end": 938.0
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 91220,
+        "durationMs": 91220,
+        "recordingDurationMs": 91220,
+        "bytes": 1095287,
+        "sha256": "20d3a7ae20628b842f6540d61cfa9e80882a6a1c83403d60799e979aeb254fc5",
+        "sharedAyahs": [
+          "58:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 938.0,
+            "end": 1029.2
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 97420,
+        "durationMs": 97420,
+        "recordingDurationMs": 97420,
+        "bytes": 1169591,
+        "sha256": "c19150167e760e8b4fccca32dec41d651369b5519032caaedec172174e4ac658",
+        "sharedAyahs": [
+          "58:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 1029.2,
+            "end": 1126.6
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 35620,
+        "durationMs": 35620,
+        "recordingDurationMs": 35620,
+        "bytes": 427991,
+        "sha256": "59204d6e98b419508d2819e9a25cb429975257adccf7738cb9d288585788dc11",
+        "sharedAyahs": [
+          "58:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 1126.6,
+            "end": 1162.2
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 97130,
+        "durationMs": 97130,
+        "recordingDurationMs": 97130,
+        "bytes": 1166135,
+        "sha256": "835b3bcd2fb91e598e496d67a31215e02ca162829be9dc1889cc3c1534ba33b2",
+        "sharedAyahs": [
+          "58:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 1162.2,
+            "end": 1259.3
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 218330,
+        "durationMs": 218330,
+        "recordingDurationMs": 218330,
+        "bytes": 2620535,
+        "sha256": "ca522b8524be30113b8caaf6308262d388a5be821a2638bd22d8426721b70a15",
+        "sharedAyahs": [
+          "58:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 1259.3,
+            "end": 1477.6
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 184630,
+        "durationMs": 184630,
+        "recordingDurationMs": 184630,
+        "bytes": 2216183,
+        "sha256": "e50b5f995773d5b9fa12d3c846d526ac5faf769d7462361f27fcbd051b498ce2",
+        "sharedAyahs": [
+          "58:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 1477.6,
+            "end": 1662.2
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 350330,
+        "durationMs": 350330,
+        "recordingDurationMs": 350330,
+        "bytes": 4204535,
+        "sha256": "eebf37d5039d94ee0d4980d949004927d1fd8cd7068f9a77d66b90a19f2d415a",
+        "sharedAyahs": [
+          "58:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 1662.2,
+            "end": 2012.5
+          }
+        ]
+      },
+      {
+        "file": "058-المجادلة-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 633290,
+        "durationMs": 633290,
+        "recordingDurationMs": 633290,
+        "bytes": 7600055,
+        "sha256": "3c5421edd8df7650fd3737db19dca80ab6668a88dacd8939cdbdd12e019a045c",
+        "sharedAyahs": [
+          "58:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oE-pjH59WEI",
+            "start": 2012.5,
+            "end": 2645.81
+          }
+        ]
+      }
+    ],
+    "durationMs": 8643570,
+    "additionalAudioBytes": 0
+  },
+  "topics": [
+    {
+      "id": "mujadilah-khawlah-and-dhihar",
+      "title": "أحكام الظهار وسماع الله لشكوى المرأة وحرمة الأسرة",
+      "file": "058-المجادلة-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 435940
+    },
+    {
+      "id": "mujadilah-divine-omnipresence-and-najwa",
+      "title": "إحاطة علم الله وحقيقة النجوى بين الإثم والبر والتقوى",
+      "file": "058-المجادلة-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 809830
+    },
+    {
+      "id": "mujadilah-etiquette-of-gatherings",
+      "title": "آداب المجالس في الإسلام وإفساح المكان وإكرام أهل العلم",
+      "file": "058-المجادلة-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 372620
+    },
+    {
+      "id": "mujadilah-party-of-allah-and-allegiance",
+      "title": "حزب الله وحزب الشيطان وحقيقة الولاء والبراء في العقيدة",
+      "file": "058-المجادلة-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 633290
+    }
+  ],
+  "publicationStatus": "published"
+}
