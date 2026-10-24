@@ -1,0 +1,1407 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 52,
+  "surahName": "الطور",
+  "ayahCount": 49,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 49,
+    "mappedAyahCount": 49,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "OFi9OG_Opho": {
+      "durationSeconds": 468.62,
+      "bytes": 5624088,
+      "sha256": "df3c299c6cca62f5a74979fbcb8d9f5989a7a7bf5450863dbc8e174bca211783",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-006_OFi9OG_Opho.mp3",
+      "url": "https://www.youtube.com/watch?v=OFi9OG_Opho"
+    },
+    "0u9SQXSfx3Y": {
+      "durationSeconds": 1610.5,
+      "bytes": 19326554,
+      "sha256": "93f78c582efe0fd2a9183ee0bf3bb4d2d4862af2e18e3edffec29b10ad8744e4",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_006-021_0u9SQXSfx3Y.mp3",
+      "url": "https://www.youtube.com/watch?v=0u9SQXSfx3Y"
+    },
+    "VL_VtWtAyhM": {
+      "durationSeconds": 1728.14,
+      "bytes": 20738332,
+      "sha256": "e53a498aef83fb4c32c95240c3da01619efc6a37cf474cd89b288efd874cdf04",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_021-031_VL_VtWtAyhM.mp3",
+      "url": "https://www.youtube.com/watch?v=VL_VtWtAyhM"
+    },
+    "KqCWXUljr6w": {
+      "durationSeconds": 1465.58,
+      "bytes": 17587612,
+      "sha256": "84981c60c74045804524c737742f9e94b8f1de720044f53f69ac08d8b84d457a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_031-049_KqCWXUljr6w.mp3",
+      "url": "https://www.youtube.com/watch?v=KqCWXUljr6w"
+    }
+  },
+  "ayahs": {
+    "52:1": {
+      "file": "052-الطور-youtube-v1/001.mp3",
+      "durationMs": 468620,
+      "bytes": 5624077,
+      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "sharedAyahs": [
+        "52:1",
+        "52:2",
+        "52:3",
+        "52:4",
+        "52:5",
+        "52:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OFi9OG_Opho",
+          "start": 0.0,
+          "end": 468.62
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+    },
+    "52:2": {
+      "file": "052-الطور-youtube-v1/001.mp3",
+      "durationMs": 468620,
+      "bytes": 5624077,
+      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "sharedAyahs": [
+        "52:1",
+        "52:2",
+        "52:3",
+        "52:4",
+        "52:5",
+        "52:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OFi9OG_Opho",
+          "start": 0.0,
+          "end": 468.62
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+    },
+    "52:3": {
+      "file": "052-الطور-youtube-v1/001.mp3",
+      "durationMs": 468620,
+      "bytes": 5624077,
+      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "sharedAyahs": [
+        "52:1",
+        "52:2",
+        "52:3",
+        "52:4",
+        "52:5",
+        "52:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OFi9OG_Opho",
+          "start": 0.0,
+          "end": 468.62
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+    },
+    "52:4": {
+      "file": "052-الطور-youtube-v1/001.mp3",
+      "durationMs": 468620,
+      "bytes": 5624077,
+      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "sharedAyahs": [
+        "52:1",
+        "52:2",
+        "52:3",
+        "52:4",
+        "52:5",
+        "52:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OFi9OG_Opho",
+          "start": 0.0,
+          "end": 468.62
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+    },
+    "52:5": {
+      "file": "052-الطور-youtube-v1/001.mp3",
+      "durationMs": 468620,
+      "bytes": 5624077,
+      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "sharedAyahs": [
+        "52:1",
+        "52:2",
+        "52:3",
+        "52:4",
+        "52:5",
+        "52:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OFi9OG_Opho",
+          "start": 0.0,
+          "end": 468.62
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+    },
+    "52:6": {
+      "file": "052-الطور-youtube-v1/001.mp3",
+      "durationMs": 468620,
+      "bytes": 5624077,
+      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "sharedAyahs": [
+        "52:1",
+        "52:2",
+        "52:3",
+        "52:4",
+        "52:5",
+        "52:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OFi9OG_Opho",
+          "start": 0.0,
+          "end": 468.62
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+    },
+    "52:7": {
+      "file": "052-الطور-youtube-v1/007.mp3",
+      "durationMs": 526030,
+      "bytes": 6312974,
+      "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+      "sharedAyahs": [
+        "52:7",
+        "52:8",
+        "52:9",
+        "52:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 0.0,
+          "end": 526.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 7-10: إن عذاب ربك لواقع ما له من دافع يوم تمور السماء مورا"
+    },
+    "52:8": {
+      "file": "052-الطور-youtube-v1/007.mp3",
+      "durationMs": 526030,
+      "bytes": 6312974,
+      "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+      "sharedAyahs": [
+        "52:7",
+        "52:8",
+        "52:9",
+        "52:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 0.0,
+          "end": 526.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 7-10: إن عذاب ربك لواقع ما له من دافع يوم تمور السماء مورا"
+    },
+    "52:9": {
+      "file": "052-الطور-youtube-v1/007.mp3",
+      "durationMs": 526030,
+      "bytes": 6312974,
+      "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+      "sharedAyahs": [
+        "52:7",
+        "52:8",
+        "52:9",
+        "52:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 0.0,
+          "end": 526.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 7-10: إن عذاب ربك لواقع ما له من دافع يوم تمور السماء مورا"
+    },
+    "52:10": {
+      "file": "052-الطور-youtube-v1/007.mp3",
+      "durationMs": 526030,
+      "bytes": 6312974,
+      "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+      "sharedAyahs": [
+        "52:7",
+        "52:8",
+        "52:9",
+        "52:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 0.0,
+          "end": 526.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 7-10: إن عذاب ربك لواقع ما له من دافع يوم تمور السماء مورا"
+    },
+    "52:11": {
+      "file": "052-الطور-youtube-v1/011.mp3",
+      "durationMs": 324020,
+      "bytes": 3888880,
+      "sha256": "4f4b7380861a85ad34485e7f75e964d38f5174356fb8381cf0d4108c95c1d0b3",
+      "sharedAyahs": [
+        "52:11",
+        "52:12",
+        "52:13",
+        "52:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 526.0,
+          "end": 850.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-14: فويل يومئذ للمكذبين الذين هم في خوض يلعبون"
+    },
+    "52:12": {
+      "file": "052-الطور-youtube-v1/011.mp3",
+      "durationMs": 324020,
+      "bytes": 3888880,
+      "sha256": "4f4b7380861a85ad34485e7f75e964d38f5174356fb8381cf0d4108c95c1d0b3",
+      "sharedAyahs": [
+        "52:11",
+        "52:12",
+        "52:13",
+        "52:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 526.0,
+          "end": 850.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-14: فويل يومئذ للمكذبين الذين هم في خوض يلعبون"
+    },
+    "52:13": {
+      "file": "052-الطور-youtube-v1/011.mp3",
+      "durationMs": 324020,
+      "bytes": 3888880,
+      "sha256": "4f4b7380861a85ad34485e7f75e964d38f5174356fb8381cf0d4108c95c1d0b3",
+      "sharedAyahs": [
+        "52:11",
+        "52:12",
+        "52:13",
+        "52:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 526.0,
+          "end": 850.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-14: فويل يومئذ للمكذبين الذين هم في خوض يلعبون"
+    },
+    "52:14": {
+      "file": "052-الطور-youtube-v1/011.mp3",
+      "durationMs": 324020,
+      "bytes": 3888880,
+      "sha256": "4f4b7380861a85ad34485e7f75e964d38f5174356fb8381cf0d4108c95c1d0b3",
+      "sharedAyahs": [
+        "52:11",
+        "52:12",
+        "52:13",
+        "52:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 526.0,
+          "end": 850.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-14: فويل يومئذ للمكذبين الذين هم في خوض يلعبون"
+    },
+    "52:15": {
+      "file": "052-الطور-youtube-v1/015.mp3",
+      "durationMs": 19030,
+      "bytes": 228976,
+      "sha256": "1e629577447ad91d09ac694d18f50d7255e89411277abf2c2d5d9b6338212efe",
+      "sharedAyahs": [
+        "52:15",
+        "52:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 850.0,
+          "end": 869.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 15-16: أفسحر هذا أم أنتم لا تبصرون اصلوها فاصبروا أو لا تصبروا"
+    },
+    "52:16": {
+      "file": "052-الطور-youtube-v1/015.mp3",
+      "durationMs": 19030,
+      "bytes": 228976,
+      "sha256": "1e629577447ad91d09ac694d18f50d7255e89411277abf2c2d5d9b6338212efe",
+      "sharedAyahs": [
+        "52:15",
+        "52:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 850.0,
+          "end": 869.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 15-16: أفسحر هذا أم أنتم لا تبصرون اصلوها فاصبروا أو لا تصبروا"
+    },
+    "52:17": {
+      "file": "052-الطور-youtube-v1/017.mp3",
+      "durationMs": 337010,
+      "bytes": 4044688,
+      "sha256": "64cc3e2289ab95801435e319401a5ce3ab5889fd2a4389c6df9355b774e7688f",
+      "sharedAyahs": [
+        "52:17",
+        "52:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 869.0,
+          "end": 1206.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 17-18: إن المتقين في جنات ونعيم فاكهين بما آتاهم ربهم"
+    },
+    "52:18": {
+      "file": "052-الطور-youtube-v1/017.mp3",
+      "durationMs": 337010,
+      "bytes": 4044688,
+      "sha256": "64cc3e2289ab95801435e319401a5ce3ab5889fd2a4389c6df9355b774e7688f",
+      "sharedAyahs": [
+        "52:17",
+        "52:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 869.0,
+          "end": 1206.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 17-18: إن المتقين في جنات ونعيم فاكهين بما آتاهم ربهم"
+    },
+    "52:19": {
+      "file": "052-الطور-youtube-v1/019.mp3",
+      "durationMs": 404500,
+      "bytes": 4854544,
+      "sha256": "56e77d812c34c4ba7938ffcf5ebb7a94dc635b585216fcf721098a7fa158206b",
+      "sharedAyahs": [
+        "52:19",
+        "52:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 1206.0,
+          "end": 1610.5
+        }
+      ],
+      "reviewNote": "تفسير الآيات 19-20: كلوا واشربوا هنيئا بما كنتم تعملون متكئين على سرر مصفوفة"
+    },
+    "52:20": {
+      "file": "052-الطور-youtube-v1/019.mp3",
+      "durationMs": 404500,
+      "bytes": 4854544,
+      "sha256": "56e77d812c34c4ba7938ffcf5ebb7a94dc635b585216fcf721098a7fa158206b",
+      "sharedAyahs": [
+        "52:19",
+        "52:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 1206.0,
+          "end": 1610.5
+        }
+      ],
+      "reviewNote": "تفسير الآيات 19-20: كلوا واشربوا هنيئا بما كنتم تعملون متكئين على سرر مصفوفة"
+    },
+    "52:21": {
+      "file": "052-الطور-youtube-v1/021.mp3",
+      "durationMs": 694030,
+      "bytes": 8328976,
+      "sha256": "a7e1b5e2cbfd737de68dc0c48350320399603c80c0902359271a0ca333cc11d7",
+      "sharedAyahs": [
+        "52:21",
+        "52:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 0.0,
+          "end": 694.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-22: والذين آمنوا واتبعتهم ذريتهم بإيمان ألحقنا بهم ذريتهم"
+    },
+    "52:22": {
+      "file": "052-الطور-youtube-v1/021.mp3",
+      "durationMs": 694030,
+      "bytes": 8328976,
+      "sha256": "a7e1b5e2cbfd737de68dc0c48350320399603c80c0902359271a0ca333cc11d7",
+      "sharedAyahs": [
+        "52:21",
+        "52:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 0.0,
+          "end": 694.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-22: والذين آمنوا واتبعتهم ذريتهم بإيمان ألحقنا بهم ذريتهم"
+    },
+    "52:23": {
+      "file": "052-الطور-youtube-v1/023.mp3",
+      "durationMs": 124030,
+      "bytes": 1488976,
+      "sha256": "82c6eac01db581e96204e68ac342b70c0acb3308e1715a9504eb8a7b712e27d2",
+      "sharedAyahs": [
+        "52:23",
+        "52:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 694.0,
+          "end": 818.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-24: يتنازعون فيها كأسا لا لغو فيها ولا تأثيم ويطوف عليهم غلمان لهم"
+    },
+    "52:24": {
+      "file": "052-الطور-youtube-v1/023.mp3",
+      "durationMs": 124030,
+      "bytes": 1488976,
+      "sha256": "82c6eac01db581e96204e68ac342b70c0acb3308e1715a9504eb8a7b712e27d2",
+      "sharedAyahs": [
+        "52:23",
+        "52:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 694.0,
+          "end": 818.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-24: يتنازعون فيها كأسا لا لغو فيها ولا تأثيم ويطوف عليهم غلمان لهم"
+    },
+    "52:25": {
+      "file": "052-الطور-youtube-v1/025.mp3",
+      "durationMs": 229010,
+      "bytes": 2748688,
+      "sha256": "a1479d82ba060242475e60a66ed4a59ce1ce09fd5fa4f9b0ccbc1ad1ece27fbf",
+      "sharedAyahs": [
+        "52:25",
+        "52:26",
+        "52:27",
+        "52:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 818.0,
+          "end": 1047.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-28: وأقبل بعضهم على بعض يتساءلون قالوا إنا كنا قبل في أهلنا مشفقين"
+    },
+    "52:26": {
+      "file": "052-الطور-youtube-v1/025.mp3",
+      "durationMs": 229010,
+      "bytes": 2748688,
+      "sha256": "a1479d82ba060242475e60a66ed4a59ce1ce09fd5fa4f9b0ccbc1ad1ece27fbf",
+      "sharedAyahs": [
+        "52:25",
+        "52:26",
+        "52:27",
+        "52:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 818.0,
+          "end": 1047.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-28: وأقبل بعضهم على بعض يتساءلون قالوا إنا كنا قبل في أهلنا مشفقين"
+    },
+    "52:27": {
+      "file": "052-الطور-youtube-v1/025.mp3",
+      "durationMs": 229010,
+      "bytes": 2748688,
+      "sha256": "a1479d82ba060242475e60a66ed4a59ce1ce09fd5fa4f9b0ccbc1ad1ece27fbf",
+      "sharedAyahs": [
+        "52:25",
+        "52:26",
+        "52:27",
+        "52:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 818.0,
+          "end": 1047.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-28: وأقبل بعضهم على بعض يتساءلون قالوا إنا كنا قبل في أهلنا مشفقين"
+    },
+    "52:28": {
+      "file": "052-الطور-youtube-v1/025.mp3",
+      "durationMs": 229010,
+      "bytes": 2748688,
+      "sha256": "a1479d82ba060242475e60a66ed4a59ce1ce09fd5fa4f9b0ccbc1ad1ece27fbf",
+      "sharedAyahs": [
+        "52:25",
+        "52:26",
+        "52:27",
+        "52:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 818.0,
+          "end": 1047.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-28: وأقبل بعضهم على بعض يتساءلون قالوا إنا كنا قبل في أهلنا مشفقين"
+    },
+    "52:29": {
+      "file": "052-الطور-youtube-v1/029.mp3",
+      "durationMs": 586030,
+      "bytes": 7032971,
+      "sha256": "778185ff5f92f54523fba6e560ec5c27f583ce07e9af4efbffa978f3ec793f79",
+      "sharedAyahs": [
+        "52:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 1047.0,
+          "end": 1633.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 29: فذكر فما أنت بنعمت ربك بكاهن ولا مجنون"
+    },
+    "52:30": {
+      "file": "052-الطور-youtube-v1/030.mp3",
+      "durationMs": 95140,
+      "bytes": 1142224,
+      "sha256": "22cf070ce4e170601b4a979b2f152cb10658eca90771865aefef87d2bd03e3d2",
+      "sharedAyahs": [
+        "52:30",
+        "52:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 1633.0,
+          "end": 1728.14
+        }
+      ],
+      "reviewNote": "تفسير الآيات 30-31: أم يقولون شاعر نتربص به ريب المنون قل تربصوا فإني معكم من المتربصين"
+    },
+    "52:31": {
+      "file": "052-الطور-youtube-v1/030.mp3",
+      "durationMs": 95140,
+      "bytes": 1142224,
+      "sha256": "22cf070ce4e170601b4a979b2f152cb10658eca90771865aefef87d2bd03e3d2",
+      "sharedAyahs": [
+        "52:30",
+        "52:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VL_VtWtAyhM",
+          "start": 1633.0,
+          "end": 1728.14
+        }
+      ],
+      "reviewNote": "تفسير الآيات 30-31: أم يقولون شاعر نتربص به ريب المنون قل تربصوا فإني معكم من المتربصين"
+    },
+    "52:32": {
+      "file": "052-الطور-youtube-v1/032.mp3",
+      "durationMs": 491040,
+      "bytes": 5893072,
+      "sha256": "997f3cafd11df77d7693f5499a64da9f147a2161798fcb3ba940ac000a255813",
+      "sharedAyahs": [
+        "52:32",
+        "52:33",
+        "52:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 0.0,
+          "end": 491.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-34: أم تأمرهم أحلامهم بهذا أم هم قوم طاغون أم يقولون تقوله"
+    },
+    "52:33": {
+      "file": "052-الطور-youtube-v1/032.mp3",
+      "durationMs": 491040,
+      "bytes": 5893072,
+      "sha256": "997f3cafd11df77d7693f5499a64da9f147a2161798fcb3ba940ac000a255813",
+      "sharedAyahs": [
+        "52:32",
+        "52:33",
+        "52:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 0.0,
+          "end": 491.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-34: أم تأمرهم أحلامهم بهذا أم هم قوم طاغون أم يقولون تقوله"
+    },
+    "52:34": {
+      "file": "052-الطور-youtube-v1/032.mp3",
+      "durationMs": 491040,
+      "bytes": 5893072,
+      "sha256": "997f3cafd11df77d7693f5499a64da9f147a2161798fcb3ba940ac000a255813",
+      "sharedAyahs": [
+        "52:32",
+        "52:33",
+        "52:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 0.0,
+          "end": 491.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-34: أم تأمرهم أحلامهم بهذا أم هم قوم طاغون أم يقولون تقوله"
+    },
+    "52:35": {
+      "file": "052-الطور-youtube-v1/035.mp3",
+      "durationMs": 233020,
+      "bytes": 2796784,
+      "sha256": "7f0f5b1d9f22682a280bb71c1fc5fb258509807c10a73c957f0a2bd565814482",
+      "sharedAyahs": [
+        "52:35",
+        "52:36",
+        "52:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 491.0,
+          "end": 724.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 35-37: أم خلقوا من غير شيء أم هم الخالقون أم خلقوا السماوات والأرض"
+    },
+    "52:36": {
+      "file": "052-الطور-youtube-v1/035.mp3",
+      "durationMs": 233020,
+      "bytes": 2796784,
+      "sha256": "7f0f5b1d9f22682a280bb71c1fc5fb258509807c10a73c957f0a2bd565814482",
+      "sharedAyahs": [
+        "52:35",
+        "52:36",
+        "52:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 491.0,
+          "end": 724.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 35-37: أم خلقوا من غير شيء أم هم الخالقون أم خلقوا السماوات والأرض"
+    },
+    "52:37": {
+      "file": "052-الطور-youtube-v1/035.mp3",
+      "durationMs": 233020,
+      "bytes": 2796784,
+      "sha256": "7f0f5b1d9f22682a280bb71c1fc5fb258509807c10a73c957f0a2bd565814482",
+      "sharedAyahs": [
+        "52:35",
+        "52:36",
+        "52:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 491.0,
+          "end": 724.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 35-37: أم خلقوا من غير شيء أم هم الخالقون أم خلقوا السماوات والأرض"
+    },
+    "52:38": {
+      "file": "052-الطور-youtube-v1/038.mp3",
+      "durationMs": 343030,
+      "bytes": 4116976,
+      "sha256": "954da7fa3bba762ec79de995dadd31fcb8275795c40752e02882e8f040dc4192",
+      "sharedAyahs": [
+        "52:38",
+        "52:39",
+        "52:40",
+        "52:41",
+        "52:42",
+        "52:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 724.0,
+          "end": 1067.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-43: أم لهم سلم يستمعون فيه... أم لهم إله غير الله سبحان الله عما يشركون"
+    },
+    "52:39": {
+      "file": "052-الطور-youtube-v1/038.mp3",
+      "durationMs": 343030,
+      "bytes": 4116976,
+      "sha256": "954da7fa3bba762ec79de995dadd31fcb8275795c40752e02882e8f040dc4192",
+      "sharedAyahs": [
+        "52:38",
+        "52:39",
+        "52:40",
+        "52:41",
+        "52:42",
+        "52:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 724.0,
+          "end": 1067.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-43: أم لهم سلم يستمعون فيه... أم لهم إله غير الله سبحان الله عما يشركون"
+    },
+    "52:40": {
+      "file": "052-الطور-youtube-v1/038.mp3",
+      "durationMs": 343030,
+      "bytes": 4116976,
+      "sha256": "954da7fa3bba762ec79de995dadd31fcb8275795c40752e02882e8f040dc4192",
+      "sharedAyahs": [
+        "52:38",
+        "52:39",
+        "52:40",
+        "52:41",
+        "52:42",
+        "52:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 724.0,
+          "end": 1067.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-43: أم لهم سلم يستمعون فيه... أم لهم إله غير الله سبحان الله عما يشركون"
+    },
+    "52:41": {
+      "file": "052-الطور-youtube-v1/038.mp3",
+      "durationMs": 343030,
+      "bytes": 4116976,
+      "sha256": "954da7fa3bba762ec79de995dadd31fcb8275795c40752e02882e8f040dc4192",
+      "sharedAyahs": [
+        "52:38",
+        "52:39",
+        "52:40",
+        "52:41",
+        "52:42",
+        "52:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 724.0,
+          "end": 1067.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-43: أم لهم سلم يستمعون فيه... أم لهم إله غير الله سبحان الله عما يشركون"
+    },
+    "52:42": {
+      "file": "052-الطور-youtube-v1/038.mp3",
+      "durationMs": 343030,
+      "bytes": 4116976,
+      "sha256": "954da7fa3bba762ec79de995dadd31fcb8275795c40752e02882e8f040dc4192",
+      "sharedAyahs": [
+        "52:38",
+        "52:39",
+        "52:40",
+        "52:41",
+        "52:42",
+        "52:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 724.0,
+          "end": 1067.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-43: أم لهم سلم يستمعون فيه... أم لهم إله غير الله سبحان الله عما يشركون"
+    },
+    "52:43": {
+      "file": "052-الطور-youtube-v1/038.mp3",
+      "durationMs": 343030,
+      "bytes": 4116976,
+      "sha256": "954da7fa3bba762ec79de995dadd31fcb8275795c40752e02882e8f040dc4192",
+      "sharedAyahs": [
+        "52:38",
+        "52:39",
+        "52:40",
+        "52:41",
+        "52:42",
+        "52:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 724.0,
+          "end": 1067.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-43: أم لهم سلم يستمعون فيه... أم لهم إله غير الله سبحان الله عما يشركون"
+    },
+    "52:44": {
+      "file": "052-الطور-youtube-v1/044.mp3",
+      "durationMs": 188020,
+      "bytes": 2256784,
+      "sha256": "dd608af3f01ff744a947a30dd71adbbb244318455d553330db9f3c8b02dc276e",
+      "sharedAyahs": [
+        "52:44",
+        "52:45",
+        "52:46",
+        "52:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 1067.0,
+          "end": 1255.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 44-47: وإن يروا كسفا من السماء ساقطا يقولوا سحاب مركوم"
+    },
+    "52:45": {
+      "file": "052-الطور-youtube-v1/044.mp3",
+      "durationMs": 188020,
+      "bytes": 2256784,
+      "sha256": "dd608af3f01ff744a947a30dd71adbbb244318455d553330db9f3c8b02dc276e",
+      "sharedAyahs": [
+        "52:44",
+        "52:45",
+        "52:46",
+        "52:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 1067.0,
+          "end": 1255.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 44-47: وإن يروا كسفا من السماء ساقطا يقولوا سحاب مركوم"
+    },
+    "52:46": {
+      "file": "052-الطور-youtube-v1/044.mp3",
+      "durationMs": 188020,
+      "bytes": 2256784,
+      "sha256": "dd608af3f01ff744a947a30dd71adbbb244318455d553330db9f3c8b02dc276e",
+      "sharedAyahs": [
+        "52:44",
+        "52:45",
+        "52:46",
+        "52:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 1067.0,
+          "end": 1255.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 44-47: وإن يروا كسفا من السماء ساقطا يقولوا سحاب مركوم"
+    },
+    "52:47": {
+      "file": "052-الطور-youtube-v1/044.mp3",
+      "durationMs": 188020,
+      "bytes": 2256784,
+      "sha256": "dd608af3f01ff744a947a30dd71adbbb244318455d553330db9f3c8b02dc276e",
+      "sharedAyahs": [
+        "52:44",
+        "52:45",
+        "52:46",
+        "52:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 1067.0,
+          "end": 1255.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 44-47: وإن يروا كسفا من السماء ساقطا يقولوا سحاب مركوم"
+    },
+    "52:48": {
+      "file": "052-الطور-youtube-v1/048.mp3",
+      "durationMs": 210580,
+      "bytes": 2527504,
+      "sha256": "a8dcba9b6ec341eac36d610611b8d04cb8e70264408947788d9cd787e4854f98",
+      "sharedAyahs": [
+        "52:48",
+        "52:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 1255.0,
+          "end": 1465.58
+        }
+      ],
+      "reviewNote": "تفسير الآيات 48-49: واصبر لحكم ربك فإنك بأعيننا وسبح بحمد ربك حين تقوم ومن الليل فسبحه وإدبار النجوم"
+    },
+    "52:49": {
+      "file": "052-الطور-youtube-v1/048.mp3",
+      "durationMs": 210580,
+      "bytes": 2527504,
+      "sha256": "a8dcba9b6ec341eac36d610611b8d04cb8e70264408947788d9cd787e4854f98",
+      "sharedAyahs": [
+        "52:48",
+        "52:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KqCWXUljr6w",
+          "start": 1255.0,
+          "end": 1465.58
+        }
+      ],
+      "reviewNote": "تفسير الآيات 48-49: واصبر لحكم ربك فإنك بأعيننا وسبح بحمد ربك حين تقوم ومن الليل فسبحه وإدبار النجوم"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9C4FEF08F9D26399",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "tur-divine-oaths-and-day-of-judgment",
+      "title": "أقسام القرآن بالطور والبيت المعمور وحتمية وقوع الجزاء",
+      "file": "052-الطور-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 468620
+    },
+    {
+      "id": "tur-believers-and-reunion-with-offspring",
+      "title": "إلحاق الذرية بالآباء في الجنة وإكرام المؤمنين بنعيم الرضوان",
+      "file": "052-الطور-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 694000
+    },
+    {
+      "id": "tur-rational-arguments-against-atheism",
+      "title": "البراهين العقلية الحاسمة: أم خلقوا من غير شيء أم هم الخالقون",
+      "file": "052-الطور-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 233000
+    },
+    {
+      "id": "tur-divine-protection-and-patience",
+      "title": "واصبر لحكم ربك فإنك بأعيننا وسبح بحمد ربك",
+      "file": "052-الطور-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 210579
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "OFi9OG_Opho",
+      "0u9SQXSfx3Y",
+      "VL_VtWtAyhM",
+      "KqCWXUljr6w"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "052-الطور-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 468620,
+        "durationMs": 468620,
+        "recordingDurationMs": 468620,
+        "bytes": 5624077,
+        "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+        "sharedAyahs": [
+          "52:1",
+          "52:2",
+          "52:3",
+          "52:4",
+          "52:5",
+          "52:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OFi9OG_Opho",
+            "start": 0.0,
+            "end": 468.62
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 526030,
+        "durationMs": 526030,
+        "recordingDurationMs": 526030,
+        "bytes": 6312974,
+        "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+        "sharedAyahs": [
+          "52:7",
+          "52:8",
+          "52:9",
+          "52:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0u9SQXSfx3Y",
+            "start": 0.0,
+            "end": 526.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 324020,
+        "durationMs": 324020,
+        "recordingDurationMs": 324020,
+        "bytes": 3888880,
+        "sha256": "4f4b7380861a85ad34485e7f75e964d38f5174356fb8381cf0d4108c95c1d0b3",
+        "sharedAyahs": [
+          "52:11",
+          "52:12",
+          "52:13",
+          "52:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0u9SQXSfx3Y",
+            "start": 526.0,
+            "end": 850.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 19030,
+        "durationMs": 19030,
+        "recordingDurationMs": 19030,
+        "bytes": 228976,
+        "sha256": "1e629577447ad91d09ac694d18f50d7255e89411277abf2c2d5d9b6338212efe",
+        "sharedAyahs": [
+          "52:15",
+          "52:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0u9SQXSfx3Y",
+            "start": 850.0,
+            "end": 869.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 337010,
+        "durationMs": 337010,
+        "recordingDurationMs": 337010,
+        "bytes": 4044688,
+        "sha256": "64cc3e2289ab95801435e319401a5ce3ab5889fd2a4389c6df9355b774e7688f",
+        "sharedAyahs": [
+          "52:17",
+          "52:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0u9SQXSfx3Y",
+            "start": 869.0,
+            "end": 1206.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 404500,
+        "durationMs": 404500,
+        "recordingDurationMs": 404500,
+        "bytes": 4854544,
+        "sha256": "56e77d812c34c4ba7938ffcf5ebb7a94dc635b585216fcf721098a7fa158206b",
+        "sharedAyahs": [
+          "52:19",
+          "52:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0u9SQXSfx3Y",
+            "start": 1206.0,
+            "end": 1610.5
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 694030,
+        "durationMs": 694030,
+        "recordingDurationMs": 694030,
+        "bytes": 8328976,
+        "sha256": "a7e1b5e2cbfd737de68dc0c48350320399603c80c0902359271a0ca333cc11d7",
+        "sharedAyahs": [
+          "52:21",
+          "52:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VL_VtWtAyhM",
+            "start": 0.0,
+            "end": 694.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 124030,
+        "durationMs": 124030,
+        "recordingDurationMs": 124030,
+        "bytes": 1488976,
+        "sha256": "82c6eac01db581e96204e68ac342b70c0acb3308e1715a9504eb8a7b712e27d2",
+        "sharedAyahs": [
+          "52:23",
+          "52:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VL_VtWtAyhM",
+            "start": 694.0,
+            "end": 818.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 229010,
+        "durationMs": 229010,
+        "recordingDurationMs": 229010,
+        "bytes": 2748688,
+        "sha256": "a1479d82ba060242475e60a66ed4a59ce1ce09fd5fa4f9b0ccbc1ad1ece27fbf",
+        "sharedAyahs": [
+          "52:25",
+          "52:26",
+          "52:27",
+          "52:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VL_VtWtAyhM",
+            "start": 818.0,
+            "end": 1047.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 586030,
+        "durationMs": 586030,
+        "recordingDurationMs": 586030,
+        "bytes": 7032971,
+        "sha256": "778185ff5f92f54523fba6e560ec5c27f583ce07e9af4efbffa978f3ec793f79",
+        "sharedAyahs": [
+          "52:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VL_VtWtAyhM",
+            "start": 1047.0,
+            "end": 1633.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 95140,
+        "durationMs": 95140,
+        "recordingDurationMs": 95140,
+        "bytes": 1142224,
+        "sha256": "22cf070ce4e170601b4a979b2f152cb10658eca90771865aefef87d2bd03e3d2",
+        "sharedAyahs": [
+          "52:30",
+          "52:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VL_VtWtAyhM",
+            "start": 1633.0,
+            "end": 1728.14
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 491040,
+        "durationMs": 491040,
+        "recordingDurationMs": 491040,
+        "bytes": 5893072,
+        "sha256": "997f3cafd11df77d7693f5499a64da9f147a2161798fcb3ba940ac000a255813",
+        "sharedAyahs": [
+          "52:32",
+          "52:33",
+          "52:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KqCWXUljr6w",
+            "start": 0.0,
+            "end": 491.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 233020,
+        "durationMs": 233020,
+        "recordingDurationMs": 233020,
+        "bytes": 2796784,
+        "sha256": "7f0f5b1d9f22682a280bb71c1fc5fb258509807c10a73c957f0a2bd565814482",
+        "sharedAyahs": [
+          "52:35",
+          "52:36",
+          "52:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KqCWXUljr6w",
+            "start": 491.0,
+            "end": 724.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 343030,
+        "durationMs": 343030,
+        "recordingDurationMs": 343030,
+        "bytes": 4116976,
+        "sha256": "954da7fa3bba762ec79de995dadd31fcb8275795c40752e02882e8f040dc4192",
+        "sharedAyahs": [
+          "52:38",
+          "52:39",
+          "52:40",
+          "52:41",
+          "52:42",
+          "52:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KqCWXUljr6w",
+            "start": 724.0,
+            "end": 1067.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 188020,
+        "durationMs": 188020,
+        "recordingDurationMs": 188020,
+        "bytes": 2256784,
+        "sha256": "dd608af3f01ff744a947a30dd71adbbb244318455d553330db9f3c8b02dc276e",
+        "sharedAyahs": [
+          "52:44",
+          "52:45",
+          "52:46",
+          "52:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KqCWXUljr6w",
+            "start": 1067.0,
+            "end": 1255.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 210580,
+        "durationMs": 210580,
+        "recordingDurationMs": 210580,
+        "bytes": 2527504,
+        "sha256": "a8dcba9b6ec341eac36d610611b8d04cb8e70264408947788d9cd787e4854f98",
+        "sharedAyahs": [
+          "52:48",
+          "52:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KqCWXUljr6w",
+            "start": 1255.0,
+            "end": 1465.58
+          }
+        ]
+      }
+    ],
+    "durationMs": 5273140,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
