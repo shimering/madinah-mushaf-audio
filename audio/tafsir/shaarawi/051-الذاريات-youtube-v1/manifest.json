@@ -1,0 +1,1982 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 51,
+  "surahName": "الذاريات",
+  "ayahCount": 60,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 60,
+    "mappedAyahCount": 60,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "mEV_VVLAv1Q": {
+      "durationSeconds": 1028.06,
+      "bytes": 12337382,
+      "sha256": "6aee7f1510a965b2f5d65c515222d315dec53e600409ba30ab996f592e80dc7e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-012_mEV_VVLAv1Q.mp3",
+      "url": "https://www.youtube.com/watch?v=mEV_VVLAv1Q"
+    },
+    "ZfwzuRmd11M": {
+      "durationSeconds": 2693.81,
+      "bytes": 32326312,
+      "sha256": "d6c85740c5dc6de03bb1611e86267552b5a7b06c862a1a6464f38370764e8361",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_012-020_ZfwzuRmd11M.mp3",
+      "url": "https://www.youtube.com/watch?v=ZfwzuRmd11M"
+    },
+    "vxwRSy0DLn8": {
+      "durationSeconds": 2552.21,
+      "bytes": 30627112,
+      "sha256": "a8f652ab927112e0af3c41c0735b7b7e73556b6f7b7f79856a10eed33d3ed84a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_020-030_vxwRSy0DLn8.mp3",
+      "url": "https://www.youtube.com/watch?v=vxwRSy0DLn8"
+    },
+    "lz3_BnJ6uJs": {
+      "durationSeconds": 2595.53,
+      "bytes": 31146952,
+      "sha256": "e16a245f29a390f3a1da7c88acc7fe0447abec920abdc3fe3e9082b5163de327",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_031-041_lz3_BnJ6uJs.mp3",
+      "url": "https://www.youtube.com/watch?v=lz3_BnJ6uJs"
+    },
+    "7DkC6cqPW3s": {
+      "durationSeconds": 2500.87,
+      "bytes": 30011080,
+      "sha256": "7b16a003fb764d0b98ba560924237c33803d688ea2c427e0a7241ffbd5ccefc8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_041-056_7DkC6cqPW3s.mp3",
+      "url": "https://www.youtube.com/watch?v=7DkC6cqPW3s"
+    },
+    "aWBvihsnb9E": {
+      "durationSeconds": 1238.33,
+      "bytes": 14860552,
+      "sha256": "add5bdf07b0a56ecf89d76fdc6e7f4ef03246ceb188eaa3cf1049f80050af8e8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_056-060_aWBvihsnb9E.mp3",
+      "url": "https://www.youtube.com/watch?v=aWBvihsnb9E"
+    }
+  },
+  "ayahs": {
+    "51:1": {
+      "file": "051-الذاريات-youtube-v1/001.mp3",
+      "durationMs": 650040,
+      "bytes": 7801081,
+      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "sharedAyahs": [
+        "51:1",
+        "51:2",
+        "51:3",
+        "51:4",
+        "51:5",
+        "51:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 0.0,
+          "end": 650.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والذاريات ذروا فالحاملات وقرا إنما توعدون لصادق"
+    },
+    "51:2": {
+      "file": "051-الذاريات-youtube-v1/001.mp3",
+      "durationMs": 650040,
+      "bytes": 7801081,
+      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "sharedAyahs": [
+        "51:1",
+        "51:2",
+        "51:3",
+        "51:4",
+        "51:5",
+        "51:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 0.0,
+          "end": 650.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والذاريات ذروا فالحاملات وقرا إنما توعدون لصادق"
+    },
+    "51:3": {
+      "file": "051-الذاريات-youtube-v1/001.mp3",
+      "durationMs": 650040,
+      "bytes": 7801081,
+      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "sharedAyahs": [
+        "51:1",
+        "51:2",
+        "51:3",
+        "51:4",
+        "51:5",
+        "51:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 0.0,
+          "end": 650.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والذاريات ذروا فالحاملات وقرا إنما توعدون لصادق"
+    },
+    "51:4": {
+      "file": "051-الذاريات-youtube-v1/001.mp3",
+      "durationMs": 650040,
+      "bytes": 7801081,
+      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "sharedAyahs": [
+        "51:1",
+        "51:2",
+        "51:3",
+        "51:4",
+        "51:5",
+        "51:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 0.0,
+          "end": 650.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والذاريات ذروا فالحاملات وقرا إنما توعدون لصادق"
+    },
+    "51:5": {
+      "file": "051-الذاريات-youtube-v1/001.mp3",
+      "durationMs": 650040,
+      "bytes": 7801081,
+      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "sharedAyahs": [
+        "51:1",
+        "51:2",
+        "51:3",
+        "51:4",
+        "51:5",
+        "51:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 0.0,
+          "end": 650.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والذاريات ذروا فالحاملات وقرا إنما توعدون لصادق"
+    },
+    "51:6": {
+      "file": "051-الذاريات-youtube-v1/001.mp3",
+      "durationMs": 650040,
+      "bytes": 7801081,
+      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "sharedAyahs": [
+        "51:1",
+        "51:2",
+        "51:3",
+        "51:4",
+        "51:5",
+        "51:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 0.0,
+          "end": 650.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-6: والذاريات ذروا فالحاملات وقرا إنما توعدون لصادق"
+    },
+    "51:7": {
+      "file": "051-الذاريات-youtube-v1/007.mp3",
+      "durationMs": 59020,
+      "bytes": 708789,
+      "sha256": "a1479dbadce71880c3960a4adf16085419f01099ff110ac99da6edbd1d704ac6",
+      "sharedAyahs": [
+        "51:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 650.0,
+          "end": 709.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: والسماء ذات الحبك"
+    },
+    "51:8": {
+      "file": "051-الذاريات-youtube-v1/008.mp3",
+      "durationMs": 84020,
+      "bytes": 1008885,
+      "sha256": "93d3fcc672642b3b48c2bb91913142c3bbdf1d003e74a646321645fa984d3c70",
+      "sharedAyahs": [
+        "51:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 709.0,
+          "end": 793.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: إنكم لفي قول مختلف"
+    },
+    "51:9": {
+      "file": "051-الذاريات-youtube-v1/009.mp3",
+      "durationMs": 75020,
+      "bytes": 900885,
+      "sha256": "d0c602cb77af79e234f950e4bcc6a44f9669cbe52d0d961417d2b3b6dbb243c4",
+      "sharedAyahs": [
+        "51:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 793.0,
+          "end": 868.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: يؤفك عنه من أفك"
+    },
+    "51:10": {
+      "file": "051-الذاريات-youtube-v1/010.mp3",
+      "durationMs": 74020,
+      "bytes": 888796,
+      "sha256": "a0885086e10bada2a809a562f7cfcb9fd869ee2a03b31dfa37cdf9c9bb43f83d",
+      "sharedAyahs": [
+        "51:10",
+        "51:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 868.0,
+          "end": 942.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 10-11: قتل الخراصون الذين هم في غمرة ساهون"
+    },
+    "51:11": {
+      "file": "051-الذاريات-youtube-v1/010.mp3",
+      "durationMs": 74020,
+      "bytes": 888796,
+      "sha256": "a0885086e10bada2a809a562f7cfcb9fd869ee2a03b31dfa37cdf9c9bb43f83d",
+      "sharedAyahs": [
+        "51:10",
+        "51:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 868.0,
+          "end": 942.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 10-11: قتل الخراصون الذين هم في غمرة ساهون"
+    },
+    "51:12": {
+      "file": "051-الذاريات-youtube-v1/012.mp3",
+      "durationMs": 86060,
+      "bytes": 1033367,
+      "sha256": "c286ac7a89416fa7452671c736d96bec4b6fcefe260c61725b14a3305b23eabe",
+      "sharedAyahs": [
+        "51:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mEV_VVLAv1Q",
+          "start": 942.0,
+          "end": 1028.06
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: يسألون أيان يوم الدين"
+    },
+    "51:13": {
+      "file": "051-الذاريات-youtube-v1/013.mp3",
+      "durationMs": 247030,
+      "bytes": 2964988,
+      "sha256": "3d72cbb2efda054814ce26cda0055c069d8ec1482a63067bc5afc2553e56f470",
+      "sharedAyahs": [
+        "51:13",
+        "51:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZfwzuRmd11M",
+          "start": 0.0,
+          "end": 247.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-14: يوم هم على النار يفتنون ذوقوا فتنتكم"
+    },
+    "51:14": {
+      "file": "051-الذاريات-youtube-v1/013.mp3",
+      "durationMs": 247030,
+      "bytes": 2964988,
+      "sha256": "3d72cbb2efda054814ce26cda0055c069d8ec1482a63067bc5afc2553e56f470",
+      "sharedAyahs": [
+        "51:13",
+        "51:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZfwzuRmd11M",
+          "start": 0.0,
+          "end": 247.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-14: يوم هم على النار يفتنون ذوقوا فتنتكم"
+    },
+    "51:15": {
+      "file": "051-الذاريات-youtube-v1/015.mp3",
+      "durationMs": 827020,
+      "bytes": 9924791,
+      "sha256": "871253fb81b196ecc903be34b9a996064ea08e618651ce90718bec54a34b95f0",
+      "sharedAyahs": [
+        "51:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZfwzuRmd11M",
+          "start": 247.0,
+          "end": 1074.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: إن المتقين في جنات وعيون"
+    },
+    "51:16": {
+      "file": "051-الذاريات-youtube-v1/016.mp3",
+      "durationMs": 275040,
+      "bytes": 3301079,
+      "sha256": "d7a584aeb0de57f08593314e166a45db86d7577e8ba1c35693f8128f069f5157",
+      "sharedAyahs": [
+        "51:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZfwzuRmd11M",
+          "start": 1074.0,
+          "end": 1349.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: آخذين ما آتاهم ربهم إنهم كانوا قبل ذلك محسنين"
+    },
+    "51:17": {
+      "file": "051-الذاريات-youtube-v1/017.mp3",
+      "durationMs": 237020,
+      "bytes": 2844887,
+      "sha256": "1244d5f8e47ce927dfd82e46366c6e2357f7fc34289b120a88c63b9178e85581",
+      "sharedAyahs": [
+        "51:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZfwzuRmd11M",
+          "start": 1349.0,
+          "end": 1586.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 17: كانوا قليلا من الليل ما يهجعون"
+    },
+    "51:18": {
+      "file": "051-الذاريات-youtube-v1/018.mp3",
+      "durationMs": 36020,
+      "bytes": 432887,
+      "sha256": "e151e0ebd0ab0fa1e79cadc0c9c72f2c30e0e7871c5ba5bfc5af7996e2c0549c",
+      "sharedAyahs": [
+        "51:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZfwzuRmd11M",
+          "start": 1586.0,
+          "end": 1622.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 18: وبالأسحار هم يستغفرون"
+    },
+    "51:19": {
+      "file": "051-الذاريات-youtube-v1/019.mp3",
+      "durationMs": 855020,
+      "bytes": 10260887,
+      "sha256": "d3f78b4119ad1d687f8bd12131095063ee1792d09d0ad64826d007b211a192b0",
+      "sharedAyahs": [
+        "51:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZfwzuRmd11M",
+          "start": 1622.0,
+          "end": 2477.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: وفي أموالهم حق للسائل والمحروم"
+    },
+    "51:20": {
+      "file": "051-الذاريات-youtube-v1/020.mp3",
+      "durationMs": 1148040,
+      "bytes": 13777079,
+      "sha256": "c83f8b92077fd6fcf6e9f6bfc4195f03def54374f495b403160af13533deefe7",
+      "sharedAyahs": [
+        "51:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 0.0,
+          "end": 1148.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: وفي الأرض آيات للموقنين"
+    },
+    "51:21": {
+      "file": "051-الذاريات-youtube-v1/021.mp3",
+      "durationMs": 367010,
+      "bytes": 4404700,
+      "sha256": "7ec6b022bfd919a3e2e12b214b049895d20e77ffe817ede320118b3c5457ffb7",
+      "sharedAyahs": [
+        "51:21",
+        "51:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 1148.0,
+          "end": 1515.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-22: وفي أنفسكم أفلا تبصرون وفي السماء رزقكم وما توعدون"
+    },
+    "51:22": {
+      "file": "051-الذاريات-youtube-v1/021.mp3",
+      "durationMs": 367010,
+      "bytes": 4404700,
+      "sha256": "7ec6b022bfd919a3e2e12b214b049895d20e77ffe817ede320118b3c5457ffb7",
+      "sharedAyahs": [
+        "51:21",
+        "51:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 1148.0,
+          "end": 1515.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-22: وفي أنفسكم أفلا تبصرون وفي السماء رزقكم وما توعدون"
+    },
+    "51:23": {
+      "file": "051-الذاريات-youtube-v1/023.mp3",
+      "durationMs": 111020,
+      "bytes": 1332887,
+      "sha256": "5ec5ccac61b4f4e8226100e8679d1040649bc7c9795ed0eb74ba78f1e32bc22d",
+      "sharedAyahs": [
+        "51:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 1515.0,
+          "end": 1626.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 23: فورب السماء والأرض إنه لحق مثل ما أنكم تنطقون"
+    },
+    "51:24": {
+      "file": "051-الذاريات-youtube-v1/024.mp3",
+      "durationMs": 621020,
+      "bytes": 7452887,
+      "sha256": "4893fb12f013ae9d01779c391f4c5da9ff9f84aa2febb41099ed1700808c7e0b",
+      "sharedAyahs": [
+        "51:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 1626.0,
+          "end": 2247.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 24: هل أتاك حديث ضيف إبراهيم المكرمين"
+    },
+    "51:25": {
+      "file": "051-الذاريات-youtube-v1/025.mp3",
+      "durationMs": 143040,
+      "bytes": 1717084,
+      "sha256": "d9e89576437e74296dbf359382815763acf2321ee66aba6d67c6276b65de116c",
+      "sharedAyahs": [
+        "51:25",
+        "51:26",
+        "51:27",
+        "51:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 2247.0,
+          "end": 2390.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-28: إذ دخلوا عليه فقالوا سلاما... وبشروه بغلام عليم"
+    },
+    "51:26": {
+      "file": "051-الذاريات-youtube-v1/025.mp3",
+      "durationMs": 143040,
+      "bytes": 1717084,
+      "sha256": "d9e89576437e74296dbf359382815763acf2321ee66aba6d67c6276b65de116c",
+      "sharedAyahs": [
+        "51:25",
+        "51:26",
+        "51:27",
+        "51:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 2247.0,
+          "end": 2390.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-28: إذ دخلوا عليه فقالوا سلاما... وبشروه بغلام عليم"
+    },
+    "51:27": {
+      "file": "051-الذاريات-youtube-v1/025.mp3",
+      "durationMs": 143040,
+      "bytes": 1717084,
+      "sha256": "d9e89576437e74296dbf359382815763acf2321ee66aba6d67c6276b65de116c",
+      "sharedAyahs": [
+        "51:25",
+        "51:26",
+        "51:27",
+        "51:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 2247.0,
+          "end": 2390.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-28: إذ دخلوا عليه فقالوا سلاما... وبشروه بغلام عليم"
+    },
+    "51:28": {
+      "file": "051-الذاريات-youtube-v1/025.mp3",
+      "durationMs": 143040,
+      "bytes": 1717084,
+      "sha256": "d9e89576437e74296dbf359382815763acf2321ee66aba6d67c6276b65de116c",
+      "sharedAyahs": [
+        "51:25",
+        "51:26",
+        "51:27",
+        "51:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 2247.0,
+          "end": 2390.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-28: إذ دخلوا عليه فقالوا سلاما... وبشروه بغلام عليم"
+    },
+    "51:29": {
+      "file": "051-الذاريات-youtube-v1/029.mp3",
+      "durationMs": 27020,
+      "bytes": 324887,
+      "sha256": "94b72a44b46363b9fbd34dc505a8b5a476e55d483563eb88a26643d7d08cc4d5",
+      "sharedAyahs": [
+        "51:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 2390.0,
+          "end": 2417.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 29: فأقبلت امرأته في صرة فصكت وجهها وقالت عجوز عقيم"
+    },
+    "51:30": {
+      "file": "051-الذاريات-youtube-v1/030.mp3",
+      "durationMs": 135190,
+      "bytes": 1622903,
+      "sha256": "7c5d390a8ecc885d3a10cce667794fcd05089aeb674837eac06471816fbba3cd",
+      "sharedAyahs": [
+        "51:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vxwRSy0DLn8",
+          "start": 2417.0,
+          "end": 2552.21
+        }
+      ],
+      "reviewNote": "تفسير الآية 30: قالوا كذلك قال ربك إنه هو الحكيم العليم"
+    },
+    "51:31": {
+      "file": "051-الذاريات-youtube-v1/031.mp3",
+      "durationMs": 284040,
+      "bytes": 3409079,
+      "sha256": "82dfce39eb2df5979258cec0927f2e93cee139d4a3f29d74aefdaf1383567794",
+      "sharedAyahs": [
+        "51:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 0.0,
+          "end": 284.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 31: قال فما خطبكم أيها المرسلون"
+    },
+    "51:32": {
+      "file": "051-الذاريات-youtube-v1/032.mp3",
+      "durationMs": 665020,
+      "bytes": 7980796,
+      "sha256": "6c8c7f9fb6094c79a71de70eb65243da1fe817fdd883f455b5bef7e1b9b3d28f",
+      "sharedAyahs": [
+        "51:32",
+        "51:33",
+        "51:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 284.0,
+          "end": 949.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-34: قالوا إنا أرسلنا إلى قوم مجرمين"
+    },
+    "51:33": {
+      "file": "051-الذاريات-youtube-v1/032.mp3",
+      "durationMs": 665020,
+      "bytes": 7980796,
+      "sha256": "6c8c7f9fb6094c79a71de70eb65243da1fe817fdd883f455b5bef7e1b9b3d28f",
+      "sharedAyahs": [
+        "51:32",
+        "51:33",
+        "51:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 284.0,
+          "end": 949.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-34: قالوا إنا أرسلنا إلى قوم مجرمين"
+    },
+    "51:34": {
+      "file": "051-الذاريات-youtube-v1/032.mp3",
+      "durationMs": 665020,
+      "bytes": 7980796,
+      "sha256": "6c8c7f9fb6094c79a71de70eb65243da1fe817fdd883f455b5bef7e1b9b3d28f",
+      "sharedAyahs": [
+        "51:32",
+        "51:33",
+        "51:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 284.0,
+          "end": 949.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-34: قالوا إنا أرسلنا إلى قوم مجرمين"
+    },
+    "51:35": {
+      "file": "051-الذاريات-youtube-v1/035.mp3",
+      "durationMs": 622030,
+      "bytes": 7464988,
+      "sha256": "cdbc5d3c4943b19386670b4988b1928055b4bdae19933c617b30cf10d12b2d2d",
+      "sharedAyahs": [
+        "51:35",
+        "51:36",
+        "51:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 949.0,
+          "end": 1571.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 35-37: فأخرجنا من كان فيها من المؤمنين"
+    },
+    "51:36": {
+      "file": "051-الذاريات-youtube-v1/035.mp3",
+      "durationMs": 622030,
+      "bytes": 7464988,
+      "sha256": "cdbc5d3c4943b19386670b4988b1928055b4bdae19933c617b30cf10d12b2d2d",
+      "sharedAyahs": [
+        "51:35",
+        "51:36",
+        "51:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 949.0,
+          "end": 1571.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 35-37: فأخرجنا من كان فيها من المؤمنين"
+    },
+    "51:37": {
+      "file": "051-الذاريات-youtube-v1/035.mp3",
+      "durationMs": 622030,
+      "bytes": 7464988,
+      "sha256": "cdbc5d3c4943b19386670b4988b1928055b4bdae19933c617b30cf10d12b2d2d",
+      "sharedAyahs": [
+        "51:35",
+        "51:36",
+        "51:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 949.0,
+          "end": 1571.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 35-37: فأخرجنا من كان فيها من المؤمنين"
+    },
+    "51:38": {
+      "file": "051-الذاريات-youtube-v1/038.mp3",
+      "durationMs": 613010,
+      "bytes": 7356700,
+      "sha256": "5d8da76d9565762c321452e52e1fc40bf79e4e42935bfa05146ebd4d8974b86d",
+      "sharedAyahs": [
+        "51:38",
+        "51:39",
+        "51:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 1571.0,
+          "end": 2184.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-40: وفي موسى إذ أرسلناه إلى فرعون بسلطان مبين"
+    },
+    "51:39": {
+      "file": "051-الذاريات-youtube-v1/038.mp3",
+      "durationMs": 613010,
+      "bytes": 7356700,
+      "sha256": "5d8da76d9565762c321452e52e1fc40bf79e4e42935bfa05146ebd4d8974b86d",
+      "sharedAyahs": [
+        "51:38",
+        "51:39",
+        "51:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 1571.0,
+          "end": 2184.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-40: وفي موسى إذ أرسلناه إلى فرعون بسلطان مبين"
+    },
+    "51:40": {
+      "file": "051-الذاريات-youtube-v1/038.mp3",
+      "durationMs": 613010,
+      "bytes": 7356700,
+      "sha256": "5d8da76d9565762c321452e52e1fc40bf79e4e42935bfa05146ebd4d8974b86d",
+      "sharedAyahs": [
+        "51:38",
+        "51:39",
+        "51:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 1571.0,
+          "end": 2184.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-40: وفي موسى إذ أرسلناه إلى فرعون بسلطان مبين"
+    },
+    "51:41": {
+      "file": "051-الذاريات-youtube-v1/041.mp3",
+      "durationMs": 470040,
+      "bytes": 5641084,
+      "sha256": "8250949bb9d4e0b5ef6e94576a9d4768b61ba7007c6dbe667a38736bdd15d35c",
+      "sharedAyahs": [
+        "51:41",
+        "51:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 0.0,
+          "end": 470.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 41-42: وفي عاد إذ أرسلنا عليهم الريح العقيم ما تذر من شيء أتت عليه"
+    },
+    "51:42": {
+      "file": "051-الذاريات-youtube-v1/041.mp3",
+      "durationMs": 470040,
+      "bytes": 5641084,
+      "sha256": "8250949bb9d4e0b5ef6e94576a9d4768b61ba7007c6dbe667a38736bdd15d35c",
+      "sharedAyahs": [
+        "51:41",
+        "51:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 0.0,
+          "end": 470.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 41-42: وفي عاد إذ أرسلنا عليهم الريح العقيم ما تذر من شيء أتت عليه"
+    },
+    "51:43": {
+      "file": "051-الذاريات-youtube-v1/043.mp3",
+      "durationMs": 279020,
+      "bytes": 3348892,
+      "sha256": "e4a9ae8b8719935bd5e71cfdac5a086b22d91eb79049e969049977d1ff17850d",
+      "sharedAyahs": [
+        "51:43",
+        "51:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 470.0,
+          "end": 749.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-44: وفي ثمود إذ قيل لهم تمتعوا حتى حين"
+    },
+    "51:44": {
+      "file": "051-الذاريات-youtube-v1/043.mp3",
+      "durationMs": 279020,
+      "bytes": 3348892,
+      "sha256": "e4a9ae8b8719935bd5e71cfdac5a086b22d91eb79049e969049977d1ff17850d",
+      "sharedAyahs": [
+        "51:43",
+        "51:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 470.0,
+          "end": 749.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-44: وفي ثمود إذ قيل لهم تمتعوا حتى حين"
+    },
+    "51:45": {
+      "file": "051-الذاريات-youtube-v1/045.mp3",
+      "durationMs": 395020,
+      "bytes": 4740796,
+      "sha256": "fdc82acac45c38e6a54582fd62ceef4992c25b43d08297abebbcf90d5a2949ae",
+      "sharedAyahs": [
+        "51:45",
+        "51:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 749.0,
+          "end": 1144.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 45-46: فما استطاعوا من قيام وما كانوا منتصرين وقوم نوح من قبل"
+    },
+    "51:46": {
+      "file": "051-الذاريات-youtube-v1/045.mp3",
+      "durationMs": 395020,
+      "bytes": 4740796,
+      "sha256": "fdc82acac45c38e6a54582fd62ceef4992c25b43d08297abebbcf90d5a2949ae",
+      "sharedAyahs": [
+        "51:45",
+        "51:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 749.0,
+          "end": 1144.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 45-46: فما استطاعوا من قيام وما كانوا منتصرين وقوم نوح من قبل"
+    },
+    "51:47": {
+      "file": "051-الذاريات-youtube-v1/047.mp3",
+      "durationMs": 462020,
+      "bytes": 5544892,
+      "sha256": "3a442b61cda876b9ab85f7348f3fbfd5f0d942e5e5f8fe1aab2049dcd561dafa",
+      "sharedAyahs": [
+        "51:47",
+        "51:48",
+        "51:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 1144.0,
+          "end": 1606.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-49: والسماء بنيناها بأيد وإنا لموسعون والأرض فرشناها فنعم الماهدون"
+    },
+    "51:48": {
+      "file": "051-الذاريات-youtube-v1/047.mp3",
+      "durationMs": 462020,
+      "bytes": 5544892,
+      "sha256": "3a442b61cda876b9ab85f7348f3fbfd5f0d942e5e5f8fe1aab2049dcd561dafa",
+      "sharedAyahs": [
+        "51:47",
+        "51:48",
+        "51:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 1144.0,
+          "end": 1606.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-49: والسماء بنيناها بأيد وإنا لموسعون والأرض فرشناها فنعم الماهدون"
+    },
+    "51:49": {
+      "file": "051-الذاريات-youtube-v1/047.mp3",
+      "durationMs": 462020,
+      "bytes": 5544892,
+      "sha256": "3a442b61cda876b9ab85f7348f3fbfd5f0d942e5e5f8fe1aab2049dcd561dafa",
+      "sharedAyahs": [
+        "51:47",
+        "51:48",
+        "51:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 1144.0,
+          "end": 1606.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-49: والسماء بنيناها بأيد وإنا لموسعون والأرض فرشناها فنعم الماهدون"
+    },
+    "51:50": {
+      "file": "051-الذاريات-youtube-v1/050.mp3",
+      "durationMs": 284020,
+      "bytes": 3408796,
+      "sha256": "d4d47c6420b2d2375fa9fa95331950c673a75fb7a387991aa5dfe75e9dc045ed",
+      "sharedAyahs": [
+        "51:50",
+        "51:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 1606.0,
+          "end": 1890.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 50-51: ففروا إلى الله إني لكم منه نذير مبين"
+    },
+    "51:51": {
+      "file": "051-الذاريات-youtube-v1/050.mp3",
+      "durationMs": 284020,
+      "bytes": 3408796,
+      "sha256": "d4d47c6420b2d2375fa9fa95331950c673a75fb7a387991aa5dfe75e9dc045ed",
+      "sharedAyahs": [
+        "51:50",
+        "51:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 1606.0,
+          "end": 1890.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 50-51: ففروا إلى الله إني لكم منه نذير مبين"
+    },
+    "51:52": {
+      "file": "051-الذاريات-youtube-v1/052.mp3",
+      "durationMs": 224040,
+      "bytes": 2689084,
+      "sha256": "a15d907a2ef64a356f16e2ce18659e27b3fa796ab0ea9cc57fa9f2aab0ccf01a",
+      "sharedAyahs": [
+        "51:52",
+        "51:53",
+        "51:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 1890.0,
+          "end": 2114.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 52-54: كذلك ما أتى الذين من قبلهم من رسول إلا قالوا ساحر أو مجنون"
+    },
+    "51:53": {
+      "file": "051-الذاريات-youtube-v1/052.mp3",
+      "durationMs": 224040,
+      "bytes": 2689084,
+      "sha256": "a15d907a2ef64a356f16e2ce18659e27b3fa796ab0ea9cc57fa9f2aab0ccf01a",
+      "sharedAyahs": [
+        "51:52",
+        "51:53",
+        "51:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 1890.0,
+          "end": 2114.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 52-54: كذلك ما أتى الذين من قبلهم من رسول إلا قالوا ساحر أو مجنون"
+    },
+    "51:54": {
+      "file": "051-الذاريات-youtube-v1/052.mp3",
+      "durationMs": 224040,
+      "bytes": 2689084,
+      "sha256": "a15d907a2ef64a356f16e2ce18659e27b3fa796ab0ea9cc57fa9f2aab0ccf01a",
+      "sharedAyahs": [
+        "51:52",
+        "51:53",
+        "51:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 1890.0,
+          "end": 2114.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 52-54: كذلك ما أتى الذين من قبلهم من رسول إلا قالوا ساحر أو مجنون"
+    },
+    "51:55": {
+      "file": "051-الذاريات-youtube-v1/055.mp3",
+      "durationMs": 386860,
+      "bytes": 4642871,
+      "sha256": "8cb44d488b7408008e0114846b6e1dfc5f9a6ec8a03ad012042710f441d213a5",
+      "sharedAyahs": [
+        "51:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7DkC6cqPW3s",
+          "start": 2114.0,
+          "end": 2500.87
+        }
+      ],
+      "reviewNote": "تفسير الآية 55: وذكر فإن الذكرى تنفع المؤمنين"
+    },
+    "51:56": {
+      "file": "051-الذاريات-youtube-v1/056.mp3",
+      "durationMs": 597020,
+      "bytes": 7164887,
+      "sha256": "974c69dadb41d42a9ebefd5be8a19990abaa245ac8e3739625c9d36181f27a8e",
+      "sharedAyahs": [
+        "51:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aWBvihsnb9E",
+          "start": 0.0,
+          "end": 597.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 56: وما خلقت الجن والإنس إلا ليعبدون"
+    },
+    "51:57": {
+      "file": "051-الذاريات-youtube-v1/057.mp3",
+      "durationMs": 272040,
+      "bytes": 3265079,
+      "sha256": "447065f7d521bfdf18a94cdabb2b0e573ee0574fc68b914f6d063c678b9c3f82",
+      "sharedAyahs": [
+        "51:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aWBvihsnb9E",
+          "start": 597.0,
+          "end": 869.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 57: ما أريد منهم من رزق وما أريد أن يطعمون"
+    },
+    "51:58": {
+      "file": "051-الذاريات-youtube-v1/058.mp3",
+      "durationMs": 245020,
+      "bytes": 2940791,
+      "sha256": "ff825a7c1ce7ec938dfaa58270422028b2804d7cffd4286712e5af923ce845dd",
+      "sharedAyahs": [
+        "51:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aWBvihsnb9E",
+          "start": 869.0,
+          "end": 1114.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 58: إن الله هو الرزاق ذو القوة المتين"
+    },
+    "51:59": {
+      "file": "051-الذاريات-youtube-v1/059.mp3",
+      "durationMs": 124320,
+      "bytes": 1492444,
+      "sha256": "52afebfdd100247e2a3d1cff40a97569a45c2b41edaab4e7fc402eb4f0482507",
+      "sharedAyahs": [
+        "51:59",
+        "51:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aWBvihsnb9E",
+          "start": 1114.0,
+          "end": 1238.33
+        }
+      ],
+      "reviewNote": "تفسير الآيات 59-60: فإن للذين ظلموا ذنوبا مثل ذنوب أصحابهم فويل للذين كفروا من يومهم الذي يوعدون"
+    },
+    "51:60": {
+      "file": "051-الذاريات-youtube-v1/059.mp3",
+      "durationMs": 124320,
+      "bytes": 1492444,
+      "sha256": "52afebfdd100247e2a3d1cff40a97569a45c2b41edaab4e7fc402eb4f0482507",
+      "sharedAyahs": [
+        "51:59",
+        "51:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aWBvihsnb9E",
+          "start": 1114.0,
+          "end": 1238.33
+        }
+      ],
+      "reviewNote": "تفسير الآيات 59-60: فإن للذين ظلموا ذنوبا مثل ذنوب أصحابهم فويل للذين كفروا من يومهم الذي يوعدون"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "051-الذاريات-youtube-v1/closing-12.mp3",
+      "kind": "closing",
+      "durationMs": 216790,
+      "bytes": 2602096,
+      "sha256": "568bca13d9f56c3e2b4261acb118e8b59c64071f86ef6189daa719ffae6b2a5c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "ZfwzuRmd11M",
+          "start": 2477.0,
+          "end": 2693.81
+        }
+      ],
+      "reviewNote": "خاتمة الدرس الثاني"
+    },
+    {
+      "file": "051-الذاريات-youtube-v1/closing-24.mp3",
+      "kind": "closing",
+      "durationMs": 411530,
+      "bytes": 4938928,
+      "sha256": "1c987891452b8ed9c34e74da2058c9915b857824b8992747105951cf7fb699a3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "lz3_BnJ6uJs",
+          "start": 2184.0,
+          "end": 2595.53
+        }
+      ],
+      "reviewNote": "خاتمة الدرس الرابع"
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL69C6A540D0D02D3F",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "dhariyat-cosmic-oaths-and-resurrection",
+      "title": "أقسام القرآن بالذاريات والحاملات واليقين بالبعث والجزاء",
+      "file": "051-الذاريات-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 650000
+    },
+    {
+      "id": "dhariyat-signs-earth-and-soul",
+      "title": "آيات الله في الأرض وفي خلق النفس البشرية",
+      "file": "051-الذاريات-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 1148000
+    },
+    {
+      "id": "dhariyat-provision-divine-promise",
+      "title": "قضية الرزق واليقين بالقسم الإلهي فورب السماء والأرض",
+      "file": "051-الذاريات-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 367000
+    },
+    {
+      "id": "dhariyat-guests-of-abraham",
+      "title": "حديث ضيف إبراهيم المكرمين وبشارة إسحاق",
+      "file": "051-الذاريات-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 621000
+    },
+    {
+      "id": "dhariyat-creation-and-vast-universe",
+      "title": "والسماء بنيناها بأيد وإنا لموسعون: دلائل القدرة في الكون",
+      "file": "051-الذاريات-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 462000
+    },
+    {
+      "id": "dhariyat-purpose-of-creation-worship",
+      "title": "وما خلقت الجن والإنس إلا ليعبدون: غاية الخلق وحقيقة العبادة والرزق",
+      "file": "051-الذاريات-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 597000
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "mEV_VVLAv1Q",
+      "ZfwzuRmd11M",
+      "vxwRSy0DLn8",
+      "lz3_BnJ6uJs",
+      "7DkC6cqPW3s",
+      "aWBvihsnb9E"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "051-الذاريات-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 650040,
+        "durationMs": 650040,
+        "recordingDurationMs": 650040,
+        "bytes": 7801081,
+        "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+        "sharedAyahs": [
+          "51:1",
+          "51:2",
+          "51:3",
+          "51:4",
+          "51:5",
+          "51:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mEV_VVLAv1Q",
+            "start": 0.0,
+            "end": 650.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 59020,
+        "durationMs": 59020,
+        "recordingDurationMs": 59020,
+        "bytes": 708789,
+        "sha256": "a1479dbadce71880c3960a4adf16085419f01099ff110ac99da6edbd1d704ac6",
+        "sharedAyahs": [
+          "51:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mEV_VVLAv1Q",
+            "start": 650.0,
+            "end": 709.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 84020,
+        "durationMs": 84020,
+        "recordingDurationMs": 84020,
+        "bytes": 1008885,
+        "sha256": "93d3fcc672642b3b48c2bb91913142c3bbdf1d003e74a646321645fa984d3c70",
+        "sharedAyahs": [
+          "51:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mEV_VVLAv1Q",
+            "start": 709.0,
+            "end": 793.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 75020,
+        "durationMs": 75020,
+        "recordingDurationMs": 75020,
+        "bytes": 900885,
+        "sha256": "d0c602cb77af79e234f950e4bcc6a44f9669cbe52d0d961417d2b3b6dbb243c4",
+        "sharedAyahs": [
+          "51:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mEV_VVLAv1Q",
+            "start": 793.0,
+            "end": 868.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 74020,
+        "durationMs": 74020,
+        "recordingDurationMs": 74020,
+        "bytes": 888796,
+        "sha256": "a0885086e10bada2a809a562f7cfcb9fd869ee2a03b31dfa37cdf9c9bb43f83d",
+        "sharedAyahs": [
+          "51:10",
+          "51:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mEV_VVLAv1Q",
+            "start": 868.0,
+            "end": 942.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 86060,
+        "durationMs": 86060,
+        "recordingDurationMs": 86060,
+        "bytes": 1033367,
+        "sha256": "c286ac7a89416fa7452671c736d96bec4b6fcefe260c61725b14a3305b23eabe",
+        "sharedAyahs": [
+          "51:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mEV_VVLAv1Q",
+            "start": 942.0,
+            "end": 1028.06
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 247030,
+        "durationMs": 247030,
+        "recordingDurationMs": 247030,
+        "bytes": 2964988,
+        "sha256": "3d72cbb2efda054814ce26cda0055c069d8ec1482a63067bc5afc2553e56f470",
+        "sharedAyahs": [
+          "51:13",
+          "51:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZfwzuRmd11M",
+            "start": 0.0,
+            "end": 247.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 827020,
+        "durationMs": 827020,
+        "recordingDurationMs": 827020,
+        "bytes": 9924791,
+        "sha256": "871253fb81b196ecc903be34b9a996064ea08e618651ce90718bec54a34b95f0",
+        "sharedAyahs": [
+          "51:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZfwzuRmd11M",
+            "start": 247.0,
+            "end": 1074.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 275040,
+        "durationMs": 275040,
+        "recordingDurationMs": 275040,
+        "bytes": 3301079,
+        "sha256": "d7a584aeb0de57f08593314e166a45db86d7577e8ba1c35693f8128f069f5157",
+        "sharedAyahs": [
+          "51:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZfwzuRmd11M",
+            "start": 1074.0,
+            "end": 1349.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 237020,
+        "durationMs": 237020,
+        "recordingDurationMs": 237020,
+        "bytes": 2844887,
+        "sha256": "1244d5f8e47ce927dfd82e46366c6e2357f7fc34289b120a88c63b9178e85581",
+        "sharedAyahs": [
+          "51:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZfwzuRmd11M",
+            "start": 1349.0,
+            "end": 1586.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 36020,
+        "durationMs": 36020,
+        "recordingDurationMs": 36020,
+        "bytes": 432887,
+        "sha256": "e151e0ebd0ab0fa1e79cadc0c9c72f2c30e0e7871c5ba5bfc5af7996e2c0549c",
+        "sharedAyahs": [
+          "51:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZfwzuRmd11M",
+            "start": 1586.0,
+            "end": 1622.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 855020,
+        "durationMs": 855020,
+        "recordingDurationMs": 855020,
+        "bytes": 10260887,
+        "sha256": "d3f78b4119ad1d687f8bd12131095063ee1792d09d0ad64826d007b211a192b0",
+        "sharedAyahs": [
+          "51:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZfwzuRmd11M",
+            "start": 1622.0,
+            "end": 2477.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/closing-12.mp3",
+        "startMs": 0,
+        "endMs": 216790,
+        "durationMs": 216790,
+        "recordingDurationMs": 216790,
+        "bytes": 2602096,
+        "sha256": "568bca13d9f56c3e2b4261acb118e8b59c64071f86ef6189daa719ffae6b2a5c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "ZfwzuRmd11M",
+            "start": 2477.0,
+            "end": 2693.81
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 1148040,
+        "durationMs": 1148040,
+        "recordingDurationMs": 1148040,
+        "bytes": 13777079,
+        "sha256": "c83f8b92077fd6fcf6e9f6bfc4195f03def54374f495b403160af13533deefe7",
+        "sharedAyahs": [
+          "51:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vxwRSy0DLn8",
+            "start": 0.0,
+            "end": 1148.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 367010,
+        "durationMs": 367010,
+        "recordingDurationMs": 367010,
+        "bytes": 4404700,
+        "sha256": "7ec6b022bfd919a3e2e12b214b049895d20e77ffe817ede320118b3c5457ffb7",
+        "sharedAyahs": [
+          "51:21",
+          "51:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vxwRSy0DLn8",
+            "start": 1148.0,
+            "end": 1515.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 111020,
+        "durationMs": 111020,
+        "recordingDurationMs": 111020,
+        "bytes": 1332887,
+        "sha256": "5ec5ccac61b4f4e8226100e8679d1040649bc7c9795ed0eb74ba78f1e32bc22d",
+        "sharedAyahs": [
+          "51:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vxwRSy0DLn8",
+            "start": 1515.0,
+            "end": 1626.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 621020,
+        "durationMs": 621020,
+        "recordingDurationMs": 621020,
+        "bytes": 7452887,
+        "sha256": "4893fb12f013ae9d01779c391f4c5da9ff9f84aa2febb41099ed1700808c7e0b",
+        "sharedAyahs": [
+          "51:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vxwRSy0DLn8",
+            "start": 1626.0,
+            "end": 2247.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 143040,
+        "durationMs": 143040,
+        "recordingDurationMs": 143040,
+        "bytes": 1717084,
+        "sha256": "d9e89576437e74296dbf359382815763acf2321ee66aba6d67c6276b65de116c",
+        "sharedAyahs": [
+          "51:25",
+          "51:26",
+          "51:27",
+          "51:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vxwRSy0DLn8",
+            "start": 2247.0,
+            "end": 2390.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 27020,
+        "durationMs": 27020,
+        "recordingDurationMs": 27020,
+        "bytes": 324887,
+        "sha256": "94b72a44b46363b9fbd34dc505a8b5a476e55d483563eb88a26643d7d08cc4d5",
+        "sharedAyahs": [
+          "51:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vxwRSy0DLn8",
+            "start": 2390.0,
+            "end": 2417.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 135190,
+        "durationMs": 135190,
+        "recordingDurationMs": 135190,
+        "bytes": 1622903,
+        "sha256": "7c5d390a8ecc885d3a10cce667794fcd05089aeb674837eac06471816fbba3cd",
+        "sharedAyahs": [
+          "51:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vxwRSy0DLn8",
+            "start": 2417.0,
+            "end": 2552.21
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 284040,
+        "durationMs": 284040,
+        "recordingDurationMs": 284040,
+        "bytes": 3409079,
+        "sha256": "82dfce39eb2df5979258cec0927f2e93cee139d4a3f29d74aefdaf1383567794",
+        "sharedAyahs": [
+          "51:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lz3_BnJ6uJs",
+            "start": 0.0,
+            "end": 284.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 665020,
+        "durationMs": 665020,
+        "recordingDurationMs": 665020,
+        "bytes": 7980796,
+        "sha256": "6c8c7f9fb6094c79a71de70eb65243da1fe817fdd883f455b5bef7e1b9b3d28f",
+        "sharedAyahs": [
+          "51:32",
+          "51:33",
+          "51:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lz3_BnJ6uJs",
+            "start": 284.0,
+            "end": 949.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 622030,
+        "durationMs": 622030,
+        "recordingDurationMs": 622030,
+        "bytes": 7464988,
+        "sha256": "cdbc5d3c4943b19386670b4988b1928055b4bdae19933c617b30cf10d12b2d2d",
+        "sharedAyahs": [
+          "51:35",
+          "51:36",
+          "51:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lz3_BnJ6uJs",
+            "start": 949.0,
+            "end": 1571.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 613010,
+        "durationMs": 613010,
+        "recordingDurationMs": 613010,
+        "bytes": 7356700,
+        "sha256": "5d8da76d9565762c321452e52e1fc40bf79e4e42935bfa05146ebd4d8974b86d",
+        "sharedAyahs": [
+          "51:38",
+          "51:39",
+          "51:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lz3_BnJ6uJs",
+            "start": 1571.0,
+            "end": 2184.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/closing-24.mp3",
+        "startMs": 0,
+        "endMs": 411530,
+        "durationMs": 411530,
+        "recordingDurationMs": 411530,
+        "bytes": 4938928,
+        "sha256": "1c987891452b8ed9c34e74da2058c9915b857824b8992747105951cf7fb699a3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "lz3_BnJ6uJs",
+            "start": 2184.0,
+            "end": 2595.53
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 470040,
+        "durationMs": 470040,
+        "recordingDurationMs": 470040,
+        "bytes": 5641084,
+        "sha256": "8250949bb9d4e0b5ef6e94576a9d4768b61ba7007c6dbe667a38736bdd15d35c",
+        "sharedAyahs": [
+          "51:41",
+          "51:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7DkC6cqPW3s",
+            "start": 0.0,
+            "end": 470.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 279020,
+        "durationMs": 279020,
+        "recordingDurationMs": 279020,
+        "bytes": 3348892,
+        "sha256": "e4a9ae8b8719935bd5e71cfdac5a086b22d91eb79049e969049977d1ff17850d",
+        "sharedAyahs": [
+          "51:43",
+          "51:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7DkC6cqPW3s",
+            "start": 470.0,
+            "end": 749.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 395020,
+        "durationMs": 395020,
+        "recordingDurationMs": 395020,
+        "bytes": 4740796,
+        "sha256": "fdc82acac45c38e6a54582fd62ceef4992c25b43d08297abebbcf90d5a2949ae",
+        "sharedAyahs": [
+          "51:45",
+          "51:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7DkC6cqPW3s",
+            "start": 749.0,
+            "end": 1144.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 462020,
+        "durationMs": 462020,
+        "recordingDurationMs": 462020,
+        "bytes": 5544892,
+        "sha256": "3a442b61cda876b9ab85f7348f3fbfd5f0d942e5e5f8fe1aab2049dcd561dafa",
+        "sharedAyahs": [
+          "51:47",
+          "51:48",
+          "51:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7DkC6cqPW3s",
+            "start": 1144.0,
+            "end": 1606.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 284020,
+        "durationMs": 284020,
+        "recordingDurationMs": 284020,
+        "bytes": 3408796,
+        "sha256": "d4d47c6420b2d2375fa9fa95331950c673a75fb7a387991aa5dfe75e9dc045ed",
+        "sharedAyahs": [
+          "51:50",
+          "51:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7DkC6cqPW3s",
+            "start": 1606.0,
+            "end": 1890.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 224040,
+        "durationMs": 224040,
+        "recordingDurationMs": 224040,
+        "bytes": 2689084,
+        "sha256": "a15d907a2ef64a356f16e2ce18659e27b3fa796ab0ea9cc57fa9f2aab0ccf01a",
+        "sharedAyahs": [
+          "51:52",
+          "51:53",
+          "51:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7DkC6cqPW3s",
+            "start": 1890.0,
+            "end": 2114.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 386860,
+        "durationMs": 386860,
+        "recordingDurationMs": 386860,
+        "bytes": 4642871,
+        "sha256": "8cb44d488b7408008e0114846b6e1dfc5f9a6ec8a03ad012042710f441d213a5",
+        "sharedAyahs": [
+          "51:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7DkC6cqPW3s",
+            "start": 2114.0,
+            "end": 2500.87
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 597020,
+        "durationMs": 597020,
+        "recordingDurationMs": 597020,
+        "bytes": 7164887,
+        "sha256": "974c69dadb41d42a9ebefd5be8a19990abaa245ac8e3739625c9d36181f27a8e",
+        "sharedAyahs": [
+          "51:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aWBvihsnb9E",
+            "start": 0.0,
+            "end": 597.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 272040,
+        "durationMs": 272040,
+        "recordingDurationMs": 272040,
+        "bytes": 3265079,
+        "sha256": "447065f7d521bfdf18a94cdabb2b0e573ee0574fc68b914f6d063c678b9c3f82",
+        "sharedAyahs": [
+          "51:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aWBvihsnb9E",
+            "start": 597.0,
+            "end": 869.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 245020,
+        "durationMs": 245020,
+        "recordingDurationMs": 245020,
+        "bytes": 2940791,
+        "sha256": "ff825a7c1ce7ec938dfaa58270422028b2804d7cffd4286712e5af923ce845dd",
+        "sharedAyahs": [
+          "51:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aWBvihsnb9E",
+            "start": 869.0,
+            "end": 1114.0
+          }
+        ]
+      },
+      {
+        "file": "051-الذاريات-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 124320,
+        "durationMs": 124320,
+        "recordingDurationMs": 124320,
+        "bytes": 1492444,
+        "sha256": "52afebfdd100247e2a3d1cff40a97569a45c2b41edaab4e7fc402eb4f0482507",
+        "sharedAyahs": [
+          "51:59",
+          "51:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aWBvihsnb9E",
+            "start": 1114.0,
+            "end": 1238.33
+          }
+        ]
+      }
+    ],
+    "durationMs": 12609510,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
