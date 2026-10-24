@@ -1,0 +1,1084 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 59,
+  "surahName": "الحشر",
+  "ayahCount": 24,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 24,
+    "mappedAyahCount": 24,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "Hxdly8HhJ70": {
+      "durationSeconds": 2691.5,
+      "bytes": 32298648,
+      "sha256": "1443f7762dee30070a35d0483c25e606b1a81a11595e43ea781b7fc29403a0ae",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-004_Hxdly8HhJ70.mp3",
+      "url": "https://www.youtube.com/watch?v=Hxdly8HhJ70"
+    },
+    "kvVpMleS2Lc": {
+      "durationSeconds": 2581.01,
+      "bytes": 30972696,
+      "sha256": "1f0b1026edd4642e2582c5b49939e791227aef79a74fb7293f656edf08cce500",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_004-018_kvVpMleS2Lc.mp3",
+      "url": "https://www.youtube.com/watch?v=kvVpMleS2Lc"
+    },
+    "AvQHWK037Ps": {
+      "durationSeconds": 2504.69,
+      "bytes": 30056860,
+      "sha256": "ae1f5c472349f274850137edbf030aa6a0b897c94b733d25bda2e893454edcbe",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_018-023_AvQHWK037Ps.mp3",
+      "url": "https://www.youtube.com/watch?v=AvQHWK037Ps"
+    },
+    "QV4xJGrx7bg": {
+      "durationSeconds": 2990.3,
+      "bytes": 35884252,
+      "sha256": "b37a24e708e59a0f6e1139c58a713b1f11ddd607cf82b258cb601544ec845538",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_023-024_QV4xJGrx7bg.mp3",
+      "url": "https://www.youtube.com/watch?v=QV4xJGrx7bg"
+    }
+  },
+  "ayahs": {
+    "59:1": {
+      "file": "059-الحشر-youtube-v1/001.mp3",
+      "durationMs": 952220,
+      "bytes": 11427273,
+      "sha256": "6c450db8fc44c2dbddcf8ed68dc0c56f2f018bf63687e701d2b6f1c239bb58ea",
+      "sharedAyahs": [
+        "59:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hxdly8HhJ70",
+          "start": 0.0,
+          "end": 952.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: سبح لله ما في السماوات وما في الأرض وهو العزيز الحكيم"
+    },
+    "59:2": {
+      "file": "059-الحشر-youtube-v1/002.mp3",
+      "durationMs": 1547830,
+      "bytes": 18574569,
+      "sha256": "eeac01c8c2d0e272a0f95399f0403e8cd989e5caa45c1e11d91cf4caa51f31f2",
+      "sharedAyahs": [
+        "59:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hxdly8HhJ70",
+          "start": 952.2,
+          "end": 2500.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: هو الذي أخرج الذين كفروا من أهل الكتاب من ديارهم لأول الحشر"
+    },
+    "59:3": {
+      "file": "059-الحشر-youtube-v1/003.mp3",
+      "durationMs": 136540,
+      "bytes": 1639017,
+      "sha256": "f07b3e3efe69fac42947b6cc2d744e0164fe94a0576be07036455e1ce822a630",
+      "sharedAyahs": [
+        "59:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hxdly8HhJ70",
+          "start": 2500.0,
+          "end": 2636.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: ولولا أن كتب الله عليهم الجلاء لعذبهم في الدنيا"
+    },
+    "59:4": {
+      "file": "059-الحشر-youtube-v1/004.mp3",
+      "durationMs": 54980,
+      "bytes": 660393,
+      "sha256": "c18136741a1a504384875c7dbf44db42ce412c798e8181f32fdb64317d697652",
+      "sharedAyahs": [
+        "59:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hxdly8HhJ70",
+          "start": 2636.5,
+          "end": 2691.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: ذلك بأنهم شاقوا الله ورسوله ومن يشاق الله فإن الله شديد العقاب"
+    },
+    "59:5": {
+      "file": "059-الحشر-youtube-v1/005.mp3",
+      "durationMs": 93530,
+      "bytes": 1122921,
+      "sha256": "c6b43aeade13723a3d7fd4993edd10ebb62c62c517f44400666953a9034119ab",
+      "sharedAyahs": [
+        "59:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 156.0,
+          "end": 249.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: ما قطعتم من لينة أو تركتموها قائمة على أصولها فبإذن الله"
+    },
+    "59:6": {
+      "file": "059-الحشر-youtube-v1/006.mp3",
+      "durationMs": 206520,
+      "bytes": 2478825,
+      "sha256": "a073adf93471e5cc70b74c5d6b8f5f6937b30f36dd52449a4d0c3dd9ae89400f",
+      "sharedAyahs": [
+        "59:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 249.5,
+          "end": 456.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: وما أفاء الله على رسوله منهم فما أوجفتم عليه من خيل ولا ركاب"
+    },
+    "59:7": {
+      "file": "059-الحشر-youtube-v1/007.mp3",
+      "durationMs": 189840,
+      "bytes": 2278665,
+      "sha256": "14b55276a2e17b34d704651538127244dd2c250cd60519bd404e2ccd1e195fee",
+      "sharedAyahs": [
+        "59:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 456.0,
+          "end": 645.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: ما أفاء الله على رسوله من أهل القرى فلله وللرسول"
+    },
+    "59:8": {
+      "file": "059-الحشر-youtube-v1/008.mp3",
+      "durationMs": 197210,
+      "bytes": 2367081,
+      "sha256": "6a1ad5f77d4af8709ddd3943ee1a4b4ce883d3e5d40eb2dee5c92a1e7452f3da",
+      "sharedAyahs": [
+        "59:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 645.8,
+          "end": 843.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: للفقراء المهاجرين الذين أخرجوا من ديارهم وأموالهم"
+    },
+    "59:9": {
+      "file": "059-الحشر-youtube-v1/009.mp3",
+      "durationMs": 267020,
+      "bytes": 3204873,
+      "sha256": "c4b83e46cbc121d828932bfb4261e0d47d26c6de6c859606750aeac77c731b35",
+      "sharedAyahs": [
+        "59:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 843.0,
+          "end": 1110.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: والذين تبوءوا الدار والإيمان من قبلهم يحبون من هاجر إليهم"
+    },
+    "59:10": {
+      "file": "059-الحشر-youtube-v1/010.mp3",
+      "durationMs": 244030,
+      "bytes": 2928971,
+      "sha256": "09010bbaa005f33700910a9e8b015583fba0166b799304652aa147b5ce413602",
+      "sharedAyahs": [
+        "59:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 1110.0,
+          "end": 1354.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: والذين جاءوا من بعدهم يقولون ربنا اغفر لنا ولإخواننا الذين سبقونا بالإيمان"
+    },
+    "59:11": {
+      "file": "059-الحشر-youtube-v1/011.mp3",
+      "durationMs": 290020,
+      "bytes": 3480779,
+      "sha256": "1369fe709afa00a37805d421c183066145a22055136b6266828d5532b32879d5",
+      "sharedAyahs": [
+        "59:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 1354.0,
+          "end": 1644.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 11: ألم تر إلى الذين نافقوا يقولون لإخوانهم الذين كفروا من أهل الكتاب"
+    },
+    "59:12": {
+      "file": "059-الحشر-youtube-v1/012.mp3",
+      "durationMs": 21020,
+      "bytes": 252875,
+      "sha256": "cc76cdd857b419b222e19b3067f46cc32891b056ed125bc96ac941d70db6766b",
+      "sharedAyahs": [
+        "59:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 1644.0,
+          "end": 1665.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: لئن أخرجوا لا يخرجون معهم ولئن قوتلوا لا ينصرونهم"
+    },
+    "59:13": {
+      "file": "059-الحشر-youtube-v1/013.mp3",
+      "durationMs": 89540,
+      "bytes": 1075115,
+      "sha256": "736950bde49548d44b353124a4641cf6dba3496b3639c7f46bba202f8e7dad9a",
+      "sharedAyahs": [
+        "59:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 1665.0,
+          "end": 1754.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: لأنتم أشد رهبة في صدورهم من الله"
+    },
+    "59:14": {
+      "file": "059-الحشر-youtube-v1/014.mp3",
+      "durationMs": 322010,
+      "bytes": 3864683,
+      "sha256": "dc5694f3c9baf5120b20a2ed9bbf49a95295cc35d22461d4ecf14ce58f4823d7",
+      "sharedAyahs": [
+        "59:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 1754.5,
+          "end": 2076.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: لا يقاتلونكم جميعا إلا في قرى محصنة أو من وراء جدر"
+    },
+    "59:15": {
+      "file": "059-الحشر-youtube-v1/015.mp3",
+      "durationMs": 158040,
+      "bytes": 1897067,
+      "sha256": "c06153f7c3c413518d256660aa3083c336967207d2f9aa2c2c4f3e796ad808aa",
+      "sharedAyahs": [
+        "59:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 2076.5,
+          "end": 2234.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: كمثل الذين من قبلهم قريبا ذاقوا وبال أمرهم"
+    },
+    "59:16": {
+      "file": "059-الحشر-youtube-v1/016.mp3",
+      "durationMs": 304010,
+      "bytes": 3648688,
+      "sha256": "bebcf5e4a633eb6f1977ee19c2b81a6bc8e686676ce02626bbf37726bc3c456e",
+      "sharedAyahs": [
+        "59:16",
+        "59:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 2234.5,
+          "end": 2538.5
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 16-17: كمثل الشيطان إذ قال للإنسان اكفر فلما كفر قال إني بريء منك"
+    },
+    "59:17": {
+      "file": "059-الحشر-youtube-v1/016.mp3",
+      "durationMs": 304010,
+      "bytes": 3648688,
+      "sha256": "bebcf5e4a633eb6f1977ee19c2b81a6bc8e686676ce02626bbf37726bc3c456e",
+      "sharedAyahs": [
+        "59:16",
+        "59:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 2234.5,
+          "end": 2538.5
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 16-17: كمثل الشيطان إذ قال للإنسان اكفر فلما كفر قال إني بريء منك"
+    },
+    "59:18": {
+      "file": "059-الحشر-youtube-v1/018.mp3",
+      "durationMs": 1039030,
+      "bytes": 12468971,
+      "sha256": "cfee2647bf52f8e94b4bfe6d930c75f89faefc411776ef7c6f83c16bdf7d5c2c",
+      "sharedAyahs": [
+        "59:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AvQHWK037Ps",
+          "start": 51.5,
+          "end": 1090.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 18: يا أيها الذين آمنوا اتقوا الله ولتنظر نفس ما قدمت لغد"
+    },
+    "59:19": {
+      "file": "059-الحشر-youtube-v1/019.mp3",
+      "durationMs": 233520,
+      "bytes": 2802827,
+      "sha256": "ad1e91b6ef5fafe3989e385364a3a5fdd06a78ad70986c0186bcf3f696bace5e",
+      "sharedAyahs": [
+        "59:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AvQHWK037Ps",
+          "start": 1090.5,
+          "end": 1324.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: ولا تكونوا كالذين نسوا الله فأنساهم أنفسهم"
+    },
+    "59:20": {
+      "file": "059-الحشر-youtube-v1/020.mp3",
+      "durationMs": 470020,
+      "bytes": 5640779,
+      "sha256": "8e2899364873270087ec19e36d7d5a0b3093840d1ed23a78758a099d77c109ca",
+      "sharedAyahs": [
+        "59:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AvQHWK037Ps",
+          "start": 1324.0,
+          "end": 1794.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: لا يستوي أصحاب النار وأصحاب الجنة"
+    },
+    "59:21": {
+      "file": "059-الحشر-youtube-v1/021.mp3",
+      "durationMs": 626040,
+      "bytes": 7513067,
+      "sha256": "88ca64cab9b6ec7b3742b8a9fde3d94186d1efe1640c1ca6424a31fd42010aef",
+      "sharedAyahs": [
+        "59:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AvQHWK037Ps",
+          "start": 1794.0,
+          "end": 2420.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 21: لو أنزلنا هذا القرآن على جبل لرأيته خاشعا متصدعا من خشية الله"
+    },
+    "59:22": {
+      "file": "059-الحشر-youtube-v1/022.mp3",
+      "durationMs": 84670,
+      "bytes": 1016651,
+      "sha256": "c5245b0263f9aa8f0d728500211ed74d3ebfe5eb7681938939b4f0f04d5decc7",
+      "sharedAyahs": [
+        "59:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AvQHWK037Ps",
+          "start": 2420.0,
+          "end": 2504.69
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: هو الله الذي لا إله إلا هو عالم الغيب والشهادة"
+    },
+    "59:23": {
+      "file": "059-الحشر-youtube-v1/023.mp3",
+      "durationMs": 2185510,
+      "bytes": 26226731,
+      "sha256": "ceb0665fafbee7af0fbc4eb59c834c06a5b485ca918d23ab46ed83a78d7a40f8",
+      "sharedAyahs": [
+        "59:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QV4xJGrx7bg",
+          "start": 17.5,
+          "end": 2203.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 23: هو الله الذي لا إله إلا هو الملك القدوس السلام المؤمن المهيمن العزيز الجبار المتكبر"
+    },
+    "59:24": {
+      "file": "059-الحشر-youtube-v1/024.mp3",
+      "durationMs": 787300,
+      "bytes": 9448139,
+      "sha256": "88770b5e345282b887c6aa971d659b8c020cc6cd7a58adf8b919ad2008dc2fc6",
+      "sharedAyahs": [
+        "59:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QV4xJGrx7bg",
+          "start": 2203.0,
+          "end": 2990.3
+        }
+      ],
+      "reviewNote": "تفسير الآية 24: هو الله الخالق البارئ المصور له الأسماء الحسنى"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "059-الحشر-youtube-v1/introduction-04.mp3",
+      "kind": "introduction",
+      "durationMs": 156020,
+      "bytes": 1872873,
+      "sha256": "37578bab61e7d5dae2cdc3ad0bf6ecbd8e664572b99b362d6d5b449396f0ee4b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 0.0,
+          "end": 156.0
+        }
+      ],
+      "reviewNote": "مقدمة الدرس الثاني ومراجعة الآية 4"
+    },
+    {
+      "file": "059-الحشر-youtube-v1/closing-17.mp3",
+      "kind": "closing",
+      "durationMs": 42500,
+      "bytes": 510628,
+      "sha256": "f08e1b60f96057c156f8057e3699cbb7ef6961e139d35337b727cb1719d59dfc",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kvVpMleS2Lc",
+          "start": 2538.5,
+          "end": 2581.01
+        }
+      ],
+      "reviewNote": "خاتمة الدرس الثاني وتمهيد للآية 18"
+    },
+    {
+      "file": "059-الحشر-youtube-v1/introduction-18.mp3",
+      "kind": "introduction",
+      "durationMs": 51530,
+      "bytes": 618921,
+      "sha256": "e2193988c81ed01bccf4e42a4d2e5cb55e1d0b7b605365d366c943e69a388769",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "AvQHWK037Ps",
+          "start": 0.0,
+          "end": 51.5
+        }
+      ],
+      "reviewNote": "مقدمة الدرس الثالث"
+    },
+    {
+      "file": "059-الحشر-youtube-v1/introduction-24.mp3",
+      "kind": "introduction",
+      "durationMs": 17540,
+      "bytes": 211113,
+      "sha256": "3990856b0e87717513ba8cc5bb7b35c375f37f56dd1fabde9026f9960b9b3f48",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "QV4xJGrx7bg",
+          "start": 0.0,
+          "end": 17.5
+        }
+      ],
+      "reviewNote": "مقدمة الدرس الرابع واستكمال تدبر أسماء الله الحسنى"
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLB2CB542AF9F3666B",
+  "audioProcessing": "Transcoded official YouTube audio to 90k mono 48 kHz MP3 with verified ID3 metadata; stream-copied verse slices and reused-clips playlist.",
+  "alignmentMethod": "Whisper large-v3-turbo GPU transcription, automated verse anchor matching, and manual speech boundary verification.",
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "Hxdly8HhJ70",
+      "kvVpMleS2Lc",
+      "AvQHWK037Ps",
+      "QV4xJGrx7bg"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "059-الحشر-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 952220,
+        "durationMs": 952220,
+        "recordingDurationMs": 952220,
+        "bytes": 11427273,
+        "sha256": "6c450db8fc44c2dbddcf8ed68dc0c56f2f018bf63687e701d2b6f1c239bb58ea",
+        "sharedAyahs": [
+          "59:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hxdly8HhJ70",
+            "start": 0.0,
+            "end": 952.2
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 1547830,
+        "durationMs": 1547830,
+        "recordingDurationMs": 1547830,
+        "bytes": 18574569,
+        "sha256": "eeac01c8c2d0e272a0f95399f0403e8cd989e5caa45c1e11d91cf4caa51f31f2",
+        "sharedAyahs": [
+          "59:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hxdly8HhJ70",
+            "start": 952.2,
+            "end": 2500.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 136540,
+        "durationMs": 136540,
+        "recordingDurationMs": 136540,
+        "bytes": 1639017,
+        "sha256": "f07b3e3efe69fac42947b6cc2d744e0164fe94a0576be07036455e1ce822a630",
+        "sharedAyahs": [
+          "59:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hxdly8HhJ70",
+            "start": 2500.0,
+            "end": 2636.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 54980,
+        "durationMs": 54980,
+        "recordingDurationMs": 54980,
+        "bytes": 660393,
+        "sha256": "c18136741a1a504384875c7dbf44db42ce412c798e8181f32fdb64317d697652",
+        "sharedAyahs": [
+          "59:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hxdly8HhJ70",
+            "start": 2636.5,
+            "end": 2691.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/introduction-04.mp3",
+        "startMs": 0,
+        "endMs": 156020,
+        "durationMs": 156020,
+        "recordingDurationMs": 156020,
+        "bytes": 1872873,
+        "sha256": "37578bab61e7d5dae2cdc3ad0bf6ecbd8e664572b99b362d6d5b449396f0ee4b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 0.0,
+            "end": 156.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 93530,
+        "durationMs": 93530,
+        "recordingDurationMs": 93530,
+        "bytes": 1122921,
+        "sha256": "c6b43aeade13723a3d7fd4993edd10ebb62c62c517f44400666953a9034119ab",
+        "sharedAyahs": [
+          "59:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 156.0,
+            "end": 249.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 206520,
+        "durationMs": 206520,
+        "recordingDurationMs": 206520,
+        "bytes": 2478825,
+        "sha256": "a073adf93471e5cc70b74c5d6b8f5f6937b30f36dd52449a4d0c3dd9ae89400f",
+        "sharedAyahs": [
+          "59:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 249.5,
+            "end": 456.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 189840,
+        "durationMs": 189840,
+        "recordingDurationMs": 189840,
+        "bytes": 2278665,
+        "sha256": "14b55276a2e17b34d704651538127244dd2c250cd60519bd404e2ccd1e195fee",
+        "sharedAyahs": [
+          "59:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 456.0,
+            "end": 645.8
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 197210,
+        "durationMs": 197210,
+        "recordingDurationMs": 197210,
+        "bytes": 2367081,
+        "sha256": "6a1ad5f77d4af8709ddd3943ee1a4b4ce883d3e5d40eb2dee5c92a1e7452f3da",
+        "sharedAyahs": [
+          "59:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 645.8,
+            "end": 843.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 267020,
+        "durationMs": 267020,
+        "recordingDurationMs": 267020,
+        "bytes": 3204873,
+        "sha256": "c4b83e46cbc121d828932bfb4261e0d47d26c6de6c859606750aeac77c731b35",
+        "sharedAyahs": [
+          "59:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 843.0,
+            "end": 1110.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 244030,
+        "durationMs": 244030,
+        "recordingDurationMs": 244030,
+        "bytes": 2928971,
+        "sha256": "09010bbaa005f33700910a9e8b015583fba0166b799304652aa147b5ce413602",
+        "sharedAyahs": [
+          "59:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 1110.0,
+            "end": 1354.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 290020,
+        "durationMs": 290020,
+        "recordingDurationMs": 290020,
+        "bytes": 3480779,
+        "sha256": "1369fe709afa00a37805d421c183066145a22055136b6266828d5532b32879d5",
+        "sharedAyahs": [
+          "59:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 1354.0,
+            "end": 1644.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 21020,
+        "durationMs": 21020,
+        "recordingDurationMs": 21020,
+        "bytes": 252875,
+        "sha256": "cc76cdd857b419b222e19b3067f46cc32891b056ed125bc96ac941d70db6766b",
+        "sharedAyahs": [
+          "59:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 1644.0,
+            "end": 1665.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 89540,
+        "durationMs": 89540,
+        "recordingDurationMs": 89540,
+        "bytes": 1075115,
+        "sha256": "736950bde49548d44b353124a4641cf6dba3496b3639c7f46bba202f8e7dad9a",
+        "sharedAyahs": [
+          "59:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 1665.0,
+            "end": 1754.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 322010,
+        "durationMs": 322010,
+        "recordingDurationMs": 322010,
+        "bytes": 3864683,
+        "sha256": "dc5694f3c9baf5120b20a2ed9bbf49a95295cc35d22461d4ecf14ce58f4823d7",
+        "sharedAyahs": [
+          "59:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 1754.5,
+            "end": 2076.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 158040,
+        "durationMs": 158040,
+        "recordingDurationMs": 158040,
+        "bytes": 1897067,
+        "sha256": "c06153f7c3c413518d256660aa3083c336967207d2f9aa2c2c4f3e796ad808aa",
+        "sharedAyahs": [
+          "59:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 2076.5,
+            "end": 2234.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 304010,
+        "durationMs": 304010,
+        "recordingDurationMs": 304010,
+        "bytes": 3648688,
+        "sha256": "bebcf5e4a633eb6f1977ee19c2b81a6bc8e686676ce02626bbf37726bc3c456e",
+        "sharedAyahs": [
+          "59:16",
+          "59:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 2234.5,
+            "end": 2538.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/closing-17.mp3",
+        "startMs": 0,
+        "endMs": 42500,
+        "durationMs": 42500,
+        "recordingDurationMs": 42500,
+        "bytes": 510628,
+        "sha256": "f08e1b60f96057c156f8057e3699cbb7ef6961e139d35337b727cb1719d59dfc",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "kvVpMleS2Lc",
+            "start": 2538.5,
+            "end": 2581.01
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/introduction-18.mp3",
+        "startMs": 0,
+        "endMs": 51530,
+        "durationMs": 51530,
+        "recordingDurationMs": 51530,
+        "bytes": 618921,
+        "sha256": "e2193988c81ed01bccf4e42a4d2e5cb55e1d0b7b605365d366c943e69a388769",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "AvQHWK037Ps",
+            "start": 0.0,
+            "end": 51.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 1039030,
+        "durationMs": 1039030,
+        "recordingDurationMs": 1039030,
+        "bytes": 12468971,
+        "sha256": "cfee2647bf52f8e94b4bfe6d930c75f89faefc411776ef7c6f83c16bdf7d5c2c",
+        "sharedAyahs": [
+          "59:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AvQHWK037Ps",
+            "start": 51.5,
+            "end": 1090.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 233520,
+        "durationMs": 233520,
+        "recordingDurationMs": 233520,
+        "bytes": 2802827,
+        "sha256": "ad1e91b6ef5fafe3989e385364a3a5fdd06a78ad70986c0186bcf3f696bace5e",
+        "sharedAyahs": [
+          "59:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AvQHWK037Ps",
+            "start": 1090.5,
+            "end": 1324.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 470020,
+        "durationMs": 470020,
+        "recordingDurationMs": 470020,
+        "bytes": 5640779,
+        "sha256": "8e2899364873270087ec19e36d7d5a0b3093840d1ed23a78758a099d77c109ca",
+        "sharedAyahs": [
+          "59:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AvQHWK037Ps",
+            "start": 1324.0,
+            "end": 1794.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 626040,
+        "durationMs": 626040,
+        "recordingDurationMs": 626040,
+        "bytes": 7513067,
+        "sha256": "88ca64cab9b6ec7b3742b8a9fde3d94186d1efe1640c1ca6424a31fd42010aef",
+        "sharedAyahs": [
+          "59:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AvQHWK037Ps",
+            "start": 1794.0,
+            "end": 2420.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 84670,
+        "durationMs": 84670,
+        "recordingDurationMs": 84670,
+        "bytes": 1016651,
+        "sha256": "c5245b0263f9aa8f0d728500211ed74d3ebfe5eb7681938939b4f0f04d5decc7",
+        "sharedAyahs": [
+          "59:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AvQHWK037Ps",
+            "start": 2420.0,
+            "end": 2504.69
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/introduction-24.mp3",
+        "startMs": 0,
+        "endMs": 17540,
+        "durationMs": 17540,
+        "recordingDurationMs": 17540,
+        "bytes": 211113,
+        "sha256": "3990856b0e87717513ba8cc5bb7b35c375f37f56dd1fabde9026f9960b9b3f48",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "QV4xJGrx7bg",
+            "start": 0.0,
+            "end": 17.5
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 2185510,
+        "durationMs": 2185510,
+        "recordingDurationMs": 2185510,
+        "bytes": 26226731,
+        "sha256": "ceb0665fafbee7af0fbc4eb59c834c06a5b485ca918d23ab46ed83a78d7a40f8",
+        "sharedAyahs": [
+          "59:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QV4xJGrx7bg",
+            "start": 17.5,
+            "end": 2203.0
+          }
+        ]
+      },
+      {
+        "file": "059-الحشر-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 787300,
+        "durationMs": 787300,
+        "recordingDurationMs": 787300,
+        "bytes": 9448139,
+        "sha256": "88770b5e345282b887c6aa971d659b8c020cc6cd7a58adf8b919ad2008dc2fc6",
+        "sharedAyahs": [
+          "59:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QV4xJGrx7bg",
+            "start": 2203.0,
+            "end": 2990.3
+          }
+        ]
+      }
+    ],
+    "durationMs": 10768040,
+    "additionalAudioBytes": 0
+  },
+  "topics": [
+    {
+      "id": "hashr-exile-and-treachery",
+      "title": "إجلاء بني النضير وعاقبة نقض العهد",
+      "file": "059-الحشر-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 1547800
+    },
+    {
+      "id": "hashr-fai-and-wealth-distribution",
+      "title": "أحكام الفيء والعدالة المالية ومنع احتكار الثروة",
+      "file": "059-الحشر-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 189800
+    },
+    {
+      "id": "hashr-altruism-and-hypocrisy",
+      "title": "إيثار المهاجرين والأنصار وفضح تحالف المنافقين",
+      "file": "059-الحشر-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 267000
+    },
+    {
+      "id": "hashr-quran-awe-and-divine-names",
+      "title": "خشوع الجبال للقرآن وتدبر أسماء الله الحسنى",
+      "file": "059-الحشر-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 626000
+    }
+  ]
+}
