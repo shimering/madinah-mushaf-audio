@@ -37,16 +37,16 @@
   "ayahs": {
     "60:1": {
       "file": "060-الممتحنة-youtube-v1/001.mp3",
-      "durationMs": 700030,
-      "bytes": 8400981,
-      "sha256": "b936ad0166df23a244b9196891a7ff68f0cd6df56125935264322a8981d685a7",
+      "durationMs": 694510,
+      "bytes": 8334741,
+      "sha256": "4027d2fb096900e27265ff2bc039f53737f94b08ee9e1a73e4155eb3c618ecac",
       "sharedAyahs": [
         "60:1"
       ],
       "sourceIntervals": [
         {
           "source": "oROn3su5dmk",
-          "start": 0.0,
+          "start": 5.5,
           "end": 700.0
         }
       ],
@@ -259,7 +259,23 @@
   },
   "extraTracks": [
     {
-      "file": "060-الممتحنة-youtube-v1/introduction-06.mp3",
+      "file": "060-الممتحنة-youtube-v1/introduction-00.mp3",
+      "kind": "introduction",
+      "durationMs": 5540,
+      "bytes": 67125,
+      "sha256": "9d837d4a4e257158677d79646d3a83b5fa96b531469203f4bfb40dd3e37523f8",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "oROn3su5dmk",
+          "start": 0.0,
+          "end": 5.5
+        }
+      ],
+      "reviewNote": "تتر مقدمة الدرس الأول لسورة الممتحنة"
+    },
+    {
+      "file": "060-الممتحنة-youtube-v1/introduction-07.mp3",
       "kind": "introduction",
       "durationMs": 28540,
       "bytes": 343029,
@@ -278,6 +294,36 @@
   "sourceUrl": "https://www.youtube.com/playlist?list=PL9CFA47E5E7C53D36",
   "audioProcessing": "Transcoded official YouTube audio to 90k mono 48 kHz MP3 with verified ID3 metadata; stream-copied verse slices and reused-clips playlist.",
   "alignmentMethod": "Whisper large-v3-turbo GPU transcription, automated verse anchor matching, and manual speech boundary verification.",
+  "topics": [
+    {
+      "id": "mumtahanah-hatib-and-allegiance",
+      "title": "قصة حاطب بن أبي بلتعة وضوابط الولاء والبراء في الإسلام",
+      "file": "060-الممتحنة-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 694500
+    },
+    {
+      "id": "mumtahanah-ibrahim-model-of-faith",
+      "title": "الأسوة الحسنة في إبراهيم عليه السلام والبراءة من الشرك",
+      "file": "060-الممتحنة-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 589000
+    },
+    {
+      "id": "mumtahanah-justice-to-peaceful-nonbelievers",
+      "title": "مشروعية البر والقسط مع غير المحاربين والتمييز في المعاملة",
+      "file": "060-الممتحنة-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 774500
+    },
+    {
+      "id": "mumtahanah-pledge-of-believing-women",
+      "title": "بيعة النساء على مكارم الأخلاق وحفظ الأعراض والمجتمع",
+      "file": "060-الممتحنة-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 969000
+    }
+  ],
   "fullSurah": {
     "mode": "reused-clips",
     "sourceOrder": [
@@ -287,20 +333,37 @@
     "includesIntroductionsAndRecaps": true,
     "tracks": [
       {
+        "file": "060-الممتحنة-youtube-v1/introduction-00.mp3",
+        "startMs": 0,
+        "endMs": 5540,
+        "durationMs": 5540,
+        "recordingDurationMs": 5540,
+        "bytes": 67125,
+        "sha256": "9d837d4a4e257158677d79646d3a83b5fa96b531469203f4bfb40dd3e37523f8",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "oROn3su5dmk",
+            "start": 0.0,
+            "end": 5.5
+          }
+        ]
+      },
+      {
         "file": "060-الممتحنة-youtube-v1/001.mp3",
         "startMs": 0,
-        "endMs": 700030,
-        "durationMs": 700030,
-        "recordingDurationMs": 700030,
-        "bytes": 8400981,
-        "sha256": "b936ad0166df23a244b9196891a7ff68f0cd6df56125935264322a8981d685a7",
+        "endMs": 694510,
+        "durationMs": 694510,
+        "recordingDurationMs": 694510,
+        "bytes": 8334741,
+        "sha256": "4027d2fb096900e27265ff2bc039f53737f94b08ee9e1a73e4155eb3c618ecac",
         "sharedAyahs": [
           "60:1"
         ],
         "sourceIntervals": [
           {
             "source": "oROn3su5dmk",
-            "start": 0.0,
+            "start": 5.5,
             "end": 700.0
           }
         ]
@@ -401,7 +464,7 @@
         ]
       },
       {
-        "file": "060-الممتحنة-youtube-v1/introduction-06.mp3",
+        "file": "060-الممتحنة-youtube-v1/introduction-07.mp3",
         "startMs": 0,
         "endMs": 28540,
         "durationMs": 28540,
@@ -551,37 +614,7 @@
         ]
       }
     ],
-    "durationMs": 4610380,
+    "durationMs": 4610400,
     "additionalAudioBytes": 0
-  },
-  "topics": [
-    {
-      "id": "mumtahanah-hatib-and-allegiance",
-      "title": "قصة حاطب بن أبي بلتعة وضوابط الولاء والبراء في الإسلام",
-      "file": "060-الممتحنة-youtube-v1/001.mp3",
-      "startMs": 0,
-      "endMs": 700000
-    },
-    {
-      "id": "mumtahanah-ibrahim-model-of-faith",
-      "title": "الأسوة الحسنة في إبراهيم عليه السلام والبراءة من الشرك",
-      "file": "060-الممتحنة-youtube-v1/004.mp3",
-      "startMs": 0,
-      "endMs": 589000
-    },
-    {
-      "id": "mumtahanah-justice-to-peaceful-nonbelievers",
-      "title": "مشروعية البر والقسط مع غير المحاربين والتمييز في المعاملة",
-      "file": "060-الممتحنة-youtube-v1/008.mp3",
-      "startMs": 0,
-      "endMs": 774500
-    },
-    {
-      "id": "mumtahanah-pledge-of-believing-women",
-      "title": "بيعة النساء على مكارم الأخلاق وحفظ الأعراض والمجتمع",
-      "file": "060-الممتحنة-youtube-v1/012.mp3",
-      "startMs": 0,
-      "endMs": 969000
-    }
-  ]
+  }
 }

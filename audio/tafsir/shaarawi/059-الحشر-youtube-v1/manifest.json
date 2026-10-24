@@ -53,16 +53,16 @@
   "ayahs": {
     "59:1": {
       "file": "059-الحشر-youtube-v1/001.mp3",
-      "durationMs": 952220,
-      "bytes": 11427273,
-      "sha256": "6c450db8fc44c2dbddcf8ed68dc0c56f2f018bf63687e701d2b6f1c239bb58ea",
+      "durationMs": 911710,
+      "bytes": 10941129,
+      "sha256": "c7b1757b8f11ac622f6251aac262b0d0c9e0adc7c5658b8e9890d0d69b969a08",
       "sharedAyahs": [
         "59:1"
       ],
       "sourceIntervals": [
         {
           "source": "Hxdly8HhJ70",
-          "start": 0.0,
+          "start": 40.5,
           "end": 952.2
         }
       ],
@@ -464,7 +464,23 @@
   },
   "extraTracks": [
     {
-      "file": "059-الحشر-youtube-v1/introduction-04.mp3",
+      "file": "059-الحشر-youtube-v1/introduction-00.mp3",
+      "kind": "introduction",
+      "durationMs": 40540,
+      "bytes": 487017,
+      "sha256": "e30be39058583c1aa34bb09fd6b6606c0bf94788983bfcf2d115a63c4ade83c9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Hxdly8HhJ70",
+          "start": 0.0,
+          "end": 40.5
+        }
+      ],
+      "reviewNote": "تتر ومقدمة الدرس الأول لسورة الحشر"
+    },
+    {
+      "file": "059-الحشر-youtube-v1/introduction-05.mp3",
       "kind": "introduction",
       "durationMs": 156020,
       "bytes": 1872873,
@@ -480,7 +496,7 @@
       "reviewNote": "مقدمة الدرس الثاني ومراجعة الآية 4"
     },
     {
-      "file": "059-الحشر-youtube-v1/closing-17.mp3",
+      "file": "059-الحشر-youtube-v1/closing-18.mp3",
       "kind": "closing",
       "durationMs": 42500,
       "bytes": 510628,
@@ -496,7 +512,7 @@
       "reviewNote": "خاتمة الدرس الثاني وتمهيد للآية 18"
     },
     {
-      "file": "059-الحشر-youtube-v1/introduction-18.mp3",
+      "file": "059-الحشر-youtube-v1/introduction-19.mp3",
       "kind": "introduction",
       "durationMs": 51530,
       "bytes": 618921,
@@ -512,7 +528,7 @@
       "reviewNote": "مقدمة الدرس الثالث"
     },
     {
-      "file": "059-الحشر-youtube-v1/introduction-24.mp3",
+      "file": "059-الحشر-youtube-v1/introduction-25.mp3",
       "kind": "introduction",
       "durationMs": 17540,
       "bytes": 211113,
@@ -531,6 +547,36 @@
   "sourceUrl": "https://www.youtube.com/playlist?list=PLB2CB542AF9F3666B",
   "audioProcessing": "Transcoded official YouTube audio to 90k mono 48 kHz MP3 with verified ID3 metadata; stream-copied verse slices and reused-clips playlist.",
   "alignmentMethod": "Whisper large-v3-turbo GPU transcription, automated verse anchor matching, and manual speech boundary verification.",
+  "topics": [
+    {
+      "id": "hashr-exile-and-treachery",
+      "title": "إجلاء بني النضير وعاقبة نقض العهد",
+      "file": "059-الحشر-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 1547800
+    },
+    {
+      "id": "hashr-fai-and-wealth-distribution",
+      "title": "أحكام الفيء والعدالة المالية ومنع احتكار الثروة",
+      "file": "059-الحشر-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 189800
+    },
+    {
+      "id": "hashr-altruism-and-hypocrisy",
+      "title": "إيثار المهاجرين والأنصار وفضح تحالف المنافقين",
+      "file": "059-الحشر-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 267000
+    },
+    {
+      "id": "hashr-quran-awe-and-divine-names",
+      "title": "خشوع الجبال للقرآن وتدبر أسماء الله الحسنى",
+      "file": "059-الحشر-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 626000
+    }
+  ],
   "fullSurah": {
     "mode": "reused-clips",
     "sourceOrder": [
@@ -542,20 +588,37 @@
     "includesIntroductionsAndRecaps": true,
     "tracks": [
       {
+        "file": "059-الحشر-youtube-v1/introduction-00.mp3",
+        "startMs": 0,
+        "endMs": 40540,
+        "durationMs": 40540,
+        "recordingDurationMs": 40540,
+        "bytes": 487017,
+        "sha256": "e30be39058583c1aa34bb09fd6b6606c0bf94788983bfcf2d115a63c4ade83c9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "Hxdly8HhJ70",
+            "start": 0.0,
+            "end": 40.5
+          }
+        ]
+      },
+      {
         "file": "059-الحشر-youtube-v1/001.mp3",
         "startMs": 0,
-        "endMs": 952220,
-        "durationMs": 952220,
-        "recordingDurationMs": 952220,
-        "bytes": 11427273,
-        "sha256": "6c450db8fc44c2dbddcf8ed68dc0c56f2f018bf63687e701d2b6f1c239bb58ea",
+        "endMs": 911710,
+        "durationMs": 911710,
+        "recordingDurationMs": 911710,
+        "bytes": 10941129,
+        "sha256": "c7b1757b8f11ac622f6251aac262b0d0c9e0adc7c5658b8e9890d0d69b969a08",
         "sharedAyahs": [
           "59:1"
         ],
         "sourceIntervals": [
           {
             "source": "Hxdly8HhJ70",
-            "start": 0.0,
+            "start": 40.5,
             "end": 952.2
           }
         ]
@@ -618,7 +681,7 @@
         ]
       },
       {
-        "file": "059-الحشر-youtube-v1/introduction-04.mp3",
+        "file": "059-الحشر-youtube-v1/introduction-05.mp3",
         "startMs": 0,
         "endMs": 156020,
         "durationMs": 156020,
@@ -864,7 +927,7 @@
         ]
       },
       {
-        "file": "059-الحشر-youtube-v1/closing-17.mp3",
+        "file": "059-الحشر-youtube-v1/closing-18.mp3",
         "startMs": 0,
         "endMs": 42500,
         "durationMs": 42500,
@@ -881,7 +944,7 @@
         ]
       },
       {
-        "file": "059-الحشر-youtube-v1/introduction-18.mp3",
+        "file": "059-الحشر-youtube-v1/introduction-19.mp3",
         "startMs": 0,
         "endMs": 51530,
         "durationMs": 51530,
@@ -993,7 +1056,7 @@
         ]
       },
       {
-        "file": "059-الحشر-youtube-v1/introduction-24.mp3",
+        "file": "059-الحشر-youtube-v1/introduction-25.mp3",
         "startMs": 0,
         "endMs": 17540,
         "durationMs": 17540,
@@ -1048,37 +1111,7 @@
         ]
       }
     ],
-    "durationMs": 10768040,
+    "durationMs": 10768070,
     "additionalAudioBytes": 0
-  },
-  "topics": [
-    {
-      "id": "hashr-exile-and-treachery",
-      "title": "إجلاء بني النضير وعاقبة نقض العهد",
-      "file": "059-الحشر-youtube-v1/002.mp3",
-      "startMs": 0,
-      "endMs": 1547800
-    },
-    {
-      "id": "hashr-fai-and-wealth-distribution",
-      "title": "أحكام الفيء والعدالة المالية ومنع احتكار الثروة",
-      "file": "059-الحشر-youtube-v1/007.mp3",
-      "startMs": 0,
-      "endMs": 189800
-    },
-    {
-      "id": "hashr-altruism-and-hypocrisy",
-      "title": "إيثار المهاجرين والأنصار وفضح تحالف المنافقين",
-      "file": "059-الحشر-youtube-v1/009.mp3",
-      "startMs": 0,
-      "endMs": 267000
-    },
-    {
-      "id": "hashr-quran-awe-and-divine-names",
-      "title": "خشوع الجبال للقرآن وتدبر أسماء الله الحسنى",
-      "file": "059-الحشر-youtube-v1/021.mp3",
-      "startMs": 0,
-      "endMs": 626000
-    }
-  ]
+  }
 }
