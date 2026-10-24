@@ -1,0 +1,1662 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 54,
+  "surahName": "القمر",
+  "ayahCount": 55,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 55,
+    "mappedAyahCount": 55,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "DEMj9WNhGQo": {
+      "durationSeconds": 2071.58,
+      "bytes": 24859608,
+      "sha256": "d22a1609ced317c3a32c00f7df93b81b84c2dc4588dd438987c8116bef62929c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-007_DEMj9WNhGQo.mp3",
+      "url": "https://www.youtube.com/watch?v=DEMj9WNhGQo"
+    },
+    "xM7Y9Wv3dB4": {
+      "durationSeconds": 1621.85,
+      "bytes": 19462778,
+      "sha256": "58b52157532007160cc6f64b4fc1d50664acb3d9b6381a86504d4223b6df2e0d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_007-017_xM7Y9Wv3dB4.mp3",
+      "url": "https://www.youtube.com/watch?v=xM7Y9Wv3dB4"
+    },
+    "PbRSqgxeI94": {
+      "durationSeconds": 3123.89,
+      "bytes": 37487260,
+      "sha256": "f2960954e625fec79dfb27ce8ff285d5c1a9da8ec8a5341c11d69c916e9cc6ea",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_017-055_PbRSqgxeI94.mp3",
+      "url": "https://www.youtube.com/watch?v=PbRSqgxeI94"
+    }
+  },
+  "ayahs": {
+    "54:1": {
+      "file": "054-القمر-youtube-v1/001.mp3",
+      "durationMs": 859700,
+      "bytes": 10317033,
+      "sha256": "fe857ae7894a37e4a2bd17c7f04b078981f640b1a91188563985b4923807f875",
+      "sharedAyahs": [
+        "54:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DEMj9WNhGQo",
+          "start": 0.0,
+          "end": 859.66
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: اقتربت الساعة وانشق القمر"
+    },
+    "54:2": {
+      "file": "054-القمر-youtube-v1/002.mp3",
+      "durationMs": 565300,
+      "bytes": 6784137,
+      "sha256": "56b59c6c300580f0b634643ad368216a5be46623fe9b6b47f5e89ceb79bad53b",
+      "sharedAyahs": [
+        "54:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DEMj9WNhGQo",
+          "start": 859.66,
+          "end": 1424.95
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: وإن يروا آية يعرضوا ويقولوا سحر مستمر"
+    },
+    "54:3": {
+      "file": "054-القمر-youtube-v1/003.mp3",
+      "durationMs": 206640,
+      "bytes": 2480265,
+      "sha256": "a7d3c70344774f16c9acfe0a2d8744474c53eb85a2af0cd1c2f9faf1d286e5d5",
+      "sharedAyahs": [
+        "54:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DEMj9WNhGQo",
+          "start": 1424.95,
+          "end": 1631.56
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: وكذبوا واتبعوا أهواءهم وكل أمر مستقر"
+    },
+    "54:4": {
+      "file": "054-القمر-youtube-v1/004.mp3",
+      "durationMs": 362930,
+      "bytes": 4355725,
+      "sha256": "5e96b973b65b43c3dce9993405f3c4cf0c9edeaf2a30e6a6ff9bc5d96dc8c5d5",
+      "sharedAyahs": [
+        "54:4",
+        "54:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DEMj9WNhGQo",
+          "start": 1631.56,
+          "end": 1994.46
+        }
+      ],
+      "reviewNote": "تفسير الآيات 4-5: ولقد جاءهم من الأنباء ما فيه مزدجر حكمة بالغة فما تغن النذر"
+    },
+    "54:5": {
+      "file": "054-القمر-youtube-v1/004.mp3",
+      "durationMs": 362930,
+      "bytes": 4355725,
+      "sha256": "5e96b973b65b43c3dce9993405f3c4cf0c9edeaf2a30e6a6ff9bc5d96dc8c5d5",
+      "sharedAyahs": [
+        "54:4",
+        "54:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DEMj9WNhGQo",
+          "start": 1631.56,
+          "end": 1994.46
+        }
+      ],
+      "reviewNote": "تفسير الآيات 4-5: ولقد جاءهم من الأنباء ما فيه مزدجر حكمة بالغة فما تغن النذر"
+    },
+    "54:6": {
+      "file": "054-القمر-youtube-v1/006.mp3",
+      "durationMs": 77110,
+      "bytes": 925929,
+      "sha256": "1446dbd57b39a10c1830a914ff54f01c4c378472cfafe3e95285a7a1eae59106",
+      "sharedAyahs": [
+        "54:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DEMj9WNhGQo",
+          "start": 1994.46,
+          "end": 2071.58
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: فتول عنهم يوم يدع الداع إلى شيء نكر"
+    },
+    "54:7": {
+      "file": "054-القمر-youtube-v1/007.mp3",
+      "durationMs": 248180,
+      "bytes": 2978797,
+      "sha256": "d170db7087bab82b211c339281ffe0b2ba097bc45a938586c16127b33fc50ddb",
+      "sharedAyahs": [
+        "54:7",
+        "54:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 0.0,
+          "end": 248.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 7-8: خشعاً أبصارهم يخرجون من الأجداث كأنهم جراد منتشر مهطعين إلى الداع يقول الكافرون هذا يوم عسر"
+    },
+    "54:8": {
+      "file": "054-القمر-youtube-v1/007.mp3",
+      "durationMs": 248180,
+      "bytes": 2978797,
+      "sha256": "d170db7087bab82b211c339281ffe0b2ba097bc45a938586c16127b33fc50ddb",
+      "sharedAyahs": [
+        "54:7",
+        "54:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 0.0,
+          "end": 248.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 7-8: خشعاً أبصارهم يخرجون من الأجداث كأنهم جراد منتشر مهطعين إلى الداع يقول الكافرون هذا يوم عسر"
+    },
+    "54:9": {
+      "file": "054-القمر-youtube-v1/009.mp3",
+      "durationMs": 408360,
+      "bytes": 4900910,
+      "sha256": "ff07d71b7205f5ea8381271f963f2c9e1c923f20cb4991dd3b345b6dc6ccd344",
+      "sharedAyahs": [
+        "54:9",
+        "54:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 248.16,
+          "end": 656.49
+        }
+      ],
+      "reviewNote": "تفسير الآيات 9-10: كذبت قبلهم قوم نوح فكذبوا عبدنا وقالوا مجنون وازدجر فدعا ربه أني مغلوب فانتصر"
+    },
+    "54:10": {
+      "file": "054-القمر-youtube-v1/009.mp3",
+      "durationMs": 408360,
+      "bytes": 4900910,
+      "sha256": "ff07d71b7205f5ea8381271f963f2c9e1c923f20cb4991dd3b345b6dc6ccd344",
+      "sharedAyahs": [
+        "54:9",
+        "54:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 248.16,
+          "end": 656.49
+        }
+      ],
+      "reviewNote": "تفسير الآيات 9-10: كذبت قبلهم قوم نوح فكذبوا عبدنا وقالوا مجنون وازدجر فدعا ربه أني مغلوب فانتصر"
+    },
+    "54:11": {
+      "file": "054-القمر-youtube-v1/011.mp3",
+      "durationMs": 305380,
+      "bytes": 3665104,
+      "sha256": "47d0f55f8a9fbd37e2abdbef62cb58242a26c630b1bf44dfd3687d78355ebd6e",
+      "sharedAyahs": [
+        "54:11",
+        "54:12",
+        "54:13",
+        "54:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 656.49,
+          "end": 961.83
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-14: ففتحنا أبواب السماء بماء منهمر وفجرنا الأرض عيونا فالتقى الماء على أمر قد قدر وحملناه على ذات ألواح ودسر تجري بأعيننا جزاء لمن كان كفر"
+    },
+    "54:12": {
+      "file": "054-القمر-youtube-v1/011.mp3",
+      "durationMs": 305380,
+      "bytes": 3665104,
+      "sha256": "47d0f55f8a9fbd37e2abdbef62cb58242a26c630b1bf44dfd3687d78355ebd6e",
+      "sharedAyahs": [
+        "54:11",
+        "54:12",
+        "54:13",
+        "54:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 656.49,
+          "end": 961.83
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-14: ففتحنا أبواب السماء بماء منهمر وفجرنا الأرض عيونا فالتقى الماء على أمر قد قدر وحملناه على ذات ألواح ودسر تجري بأعيننا جزاء لمن كان كفر"
+    },
+    "54:13": {
+      "file": "054-القمر-youtube-v1/011.mp3",
+      "durationMs": 305380,
+      "bytes": 3665104,
+      "sha256": "47d0f55f8a9fbd37e2abdbef62cb58242a26c630b1bf44dfd3687d78355ebd6e",
+      "sharedAyahs": [
+        "54:11",
+        "54:12",
+        "54:13",
+        "54:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 656.49,
+          "end": 961.83
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-14: ففتحنا أبواب السماء بماء منهمر وفجرنا الأرض عيونا فالتقى الماء على أمر قد قدر وحملناه على ذات ألواح ودسر تجري بأعيننا جزاء لمن كان كفر"
+    },
+    "54:14": {
+      "file": "054-القمر-youtube-v1/011.mp3",
+      "durationMs": 305380,
+      "bytes": 3665104,
+      "sha256": "47d0f55f8a9fbd37e2abdbef62cb58242a26c630b1bf44dfd3687d78355ebd6e",
+      "sharedAyahs": [
+        "54:11",
+        "54:12",
+        "54:13",
+        "54:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 656.49,
+          "end": 961.83
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-14: ففتحنا أبواب السماء بماء منهمر وفجرنا الأرض عيونا فالتقى الماء على أمر قد قدر وحملناه على ذات ألواح ودسر تجري بأعيننا جزاء لمن كان كفر"
+    },
+    "54:15": {
+      "file": "054-القمر-youtube-v1/015.mp3",
+      "durationMs": 114220,
+      "bytes": 1371184,
+      "sha256": "ceab28b7dd150ea24deb51b13c0ab99b44f66e03e23dc0043bba2efcba610722",
+      "sharedAyahs": [
+        "54:15",
+        "54:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 961.83,
+          "end": 1076.04
+        }
+      ],
+      "reviewNote": "تفسير الآيات 15-16: ولقد تركناها آية فهل من مدكر فكيف كان عذابي ونذر"
+    },
+    "54:16": {
+      "file": "054-القمر-youtube-v1/015.mp3",
+      "durationMs": 114220,
+      "bytes": 1371184,
+      "sha256": "ceab28b7dd150ea24deb51b13c0ab99b44f66e03e23dc0043bba2efcba610722",
+      "sharedAyahs": [
+        "54:15",
+        "54:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 961.83,
+          "end": 1076.04
+        }
+      ],
+      "reviewNote": "تفسير الآيات 15-16: ولقد تركناها آية فهل من مدكر فكيف كان عذابي ونذر"
+    },
+    "54:17": {
+      "file": "054-القمر-youtube-v1/017.mp3",
+      "durationMs": 545810,
+      "bytes": 6550283,
+      "sha256": "80825733cd70da6ee6f35ca6530f359713703226a8b33dc8b083a4720f31709a",
+      "sharedAyahs": [
+        "54:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xM7Y9Wv3dB4",
+          "start": 1076.04,
+          "end": 1621.85
+        }
+      ],
+      "reviewNote": "تفسير الآية 17: ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:18": {
+      "file": "054-القمر-youtube-v1/018.mp3",
+      "durationMs": 405380,
+      "bytes": 4865200,
+      "sha256": "2b836455a34a19bdbc6bf3b90ba15e93e30be4eb4014103948c8b863ef6b04d5",
+      "sharedAyahs": [
+        "54:18",
+        "54:19",
+        "54:20",
+        "54:21",
+        "54:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 413.63,
+          "end": 819.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-22: كذبت عاد فكيف كان عذابي ونذر إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر تنزع الناس كأنهم أعجاز نخل منقعر"
+    },
+    "54:19": {
+      "file": "054-القمر-youtube-v1/018.mp3",
+      "durationMs": 405380,
+      "bytes": 4865200,
+      "sha256": "2b836455a34a19bdbc6bf3b90ba15e93e30be4eb4014103948c8b863ef6b04d5",
+      "sharedAyahs": [
+        "54:18",
+        "54:19",
+        "54:20",
+        "54:21",
+        "54:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 413.63,
+          "end": 819.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-22: كذبت عاد فكيف كان عذابي ونذر إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر تنزع الناس كأنهم أعجاز نخل منقعر"
+    },
+    "54:20": {
+      "file": "054-القمر-youtube-v1/018.mp3",
+      "durationMs": 405380,
+      "bytes": 4865200,
+      "sha256": "2b836455a34a19bdbc6bf3b90ba15e93e30be4eb4014103948c8b863ef6b04d5",
+      "sharedAyahs": [
+        "54:18",
+        "54:19",
+        "54:20",
+        "54:21",
+        "54:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 413.63,
+          "end": 819.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-22: كذبت عاد فكيف كان عذابي ونذر إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر تنزع الناس كأنهم أعجاز نخل منقعر"
+    },
+    "54:21": {
+      "file": "054-القمر-youtube-v1/018.mp3",
+      "durationMs": 405380,
+      "bytes": 4865200,
+      "sha256": "2b836455a34a19bdbc6bf3b90ba15e93e30be4eb4014103948c8b863ef6b04d5",
+      "sharedAyahs": [
+        "54:18",
+        "54:19",
+        "54:20",
+        "54:21",
+        "54:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 413.63,
+          "end": 819.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-22: كذبت عاد فكيف كان عذابي ونذر إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر تنزع الناس كأنهم أعجاز نخل منقعر"
+    },
+    "54:22": {
+      "file": "054-القمر-youtube-v1/018.mp3",
+      "durationMs": 405380,
+      "bytes": 4865200,
+      "sha256": "2b836455a34a19bdbc6bf3b90ba15e93e30be4eb4014103948c8b863ef6b04d5",
+      "sharedAyahs": [
+        "54:18",
+        "54:19",
+        "54:20",
+        "54:21",
+        "54:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 413.63,
+          "end": 819.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-22: كذبت عاد فكيف كان عذابي ونذر إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر تنزع الناس كأنهم أعجاز نخل منقعر"
+    },
+    "54:23": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:24": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:25": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:26": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:27": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:28": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:29": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:30": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:31": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:32": {
+      "file": "054-القمر-youtube-v1/023.mp3",
+      "durationMs": 528190,
+      "bytes": 6338896,
+      "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+      "sharedAyahs": [
+        "54:23",
+        "54:24",
+        "54:25",
+        "54:26",
+        "54:27",
+        "54:28",
+        "54:29",
+        "54:30",
+        "54:31",
+        "54:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 819.0,
+          "end": 1347.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-32: كذبت ثمود بالنذر فقالوا أبشرا منا واحدا نتبعه... ولقد يسرنا القرآن للذكر فهل من مدكر"
+    },
+    "54:33": {
+      "file": "054-القمر-youtube-v1/033.mp3",
+      "durationMs": 286970,
+      "bytes": 3444208,
+      "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+      "sharedAyahs": [
+        "54:33",
+        "54:34",
+        "54:35",
+        "54:36",
+        "54:37",
+        "54:38",
+        "54:39",
+        "54:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1347.16,
+          "end": 1634.11
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-40: كذبت قوم لوط بالنذر إنا أرسلنا عليهم حاصبا إلا آل لوط نجيناهم بسحر..."
+    },
+    "54:34": {
+      "file": "054-القمر-youtube-v1/033.mp3",
+      "durationMs": 286970,
+      "bytes": 3444208,
+      "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+      "sharedAyahs": [
+        "54:33",
+        "54:34",
+        "54:35",
+        "54:36",
+        "54:37",
+        "54:38",
+        "54:39",
+        "54:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1347.16,
+          "end": 1634.11
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-40: كذبت قوم لوط بالنذر إنا أرسلنا عليهم حاصبا إلا آل لوط نجيناهم بسحر..."
+    },
+    "54:35": {
+      "file": "054-القمر-youtube-v1/033.mp3",
+      "durationMs": 286970,
+      "bytes": 3444208,
+      "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+      "sharedAyahs": [
+        "54:33",
+        "54:34",
+        "54:35",
+        "54:36",
+        "54:37",
+        "54:38",
+        "54:39",
+        "54:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1347.16,
+          "end": 1634.11
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-40: كذبت قوم لوط بالنذر إنا أرسلنا عليهم حاصبا إلا آل لوط نجيناهم بسحر..."
+    },
+    "54:36": {
+      "file": "054-القمر-youtube-v1/033.mp3",
+      "durationMs": 286970,
+      "bytes": 3444208,
+      "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+      "sharedAyahs": [
+        "54:33",
+        "54:34",
+        "54:35",
+        "54:36",
+        "54:37",
+        "54:38",
+        "54:39",
+        "54:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1347.16,
+          "end": 1634.11
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-40: كذبت قوم لوط بالنذر إنا أرسلنا عليهم حاصبا إلا آل لوط نجيناهم بسحر..."
+    },
+    "54:37": {
+      "file": "054-القمر-youtube-v1/033.mp3",
+      "durationMs": 286970,
+      "bytes": 3444208,
+      "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+      "sharedAyahs": [
+        "54:33",
+        "54:34",
+        "54:35",
+        "54:36",
+        "54:37",
+        "54:38",
+        "54:39",
+        "54:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1347.16,
+          "end": 1634.11
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-40: كذبت قوم لوط بالنذر إنا أرسلنا عليهم حاصبا إلا آل لوط نجيناهم بسحر..."
+    },
+    "54:38": {
+      "file": "054-القمر-youtube-v1/033.mp3",
+      "durationMs": 286970,
+      "bytes": 3444208,
+      "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+      "sharedAyahs": [
+        "54:33",
+        "54:34",
+        "54:35",
+        "54:36",
+        "54:37",
+        "54:38",
+        "54:39",
+        "54:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1347.16,
+          "end": 1634.11
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-40: كذبت قوم لوط بالنذر إنا أرسلنا عليهم حاصبا إلا آل لوط نجيناهم بسحر..."
+    },
+    "54:39": {
+      "file": "054-القمر-youtube-v1/033.mp3",
+      "durationMs": 286970,
+      "bytes": 3444208,
+      "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+      "sharedAyahs": [
+        "54:33",
+        "54:34",
+        "54:35",
+        "54:36",
+        "54:37",
+        "54:38",
+        "54:39",
+        "54:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1347.16,
+          "end": 1634.11
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-40: كذبت قوم لوط بالنذر إنا أرسلنا عليهم حاصبا إلا آل لوط نجيناهم بسحر..."
+    },
+    "54:40": {
+      "file": "054-القمر-youtube-v1/033.mp3",
+      "durationMs": 286970,
+      "bytes": 3444208,
+      "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+      "sharedAyahs": [
+        "54:33",
+        "54:34",
+        "54:35",
+        "54:36",
+        "54:37",
+        "54:38",
+        "54:39",
+        "54:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1347.16,
+          "end": 1634.11
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-40: كذبت قوم لوط بالنذر إنا أرسلنا عليهم حاصبا إلا آل لوط نجيناهم بسحر..."
+    },
+    "54:41": {
+      "file": "054-القمر-youtube-v1/041.mp3",
+      "durationMs": 394010,
+      "bytes": 4728688,
+      "sha256": "57e9bcf795e2b3b810f2c32eb853055d8ada4a99ce4ff478437e8ab0b1bee086",
+      "sharedAyahs": [
+        "54:41",
+        "54:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1634.11,
+          "end": 2028.09
+        }
+      ],
+      "reviewNote": "تفسير الآيات 41-42: ولقد جاء آل فرعون النذر كذبوا بآياتنا كلها فأخذناهم أخذ عزيز مقتدر"
+    },
+    "54:42": {
+      "file": "054-القمر-youtube-v1/041.mp3",
+      "durationMs": 394010,
+      "bytes": 4728688,
+      "sha256": "57e9bcf795e2b3b810f2c32eb853055d8ada4a99ce4ff478437e8ab0b1bee086",
+      "sharedAyahs": [
+        "54:41",
+        "54:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 1634.11,
+          "end": 2028.09
+        }
+      ],
+      "reviewNote": "تفسير الآيات 41-42: ولقد جاء آل فرعون النذر كذبوا بآياتنا كلها فأخذناهم أخذ عزيز مقتدر"
+    },
+    "54:43": {
+      "file": "054-القمر-youtube-v1/043.mp3",
+      "durationMs": 503660,
+      "bytes": 6044560,
+      "sha256": "02f4580a9d6925426d42268c6128a392a40a5fe2488ee1f762d982f10607e444",
+      "sharedAyahs": [
+        "54:43",
+        "54:44",
+        "54:45",
+        "54:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2028.09,
+          "end": 2531.72
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-46: أكفاركم خير من أولئكم أم لكم براءة في الزبر أم يقولون نحن جميع منتصر سيهزم الجمع ويولون الدبر بل الساعة موعدهم والساعة أدهى وأمر"
+    },
+    "54:44": {
+      "file": "054-القمر-youtube-v1/043.mp3",
+      "durationMs": 503660,
+      "bytes": 6044560,
+      "sha256": "02f4580a9d6925426d42268c6128a392a40a5fe2488ee1f762d982f10607e444",
+      "sharedAyahs": [
+        "54:43",
+        "54:44",
+        "54:45",
+        "54:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2028.09,
+          "end": 2531.72
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-46: أكفاركم خير من أولئكم أم لكم براءة في الزبر أم يقولون نحن جميع منتصر سيهزم الجمع ويولون الدبر بل الساعة موعدهم والساعة أدهى وأمر"
+    },
+    "54:45": {
+      "file": "054-القمر-youtube-v1/043.mp3",
+      "durationMs": 503660,
+      "bytes": 6044560,
+      "sha256": "02f4580a9d6925426d42268c6128a392a40a5fe2488ee1f762d982f10607e444",
+      "sharedAyahs": [
+        "54:43",
+        "54:44",
+        "54:45",
+        "54:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2028.09,
+          "end": 2531.72
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-46: أكفاركم خير من أولئكم أم لكم براءة في الزبر أم يقولون نحن جميع منتصر سيهزم الجمع ويولون الدبر بل الساعة موعدهم والساعة أدهى وأمر"
+    },
+    "54:46": {
+      "file": "054-القمر-youtube-v1/043.mp3",
+      "durationMs": 503660,
+      "bytes": 6044560,
+      "sha256": "02f4580a9d6925426d42268c6128a392a40a5fe2488ee1f762d982f10607e444",
+      "sharedAyahs": [
+        "54:43",
+        "54:44",
+        "54:45",
+        "54:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2028.09,
+          "end": 2531.72
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-46: أكفاركم خير من أولئكم أم لكم براءة في الزبر أم يقولون نحن جميع منتصر سيهزم الجمع ويولون الدبر بل الساعة موعدهم والساعة أدهى وأمر"
+    },
+    "54:47": {
+      "file": "054-القمر-youtube-v1/047.mp3",
+      "durationMs": 304800,
+      "bytes": 3658192,
+      "sha256": "264aab1cdbf867b87d11f3cd3fa214d8e5734202b50f0546ac47bff2eacfd580",
+      "sharedAyahs": [
+        "54:47",
+        "54:48",
+        "54:49",
+        "54:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2531.72,
+          "end": 2836.49
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-50: إن المجرمين في ضلال وسعر يوم يسحبون في النار على وجوههم ذوقوا مس سقر إنا كل شيء خلقناه بقدر وما أمرنا إلا واحدة كلمح بالبصر"
+    },
+    "54:48": {
+      "file": "054-القمر-youtube-v1/047.mp3",
+      "durationMs": 304800,
+      "bytes": 3658192,
+      "sha256": "264aab1cdbf867b87d11f3cd3fa214d8e5734202b50f0546ac47bff2eacfd580",
+      "sharedAyahs": [
+        "54:47",
+        "54:48",
+        "54:49",
+        "54:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2531.72,
+          "end": 2836.49
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-50: إن المجرمين في ضلال وسعر يوم يسحبون في النار على وجوههم ذوقوا مس سقر إنا كل شيء خلقناه بقدر وما أمرنا إلا واحدة كلمح بالبصر"
+    },
+    "54:49": {
+      "file": "054-القمر-youtube-v1/047.mp3",
+      "durationMs": 304800,
+      "bytes": 3658192,
+      "sha256": "264aab1cdbf867b87d11f3cd3fa214d8e5734202b50f0546ac47bff2eacfd580",
+      "sharedAyahs": [
+        "54:47",
+        "54:48",
+        "54:49",
+        "54:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2531.72,
+          "end": 2836.49
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-50: إن المجرمين في ضلال وسعر يوم يسحبون في النار على وجوههم ذوقوا مس سقر إنا كل شيء خلقناه بقدر وما أمرنا إلا واحدة كلمح بالبصر"
+    },
+    "54:50": {
+      "file": "054-القمر-youtube-v1/047.mp3",
+      "durationMs": 304800,
+      "bytes": 3658192,
+      "sha256": "264aab1cdbf867b87d11f3cd3fa214d8e5734202b50f0546ac47bff2eacfd580",
+      "sharedAyahs": [
+        "54:47",
+        "54:48",
+        "54:49",
+        "54:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2531.72,
+          "end": 2836.49
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-50: إن المجرمين في ضلال وسعر يوم يسحبون في النار على وجوههم ذوقوا مس سقر إنا كل شيء خلقناه بقدر وما أمرنا إلا واحدة كلمح بالبصر"
+    },
+    "54:51": {
+      "file": "054-القمر-youtube-v1/051.mp3",
+      "durationMs": 114980,
+      "bytes": 1380400,
+      "sha256": "81cb38a8665eea96711b594f5d069c1e8d963d1678314f8fab9443aa278cba5a",
+      "sharedAyahs": [
+        "54:51",
+        "54:52",
+        "54:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2836.49,
+          "end": 2951.46
+        }
+      ],
+      "reviewNote": "تفسير الآيات 51-53: ولقد أهلكنا أشياعكم فهل من مدكر وكل شيء فعلوه في الزبر وكل صغير وكبير مستطر"
+    },
+    "54:52": {
+      "file": "054-القمر-youtube-v1/051.mp3",
+      "durationMs": 114980,
+      "bytes": 1380400,
+      "sha256": "81cb38a8665eea96711b594f5d069c1e8d963d1678314f8fab9443aa278cba5a",
+      "sharedAyahs": [
+        "54:51",
+        "54:52",
+        "54:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2836.49,
+          "end": 2951.46
+        }
+      ],
+      "reviewNote": "تفسير الآيات 51-53: ولقد أهلكنا أشياعكم فهل من مدكر وكل شيء فعلوه في الزبر وكل صغير وكبير مستطر"
+    },
+    "54:53": {
+      "file": "054-القمر-youtube-v1/051.mp3",
+      "durationMs": 114980,
+      "bytes": 1380400,
+      "sha256": "81cb38a8665eea96711b594f5d069c1e8d963d1678314f8fab9443aa278cba5a",
+      "sharedAyahs": [
+        "54:51",
+        "54:52",
+        "54:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2836.49,
+          "end": 2951.46
+        }
+      ],
+      "reviewNote": "تفسير الآيات 51-53: ولقد أهلكنا أشياعكم فهل من مدكر وكل شيء فعلوه في الزبر وكل صغير وكبير مستطر"
+    },
+    "54:54": {
+      "file": "054-القمر-youtube-v1/054.mp3",
+      "durationMs": 172420,
+      "bytes": 2069584,
+      "sha256": "e175d15a1f33cba86defdd6a39f58044ed452d461e460841b363fe8811fe2e87",
+      "sharedAyahs": [
+        "54:54",
+        "54:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2951.46,
+          "end": 3123.89
+        }
+      ],
+      "reviewNote": "تفسير الآيات 54-55: إن المتقين في جنات ونهر في مقعد صدق عند مليك مقتدر"
+    },
+    "54:55": {
+      "file": "054-القمر-youtube-v1/054.mp3",
+      "durationMs": 172420,
+      "bytes": 2069584,
+      "sha256": "e175d15a1f33cba86defdd6a39f58044ed452d461e460841b363fe8811fe2e87",
+      "sharedAyahs": [
+        "54:54",
+        "54:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 2951.46,
+          "end": 3123.89
+        }
+      ],
+      "reviewNote": "تفسير الآيات 54-55: إن المتقين في جنات ونهر في مقعد صدق عند مليك مقتدر"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "054-القمر-youtube-v1/closing-10.mp3",
+      "kind": "closing",
+      "durationMs": 413660,
+      "bytes": 4964548,
+      "sha256": "6671ee747bd66c493c37fc59f929ad6444543c64a3e8e84dab753c14d1f4ee0e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "PbRSqgxeI94",
+          "start": 0.0,
+          "end": 413.63
+        }
+      ],
+      "reviewNote": "مراجعة وتمهيد قصة عاد وثمود"
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL593256D5EDFF99FA",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "qamar-splitting-of-the-moon",
+      "title": "معجزة انشقاق القمر واقتراب الساعة وعناد المكذبين",
+      "file": "054-القمر-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 859660
+    },
+    {
+      "id": "qamar-story-of-noah-and-ark",
+      "title": "طوفان نوح وسفينة النجاة: وحملناه على ذات ألواح ودسر",
+      "file": "054-القمر-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 408330
+    },
+    {
+      "id": "qamar-quran-facilitated-for-remembrance",
+      "title": "تيسير القرآن للذكر والاعتبار بمصارع الأمم المكذبة",
+      "file": "054-القمر-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 545810
+    },
+    {
+      "id": "qamar-divine-decree-and-believers-reward",
+      "title": "إنا كل شيء خلقناه بقدر ونعيم المتقين في مقعد صدق عند مليك مقتدر",
+      "file": "054-القمر-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 304770
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "DEMj9WNhGQo",
+      "xM7Y9Wv3dB4",
+      "PbRSqgxeI94"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "054-القمر-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 859700,
+        "durationMs": 859700,
+        "recordingDurationMs": 859700,
+        "bytes": 10317033,
+        "sha256": "fe857ae7894a37e4a2bd17c7f04b078981f640b1a91188563985b4923807f875",
+        "sharedAyahs": [
+          "54:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DEMj9WNhGQo",
+            "start": 0.0,
+            "end": 859.66
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 565300,
+        "durationMs": 565300,
+        "recordingDurationMs": 565300,
+        "bytes": 6784137,
+        "sha256": "56b59c6c300580f0b634643ad368216a5be46623fe9b6b47f5e89ceb79bad53b",
+        "sharedAyahs": [
+          "54:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DEMj9WNhGQo",
+            "start": 859.66,
+            "end": 1424.95
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 206640,
+        "durationMs": 206640,
+        "recordingDurationMs": 206640,
+        "bytes": 2480265,
+        "sha256": "a7d3c70344774f16c9acfe0a2d8744474c53eb85a2af0cd1c2f9faf1d286e5d5",
+        "sharedAyahs": [
+          "54:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DEMj9WNhGQo",
+            "start": 1424.95,
+            "end": 1631.56
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 362930,
+        "durationMs": 362930,
+        "recordingDurationMs": 362930,
+        "bytes": 4355725,
+        "sha256": "5e96b973b65b43c3dce9993405f3c4cf0c9edeaf2a30e6a6ff9bc5d96dc8c5d5",
+        "sharedAyahs": [
+          "54:4",
+          "54:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DEMj9WNhGQo",
+            "start": 1631.56,
+            "end": 1994.46
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 77110,
+        "durationMs": 77110,
+        "recordingDurationMs": 77110,
+        "bytes": 925929,
+        "sha256": "1446dbd57b39a10c1830a914ff54f01c4c378472cfafe3e95285a7a1eae59106",
+        "sharedAyahs": [
+          "54:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DEMj9WNhGQo",
+            "start": 1994.46,
+            "end": 2071.58
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 248180,
+        "durationMs": 248180,
+        "recordingDurationMs": 248180,
+        "bytes": 2978797,
+        "sha256": "d170db7087bab82b211c339281ffe0b2ba097bc45a938586c16127b33fc50ddb",
+        "sharedAyahs": [
+          "54:7",
+          "54:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xM7Y9Wv3dB4",
+            "start": 0.0,
+            "end": 248.16
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 408360,
+        "durationMs": 408360,
+        "recordingDurationMs": 408360,
+        "bytes": 4900910,
+        "sha256": "ff07d71b7205f5ea8381271f963f2c9e1c923f20cb4991dd3b345b6dc6ccd344",
+        "sharedAyahs": [
+          "54:9",
+          "54:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xM7Y9Wv3dB4",
+            "start": 248.16,
+            "end": 656.49
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 305380,
+        "durationMs": 305380,
+        "recordingDurationMs": 305380,
+        "bytes": 3665104,
+        "sha256": "47d0f55f8a9fbd37e2abdbef62cb58242a26c630b1bf44dfd3687d78355ebd6e",
+        "sharedAyahs": [
+          "54:11",
+          "54:12",
+          "54:13",
+          "54:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xM7Y9Wv3dB4",
+            "start": 656.49,
+            "end": 961.83
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 114220,
+        "durationMs": 114220,
+        "recordingDurationMs": 114220,
+        "bytes": 1371184,
+        "sha256": "ceab28b7dd150ea24deb51b13c0ab99b44f66e03e23dc0043bba2efcba610722",
+        "sharedAyahs": [
+          "54:15",
+          "54:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xM7Y9Wv3dB4",
+            "start": 961.83,
+            "end": 1076.04
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 545810,
+        "durationMs": 545810,
+        "recordingDurationMs": 545810,
+        "bytes": 6550283,
+        "sha256": "80825733cd70da6ee6f35ca6530f359713703226a8b33dc8b083a4720f31709a",
+        "sharedAyahs": [
+          "54:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xM7Y9Wv3dB4",
+            "start": 1076.04,
+            "end": 1621.85
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/closing-10.mp3",
+        "startMs": 0,
+        "endMs": 413660,
+        "durationMs": 413660,
+        "recordingDurationMs": 413660,
+        "bytes": 4964548,
+        "sha256": "6671ee747bd66c493c37fc59f929ad6444543c64a3e8e84dab753c14d1f4ee0e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 0.0,
+            "end": 413.63
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 405380,
+        "durationMs": 405380,
+        "recordingDurationMs": 405380,
+        "bytes": 4865200,
+        "sha256": "2b836455a34a19bdbc6bf3b90ba15e93e30be4eb4014103948c8b863ef6b04d5",
+        "sharedAyahs": [
+          "54:18",
+          "54:19",
+          "54:20",
+          "54:21",
+          "54:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 413.63,
+            "end": 819.0
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 528190,
+        "durationMs": 528190,
+        "recordingDurationMs": 528190,
+        "bytes": 6338896,
+        "sha256": "570cb07667ab93ed81803f1530dcc16348c8e526d9f6b4ed5a3de56748519b2a",
+        "sharedAyahs": [
+          "54:23",
+          "54:24",
+          "54:25",
+          "54:26",
+          "54:27",
+          "54:28",
+          "54:29",
+          "54:30",
+          "54:31",
+          "54:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 819.0,
+            "end": 1347.16
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 286970,
+        "durationMs": 286970,
+        "recordingDurationMs": 286970,
+        "bytes": 3444208,
+        "sha256": "7fe9375b5440bfea9182cb6bbee0a3b55f14db959029c64119b0c3a037bd1f73",
+        "sharedAyahs": [
+          "54:33",
+          "54:34",
+          "54:35",
+          "54:36",
+          "54:37",
+          "54:38",
+          "54:39",
+          "54:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 1347.16,
+            "end": 1634.11
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 394010,
+        "durationMs": 394010,
+        "recordingDurationMs": 394010,
+        "bytes": 4728688,
+        "sha256": "57e9bcf795e2b3b810f2c32eb853055d8ada4a99ce4ff478437e8ab0b1bee086",
+        "sharedAyahs": [
+          "54:41",
+          "54:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 1634.11,
+            "end": 2028.09
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 503660,
+        "durationMs": 503660,
+        "recordingDurationMs": 503660,
+        "bytes": 6044560,
+        "sha256": "02f4580a9d6925426d42268c6128a392a40a5fe2488ee1f762d982f10607e444",
+        "sharedAyahs": [
+          "54:43",
+          "54:44",
+          "54:45",
+          "54:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 2028.09,
+            "end": 2531.72
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 304800,
+        "durationMs": 304800,
+        "recordingDurationMs": 304800,
+        "bytes": 3658192,
+        "sha256": "264aab1cdbf867b87d11f3cd3fa214d8e5734202b50f0546ac47bff2eacfd580",
+        "sharedAyahs": [
+          "54:47",
+          "54:48",
+          "54:49",
+          "54:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 2531.72,
+            "end": 2836.49
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 114980,
+        "durationMs": 114980,
+        "recordingDurationMs": 114980,
+        "bytes": 1380400,
+        "sha256": "81cb38a8665eea96711b594f5d069c1e8d963d1678314f8fab9443aa278cba5a",
+        "sharedAyahs": [
+          "54:51",
+          "54:52",
+          "54:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 2836.49,
+            "end": 2951.46
+          }
+        ]
+      },
+      {
+        "file": "054-القمر-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 172420,
+        "durationMs": 172420,
+        "recordingDurationMs": 172420,
+        "bytes": 2069584,
+        "sha256": "e175d15a1f33cba86defdd6a39f58044ed452d461e460841b363fe8811fe2e87",
+        "sharedAyahs": [
+          "54:54",
+          "54:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PbRSqgxeI94",
+            "start": 2951.46,
+            "end": 3123.89
+          }
+        ]
+      }
+    ],
+    "durationMs": 6817700,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
