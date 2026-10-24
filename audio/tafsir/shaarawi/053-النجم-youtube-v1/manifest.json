@@ -1,0 +1,1933 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 53,
+  "surahName": "النجم",
+  "ayahCount": 62,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 62,
+    "mappedAyahCount": 62,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "RcDd-sKMcQU": {
+      "durationSeconds": 1677.07,
+      "bytes": 20125466,
+      "sha256": "ae320c6e41b37d3ca57d72279183c55efe16f62343b6b4b06f3e5aecc0c488a9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-010_RcDd-sKMcQU.mp3",
+      "url": "https://www.youtube.com/watch?v=RcDd-sKMcQU"
+    },
+    "-hrE2C1x3GM": {
+      "durationSeconds": 1408.63,
+      "bytes": 16904188,
+      "sha256": "212628c12957ff446de13b88f9eaf7262f8c581b1b7833c57cda1363f5de7d97",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_011-022_-hrE2C1x3GM.mp3",
+      "url": "https://www.youtube.com/watch?v=-hrE2C1x3GM"
+    },
+    "HBe8srv-zQ8": {
+      "durationSeconds": 1677.19,
+      "bytes": 20126908,
+      "sha256": "2a94c1b03b5904def4bc71021426d2d01eb10341c2dc213d9512307080f48ff6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_023-031_HBe8srv-zQ8.mp3",
+      "url": "https://www.youtube.com/watch?v=HBe8srv-zQ8"
+    },
+    "N2mg5pCnvDQ": {
+      "durationSeconds": 1689.82,
+      "bytes": 20278396,
+      "sha256": "0704648208c11b928e59cdc7b38ad511d0d6df384588d9e05c825a73b22e0986",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_032-042_N2mg5pCnvDQ.mp3",
+      "url": "https://www.youtube.com/watch?v=N2mg5pCnvDQ"
+    },
+    "HOWr4hjwudY": {
+      "durationSeconds": 1329.89,
+      "bytes": 15959260,
+      "sha256": "7ce35120bf774198c591c64da277f0573d10e947ebd4deb2239c82e1180a0e18",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_042-062_HOWr4hjwudY.mp3",
+      "url": "https://www.youtube.com/watch?v=HOWr4hjwudY"
+    }
+  },
+  "ayahs": {
+    "53:1": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:2": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:3": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:4": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:5": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:6": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:7": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:8": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:9": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:10": {
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "durationMs": 1677070,
+      "bytes": 20125454,
+      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "sharedAyahs": [
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RcDd-sKMcQU",
+          "start": 0.0,
+          "end": 1677.07
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+    },
+    "53:11": {
+      "file": "053-النجم-youtube-v1/011.mp3",
+      "durationMs": 155090,
+      "bytes": 1861648,
+      "sha256": "a5e20251d57d73bcf29be988fcb3fea59962b423ec059df020f3b2e7c1dd9ec8",
+      "sharedAyahs": [
+        "53:11",
+        "53:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 0.0,
+          "end": 155.05
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-12: ما كذب الفؤاد ما رأى أفتمارونه على ما يرى"
+    },
+    "53:12": {
+      "file": "053-النجم-youtube-v1/011.mp3",
+      "durationMs": 155090,
+      "bytes": 1861648,
+      "sha256": "a5e20251d57d73bcf29be988fcb3fea59962b423ec059df020f3b2e7c1dd9ec8",
+      "sharedAyahs": [
+        "53:11",
+        "53:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 0.0,
+          "end": 155.05
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-12: ما كذب الفؤاد ما رأى أفتمارونه على ما يرى"
+    },
+    "53:13": {
+      "file": "053-النجم-youtube-v1/013.mp3",
+      "durationMs": 807360,
+      "bytes": 9688912,
+      "sha256": "75126dc234b85ecc43b8bc5c6548ad275ad8a20f973c52501eab8cfbf65d7a0a",
+      "sharedAyahs": [
+        "53:13",
+        "53:14",
+        "53:15",
+        "53:16",
+        "53:17",
+        "53:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 155.05,
+          "end": 962.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-18: ولقد رآه نزلة أخرى عند سدرة المنتهى عندها جنة المأوى إذ يغشى السدرة ما يغشى ما زاغ البصر وما طغى لقد رأى من آيات ربه الكبرى"
+    },
+    "53:14": {
+      "file": "053-النجم-youtube-v1/013.mp3",
+      "durationMs": 807360,
+      "bytes": 9688912,
+      "sha256": "75126dc234b85ecc43b8bc5c6548ad275ad8a20f973c52501eab8cfbf65d7a0a",
+      "sharedAyahs": [
+        "53:13",
+        "53:14",
+        "53:15",
+        "53:16",
+        "53:17",
+        "53:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 155.05,
+          "end": 962.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-18: ولقد رآه نزلة أخرى عند سدرة المنتهى عندها جنة المأوى إذ يغشى السدرة ما يغشى ما زاغ البصر وما طغى لقد رأى من آيات ربه الكبرى"
+    },
+    "53:15": {
+      "file": "053-النجم-youtube-v1/013.mp3",
+      "durationMs": 807360,
+      "bytes": 9688912,
+      "sha256": "75126dc234b85ecc43b8bc5c6548ad275ad8a20f973c52501eab8cfbf65d7a0a",
+      "sharedAyahs": [
+        "53:13",
+        "53:14",
+        "53:15",
+        "53:16",
+        "53:17",
+        "53:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 155.05,
+          "end": 962.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-18: ولقد رآه نزلة أخرى عند سدرة المنتهى عندها جنة المأوى إذ يغشى السدرة ما يغشى ما زاغ البصر وما طغى لقد رأى من آيات ربه الكبرى"
+    },
+    "53:16": {
+      "file": "053-النجم-youtube-v1/013.mp3",
+      "durationMs": 807360,
+      "bytes": 9688912,
+      "sha256": "75126dc234b85ecc43b8bc5c6548ad275ad8a20f973c52501eab8cfbf65d7a0a",
+      "sharedAyahs": [
+        "53:13",
+        "53:14",
+        "53:15",
+        "53:16",
+        "53:17",
+        "53:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 155.05,
+          "end": 962.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-18: ولقد رآه نزلة أخرى عند سدرة المنتهى عندها جنة المأوى إذ يغشى السدرة ما يغشى ما زاغ البصر وما طغى لقد رأى من آيات ربه الكبرى"
+    },
+    "53:17": {
+      "file": "053-النجم-youtube-v1/013.mp3",
+      "durationMs": 807360,
+      "bytes": 9688912,
+      "sha256": "75126dc234b85ecc43b8bc5c6548ad275ad8a20f973c52501eab8cfbf65d7a0a",
+      "sharedAyahs": [
+        "53:13",
+        "53:14",
+        "53:15",
+        "53:16",
+        "53:17",
+        "53:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 155.05,
+          "end": 962.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-18: ولقد رآه نزلة أخرى عند سدرة المنتهى عندها جنة المأوى إذ يغشى السدرة ما يغشى ما زاغ البصر وما طغى لقد رأى من آيات ربه الكبرى"
+    },
+    "53:18": {
+      "file": "053-النجم-youtube-v1/013.mp3",
+      "durationMs": 807360,
+      "bytes": 9688912,
+      "sha256": "75126dc234b85ecc43b8bc5c6548ad275ad8a20f973c52501eab8cfbf65d7a0a",
+      "sharedAyahs": [
+        "53:13",
+        "53:14",
+        "53:15",
+        "53:16",
+        "53:17",
+        "53:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 155.05,
+          "end": 962.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-18: ولقد رآه نزلة أخرى عند سدرة المنتهى عندها جنة المأوى إذ يغشى السدرة ما يغشى ما زاغ البصر وما طغى لقد رأى من آيات ربه الكبرى"
+    },
+    "53:19": {
+      "file": "053-النجم-youtube-v1/019.mp3",
+      "durationMs": 374540,
+      "bytes": 4495120,
+      "sha256": "660f14fef5e4819014b71f2b90452dfcbf1531d79da3017be81b07a4d6665b7a",
+      "sharedAyahs": [
+        "53:19",
+        "53:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 962.4,
+          "end": 1336.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 19-20: أفرأيتم اللات والعزى ومناة الثالثة الأخرى"
+    },
+    "53:20": {
+      "file": "053-النجم-youtube-v1/019.mp3",
+      "durationMs": 374540,
+      "bytes": 4495120,
+      "sha256": "660f14fef5e4819014b71f2b90452dfcbf1531d79da3017be81b07a4d6665b7a",
+      "sharedAyahs": [
+        "53:19",
+        "53:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 962.4,
+          "end": 1336.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 19-20: أفرأيتم اللات والعزى ومناة الثالثة الأخرى"
+    },
+    "53:21": {
+      "file": "053-النجم-youtube-v1/021.mp3",
+      "durationMs": 71710,
+      "bytes": 861136,
+      "sha256": "0647b27847380a1405283677fa5f2125ca3e67aabd9f0159e54c32d8332d1a07",
+      "sharedAyahs": [
+        "53:21",
+        "53:22",
+        "53:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 1336.9,
+          "end": 1408.63
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-23: ألكم الذكر وله الأنثى تلك إذا قسمة ضيزى إن هي إلا أسماء سميتموها"
+    },
+    "53:22": {
+      "file": "053-النجم-youtube-v1/021.mp3",
+      "durationMs": 71710,
+      "bytes": 861136,
+      "sha256": "0647b27847380a1405283677fa5f2125ca3e67aabd9f0159e54c32d8332d1a07",
+      "sharedAyahs": [
+        "53:21",
+        "53:22",
+        "53:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 1336.9,
+          "end": 1408.63
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-23: ألكم الذكر وله الأنثى تلك إذا قسمة ضيزى إن هي إلا أسماء سميتموها"
+    },
+    "53:23": {
+      "file": "053-النجم-youtube-v1/021.mp3",
+      "durationMs": 71710,
+      "bytes": 861136,
+      "sha256": "0647b27847380a1405283677fa5f2125ca3e67aabd9f0159e54c32d8332d1a07",
+      "sharedAyahs": [
+        "53:21",
+        "53:22",
+        "53:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hrE2C1x3GM",
+          "start": 1336.9,
+          "end": 1408.63
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-23: ألكم الذكر وله الأنثى تلك إذا قسمة ضيزى إن هي إلا أسماء سميتموها"
+    },
+    "53:24": {
+      "file": "053-النجم-youtube-v1/024.mp3",
+      "durationMs": 225020,
+      "bytes": 2700880,
+      "sha256": "a9b9d106944e1383f9a2416f4d770c19eece14b67b76e2983de44f71ca519e8c",
+      "sharedAyahs": [
+        "53:24",
+        "53:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 0.0,
+          "end": 225.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 24-25: أم للإنسان ما تمنى فلله الآخرة والأولى"
+    },
+    "53:25": {
+      "file": "053-النجم-youtube-v1/024.mp3",
+      "durationMs": 225020,
+      "bytes": 2700880,
+      "sha256": "a9b9d106944e1383f9a2416f4d770c19eece14b67b76e2983de44f71ca519e8c",
+      "sharedAyahs": [
+        "53:24",
+        "53:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 0.0,
+          "end": 225.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 24-25: أم للإنسان ما تمنى فلله الآخرة والأولى"
+    },
+    "53:26": {
+      "file": "053-النجم-youtube-v1/026.mp3",
+      "durationMs": 179140,
+      "bytes": 2150219,
+      "sha256": "9400c5b9881cc6683eec81d4cc2bac994e8444d3407524c913f52efac2ba578b",
+      "sharedAyahs": [
+        "53:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 225.0,
+          "end": 404.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 26: وكم من ملك في السماوات لا تغني شفاعتهم شيئا إلا من بعد أن يأذن الله لمن يشاء ويرضى"
+    },
+    "53:27": {
+      "file": "053-النجم-youtube-v1/027.mp3",
+      "durationMs": 107830,
+      "bytes": 1294576,
+      "sha256": "1a5996e6edb2874c0c5f4f30a9030ae56f9a45702377a62e802b1d6a4b29cc98",
+      "sharedAyahs": [
+        "53:27",
+        "53:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 404.1,
+          "end": 511.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 27-28: إن الذين لا يؤمنون بالآخرة ليسمون الملائكة تسمية الأنثى وما لهم به من علم"
+    },
+    "53:28": {
+      "file": "053-النجم-youtube-v1/027.mp3",
+      "durationMs": 107830,
+      "bytes": 1294576,
+      "sha256": "1a5996e6edb2874c0c5f4f30a9030ae56f9a45702377a62e802b1d6a4b29cc98",
+      "sharedAyahs": [
+        "53:27",
+        "53:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 404.1,
+          "end": 511.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 27-28: إن الذين لا يؤمنون بالآخرة ليسمون الملائكة تسمية الأنثى وما لهم به من علم"
+    },
+    "53:29": {
+      "file": "053-النجم-youtube-v1/029.mp3",
+      "durationMs": 479300,
+      "bytes": 5752240,
+      "sha256": "c9704a4219ebefdcaca37f74067f288674c072d6ab8c08db6bfe3e03c6239fe7",
+      "sharedAyahs": [
+        "53:29",
+        "53:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 511.9,
+          "end": 991.18
+        }
+      ],
+      "reviewNote": "تفسير الآيات 29-30: فأعرض عن من تولى عن ذكرنا ولم يرد إلا الحياة الدنيا ذلك مبلغهم من العلم"
+    },
+    "53:30": {
+      "file": "053-النجم-youtube-v1/029.mp3",
+      "durationMs": 479300,
+      "bytes": 5752240,
+      "sha256": "c9704a4219ebefdcaca37f74067f288674c072d6ab8c08db6bfe3e03c6239fe7",
+      "sharedAyahs": [
+        "53:29",
+        "53:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 511.9,
+          "end": 991.18
+        }
+      ],
+      "reviewNote": "تفسير الآيات 29-30: فأعرض عن من تولى عن ذكرنا ولم يرد إلا الحياة الدنيا ذلك مبلغهم من العلم"
+    },
+    "53:31": {
+      "file": "053-النجم-youtube-v1/031.mp3",
+      "durationMs": 258460,
+      "bytes": 3102059,
+      "sha256": "145ffc1d3c1be67107b33f771eba969be30a73c389a7f7f1d46833eadcca46b9",
+      "sharedAyahs": [
+        "53:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 991.18,
+          "end": 1249.63
+        }
+      ],
+      "reviewNote": "تفسير الآية 31: ولله ما في السماوات وما في الأرض ليجزي الذين أساءوا بما عملوا ويجزي الذين أحسنوا بالحسنى"
+    },
+    "53:32": {
+      "file": "053-النجم-youtube-v1/032.mp3",
+      "durationMs": 725540,
+      "bytes": 8707115,
+      "sha256": "a655af5b573c16258800c5788abe0c15a39c2dea680ab1d6d94c5b39099c32e4",
+      "sharedAyahs": [
+        "53:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 0.0,
+          "end": 725.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 32: الذين يجتنبون كبائر الإثم والفواحش إلا اللمم إن ربك واسع المغفرة"
+    },
+    "53:33": {
+      "file": "053-النجم-youtube-v1/033.mp3",
+      "durationMs": 220100,
+      "bytes": 2641840,
+      "sha256": "3555eb3ffdd0666732f9c12d9980ed54dac3c71b0a92ea2e3e6b3e6b665f6fba",
+      "sharedAyahs": [
+        "53:33",
+        "53:34",
+        "53:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 725.5,
+          "end": 945.6
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-35: أفرأيت الذي تولى وأعطى قليلا وأكدى أعنده علم الغيب فهو يرى"
+    },
+    "53:34": {
+      "file": "053-النجم-youtube-v1/033.mp3",
+      "durationMs": 220100,
+      "bytes": 2641840,
+      "sha256": "3555eb3ffdd0666732f9c12d9980ed54dac3c71b0a92ea2e3e6b3e6b665f6fba",
+      "sharedAyahs": [
+        "53:33",
+        "53:34",
+        "53:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 725.5,
+          "end": 945.6
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-35: أفرأيت الذي تولى وأعطى قليلا وأكدى أعنده علم الغيب فهو يرى"
+    },
+    "53:35": {
+      "file": "053-النجم-youtube-v1/033.mp3",
+      "durationMs": 220100,
+      "bytes": 2641840,
+      "sha256": "3555eb3ffdd0666732f9c12d9980ed54dac3c71b0a92ea2e3e6b3e6b665f6fba",
+      "sharedAyahs": [
+        "53:33",
+        "53:34",
+        "53:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 725.5,
+          "end": 945.6
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-35: أفرأيت الذي تولى وأعطى قليلا وأكدى أعنده علم الغيب فهو يرى"
+    },
+    "53:36": {
+      "file": "053-النجم-youtube-v1/036.mp3",
+      "durationMs": 126290,
+      "bytes": 1516048,
+      "sha256": "c17ea01cf22353601db3ae2602f582660b8ff87016a7e777fb6f0dad02ccf209",
+      "sharedAyahs": [
+        "53:36",
+        "53:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 945.6,
+          "end": 1071.86
+        }
+      ],
+      "reviewNote": "تفسير الآيات 36-37: أم لم ينبأ بما في صحف موسى وإبراهيم الذي وفى"
+    },
+    "53:37": {
+      "file": "053-النجم-youtube-v1/036.mp3",
+      "durationMs": 126290,
+      "bytes": 1516048,
+      "sha256": "c17ea01cf22353601db3ae2602f582660b8ff87016a7e777fb6f0dad02ccf209",
+      "sharedAyahs": [
+        "53:36",
+        "53:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 945.6,
+          "end": 1071.86
+        }
+      ],
+      "reviewNote": "تفسير الآيات 36-37: أم لم ينبأ بما في صحف موسى وإبراهيم الذي وفى"
+    },
+    "53:38": {
+      "file": "053-النجم-youtube-v1/038.mp3",
+      "durationMs": 506980,
+      "bytes": 6084304,
+      "sha256": "0c7426847d11a9564d91637e17322ec3591537ef236b728735c2454f6b01870c",
+      "sharedAyahs": [
+        "53:38",
+        "53:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 1071.86,
+          "end": 1578.8
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-39: ألا تزر وازرة وزر أخرى وأن ليس للإنسان إلا ما سعى"
+    },
+    "53:39": {
+      "file": "053-النجم-youtube-v1/038.mp3",
+      "durationMs": 506980,
+      "bytes": 6084304,
+      "sha256": "0c7426847d11a9564d91637e17322ec3591537ef236b728735c2454f6b01870c",
+      "sharedAyahs": [
+        "53:38",
+        "53:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 1071.86,
+          "end": 1578.8
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-39: ألا تزر وازرة وزر أخرى وأن ليس للإنسان إلا ما سعى"
+    },
+    "53:40": {
+      "file": "053-النجم-youtube-v1/040.mp3",
+      "durationMs": 47020,
+      "bytes": 564784,
+      "sha256": "790ab99f732923cd4e4e7986b2ff5971cd8ad2864f83303f1b4fe781e2f99ac0",
+      "sharedAyahs": [
+        "53:40",
+        "53:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 1578.8,
+          "end": 1625.8
+        }
+      ],
+      "reviewNote": "تفسير الآيات 40-41: وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى"
+    },
+    "53:41": {
+      "file": "053-النجم-youtube-v1/040.mp3",
+      "durationMs": 47020,
+      "bytes": 564784,
+      "sha256": "790ab99f732923cd4e4e7986b2ff5971cd8ad2864f83303f1b4fe781e2f99ac0",
+      "sharedAyahs": [
+        "53:40",
+        "53:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 1578.8,
+          "end": 1625.8
+        }
+      ],
+      "reviewNote": "تفسير الآيات 40-41: وأن سعيه سوف يرى ثم يجزاه الجزاء الأوفى"
+    },
+    "53:42": {
+      "file": "053-النجم-youtube-v1/042.mp3",
+      "durationMs": 57620,
+      "bytes": 692075,
+      "sha256": "4a1d5623b8cb6f648f7e14afb3bc0b94500a6262ddea495c215f92466c6e9935",
+      "sharedAyahs": [
+        "53:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 0.0,
+          "end": 57.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 42: وأن إلى ربك المنتهى"
+    },
+    "53:43": {
+      "file": "053-النجم-youtube-v1/043.mp3",
+      "durationMs": 278420,
+      "bytes": 3341680,
+      "sha256": "5fdd2f3312a7e665a2d09f501152ac7b3caa10a7c39f64200bf71b6b8d5cd7c1",
+      "sharedAyahs": [
+        "53:43",
+        "53:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 57.6,
+          "end": 336.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-44: وأنه هو أضحك وأبكى وأنه هو أمات وأحيا"
+    },
+    "53:44": {
+      "file": "053-النجم-youtube-v1/043.mp3",
+      "durationMs": 278420,
+      "bytes": 3341680,
+      "sha256": "5fdd2f3312a7e665a2d09f501152ac7b3caa10a7c39f64200bf71b6b8d5cd7c1",
+      "sharedAyahs": [
+        "53:43",
+        "53:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 57.6,
+          "end": 336.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-44: وأنه هو أضحك وأبكى وأنه هو أمات وأحيا"
+    },
+    "53:45": {
+      "file": "053-النجم-youtube-v1/045.mp3",
+      "durationMs": 81240,
+      "bytes": 975472,
+      "sha256": "351c4239e6de4dade4658fd793b4676dee2c8fa50c81afa4d973db7b3b9b07b2",
+      "sharedAyahs": [
+        "53:45",
+        "53:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 336.0,
+          "end": 417.2
+        }
+      ],
+      "reviewNote": "تفسير الآيات 45-46: وأنه خلق الزوجين الذكر والأنثى من نطفة إذا تمنى"
+    },
+    "53:46": {
+      "file": "053-النجم-youtube-v1/045.mp3",
+      "durationMs": 81240,
+      "bytes": 975472,
+      "sha256": "351c4239e6de4dade4658fd793b4676dee2c8fa50c81afa4d973db7b3b9b07b2",
+      "sharedAyahs": [
+        "53:45",
+        "53:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 336.0,
+          "end": 417.2
+        }
+      ],
+      "reviewNote": "تفسير الآيات 45-46: وأنه خلق الزوجين الذكر والأنثى من نطفة إذا تمنى"
+    },
+    "53:47": {
+      "file": "053-النجم-youtube-v1/047.mp3",
+      "durationMs": 121320,
+      "bytes": 1456432,
+      "sha256": "fc0abc0b0bed585b184e1df05d935c0de97eb8a9ae5f0ad1e2c80f30088adb6f",
+      "sharedAyahs": [
+        "53:47",
+        "53:48",
+        "53:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 417.2,
+          "end": 538.5
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-49: وأن عليه النشأة الأخرى وأنه هو أغنى وأقنى وأنه هو رب الشعرى"
+    },
+    "53:48": {
+      "file": "053-النجم-youtube-v1/047.mp3",
+      "durationMs": 121320,
+      "bytes": 1456432,
+      "sha256": "fc0abc0b0bed585b184e1df05d935c0de97eb8a9ae5f0ad1e2c80f30088adb6f",
+      "sharedAyahs": [
+        "53:47",
+        "53:48",
+        "53:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 417.2,
+          "end": 538.5
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-49: وأن عليه النشأة الأخرى وأنه هو أغنى وأقنى وأنه هو رب الشعرى"
+    },
+    "53:49": {
+      "file": "053-النجم-youtube-v1/047.mp3",
+      "durationMs": 121320,
+      "bytes": 1456432,
+      "sha256": "fc0abc0b0bed585b184e1df05d935c0de97eb8a9ae5f0ad1e2c80f30088adb6f",
+      "sharedAyahs": [
+        "53:47",
+        "53:48",
+        "53:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 417.2,
+          "end": 538.5
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-49: وأن عليه النشأة الأخرى وأنه هو أغنى وأقنى وأنه هو رب الشعرى"
+    },
+    "53:50": {
+      "file": "053-النجم-youtube-v1/050.mp3",
+      "durationMs": 290420,
+      "bytes": 3485680,
+      "sha256": "20990f67977d60b0cbbb498fd44d721326966b9a2e54209d75accd49d6c94401",
+      "sharedAyahs": [
+        "53:50",
+        "53:51",
+        "53:52",
+        "53:53",
+        "53:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 538.5,
+          "end": 828.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 50-54: وأنه أهلك عادا الأولى وثمود فما أبقى وقوم نوح من قبل والمؤتفكة أهوى فغشاها ما غشى"
+    },
+    "53:51": {
+      "file": "053-النجم-youtube-v1/050.mp3",
+      "durationMs": 290420,
+      "bytes": 3485680,
+      "sha256": "20990f67977d60b0cbbb498fd44d721326966b9a2e54209d75accd49d6c94401",
+      "sharedAyahs": [
+        "53:50",
+        "53:51",
+        "53:52",
+        "53:53",
+        "53:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 538.5,
+          "end": 828.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 50-54: وأنه أهلك عادا الأولى وثمود فما أبقى وقوم نوح من قبل والمؤتفكة أهوى فغشاها ما غشى"
+    },
+    "53:52": {
+      "file": "053-النجم-youtube-v1/050.mp3",
+      "durationMs": 290420,
+      "bytes": 3485680,
+      "sha256": "20990f67977d60b0cbbb498fd44d721326966b9a2e54209d75accd49d6c94401",
+      "sharedAyahs": [
+        "53:50",
+        "53:51",
+        "53:52",
+        "53:53",
+        "53:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 538.5,
+          "end": 828.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 50-54: وأنه أهلك عادا الأولى وثمود فما أبقى وقوم نوح من قبل والمؤتفكة أهوى فغشاها ما غشى"
+    },
+    "53:53": {
+      "file": "053-النجم-youtube-v1/050.mp3",
+      "durationMs": 290420,
+      "bytes": 3485680,
+      "sha256": "20990f67977d60b0cbbb498fd44d721326966b9a2e54209d75accd49d6c94401",
+      "sharedAyahs": [
+        "53:50",
+        "53:51",
+        "53:52",
+        "53:53",
+        "53:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 538.5,
+          "end": 828.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 50-54: وأنه أهلك عادا الأولى وثمود فما أبقى وقوم نوح من قبل والمؤتفكة أهوى فغشاها ما غشى"
+    },
+    "53:54": {
+      "file": "053-النجم-youtube-v1/050.mp3",
+      "durationMs": 290420,
+      "bytes": 3485680,
+      "sha256": "20990f67977d60b0cbbb498fd44d721326966b9a2e54209d75accd49d6c94401",
+      "sharedAyahs": [
+        "53:50",
+        "53:51",
+        "53:52",
+        "53:53",
+        "53:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 538.5,
+          "end": 828.9
+        }
+      ],
+      "reviewNote": "تفسير الآيات 50-54: وأنه أهلك عادا الأولى وثمود فما أبقى وقوم نوح من قبل والمؤتفكة أهوى فغشاها ما غشى"
+    },
+    "53:55": {
+      "file": "053-النجم-youtube-v1/055.mp3",
+      "durationMs": 106510,
+      "bytes": 1278736,
+      "sha256": "f47791cffa43aad3862680918eb85e9ee4be59648ac801fe80865e2e621e49ff",
+      "sharedAyahs": [
+        "53:55",
+        "53:56",
+        "53:57",
+        "53:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 828.9,
+          "end": 935.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 55-58: فبأي آلاء ربك تتمارى هذا نذير من النذر الأولى أزفت الآزفة ليس لها من دون الله كاشفة"
+    },
+    "53:56": {
+      "file": "053-النجم-youtube-v1/055.mp3",
+      "durationMs": 106510,
+      "bytes": 1278736,
+      "sha256": "f47791cffa43aad3862680918eb85e9ee4be59648ac801fe80865e2e621e49ff",
+      "sharedAyahs": [
+        "53:55",
+        "53:56",
+        "53:57",
+        "53:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 828.9,
+          "end": 935.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 55-58: فبأي آلاء ربك تتمارى هذا نذير من النذر الأولى أزفت الآزفة ليس لها من دون الله كاشفة"
+    },
+    "53:57": {
+      "file": "053-النجم-youtube-v1/055.mp3",
+      "durationMs": 106510,
+      "bytes": 1278736,
+      "sha256": "f47791cffa43aad3862680918eb85e9ee4be59648ac801fe80865e2e621e49ff",
+      "sharedAyahs": [
+        "53:55",
+        "53:56",
+        "53:57",
+        "53:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 828.9,
+          "end": 935.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 55-58: فبأي آلاء ربك تتمارى هذا نذير من النذر الأولى أزفت الآزفة ليس لها من دون الله كاشفة"
+    },
+    "53:58": {
+      "file": "053-النجم-youtube-v1/055.mp3",
+      "durationMs": 106510,
+      "bytes": 1278736,
+      "sha256": "f47791cffa43aad3862680918eb85e9ee4be59648ac801fe80865e2e621e49ff",
+      "sharedAyahs": [
+        "53:55",
+        "53:56",
+        "53:57",
+        "53:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 828.9,
+          "end": 935.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 55-58: فبأي آلاء ربك تتمارى هذا نذير من النذر الأولى أزفت الآزفة ليس لها من دون الله كاشفة"
+    },
+    "53:59": {
+      "file": "053-النجم-youtube-v1/059.mp3",
+      "durationMs": 294620,
+      "bytes": 3536080,
+      "sha256": "973d0b6c48b3ca4083a006c46e1d354d07e1de85dd54157ad1fa8418d90a19a5",
+      "sharedAyahs": [
+        "53:59",
+        "53:60",
+        "53:61",
+        "53:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 935.4,
+          "end": 1230.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 59-62: أفمن هذا الحديث تعجبون وتضحكون ولا تبكون وأنتم سامدون فاسجدوا لله واعبدوا"
+    },
+    "53:60": {
+      "file": "053-النجم-youtube-v1/059.mp3",
+      "durationMs": 294620,
+      "bytes": 3536080,
+      "sha256": "973d0b6c48b3ca4083a006c46e1d354d07e1de85dd54157ad1fa8418d90a19a5",
+      "sharedAyahs": [
+        "53:59",
+        "53:60",
+        "53:61",
+        "53:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 935.4,
+          "end": 1230.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 59-62: أفمن هذا الحديث تعجبون وتضحكون ولا تبكون وأنتم سامدون فاسجدوا لله واعبدوا"
+    },
+    "53:61": {
+      "file": "053-النجم-youtube-v1/059.mp3",
+      "durationMs": 294620,
+      "bytes": 3536080,
+      "sha256": "973d0b6c48b3ca4083a006c46e1d354d07e1de85dd54157ad1fa8418d90a19a5",
+      "sharedAyahs": [
+        "53:59",
+        "53:60",
+        "53:61",
+        "53:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 935.4,
+          "end": 1230.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 59-62: أفمن هذا الحديث تعجبون وتضحكون ولا تبكون وأنتم سامدون فاسجدوا لله واعبدوا"
+    },
+    "53:62": {
+      "file": "053-النجم-youtube-v1/059.mp3",
+      "durationMs": 294620,
+      "bytes": 3536080,
+      "sha256": "973d0b6c48b3ca4083a006c46e1d354d07e1de85dd54157ad1fa8418d90a19a5",
+      "sharedAyahs": [
+        "53:59",
+        "53:60",
+        "53:61",
+        "53:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 935.4,
+          "end": 1230.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 59-62: أفمن هذا الحديث تعجبون وتضحكون ولا تبكون وأنتم سامدون فاسجدوا لله واعبدوا"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "053-النجم-youtube-v1/closing-10.mp3",
+      "kind": "closing",
+      "durationMs": 427560,
+      "bytes": 5131300,
+      "sha256": "3cec2889e59c447ea64eb128104ae33dca8285acfc1a9f74cd74b78141e53ea7",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HBe8srv-zQ8",
+          "start": 1249.63,
+          "end": 1677.19
+        }
+      ],
+      "reviewNote": "مقدمة الآية 32 وتمهيد للدرس التالي"
+    },
+    {
+      "file": "053-النجم-youtube-v1/closing-16.mp3",
+      "kind": "closing",
+      "durationMs": 64010,
+      "bytes": 768676,
+      "sha256": "34702ef3687dcf4b74bb818158a23e70bc7a6a6982cd6876770ed8390a2ec0be",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "N2mg5pCnvDQ",
+          "start": 1625.8,
+          "end": 1689.82
+        }
+      ],
+      "reviewNote": "تمهيد للآية 42 وخاتمة الدرس الرابع"
+    },
+    {
+      "file": "053-النجم-youtube-v1/closing-24.mp3",
+      "kind": "closing",
+      "durationMs": 99890,
+      "bytes": 1199236,
+      "sha256": "e5eac3b2871d720be94db94992632308a0648808ba7db4e11cdb7997030755da",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HOWr4hjwudY",
+          "start": 1230.0,
+          "end": 1329.89
+        }
+      ],
+      "reviewNote": "خاتمة الدرس وتلاوة الختام"
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9C4FEF08F9D26399",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "najm-divine-revelation-and-miraj",
+      "title": "صدق الوحي المحمدي ورؤية جبريل في الأفق وسدرة المنتهى",
+      "file": "053-النجم-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1677070
+    },
+    {
+      "id": "najm-falsehood-of-idols",
+      "title": "بطلان عبادة الأصنام (اللات والعزى ومناة) وتفنيد الأوهام الشركية",
+      "file": "053-النجم-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 374500
+    },
+    {
+      "id": "najm-divine-mercy-and-avoiding-sins",
+      "title": "مغفرة الله الواسعة واجتناب كبائر الإثم واللمم وأسرار التوبة",
+      "file": "053-النجم-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 725500
+    },
+    {
+      "id": "najm-individual-responsibility-scrolls",
+      "title": "صحف إبراهيم وموسى: ألا تزر وازرة وزر أخرى وأن ليس للإنسان إلا ما سعى",
+      "file": "053-النجم-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 126259
+    },
+    {
+      "id": "najm-divine-attributes-and-prostration",
+      "title": "قدرة الله في الإماتة والإحياء والضحك والبكاء والأمر بالسجود لله",
+      "file": "053-النجم-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 57600
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "RcDd-sKMcQU",
+      "-hrE2C1x3GM",
+      "HBe8srv-zQ8",
+      "N2mg5pCnvDQ",
+      "HOWr4hjwudY"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "053-النجم-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1677070,
+        "durationMs": 1677070,
+        "recordingDurationMs": 1677070,
+        "bytes": 20125454,
+        "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+        "sharedAyahs": [
+          "53:1",
+          "53:2",
+          "53:3",
+          "53:4",
+          "53:5",
+          "53:6",
+          "53:7",
+          "53:8",
+          "53:9",
+          "53:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RcDd-sKMcQU",
+            "start": 0.0,
+            "end": 1677.07
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 155090,
+        "durationMs": 155090,
+        "recordingDurationMs": 155090,
+        "bytes": 1861648,
+        "sha256": "a5e20251d57d73bcf29be988fcb3fea59962b423ec059df020f3b2e7c1dd9ec8",
+        "sharedAyahs": [
+          "53:11",
+          "53:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-hrE2C1x3GM",
+            "start": 0.0,
+            "end": 155.05
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 807360,
+        "durationMs": 807360,
+        "recordingDurationMs": 807360,
+        "bytes": 9688912,
+        "sha256": "75126dc234b85ecc43b8bc5c6548ad275ad8a20f973c52501eab8cfbf65d7a0a",
+        "sharedAyahs": [
+          "53:13",
+          "53:14",
+          "53:15",
+          "53:16",
+          "53:17",
+          "53:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-hrE2C1x3GM",
+            "start": 155.05,
+            "end": 962.4
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 374540,
+        "durationMs": 374540,
+        "recordingDurationMs": 374540,
+        "bytes": 4495120,
+        "sha256": "660f14fef5e4819014b71f2b90452dfcbf1531d79da3017be81b07a4d6665b7a",
+        "sharedAyahs": [
+          "53:19",
+          "53:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-hrE2C1x3GM",
+            "start": 962.4,
+            "end": 1336.9
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 71710,
+        "durationMs": 71710,
+        "recordingDurationMs": 71710,
+        "bytes": 861136,
+        "sha256": "0647b27847380a1405283677fa5f2125ca3e67aabd9f0159e54c32d8332d1a07",
+        "sharedAyahs": [
+          "53:21",
+          "53:22",
+          "53:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-hrE2C1x3GM",
+            "start": 1336.9,
+            "end": 1408.63
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 225020,
+        "durationMs": 225020,
+        "recordingDurationMs": 225020,
+        "bytes": 2700880,
+        "sha256": "a9b9d106944e1383f9a2416f4d770c19eece14b67b76e2983de44f71ca519e8c",
+        "sharedAyahs": [
+          "53:24",
+          "53:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HBe8srv-zQ8",
+            "start": 0.0,
+            "end": 225.0
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 179140,
+        "durationMs": 179140,
+        "recordingDurationMs": 179140,
+        "bytes": 2150219,
+        "sha256": "9400c5b9881cc6683eec81d4cc2bac994e8444d3407524c913f52efac2ba578b",
+        "sharedAyahs": [
+          "53:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HBe8srv-zQ8",
+            "start": 225.0,
+            "end": 404.1
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 107830,
+        "durationMs": 107830,
+        "recordingDurationMs": 107830,
+        "bytes": 1294576,
+        "sha256": "1a5996e6edb2874c0c5f4f30a9030ae56f9a45702377a62e802b1d6a4b29cc98",
+        "sharedAyahs": [
+          "53:27",
+          "53:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HBe8srv-zQ8",
+            "start": 404.1,
+            "end": 511.9
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 479300,
+        "durationMs": 479300,
+        "recordingDurationMs": 479300,
+        "bytes": 5752240,
+        "sha256": "c9704a4219ebefdcaca37f74067f288674c072d6ab8c08db6bfe3e03c6239fe7",
+        "sharedAyahs": [
+          "53:29",
+          "53:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HBe8srv-zQ8",
+            "start": 511.9,
+            "end": 991.18
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 258460,
+        "durationMs": 258460,
+        "recordingDurationMs": 258460,
+        "bytes": 3102059,
+        "sha256": "145ffc1d3c1be67107b33f771eba969be30a73c389a7f7f1d46833eadcca46b9",
+        "sharedAyahs": [
+          "53:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HBe8srv-zQ8",
+            "start": 991.18,
+            "end": 1249.63
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/closing-10.mp3",
+        "startMs": 0,
+        "endMs": 427560,
+        "durationMs": 427560,
+        "recordingDurationMs": 427560,
+        "bytes": 5131300,
+        "sha256": "3cec2889e59c447ea64eb128104ae33dca8285acfc1a9f74cd74b78141e53ea7",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "HBe8srv-zQ8",
+            "start": 1249.63,
+            "end": 1677.19
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 725540,
+        "durationMs": 725540,
+        "recordingDurationMs": 725540,
+        "bytes": 8707115,
+        "sha256": "a655af5b573c16258800c5788abe0c15a39c2dea680ab1d6d94c5b39099c32e4",
+        "sharedAyahs": [
+          "53:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N2mg5pCnvDQ",
+            "start": 0.0,
+            "end": 725.5
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 220100,
+        "durationMs": 220100,
+        "recordingDurationMs": 220100,
+        "bytes": 2641840,
+        "sha256": "3555eb3ffdd0666732f9c12d9980ed54dac3c71b0a92ea2e3e6b3e6b665f6fba",
+        "sharedAyahs": [
+          "53:33",
+          "53:34",
+          "53:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N2mg5pCnvDQ",
+            "start": 725.5,
+            "end": 945.6
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 126290,
+        "durationMs": 126290,
+        "recordingDurationMs": 126290,
+        "bytes": 1516048,
+        "sha256": "c17ea01cf22353601db3ae2602f582660b8ff87016a7e777fb6f0dad02ccf209",
+        "sharedAyahs": [
+          "53:36",
+          "53:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N2mg5pCnvDQ",
+            "start": 945.6,
+            "end": 1071.86
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 506980,
+        "durationMs": 506980,
+        "recordingDurationMs": 506980,
+        "bytes": 6084304,
+        "sha256": "0c7426847d11a9564d91637e17322ec3591537ef236b728735c2454f6b01870c",
+        "sharedAyahs": [
+          "53:38",
+          "53:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N2mg5pCnvDQ",
+            "start": 1071.86,
+            "end": 1578.8
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 47020,
+        "durationMs": 47020,
+        "recordingDurationMs": 47020,
+        "bytes": 564784,
+        "sha256": "790ab99f732923cd4e4e7986b2ff5971cd8ad2864f83303f1b4fe781e2f99ac0",
+        "sharedAyahs": [
+          "53:40",
+          "53:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N2mg5pCnvDQ",
+            "start": 1578.8,
+            "end": 1625.8
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/closing-16.mp3",
+        "startMs": 0,
+        "endMs": 64010,
+        "durationMs": 64010,
+        "recordingDurationMs": 64010,
+        "bytes": 768676,
+        "sha256": "34702ef3687dcf4b74bb818158a23e70bc7a6a6982cd6876770ed8390a2ec0be",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "N2mg5pCnvDQ",
+            "start": 1625.8,
+            "end": 1689.82
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 57620,
+        "durationMs": 57620,
+        "recordingDurationMs": 57620,
+        "bytes": 692075,
+        "sha256": "4a1d5623b8cb6f648f7e14afb3bc0b94500a6262ddea495c215f92466c6e9935",
+        "sharedAyahs": [
+          "53:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HOWr4hjwudY",
+            "start": 0.0,
+            "end": 57.6
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 278420,
+        "durationMs": 278420,
+        "recordingDurationMs": 278420,
+        "bytes": 3341680,
+        "sha256": "5fdd2f3312a7e665a2d09f501152ac7b3caa10a7c39f64200bf71b6b8d5cd7c1",
+        "sharedAyahs": [
+          "53:43",
+          "53:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HOWr4hjwudY",
+            "start": 57.6,
+            "end": 336.0
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 81240,
+        "durationMs": 81240,
+        "recordingDurationMs": 81240,
+        "bytes": 975472,
+        "sha256": "351c4239e6de4dade4658fd793b4676dee2c8fa50c81afa4d973db7b3b9b07b2",
+        "sharedAyahs": [
+          "53:45",
+          "53:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HOWr4hjwudY",
+            "start": 336.0,
+            "end": 417.2
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 121320,
+        "durationMs": 121320,
+        "recordingDurationMs": 121320,
+        "bytes": 1456432,
+        "sha256": "fc0abc0b0bed585b184e1df05d935c0de97eb8a9ae5f0ad1e2c80f30088adb6f",
+        "sharedAyahs": [
+          "53:47",
+          "53:48",
+          "53:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HOWr4hjwudY",
+            "start": 417.2,
+            "end": 538.5
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 290420,
+        "durationMs": 290420,
+        "recordingDurationMs": 290420,
+        "bytes": 3485680,
+        "sha256": "20990f67977d60b0cbbb498fd44d721326966b9a2e54209d75accd49d6c94401",
+        "sharedAyahs": [
+          "53:50",
+          "53:51",
+          "53:52",
+          "53:53",
+          "53:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HOWr4hjwudY",
+            "start": 538.5,
+            "end": 828.9
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 106510,
+        "durationMs": 106510,
+        "recordingDurationMs": 106510,
+        "bytes": 1278736,
+        "sha256": "f47791cffa43aad3862680918eb85e9ee4be59648ac801fe80865e2e621e49ff",
+        "sharedAyahs": [
+          "53:55",
+          "53:56",
+          "53:57",
+          "53:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HOWr4hjwudY",
+            "start": 828.9,
+            "end": 935.4
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 294620,
+        "durationMs": 294620,
+        "recordingDurationMs": 294620,
+        "bytes": 3536080,
+        "sha256": "973d0b6c48b3ca4083a006c46e1d354d07e1de85dd54157ad1fa8418d90a19a5",
+        "sharedAyahs": [
+          "53:59",
+          "53:60",
+          "53:61",
+          "53:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HOWr4hjwudY",
+            "start": 935.4,
+            "end": 1230.0
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/closing-24.mp3",
+        "startMs": 0,
+        "endMs": 99890,
+        "durationMs": 99890,
+        "recordingDurationMs": 99890,
+        "bytes": 1199236,
+        "sha256": "e5eac3b2871d720be94db94992632308a0648808ba7db4e11cdb7997030755da",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "HOWr4hjwudY",
+            "start": 1230.0,
+            "end": 1329.89
+          }
+        ]
+      }
+    ],
+    "durationMs": 7783060,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
