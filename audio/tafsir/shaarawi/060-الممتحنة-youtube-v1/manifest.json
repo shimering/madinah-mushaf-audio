@@ -1,0 +1,587 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 60,
+  "surahName": "الممتحنة",
+  "ayahCount": 13,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 13,
+    "mappedAyahCount": 13,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "oROn3su5dmk": {
+      "durationSeconds": 2229.72,
+      "bytes": 26757252,
+      "sha256": "670ef041dc106d5f05ae36b5bb4a77e8ad1047f02973a80c2d0e3f8d7536e84a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-006_oROn3su5dmk.mp3",
+      "url": "https://www.youtube.com/watch?v=oROn3su5dmk"
+    },
+    "aE2oaHZ4ayo": {
+      "durationSeconds": 2380.37,
+      "bytes": 28565030,
+      "sha256": "e3e736afc7a1b3d937febfb5834c95c23afff2cfed69755fe8e6eae0e9e57357",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_007-013_aE2oaHZ4ayo.mp3",
+      "url": "https://www.youtube.com/watch?v=aE2oaHZ4ayo"
+    }
+  },
+  "ayahs": {
+    "60:1": {
+      "file": "060-الممتحنة-youtube-v1/001.mp3",
+      "durationMs": 700030,
+      "bytes": 8400981,
+      "sha256": "b936ad0166df23a244b9196891a7ff68f0cd6df56125935264322a8981d685a7",
+      "sharedAyahs": [
+        "60:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oROn3su5dmk",
+          "start": 0.0,
+          "end": 700.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: يا أيها الذين آمنوا لا تتخذوا عدوي وعدوكم أولياء"
+    },
+    "60:2": {
+      "file": "060-الممتحنة-youtube-v1/002.mp3",
+      "durationMs": 28540,
+      "bytes": 343029,
+      "sha256": "4f34df55fc07f0d49dad380094fd510ba64616efd5c9075cff5914eb52ded098",
+      "sharedAyahs": [
+        "60:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oROn3su5dmk",
+          "start": 700.0,
+          "end": 728.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: إن يثقفوكم يكونوا لكم أعداء ويبسطوا إليكم أيديهم وألسنتهم بالسوء"
+    },
+    "60:3": {
+      "file": "060-الممتحنة-youtube-v1/003.mp3",
+      "durationMs": 568010,
+      "bytes": 6816693,
+      "sha256": "28c58aefdd504cc86d051535c3ddaef9a73500777a2b41715c67c8417cfa5781",
+      "sharedAyahs": [
+        "60:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oROn3su5dmk",
+          "start": 728.5,
+          "end": 1296.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: لن تنفعكم أرحامكم ولا أولادكم يوم القيامة يفصل بينكم"
+    },
+    "60:4": {
+      "file": "060-الممتحنة-youtube-v1/004.mp3",
+      "durationMs": 589030,
+      "bytes": 7068981,
+      "sha256": "473fa9b526cdd4f934198a63d5cf7d39373a5a403c2c60b61c269a3bef2c8694",
+      "sharedAyahs": [
+        "60:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oROn3su5dmk",
+          "start": 1296.5,
+          "end": 1885.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: قد كانت لكم أسوة حسنة في إبراهيم والذين معه"
+    },
+    "60:5": {
+      "file": "060-الممتحنة-youtube-v1/005.mp3",
+      "durationMs": 76510,
+      "bytes": 918741,
+      "sha256": "f7ed7b7c08957664bb762676f3f039dc48b6e9103b6e160842b7c52b53326ca7",
+      "sharedAyahs": [
+        "60:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oROn3su5dmk",
+          "start": 1885.5,
+          "end": 1962.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: ربنا لا تجعلنا فتنة للذين كفروا واغفر لنا ربنا"
+    },
+    "60:6": {
+      "file": "060-الممتحنة-youtube-v1/006.mp3",
+      "durationMs": 267720,
+      "bytes": 3213237,
+      "sha256": "b90278b1b6599feb1ae30acb2f1f27bf3e5bddff027d43b5192f9826f4bf7a07",
+      "sharedAyahs": [
+        "60:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oROn3su5dmk",
+          "start": 1962.0,
+          "end": 2229.72
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: لقد كان لكم فيهم أسوة حسنة لمن كان يرجو الله واليوم الآخر"
+    },
+    "60:7": {
+      "file": "060-الممتحنة-youtube-v1/007.mp3",
+      "durationMs": 24020,
+      "bytes": 288885,
+      "sha256": "960a7a93742813a5af0ad9293d36ea4f52cc6392902f21cce2f76d1668c7f5ea",
+      "sharedAyahs": [
+        "60:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aE2oaHZ4ayo",
+          "start": 28.5,
+          "end": 52.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: عسى الله أن يجعل بينكم وبين الذين عاديتم منهم مودة"
+    },
+    "60:8": {
+      "file": "060-الممتحنة-youtube-v1/008.mp3",
+      "durationMs": 774530,
+      "bytes": 9294933,
+      "sha256": "da6d03d5308398a53c54eb0bdbc215bad439c47ef0fe32f899eb53dacd7e1f56",
+      "sharedAyahs": [
+        "60:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aE2oaHZ4ayo",
+          "start": 52.5,
+          "end": 827.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: لا ينهاكم الله عن الذين لم يقاتلوكم في الدين ولم يخرجوكم من دياركم أن تبروهم"
+    },
+    "60:9": {
+      "file": "060-الممتحنة-youtube-v1/009.mp3",
+      "durationMs": 42020,
+      "bytes": 504885,
+      "sha256": "48d8bcb7a9117a3032a516dbe8d62ab757becc03fc407148a1f432682f6b6af7",
+      "sharedAyahs": [
+        "60:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aE2oaHZ4ayo",
+          "start": 827.0,
+          "end": 869.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: إنما ينهاكم الله عن الذين قاتلوكم في الدين وأخرجوكم من دياركم"
+    },
+    "60:10": {
+      "file": "060-الممتحنة-youtube-v1/010.mp3",
+      "durationMs": 407020,
+      "bytes": 4884791,
+      "sha256": "015ef63ab4500e05d1c2af4d180cddcdbe9ccee96e52c422392b3a36304c5af5",
+      "sharedAyahs": [
+        "60:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aE2oaHZ4ayo",
+          "start": 869.0,
+          "end": 1276.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: يا أيها الذين آمنوا إذا جاءكم المؤمنات مهاجرات فامتحنوهن"
+    },
+    "60:11": {
+      "file": "060-الممتحنة-youtube-v1/011.mp3",
+      "durationMs": 65020,
+      "bytes": 780791,
+      "sha256": "764efc43cd620048d7346086e2f1a8b7dd4056eda44f6bae86c7cfe29cbc92c0",
+      "sharedAyahs": [
+        "60:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aE2oaHZ4ayo",
+          "start": 1276.0,
+          "end": 1341.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 11: وإن فاتكم شيء من أزواجكم إلى الكفار فعاقبتم"
+    },
+    "60:12": {
+      "file": "060-الممتحنة-youtube-v1/012.mp3",
+      "durationMs": 969020,
+      "bytes": 11628887,
+      "sha256": "2ae8b3308a6de019188553b9b5cb3cac65e2803d1273eaa2c3dd9db23d5039bb",
+      "sharedAyahs": [
+        "60:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aE2oaHZ4ayo",
+          "start": 1341.0,
+          "end": 2310.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: يا أيها النبي إذا جاءك المؤمنات يبايعنك على أن لا يشركن بالله شيئا"
+    },
+    "60:13": {
+      "file": "060-الممتحنة-youtube-v1/013.mp3",
+      "durationMs": 70370,
+      "bytes": 845015,
+      "sha256": "a07733ce74a7b6baa36fdd69b972ec3c1a416399d03a6eb8f10fb8d0db6fa08d",
+      "sharedAyahs": [
+        "60:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aE2oaHZ4ayo",
+          "start": 2310.0,
+          "end": 2380.37
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: يا أيها الذين آمنوا لا تتولوا قوما غضب الله عليهم"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "060-الممتحنة-youtube-v1/introduction-06.mp3",
+      "kind": "introduction",
+      "durationMs": 28540,
+      "bytes": 343029,
+      "sha256": "3994070595cb9be8658dc889821039e36b9c241712fa261a38439b52889ba2ec",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "aE2oaHZ4ayo",
+          "start": 0.0,
+          "end": 28.5
+        }
+      ],
+      "reviewNote": "مقدمة الدرس الثاني"
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9CFA47E5E7C53D36",
+  "audioProcessing": "Transcoded official YouTube audio to 90k mono 48 kHz MP3 with verified ID3 metadata; stream-copied verse slices and reused-clips playlist.",
+  "alignmentMethod": "Whisper large-v3-turbo GPU transcription, automated verse anchor matching, and manual speech boundary verification.",
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "oROn3su5dmk",
+      "aE2oaHZ4ayo"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "060-الممتحنة-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 700030,
+        "durationMs": 700030,
+        "recordingDurationMs": 700030,
+        "bytes": 8400981,
+        "sha256": "b936ad0166df23a244b9196891a7ff68f0cd6df56125935264322a8981d685a7",
+        "sharedAyahs": [
+          "60:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oROn3su5dmk",
+            "start": 0.0,
+            "end": 700.0
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 28540,
+        "durationMs": 28540,
+        "recordingDurationMs": 28540,
+        "bytes": 343029,
+        "sha256": "4f34df55fc07f0d49dad380094fd510ba64616efd5c9075cff5914eb52ded098",
+        "sharedAyahs": [
+          "60:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oROn3su5dmk",
+            "start": 700.0,
+            "end": 728.5
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 568010,
+        "durationMs": 568010,
+        "recordingDurationMs": 568010,
+        "bytes": 6816693,
+        "sha256": "28c58aefdd504cc86d051535c3ddaef9a73500777a2b41715c67c8417cfa5781",
+        "sharedAyahs": [
+          "60:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oROn3su5dmk",
+            "start": 728.5,
+            "end": 1296.5
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 589030,
+        "durationMs": 589030,
+        "recordingDurationMs": 589030,
+        "bytes": 7068981,
+        "sha256": "473fa9b526cdd4f934198a63d5cf7d39373a5a403c2c60b61c269a3bef2c8694",
+        "sharedAyahs": [
+          "60:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oROn3su5dmk",
+            "start": 1296.5,
+            "end": 1885.5
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 76510,
+        "durationMs": 76510,
+        "recordingDurationMs": 76510,
+        "bytes": 918741,
+        "sha256": "f7ed7b7c08957664bb762676f3f039dc48b6e9103b6e160842b7c52b53326ca7",
+        "sharedAyahs": [
+          "60:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oROn3su5dmk",
+            "start": 1885.5,
+            "end": 1962.0
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 267720,
+        "durationMs": 267720,
+        "recordingDurationMs": 267720,
+        "bytes": 3213237,
+        "sha256": "b90278b1b6599feb1ae30acb2f1f27bf3e5bddff027d43b5192f9826f4bf7a07",
+        "sharedAyahs": [
+          "60:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oROn3su5dmk",
+            "start": 1962.0,
+            "end": 2229.72
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/introduction-06.mp3",
+        "startMs": 0,
+        "endMs": 28540,
+        "durationMs": 28540,
+        "recordingDurationMs": 28540,
+        "bytes": 343029,
+        "sha256": "3994070595cb9be8658dc889821039e36b9c241712fa261a38439b52889ba2ec",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "aE2oaHZ4ayo",
+            "start": 0.0,
+            "end": 28.5
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 24020,
+        "durationMs": 24020,
+        "recordingDurationMs": 24020,
+        "bytes": 288885,
+        "sha256": "960a7a93742813a5af0ad9293d36ea4f52cc6392902f21cce2f76d1668c7f5ea",
+        "sharedAyahs": [
+          "60:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aE2oaHZ4ayo",
+            "start": 28.5,
+            "end": 52.5
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 774530,
+        "durationMs": 774530,
+        "recordingDurationMs": 774530,
+        "bytes": 9294933,
+        "sha256": "da6d03d5308398a53c54eb0bdbc215bad439c47ef0fe32f899eb53dacd7e1f56",
+        "sharedAyahs": [
+          "60:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aE2oaHZ4ayo",
+            "start": 52.5,
+            "end": 827.0
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 42020,
+        "durationMs": 42020,
+        "recordingDurationMs": 42020,
+        "bytes": 504885,
+        "sha256": "48d8bcb7a9117a3032a516dbe8d62ab757becc03fc407148a1f432682f6b6af7",
+        "sharedAyahs": [
+          "60:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aE2oaHZ4ayo",
+            "start": 827.0,
+            "end": 869.0
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 407020,
+        "durationMs": 407020,
+        "recordingDurationMs": 407020,
+        "bytes": 4884791,
+        "sha256": "015ef63ab4500e05d1c2af4d180cddcdbe9ccee96e52c422392b3a36304c5af5",
+        "sharedAyahs": [
+          "60:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aE2oaHZ4ayo",
+            "start": 869.0,
+            "end": 1276.0
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 65020,
+        "durationMs": 65020,
+        "recordingDurationMs": 65020,
+        "bytes": 780791,
+        "sha256": "764efc43cd620048d7346086e2f1a8b7dd4056eda44f6bae86c7cfe29cbc92c0",
+        "sharedAyahs": [
+          "60:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aE2oaHZ4ayo",
+            "start": 1276.0,
+            "end": 1341.0
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 969020,
+        "durationMs": 969020,
+        "recordingDurationMs": 969020,
+        "bytes": 11628887,
+        "sha256": "2ae8b3308a6de019188553b9b5cb3cac65e2803d1273eaa2c3dd9db23d5039bb",
+        "sharedAyahs": [
+          "60:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aE2oaHZ4ayo",
+            "start": 1341.0,
+            "end": 2310.0
+          }
+        ]
+      },
+      {
+        "file": "060-الممتحنة-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 70370,
+        "durationMs": 70370,
+        "recordingDurationMs": 70370,
+        "bytes": 845015,
+        "sha256": "a07733ce74a7b6baa36fdd69b972ec3c1a416399d03a6eb8f10fb8d0db6fa08d",
+        "sharedAyahs": [
+          "60:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aE2oaHZ4ayo",
+            "start": 2310.0,
+            "end": 2380.37
+          }
+        ]
+      }
+    ],
+    "durationMs": 4610380,
+    "additionalAudioBytes": 0
+  },
+  "topics": [
+    {
+      "id": "mumtahanah-hatib-and-allegiance",
+      "title": "قصة حاطب بن أبي بلتعة وضوابط الولاء والبراء في الإسلام",
+      "file": "060-الممتحنة-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 700000
+    },
+    {
+      "id": "mumtahanah-ibrahim-model-of-faith",
+      "title": "الأسوة الحسنة في إبراهيم عليه السلام والبراءة من الشرك",
+      "file": "060-الممتحنة-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 589000
+    },
+    {
+      "id": "mumtahanah-justice-to-peaceful-nonbelievers",
+      "title": "مشروعية البر والقسط مع غير المحاربين والتمييز في المعاملة",
+      "file": "060-الممتحنة-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 774500
+    },
+    {
+      "id": "mumtahanah-pledge-of-believing-women",
+      "title": "بيعة النساء على مكارم الأخلاق وحفظ الأعراض والمجتمع",
+      "file": "060-الممتحنة-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 969000
+    }
+  ]
+}
