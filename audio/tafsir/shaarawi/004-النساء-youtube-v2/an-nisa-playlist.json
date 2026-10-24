@@ -1,0 +1,5590 @@
+{
+  "mode": "reused-clips",
+  "sourceOrder": [
+    "archive-opening-001",
+    "yt-001",
+    "yt-002",
+    "yt-003",
+    "yt-004",
+    "yt-005",
+    "yt-006",
+    "yt-007",
+    "yt-008",
+    "yt-009",
+    "yt-011",
+    "yt-012",
+    "yt-013",
+    "yt-014",
+    "yt-015",
+    "yt-016",
+    "yt-017",
+    "yt-018",
+    "yt-019",
+    "yt-020",
+    "yt-021",
+    "yt-022",
+    "yt-023",
+    "yt-024",
+    "yt-025",
+    "yt-026",
+    "yt-027",
+    "yt-028",
+    "yt-029",
+    "yt-030",
+    "yt-031",
+    "yt-032",
+    "yt-033",
+    "yt-034",
+    "yt-035",
+    "yt-036",
+    "yt-037",
+    "yt-038",
+    "yt-039",
+    "yt-040",
+    "yt-041",
+    "yt-042",
+    "yt-043",
+    "yt-044",
+    "yt-045",
+    "yt-046",
+    "yt-047",
+    "yt-048",
+    "yt-049",
+    "yt-050",
+    "yt-051",
+    "yt-053",
+    "yt-054",
+    "yt-055",
+    "yt-056",
+    "yt-057",
+    "yt-058",
+    "yt-059",
+    "yt-060",
+    "yt-061",
+    "yt-062",
+    "yt-063",
+    "yt-065"
+  ],
+  "includesIntroductionsAndRecaps": true,
+  "tracks": [
+    {
+      "file": "004-النساء-youtube-v2/introduction-recovered.mp3",
+      "startMs": 0,
+      "endMs": 3190,
+      "durationMs": 3190,
+      "recordingDurationMs": 3190,
+      "bytes": 38735,
+      "sha256": "3db78208db67dbac6e9f80ffb5257866b452e74cca85c4e24366c5e901519ac0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive-opening-001",
+          "start": 0,
+          "end": 3.15
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/other-surah-name-and-women.mp3",
+      "startMs": 0,
+      "endMs": 263660,
+      "durationMs": 263660,
+      "recordingDurationMs": 263660,
+      "bytes": 3164399,
+      "sha256": "7e6e3d4d8da7c4d446580f00b4ba84c02881cca9fea9c1fef1708f57e62c1311",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive-opening-001",
+          "start": 3.15,
+          "end": 266.795
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/001-restored.mp3",
+      "startMs": 0,
+      "endMs": 805285,
+      "durationMs": 805285,
+      "recordingDurationMs": 1895740,
+      "bytes": 22749263,
+      "sha256": "00567be876cf8559d7abe2e139496ca3b2a55740fded1c9ca3102ded0fbf0444",
+      "sharedAyahs": [
+        "4:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive-opening-001",
+          "start": 266.795,
+          "end": 1072.08
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-163.mp3",
+      "startMs": 0,
+      "endMs": 17110,
+      "durationMs": 17110,
+      "recordingDurationMs": 17110,
+      "bytes": 205933,
+      "sha256": "f76fd5d6a268ebd5082f6aa1b370167b3a3378f73c7203474cde557e9d836fe9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 0,
+          "end": 17.065
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/001-restored.mp3",
+      "startMs": 805285,
+      "endMs": 1895740,
+      "durationMs": 1090455,
+      "recordingDurationMs": 1895740,
+      "bytes": 22749263,
+      "sha256": "00567be876cf8559d7abe2e139496ca3b2a55740fded1c9ca3102ded0fbf0444",
+      "sharedAyahs": [
+        "4:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 17.065,
+          "end": 1107.49
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/002.mp3",
+      "startMs": 0,
+      "endMs": 432620,
+      "durationMs": 432620,
+      "recordingDurationMs": 432620,
+      "bytes": 5192077,
+      "sha256": "c967e16b89534caafb746499b713a1f6375b9eea6d908b4e7a1601e84236d16b",
+      "sharedAyahs": [
+        "4:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 1107.49,
+          "end": 1540.09
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/003.mp3",
+      "startMs": 0,
+      "endMs": 929603,
+      "durationMs": 929603,
+      "recordingDurationMs": 2196140,
+      "bytes": 26354151,
+      "sha256": "ea8cb6ecd21cba016c7d0e80eea6474617541ad09199146e1de26fbfad95ca35",
+      "sharedAyahs": [
+        "4:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 1540.09,
+          "end": 2469.792
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/003.mp3",
+      "startMs": 929603,
+      "endMs": 2196140,
+      "durationMs": 1266537,
+      "recordingDurationMs": 2196140,
+      "bytes": 26354151,
+      "sha256": "ea8cb6ecd21cba016c7d0e80eea6474617541ad09199146e1de26fbfad95ca35",
+      "sharedAyahs": [
+        "4:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 0.0,
+          "end": 1266.41
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/004.mp3",
+      "startMs": 0,
+      "endMs": 434450,
+      "durationMs": 434450,
+      "recordingDurationMs": 434450,
+      "bytes": 5213965,
+      "sha256": "8ed3000f98e6ab5497caef994ae4c73bd3c5e90641cbc0619a2a34624dbdb979",
+      "sharedAyahs": [
+        "4:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 1266.41,
+          "end": 1700.84
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/005.mp3",
+      "startMs": 0,
+      "endMs": 229150,
+      "durationMs": 229150,
+      "recordingDurationMs": 229150,
+      "bytes": 2750413,
+      "sha256": "ff834546b4eb99f6d062dbe622004534e1f3c9ba03b988a8963b5f5763ce6bd6",
+      "sharedAyahs": [
+        "4:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 1700.84,
+          "end": 1929.98
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/006.mp3",
+      "startMs": 0,
+      "endMs": 303170,
+      "durationMs": 303170,
+      "recordingDurationMs": 303170,
+      "bytes": 3638605,
+      "sha256": "0d973120ce21c2d37d7010f66a6eac24836ae1c84139162c1d530b2ad2ba26a2",
+      "sharedAyahs": [
+        "4:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 1929.98,
+          "end": 2233.11
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/007.mp3",
+      "startMs": 0,
+      "endMs": 84229,
+      "durationMs": 84229,
+      "recordingDurationMs": 228890,
+      "bytes": 2747079,
+      "sha256": "26dee787bf2b5aebeb5af29b21a553304faed9fe2da233e8130b5c3b9aa91987",
+      "sharedAyahs": [
+        "4:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2233.11,
+          "end": 2317.335
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-164.mp3",
+      "startMs": 0,
+      "endMs": 2300,
+      "durationMs": 2300,
+      "recordingDurationMs": 2300,
+      "bytes": 28232,
+      "sha256": "ee5f731822ef5e8940af330b26f974aa55f654fa1c0535dc8ac1d3844750f3cc",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2317.335,
+          "end": 2319.648
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-165.mp3",
+      "startMs": 0,
+      "endMs": 19060,
+      "durationMs": 19060,
+      "recordingDurationMs": 19060,
+      "bytes": 229261,
+      "sha256": "58f2b24e1184428e3617c2220268feace21a20b86b2958045b3de10e7569a210",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 0,
+          "end": 19.03
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/007.mp3",
+      "startMs": 84229,
+      "endMs": 228890,
+      "durationMs": 144661,
+      "recordingDurationMs": 228890,
+      "bytes": 2747079,
+      "sha256": "26dee787bf2b5aebeb5af29b21a553304faed9fe2da233e8130b5c3b9aa91987",
+      "sharedAyahs": [
+        "4:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 19.03,
+          "end": 163.65
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/008.mp3",
+      "startMs": 0,
+      "endMs": 189240,
+      "durationMs": 189240,
+      "recordingDurationMs": 189240,
+      "bytes": 2271469,
+      "sha256": "5cb81c22d78fe6dc126dc92f304670ac5845240bb9ceb03adc10d28453c25798",
+      "sharedAyahs": [
+        "4:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 163.65,
+          "end": 352.87
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/009.mp3",
+      "startMs": 0,
+      "endMs": 555670,
+      "durationMs": 555670,
+      "recordingDurationMs": 555670,
+      "bytes": 6668653,
+      "sha256": "c2fb38bbd4a7d9b7f128035754b8ff8d149701c5edcd275db1e0348455773107",
+      "sharedAyahs": [
+        "4:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 352.87,
+          "end": 908.5
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/010.mp3",
+      "startMs": 0,
+      "endMs": 184100,
+      "durationMs": 184100,
+      "recordingDurationMs": 184100,
+      "bytes": 2209839,
+      "sha256": "b0770b43a869ac24854e50bf271807df62203c22cb1ee648d93e7164f426eb45",
+      "sharedAyahs": [
+        "4:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 908.5,
+          "end": 1092.59
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/011.mp3",
+      "startMs": 0,
+      "endMs": 1198750,
+      "durationMs": 1198750,
+      "recordingDurationMs": 1198750,
+      "bytes": 14385615,
+      "sha256": "8aecb1648cd8cb85498c9d4ece15a05bef2b5a37e90e1ae07f89318b0c62a465",
+      "sharedAyahs": [
+        "4:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 1092.59,
+          "end": 2291.31
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/012.mp3",
+      "startMs": 0,
+      "endMs": 231587,
+      "durationMs": 231587,
+      "recordingDurationMs": 1240780,
+      "bytes": 14889737,
+      "sha256": "5821acfc651c1f20128bc8c93f8330c958087a347c92bbeb6785be4829226b5e",
+      "sharedAyahs": [
+        "4:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 2291.31,
+          "end": 2523.0
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-166.mp3",
+      "startMs": 0,
+      "endMs": 24960,
+      "durationMs": 24960,
+      "recordingDurationMs": 24960,
+      "bytes": 300109,
+      "sha256": "5f650ed6570b05537cc3025940a2d60c87687dfbbb95b2a4f6423aa6acf4ed45",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 0,
+          "end": 24.925
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/012.mp3",
+      "startMs": 231587,
+      "endMs": 1240780,
+      "durationMs": 1009193,
+      "recordingDurationMs": 1240780,
+      "bytes": 14889737,
+      "sha256": "5821acfc651c1f20128bc8c93f8330c958087a347c92bbeb6785be4829226b5e",
+      "sharedAyahs": [
+        "4:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 24.925,
+          "end": 1034.0
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/013.mp3",
+      "startMs": 0,
+      "endMs": 1419757,
+      "durationMs": 1419757,
+      "recordingDurationMs": 1800980,
+      "bytes": 21612238,
+      "sha256": "8238e6467a875806b084133abe944dac7df391b766ec8534b8e603eb26ee5482",
+      "sharedAyahs": [
+        "4:13",
+        "4:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 1034.0,
+          "end": 2453.74
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-167.mp3",
+      "startMs": 0,
+      "endMs": 1730,
+      "durationMs": 1730,
+      "recordingDurationMs": 1730,
+      "bytes": 21320,
+      "sha256": "77f7ba72443b16e6c146b9245ebf67d6d9e5260a4adebe739e46ebe26bf50f83",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 2453.74,
+          "end": 2455.488
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-168.mp3",
+      "startMs": 0,
+      "endMs": 19270,
+      "durationMs": 19270,
+      "recordingDurationMs": 19270,
+      "bytes": 231853,
+      "sha256": "f93b4b8052b7079f40d457857e4e107a284a19853d1d419a8b27bcccf1b64533",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 0,
+          "end": 19.24
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/013.mp3",
+      "startMs": 1419757,
+      "endMs": 1800980,
+      "durationMs": 381223,
+      "recordingDurationMs": 1800980,
+      "bytes": 21612238,
+      "sha256": "8238e6467a875806b084133abe944dac7df391b766ec8534b8e603eb26ee5482",
+      "sharedAyahs": [
+        "4:13",
+        "4:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 19.24,
+          "end": 400.44
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/015.mp3",
+      "startMs": 0,
+      "endMs": 2094107,
+      "durationMs": 2094107,
+      "recordingDurationMs": 3611140,
+      "bytes": 43334062,
+      "sha256": "cd039cb7c94898901d31b70f9627dd09a4fba166069a7cc764b01bd0ba9c3be0",
+      "sharedAyahs": [
+        "4:15",
+        "4:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 400.44,
+          "end": 2494.632
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-169.mp3",
+      "startMs": 0,
+      "endMs": 20710,
+      "durationMs": 20710,
+      "recordingDurationMs": 20710,
+      "bytes": 249133,
+      "sha256": "33d9e5117f8377ead35e3123ff8b54621c48c12752026068db884b4c81305578",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 0,
+          "end": 20.675
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/015.mp3",
+      "startMs": 2094107,
+      "endMs": 3611140,
+      "durationMs": 1517033,
+      "recordingDurationMs": 3611140,
+      "bytes": 43334062,
+      "sha256": "cd039cb7c94898901d31b70f9627dd09a4fba166069a7cc764b01bd0ba9c3be0",
+      "sharedAyahs": [
+        "4:15",
+        "4:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 20.675,
+          "end": 1537.6
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/017.mp3",
+      "startMs": 0,
+      "endMs": 815411,
+      "durationMs": 815411,
+      "recordingDurationMs": 911420,
+      "bytes": 10937513,
+      "sha256": "470a1671ad5eabecb4a6c795408d40433012eaa6ede1ab9f07f0e11f88eb7b33",
+      "sharedAyahs": [
+        "4:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 1537.6,
+          "end": 2353.104
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-170.mp3",
+      "startMs": 0,
+      "endMs": 14590,
+      "durationMs": 14590,
+      "recordingDurationMs": 14590,
+      "bytes": 175693,
+      "sha256": "8ffff95905e97d278f9c182285b3625d37b9697d624af6e2a6a0af712bb294ed",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 0,
+          "end": 14.56
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/017.mp3",
+      "startMs": 815411,
+      "endMs": 911420,
+      "durationMs": 96009,
+      "recordingDurationMs": 911420,
+      "bytes": 10937513,
+      "sha256": "470a1671ad5eabecb4a6c795408d40433012eaa6ede1ab9f07f0e11f88eb7b33",
+      "sharedAyahs": [
+        "4:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 14.56,
+          "end": 110.45
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/018.mp3",
+      "startMs": 0,
+      "endMs": 499750,
+      "durationMs": 499750,
+      "recordingDurationMs": 499750,
+      "bytes": 5997615,
+      "sha256": "ca8040997c7014989365696782a870ac13b9854fefef0d008ca0d9282dcfbc46",
+      "sharedAyahs": [
+        "4:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 110.45,
+          "end": 610.2
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/019.mp3",
+      "startMs": 0,
+      "endMs": 1205420,
+      "durationMs": 1205420,
+      "recordingDurationMs": 1205420,
+      "bytes": 14465679,
+      "sha256": "912527a32e0b7afee900f9bad2fe9e092221b7419c5e60590fa1de0bb7997999",
+      "sharedAyahs": [
+        "4:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 610.2,
+          "end": 1815.58
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/020.mp3",
+      "startMs": 0,
+      "endMs": 751451,
+      "durationMs": 751451,
+      "recordingDurationMs": 1123340,
+      "bytes": 13480558,
+      "sha256": "cab2195eda50984413bfa1711d867bd5289cf8e222da2035260dc2653d414fc8",
+      "sharedAyahs": [
+        "4:20",
+        "4:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 1815.58,
+          "end": 2567.136
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-171.mp3",
+      "startMs": 0,
+      "endMs": 21720,
+      "durationMs": 21720,
+      "recordingDurationMs": 21720,
+      "bytes": 261229,
+      "sha256": "4692a08055ca0d61d1864ac4323bc6b88abe93c469676606167dc0ede527dbeb",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 0,
+          "end": 21.685
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/020.mp3",
+      "startMs": 751451,
+      "endMs": 1123340,
+      "durationMs": 371889,
+      "recordingDurationMs": 1123340,
+      "bytes": 13480558,
+      "sha256": "cab2195eda50984413bfa1711d867bd5289cf8e222da2035260dc2653d414fc8",
+      "sharedAyahs": [
+        "4:20",
+        "4:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 21.685,
+          "end": 393.47
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/022.mp3",
+      "startMs": 0,
+      "endMs": 473520,
+      "durationMs": 473520,
+      "recordingDurationMs": 473520,
+      "bytes": 5682831,
+      "sha256": "721b670d1219d36d95c7ed7a4efac77f3d39f09f0e6c137ce410a6502421ae9c",
+      "sharedAyahs": [
+        "4:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 393.47,
+          "end": 866.97
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/023.mp3",
+      "startMs": 0,
+      "endMs": 1686770,
+      "durationMs": 1686770,
+      "recordingDurationMs": 1686770,
+      "bytes": 20241807,
+      "sha256": "950437ca6d78a457ea02837aa502b5c72f0a3a967b1ef55a79b61ccb15cc85fd",
+      "sharedAyahs": [
+        "4:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 866.97,
+          "end": 2553.72
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-172.mp3",
+      "startMs": 0,
+      "endMs": 1700,
+      "durationMs": 1700,
+      "recordingDurationMs": 1700,
+      "bytes": 21032,
+      "sha256": "668d941bf1953fff44ca3db2fc82f60a147651022b78caeafd150db438dfbb16",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2553.72,
+          "end": 2555.424
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-173.mp3",
+      "startMs": 0,
+      "endMs": 20450,
+      "durationMs": 20450,
+      "recordingDurationMs": 20450,
+      "bytes": 245965,
+      "sha256": "93ed66e328e0bbf14963614db73b836ddfdc5de24d1a57b5349da137ab036b95",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 0,
+          "end": 20.415
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/024.mp3",
+      "startMs": 0,
+      "endMs": 1171250,
+      "durationMs": 1171250,
+      "recordingDurationMs": 1171250,
+      "bytes": 14055567,
+      "sha256": "8f9abed8533c77c0f426da3ae3be8346cc8638f238aeaa576df0a9be543118d1",
+      "sharedAyahs": [
+        "4:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 20.415,
+          "end": 1191.64
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/025.mp3",
+      "startMs": 0,
+      "endMs": 1312595,
+      "durationMs": 1312595,
+      "recordingDurationMs": 2499620,
+      "bytes": 29995913,
+      "sha256": "6942cc76b1d3137a03af5c2dcaddb75447edfba0770053a35dbf2515826bcc5c",
+      "sharedAyahs": [
+        "4:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1191.64,
+          "end": 2504.328
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-174.mp3",
+      "startMs": 0,
+      "endMs": 18480,
+      "durationMs": 18480,
+      "recordingDurationMs": 18480,
+      "bytes": 222349,
+      "sha256": "c9305ad96b317bec6607a75fb9a0d7a73ec0a89960e29955ac9e22c136a63885",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 0,
+          "end": 18.44
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/025.mp3",
+      "startMs": 1312595,
+      "endMs": 2499620,
+      "durationMs": 1187025,
+      "recordingDurationMs": 2499620,
+      "bytes": 29995913,
+      "sha256": "6942cc76b1d3137a03af5c2dcaddb75447edfba0770053a35dbf2515826bcc5c",
+      "sharedAyahs": [
+        "4:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 18.44,
+          "end": 1205.37
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/026.mp3",
+      "startMs": 0,
+      "endMs": 213170,
+      "durationMs": 213170,
+      "recordingDurationMs": 213170,
+      "bytes": 2558607,
+      "sha256": "fa9aa293ec2a842e3bdb5b832039bf602ae28a305ef56f2c006c2d7323d6571b",
+      "sharedAyahs": [
+        "4:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 1205.37,
+          "end": 1418.51
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/027.mp3",
+      "startMs": 0,
+      "endMs": 864120,
+      "durationMs": 864120,
+      "recordingDurationMs": 864120,
+      "bytes": 10370031,
+      "sha256": "e02e51950b38767eb975696438a149d68e094f2c2e0a95af8f4842fbb06d9020",
+      "sharedAyahs": [
+        "4:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 1418.51,
+          "end": 2282.6
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/028.mp3",
+      "startMs": 0,
+      "endMs": 260629,
+      "durationMs": 260629,
+      "recordingDurationMs": 320980,
+      "bytes": 3852137,
+      "sha256": "e2624be80591bd1f41570f14d848ca8dd59faa77384a87547037c0e02e6c1d06",
+      "sharedAyahs": [
+        "4:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 2282.6,
+          "end": 2543.225
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-175.mp3",
+      "startMs": 0,
+      "endMs": 3460,
+      "durationMs": 3460,
+      "recordingDurationMs": 3460,
+      "bytes": 42056,
+      "sha256": "446c96cd598d36198ddf97e4fc483f21eee35302eed565b6383974596489ac64",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 2543.225,
+          "end": 2546.688
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-176.mp3",
+      "startMs": 0,
+      "endMs": 16270,
+      "durationMs": 16270,
+      "recordingDurationMs": 16270,
+      "bytes": 195853,
+      "sha256": "d950b46664347d9ab3ba8fe2ee0bb9369f7fc3b16b5698b7f7947833f48e0162",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 0,
+          "end": 16.24
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/028.mp3",
+      "startMs": 260629,
+      "endMs": 320980,
+      "durationMs": 60351,
+      "recordingDurationMs": 320980,
+      "bytes": 3852137,
+      "sha256": "e2624be80591bd1f41570f14d848ca8dd59faa77384a87547037c0e02e6c1d06",
+      "sharedAyahs": [
+        "4:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 16.24,
+          "end": 76.56
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/029.mp3",
+      "startMs": 0,
+      "endMs": 2068850,
+      "durationMs": 2068850,
+      "recordingDurationMs": 2068850,
+      "bytes": 24826767,
+      "sha256": "ade96398620cf8f940a84c25579301245aaae14d29327fdb4da27f4c8b0a48d5",
+      "sharedAyahs": [
+        "4:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 76.56,
+          "end": 2145.38
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/030.mp3",
+      "startMs": 0,
+      "endMs": 143280,
+      "durationMs": 143280,
+      "recordingDurationMs": 143280,
+      "bytes": 1719951,
+      "sha256": "7f316117e719b1626b506963048dfb214e1b7fa3cd719e482d8b6bd1bf81812a",
+      "sharedAyahs": [
+        "4:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 2145.38,
+          "end": 2288.64
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/031.mp3",
+      "startMs": 0,
+      "endMs": 350771,
+      "durationMs": 350771,
+      "recordingDurationMs": 4741610,
+      "bytes": 56899721,
+      "sha256": "4164117fa1838c190eba9b0580a981fc13c11f85b9b4b510e95eed210eb607a1",
+      "sharedAyahs": [
+        "4:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 2288.64,
+          "end": 2639.496
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-177.mp3",
+      "startMs": 0,
+      "endMs": 18500,
+      "durationMs": 18500,
+      "recordingDurationMs": 18500,
+      "bytes": 222637,
+      "sha256": "2eae3b42d0c54438b60c93bae362e1fbe6e4b7d910f6e234e0f7bff5de1b4f33",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 0,
+          "end": 18.47
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/031.mp3",
+      "startMs": 350771,
+      "endMs": 2927027,
+      "durationMs": 2576256,
+      "recordingDurationMs": 4741610,
+      "bytes": 56899721,
+      "sha256": "4164117fa1838c190eba9b0580a981fc13c11f85b9b4b510e95eed210eb607a1",
+      "sharedAyahs": [
+        "4:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 18.47,
+          "end": 2594.736
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-178.mp3",
+      "startMs": 0,
+      "endMs": 18100,
+      "durationMs": 18100,
+      "recordingDurationMs": 18100,
+      "bytes": 217741,
+      "sha256": "aa0723b6ac03c622ee221123b4c57fdb9c07204267b3c6270ffe4e94fbb84f9c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 0,
+          "end": 18.06
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/031.mp3",
+      "startMs": 2927027,
+      "endMs": 4741610,
+      "durationMs": 1814583,
+      "recordingDurationMs": 4741610,
+      "bytes": 56899721,
+      "sha256": "4164117fa1838c190eba9b0580a981fc13c11f85b9b4b510e95eed210eb607a1",
+      "sharedAyahs": [
+        "4:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 18.06,
+          "end": 1832.54
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/032.mp3",
+      "startMs": 0,
+      "endMs": 776677,
+      "durationMs": 776677,
+      "recordingDurationMs": 2397000,
+      "bytes": 28764425,
+      "sha256": "0472b669cb66ad4f21f6f7fea5405721ae6418ab65795c5817279f7c79da109b",
+      "sharedAyahs": [
+        "4:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 1832.54,
+          "end": 2609.2
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-179.mp3",
+      "startMs": 0,
+      "endMs": 2230,
+      "durationMs": 2230,
+      "recordingDurationMs": 2230,
+      "bytes": 27368,
+      "sha256": "4ffea75c5ad9aa001295dc745620992bc0e416dfc20c9d39fe7a1b12bba12093",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 2609.2,
+          "end": 2611.44
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-180.mp3",
+      "startMs": 0,
+      "endMs": 19010,
+      "durationMs": 19010,
+      "recordingDurationMs": 19010,
+      "bytes": 228685,
+      "sha256": "2cddb0005382113e8b6438240681f353f7a4bc4379dfd4033748ea9a8dba52aa",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 0,
+          "end": 18.97
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/032.mp3",
+      "startMs": 776677,
+      "endMs": 2397000,
+      "durationMs": 1620323,
+      "recordingDurationMs": 2397000,
+      "bytes": 28764425,
+      "sha256": "0472b669cb66ad4f21f6f7fea5405721ae6418ab65795c5817279f7c79da109b",
+      "sharedAyahs": [
+        "4:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 18.97,
+          "end": 1639.26
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/033.mp3",
+      "startMs": 0,
+      "endMs": 326180,
+      "durationMs": 326180,
+      "recordingDurationMs": 326180,
+      "bytes": 3914799,
+      "sha256": "982e4afdbac885f9f88c1dd70f2b67fc21cdda10151141148d3f3ae012304342",
+      "sharedAyahs": [
+        "4:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 1639.26,
+          "end": 1965.42
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/034.mp3",
+      "startMs": 0,
+      "endMs": 654779,
+      "durationMs": 654779,
+      "recordingDurationMs": 2175840,
+      "bytes": 26110505,
+      "sha256": "06e5cb0f27a5095110ad9f5bc82f005b9e08921516982d428de2d1e2993033e0",
+      "sharedAyahs": [
+        "4:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 1965.42,
+          "end": 2620.296
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-181.mp3",
+      "startMs": 0,
+      "endMs": 16080,
+      "durationMs": 16080,
+      "recordingDurationMs": 16080,
+      "bytes": 193549,
+      "sha256": "d07edaef93fa0d3b05fb48ab6a64a5d22a744f3060d23e61d937de31247431f5",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 0,
+          "end": 16.045
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/034.mp3",
+      "startMs": 654779,
+      "endMs": 2175840,
+      "durationMs": 1521061,
+      "recordingDurationMs": 2175840,
+      "bytes": 26110505,
+      "sha256": "06e5cb0f27a5095110ad9f5bc82f005b9e08921516982d428de2d1e2993033e0",
+      "sharedAyahs": [
+        "4:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 16.045,
+          "end": 1536.99
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/035.mp3",
+      "startMs": 0,
+      "endMs": 490060,
+      "durationMs": 490060,
+      "recordingDurationMs": 490060,
+      "bytes": 5881263,
+      "sha256": "66094b6835894c2112a8ee81725cec17c9e4cb8f3af63c78d201bcc4d2869516",
+      "sharedAyahs": [
+        "4:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 1536.99,
+          "end": 2027.02
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/036.mp3",
+      "startMs": 0,
+      "endMs": 598259,
+      "durationMs": 598259,
+      "recordingDurationMs": 3698930,
+      "bytes": 44387561,
+      "sha256": "86ff570644c0d79e7b0178d2e721fea6b15426636a0a294f1a5963c7d1440ec1",
+      "sharedAyahs": [
+        "4:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 2027.02,
+          "end": 2625.384
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/036.mp3",
+      "startMs": 598259,
+      "endMs": 3189107,
+      "durationMs": 2590848,
+      "recordingDurationMs": 3698930,
+      "bytes": 44387561,
+      "sha256": "86ff570644c0d79e7b0178d2e721fea6b15426636a0a294f1a5963c7d1440ec1",
+      "sharedAyahs": [
+        "4:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 0.0,
+          "end": 2590.848
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-182.mp3",
+      "startMs": 0,
+      "endMs": 24020,
+      "durationMs": 24020,
+      "recordingDurationMs": 24020,
+      "bytes": 288877,
+      "sha256": "ebacf40a0a3079e40be3d3355915407b03864309ab242565a4c2c835d6d07a3f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 0,
+          "end": 23.985
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/036.mp3",
+      "startMs": 3189107,
+      "endMs": 3698930,
+      "durationMs": 509823,
+      "recordingDurationMs": 3698930,
+      "bytes": 44387561,
+      "sha256": "86ff570644c0d79e7b0178d2e721fea6b15426636a0a294f1a5963c7d1440ec1",
+      "sharedAyahs": [
+        "4:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 23.985,
+          "end": 533.71
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/037.mp3",
+      "startMs": 0,
+      "endMs": 1639870,
+      "durationMs": 1639870,
+      "recordingDurationMs": 1639870,
+      "bytes": 19679055,
+      "sha256": "b3431d28e00fed19c9800685479f044cb1d3b386006b4eb9ad12da615e246092",
+      "sharedAyahs": [
+        "4:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 533.71,
+          "end": 2173.54
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/038.mp3",
+      "startMs": 0,
+      "endMs": 422605,
+      "durationMs": 422605,
+      "recordingDurationMs": 963070,
+      "bytes": 11557289,
+      "sha256": "2c8aa3c5c096c7f0970ba112fdf8ef0bc389def4a9d7232878020ac1e80c98e6",
+      "sharedAyahs": [
+        "4:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 2173.54,
+          "end": 2596.15
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-183.mp3",
+      "startMs": 0,
+      "endMs": 2230,
+      "durationMs": 2230,
+      "recordingDurationMs": 2230,
+      "bytes": 27368,
+      "sha256": "65fbd98fb91c734fe7e5919c56b498d07ea6b59ba3af4de31d5344860e008bbe",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 2596.15,
+          "end": 2598.384
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-184.mp3",
+      "startMs": 0,
+      "endMs": 16460,
+      "durationMs": 16460,
+      "recordingDurationMs": 16460,
+      "bytes": 198157,
+      "sha256": "ffb29a0693228fcfe22e666ca17803b2f2ecb9961d7c3d3a0e4089b328dfb439",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 0,
+          "end": 16.425
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/038.mp3",
+      "startMs": 422605,
+      "endMs": 963070,
+      "durationMs": 540465,
+      "recordingDurationMs": 963070,
+      "bytes": 11557289,
+      "sha256": "2c8aa3c5c096c7f0970ba112fdf8ef0bc389def4a9d7232878020ac1e80c98e6",
+      "sharedAyahs": [
+        "4:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 16.425,
+          "end": 556.85
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/039.mp3",
+      "startMs": 0,
+      "endMs": 538970,
+      "durationMs": 538970,
+      "recordingDurationMs": 538970,
+      "bytes": 6468207,
+      "sha256": "2c34a7b7737f1ba4db898cedbf0212e04042b1a765651aa4a7f0a139d61369fb",
+      "sharedAyahs": [
+        "4:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 556.85,
+          "end": 1095.8
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/040.mp3",
+      "startMs": 0,
+      "endMs": 1587395,
+      "durationMs": 1587395,
+      "recordingDurationMs": 2098940,
+      "bytes": 25187753,
+      "sha256": "a19e0b49f1eba21e0bd93eb017995afe3317d3fe723bca01951f15b23248254e",
+      "sharedAyahs": [
+        "4:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 1095.8,
+          "end": 2683.296
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-185.mp3",
+      "startMs": 0,
+      "endMs": 15480,
+      "durationMs": 15480,
+      "recordingDurationMs": 15480,
+      "bytes": 186349,
+      "sha256": "f49370442458c761422fcb09cf99106f3236e247081f50e856c420126133845a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 0,
+          "end": 15.44
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/040.mp3",
+      "startMs": 1587395,
+      "endMs": 2098940,
+      "durationMs": 511545,
+      "recordingDurationMs": 2098940,
+      "bytes": 25187753,
+      "sha256": "a19e0b49f1eba21e0bd93eb017995afe3317d3fe723bca01951f15b23248254e",
+      "sharedAyahs": [
+        "4:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 15.44,
+          "end": 526.88
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/041.mp3",
+      "startMs": 0,
+      "endMs": 517540,
+      "durationMs": 517540,
+      "recordingDurationMs": 517540,
+      "bytes": 6211023,
+      "sha256": "b40be09235525dceb550d920a836bf340c8cd9999acf99ab12ca5434f384f039",
+      "sharedAyahs": [
+        "4:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 526.88,
+          "end": 1044.39
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/042.mp3",
+      "startMs": 0,
+      "endMs": 370820,
+      "durationMs": 370820,
+      "recordingDurationMs": 370820,
+      "bytes": 4450479,
+      "sha256": "19da0f7333037a43eefe4e1cabf15927bd7f4bcddd9cea02eb6710da0ae79c77",
+      "sharedAyahs": [
+        "4:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 1044.39,
+          "end": 1415.19
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/043.mp3",
+      "startMs": 0,
+      "endMs": 1022060,
+      "durationMs": 1022060,
+      "recordingDurationMs": 1022060,
+      "bytes": 12265359,
+      "sha256": "a5055fa93c04bc09ad0fbd12931cb74f08daced71ca742e908400207a7ace0f3",
+      "sharedAyahs": [
+        "4:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 1415.19,
+          "end": 2437.235
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/044.mp3",
+      "startMs": 0,
+      "endMs": 153683,
+      "durationMs": 153683,
+      "recordingDurationMs": 3675290,
+      "bytes": 44103881,
+      "sha256": "fa77c2a557c90b7b720bf7d8149820b53a1fb7a741e7dea3a5d0f65c63f7102d",
+      "sharedAyahs": [
+        "4:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 2437.235,
+          "end": 2591.016
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-186.mp3",
+      "startMs": 0,
+      "endMs": 17640,
+      "durationMs": 17640,
+      "recordingDurationMs": 17640,
+      "bytes": 212269,
+      "sha256": "37c57a613b9daae6ea8bf8bdc3f4ec305b245c128e092e26286b212aae392b55",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 0,
+          "end": 17.61
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/044.mp3",
+      "startMs": 153683,
+      "endMs": 2828603,
+      "durationMs": 2674920,
+      "recordingDurationMs": 3675290,
+      "bytes": 44103881,
+      "sha256": "fa77c2a557c90b7b720bf7d8149820b53a1fb7a741e7dea3a5d0f65c63f7102d",
+      "sharedAyahs": [
+        "4:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 17.61,
+          "end": 2692.536
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-187.mp3",
+      "startMs": 0,
+      "endMs": 20540,
+      "durationMs": 20540,
+      "recordingDurationMs": 20540,
+      "bytes": 247117,
+      "sha256": "ad07f0af12b771494fbc46160d4808511bd21668f3256b3ea75d1761eff39ab2",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 0,
+          "end": 20.5
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/044.mp3",
+      "startMs": 2828603,
+      "endMs": 3675290,
+      "durationMs": 846687,
+      "recordingDurationMs": 3675290,
+      "bytes": 44103881,
+      "sha256": "fa77c2a557c90b7b720bf7d8149820b53a1fb7a741e7dea3a5d0f65c63f7102d",
+      "sharedAyahs": [
+        "4:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 20.5,
+          "end": 867.09
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/045.mp3",
+      "startMs": 0,
+      "endMs": 180600,
+      "durationMs": 180600,
+      "recordingDurationMs": 180600,
+      "bytes": 2167791,
+      "sha256": "851ab2432a76e9875f68782c781d2870a45c70d46d8672f86edab69272be3bd8",
+      "sharedAyahs": [
+        "4:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 867.09,
+          "end": 1047.665
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/046.mp3",
+      "startMs": 0,
+      "endMs": 1081460,
+      "durationMs": 1081460,
+      "recordingDurationMs": 1081460,
+      "bytes": 12978159,
+      "sha256": "813bb853711a390361aa89c3f1641af7dcfd36ce57aa711b23cf969d3f076a2f",
+      "sharedAyahs": [
+        "4:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 1047.665,
+          "end": 2129.1
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/047.mp3",
+      "startMs": 0,
+      "endMs": 735661,
+      "durationMs": 735661,
+      "recordingDurationMs": 2630500,
+      "bytes": 31566377,
+      "sha256": "afe481b4e94d0f653f3cd312f7f464b28f652821a4fb0f9edc6def97135ec448",
+      "sharedAyahs": [
+        "4:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 2129.1,
+          "end": 2864.74
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-188.mp3",
+      "startMs": 0,
+      "endMs": 1660,
+      "durationMs": 1660,
+      "recordingDurationMs": 1660,
+      "bytes": 20456,
+      "sha256": "73f2817619debafa1525aa7ffa2ca4dd917285be5fcd2a24243b0f1394fae278",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 2864.74,
+          "end": 2866.416
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-189.mp3",
+      "startMs": 0,
+      "endMs": 13900,
+      "durationMs": 13900,
+      "recordingDurationMs": 13900,
+      "bytes": 167341,
+      "sha256": "89c55f971c78b0a183504aee635ebcd19d04b16d540b1d69751633fce06b2943",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 0,
+          "end": 13.865
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/047.mp3",
+      "startMs": 735661,
+      "endMs": 2630500,
+      "durationMs": 1894839,
+      "recordingDurationMs": 2630500,
+      "bytes": 31566377,
+      "sha256": "afe481b4e94d0f653f3cd312f7f464b28f652821a4fb0f9edc6def97135ec448",
+      "sharedAyahs": [
+        "4:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 13.865,
+          "end": 1908.67
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/048.mp3",
+      "startMs": 0,
+      "endMs": 791760,
+      "durationMs": 791760,
+      "recordingDurationMs": 791760,
+      "bytes": 9501711,
+      "sha256": "d7852f9d6e2e261d95aaec4f668d603d215a3607c9a2ea53939b27a5ddb434ca",
+      "sharedAyahs": [
+        "4:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 1908.67,
+          "end": 2700.4
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/049.mp3",
+      "startMs": 0,
+      "endMs": 164939,
+      "durationMs": 164939,
+      "recordingDurationMs": 1181950,
+      "bytes": 14183849,
+      "sha256": "164bba2cc84a4ebc6d5f08916f7adfb3eaba915ebb34f6f9c134b574f388c64f",
+      "sharedAyahs": [
+        "4:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 2700.4,
+          "end": 2865.432
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-190.mp3",
+      "startMs": 0,
+      "endMs": 18940,
+      "durationMs": 18940,
+      "recordingDurationMs": 18940,
+      "bytes": 227821,
+      "sha256": "6e5be48d8351f2ce410acc9e33f117d2659907cdb4e09ee82c2c0b02cba2c67d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 0,
+          "end": 18.91
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/049.mp3",
+      "startMs": 164939,
+      "endMs": 1181950,
+      "durationMs": 1017011,
+      "recordingDurationMs": 1181950,
+      "bytes": 14183849,
+      "sha256": "164bba2cc84a4ebc6d5f08916f7adfb3eaba915ebb34f6f9c134b574f388c64f",
+      "sharedAyahs": [
+        "4:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 18.91,
+          "end": 1035.8
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/050-context.mp3",
+      "startMs": 0,
+      "endMs": 65900,
+      "durationMs": 65900,
+      "recordingDurationMs": 65900,
+      "bytes": 791494,
+      "sha256": "8aa7d30aca896ca3e7e5e8e02b2ca08e1a990ea84c2b6c0d1ca636716efb5686",
+      "sharedAyahs": [
+        "4:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 1035.8,
+          "end": 1101.68
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/051-context.mp3",
+      "startMs": 0,
+      "endMs": 804580,
+      "durationMs": 804580,
+      "recordingDurationMs": 804580,
+      "bytes": 9655558,
+      "sha256": "b074ef568933789fecefcf04c8be9c7da87601d4465855991440a0636866da8b",
+      "sharedAyahs": [
+        "4:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 1101.68,
+          "end": 1906.24
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/052.mp3",
+      "startMs": 0,
+      "endMs": 89450,
+      "durationMs": 89450,
+      "recordingDurationMs": 89450,
+      "bytes": 1073967,
+      "sha256": "5cfd0c6d3c010ae9d0e2a60f3ca08c84c76eacba1ca0920aac8c7addb4b9e225",
+      "sharedAyahs": [
+        "4:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 1906.24,
+          "end": 1995.66
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/053.mp3",
+      "startMs": 0,
+      "endMs": 424870,
+      "durationMs": 424870,
+      "recordingDurationMs": 424870,
+      "bytes": 5099055,
+      "sha256": "c2f6152b78c9d9dceb81a61a45f72f8f6486df2d89f850f8f494e7d468178aaa",
+      "sharedAyahs": [
+        "4:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 1995.66,
+          "end": 2420.5
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/054.mp3",
+      "startMs": 0,
+      "endMs": 431435,
+      "durationMs": 431435,
+      "recordingDurationMs": 1592210,
+      "bytes": 19106921,
+      "sha256": "5c4a6a575290a35ed263aa7e1b61ad00df6f3ba532880a8105050d0f383aad64",
+      "sharedAyahs": [
+        "4:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 2420.5,
+          "end": 2852.04
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-191.mp3",
+      "startMs": 0,
+      "endMs": 16060,
+      "durationMs": 16060,
+      "recordingDurationMs": 16060,
+      "bytes": 193261,
+      "sha256": "e93b757a1a625e4d8e0a4d79c243cfa0be98cf1c1dc9b0a638e1f346188b91ae",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 0,
+          "end": 16.025
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/054.mp3",
+      "startMs": 431435,
+      "endMs": 1592210,
+      "durationMs": 1160775,
+      "recordingDurationMs": 1592210,
+      "bytes": 19106921,
+      "sha256": "5c4a6a575290a35ed263aa7e1b61ad00df6f3ba532880a8105050d0f383aad64",
+      "sharedAyahs": [
+        "4:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 16.025,
+          "end": 1176.68
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/055.mp3",
+      "startMs": 0,
+      "endMs": 711140,
+      "durationMs": 711140,
+      "recordingDurationMs": 711140,
+      "bytes": 8534319,
+      "sha256": "d394eaba34a4ab45c782a11b9e46c95db3ac5bdd2ecc7c39e4fabed347557737",
+      "sharedAyahs": [
+        "4:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 1176.68,
+          "end": 1887.8
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/056.mp3",
+      "startMs": 0,
+      "endMs": 804107,
+      "durationMs": 804107,
+      "recordingDurationMs": 1508640,
+      "bytes": 18104105,
+      "sha256": "1ce18373ea8552835b015c0266de6a11657a7eed3da74e66f701761e306709ea",
+      "sharedAyahs": [
+        "4:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 1887.8,
+          "end": 2692.008
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-192.mp3",
+      "startMs": 0,
+      "endMs": 18620,
+      "durationMs": 18620,
+      "recordingDurationMs": 18620,
+      "bytes": 224077,
+      "sha256": "078c75d311145f9da690f0d8482b1cc38c622039174f84d02ec31d5b14e0f6f1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 0,
+          "end": 18.6
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/056.mp3",
+      "startMs": 804107,
+      "endMs": 1508640,
+      "durationMs": 704533,
+      "recordingDurationMs": 1508640,
+      "bytes": 18104105,
+      "sha256": "1ce18373ea8552835b015c0266de6a11657a7eed3da74e66f701761e306709ea",
+      "sharedAyahs": [
+        "4:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 18.6,
+          "end": 723.01
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/057.mp3",
+      "startMs": 0,
+      "endMs": 1552870,
+      "durationMs": 1552870,
+      "recordingDurationMs": 1552870,
+      "bytes": 18635055,
+      "sha256": "387fd8f3b4e8be4fd2f6ea2cb3d4df5b67546be1bed93784ce3bab578c02fcc0",
+      "sharedAyahs": [
+        "4:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 723.01,
+          "end": 2275.86
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/058.mp3",
+      "startMs": 0,
+      "endMs": 552385,
+      "durationMs": 552385,
+      "recordingDurationMs": 2515060,
+      "bytes": 30181097,
+      "sha256": "8b3f8fdc67a5ca0a7c91f3e640033dea7ca322313e138b29f0153ada6db4172e",
+      "sharedAyahs": [
+        "4:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 2275.86,
+          "end": 2828.25
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-193.mp3",
+      "startMs": 0,
+      "endMs": 1800,
+      "durationMs": 1800,
+      "recordingDurationMs": 1800,
+      "bytes": 22184,
+      "sha256": "de1ed815bcb450a35a3cefd4b1732f58f015f4707cf511ba4a342e4887ed3a9d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 2828.25,
+          "end": 2830.056
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/058.mp3",
+      "startMs": 552385,
+      "endMs": 2515060,
+      "durationMs": 1962675,
+      "recordingDurationMs": 2515060,
+      "bytes": 30181097,
+      "sha256": "8b3f8fdc67a5ca0a7c91f3e640033dea7ca322313e138b29f0153ada6db4172e",
+      "sharedAyahs": [
+        "4:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 0.0,
+          "end": 1962.61
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/059.mp3",
+      "startMs": 0,
+      "endMs": 764029,
+      "durationMs": 764029,
+      "recordingDurationMs": 1339180,
+      "bytes": 16070537,
+      "sha256": "087242cc75601b372fd4c4893b27fc802d4321794e7b73756dd22a26adf9c4d4",
+      "sharedAyahs": [
+        "4:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 1962.61,
+          "end": 2726.64
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-194.mp3",
+      "startMs": 0,
+      "endMs": 2470,
+      "durationMs": 2470,
+      "recordingDurationMs": 2470,
+      "bytes": 30248,
+      "sha256": "37245b32db48dbd8b067a04a2e42ce3067790530095eac250971c077a0befca2",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 2726.64,
+          "end": 2729.112
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-195.mp3",
+      "startMs": 0,
+      "endMs": 10440,
+      "durationMs": 10440,
+      "recordingDurationMs": 10440,
+      "bytes": 125869,
+      "sha256": "5a1a7e069739eefa0bdd0c8034b1168fe8a95c529f8c5e09b16ee7547c7bdbb9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 0,
+          "end": 10.41
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/059.mp3",
+      "startMs": 764029,
+      "endMs": 1339180,
+      "durationMs": 575151,
+      "recordingDurationMs": 1339180,
+      "bytes": 16070537,
+      "sha256": "087242cc75601b372fd4c4893b27fc802d4321794e7b73756dd22a26adf9c4d4",
+      "sharedAyahs": [
+        "4:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 10.41,
+          "end": 585.51
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/060.mp3",
+      "startMs": 0,
+      "endMs": 503780,
+      "durationMs": 503780,
+      "recordingDurationMs": 503780,
+      "bytes": 6045999,
+      "sha256": "cb42816c4ddb05700b7514dddc4f422240f962328a9c529bd8f68ed196d5b888",
+      "sharedAyahs": [
+        "4:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 585.51,
+          "end": 1089.27
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/061.mp3",
+      "startMs": 0,
+      "endMs": 375770,
+      "durationMs": 375770,
+      "recordingDurationMs": 375770,
+      "bytes": 4509807,
+      "sha256": "8fa69ee5f6973798d535d5e36ec83b91fc9ef11f1cd0ed556dbfc8438b55e981",
+      "sharedAyahs": [
+        "4:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 1089.27,
+          "end": 1465.03
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/062.mp3",
+      "startMs": 0,
+      "endMs": 144070,
+      "durationMs": 144070,
+      "recordingDurationMs": 144070,
+      "bytes": 1729455,
+      "sha256": "6b3f97e5e4f039578c0f55a91bd0db1177332b3fa5ac1ab5c6e0952d02c0e015",
+      "sharedAyahs": [
+        "4:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 1465.03,
+          "end": 1609.07
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/063.mp3",
+      "startMs": 0,
+      "endMs": 362040,
+      "durationMs": 362040,
+      "recordingDurationMs": 362040,
+      "bytes": 4345071,
+      "sha256": "7e562c53e71a4180c751d4974797cef8b136e7719aba3ca48131fa836bbe1f6a",
+      "sharedAyahs": [
+        "4:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 1609.07,
+          "end": 1971.09
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/064.mp3",
+      "startMs": 0,
+      "endMs": 803989,
+      "durationMs": 803989,
+      "recordingDurationMs": 1996900,
+      "bytes": 23963182,
+      "sha256": "e7effce074e99634df7e5dc1d7d7026aeb1b3e99593b5a4be3e4a7e27355cb3a",
+      "sharedAyahs": [
+        "4:64",
+        "4:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 1971.09,
+          "end": 2775.06
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-196.mp3",
+      "startMs": 0,
+      "endMs": 2380,
+      "durationMs": 2380,
+      "recordingDurationMs": 2380,
+      "bytes": 29096,
+      "sha256": "5c05720cee6ebfbfe409d1eb07ce7367ad3dcc99b3447f4e2ab303ae75fe6f3c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 2775.06,
+          "end": 2777.448
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-197.mp3",
+      "startMs": 0,
+      "endMs": 16100,
+      "durationMs": 16100,
+      "recordingDurationMs": 16100,
+      "bytes": 193837,
+      "sha256": "ecaf060ab8c6e036dd52c277326db8c42efbaed91d870903f51241f19872f1ed",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 0,
+          "end": 16.08
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/064.mp3",
+      "startMs": 803989,
+      "endMs": 1996900,
+      "durationMs": 1192911,
+      "recordingDurationMs": 1996900,
+      "bytes": 23963182,
+      "sha256": "e7effce074e99634df7e5dc1d7d7026aeb1b3e99593b5a4be3e4a7e27355cb3a",
+      "sharedAyahs": [
+        "4:64",
+        "4:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 16.08,
+          "end": 1208.93
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/066.mp3",
+      "startMs": 0,
+      "endMs": 916870,
+      "durationMs": 916870,
+      "recordingDurationMs": 916870,
+      "bytes": 11003055,
+      "sha256": "a50ffd67f6dbfefb3f52b5d84a29ee59ee658be4376276771fedc482fa36e919",
+      "sharedAyahs": [
+        "4:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 1208.93,
+          "end": 2125.78
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/067.mp3",
+      "startMs": 0,
+      "endMs": 27220,
+      "durationMs": 27220,
+      "recordingDurationMs": 27220,
+      "bytes": 327188,
+      "sha256": "61c4a129d5bb0e16593d559ef36863db740cbbf40bfc68ffdb2d3437f45bbee4",
+      "sharedAyahs": [
+        "4:67",
+        "4:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 2125.78,
+          "end": 2152.99
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/069.mp3",
+      "startMs": 0,
+      "endMs": 542699,
+      "durationMs": 542699,
+      "recordingDurationMs": 1146430,
+      "bytes": 13757609,
+      "sha256": "e4318273c2d8dfd5aa084b4399ed5fdfc581c3f0c8777322bb8733e0232df626",
+      "sharedAyahs": [
+        "4:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 2152.99,
+          "end": 2695.776
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-198.mp3",
+      "startMs": 0,
+      "endMs": 17690,
+      "durationMs": 17690,
+      "recordingDurationMs": 17690,
+      "bytes": 212845,
+      "sha256": "d455a987e04d32cec36dd5bbcb39f7c8ab20db36bb63d2e88b3ade88ceffb46b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 0,
+          "end": 17.66
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/069.mp3",
+      "startMs": 542699,
+      "endMs": 1146430,
+      "durationMs": 603731,
+      "recordingDurationMs": 1146430,
+      "bytes": 13757609,
+      "sha256": "e4318273c2d8dfd5aa084b4399ed5fdfc581c3f0c8777322bb8733e0232df626",
+      "sharedAyahs": [
+        "4:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 17.66,
+          "end": 621.27
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/070.mp3",
+      "startMs": 0,
+      "endMs": 774290,
+      "durationMs": 774290,
+      "recordingDurationMs": 774290,
+      "bytes": 9292047,
+      "sha256": "5c182c9c2fea5aec8b525f357d1f24bdec6852f46a88f7fa73905ccba4318a7c",
+      "sharedAyahs": [
+        "4:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 621.27,
+          "end": 1395.54
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/071.mp3",
+      "startMs": 0,
+      "endMs": 546070,
+      "durationMs": 546070,
+      "recordingDurationMs": 546070,
+      "bytes": 6553455,
+      "sha256": "f731b59fa446e437c170ff7038a7dae176b1172dbbf12e5159ca2c9705629c00",
+      "sharedAyahs": [
+        "4:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 1395.54,
+          "end": 1941.6
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/072.mp3",
+      "startMs": 0,
+      "endMs": 206280,
+      "durationMs": 206280,
+      "recordingDurationMs": 206280,
+      "bytes": 2475951,
+      "sha256": "2fce4d9b461c7321e182ecc7aebf30b4d2122a8eaf47705a4287b1c9212ea078",
+      "sharedAyahs": [
+        "4:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 1941.6,
+          "end": 2147.84
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/073.mp3",
+      "startMs": 0,
+      "endMs": 337250,
+      "durationMs": 337250,
+      "recordingDurationMs": 337250,
+      "bytes": 4047567,
+      "sha256": "1ad9dd567822f5f8f485c8bccc2dd9144ec963cc67dc0f617ece55a2a1cfe509",
+      "sharedAyahs": [
+        "4:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 2147.84,
+          "end": 2485.08
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/074.mp3",
+      "startMs": 0,
+      "endMs": 190691,
+      "durationMs": 190691,
+      "recordingDurationMs": 3415180,
+      "bytes": 40982537,
+      "sha256": "7ed9e4b350169d48c0bda187722837966d48b24ac1e5188118fa41a0513b0e25",
+      "sharedAyahs": [
+        "4:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 2485.08,
+          "end": 2675.856
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-199.mp3",
+      "startMs": 0,
+      "endMs": 19250,
+      "durationMs": 19250,
+      "recordingDurationMs": 19250,
+      "bytes": 231565,
+      "sha256": "ddfb84e4b33a5ca96bb1c5c05b04c3b126569b9a7705abf20eb0ac0acf1cb4f7",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 0,
+          "end": 19.205
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/074.mp3",
+      "startMs": 190691,
+      "endMs": 2874275,
+      "durationMs": 2683584,
+      "recordingDurationMs": 3415180,
+      "bytes": 40982537,
+      "sha256": "7ed9e4b350169d48c0bda187722837966d48b24ac1e5188118fa41a0513b0e25",
+      "sharedAyahs": [
+        "4:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 19.205,
+          "end": 2702.808
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-200.mp3",
+      "startMs": 0,
+      "endMs": 28920,
+      "durationMs": 28920,
+      "recordingDurationMs": 28920,
+      "bytes": 347629,
+      "sha256": "307081fc251299805fe0689dc97fe66ef580f4f52d4a05b69d727a0c2ef6e554",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 0,
+          "end": 28.88
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/074.mp3",
+      "startMs": 2874275,
+      "endMs": 3415180,
+      "durationMs": 540905,
+      "recordingDurationMs": 3415180,
+      "bytes": 40982537,
+      "sha256": "7ed9e4b350169d48c0bda187722837966d48b24ac1e5188118fa41a0513b0e25",
+      "sharedAyahs": [
+        "4:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 28.88,
+          "end": 569.68
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/075.mp3",
+      "startMs": 0,
+      "endMs": 373630,
+      "durationMs": 373630,
+      "recordingDurationMs": 373630,
+      "bytes": 4484175,
+      "sha256": "9dbd6b43bcbd559467353175c7d7dc4f895dbe5fda2286ac0baf399ab8a3f95d",
+      "sharedAyahs": [
+        "4:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 569.68,
+          "end": 943.28
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/076.mp3",
+      "startMs": 0,
+      "endMs": 911930,
+      "durationMs": 911930,
+      "recordingDurationMs": 911930,
+      "bytes": 10943727,
+      "sha256": "456518edb5b1d781873f0850cd6a5770870dfd44144633382c2202bec939affa",
+      "sharedAyahs": [
+        "4:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 943.28,
+          "end": 1855.18
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/077.mp3",
+      "startMs": 0,
+      "endMs": 895475,
+      "durationMs": 895475,
+      "recordingDurationMs": 1982520,
+      "bytes": 23790665,
+      "sha256": "0048230d5c928c22b65ccbce9e3650d411be0caedabfa71c992fcd8f26cb6683",
+      "sharedAyahs": [
+        "4:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 1855.18,
+          "end": 2750.76
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-201.mp3",
+      "startMs": 0,
+      "endMs": 15340,
+      "durationMs": 15340,
+      "recordingDurationMs": 15340,
+      "bytes": 184621,
+      "sha256": "e5fe8b1d96269373db682436be341f0381298ee06601c4028c1caa6568a96d2d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 0,
+          "end": 15.31
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/077.mp3",
+      "startMs": 895475,
+      "endMs": 1982520,
+      "durationMs": 1087045,
+      "recordingDurationMs": 1982520,
+      "bytes": 23790665,
+      "sha256": "0048230d5c928c22b65ccbce9e3650d411be0caedabfa71c992fcd8f26cb6683",
+      "sharedAyahs": [
+        "4:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 15.31,
+          "end": 1102.24
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/078.mp3",
+      "startMs": 0,
+      "endMs": 1680587,
+      "durationMs": 1680587,
+      "recordingDurationMs": 4109020,
+      "bytes": 49308617,
+      "sha256": "7276b876fbd825889b02226adc6bde3494c86dc5cd3859c46749ef51fb9e61a4",
+      "sharedAyahs": [
+        "4:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 1102.24,
+          "end": 2782.92
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-202.mp3",
+      "startMs": 0,
+      "endMs": 15260,
+      "durationMs": 15260,
+      "recordingDurationMs": 15260,
+      "bytes": 183757,
+      "sha256": "ffc2475be65230c3fd1ddb97a74b9b8df73964177ae6e0f8ac4c2840065dc03c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 0,
+          "end": 15.23
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/078.mp3",
+      "startMs": 1680587,
+      "endMs": 4109020,
+      "durationMs": 2428433,
+      "recordingDurationMs": 4109020,
+      "bytes": 49308617,
+      "sha256": "7276b876fbd825889b02226adc6bde3494c86dc5cd3859c46749ef51fb9e61a4",
+      "sharedAyahs": [
+        "4:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 15.23,
+          "end": 2443.54
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/079.mp3",
+      "startMs": 0,
+      "endMs": 123220,
+      "durationMs": 123220,
+      "recordingDurationMs": 123220,
+      "bytes": 1479183,
+      "sha256": "ff75c1b76ed7fea23ff5972899318fdf3005beb215d2ebafbc72d6c318d2bcfa",
+      "sharedAyahs": [
+        "4:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 2443.54,
+          "end": 2566.73
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/080.mp3",
+      "startMs": 0,
+      "endMs": 84661,
+      "durationMs": 84661,
+      "recordingDurationMs": 1739110,
+      "bytes": 20869769,
+      "sha256": "faf5e4a610055051b96fe57f59125d71cd6404449216338c057e2e3b590408ca",
+      "sharedAyahs": [
+        "4:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 2566.73,
+          "end": 2651.4
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-203.mp3",
+      "startMs": 0,
+      "endMs": 3050,
+      "durationMs": 3050,
+      "recordingDurationMs": 3050,
+      "bytes": 37160,
+      "sha256": "06a7f88b49fd0842774a70c8773634e0b7203d3e838c25f03335f7b67c83ab03",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 2651.4,
+          "end": 2654.448
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-204.mp3",
+      "startMs": 0,
+      "endMs": 20330,
+      "durationMs": 20330,
+      "recordingDurationMs": 20330,
+      "bytes": 244525,
+      "sha256": "0c4bc06d08001f608ca5b0c05e181887d6b69f177ed6070f89d6538a1601de29",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 0,
+          "end": 20.285
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/080.mp3",
+      "startMs": 84661,
+      "endMs": 1739110,
+      "durationMs": 1654449,
+      "recordingDurationMs": 1739110,
+      "bytes": 20869769,
+      "sha256": "faf5e4a610055051b96fe57f59125d71cd6404449216338c057e2e3b590408ca",
+      "sharedAyahs": [
+        "4:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 20.285,
+          "end": 1674.71
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/081.mp3",
+      "startMs": 0,
+      "endMs": 409220,
+      "durationMs": 409220,
+      "recordingDurationMs": 409220,
+      "bytes": 4911279,
+      "sha256": "7d9b3abbcc2e8d099150bb2aaafd99c379f259b57162268d92c756d2fa3c5b6f",
+      "sharedAyahs": [
+        "4:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 1674.71,
+          "end": 2083.91
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/082.mp3",
+      "startMs": 0,
+      "endMs": 675277,
+      "durationMs": 675277,
+      "recordingDurationMs": 2769890,
+      "bytes": 33239081,
+      "sha256": "f954c5c1ed75fec237a463588cb94a061942753cbb0c212269e977858f1b96e5",
+      "sharedAyahs": [
+        "4:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 2083.91,
+          "end": 2759.17
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-205.mp3",
+      "startMs": 0,
+      "endMs": 2140,
+      "durationMs": 2140,
+      "recordingDurationMs": 2140,
+      "bytes": 26216,
+      "sha256": "aa10f012eb2986d7f23c0ed07b4ed29753295aaa79789dff50e9f4ac49d88f3f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 2759.17,
+          "end": 2761.32
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-206.mp3",
+      "startMs": 0,
+      "endMs": 17520,
+      "durationMs": 17520,
+      "recordingDurationMs": 17520,
+      "bytes": 210829,
+      "sha256": "20111b7ee32a84002b73f8cb92d8ab717390ffc35af500b86088fafa47f4f489",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 0,
+          "end": 17.495
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/082.mp3",
+      "startMs": 675277,
+      "endMs": 2769890,
+      "durationMs": 2094613,
+      "recordingDurationMs": 2769890,
+      "bytes": 33239081,
+      "sha256": "f954c5c1ed75fec237a463588cb94a061942753cbb0c212269e977858f1b96e5",
+      "sharedAyahs": [
+        "4:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 17.495,
+          "end": 2112.07
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/083.mp3",
+      "startMs": 0,
+      "endMs": 600985,
+      "durationMs": 600985,
+      "recordingDurationMs": 808340,
+      "bytes": 9700553,
+      "sha256": "d04403cebcbecbd184abea35b45e9fb4f9c9dcdaf95e2f8f1e196620c6675d3b",
+      "sharedAyahs": [
+        "4:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 2112.07,
+          "end": 2713.05
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-207.mp3",
+      "startMs": 0,
+      "endMs": 1820,
+      "durationMs": 1820,
+      "recordingDurationMs": 1820,
+      "bytes": 22472,
+      "sha256": "8624e213574ae0aec19fca3a1a4000f810df3d2490d31d28d4e3926ad7d7bb5e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 2713.05,
+          "end": 2714.88
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/083.mp3",
+      "startMs": 600985,
+      "endMs": 808340,
+      "durationMs": 207355,
+      "recordingDurationMs": 808340,
+      "bytes": 9700553,
+      "sha256": "d04403cebcbecbd184abea35b45e9fb4f9c9dcdaf95e2f8f1e196620c6675d3b",
+      "sharedAyahs": [
+        "4:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 0.0,
+          "end": 207.31
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/084.mp3",
+      "startMs": 0,
+      "endMs": 1256300,
+      "durationMs": 1256300,
+      "recordingDurationMs": 1256300,
+      "bytes": 15076239,
+      "sha256": "8cbad0b16d340cd3d35e1136d6e74883bfce4dcdd4f463f355db19491bb77970",
+      "sharedAyahs": [
+        "4:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 207.31,
+          "end": 1463.58
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/085.mp3",
+      "startMs": 0,
+      "endMs": 914470,
+      "durationMs": 914470,
+      "recordingDurationMs": 914470,
+      "bytes": 10974255,
+      "sha256": "f0010d6f198ac1600ebf6d64c53c64148a9ddf7262545ebc67890e575f3d609d",
+      "sharedAyahs": [
+        "4:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 1463.58,
+          "end": 2378.02
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/086.mp3",
+      "startMs": 0,
+      "endMs": 436381,
+      "durationMs": 436381,
+      "recordingDurationMs": 1844860,
+      "bytes": 22138697,
+      "sha256": "fa0d45859542a7d94df6069ef0cc2af874c429f9aaec1f2eeb6d0b14e19dc024",
+      "sharedAyahs": [
+        "4:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 2378.02,
+          "end": 2814.4
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-208.mp3",
+      "startMs": 0,
+      "endMs": 1540,
+      "durationMs": 1540,
+      "recordingDurationMs": 1540,
+      "bytes": 19016,
+      "sha256": "2df071bcddb4f6ade92da6c3cfa293562c6125cea0b97879dcbd6c6b9e94075b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 2814.4,
+          "end": 2815.944
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-209.mp3",
+      "startMs": 0,
+      "endMs": 17180,
+      "durationMs": 17180,
+      "recordingDurationMs": 17180,
+      "bytes": 206797,
+      "sha256": "8d0d87792e1423faa88141e7b14aaab6d416748308477ad9776ec6c287ed98d4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 0,
+          "end": 17.16
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/086.mp3",
+      "startMs": 436381,
+      "endMs": 1844860,
+      "durationMs": 1408479,
+      "recordingDurationMs": 1844860,
+      "bytes": 22138697,
+      "sha256": "fa0d45859542a7d94df6069ef0cc2af874c429f9aaec1f2eeb6d0b14e19dc024",
+      "sharedAyahs": [
+        "4:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 17.16,
+          "end": 1425.58
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/087.mp3",
+      "startMs": 0,
+      "endMs": 1295963,
+      "durationMs": 1295963,
+      "recordingDurationMs": 1385110,
+      "bytes": 16621769,
+      "sha256": "8bf743f50db8f08aa6077725d691c18b5bfbfc59d9e8ba26cba57cae1092bf50",
+      "sharedAyahs": [
+        "4:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 1425.58,
+          "end": 2721.648
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-210.mp3",
+      "startMs": 0,
+      "endMs": 17520,
+      "durationMs": 17520,
+      "recordingDurationMs": 17520,
+      "bytes": 210829,
+      "sha256": "7cfe4358d8b9041bbe333f03350c27ab6471e48f0b97703f71a360515b854b15",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 0,
+          "end": 17.475
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/087.mp3",
+      "startMs": 1295963,
+      "endMs": 1385110,
+      "durationMs": 89147,
+      "recordingDurationMs": 1385110,
+      "bytes": 16621769,
+      "sha256": "8bf743f50db8f08aa6077725d691c18b5bfbfc59d9e8ba26cba57cae1092bf50",
+      "sharedAyahs": [
+        "4:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 17.475,
+          "end": 106.52
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/088.mp3",
+      "startMs": 0,
+      "endMs": 2476270,
+      "durationMs": 2476270,
+      "recordingDurationMs": 2476270,
+      "bytes": 29715855,
+      "sha256": "bc2ed24f69f0e58a9a5f26d9c3e8ffdfe9cd9e62e88ecb4d3ba0fabced9f5f11",
+      "sharedAyahs": [
+        "4:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 106.52,
+          "end": 2582.808
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-211.mp3",
+      "startMs": 0,
+      "endMs": 17810,
+      "durationMs": 17810,
+      "recordingDurationMs": 17810,
+      "bytes": 214285,
+      "sha256": "f9f074cf89436a643a790662f79b37b0dea00c052255324649e41a8bd9c46d32",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 0,
+          "end": 17.78
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/089.mp3",
+      "startMs": 0,
+      "endMs": 1255680,
+      "durationMs": 1255680,
+      "recordingDurationMs": 1255680,
+      "bytes": 15068751,
+      "sha256": "ade9dbc698be892dcdce9787f7378765e79e0cf12de098b15caa72597b4a315f",
+      "sharedAyahs": [
+        "4:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 17.78,
+          "end": 1273.43
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/090.mp3",
+      "startMs": 0,
+      "endMs": 319180,
+      "durationMs": 319180,
+      "recordingDurationMs": 319180,
+      "bytes": 3830703,
+      "sha256": "d0e691b62ec887e60cf46d14a5c5afd08da37645fc65bdd8089286f8c8c42ffb",
+      "sharedAyahs": [
+        "4:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 1273.43,
+          "end": 1592.57
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/091.mp3",
+      "startMs": 0,
+      "endMs": 680110,
+      "durationMs": 680110,
+      "recordingDurationMs": 680110,
+      "bytes": 8161935,
+      "sha256": "a772d418170c2805f02dcf88f12748a5e22c4d3eb7f7c80baa0fe4107f6a7d79",
+      "sharedAyahs": [
+        "4:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 1592.57,
+          "end": 2272.68
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/092.mp3",
+      "startMs": 0,
+      "endMs": 418453,
+      "durationMs": 418453,
+      "recordingDurationMs": 2650200,
+      "bytes": 31802825,
+      "sha256": "0084c6240b205fc3b397353123f4ed185d67c2f248e4cb1e6bcd4351300a5007",
+      "sharedAyahs": [
+        "4:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 2272.68,
+          "end": 2691.11
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-212.mp3",
+      "startMs": 0,
+      "endMs": 2140,
+      "durationMs": 2140,
+      "recordingDurationMs": 2140,
+      "bytes": 26216,
+      "sha256": "25e0cd9b8e5e1130321a6e87d80bdeaf0e43ea9d24660f9895cc3ce95e2a5d4c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 2691.11,
+          "end": 2693.256
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-213.mp3",
+      "startMs": 0,
+      "endMs": 13320,
+      "durationMs": 13320,
+      "recordingDurationMs": 13320,
+      "bytes": 160429,
+      "sha256": "241d1c3bb9dd9737fc14faa3e811a01e6c861c2e0657de96c491d645e502599f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 0,
+          "end": 13.275
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/092.mp3",
+      "startMs": 418453,
+      "endMs": 2650200,
+      "durationMs": 2231747,
+      "recordingDurationMs": 2650200,
+      "bytes": 31802825,
+      "sha256": "0084c6240b205fc3b397353123f4ed185d67c2f248e4cb1e6bcd4351300a5007",
+      "sharedAyahs": [
+        "4:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 13.275,
+          "end": 2244.99
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/093.mp3",
+      "startMs": 0,
+      "endMs": 488315,
+      "durationMs": 488315,
+      "recordingDurationMs": 1116550,
+      "bytes": 13399049,
+      "sha256": "88360aa9fa43bb2ff0f45669b9e0b2f38f6f24da25a6052e4038032fe0ee89e4",
+      "sharedAyahs": [
+        "4:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 2244.99,
+          "end": 2733.408
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-214.mp3",
+      "startMs": 0,
+      "endMs": 19850,
+      "durationMs": 19850,
+      "recordingDurationMs": 19850,
+      "bytes": 238765,
+      "sha256": "4536681f28af508af69653d03de9bd9fcdd2abe92475ee7496cb51b10274614b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 0,
+          "end": 19.815
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/093.mp3",
+      "startMs": 488315,
+      "endMs": 1116550,
+      "durationMs": 628235,
+      "recordingDurationMs": 1116550,
+      "bytes": 13399049,
+      "sha256": "88360aa9fa43bb2ff0f45669b9e0b2f38f6f24da25a6052e4038032fe0ee89e4",
+      "sharedAyahs": [
+        "4:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 19.815,
+          "end": 647.95
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/094.mp3",
+      "startMs": 0,
+      "endMs": 2072027,
+      "durationMs": 2072027,
+      "recordingDurationMs": 2249690,
+      "bytes": 26996681,
+      "sha256": "64cd98e052460b9991d5b7737137e47ecd5e6c10f3a16456ba0ac44085895793",
+      "sharedAyahs": [
+        "4:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 647.95,
+          "end": 2720.064
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-215.mp3",
+      "startMs": 0,
+      "endMs": 20500,
+      "durationMs": 20500,
+      "recordingDurationMs": 20500,
+      "bytes": 246541,
+      "sha256": "7a4c306d6e267077e81929e38a2e46ead3d23291d63a2d5d6e3d8f83d60e8059",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 0,
+          "end": 20.46
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/094.mp3",
+      "startMs": 2072027,
+      "endMs": 2249690,
+      "durationMs": 177663,
+      "recordingDurationMs": 2249690,
+      "bytes": 26996681,
+      "sha256": "64cd98e052460b9991d5b7737137e47ecd5e6c10f3a16456ba0ac44085895793",
+      "sharedAyahs": [
+        "4:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 20.46,
+          "end": 198.01
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/095.mp3",
+      "startMs": 0,
+      "endMs": 1155910,
+      "durationMs": 1155910,
+      "recordingDurationMs": 1155910,
+      "bytes": 13871535,
+      "sha256": "68da54fdc9158a1287bb6ecbd85a6984fdd7a7c8b6779bc311449c74d09d5fbc",
+      "sharedAyahs": [
+        "4:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 198.01,
+          "end": 1353.91
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/096.mp3",
+      "startMs": 0,
+      "endMs": 333670,
+      "durationMs": 333670,
+      "recordingDurationMs": 333670,
+      "bytes": 4004655,
+      "sha256": "3af5d88aa74a1879f482abadc90efcf9c962c854b664f1f8ee08fd3c336639dc",
+      "sharedAyahs": [
+        "4:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 1353.91,
+          "end": 1687.54
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/097.mp3",
+      "startMs": 0,
+      "endMs": 971540,
+      "durationMs": 971540,
+      "recordingDurationMs": 971540,
+      "bytes": 11659119,
+      "sha256": "e14df195ff84291f9d0d0a98043c663a0f11e48922787e6fb1602b6b87dd5910",
+      "sharedAyahs": [
+        "4:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 1687.54,
+          "end": 2659.07
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/098.mp3",
+      "startMs": 0,
+      "endMs": 86281,
+      "durationMs": 86281,
+      "recordingDurationMs": 447980,
+      "bytes": 5376238,
+      "sha256": "4959a6dcdea243332a6a9b8450a6631fa46a1dd1f5bc98da42cf2f985fd55c7c",
+      "sharedAyahs": [
+        "4:98",
+        "4:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 2659.07,
+          "end": 2745.34
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-216.mp3",
+      "startMs": 0,
+      "endMs": 1610,
+      "durationMs": 1610,
+      "recordingDurationMs": 1610,
+      "bytes": 19880,
+      "sha256": "26d2fcf7a03d9bcdb8105adfd85ddf9b1bc4a3b823ea54cab207327ff886a1e0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 2745.34,
+          "end": 2746.968
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/098.mp3",
+      "startMs": 86281,
+      "endMs": 447980,
+      "durationMs": 361699,
+      "recordingDurationMs": 447980,
+      "bytes": 5376238,
+      "sha256": "4959a6dcdea243332a6a9b8450a6631fa46a1dd1f5bc98da42cf2f985fd55c7c",
+      "sharedAyahs": [
+        "4:98",
+        "4:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 0.0,
+          "end": 361.65
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/100.mp3",
+      "startMs": 0,
+      "endMs": 678410,
+      "durationMs": 678410,
+      "recordingDurationMs": 678410,
+      "bytes": 8141489,
+      "sha256": "149b32d9b1237da043dfb14b55e2c73017c0c07f6efcf30849f3671847edfd26",
+      "sharedAyahs": [
+        "4:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 361.65,
+          "end": 1040.04
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/101.mp3",
+      "startMs": 0,
+      "endMs": 282460,
+      "durationMs": 282460,
+      "recordingDurationMs": 282460,
+      "bytes": 3390065,
+      "sha256": "16d44a25471f2ae20e29c665ae5c9d3ba73ebcd1501417f6f1c99870ee1e7ac5",
+      "sharedAyahs": [
+        "4:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 1040.04,
+          "end": 1322.47
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/102.mp3",
+      "startMs": 0,
+      "endMs": 701780,
+      "durationMs": 701780,
+      "recordingDurationMs": 701780,
+      "bytes": 8422001,
+      "sha256": "59bf61c037d65e54085fd9a48848b460dc041078b9c5ef32114ebc5e89f117fd",
+      "sharedAyahs": [
+        "4:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 1322.47,
+          "end": 2024.21
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/103.mp3",
+      "startMs": 0,
+      "endMs": 358200,
+      "durationMs": 358200,
+      "recordingDurationMs": 358200,
+      "bytes": 4298993,
+      "sha256": "c06d285758cb696338c63dc32a469dee8471c7198c7df3666dbf89661038de74",
+      "sharedAyahs": [
+        "4:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 2024.21,
+          "end": 2382.4
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/104-context.mp3",
+      "startMs": 0,
+      "endMs": 355715,
+      "durationMs": 355715,
+      "recordingDurationMs": 903820,
+      "bytes": 10846124,
+      "sha256": "d7af108214262947906ddb20671f7cb7aca323c0c43399694cc2b9249494beb1",
+      "sharedAyahs": [
+        "4:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 2382.4,
+          "end": 2738.208
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-217.mp3",
+      "startMs": 0,
+      "endMs": 16850,
+      "durationMs": 16850,
+      "recordingDurationMs": 16850,
+      "bytes": 202765,
+      "sha256": "aa982d7fb8b5bcd4a05f88911f37c65cdc2fd46d8d535501dddf67b5812bc9f7",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 0,
+          "end": 16.81
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/104-context.mp3",
+      "startMs": 355715,
+      "endMs": 903820,
+      "durationMs": 548105,
+      "recordingDurationMs": 903820,
+      "bytes": 10846124,
+      "sha256": "d7af108214262947906ddb20671f7cb7aca323c0c43399694cc2b9249494beb1",
+      "sharedAyahs": [
+        "4:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 16.81,
+          "end": 564.8
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/105-context.mp3",
+      "startMs": 0,
+      "endMs": 1303250,
+      "durationMs": 1303250,
+      "recordingDurationMs": 1303250,
+      "bytes": 15639642,
+      "sha256": "3d1ef7d514408f84cd22364acd367686dec9fcaab802216865f8dd4b613ad802",
+      "sharedAyahs": [
+        "4:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 564.8,
+          "end": 1868.02
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/106.mp3",
+      "startMs": 0,
+      "endMs": 76580,
+      "durationMs": 76580,
+      "recordingDurationMs": 76580,
+      "bytes": 919601,
+      "sha256": "f1ffa3e7359df41b66ba58bf5759cae6d1246d51aa10459b467b6fdfff8b59ab",
+      "sharedAyahs": [
+        "4:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 1868.02,
+          "end": 1944.6
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/107.mp3",
+      "startMs": 0,
+      "endMs": 459940,
+      "durationMs": 459940,
+      "recordingDurationMs": 459940,
+      "bytes": 5519825,
+      "sha256": "c70e93c4c4f3fa63b8479037eadcaf340611f06e7ba06a8225fe1d0d2fb3c1a5",
+      "sharedAyahs": [
+        "4:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 1944.6,
+          "end": 2404.5
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/108.mp3",
+      "startMs": 0,
+      "endMs": 162371,
+      "durationMs": 162371,
+      "recordingDurationMs": 331750,
+      "bytes": 3981457,
+      "sha256": "dac9a7807bfb90ba56faca1845243b75df4bb3ef6740d42f4772607155e07ecd",
+      "sharedAyahs": [
+        "4:108",
+        "4:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 2404.5,
+          "end": 2566.968
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/108.mp3",
+      "startMs": 162371,
+      "endMs": 331750,
+      "durationMs": 169379,
+      "recordingDurationMs": 331750,
+      "bytes": 3981457,
+      "sha256": "dac9a7807bfb90ba56faca1845243b75df4bb3ef6740d42f4772607155e07ecd",
+      "sharedAyahs": [
+        "4:108",
+        "4:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 0.0,
+          "end": 169.27
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/110.mp3",
+      "startMs": 0,
+      "endMs": 394750,
+      "durationMs": 394750,
+      "recordingDurationMs": 394750,
+      "bytes": 4737617,
+      "sha256": "5bcf44a5322d78f3240a60f06839ef2362b5cf3f83874ea2939a57380a7d6e45",
+      "sharedAyahs": [
+        "4:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 169.27,
+          "end": 563.98
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/111.mp3",
+      "startMs": 0,
+      "endMs": 403940,
+      "durationMs": 403940,
+      "recordingDurationMs": 403940,
+      "bytes": 4847921,
+      "sha256": "fc547a49ac0e0b2ccf71b02866c21555c4ec1ce9cf41a59cbe7bbcf522f23f1b",
+      "sharedAyahs": [
+        "4:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 563.98,
+          "end": 967.9
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/112.mp3",
+      "startMs": 0,
+      "endMs": 743980,
+      "durationMs": 743980,
+      "recordingDurationMs": 743980,
+      "bytes": 8928305,
+      "sha256": "8d2c135db2ead3ebdf0e52f9572a1723e8ea355ecdbd54145661f75549283ee3",
+      "sharedAyahs": [
+        "4:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 967.9,
+          "end": 1711.86
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/113.mp3",
+      "startMs": 0,
+      "endMs": 809300,
+      "durationMs": 809300,
+      "recordingDurationMs": 809300,
+      "bytes": 9712241,
+      "sha256": "5cc15dd80b5f554d746798a928ba436884133227528b1f3c29d3553d046f9b91",
+      "sharedAyahs": [
+        "4:113"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 1711.86,
+          "end": 2521.14
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/114.mp3",
+      "startMs": 0,
+      "endMs": 28643,
+      "durationMs": 28643,
+      "recordingDurationMs": 614540,
+      "bytes": 7374955,
+      "sha256": "38f039d027c5d849e4099912d8e9df9989f1ce0b38260daff182d69ab1d84a4f",
+      "sharedAyahs": [
+        "4:114"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 2521.14,
+          "end": 2549.88
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-218.mp3",
+      "startMs": 0,
+      "endMs": 15260,
+      "durationMs": 15260,
+      "recordingDurationMs": 15260,
+      "bytes": 183757,
+      "sha256": "037fe56d2974499e585c8606405763791ef1fa0b0b03d519c55e6d71a62222ec",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 0,
+          "end": 15.24
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/114.mp3",
+      "startMs": 28643,
+      "endMs": 614540,
+      "durationMs": 585897,
+      "recordingDurationMs": 614540,
+      "bytes": 7374955,
+      "sha256": "38f039d027c5d849e4099912d8e9df9989f1ce0b38260daff182d69ab1d84a4f",
+      "sharedAyahs": [
+        "4:114"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 15.24,
+          "end": 601.01
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/115.mp3",
+      "startMs": 0,
+      "endMs": 572210,
+      "durationMs": 572210,
+      "recordingDurationMs": 572210,
+      "bytes": 6867089,
+      "sha256": "3218714f01f5dd02892b41df9da7140a042b144a605fb107f01361ae5dc69fba",
+      "sharedAyahs": [
+        "4:115"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 601.01,
+          "end": 1173.2
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/116.mp3",
+      "startMs": 0,
+      "endMs": 469800,
+      "durationMs": 469800,
+      "recordingDurationMs": 469800,
+      "bytes": 5638193,
+      "sha256": "dff5d518da246af4d532aee73393846923fe327ff49054de6d66c10fc03ce9a9",
+      "sharedAyahs": [
+        "4:116"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 1173.2,
+          "end": 1642.97
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/117.mp3",
+      "startMs": 0,
+      "endMs": 790580,
+      "durationMs": 790580,
+      "recordingDurationMs": 790580,
+      "bytes": 9487601,
+      "sha256": "84bcf99a89117490ca2e8037d9c221156b747616d4a3b6744527c141e58e7721",
+      "sharedAyahs": [
+        "4:117"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 1642.97,
+          "end": 2433.55
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/118.mp3",
+      "startMs": 0,
+      "endMs": 283979,
+      "durationMs": 283979,
+      "recordingDurationMs": 2094550,
+      "bytes": 25135057,
+      "sha256": "ed6161e7ee22b233316f4038e166e17262aa8fb8eaf035338a00d7bfc6f14d07",
+      "sharedAyahs": [
+        "4:118",
+        "4:119"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 2433.55,
+          "end": 2717.616
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/118.mp3",
+      "startMs": 283979,
+      "endMs": 2094550,
+      "durationMs": 1810571,
+      "recordingDurationMs": 2094550,
+      "bytes": 25135057,
+      "sha256": "ed6161e7ee22b233316f4038e166e17262aa8fb8eaf035338a00d7bfc6f14d07",
+      "sharedAyahs": [
+        "4:118",
+        "4:119"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 0.0,
+          "end": 1810.46
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/120.mp3",
+      "startMs": 0,
+      "endMs": 409730,
+      "durationMs": 409730,
+      "recordingDurationMs": 409730,
+      "bytes": 4917335,
+      "sha256": "bc5fb040a9e98d9ff6de9d6ddf86af2fac2402c65fcd8a7b8bac5f63a53db78e",
+      "sharedAyahs": [
+        "4:120",
+        "4:121"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 1810.46,
+          "end": 2220.16
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/122.mp3",
+      "startMs": 0,
+      "endMs": 369980,
+      "durationMs": 369980,
+      "recordingDurationMs": 369980,
+      "bytes": 4440401,
+      "sha256": "f4289933aaa1ba7bb42a4e3620bd65aa5330d90b823ff6fa2d0452642322ff6b",
+      "sharedAyahs": [
+        "4:122"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 2220.16,
+          "end": 2590.12
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/123.mp3",
+      "startMs": 0,
+      "endMs": 72995,
+      "durationMs": 72995,
+      "recordingDurationMs": 660340,
+      "bytes": 7924459,
+      "sha256": "a7701e182451f64cabf3186b6c57b0880eafc76346769789c4f2c95652f3ad54",
+      "sharedAyahs": [
+        "4:123"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 2590.12,
+          "end": 2663.208
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-219.mp3",
+      "startMs": 0,
+      "endMs": 18500,
+      "durationMs": 18500,
+      "recordingDurationMs": 18500,
+      "bytes": 222637,
+      "sha256": "d0f68789fc85822f9ed3372da7bcc66f3e1069f90bf7e97c1de20c4fde509804",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 0,
+          "end": 18.46
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/123.mp3",
+      "startMs": 72995,
+      "endMs": 660340,
+      "durationMs": 587345,
+      "recordingDurationMs": 660340,
+      "bytes": 7924459,
+      "sha256": "a7701e182451f64cabf3186b6c57b0880eafc76346769789c4f2c95652f3ad54",
+      "sharedAyahs": [
+        "4:123"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 18.46,
+          "end": 605.71
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/124.mp3",
+      "startMs": 0,
+      "endMs": 406510,
+      "durationMs": 406510,
+      "recordingDurationMs": 406510,
+      "bytes": 4878737,
+      "sha256": "c4ad75115a04e83338311e56f392d83da72299f6002148b275f4801aeb9b60f5",
+      "sharedAyahs": [
+        "4:124"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 605.71,
+          "end": 1012.2
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/125.mp3",
+      "startMs": 0,
+      "endMs": 1199420,
+      "durationMs": 1199420,
+      "recordingDurationMs": 1199420,
+      "bytes": 14393681,
+      "sha256": "64d4f0013bae87de81ab8b1aa4c7741bb6c1e373857cc2c9b43288af38bea0ee",
+      "sharedAyahs": [
+        "4:125"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 1012.2,
+          "end": 2211.6
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/126.mp3",
+      "startMs": 0,
+      "endMs": 50350,
+      "durationMs": 50350,
+      "recordingDurationMs": 50350,
+      "bytes": 604817,
+      "sha256": "15bf15a2337c5c8592db5c8c54e2e9b601aad8e5e2f452ecb51934f8be55ff31",
+      "sharedAyahs": [
+        "4:126"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 2211.6,
+          "end": 2261.91
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/127.mp3",
+      "startMs": 0,
+      "endMs": 374603,
+      "durationMs": 374603,
+      "recordingDurationMs": 1405730,
+      "bytes": 16869163,
+      "sha256": "d5c816552966a94dddd4c1c1e176cc0e4817bb809760e14ecabfec97d047160a",
+      "sharedAyahs": [
+        "4:127"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 2261.91,
+          "end": 2636.616
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-220.mp3",
+      "startMs": 0,
+      "endMs": 14810,
+      "durationMs": 14810,
+      "recordingDurationMs": 14810,
+      "bytes": 178285,
+      "sha256": "32da6a69236cca78f39ae7aa4daaa6a6b574940794bf8c757ec400d01cc75889",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-050",
+          "start": 0,
+          "end": 14.78
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/127.mp3",
+      "startMs": 374603,
+      "endMs": 1405730,
+      "durationMs": 1031127,
+      "recordingDurationMs": 1405730,
+      "bytes": 16869163,
+      "sha256": "d5c816552966a94dddd4c1c1e176cc0e4817bb809760e14ecabfec97d047160a",
+      "sharedAyahs": [
+        "4:127"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-050",
+          "start": 14.78,
+          "end": 1045.78
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/128.mp3",
+      "startMs": 0,
+      "endMs": 1450850,
+      "durationMs": 1450850,
+      "recordingDurationMs": 1450850,
+      "bytes": 17410769,
+      "sha256": "6bc295a60d99cd59602cefcc1fdd485cda622d80f3d48a4a4ed9bee387605084",
+      "sharedAyahs": [
+        "4:128"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-050",
+          "start": 1045.78,
+          "end": 2496.62
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/129.mp3",
+      "startMs": 0,
+      "endMs": 196859,
+      "durationMs": 196859,
+      "recordingDurationMs": 966840,
+      "bytes": 11602507,
+      "sha256": "8de79ad9d1f4858eddcd5dd42342dbcc7da0f98fe3df5c14a00080dfc0027cee",
+      "sharedAyahs": [
+        "4:129"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-050",
+          "start": 2496.62,
+          "end": 2693.568
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-221.mp3",
+      "startMs": 0,
+      "endMs": 17660,
+      "durationMs": 17660,
+      "recordingDurationMs": 17660,
+      "bytes": 212557,
+      "sha256": "1b56527b60f82f68f2749eac06bd7b5dfe88e02fed91480a7803fc22f8ee062d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-051",
+          "start": 0,
+          "end": 17.62
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/129.mp3",
+      "startMs": 196859,
+      "endMs": 966840,
+      "durationMs": 769981,
+      "recordingDurationMs": 966840,
+      "bytes": 11602507,
+      "sha256": "8de79ad9d1f4858eddcd5dd42342dbcc7da0f98fe3df5c14a00080dfc0027cee",
+      "sharedAyahs": [
+        "4:129"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-051",
+          "start": 17.62,
+          "end": 787.51
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/130.mp3",
+      "startMs": 0,
+      "endMs": 96600,
+      "durationMs": 96600,
+      "recordingDurationMs": 96600,
+      "bytes": 1159793,
+      "sha256": "c2a5b02f86811cd18d52075b8ccbafe58777cf5027d5fbe439230102f129c5a3",
+      "sharedAyahs": [
+        "4:130"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-051",
+          "start": 787.51,
+          "end": 884.08
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/131.mp3",
+      "startMs": 0,
+      "endMs": 985850,
+      "durationMs": 985850,
+      "recordingDurationMs": 985850,
+      "bytes": 11830775,
+      "sha256": "4a2ab3c3533acf01d3cafb92046a8c60aff665429f44b99354f6ce786c5dcf19",
+      "sharedAyahs": [
+        "4:131",
+        "4:132"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-051",
+          "start": 884.08,
+          "end": 1869.91
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/133.mp3",
+      "startMs": 0,
+      "endMs": 96860,
+      "durationMs": 96860,
+      "recordingDurationMs": 96860,
+      "bytes": 1162961,
+      "sha256": "ea09118cdc75b08dd2a5c4db3ad74ca49dc73a548a76fad108d483f8e876ac05",
+      "sharedAyahs": [
+        "4:133"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-051",
+          "start": 1869.91,
+          "end": 1966.74
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/134.mp3",
+      "startMs": 0,
+      "endMs": 627589,
+      "durationMs": 627589,
+      "recordingDurationMs": 1111540,
+      "bytes": 13338859,
+      "sha256": "f920afd4ee815b3c6812f5b1ee40b11665788ddede3f846b8184a0a9e02e5173",
+      "sharedAyahs": [
+        "4:134"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-051",
+          "start": 1966.74,
+          "end": 2594.32
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-222.mp3",
+      "startMs": 0,
+      "endMs": 2160,
+      "durationMs": 2160,
+      "recordingDurationMs": 2160,
+      "bytes": 26504,
+      "sha256": "6952cca358afa5407df68fbe16e6a7e693d254bde09780ae44f2e7dd4e6563f5",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-051",
+          "start": 2594.32,
+          "end": 2596.488
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-223.mp3",
+      "startMs": 0,
+      "endMs": 14520,
+      "durationMs": 14520,
+      "recordingDurationMs": 14520,
+      "bytes": 174829,
+      "sha256": "eb270761dae84303b0679ee74e9d866c7cf59a91f03b3960d6db61bad659b756",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-053",
+          "start": 0,
+          "end": 14.495
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/134.mp3",
+      "startMs": 627589,
+      "endMs": 1111540,
+      "durationMs": 483951,
+      "recordingDurationMs": 1111540,
+      "bytes": 13338859,
+      "sha256": "f920afd4ee815b3c6812f5b1ee40b11665788ddede3f846b8184a0a9e02e5173",
+      "sharedAyahs": [
+        "4:134"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-053",
+          "start": 14.495,
+          "end": 498.39
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/135.mp3",
+      "startMs": 0,
+      "endMs": 749710,
+      "durationMs": 749710,
+      "recordingDurationMs": 749710,
+      "bytes": 8997137,
+      "sha256": "38e1f96fcf39b2a59270a49c1a73e420a3a6eb9d206535d77efad1aa446f9426",
+      "sharedAyahs": [
+        "4:135"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-053",
+          "start": 498.39,
+          "end": 1248.08
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/136.mp3",
+      "startMs": 0,
+      "endMs": 719760,
+      "durationMs": 719760,
+      "recordingDurationMs": 719760,
+      "bytes": 8637713,
+      "sha256": "7380d6eee03716a5cf48271f1cbc6238c853bbdcdd45e5c689b2519ccab4e2fa",
+      "sharedAyahs": [
+        "4:136"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-053",
+          "start": 1248.08,
+          "end": 1967.81
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/137.mp3",
+      "startMs": 0,
+      "endMs": 689411,
+      "durationMs": 689411,
+      "recordingDurationMs": 915600,
+      "bytes": 10987627,
+      "sha256": "62f4414bc080f41f2e8926d20bc30d1f394e32091572ab171ce35872f71353a8",
+      "sharedAyahs": [
+        "4:137"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-053",
+          "start": 1967.81,
+          "end": 2657.328
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-224.mp3",
+      "startMs": 0,
+      "endMs": 14570,
+      "durationMs": 14570,
+      "recordingDurationMs": 14570,
+      "bytes": 175405,
+      "sha256": "5b8b12c1dd95ff5dbfc50ee6b8679fe6871c3f10a3175d135a1fffd2997212d0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-054",
+          "start": 0,
+          "end": 14.54
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/137.mp3",
+      "startMs": 689411,
+      "endMs": 915600,
+      "durationMs": 226189,
+      "recordingDurationMs": 915600,
+      "bytes": 10987627,
+      "sha256": "62f4414bc080f41f2e8926d20bc30d1f394e32091572ab171ce35872f71353a8",
+      "sharedAyahs": [
+        "4:137"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-054",
+          "start": 14.54,
+          "end": 240.62
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/138.mp3",
+      "startMs": 0,
+      "endMs": 618600,
+      "durationMs": 618600,
+      "recordingDurationMs": 618600,
+      "bytes": 7423793,
+      "sha256": "18af6a306c621a1b2344b4c6b662b0b9d91417eefaa9ffa05410dcc1f1a590b3",
+      "sharedAyahs": [
+        "4:138"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-054",
+          "start": 240.62,
+          "end": 859.19
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/139.mp3",
+      "startMs": 0,
+      "endMs": 514200,
+      "durationMs": 514200,
+      "recordingDurationMs": 514200,
+      "bytes": 6170993,
+      "sha256": "7439fa839726aa47bab2f0f31d92b7422ec41209008b9e16f0382bbe266fcf49",
+      "sharedAyahs": [
+        "4:139"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-054",
+          "start": 859.19,
+          "end": 1373.37
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/140.mp3",
+      "startMs": 0,
+      "endMs": 1155770,
+      "durationMs": 1155770,
+      "recordingDurationMs": 1155770,
+      "bytes": 13869809,
+      "sha256": "6bc56c3082318bf28ca9f683ae92c09f27b414323a1889e0635e3ba16084a65c",
+      "sharedAyahs": [
+        "4:140"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-054",
+          "start": 1373.37,
+          "end": 2529.1
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/141.mp3",
+      "startMs": 0,
+      "endMs": 466237,
+      "durationMs": 466237,
+      "recordingDurationMs": 1204970,
+      "bytes": 14460043,
+      "sha256": "74e0511bc17098a464ec17b20f7d8ab51c28e066918ab1ba5e5ee70a7b89c54f",
+      "sharedAyahs": [
+        "4:141"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-054",
+          "start": 2529.1,
+          "end": 2995.34
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-225.mp3",
+      "startMs": 0,
+      "endMs": 3430,
+      "durationMs": 3430,
+      "recordingDurationMs": 3430,
+      "bytes": 41768,
+      "sha256": "e1b1e9e89f89ae097c3119e7189d29d05abd9298e646da204756a9129106fc64",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-054",
+          "start": 2995.34,
+          "end": 2998.776
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-226.mp3",
+      "startMs": 0,
+      "endMs": 12480,
+      "durationMs": 12480,
+      "recordingDurationMs": 12480,
+      "bytes": 150349,
+      "sha256": "31fc032fbf1126f571a820c9b813d74a1fb4f5b09a0ef501dae977f547794620",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-055",
+          "start": 0,
+          "end": 12.445
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/141.mp3",
+      "startMs": 466237,
+      "endMs": 1204970,
+      "durationMs": 738733,
+      "recordingDurationMs": 1204970,
+      "bytes": 14460043,
+      "sha256": "74e0511bc17098a464ec17b20f7d8ab51c28e066918ab1ba5e5ee70a7b89c54f",
+      "sharedAyahs": [
+        "4:141"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-055",
+          "start": 12.445,
+          "end": 751.15
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/142.mp3",
+      "startMs": 0,
+      "endMs": 1001760,
+      "durationMs": 1001760,
+      "recordingDurationMs": 1001760,
+      "bytes": 12021713,
+      "sha256": "0bb40cd4524cbf2639033475f9f572939dfe741823441385b496a4a99faf8eca",
+      "sharedAyahs": [
+        "4:142"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-055",
+          "start": 751.15,
+          "end": 1752.88
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/143.mp3",
+      "startMs": 0,
+      "endMs": 585550,
+      "durationMs": 585550,
+      "recordingDurationMs": 585550,
+      "bytes": 7027217,
+      "sha256": "3cfe560af8d1a08d960592654474a1b974cf026aef87ea10cde52365eb49a3f3",
+      "sharedAyahs": [
+        "4:143"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-055",
+          "start": 1752.88,
+          "end": 2338.4
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/144.mp3",
+      "startMs": 0,
+      "endMs": 194880,
+      "durationMs": 194880,
+      "recordingDurationMs": 194880,
+      "bytes": 2339153,
+      "sha256": "a42e7bfb756c17a484adc4681aec85f774f3e4bb12dbc5d64f395cdad629bba8",
+      "sharedAyahs": [
+        "4:144"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-055",
+          "start": 2338.4,
+          "end": 2533.27
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/145.mp3",
+      "startMs": 0,
+      "endMs": 278651,
+      "durationMs": 278651,
+      "recordingDurationMs": 766510,
+      "bytes": 9198577,
+      "sha256": "b1a5de40b43dcd7ebf4e6d2b13cabb6a1f2d8eb475af027f85264990c77f6190",
+      "sharedAyahs": [
+        "4:145",
+        "4:146"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-055",
+          "start": 2533.27,
+          "end": 2812.008
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-227.mp3",
+      "startMs": 0,
+      "endMs": 14830,
+      "durationMs": 14830,
+      "recordingDurationMs": 14830,
+      "bytes": 178573,
+      "sha256": "8ace674ab74aa9a6863aa16e8c716cbdb0ed3cd559cd9c7173df017532fe46e3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-056",
+          "start": 0,
+          "end": 14.785
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/145.mp3",
+      "startMs": 278651,
+      "endMs": 766510,
+      "durationMs": 487859,
+      "recordingDurationMs": 766510,
+      "bytes": 9198577,
+      "sha256": "b1a5de40b43dcd7ebf4e6d2b13cabb6a1f2d8eb475af027f85264990c77f6190",
+      "sharedAyahs": [
+        "4:145",
+        "4:146"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-056",
+          "start": 14.785,
+          "end": 502.56
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/147.mp3",
+      "startMs": 0,
+      "endMs": 1046540,
+      "durationMs": 1046540,
+      "recordingDurationMs": 1046540,
+      "bytes": 12559121,
+      "sha256": "6f18251cef4c82ff966e97db5ac36fead5da6ed9665bd40846fe6c9e0c5b5fc5",
+      "sharedAyahs": [
+        "4:147"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-056",
+          "start": 502.56,
+          "end": 1549.07
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/148.mp3",
+      "startMs": 0,
+      "endMs": 994300,
+      "durationMs": 994300,
+      "recordingDurationMs": 994300,
+      "bytes": 11932145,
+      "sha256": "c8ee440498f3a5869f718b0f311af441efbc6766f76d8c846865ca4391c39855",
+      "sharedAyahs": [
+        "4:148"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-056",
+          "start": 1549.07,
+          "end": 2543.33
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/149.mp3",
+      "startMs": 0,
+      "endMs": 158660,
+      "durationMs": 158660,
+      "recordingDurationMs": 158660,
+      "bytes": 1904561,
+      "sha256": "5acc28f4c0be5c799289a5fbd6df07ec75274df9be09f8c7a75ec6d045f435cd",
+      "sharedAyahs": [
+        "4:149"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-056",
+          "start": 2543.33,
+          "end": 2701.97
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/150.mp3",
+      "startMs": 0,
+      "endMs": 12467,
+      "durationMs": 12467,
+      "recordingDurationMs": 1837420,
+      "bytes": 22049425,
+      "sha256": "b07339251bca4bda26e883070b36bc09fd523323a145830a0ca2f8d8d2fc9670",
+      "sharedAyahs": [
+        "4:150",
+        "4:151"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-056",
+          "start": 2701.97,
+          "end": 2714.544
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-228.mp3",
+      "startMs": 0,
+      "endMs": 15140,
+      "durationMs": 15140,
+      "recordingDurationMs": 15140,
+      "bytes": 182317,
+      "sha256": "029208c8d6be283c4d2a28b0f4b63aa23dbb4a8105beb2ff311cb16203aefa0e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-057",
+          "start": 0,
+          "end": 15.12
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/150.mp3",
+      "startMs": 12467,
+      "endMs": 1837420,
+      "durationMs": 1824953,
+      "recordingDurationMs": 1837420,
+      "bytes": 22049425,
+      "sha256": "b07339251bca4bda26e883070b36bc09fd523323a145830a0ca2f8d8d2fc9670",
+      "sharedAyahs": [
+        "4:150",
+        "4:151"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-057",
+          "start": 15.12,
+          "end": 1839.96
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/152.mp3",
+      "startMs": 0,
+      "endMs": 98400,
+      "durationMs": 98400,
+      "recordingDurationMs": 98400,
+      "bytes": 1181393,
+      "sha256": "e629829f0f757700c14288ba37fc478b69b76d62759c58fc6faf632708f439c6",
+      "sharedAyahs": [
+        "4:152"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-057",
+          "start": 1839.96,
+          "end": 1938.32
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/153.mp3",
+      "startMs": 0,
+      "endMs": 772320,
+      "durationMs": 772320,
+      "recordingDurationMs": 772320,
+      "bytes": 9268433,
+      "sha256": "384af44532c2ab3d76d5eaedc335946154a2f79d23410a4e34fee3197507852c",
+      "sharedAyahs": [
+        "4:153"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-057",
+          "start": 1938.32,
+          "end": 2710.61
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/154.mp3",
+      "startMs": 0,
+      "endMs": 246227,
+      "durationMs": 246227,
+      "recordingDurationMs": 386860,
+      "bytes": 4642699,
+      "sha256": "7607f3dadc7d594b4eae468522ee6f631ce0be8abe07743b72697d2167c2bf0c",
+      "sharedAyahs": [
+        "4:154"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-057",
+          "start": 2710.61,
+          "end": 2956.944
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/154.mp3",
+      "startMs": 246227,
+      "endMs": 386860,
+      "durationMs": 140633,
+      "recordingDurationMs": 386860,
+      "bytes": 4642699,
+      "sha256": "7607f3dadc7d594b4eae468522ee6f631ce0be8abe07743b72697d2167c2bf0c",
+      "sharedAyahs": [
+        "4:154"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-058",
+          "start": 0.0,
+          "end": 140.5
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/155.mp3",
+      "startMs": 0,
+      "endMs": 1043830,
+      "durationMs": 1043830,
+      "recordingDurationMs": 1043830,
+      "bytes": 12526577,
+      "sha256": "a93d9d92f691d0f60fc3c10a06a250a1c88bc04847af7feef11667a34601e070",
+      "sharedAyahs": [
+        "4:155"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-058",
+          "start": 140.5,
+          "end": 1184.31
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/156.mp3",
+      "startMs": 0,
+      "endMs": 1469350,
+      "durationMs": 1469350,
+      "recordingDurationMs": 1469350,
+      "bytes": 17632817,
+      "sha256": "1d1137fefb070e3864eaf72070d8a300aa5ed5cb29e6fd24fa6f6d77ffbcb1f0",
+      "sharedAyahs": [
+        "4:156"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-058",
+          "start": 1184.31,
+          "end": 2653.68
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/157.mp3",
+      "startMs": 0,
+      "endMs": 1892860,
+      "durationMs": 1892860,
+      "recordingDurationMs": 1892860,
+      "bytes": 22714865,
+      "sha256": "15bd1d5d791ecd1c82eb66d0791ae4183feead4f0899f832895d73252f97bd39",
+      "sharedAyahs": [
+        "4:157"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-059",
+          "start": 0.0,
+          "end": 1892.82
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/158.mp3",
+      "startMs": 0,
+      "endMs": 43940,
+      "durationMs": 43940,
+      "recordingDurationMs": 43940,
+      "bytes": 527921,
+      "sha256": "a37cedf60bfc0aa9171db28f720248f3f54e17300e2af32a18b33562100a34a5",
+      "sharedAyahs": [
+        "4:158"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-059",
+          "start": 1892.82,
+          "end": 1936.74
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/159.mp3",
+      "startMs": 0,
+      "endMs": 888611,
+      "durationMs": 888611,
+      "recordingDurationMs": 1930780,
+      "bytes": 23169739,
+      "sha256": "cc6abc2c2125ddf9956330baa5ca1083616fc096f21562b981d3314ea9d18020",
+      "sharedAyahs": [
+        "4:159"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-059",
+          "start": 1936.74,
+          "end": 2825.448
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-229.mp3",
+      "startMs": 0,
+      "endMs": 20090,
+      "durationMs": 20090,
+      "recordingDurationMs": 20090,
+      "bytes": 241645,
+      "sha256": "d96481417a6cb6e2e051693c081bb47a396b6559de5535037a85551b75c7f3ad",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-060",
+          "start": 0,
+          "end": 20.06
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/159.mp3",
+      "startMs": 888611,
+      "endMs": 1930780,
+      "durationMs": 1042169,
+      "recordingDurationMs": 1930780,
+      "bytes": 23169739,
+      "sha256": "cc6abc2c2125ddf9956330baa5ca1083616fc096f21562b981d3314ea9d18020",
+      "sharedAyahs": [
+        "4:159"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-060",
+          "start": 20.06,
+          "end": 1062.11
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/160.mp3",
+      "startMs": 0,
+      "endMs": 574900,
+      "durationMs": 574900,
+      "recordingDurationMs": 574900,
+      "bytes": 6899345,
+      "sha256": "ba5bfd96c1a9e78a0d067f6339f96e917efe2919cb9bc687f470a73221390975",
+      "sharedAyahs": [
+        "4:160"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-060",
+          "start": 1062.11,
+          "end": 1636.99
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/161.mp3",
+      "startMs": 0,
+      "endMs": 126170,
+      "durationMs": 126170,
+      "recordingDurationMs": 126170,
+      "bytes": 1514609,
+      "sha256": "cd134a756a8cd9ac625b856300c90d1810e9cf761d8b04404bd736460979f51e",
+      "sharedAyahs": [
+        "4:161"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-060",
+          "start": 1636.99,
+          "end": 1763.13
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/162.mp3",
+      "startMs": 0,
+      "endMs": 638140,
+      "durationMs": 638140,
+      "recordingDurationMs": 638140,
+      "bytes": 7658225,
+      "sha256": "6917d97fb1e19a8612a4d1b02d2ef96c9d9d9abac113b139be775b812536a3fc",
+      "sharedAyahs": [
+        "4:162"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-060",
+          "start": 1763.13,
+          "end": 2401.24
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/163.mp3",
+      "startMs": 0,
+      "endMs": 387325,
+      "durationMs": 387325,
+      "recordingDurationMs": 2927900,
+      "bytes": 35135275,
+      "sha256": "47e9417416c54b73a4187730cb1161c867fcd70e4105ccb4bffb6d6167b8546f",
+      "sharedAyahs": [
+        "4:163"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-060",
+          "start": 2401.24,
+          "end": 2788.56
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/closing-230.mp3",
+      "startMs": 0,
+      "endMs": 1660,
+      "durationMs": 1660,
+      "recordingDurationMs": 1660,
+      "bytes": 20456,
+      "sha256": "dc677bfc28c6151099f1e8eff3128cdcef6f73e5d237bc78be51e41541ecc899",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-060",
+          "start": 2788.56,
+          "end": 2790.216
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-231.mp3",
+      "startMs": 0,
+      "endMs": 18740,
+      "durationMs": 18740,
+      "recordingDurationMs": 18740,
+      "bytes": 225517,
+      "sha256": "ba1ebb73cfb197608c93543e32aa543b713f861b62f9f6393e2afb9838887dae",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-061",
+          "start": 0,
+          "end": 18.71
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/163.mp3",
+      "startMs": 387325,
+      "endMs": 2927900,
+      "durationMs": 2540575,
+      "recordingDurationMs": 2927900,
+      "bytes": 35135275,
+      "sha256": "47e9417416c54b73a4187730cb1161c867fcd70e4105ccb4bffb6d6167b8546f",
+      "sharedAyahs": [
+        "4:163"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-061",
+          "start": 18.71,
+          "end": 2559.26
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/164.mp3",
+      "startMs": 0,
+      "endMs": 129395,
+      "durationMs": 129395,
+      "recordingDurationMs": 2784790,
+      "bytes": 33417931,
+      "sha256": "d077c06bfa8e356df9f2b4e9fe1e9ba26ba5d16f41105b7033a3d5cf92994619",
+      "sharedAyahs": [
+        "4:164"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-061",
+          "start": 2559.26,
+          "end": 2688.744
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-232.mp3",
+      "startMs": 0,
+      "endMs": 20860,
+      "durationMs": 20860,
+      "recordingDurationMs": 20860,
+      "bytes": 250861,
+      "sha256": "b6c2331d84400b814fc7becd4bb5052788d9faa0e4bb211a25868bcb3ff849c2",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-062",
+          "start": 0,
+          "end": 20.825
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/164.mp3",
+      "startMs": 129395,
+      "endMs": 2056883,
+      "durationMs": 1927488,
+      "recordingDurationMs": 2784790,
+      "bytes": 33417931,
+      "sha256": "d077c06bfa8e356df9f2b4e9fe1e9ba26ba5d16f41105b7033a3d5cf92994619",
+      "sharedAyahs": [
+        "4:164"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-062",
+          "start": 20.825,
+          "end": 1948.28
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/165.mp3",
+      "startMs": 0,
+      "endMs": 723770,
+      "durationMs": 723770,
+      "recordingDurationMs": 723770,
+      "bytes": 8685809,
+      "sha256": "1cf491c5deb9f7fb5d482643c47f2d82aa8b8a72fbf09f699ced7b315865f56c",
+      "sharedAyahs": [
+        "4:165"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-062",
+          "start": 1948.28,
+          "end": 2672.04
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/166.mp3",
+      "startMs": 0,
+      "endMs": 31451,
+      "durationMs": 31451,
+      "recordingDurationMs": 220610,
+      "bytes": 2647723,
+      "sha256": "a83ad5d31c3f763a831a8335c092c47120c9290ef105be5d4dd64de476b771b3",
+      "sharedAyahs": [
+        "4:166"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-062",
+          "start": 2672.04,
+          "end": 2703.576
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-233.mp3",
+      "startMs": 0,
+      "endMs": 20140,
+      "durationMs": 20140,
+      "recordingDurationMs": 20140,
+      "bytes": 242221,
+      "sha256": "87ecec2d9d98ca43f7ad187c428a82b6295a005ca214fe0b7088511c903ffb9c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-063",
+          "start": 0,
+          "end": 20.11
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/164.mp3",
+      "startMs": 2056883,
+      "endMs": 2784790,
+      "durationMs": 727907,
+      "recordingDurationMs": 2784790,
+      "bytes": 33417931,
+      "sha256": "d077c06bfa8e356df9f2b4e9fe1e9ba26ba5d16f41105b7033a3d5cf92994619",
+      "sharedAyahs": [
+        "4:164"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-063",
+          "start": 20.11,
+          "end": 747.9
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/166.mp3",
+      "startMs": 31451,
+      "endMs": 220610,
+      "durationMs": 189159,
+      "recordingDurationMs": 220610,
+      "bytes": 2647723,
+      "sha256": "a83ad5d31c3f763a831a8335c092c47120c9290ef105be5d4dd64de476b771b3",
+      "sharedAyahs": [
+        "4:166"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-063",
+          "start": 747.9,
+          "end": 936.94
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/167.mp3",
+      "startMs": 0,
+      "endMs": 301700,
+      "durationMs": 301700,
+      "recordingDurationMs": 301700,
+      "bytes": 3621041,
+      "sha256": "ee239b9716c1e5eddcbfe778a59f3a2bcc8b7cd2a3bac68b4b4775e1d2985be3",
+      "sharedAyahs": [
+        "4:167"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-063",
+          "start": 936.94,
+          "end": 1238.62
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/168.mp3",
+      "startMs": 0,
+      "endMs": 24720,
+      "durationMs": 24720,
+      "recordingDurationMs": 24720,
+      "bytes": 297239,
+      "sha256": "594a2545e468c81f5fa36635186da534df13c225e26059bc776840c388a10fcd",
+      "sharedAyahs": [
+        "4:168",
+        "4:169"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-063",
+          "start": 1238.62,
+          "end": 1263.32
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/170.mp3",
+      "startMs": 0,
+      "endMs": 520850,
+      "durationMs": 520850,
+      "recordingDurationMs": 520850,
+      "bytes": 6250769,
+      "sha256": "1e19b1acdccb23c8d108f1f6b664b1509e5d8963e3172ae274b188a05ffe7819",
+      "sharedAyahs": [
+        "4:170"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-063",
+          "start": 1263.32,
+          "end": 1784.15
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/171.mp3",
+      "startMs": 0,
+      "endMs": 930899,
+      "durationMs": 930899,
+      "recordingDurationMs": 2276300,
+      "bytes": 27316075,
+      "sha256": "0a4cc500c0433546e32411f9f0241534b764e809fb1fe40302e811b4e3d4033a",
+      "sharedAyahs": [
+        "4:171"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-063",
+          "start": 1784.15,
+          "end": 2715.144
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/introduction-234.mp3",
+      "startMs": 0,
+      "endMs": 13390,
+      "durationMs": 13390,
+      "recordingDurationMs": 13390,
+      "bytes": 161293,
+      "sha256": "f0b438c3cb98fe67fb9a81ff4c0f6676a8645b0933aca17e73b438be38b30fea",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yt-065",
+          "start": 0,
+          "end": 13.345
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/171.mp3",
+      "startMs": 930899,
+      "endMs": 2276300,
+      "durationMs": 1345401,
+      "recordingDurationMs": 2276300,
+      "bytes": 27316075,
+      "sha256": "0a4cc500c0433546e32411f9f0241534b764e809fb1fe40302e811b4e3d4033a",
+      "sharedAyahs": [
+        "4:171"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-065",
+          "start": 13.345,
+          "end": 1358.66
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/172.mp3",
+      "startMs": 0,
+      "endMs": 589440,
+      "durationMs": 589440,
+      "recordingDurationMs": 589440,
+      "bytes": 7073873,
+      "sha256": "5b496893828554a8e211743db96507672a917370298a09d6b3e4d58c0c50b4cd",
+      "sharedAyahs": [
+        "4:172"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-065",
+          "start": 1358.66,
+          "end": 1948.08
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/173.mp3",
+      "startMs": 0,
+      "endMs": 136660,
+      "durationMs": 136660,
+      "recordingDurationMs": 136660,
+      "bytes": 1640465,
+      "sha256": "7241654b26382b3866ec92b61a36ccbfc93b0cc09bd2477726c4fd70c8c5e401",
+      "sharedAyahs": [
+        "4:173"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-065",
+          "start": 1948.08,
+          "end": 2084.69
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/174.mp3",
+      "startMs": 0,
+      "endMs": 238510,
+      "durationMs": 238510,
+      "recordingDurationMs": 238510,
+      "bytes": 2862737,
+      "sha256": "8d14b2f8b181ced7589810d1bd37dc5d0cdbf658d3f97ce3c2a6edeeaedd4994",
+      "sharedAyahs": [
+        "4:174"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-065",
+          "start": 2084.69,
+          "end": 2323.19
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/175.mp3",
+      "startMs": 0,
+      "endMs": 218060,
+      "durationMs": 218060,
+      "recordingDurationMs": 218060,
+      "bytes": 2617361,
+      "sha256": "71714e12565e9938bcf96b37c366a7c50dc89162dd01589df0427905ab525e2b",
+      "sharedAyahs": [
+        "4:175"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-065",
+          "start": 2323.19,
+          "end": 2541.24
+        }
+      ]
+    },
+    {
+      "file": "004-النساء-youtube-v2/176.mp3",
+      "startMs": 0,
+      "endMs": 413740,
+      "durationMs": 413740,
+      "recordingDurationMs": 413740,
+      "bytes": 4965425,
+      "sha256": "b2946de076db9e2cd145cbba7b09f437b8a09f3d31e612c2b4d8c476e14c3124",
+      "sharedAyahs": [
+        "4:176"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-065",
+          "start": 2541.24,
+          "end": 2954.976
+        }
+      ]
+    }
+  ],
+  "durationMs": 167113680,
+  "additionalAudioBytes": 0
+}
