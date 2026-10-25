@@ -53,141 +53,116 @@
   "ayahs": {
     "52:1": {
       "file": "052-الطور-youtube-v1/001.mp3",
-      "durationMs": 468620,
-      "bytes": 5624077,
-      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "durationMs": 208390,
+      "bytes": 2501289,
+      "sha256": "be3b999602eeaaaf239baf8b86ed0fdd1d7b6134071de13b22cc73674adda1db",
       "sharedAyahs": [
-        "52:1",
-        "52:2",
-        "52:3",
-        "52:4",
-        "52:5",
-        "52:6"
+        "52:1"
       ],
       "sourceIntervals": [
         {
           "source": "OFi9OG_Opho",
-          "start": 0.0,
-          "end": 468.62
+          "start": 16.62,
+          "end": 225.0
         }
       ],
-      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+      "reviewNote": "تفسير الآية 1: والطور"
     },
     "52:2": {
-      "file": "052-الطور-youtube-v1/001.mp3",
-      "durationMs": 468620,
-      "bytes": 5624077,
-      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "file": "052-الطور-youtube-v1/002.mp3",
+      "durationMs": 10030,
+      "bytes": 120969,
+      "sha256": "cd8b9007897e84eadccb119a758d694029966cbf80aae9045a30794b5ad4cb93",
       "sharedAyahs": [
-        "52:1",
-        "52:2",
-        "52:3",
-        "52:4",
-        "52:5",
-        "52:6"
+        "52:2"
       ],
       "sourceIntervals": [
         {
           "source": "OFi9OG_Opho",
-          "start": 0.0,
-          "end": 468.62
+          "start": 225.0,
+          "end": 235.0
         }
       ],
-      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+      "reviewNote": "تفسير الآية 2: وكتاب مسطور"
     },
     "52:3": {
-      "file": "052-الطور-youtube-v1/001.mp3",
-      "durationMs": 468620,
-      "bytes": 5624077,
-      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "file": "052-الطور-youtube-v1/003.mp3",
+      "durationMs": 83020,
+      "bytes": 996777,
+      "sha256": "b302b0d0da9fc0ff8c792348f5820b74f18aa35f34a93f0470ff82bc6e6b7429",
       "sharedAyahs": [
-        "52:1",
-        "52:2",
-        "52:3",
-        "52:4",
-        "52:5",
-        "52:6"
+        "52:3"
       ],
       "sourceIntervals": [
         {
           "source": "OFi9OG_Opho",
-          "start": 0.0,
-          "end": 468.62
+          "start": 235.0,
+          "end": 318.0
         }
       ],
-      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+      "reviewNote": "تفسير الآية 3: في رق منشور"
     },
     "52:4": {
-      "file": "052-الطور-youtube-v1/001.mp3",
-      "durationMs": 468620,
-      "bytes": 5624077,
-      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "file": "052-الطور-youtube-v1/004.mp3",
+      "durationMs": 54020,
+      "bytes": 648873,
+      "sha256": "b0efdd89f465d0c02dddedc59de37817fb7c65096308edf8435dbe615a1fd34e",
       "sharedAyahs": [
-        "52:1",
-        "52:2",
-        "52:3",
-        "52:4",
-        "52:5",
-        "52:6"
+        "52:4"
       ],
       "sourceIntervals": [
         {
           "source": "OFi9OG_Opho",
-          "start": 0.0,
-          "end": 468.62
+          "start": 318.0,
+          "end": 372.0
         }
       ],
-      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+      "reviewNote": "تفسير الآية 4: والبيت المعمور"
     },
     "52:5": {
-      "file": "052-الطور-youtube-v1/001.mp3",
-      "durationMs": 468620,
-      "bytes": 5624077,
-      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "file": "052-الطور-youtube-v1/005.mp3",
+      "durationMs": 44040,
+      "bytes": 529065,
+      "sha256": "251c2e36c73a1d14d892e4495311a6ce6d19902ee97e4635b72baa3a5fc3ce8e",
       "sharedAyahs": [
-        "52:1",
-        "52:2",
-        "52:3",
-        "52:4",
-        "52:5",
-        "52:6"
+        "52:5"
       ],
       "sourceIntervals": [
         {
           "source": "OFi9OG_Opho",
-          "start": 0.0,
-          "end": 468.62
+          "start": 372.0,
+          "end": 416.0
         }
       ],
-      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+      "reviewNote": "تفسير الآية 5: والسقف المرفوع"
     },
     "52:6": {
-      "file": "052-الطور-youtube-v1/001.mp3",
-      "durationMs": 468620,
-      "bytes": 5624077,
-      "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+      "file": "052-الطور-youtube-v1/006.mp3",
+      "durationMs": 355510,
+      "bytes": 4266565,
+      "sha256": "8dff6b8111e8a1658df843200bd6172e5bc22bb77f9bc0420a04159401e80ba7",
       "sharedAyahs": [
-        "52:1",
-        "52:2",
-        "52:3",
-        "52:4",
-        "52:5",
         "52:6"
       ],
       "sourceIntervals": [
         {
           "source": "OFi9OG_Opho",
-          "start": 0.0,
+          "start": 416.0,
           "end": 468.62
+        },
+        {
+          "source": "0u9SQXSfx3Y",
+          "start": 3.12,
+          "end": 306.0
         }
       ],
-      "reviewNote": "تفسير الآيات 1-6: والطور وكتاب مسطور في رق منشور والبيت المعمور"
+      "reviewNote": "تفسير الآية 6: والبحر المسجور"
     },
     "52:7": {
       "file": "052-الطور-youtube-v1/007.mp3",
-      "durationMs": 526030,
-      "bytes": 6312974,
-      "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+      "durationMs": 220030,
+      "bytes": 2640974,
+      "sha256": "8752dba6a0ee00216d1e273e312b2b72538d17c90516a3d23c2298db9bf33992",
       "sharedAyahs": [
         "52:7",
         "52:8",
@@ -197,7 +172,7 @@
       "sourceIntervals": [
         {
           "source": "0u9SQXSfx3Y",
-          "start": 0.0,
+          "start": 306.0,
           "end": 526.0
         }
       ],
@@ -205,9 +180,9 @@
     },
     "52:8": {
       "file": "052-الطور-youtube-v1/007.mp3",
-      "durationMs": 526030,
-      "bytes": 6312974,
-      "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+      "durationMs": 220030,
+      "bytes": 2640974,
+      "sha256": "8752dba6a0ee00216d1e273e312b2b72538d17c90516a3d23c2298db9bf33992",
       "sharedAyahs": [
         "52:7",
         "52:8",
@@ -217,7 +192,7 @@
       "sourceIntervals": [
         {
           "source": "0u9SQXSfx3Y",
-          "start": 0.0,
+          "start": 306.0,
           "end": 526.0
         }
       ],
@@ -225,9 +200,9 @@
     },
     "52:9": {
       "file": "052-الطور-youtube-v1/007.mp3",
-      "durationMs": 526030,
-      "bytes": 6312974,
-      "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+      "durationMs": 220030,
+      "bytes": 2640974,
+      "sha256": "8752dba6a0ee00216d1e273e312b2b72538d17c90516a3d23c2298db9bf33992",
       "sharedAyahs": [
         "52:7",
         "52:8",
@@ -237,7 +212,7 @@
       "sourceIntervals": [
         {
           "source": "0u9SQXSfx3Y",
-          "start": 0.0,
+          "start": 306.0,
           "end": 526.0
         }
       ],
@@ -245,9 +220,9 @@
     },
     "52:10": {
       "file": "052-الطور-youtube-v1/007.mp3",
-      "durationMs": 526030,
-      "bytes": 6312974,
-      "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+      "durationMs": 220030,
+      "bytes": 2640974,
+      "sha256": "8752dba6a0ee00216d1e273e312b2b72538d17c90516a3d23c2298db9bf33992",
       "sharedAyahs": [
         "52:7",
         "52:8",
@@ -257,7 +232,7 @@
       "sourceIntervals": [
         {
           "source": "0u9SQXSfx3Y",
-          "start": 0.0,
+          "start": 306.0,
           "end": 526.0
         }
       ],
@@ -453,9 +428,9 @@
     },
     "52:21": {
       "file": "052-الطور-youtube-v1/021.mp3",
-      "durationMs": 694030,
-      "bytes": 8328976,
-      "sha256": "a7e1b5e2cbfd737de68dc0c48350320399603c80c0902359271a0ca333cc11d7",
+      "durationMs": 685270,
+      "bytes": 8223856,
+      "sha256": "bb06e35abb503d7dff65a7bbe12dd5a0e242f9a1a34e198337581df890a625c5",
       "sharedAyahs": [
         "52:21",
         "52:22"
@@ -463,7 +438,7 @@
       "sourceIntervals": [
         {
           "source": "VL_VtWtAyhM",
-          "start": 0.0,
+          "start": 8.75,
           "end": 694.0
         }
       ],
@@ -471,9 +446,9 @@
     },
     "52:22": {
       "file": "052-الطور-youtube-v1/021.mp3",
-      "durationMs": 694030,
-      "bytes": 8328976,
-      "sha256": "a7e1b5e2cbfd737de68dc0c48350320399603c80c0902359271a0ca333cc11d7",
+      "durationMs": 685270,
+      "bytes": 8223856,
+      "sha256": "bb06e35abb503d7dff65a7bbe12dd5a0e242f9a1a34e198337581df890a625c5",
       "sharedAyahs": [
         "52:21",
         "52:22"
@@ -481,7 +456,7 @@
       "sourceIntervals": [
         {
           "source": "VL_VtWtAyhM",
-          "start": 0.0,
+          "start": 8.75,
           "end": 694.0
         }
       ],
@@ -658,9 +633,9 @@
     },
     "52:32": {
       "file": "052-الطور-youtube-v1/032.mp3",
-      "durationMs": 491040,
-      "bytes": 5893072,
-      "sha256": "997f3cafd11df77d7693f5499a64da9f147a2161798fcb3ba940ac000a255813",
+      "durationMs": 460080,
+      "bytes": 5521552,
+      "sha256": "a6309059abb2284d394854123fba5962be15d78554faa2941afb78620c55a5c7",
       "sharedAyahs": [
         "52:32",
         "52:33",
@@ -669,7 +644,7 @@
       "sourceIntervals": [
         {
           "source": "KqCWXUljr6w",
-          "start": 0.0,
+          "start": 30.95,
           "end": 491.0
         }
       ],
@@ -677,9 +652,9 @@
     },
     "52:33": {
       "file": "052-الطور-youtube-v1/032.mp3",
-      "durationMs": 491040,
-      "bytes": 5893072,
-      "sha256": "997f3cafd11df77d7693f5499a64da9f147a2161798fcb3ba940ac000a255813",
+      "durationMs": 460080,
+      "bytes": 5521552,
+      "sha256": "a6309059abb2284d394854123fba5962be15d78554faa2941afb78620c55a5c7",
       "sharedAyahs": [
         "52:32",
         "52:33",
@@ -688,7 +663,7 @@
       "sourceIntervals": [
         {
           "source": "KqCWXUljr6w",
-          "start": 0.0,
+          "start": 30.95,
           "end": 491.0
         }
       ],
@@ -696,9 +671,9 @@
     },
     "52:34": {
       "file": "052-الطور-youtube-v1/032.mp3",
-      "durationMs": 491040,
-      "bytes": 5893072,
-      "sha256": "997f3cafd11df77d7693f5499a64da9f147a2161798fcb3ba940ac000a255813",
+      "durationMs": 460080,
+      "bytes": 5521552,
+      "sha256": "a6309059abb2284d394854123fba5962be15d78554faa2941afb78620c55a5c7",
       "sharedAyahs": [
         "52:32",
         "52:33",
@@ -707,7 +682,7 @@
       "sourceIntervals": [
         {
           "source": "KqCWXUljr6w",
-          "start": 0.0,
+          "start": 30.95,
           "end": 491.0
         }
       ],
@@ -1028,14 +1003,14 @@
       "title": "أقسام القرآن بالطور والبيت المعمور وحتمية وقوع الجزاء",
       "file": "052-الطور-youtube-v1/001.mp3",
       "startMs": 0,
-      "endMs": 468620
+      "endMs": 208380
     },
     {
       "id": "tur-believers-and-reunion-with-offspring",
       "title": "إلحاق الذرية بالآباء في الجنة وإكرام المؤمنين بنعيم الرضوان",
       "file": "052-الطور-youtube-v1/021.mp3",
       "startMs": 0,
-      "endMs": 694000
+      "endMs": 685250
     },
     {
       "id": "tur-rational-arguments-against-atheism",
@@ -1049,7 +1024,7 @@
       "title": "واصبر لحكم ربك فإنك بأعيننا وسبح بحمد ربك",
       "file": "052-الطور-youtube-v1/048.mp3",
       "startMs": 0,
-      "endMs": 210579
+      "endMs": 210580
     }
   ],
   "fullSurah": {
@@ -1065,35 +1040,144 @@
       {
         "file": "052-الطور-youtube-v1/001.mp3",
         "startMs": 0,
-        "endMs": 468620,
-        "durationMs": 468620,
-        "recordingDurationMs": 468620,
-        "bytes": 5624077,
-        "sha256": "9a63aaf424dcdaab8f9bb369badab5014779f9ee8fa7cf1593ef39337c982f2a",
+        "endMs": 208390,
+        "durationMs": 208390,
+        "recordingDurationMs": 208390,
+        "bytes": 2501289,
+        "sha256": "be3b999602eeaaaf239baf8b86ed0fdd1d7b6134071de13b22cc73674adda1db",
         "sharedAyahs": [
-          "52:1",
-          "52:2",
-          "52:3",
-          "52:4",
-          "52:5",
+          "52:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OFi9OG_Opho",
+            "start": 16.62,
+            "end": 225.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 10030,
+        "durationMs": 10030,
+        "recordingDurationMs": 10030,
+        "bytes": 120969,
+        "sha256": "cd8b9007897e84eadccb119a758d694029966cbf80aae9045a30794b5ad4cb93",
+        "sharedAyahs": [
+          "52:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OFi9OG_Opho",
+            "start": 225.0,
+            "end": 235.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 83020,
+        "durationMs": 83020,
+        "recordingDurationMs": 83020,
+        "bytes": 996777,
+        "sha256": "b302b0d0da9fc0ff8c792348f5820b74f18aa35f34a93f0470ff82bc6e6b7429",
+        "sharedAyahs": [
+          "52:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OFi9OG_Opho",
+            "start": 235.0,
+            "end": 318.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 54020,
+        "durationMs": 54020,
+        "recordingDurationMs": 54020,
+        "bytes": 648873,
+        "sha256": "b0efdd89f465d0c02dddedc59de37817fb7c65096308edf8435dbe615a1fd34e",
+        "sharedAyahs": [
+          "52:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OFi9OG_Opho",
+            "start": 318.0,
+            "end": 372.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 44040,
+        "durationMs": 44040,
+        "recordingDurationMs": 44040,
+        "bytes": 529065,
+        "sha256": "251c2e36c73a1d14d892e4495311a6ce6d19902ee97e4635b72baa3a5fc3ce8e",
+        "sharedAyahs": [
+          "52:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OFi9OG_Opho",
+            "start": 372.0,
+            "end": 416.0
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 52523,
+        "durationMs": 52523,
+        "recordingDurationMs": 355510,
+        "bytes": 4266565,
+        "sha256": "8dff6b8111e8a1658df843200bd6172e5bc22bb77f9bc0420a04159401e80ba7",
+        "sharedAyahs": [
           "52:6"
         ],
         "sourceIntervals": [
           {
             "source": "OFi9OG_Opho",
-            "start": 0.0,
+            "start": 416.0,
             "end": 468.62
+          }
+        ]
+      },
+      {
+        "file": "052-الطور-youtube-v1/006.mp3",
+        "startMs": 52523,
+        "endMs": 355510,
+        "durationMs": 302987,
+        "recordingDurationMs": 355510,
+        "bytes": 4266565,
+        "sha256": "8dff6b8111e8a1658df843200bd6172e5bc22bb77f9bc0420a04159401e80ba7",
+        "sharedAyahs": [
+          "52:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0u9SQXSfx3Y",
+            "start": 3.12,
+            "end": 306.0
           }
         ]
       },
       {
         "file": "052-الطور-youtube-v1/007.mp3",
         "startMs": 0,
-        "endMs": 526030,
-        "durationMs": 526030,
-        "recordingDurationMs": 526030,
-        "bytes": 6312974,
-        "sha256": "f66cebf6afdd851c8702ab00861842942ee129aa9fd36eec5358b915bd316e6b",
+        "endMs": 220030,
+        "durationMs": 220030,
+        "recordingDurationMs": 220030,
+        "bytes": 2640974,
+        "sha256": "8752dba6a0ee00216d1e273e312b2b72538d17c90516a3d23c2298db9bf33992",
         "sharedAyahs": [
           "52:7",
           "52:8",
@@ -1103,7 +1187,7 @@
         "sourceIntervals": [
           {
             "source": "0u9SQXSfx3Y",
-            "start": 0.0,
+            "start": 306.0,
             "end": 526.0
           }
         ]
@@ -1193,11 +1277,11 @@
       {
         "file": "052-الطور-youtube-v1/021.mp3",
         "startMs": 0,
-        "endMs": 694030,
-        "durationMs": 694030,
-        "recordingDurationMs": 694030,
-        "bytes": 8328976,
-        "sha256": "a7e1b5e2cbfd737de68dc0c48350320399603c80c0902359271a0ca333cc11d7",
+        "endMs": 685270,
+        "durationMs": 685270,
+        "recordingDurationMs": 685270,
+        "bytes": 8223856,
+        "sha256": "bb06e35abb503d7dff65a7bbe12dd5a0e242f9a1a34e198337581df890a625c5",
         "sharedAyahs": [
           "52:21",
           "52:22"
@@ -1205,7 +1289,7 @@
         "sourceIntervals": [
           {
             "source": "VL_VtWtAyhM",
-            "start": 0.0,
+            "start": 8.75,
             "end": 694.0
           }
         ]
@@ -1294,11 +1378,11 @@
       {
         "file": "052-الطور-youtube-v1/032.mp3",
         "startMs": 0,
-        "endMs": 491040,
-        "durationMs": 491040,
-        "recordingDurationMs": 491040,
-        "bytes": 5893072,
-        "sha256": "997f3cafd11df77d7693f5499a64da9f147a2161798fcb3ba940ac000a255813",
+        "endMs": 460080,
+        "durationMs": 460080,
+        "recordingDurationMs": 460080,
+        "bytes": 5521552,
+        "sha256": "a6309059abb2284d394854123fba5962be15d78554faa2941afb78620c55a5c7",
         "sharedAyahs": [
           "52:32",
           "52:33",
@@ -1307,7 +1391,7 @@
         "sourceIntervals": [
           {
             "source": "KqCWXUljr6w",
-            "start": 0.0,
+            "start": 30.95,
             "end": 491.0
           }
         ]
@@ -1400,7 +1484,7 @@
         ]
       }
     ],
-    "durationMs": 5273140,
+    "durationMs": 5213810,
     "additionalAudioBytes": 0
   },
   "publicationStatus": "published"
