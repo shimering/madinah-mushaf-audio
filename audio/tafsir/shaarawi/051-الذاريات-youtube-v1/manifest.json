@@ -69,9 +69,9 @@
   "ayahs": {
     "51:1": {
       "file": "051-الذاريات-youtube-v1/001.mp3",
-      "durationMs": 650040,
-      "bytes": 7801081,
-      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "durationMs": 645480,
+      "bytes": 7746361,
+      "sha256": "8d24d7d8d23e0f7f26e651c2868d15744a10cf876cab196928c56246f567396e",
       "sharedAyahs": [
         "51:1",
         "51:2",
@@ -83,7 +83,7 @@
       "sourceIntervals": [
         {
           "source": "mEV_VVLAv1Q",
-          "start": 0.0,
+          "start": 4.56,
           "end": 650.0
         }
       ],
@@ -91,9 +91,9 @@
     },
     "51:2": {
       "file": "051-الذاريات-youtube-v1/001.mp3",
-      "durationMs": 650040,
-      "bytes": 7801081,
-      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "durationMs": 645480,
+      "bytes": 7746361,
+      "sha256": "8d24d7d8d23e0f7f26e651c2868d15744a10cf876cab196928c56246f567396e",
       "sharedAyahs": [
         "51:1",
         "51:2",
@@ -105,7 +105,7 @@
       "sourceIntervals": [
         {
           "source": "mEV_VVLAv1Q",
-          "start": 0.0,
+          "start": 4.56,
           "end": 650.0
         }
       ],
@@ -113,9 +113,9 @@
     },
     "51:3": {
       "file": "051-الذاريات-youtube-v1/001.mp3",
-      "durationMs": 650040,
-      "bytes": 7801081,
-      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "durationMs": 645480,
+      "bytes": 7746361,
+      "sha256": "8d24d7d8d23e0f7f26e651c2868d15744a10cf876cab196928c56246f567396e",
       "sharedAyahs": [
         "51:1",
         "51:2",
@@ -127,7 +127,7 @@
       "sourceIntervals": [
         {
           "source": "mEV_VVLAv1Q",
-          "start": 0.0,
+          "start": 4.56,
           "end": 650.0
         }
       ],
@@ -135,9 +135,9 @@
     },
     "51:4": {
       "file": "051-الذاريات-youtube-v1/001.mp3",
-      "durationMs": 650040,
-      "bytes": 7801081,
-      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "durationMs": 645480,
+      "bytes": 7746361,
+      "sha256": "8d24d7d8d23e0f7f26e651c2868d15744a10cf876cab196928c56246f567396e",
       "sharedAyahs": [
         "51:1",
         "51:2",
@@ -149,7 +149,7 @@
       "sourceIntervals": [
         {
           "source": "mEV_VVLAv1Q",
-          "start": 0.0,
+          "start": 4.56,
           "end": 650.0
         }
       ],
@@ -157,9 +157,9 @@
     },
     "51:5": {
       "file": "051-الذاريات-youtube-v1/001.mp3",
-      "durationMs": 650040,
-      "bytes": 7801081,
-      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "durationMs": 645480,
+      "bytes": 7746361,
+      "sha256": "8d24d7d8d23e0f7f26e651c2868d15744a10cf876cab196928c56246f567396e",
       "sharedAyahs": [
         "51:1",
         "51:2",
@@ -171,7 +171,7 @@
       "sourceIntervals": [
         {
           "source": "mEV_VVLAv1Q",
-          "start": 0.0,
+          "start": 4.56,
           "end": 650.0
         }
       ],
@@ -179,9 +179,9 @@
     },
     "51:6": {
       "file": "051-الذاريات-youtube-v1/001.mp3",
-      "durationMs": 650040,
-      "bytes": 7801081,
-      "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+      "durationMs": 645480,
+      "bytes": 7746361,
+      "sha256": "8d24d7d8d23e0f7f26e651c2868d15744a10cf876cab196928c56246f567396e",
       "sharedAyahs": [
         "51:1",
         "51:2",
@@ -193,7 +193,7 @@
       "sourceIntervals": [
         {
           "source": "mEV_VVLAv1Q",
-          "start": 0.0,
+          "start": 4.56,
           "end": 650.0
         }
       ],
@@ -305,9 +305,9 @@
     },
     "51:13": {
       "file": "051-الذاريات-youtube-v1/013.mp3",
-      "durationMs": 247030,
-      "bytes": 2964988,
-      "sha256": "3d72cbb2efda054814ce26cda0055c069d8ec1482a63067bc5afc2553e56f470",
+      "durationMs": 245860,
+      "bytes": 2950876,
+      "sha256": "cad12d2c20873396a13cae974bc31bb37c666ec7fa038f1e75a66426cd4afcca",
       "sharedAyahs": [
         "51:13",
         "51:14"
@@ -315,7 +315,7 @@
       "sourceIntervals": [
         {
           "source": "ZfwzuRmd11M",
-          "start": 0.0,
+          "start": 1.17,
           "end": 247.0
         }
       ],
@@ -323,9 +323,9 @@
     },
     "51:14": {
       "file": "051-الذاريات-youtube-v1/013.mp3",
-      "durationMs": 247030,
-      "bytes": 2964988,
-      "sha256": "3d72cbb2efda054814ce26cda0055c069d8ec1482a63067bc5afc2553e56f470",
+      "durationMs": 245860,
+      "bytes": 2950876,
+      "sha256": "cad12d2c20873396a13cae974bc31bb37c666ec7fa038f1e75a66426cd4afcca",
       "sharedAyahs": [
         "51:13",
         "51:14"
@@ -333,7 +333,7 @@
       "sourceIntervals": [
         {
           "source": "ZfwzuRmd11M",
-          "start": 0.0,
+          "start": 1.17,
           "end": 247.0
         }
       ],
@@ -426,16 +426,21 @@
     },
     "51:20": {
       "file": "051-الذاريات-youtube-v1/020.mp3",
-      "durationMs": 1148040,
-      "bytes": 13777079,
-      "sha256": "c83f8b92077fd6fcf6e9f6bfc4195f03def54374f495b403160af13533deefe7",
+      "durationMs": 1360870,
+      "bytes": 16330893,
+      "sha256": "2ae82609837b0bca828cd811e5d80183261a2a72a74eed617c4cd1200e7fb536",
       "sharedAyahs": [
         "51:20"
       ],
       "sourceIntervals": [
         {
+          "source": "ZfwzuRmd11M",
+          "start": 2477.0,
+          "end": 2693.81
+        },
+        {
           "source": "vxwRSy0DLn8",
-          "start": 0.0,
+          "start": 3.95,
           "end": 1148.0
         }
       ],
@@ -627,16 +632,16 @@
     },
     "51:31": {
       "file": "051-الذاريات-youtube-v1/031.mp3",
-      "durationMs": 284040,
-      "bytes": 3409079,
-      "sha256": "82dfce39eb2df5979258cec0927f2e93cee139d4a3f29d74aefdaf1383567794",
+      "durationMs": 277850,
+      "bytes": 3334775,
+      "sha256": "25f771bfc348fe31bad3da0d2847a59fa75cd9d6739639f44ffa1590d5be703d",
       "sharedAyahs": [
         "51:31"
       ],
       "sourceIntervals": [
         {
           "source": "lz3_BnJ6uJs",
-          "start": 0.0,
+          "start": 6.19,
           "end": 284.0
         }
       ],
@@ -815,17 +820,22 @@
     },
     "51:41": {
       "file": "051-الذاريات-youtube-v1/041.mp3",
-      "durationMs": 470040,
-      "bytes": 5641084,
-      "sha256": "8250949bb9d4e0b5ef6e94576a9d4768b61ba7007c6dbe667a38736bdd15d35c",
+      "durationMs": 880390,
+      "bytes": 10565138,
+      "sha256": "308eca5cdc4a52ec0137efa4a18a54428faa2864d9b7f3574c5c3037a160af33",
       "sharedAyahs": [
         "51:41",
         "51:42"
       ],
       "sourceIntervals": [
         {
+          "source": "lz3_BnJ6uJs",
+          "start": 2184.0,
+          "end": 2595.53
+        },
+        {
           "source": "7DkC6cqPW3s",
-          "start": 0.0,
+          "start": 1.17,
           "end": 470.0
         }
       ],
@@ -833,17 +843,22 @@
     },
     "51:42": {
       "file": "051-الذاريات-youtube-v1/041.mp3",
-      "durationMs": 470040,
-      "bytes": 5641084,
-      "sha256": "8250949bb9d4e0b5ef6e94576a9d4768b61ba7007c6dbe667a38736bdd15d35c",
+      "durationMs": 880390,
+      "bytes": 10565138,
+      "sha256": "308eca5cdc4a52ec0137efa4a18a54428faa2864d9b7f3574c5c3037a160af33",
       "sharedAyahs": [
         "51:41",
         "51:42"
       ],
       "sourceIntervals": [
         {
+          "source": "lz3_BnJ6uJs",
+          "start": 2184.0,
+          "end": 2595.53
+        },
+        {
           "source": "7DkC6cqPW3s",
-          "start": 0.0,
+          "start": 1.17,
           "end": 470.0
         }
       ],
@@ -1090,16 +1105,16 @@
     },
     "51:56": {
       "file": "051-الذاريات-youtube-v1/056.mp3",
-      "durationMs": 597020,
-      "bytes": 7164887,
-      "sha256": "974c69dadb41d42a9ebefd5be8a19990abaa245ac8e3739625c9d36181f27a8e",
+      "durationMs": 595920,
+      "bytes": 7151639,
+      "sha256": "f64e9ab941a07902ddec48d001fe30086ddb777f29954ddbebc5a2b0332d8097",
       "sharedAyahs": [
         "51:56"
       ],
       "sourceIntervals": [
         {
           "source": "aWBvihsnb9E",
-          "start": 0.0,
+          "start": 1.09,
           "end": 597.0
         }
       ],
@@ -1176,40 +1191,7 @@
       "reviewNote": "تفسير الآيات 59-60: فإن للذين ظلموا ذنوبا مثل ذنوب أصحابهم فويل للذين كفروا من يومهم الذي يوعدون"
     }
   },
-  "extraTracks": [
-    {
-      "file": "051-الذاريات-youtube-v1/closing-12.mp3",
-      "kind": "closing",
-      "durationMs": 216790,
-      "bytes": 2602096,
-      "sha256": "568bca13d9f56c3e2b4261acb118e8b59c64071f86ef6189daa719ffae6b2a5c",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "ZfwzuRmd11M",
-          "start": 2477.0,
-          "end": 2693.81
-        }
-      ],
-      "reviewNote": "خاتمة الدرس الثاني"
-    },
-    {
-      "file": "051-الذاريات-youtube-v1/closing-24.mp3",
-      "kind": "closing",
-      "durationMs": 411530,
-      "bytes": 4938928,
-      "sha256": "1c987891452b8ed9c34e74da2058c9915b857824b8992747105951cf7fb699a3",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "lz3_BnJ6uJs",
-          "start": 2184.0,
-          "end": 2595.53
-        }
-      ],
-      "reviewNote": "خاتمة الدرس الرابع"
-    }
-  ],
+  "extraTracks": [],
   "sourceUrl": "https://www.youtube.com/playlist?list=PL69C6A540D0D02D3F",
   "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
   "topics": [
@@ -1218,14 +1200,14 @@
       "title": "أقسام القرآن بالذاريات والحاملات واليقين بالبعث والجزاء",
       "file": "051-الذاريات-youtube-v1/001.mp3",
       "startMs": 0,
-      "endMs": 650000
+      "endMs": 645440
     },
     {
       "id": "dhariyat-signs-earth-and-soul",
       "title": "آيات الله في الأرض وفي خلق النفس البشرية",
       "file": "051-الذاريات-youtube-v1/020.mp3",
       "startMs": 0,
-      "endMs": 1148000
+      "endMs": 1360860
     },
     {
       "id": "dhariyat-provision-divine-promise",
@@ -1253,7 +1235,7 @@
       "title": "وما خلقت الجن والإنس إلا ليعبدون: غاية الخلق وحقيقة العبادة والرزق",
       "file": "051-الذاريات-youtube-v1/056.mp3",
       "startMs": 0,
-      "endMs": 597000
+      "endMs": 595910
     }
   ],
   "fullSurah": {
@@ -1271,11 +1253,11 @@
       {
         "file": "051-الذاريات-youtube-v1/001.mp3",
         "startMs": 0,
-        "endMs": 650040,
-        "durationMs": 650040,
-        "recordingDurationMs": 650040,
-        "bytes": 7801081,
-        "sha256": "a2cf2180a3818fbbc8f627cd58dff05522c218c75f78a6b92c1a99162a86a38a",
+        "endMs": 645480,
+        "durationMs": 645480,
+        "recordingDurationMs": 645480,
+        "bytes": 7746361,
+        "sha256": "8d24d7d8d23e0f7f26e651c2868d15744a10cf876cab196928c56246f567396e",
         "sharedAyahs": [
           "51:1",
           "51:2",
@@ -1287,7 +1269,7 @@
         "sourceIntervals": [
           {
             "source": "mEV_VVLAv1Q",
-            "start": 0.0,
+            "start": 4.56,
             "end": 650.0
           }
         ]
@@ -1391,11 +1373,11 @@
       {
         "file": "051-الذاريات-youtube-v1/013.mp3",
         "startMs": 0,
-        "endMs": 247030,
-        "durationMs": 247030,
-        "recordingDurationMs": 247030,
-        "bytes": 2964988,
-        "sha256": "3d72cbb2efda054814ce26cda0055c069d8ec1482a63067bc5afc2553e56f470",
+        "endMs": 245860,
+        "durationMs": 245860,
+        "recordingDurationMs": 245860,
+        "bytes": 2950876,
+        "sha256": "cad12d2c20873396a13cae974bc31bb37c666ec7fa038f1e75a66426cd4afcca",
         "sharedAyahs": [
           "51:13",
           "51:14"
@@ -1403,7 +1385,7 @@
         "sourceIntervals": [
           {
             "source": "ZfwzuRmd11M",
-            "start": 0.0,
+            "start": 1.17,
             "end": 247.0
           }
         ]
@@ -1504,14 +1486,16 @@
         ]
       },
       {
-        "file": "051-الذاريات-youtube-v1/closing-12.mp3",
+        "file": "051-الذاريات-youtube-v1/020.mp3",
         "startMs": 0,
-        "endMs": 216790,
-        "durationMs": 216790,
-        "recordingDurationMs": 216790,
-        "bytes": 2602096,
-        "sha256": "568bca13d9f56c3e2b4261acb118e8b59c64071f86ef6189daa719ffae6b2a5c",
-        "sharedAyahs": [],
+        "endMs": 216707,
+        "durationMs": 216707,
+        "recordingDurationMs": 1360870,
+        "bytes": 16330893,
+        "sha256": "2ae82609837b0bca828cd811e5d80183261a2a72a74eed617c4cd1200e7fb536",
+        "sharedAyahs": [
+          "51:20"
+        ],
         "sourceIntervals": [
           {
             "source": "ZfwzuRmd11M",
@@ -1522,19 +1506,19 @@
       },
       {
         "file": "051-الذاريات-youtube-v1/020.mp3",
-        "startMs": 0,
-        "endMs": 1148040,
-        "durationMs": 1148040,
-        "recordingDurationMs": 1148040,
-        "bytes": 13777079,
-        "sha256": "c83f8b92077fd6fcf6e9f6bfc4195f03def54374f495b403160af13533deefe7",
+        "startMs": 216707,
+        "endMs": 1360870,
+        "durationMs": 1144163,
+        "recordingDurationMs": 1360870,
+        "bytes": 16330893,
+        "sha256": "2ae82609837b0bca828cd811e5d80183261a2a72a74eed617c4cd1200e7fb536",
         "sharedAyahs": [
           "51:20"
         ],
         "sourceIntervals": [
           {
             "source": "vxwRSy0DLn8",
-            "start": 0.0,
+            "start": 3.95,
             "end": 1148.0
           }
         ]
@@ -1660,18 +1644,18 @@
       {
         "file": "051-الذاريات-youtube-v1/031.mp3",
         "startMs": 0,
-        "endMs": 284040,
-        "durationMs": 284040,
-        "recordingDurationMs": 284040,
-        "bytes": 3409079,
-        "sha256": "82dfce39eb2df5979258cec0927f2e93cee139d4a3f29d74aefdaf1383567794",
+        "endMs": 277850,
+        "durationMs": 277850,
+        "recordingDurationMs": 277850,
+        "bytes": 3334775,
+        "sha256": "25f771bfc348fe31bad3da0d2847a59fa75cd9d6739639f44ffa1590d5be703d",
         "sharedAyahs": [
           "51:31"
         ],
         "sourceIntervals": [
           {
             "source": "lz3_BnJ6uJs",
-            "start": 0.0,
+            "start": 6.19,
             "end": 284.0
           }
         ]
@@ -1740,14 +1724,17 @@
         ]
       },
       {
-        "file": "051-الذاريات-youtube-v1/closing-24.mp3",
+        "file": "051-الذاريات-youtube-v1/041.mp3",
         "startMs": 0,
-        "endMs": 411530,
-        "durationMs": 411530,
-        "recordingDurationMs": 411530,
-        "bytes": 4938928,
-        "sha256": "1c987891452b8ed9c34e74da2058c9915b857824b8992747105951cf7fb699a3",
-        "sharedAyahs": [],
+        "endMs": 411443,
+        "durationMs": 411443,
+        "recordingDurationMs": 880390,
+        "bytes": 10565138,
+        "sha256": "308eca5cdc4a52ec0137efa4a18a54428faa2864d9b7f3574c5c3037a160af33",
+        "sharedAyahs": [
+          "51:41",
+          "51:42"
+        ],
         "sourceIntervals": [
           {
             "source": "lz3_BnJ6uJs",
@@ -1758,12 +1745,12 @@
       },
       {
         "file": "051-الذاريات-youtube-v1/041.mp3",
-        "startMs": 0,
-        "endMs": 470040,
-        "durationMs": 470040,
-        "recordingDurationMs": 470040,
-        "bytes": 5641084,
-        "sha256": "8250949bb9d4e0b5ef6e94576a9d4768b61ba7007c6dbe667a38736bdd15d35c",
+        "startMs": 411443,
+        "endMs": 880390,
+        "durationMs": 468947,
+        "recordingDurationMs": 880390,
+        "bytes": 10565138,
+        "sha256": "308eca5cdc4a52ec0137efa4a18a54428faa2864d9b7f3574c5c3037a160af33",
         "sharedAyahs": [
           "51:41",
           "51:42"
@@ -1771,7 +1758,7 @@
         "sourceIntervals": [
           {
             "source": "7DkC6cqPW3s",
-            "start": 0.0,
+            "start": 1.17,
             "end": 470.0
           }
         ]
@@ -1900,18 +1887,18 @@
       {
         "file": "051-الذاريات-youtube-v1/056.mp3",
         "startMs": 0,
-        "endMs": 597020,
-        "durationMs": 597020,
-        "recordingDurationMs": 597020,
-        "bytes": 7164887,
-        "sha256": "974c69dadb41d42a9ebefd5be8a19990abaa245ac8e3739625c9d36181f27a8e",
+        "endMs": 595920,
+        "durationMs": 595920,
+        "recordingDurationMs": 595920,
+        "bytes": 7151639,
+        "sha256": "f64e9ab941a07902ddec48d001fe30086ddb777f29954ddbebc5a2b0332d8097",
         "sharedAyahs": [
           "51:56"
         ],
         "sourceIntervals": [
           {
             "source": "aWBvihsnb9E",
-            "start": 0.0,
+            "start": 1.09,
             "end": 597.0
           }
         ]
@@ -1975,7 +1962,7 @@
         ]
       }
     ],
-    "durationMs": 12609510,
+    "durationMs": 12591350,
     "additionalAudioBytes": 0
   },
   "publicationStatus": "published"
