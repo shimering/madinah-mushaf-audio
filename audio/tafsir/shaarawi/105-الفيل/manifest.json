@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "تسجيل تليفزيوني - خواطر الشيخ محمد متولي الشعراوي",
+  "surah": 105,
+  "surahName": "الفيل",
+  "ayahCount": 5,
+  "reviewStatus": "complete",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 5,
+    "mappedAyahCount": 5,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "ep01": {
+      "durationSeconds": 754.61,
+      "bytes": 9055628,
+      "sha256": "f6e898ecc6898eabcdb970edaf71b1396432aed3eab181690c37294de0b95be8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-005_vdRiD0shGzo.mp3",
+      "url": "https://www.youtube.com/watch?v=vdRiD0shGzo"
+    }
+  },
+  "ayahs": {
+    "105:1": {
+      "file": "105-الفيل/001.mp3",
+      "durationMs": 635420,
+      "bytes": 7625513,
+      "sha256": "91984d15962dd9a23cf37436bbefb43b31ef23b045edc473987d9b4bb153b608",
+      "sharedAyahs": [
+        "105:1",
+        "105:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 0.0,
+          "end": 635.4
+        }
+      ],
+      "reviewNote": "ألم تر كيف فعل ربك بأصحاب الفيل * ألم يجعل كيدهم في تضليل"
+    },
+    "105:2": {
+      "file": "105-الفيل/001.mp3",
+      "durationMs": 635420,
+      "bytes": 7625513,
+      "sha256": "91984d15962dd9a23cf37436bbefb43b31ef23b045edc473987d9b4bb153b608",
+      "sharedAyahs": [
+        "105:1",
+        "105:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 0.0,
+          "end": 635.4
+        }
+      ],
+      "reviewNote": "ألم تر كيف فعل ربك بأصحاب الفيل * ألم يجعل كيدهم في تضليل"
+    },
+    "105:3": {
+      "file": "105-الفيل/003.mp3",
+      "durationMs": 119210,
+      "bytes": 1430921,
+      "sha256": "366c69b9afc395d162cfc1a99f56747b70067b8e00c1d88953a183f0fc674708",
+      "sharedAyahs": [
+        "105:3",
+        "105:4",
+        "105:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 635.4,
+          "end": 754.61
+        }
+      ],
+      "reviewNote": "وأرسل عليهم طيرا أبابيل * ترميهم بحجارة من سجيل * فجعلهم كعصف مأكول"
+    },
+    "105:4": {
+      "file": "105-الفيل/003.mp3",
+      "durationMs": 119210,
+      "bytes": 1430921,
+      "sha256": "366c69b9afc395d162cfc1a99f56747b70067b8e00c1d88953a183f0fc674708",
+      "sharedAyahs": [
+        "105:3",
+        "105:4",
+        "105:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 635.4,
+          "end": 754.61
+        }
+      ],
+      "reviewNote": "وأرسل عليهم طيرا أبابيل * ترميهم بحجارة من سجيل * فجعلهم كعصف مأكول"
+    },
+    "105:5": {
+      "file": "105-الفيل/003.mp3",
+      "durationMs": 119210,
+      "bytes": 1430921,
+      "sha256": "366c69b9afc395d162cfc1a99f56747b70067b8e00c1d88953a183f0fc674708",
+      "sharedAyahs": [
+        "105:3",
+        "105:4",
+        "105:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 635.4,
+          "end": 754.61
+        }
+      ],
+      "reviewNote": "وأرسل عليهم طيرا أبابيل * ترميهم بحجارة من سجيل * فجعلهم كعصف مأكول"
+    }
+  },
+  "extraTracks": [],
+  "topics": [
+    {
+      "id": "105-01",
+      "title": "معجزة هلاك أصحاب الفيل وتنزيه قدرة الله عن الأسباب والنواميس",
+      "file": "105-الفيل/001.mp3",
+      "startMs": 0,
+      "endMs": 635400
+    },
+    {
+      "id": "105-02",
+      "title": "إرسال الطير الأبابيل وحجارة السجيل وإبطال دعوى الميكروب",
+      "file": "105-الفيل/003.mp3",
+      "startMs": 0,
+      "endMs": 119210
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "ep01"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "105-الفيل/001.mp3",
+        "startMs": 0,
+        "endMs": 635420,
+        "durationMs": 635420,
+        "recordingDurationMs": 635420,
+        "bytes": 7625513,
+        "sha256": "91984d15962dd9a23cf37436bbefb43b31ef23b045edc473987d9b4bb153b608",
+        "sharedAyahs": [
+          "105:1",
+          "105:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 0.0,
+            "end": 635.4
+          }
+        ]
+      },
+      {
+        "file": "105-الفيل/003.mp3",
+        "startMs": 0,
+        "endMs": 119210,
+        "durationMs": 119210,
+        "recordingDurationMs": 119210,
+        "bytes": 1430921,
+        "sha256": "366c69b9afc395d162cfc1a99f56747b70067b8e00c1d88953a183f0fc674708",
+        "sharedAyahs": [
+          "105:3",
+          "105:4",
+          "105:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 635.4,
+            "end": 754.61
+          }
+        ]
+      }
+    ],
+    "durationMs": 754630,
+    "additionalAudioBytes": 0
+  }
+}
