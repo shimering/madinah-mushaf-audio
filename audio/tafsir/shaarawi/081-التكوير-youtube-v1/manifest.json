@@ -1,0 +1,1063 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "قناة الشيخ الشعراوي الرسمية (يوتيوب)",
+  "surah": 81,
+  "surahName": "التكوير",
+  "ayahCount": 29,
+  "reviewStatus": "complete",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 29,
+    "mappedAyahCount": 29,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "001": {
+      "durationSeconds": 3634.58,
+      "bytes": 43615736,
+      "sha256": "3965a3f8a0bcc258430090763baaae03e3d2e7612c1f6344d26ad240dd639312",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-029_DwzH0V_Oe_4.mp3",
+      "url": "https://www.youtube.com/watch?v=DwzH0V_Oe_4"
+    }
+  },
+  "ayahs": {
+    "81:1": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:2": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:3": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:4": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:5": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:6": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:7": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:8": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:9": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:10": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:11": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:12": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:13": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:14": {
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "durationMs": 272810,
+      "bytes": 3274387,
+      "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+      "sharedAyahs": [
+        "81:1",
+        "81:2",
+        "81:3",
+        "81:4",
+        "81:5",
+        "81:6",
+        "81:7",
+        "81:8",
+        "81:9",
+        "81:10",
+        "81:11",
+        "81:12",
+        "81:13",
+        "81:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 0.0,
+          "end": 272.775
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:15": {
+      "file": "081-التكوير-youtube-v1/015.mp3",
+      "durationMs": 572590,
+      "bytes": 6871536,
+      "sha256": "53dde5431b36b8dd1a114329c79ee206cd73b914ba87846c1ff85f0bd2578f1b",
+      "sharedAyahs": [
+        "81:15",
+        "81:16",
+        "81:17",
+        "81:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 670.0,
+          "end": 1062.74
+        },
+        {
+          "source": "001",
+          "start": 1091.2,
+          "end": 1271.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:16": {
+      "file": "081-التكوير-youtube-v1/015.mp3",
+      "durationMs": 572590,
+      "bytes": 6871536,
+      "sha256": "53dde5431b36b8dd1a114329c79ee206cd73b914ba87846c1ff85f0bd2578f1b",
+      "sharedAyahs": [
+        "81:15",
+        "81:16",
+        "81:17",
+        "81:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 670.0,
+          "end": 1062.74
+        },
+        {
+          "source": "001",
+          "start": 1091.2,
+          "end": 1271.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:17": {
+      "file": "081-التكوير-youtube-v1/015.mp3",
+      "durationMs": 572590,
+      "bytes": 6871536,
+      "sha256": "53dde5431b36b8dd1a114329c79ee206cd73b914ba87846c1ff85f0bd2578f1b",
+      "sharedAyahs": [
+        "81:15",
+        "81:16",
+        "81:17",
+        "81:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 670.0,
+          "end": 1062.74
+        },
+        {
+          "source": "001",
+          "start": 1091.2,
+          "end": 1271.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:18": {
+      "file": "081-التكوير-youtube-v1/015.mp3",
+      "durationMs": 572590,
+      "bytes": 6871536,
+      "sha256": "53dde5431b36b8dd1a114329c79ee206cd73b914ba87846c1ff85f0bd2578f1b",
+      "sharedAyahs": [
+        "81:15",
+        "81:16",
+        "81:17",
+        "81:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 670.0,
+          "end": 1062.74
+        },
+        {
+          "source": "001",
+          "start": 1091.2,
+          "end": 1271.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:19": {
+      "file": "081-التكوير-youtube-v1/019.mp3",
+      "durationMs": 608280,
+      "bytes": 7300053,
+      "sha256": "f141d42c777c00ebe76490f72587da42a89022c11802298fe82eb768d985c1ba",
+      "sharedAyahs": [
+        "81:19",
+        "81:20",
+        "81:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 1271.0,
+          "end": 1879.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:20": {
+      "file": "081-التكوير-youtube-v1/019.mp3",
+      "durationMs": 608280,
+      "bytes": 7300053,
+      "sha256": "f141d42c777c00ebe76490f72587da42a89022c11802298fe82eb768d985c1ba",
+      "sharedAyahs": [
+        "81:19",
+        "81:20",
+        "81:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 1271.0,
+          "end": 1879.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:21": {
+      "file": "081-التكوير-youtube-v1/019.mp3",
+      "durationMs": 608280,
+      "bytes": 7300053,
+      "sha256": "f141d42c777c00ebe76490f72587da42a89022c11802298fe82eb768d985c1ba",
+      "sharedAyahs": [
+        "81:19",
+        "81:20",
+        "81:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 1271.0,
+          "end": 1879.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:22": {
+      "file": "081-التكوير-youtube-v1/022.mp3",
+      "durationMs": 702260,
+      "bytes": 8427861,
+      "sha256": "7aae98e2a1e39433e3c199b17aa8c6f9de8cb63f40b401dbbdbe4dcbe415e9ad",
+      "sharedAyahs": [
+        "81:22",
+        "81:23",
+        "81:24",
+        "81:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 1879.25,
+          "end": 2581.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:23": {
+      "file": "081-التكوير-youtube-v1/022.mp3",
+      "durationMs": 702260,
+      "bytes": 8427861,
+      "sha256": "7aae98e2a1e39433e3c199b17aa8c6f9de8cb63f40b401dbbdbe4dcbe415e9ad",
+      "sharedAyahs": [
+        "81:22",
+        "81:23",
+        "81:24",
+        "81:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 1879.25,
+          "end": 2581.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:24": {
+      "file": "081-التكوير-youtube-v1/022.mp3",
+      "durationMs": 702260,
+      "bytes": 8427861,
+      "sha256": "7aae98e2a1e39433e3c199b17aa8c6f9de8cb63f40b401dbbdbe4dcbe415e9ad",
+      "sharedAyahs": [
+        "81:22",
+        "81:23",
+        "81:24",
+        "81:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 1879.25,
+          "end": 2581.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:25": {
+      "file": "081-التكوير-youtube-v1/022.mp3",
+      "durationMs": 702260,
+      "bytes": 8427861,
+      "sha256": "7aae98e2a1e39433e3c199b17aa8c6f9de8cb63f40b401dbbdbe4dcbe415e9ad",
+      "sharedAyahs": [
+        "81:22",
+        "81:23",
+        "81:24",
+        "81:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 1879.25,
+          "end": 2581.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:26": {
+      "file": "081-التكوير-youtube-v1/026.mp3",
+      "durationMs": 40270,
+      "bytes": 483952,
+      "sha256": "9f8a86f4f9725494f37ddd102005e5c18367c690f45618febd660c2e193bbee3",
+      "sharedAyahs": [
+        "81:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 2581.5,
+          "end": 2621.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:27": {
+      "file": "081-التكوير-youtube-v1/027.mp3",
+      "durationMs": 429070,
+      "bytes": 5149552,
+      "sha256": "88358ceb468f8a2a57bdd638e298db94c7401b61de9fbf407d556c84aedcb07c",
+      "sharedAyahs": [
+        "81:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 2621.75,
+          "end": 3050.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:28": {
+      "file": "081-التكوير-youtube-v1/028.mp3",
+      "durationMs": 518230,
+      "bytes": 6219472,
+      "sha256": "59b6d35909aee19e7dadf985c909e4ef8e0a1639c3863e72ded7ab1c277a868d",
+      "sharedAyahs": [
+        "81:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 3050.8,
+          "end": 3569.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "81:29": {
+      "file": "081-التكوير-youtube-v1/029.mp3",
+      "durationMs": 65570,
+      "bytes": 787504,
+      "sha256": "14845a6a17dff2f903431775665885af81d030810a16b5c726b6e7db6312c085",
+      "sharedAyahs": [
+        "81:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 3569.0,
+          "end": 3634.584
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "081-التكوير-youtube-v1/other-01.mp3",
+      "kind": "other",
+      "durationMs": 260520,
+      "bytes": 3126919,
+      "sha256": "4bb46a4899c775e3f90f83a894bfeead95c97aebb1b5b5b69a8bfc002d78560a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 272.775,
+          "end": 533.28
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "081-التكوير-youtube-v1/other-02.mp3",
+      "kind": "other",
+      "durationMs": 136750,
+      "bytes": 1641703,
+      "sha256": "93e1319637a596de153fcb4417485c3fbdac31827ce2f26e1fe0f3a5d5cc2260",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "001",
+          "start": 533.28,
+          "end": 670.0
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/watch?v=DwzH0V_Oe_4",
+  "audioProcessing": "libmp3lame-90k-mono-48khz-stream-copy-sliced-jingle-stripped",
+  "alignmentMethod": "faster-whisper-large-v3-turbo-cuda-word-timestamps",
+  "topics": [
+    {
+      "id": "takwir-cosmic-revolution",
+      "title": "المناسبة والانقلاب الكوني: زوال الرتابة وفناء كل ما سوى الله الحق (الآيات 1-14)",
+      "file": "081-التكوير-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 272775
+    },
+    {
+      "id": "takwir-divine-curriculum",
+      "title": "منطق الغاية والوسيلة: ضرورة استمداد منهج الصيانة من الخالق الحكيم",
+      "file": "081-التكوير-youtube-v1/other-01.mp3",
+      "startMs": 0,
+      "endMs": 260505
+    },
+    {
+      "id": "takwir-prophetic-transmission",
+      "title": "حكمة التمييز بين المصطفى من الملائكة والمصطفى من البشر في توثيق الرسالة",
+      "file": "081-التكوير-youtube-v1/other-02.mp3",
+      "startMs": 0,
+      "endMs": 136720
+    },
+    {
+      "id": "takwir-angel-prophet-virtue",
+      "title": "المسألة العقدية في عموم التفضيل بين الأنبياء والملائكة والتأدب في الخطاب",
+      "file": "081-التكوير-youtube-v1/019.mp3",
+      "startMs": 362000,
+      "endMs": 608250
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "001"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "081-التكوير-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 272810,
+        "durationMs": 272810,
+        "recordingDurationMs": 272810,
+        "bytes": 3274387,
+        "sha256": "41d24bbcb812c8da76998651bfd71ff9b280b97c53a97b2c07b0c751506d884f",
+        "sharedAyahs": [
+          "81:1",
+          "81:2",
+          "81:3",
+          "81:4",
+          "81:5",
+          "81:6",
+          "81:7",
+          "81:8",
+          "81:9",
+          "81:10",
+          "81:11",
+          "81:12",
+          "81:13",
+          "81:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 0.0,
+            "end": 272.775
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/other-01.mp3",
+        "startMs": 0,
+        "endMs": 260520,
+        "durationMs": 260520,
+        "recordingDurationMs": 260520,
+        "bytes": 3126919,
+        "sha256": "4bb46a4899c775e3f90f83a894bfeead95c97aebb1b5b5b69a8bfc002d78560a",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 272.775,
+            "end": 533.28
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/other-02.mp3",
+        "startMs": 0,
+        "endMs": 136750,
+        "durationMs": 136750,
+        "recordingDurationMs": 136750,
+        "bytes": 1641703,
+        "sha256": "93e1319637a596de153fcb4417485c3fbdac31827ce2f26e1fe0f3a5d5cc2260",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 533.28,
+            "end": 670.0
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 392749,
+        "durationMs": 392749,
+        "recordingDurationMs": 572590,
+        "bytes": 6871536,
+        "sha256": "53dde5431b36b8dd1a114329c79ee206cd73b914ba87846c1ff85f0bd2578f1b",
+        "sharedAyahs": [
+          "81:15",
+          "81:16",
+          "81:17",
+          "81:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 670.0,
+            "end": 1062.74
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/015.mp3",
+        "startMs": 392749,
+        "endMs": 572590,
+        "durationMs": 179841,
+        "recordingDurationMs": 572590,
+        "bytes": 6871536,
+        "sha256": "53dde5431b36b8dd1a114329c79ee206cd73b914ba87846c1ff85f0bd2578f1b",
+        "sharedAyahs": [
+          "81:15",
+          "81:16",
+          "81:17",
+          "81:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 1091.2,
+            "end": 1271.0
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 608280,
+        "durationMs": 608280,
+        "recordingDurationMs": 608280,
+        "bytes": 7300053,
+        "sha256": "f141d42c777c00ebe76490f72587da42a89022c11802298fe82eb768d985c1ba",
+        "sharedAyahs": [
+          "81:19",
+          "81:20",
+          "81:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 1271.0,
+            "end": 1879.25
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 702260,
+        "durationMs": 702260,
+        "recordingDurationMs": 702260,
+        "bytes": 8427861,
+        "sha256": "7aae98e2a1e39433e3c199b17aa8c6f9de8cb63f40b401dbbdbe4dcbe415e9ad",
+        "sharedAyahs": [
+          "81:22",
+          "81:23",
+          "81:24",
+          "81:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 1879.25,
+            "end": 2581.5
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 40270,
+        "durationMs": 40270,
+        "recordingDurationMs": 40270,
+        "bytes": 483952,
+        "sha256": "9f8a86f4f9725494f37ddd102005e5c18367c690f45618febd660c2e193bbee3",
+        "sharedAyahs": [
+          "81:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 2581.5,
+            "end": 2621.75
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 429070,
+        "durationMs": 429070,
+        "recordingDurationMs": 429070,
+        "bytes": 5149552,
+        "sha256": "88358ceb468f8a2a57bdd638e298db94c7401b61de9fbf407d556c84aedcb07c",
+        "sharedAyahs": [
+          "81:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 2621.75,
+            "end": 3050.8
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 518230,
+        "durationMs": 518230,
+        "recordingDurationMs": 518230,
+        "bytes": 6219472,
+        "sha256": "59b6d35909aee19e7dadf985c909e4ef8e0a1639c3863e72ded7ab1c277a868d",
+        "sharedAyahs": [
+          "81:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 3050.8,
+            "end": 3569.0
+          }
+        ]
+      },
+      {
+        "file": "081-التكوير-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 65570,
+        "durationMs": 65570,
+        "recordingDurationMs": 65570,
+        "bytes": 787504,
+        "sha256": "14845a6a17dff2f903431775665885af81d030810a16b5c726b6e7db6312c085",
+        "sharedAyahs": [
+          "81:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "001",
+            "start": 3569.0,
+            "end": 3634.584
+          }
+        ]
+      }
+    ],
+    "durationMs": 3606350,
+    "additionalAudioBytes": 0
+  }
+}
