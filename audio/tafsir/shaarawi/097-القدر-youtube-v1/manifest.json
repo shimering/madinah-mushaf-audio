@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "قناة الشيخ الشعراوي الرسمية (يوتيوب)",
+  "surah": 97,
+  "surahName": "القدر",
+  "ayahCount": 5,
+  "reviewStatus": "complete",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 5,
+    "mappedAyahCount": 5,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "VdOjrO26uok": {
+      "durationSeconds": 3475.92,
+      "bytes": 41711372,
+      "sha256": "fb5137c8953058d2660e17eb8acf630b18f14abd2b49ba66d8577818f07ac135",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-005_VdOjrO26uok.mp3",
+      "url": "https://www.youtube.com/watch?v=VdOjrO26uok"
+    }
+  },
+  "ayahs": {
+    "97:1": {
+      "file": "097-القدر-youtube-v1/001.mp3",
+      "durationMs": 2292890,
+      "bytes": 27515077,
+      "sha256": "119f84b00a1172b4d37074fb21e53dbd3c12e64ad4c7948329e5cf35091e82a5",
+      "sharedAyahs": [
+        "97:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VdOjrO26uok",
+          "start": 10.0,
+          "end": 2302.85
+        }
+      ],
+      "reviewNote": "تفسير إنا أنزلناه في ليلة القدر والمناسبة مع سورة العلق ونون العظمة ومراتب نزول القرآن وظرفية الليل (الآية 1)"
+    },
+    "97:2": {
+      "file": "097-القدر-youtube-v1/002.mp3",
+      "durationMs": 180070,
+      "bytes": 2161285,
+      "sha256": "600c44cef5991c769db31e3d657135d3bf34aa8fbb310a400562e34314536899",
+      "sharedAyahs": [
+        "97:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VdOjrO26uok",
+          "start": 2302.85,
+          "end": 2482.9
+        }
+      ],
+      "reviewNote": "تفسير وما أدراك ما ليلة القدر والفرق بين ما أدراك وما يدريك وعلو شأن الليلة (الآية 2)"
+    },
+    "97:3": {
+      "file": "097-القدر-youtube-v1/003.mp3",
+      "durationMs": 395420,
+      "bytes": 4745509,
+      "sha256": "f6f36bf5498c9d2070ce6d8c5f151f5ce3a14a417bd4db7d85118d50cb7726c2",
+      "sharedAyahs": [
+        "97:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VdOjrO26uok",
+          "start": 2482.9,
+          "end": 2878.3
+        }
+      ],
+      "reviewNote": "تفسير ليلة القدر خير من ألف شهر ومضاعفة أجور الأعمال وحساب الـ 83 سنة (الآية 3)"
+    },
+    "97:4": {
+      "file": "097-القدر-youtube-v1/004.mp3",
+      "durationMs": 215470,
+      "bytes": 2586085,
+      "sha256": "f06aa773b7409d7a2c0573b7d3d9986c1d9477276a71bb6641a5bce2b8cd3fc7",
+      "sharedAyahs": [
+        "97:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VdOjrO26uok",
+          "start": 2878.3,
+          "end": 3093.75
+        }
+      ],
+      "reviewNote": "تفسير تنزل الملائكة والروح فيها بإذن ربهم من كل أمر والمدبرات أمرا والروح الأمين جبريل (الآية 4)"
+    },
+    "97:5": {
+      "file": "097-القدر-youtube-v1/005.mp3",
+      "durationMs": 382150,
+      "bytes": 4586245,
+      "sha256": "37e0e3be39c60e8947ef0fc25e8f209453093efe9dbf7fbf78e803935ae8929d",
+      "sharedAyahs": [
+        "97:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VdOjrO26uok",
+          "start": 3093.75,
+          "end": 3475.92
+        }
+      ],
+      "reviewNote": "تفسير سلام هي حتى مطلع الفجر وأقدار الله كلها سلام وخير وتسليم الملائكة على أهل الإيمان (الآية 5)"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/watch?v=VdOjrO26uok",
+  "audioProcessing": "libmp3lame-90k-mono-48khz-stream-copy-sliced-jingle-stripped",
+  "alignmentMethod": "faster-whisper-large-v3-turbo-cuda-word-timestamps",
+  "topics": [
+    {
+      "id": "qadr-revelation-night-and-glory-1",
+      "title": "المناسبة بين سورة العلق وسورة القدر ونون العظمة ومراتب تنزل القرآن واصطفاء ليلة القدر (الآية 1)",
+      "file": "097-القدر-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 2292850
+    },
+    {
+      "id": "qadr-unfathomable-status-2",
+      "title": "عظمة شأن ليلة القدر وأسرار التعبير القرآني بـ (وما أدراك) والفرق بينها وبين (وما يدريك) (الآية 2)",
+      "file": "097-القدر-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 180050
+    },
+    {
+      "id": "qadr-better-than-thousand-months-3",
+      "title": "تفضيل ليلة القدر على ألف شهر وحساب الـ 83 سنة وأسرار مضاعفة الثواب للأمة المحمدية (الآية 3)",
+      "file": "097-القدر-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 395400
+    },
+    {
+      "id": "qadr-angels-and-spirit-descent-4",
+      "title": "تنزل الملائكة والروح الأمين جبريل بإذن ربهم بتدبير أقدار الخلائق (الآية 4)",
+      "file": "097-القدر-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 215450
+    },
+    {
+      "id": "qadr-peace-until-dawn-5",
+      "title": "أسرار السلام والخير في أقدار الله وتسليم الملائكة على المؤمنين حتى مطلع الفجر (الآية 5)",
+      "file": "097-القدر-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 382150
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "VdOjrO26uok"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "097-القدر-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 2292890,
+        "durationMs": 2292890,
+        "recordingDurationMs": 2292890,
+        "bytes": 27515077,
+        "sha256": "119f84b00a1172b4d37074fb21e53dbd3c12e64ad4c7948329e5cf35091e82a5",
+        "sharedAyahs": [
+          "97:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VdOjrO26uok",
+            "start": 10.0,
+            "end": 2302.85
+          }
+        ]
+      },
+      {
+        "file": "097-القدر-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 180070,
+        "durationMs": 180070,
+        "recordingDurationMs": 180070,
+        "bytes": 2161285,
+        "sha256": "600c44cef5991c769db31e3d657135d3bf34aa8fbb310a400562e34314536899",
+        "sharedAyahs": [
+          "97:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VdOjrO26uok",
+            "start": 2302.85,
+            "end": 2482.9
+          }
+        ]
+      },
+      {
+        "file": "097-القدر-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 395420,
+        "durationMs": 395420,
+        "recordingDurationMs": 395420,
+        "bytes": 4745509,
+        "sha256": "f6f36bf5498c9d2070ce6d8c5f151f5ce3a14a417bd4db7d85118d50cb7726c2",
+        "sharedAyahs": [
+          "97:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VdOjrO26uok",
+            "start": 2482.9,
+            "end": 2878.3
+          }
+        ]
+      },
+      {
+        "file": "097-القدر-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 215470,
+        "durationMs": 215470,
+        "recordingDurationMs": 215470,
+        "bytes": 2586085,
+        "sha256": "f06aa773b7409d7a2c0573b7d3d9986c1d9477276a71bb6641a5bce2b8cd3fc7",
+        "sharedAyahs": [
+          "97:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VdOjrO26uok",
+            "start": 2878.3,
+            "end": 3093.75
+          }
+        ]
+      },
+      {
+        "file": "097-القدر-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 382150,
+        "durationMs": 382150,
+        "recordingDurationMs": 382150,
+        "bytes": 4586245,
+        "sha256": "37e0e3be39c60e8947ef0fc25e8f209453093efe9dbf7fbf78e803935ae8929d",
+        "sharedAyahs": [
+          "97:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VdOjrO26uok",
+            "start": 3093.75,
+            "end": 3475.92
+          }
+        ]
+      }
+    ],
+    "durationMs": 3466000,
+    "additionalAudioBytes": 0
+  }
+}
