@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "تسجيل تليفزيوني - خواطر الشيخ محمد متولي الشعراوي",
+  "surah": 106,
+  "surahName": "قريش",
+  "ayahCount": 4,
+  "reviewStatus": "complete",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 4,
+    "mappedAyahCount": 4,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "ep01": {
+      "durationSeconds": 3341.54,
+      "bytes": 40098860,
+      "sha256": "6b3eaee11c60b7bb74d7ee46cc68a2eef1aeedd23b53d5e22bd5bcb39c9b7190",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-004_jmn2kuw-j_U.mp3",
+      "url": "https://www.youtube.com/watch?v=jmn2kuw-j_U"
+    }
+  },
+  "ayahs": {
+    "106:1": {
+      "file": "106-قريش/001.mp3",
+      "durationMs": 523180,
+      "bytes": 6278535,
+      "sha256": "8ccb7aa30f1953dc748c819e90aa78a8151e130e005c4af7bdd7a01770481a3c",
+      "sharedAyahs": [
+        "106:1",
+        "106:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 0.0,
+          "end": 523.15
+        }
+      ],
+      "reviewNote": "لإيلاف قريش * إيلافهم رحلة الشتاء والصيف"
+    },
+    "106:2": {
+      "file": "106-قريش/001.mp3",
+      "durationMs": 523180,
+      "bytes": 6278535,
+      "sha256": "8ccb7aa30f1953dc748c819e90aa78a8151e130e005c4af7bdd7a01770481a3c",
+      "sharedAyahs": [
+        "106:1",
+        "106:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 0.0,
+          "end": 523.15
+        }
+      ],
+      "reviewNote": "لإيلاف قريش * إيلافهم رحلة الشتاء والصيف"
+    },
+    "106:3": {
+      "file": "106-قريش/003.mp3",
+      "durationMs": 2738880,
+      "bytes": 32866979,
+      "sha256": "6698710737f5f4490851d9cca7645367e48c07e43c07f63ac6762b67d9ea46eb",
+      "sharedAyahs": [
+        "106:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 523.15,
+          "end": 3262.0
+        }
+      ],
+      "reviewNote": "فليعبدوا رب هذا البيت"
+    },
+    "106:4": {
+      "file": "106-قريش/004.mp3",
+      "durationMs": 79540,
+      "bytes": 954851,
+      "sha256": "64cbae54a10817b2405b4ab594df55a9e3194b2bf1e21d6f60bae691e4e38a73",
+      "sharedAyahs": [
+        "106:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 3262.0,
+          "end": 3341.54
+        }
+      ],
+      "reviewNote": "الذي أطعمهم من جوع وآمنهم من خوف"
+    }
+  },
+  "extraTracks": [],
+  "topics": [
+    {
+      "id": "106-01",
+      "title": "إيلاف قريش لرحلتي الشتاء والصيف وحفظ البيت من كيد أصحاب الفيل",
+      "file": "106-قريش/001.mp3",
+      "startMs": 0,
+      "endMs": 523150
+    },
+    {
+      "id": "106-02",
+      "title": "حقيقة العبادة والخضوع لله ومكانة الصلاة وفرضيتها كعماد للدين",
+      "file": "106-قريش/003.mp3",
+      "startMs": 0,
+      "endMs": 2738850
+    },
+    {
+      "id": "106-03",
+      "title": "نعمة الأمن من الخوف والإطعام من الجوع والمقومات الاقتصادية والنفسية",
+      "file": "106-قريش/004.mp3",
+      "startMs": 0,
+      "endMs": 79540
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "ep01"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "106-قريش/001.mp3",
+        "startMs": 0,
+        "endMs": 523180,
+        "durationMs": 523180,
+        "recordingDurationMs": 523180,
+        "bytes": 6278535,
+        "sha256": "8ccb7aa30f1953dc748c819e90aa78a8151e130e005c4af7bdd7a01770481a3c",
+        "sharedAyahs": [
+          "106:1",
+          "106:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 0.0,
+            "end": 523.15
+          }
+        ]
+      },
+      {
+        "file": "106-قريش/003.mp3",
+        "startMs": 0,
+        "endMs": 2738880,
+        "durationMs": 2738880,
+        "recordingDurationMs": 2738880,
+        "bytes": 32866979,
+        "sha256": "6698710737f5f4490851d9cca7645367e48c07e43c07f63ac6762b67d9ea46eb",
+        "sharedAyahs": [
+          "106:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 523.15,
+            "end": 3262.0
+          }
+        ]
+      },
+      {
+        "file": "106-قريش/004.mp3",
+        "startMs": 0,
+        "endMs": 79540,
+        "durationMs": 79540,
+        "recordingDurationMs": 79540,
+        "bytes": 954851,
+        "sha256": "64cbae54a10817b2405b4ab594df55a9e3194b2bf1e21d6f60bae691e4e38a73",
+        "sharedAyahs": [
+          "106:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 3262.0,
+            "end": 3341.54
+          }
+        ]
+      }
+    ],
+    "durationMs": 3341600,
+    "additionalAudioBytes": 0
+  }
+}
