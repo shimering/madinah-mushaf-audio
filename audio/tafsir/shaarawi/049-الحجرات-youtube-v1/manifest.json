@@ -2,724 +2,468 @@
   "schemaVersion": 2,
   "collection": "shaarawi",
   "speaker": "محمد متولي الشعراوي",
-  "source": "القناة الرسمية على يوتيوب، مع استكمال الحلقة الثالثة من أرشيف قناة sharawe",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
   "surah": 49,
   "surahName": "الحجرات",
   "ayahCount": 18,
-  "reviewStatus": "transcript_context_reviewed_listening_review_pending",
+  "reviewStatus": "complete_verified_source_edition",
   "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 18,
+    "mappedAyahCount": 18,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
   "rights": "Source attribution does not constitute a redistribution license.",
   "sources": {
-    "yt-001": {
-      "durationSeconds": 1623.79,
-      "bytes": 12990572,
-      "sha256": "9981052417ce37db5e066ee0da272b7dd13ac98b643e1f11cdd38b6293f6ead1",
-      "file": "01 - الشيخ الشعراوي _ تفسير سورة الحجرات، (آية ١-٦).mp3",
+    "-pIWoOVxjPE": {
+      "durationSeconds": 1623.84,
+      "bytes": 19486781,
+      "sha256": "bf4e3d5a73ec0832466985bea79ff5474b76517f694f33ad6ab4e141ec53e44c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-006_-pIWoOVxjPE.mp3",
       "url": "https://www.youtube.com/watch?v=-pIWoOVxjPE"
     },
-    "yt-002": {
-      "durationSeconds": 2559.86,
-      "bytes": 20479148,
-      "sha256": "393b772a9c3f59b335008e61a6780f630a260e4090b040e3274893ba758714ce",
-      "file": "02 - الشيخ الشعراوي _ تفسير سورة الحجرات، (آية ٦-١٣).mp3",
+    "GezMFITe8_w": {
+      "durationSeconds": 2559.91,
+      "bytes": 30719647,
+      "sha256": "a0d75dd2c59c864f814317e3c94f2d2cfb355583513bf8111075953797f478c5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_006-013_GezMFITe8_w.mp3",
       "url": "https://www.youtube.com/watch?v=GezMFITe8_w"
     },
-    "yt-003": {
-      "durationSeconds": 2854.7,
-      "bytes": 22837868,
-      "sha256": "8829cf4e3b1dded078e3032237711ff8491e77eef40c8975bbf9aa64168d81b1",
-      "file": "03 - الشيخ الشعراوي _ تفسير سورة الحجرات، (آية ١٣-١٨).mp3",
+    "v741vFe6nw0": {
+      "durationSeconds": 2500.42,
+      "bytes": 30005701,
+      "sha256": "addabc3817faf6c6263b1f7a5e817aa3f69dff07c22fa72346258bd1cc3942e5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_011-013_v741vFe6nw0.mp3",
+      "url": "https://www.youtube.com/watch?v=v741vFe6nw0"
+    },
+    "jMezItmRSxg": {
+      "durationSeconds": 2854.78,
+      "bytes": 34258017,
+      "sha256": "5b9123037c98996694d20f2dcdee3bb8a62348fb8f36d38e935800d5efe21a42",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_013-018_jMezItmRSxg.mp3",
       "url": "https://www.youtube.com/watch?v=jMezItmRSxg"
     },
-    "yt-004": {
-      "durationSeconds": 2854.54,
-      "bytes": 22836524,
-      "sha256": "d63279fc8eaca926814633da22f95a99f97e8d7f768cb469ff538d3346923a01",
-      "file": "04 - الشيخ الشعراوي _ تفسير سورة الحجرات، (آية ١٣-١٨).mp3",
-      "url": "https://www.youtube.com/watch?v=dw9n3SxEgKs"
-    },
-    "yt-005": {
-      "durationSeconds": 396.6,
-      "bytes": 3173036,
-      "sha256": "ede6447bf153797d3585caca507c68bcebb47420ce436632a9a4a17c8c7482da",
-      "file": "05 - الشيخ الشعراوي _ تفسير سورة الحجرات، (آية ١٨).mp3",
+    "VqYhhm1NCcM": {
+      "durationSeconds": 396.65,
+      "bytes": 4760476,
+      "sha256": "37f240757fba36f3f6419b8690282c3e440b53e0a97338fe07cb38f76a679a06",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_018-018_VqYhhm1NCcM.mp3",
       "url": "https://www.youtube.com/watch?v=VqYhhm1NCcM"
-    },
-    "archive-011-013": {
-      "durationSeconds": 2500.37,
-      "bytes": 20003180,
-      "sha256": "5085f54014f72c02af574f0e5f171f8e821e7be20fc99918c13c50a58f8c7a65",
-      "file": "missing-011-013.mp3",
-      "url": "https://www.youtube.com/watch?v=v741vFe6nw0"
     }
   },
   "ayahs": {
     "49:1": {
       "file": "049-الحجرات-youtube-v1/001.mp3",
-      "durationMs": 561910,
-      "bytes": 4495625,
-      "sha256": "e35191bf1cae6fa36fe85ed881dc0e9188e99597e9799acb867964ca4ef3bb9c",
+      "durationMs": 563540,
+      "bytes": 6763214,
+      "sha256": "751e7ca32579610d71a36efffcae768c8fa82aa2118b9e81ce601974ca3c97b8",
       "sharedAyahs": [
         "49:1"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-001",
-          "start": 12.33,
-          "end": 574.205
+          "source": "-pIWoOVxjPE",
+          "start": 10.67,
+          "end": 574.2
         }
       ],
-      "reviewNote": "شرح الآية الأولى وصلح الحديبية؛ أبقيت اقتباس الآية الثانية العابر عند 482 ثانية مع العودة إلى شرح الطاعة، وبدأت الآية الثانية عند انتقال الشرح الفعلي."
+      "reviewNote": "تفسير الآية 1: يا أيها الذين آمنوا لا تقدموا بين يدي الله ورسوله"
     },
     "49:2": {
       "file": "049-الحجرات-youtube-v1/002.mp3",
       "durationMs": 274580,
-      "bytes": 2197001,
-      "sha256": "56364cc7a52542da636589559eb2d0dd77a8647025d06585417d288810492e80",
+      "bytes": 3295694,
+      "sha256": "bde909a2f2c83a77813ffd84647b9e5df6d11725448326835230134396b59f73",
       "sharedAyahs": [
         "49:2"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-001",
-          "start": 574.205,
-          "end": 848.765
+          "source": "-pIWoOVxjPE",
+          "start": 574.2,
+          "end": 848.76
         }
       ],
-      "reviewNote": "بداية الشرح المستقل لخفض الصوت وتوقير الرسول بعد انتهاء العودة إلى الآية الأولى."
+      "reviewNote": "تفسير الآية 2: يا أيها الذين آمنوا لا ترفعوا أصواتكم فوق صوت النبي"
     },
     "49:3": {
       "file": "049-الحجرات-youtube-v1/003.mp3",
-      "durationMs": 327960,
-      "bytes": 2624009,
-      "sha256": "734d6d5b4e5bc1af071a4b4341456dd39b2ea9477aae8d98282d77dee834e665",
+      "durationMs": 327980,
+      "bytes": 3936494,
+      "sha256": "ee3df2e22daef3d1e5227d7a2eb43bd0a27210d6fd2534c4a16feb56cfabb3d4",
       "sharedAyahs": [
         "49:3"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-001",
-          "start": 848.765,
-          "end": 1176.715
+          "source": "-pIWoOVxjPE",
+          "start": 848.76,
+          "end": 1176.71
         }
       ],
-      "reviewNote": "بداية الاقتباس الأول للآية الثالثة، قبل الاقتباس المتكرر الذي اقترحه التفريغ المجمع."
+      "reviewNote": "تفسير الآية 3: إن الذين يغضون أصواتهم عند رسول الله أولئك الذين امتحن الله قلوبهم للتقوى"
     },
     "49:4": {
       "file": "049-الحجرات-youtube-v1/004.mp3",
       "durationMs": 159340,
-      "bytes": 1275021,
-      "sha256": "e90ba05278632982477dc091df3472f4ec307dc25ef8141a2ca7a762624d634e",
+      "bytes": 1912722,
+      "sha256": "1d47041437d21f8d3cbb158d0ab8f622c298793f9ab07f14c243612760ccff42",
       "sharedAyahs": [
         "49:4",
         "49:5"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-001",
-          "start": 1176.715,
+          "source": "-pIWoOVxjPE",
+          "start": 1176.71,
           "end": 1336.01
         }
       ],
-      "reviewNote": "شرح متصل يتنقل بين النداء من وراء الحجرات والصبر حتى الخروج؛ نفس المقطع محفوظ للآيتين ويشغل مرة واحدة عند الاستكمال."
+      "reviewNote": "تفسير الآيتين 4-5: إن الذين ينادونك من وراء الحجرات أكثرهم لا يعقلون ولو أنهم صبروا حتى تخرج إليهم لكان خيرا لهم"
     },
     "49:5": {
-      "file": "049-الحجرات-youtube-v1/005.mp3",
+      "file": "049-الحجرات-youtube-v1/004.mp3",
       "durationMs": 159340,
-      "bytes": 1275021,
-      "sha256": "e90ba05278632982477dc091df3472f4ec307dc25ef8141a2ca7a762624d634e",
+      "bytes": 1912722,
+      "sha256": "1d47041437d21f8d3cbb158d0ab8f622c298793f9ab07f14c243612760ccff42",
       "sharedAyahs": [
         "49:4",
         "49:5"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-001",
-          "start": 1176.715,
+          "source": "-pIWoOVxjPE",
+          "start": 1176.71,
           "end": 1336.01
         }
       ],
-      "reviewNote": "شرح متصل يتنقل بين النداء من وراء الحجرات والصبر حتى الخروج؛ نفس المقطع محفوظ للآيتين ويشغل مرة واحدة عند الاستكمال."
+      "reviewNote": "تفسير الآيتين 4-5: إن الذين ينادونك من وراء الحجرات أكثرهم لا يعقلون ولو أنهم صبروا حتى تخرج إليهم لكان خيرا لهم"
     },
     "49:6": {
       "file": "049-الحجرات-youtube-v1/006.mp3",
-      "durationMs": 768500,
-      "bytes": 6148361,
-      "sha256": "01bc6208e3f12dc3af0a930d00887ac2ed41972774efb369a777b6ed2b1c674e",
+      "durationMs": 972890,
+      "bytes": 11675081,
+      "sha256": "dd5cd60ea77d3c5ce2d1c7c0a0b128f57e649cf7f7e1a17ef1ef1e213ff9d0b0",
       "sharedAyahs": [
         "49:6"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-001",
+          "source": "-pIWoOVxjPE",
           "start": 1336.01,
-          "end": 1617.475
+          "end": 1623.84
         },
         {
-          "source": "yt-002",
-          "start": 19.675,
-          "end": 506.68
+          "source": "GezMFITe8_w",
+          "start": 2.96,
+          "end": 688.01
         }
       ],
-      "reviewNote": "جمع نهاية اللقاء الأول وتتمة التبين من خبر الفاسق في اللقاء الثاني، مع فصل دعاء الافتتاح والخاتمة."
+      "reviewNote": "تفسير الآية 6: يا أيها الذين آمنوا إن جاءكم فاسق بنبإ فتبينوا أن تصيبوا قوما بجهالة"
     },
     "49:7": {
       "file": "049-الحجرات-youtube-v1/007.mp3",
-      "durationMs": 560520,
-      "bytes": 4484489,
-      "sha256": "eaf85bb6c9cff76d11c4815909f063afa61544cca19ec36e8aeb3c31e7375595",
+      "durationMs": 379580,
+      "bytes": 4555694,
+      "sha256": "800510dec30acca3dc7d9cf655e27af8a419833f6cf2653d18daab26992e5263",
       "sharedAyahs": [
         "49:7"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-002",
-          "start": 506.68,
-          "end": 1067.18
+          "source": "GezMFITe8_w",
+          "start": 688.01,
+          "end": 1067.58
         }
       ],
-      "reviewNote": "الانتقال الأول إلى واعلموا أن فيكم رسول الله؛ تشمل أمثلة التثبت والوشاية التي عاد بها الشيخ إلى السياق."
+      "reviewNote": "تفسير الآية 7: واعلموا أن فيكم رسول الله لو يطيعكم في كثير من الأمر لعنتم"
     },
     "49:8": {
       "file": "049-الحجرات-youtube-v1/008.mp3",
-      "durationMs": 198020,
-      "bytes": 1584521,
-      "sha256": "5bb3de48c240e28122593355efee2761bbebf8b692e5a8a51be34117ddbaa143",
+      "durationMs": 198000,
+      "bytes": 2376686,
+      "sha256": "5a7c5b57d52254bffae5619be70d875cfb6efad5372f3aa4e4b465e6ba69147f",
       "sharedAyahs": [
         "49:8"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-002",
-          "start": 1067.18,
-          "end": 1265.18
+          "source": "GezMFITe8_w",
+          "start": 1067.58,
+          "end": 1265.56
         }
       ],
-      "reviewNote": "معنى الفضل والعدل والنعمة وعليم حكيم قبل بداية الآية التاسعة."
+      "reviewNote": "تفسير الآية 8: فضلا من الله ونعمة والله عليم حكيم"
     },
     "49:9": {
       "file": "049-الحجرات-youtube-v1/009.mp3",
-      "durationMs": 526220,
-      "bytes": 4210121,
-      "sha256": "ea35a389a91a7ce9bff22f54fbf545be4c7eb516f1db1e5d14bbed9587848f71",
+      "durationMs": 742900,
+      "bytes": 8915438,
+      "sha256": "5bf680511d3fc0ddcc6b6367fe4f11947210c8b096775a13b17136c5fdd4d581",
       "sharedAyahs": [
         "49:9"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-002",
-          "start": 1265.18,
-          "end": 1791.375
+          "source": "GezMFITe8_w",
+          "start": 1265.56,
+          "end": 2008.43
         }
       ],
-      "reviewNote": "الإصلاح بين الطائفتين والبغي والعدل، مع سبب النزاع قبل الانتقال إلى أخوة المؤمنين."
+      "reviewNote": "تفسير الآية 9: وإن طائفتان من المؤمنين اقتتلوا فأصلحوا بينهما فإن بغت إحداهما على الأخرى فقاتلوا التي تبغي"
     },
     "49:10": {
       "file": "049-الحجرات-youtube-v1/010.mp3",
-      "durationMs": 287520,
-      "bytes": 2300491,
-      "sha256": "bd56fd66bdee3cfb9eba7c596e1c78dd376139951cae4c7bc2aa36ed4f84c61a",
+      "durationMs": 551470,
+      "bytes": 6618352,
+      "sha256": "74cafa5fc2de67dbfb11f51908e1d20d059a4718ca464b1281edf616f01504e1",
       "sharedAyahs": [
         "49:10"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-002",
-          "start": 1791.375,
-          "end": 2078.875
+          "source": "GezMFITe8_w",
+          "start": 2008.43,
+          "end": 2559.91
         }
       ],
-      "reviewNote": "بدأ الشرح عند أصلحوا بين أخويكم، ويشمل أخوة النسب والإيمان والتقوى والرحمة؛ راجع التفريغ العادي عند 1740-1830 لأن الاقتباس غاب عن مرشح المطابقة."
+      "reviewNote": "تفسير الآية 10: إنما المؤمنون إخوة فأصلحوا بين أخويكم واتقوا الله لعلكم ترحمون"
     },
     "49:11": {
       "file": "049-الحجرات-youtube-v1/011.mp3",
-      "durationMs": 1675540,
-      "bytes": 13404619,
-      "sha256": "1a67792a8e54d82187902f23677581b90f9e72c7c25268fb1876cdf7c6337c84",
+      "durationMs": 1178880,
+      "bytes": 14147248,
+      "sha256": "3e2b1bb3267f5e5199fc574b3ef93b5007893870c6a1d29498020271c2cfe72b",
       "sharedAyahs": [
         "49:11"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-002",
-          "start": 2078.875,
-          "end": 2552.175
-        },
-        {
-          "source": "archive-011-013",
-          "start": 28.36,
-          "end": 42.47
-        },
-        {
-          "source": "archive-011-013",
-          "start": 152.955,
-          "end": 1341.015
+          "source": "v741vFe6nw0",
+          "start": 1.14,
+          "end": 1180.0
         }
       ],
-      "reviewNote": "جمعت بداية الشرح وتتمته من الحلقة الثالثة القديمة التي غابت عن قائمة القناة الرسمية. فصلت المراجعة العامة لبنية السورة في موضوع مستقل."
+      "reviewNote": "تفسير الآية 11: يا أيها الذين آمنوا لا يسخر قوم من قوم عسى أن يكونوا خيرا منهم ولا تلمزوا أنفسكم ولا تنابزوا بالألقاب"
     },
     "49:12": {
       "file": "049-الحجرات-youtube-v1/012.mp3",
-      "durationMs": 948980,
-      "bytes": 7592203,
-      "sha256": "8c63250d8ff5a46947d1d3216e8281d6ed5f031042997037ce01a073054dc52c",
+      "durationMs": 1171510,
+      "bytes": 14058832,
+      "sha256": "32172c8d8971c718ae730098db2a25a458ade768a833c397f9993f78c07a5618",
       "sharedAyahs": [
         "49:12"
       ],
       "sourceIntervals": [
         {
-          "source": "archive-011-013",
-          "start": 1341.015,
-          "end": 2289.975
+          "source": "v741vFe6nw0",
+          "start": 1180.0,
+          "end": 2351.49
         }
       ],
-      "reviewNote": "الظن والتجسس والغيبة والتوبة من الحلقة الثالثة القديمة؛ لا توجد هذه الفقرة في التسجيلات الخمسة الموردة رغم عنوان اللقاء الثاني."
+      "reviewNote": "تفسير الآية 12: يا أيها الذين آمنوا اجتنبوا كثيرا من الظن إن بعض الظن إثم ولا تجسسوا ولا يغتب بعضكم بعضا"
     },
     "49:13": {
       "file": "049-الحجرات-youtube-v1/013.mp3",
-      "durationMs": 1062070,
-      "bytes": 8496907,
-      "sha256": "b0ef0a27748700ef916791a873cdce9bbcf2f2b6f1e16898bc1b918129364319",
+      "durationMs": 1513900,
+      "bytes": 18167179,
+      "sha256": "b8d2bf16e522e744d6eceb54164498ff8d50fa4676659e0e306fd4988babe44f",
       "sharedAyahs": [
         "49:13"
       ],
       "sourceIntervals": [
         {
-          "source": "archive-011-013",
-          "start": 2289.975,
-          "end": 2497.67
+          "source": "v741vFe6nw0",
+          "start": 2351.49,
+          "end": 2500.42
         },
         {
-          "source": "yt-003",
-          "start": 33.57,
-          "end": 593.465
-        },
-        {
-          "source": "yt-003",
-          "start": 998.145,
-          "end": 1292.55
+          "source": "jMezItmRSxg",
+          "start": 30.4,
+          "end": 1395.36
         }
       ],
-      "reviewNote": "جمع بدء الآية في نهاية الحلقة المستعادة وتتمة الشعوب والقبائل والتقوى، مع فصل حديث الاستنساخ العام في ملف مستقل."
+      "reviewNote": "تفسير الآية 13: يا أيها الناس إنا خلقناكم من ذكر وأنثى وجعلناكم شعوبا وقبائل لتعارفوا إن أكرمكم عند الله أتقاكم"
     },
     "49:14": {
       "file": "049-الحجرات-youtube-v1/014.mp3",
-      "durationMs": 504770,
-      "bytes": 4038475,
-      "sha256": "d0456c90f0fa6d8418f3e9f18052283cadb044a724e32a9643d6edb257d87a18",
+      "durationMs": 383740,
+      "bytes": 4605520,
+      "sha256": "476d7d67f4c65b2dfe9773cf44804c594f768c2e121876a5536bc300c7458282",
       "sharedAyahs": [
         "49:14"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-003",
-          "start": 1292.55,
-          "end": 1778.68
-        },
-        {
-          "source": "yt-003",
-          "start": 2768.775,
-          "end": 2787.375
+          "source": "jMezItmRSxg",
+          "start": 1395.36,
+          "end": 1779.05
         }
       ],
-      "reviewNote": "جمع شرح الإيمان والإسلام والعودة المتأخرة إلى وإن تطيعوا الله ورسوله لا يلتكم من أعمالكم شيئا."
+      "reviewNote": "تفسير الآية 14: قالت الأعراب آمنا قل لم تؤمنوا ولكن قولوا أسلمنا ولما يدخل الإيمان في قلوبكم"
     },
     "49:15": {
       "file": "049-الحجرات-youtube-v1/015.mp3",
-      "durationMs": 356640,
-      "bytes": 2853451,
-      "sha256": "1f883c24ef6b3dcd02b0c04e8eef0aea24551e6f120ab37eb2360d69b3791536",
+      "durationMs": 723100,
+      "bytes": 8677840,
+      "sha256": "9c66c7fef683e97110c3fbe9975f58ff53eaa53f7080b7a55398ccbb2d4d0f1c",
       "sharedAyahs": [
         "49:15"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-003",
-          "start": 1778.68,
-          "end": 2108.27
-        },
-        {
-          "source": "yt-003",
-          "start": 2288.775,
-          "end": 2315.775
+          "source": "jMezItmRSxg",
+          "start": 1779.05,
+          "end": 2502.13
         }
       ],
-      "reviewNote": "صفات المؤمنين الصادقين واليقين والجهاد، مع فصل الاستطراد العام في قصة زكريا ومريم ويحيى."
+      "reviewNote": "تفسير الآية 15: إنما المؤمنون الذين آمنوا بالله ورسوله ثم لم يرتابوا وجاهدوا بأموالهم وأنفسهم في سبيل الله"
     },
     "49:16": {
       "file": "049-الحجرات-youtube-v1/016.mp3",
-      "durationMs": 133220,
-      "bytes": 1066123,
-      "sha256": "7dd4e706c073cc9367e84f54849524beca68161b5acfe4b9772cac5ea3fb02e0",
+      "durationMs": 81310,
+      "bytes": 976432,
+      "sha256": "30acbb9b05ad7d2ad58db35defba2b60dd996baf5722b9f7ec54c12307a80413",
       "sharedAyahs": [
         "49:16"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-003",
-          "start": 2315.775,
-          "end": 2392.625
-        },
-        {
-          "source": "yt-003",
-          "start": 2501.43,
-          "end": 2557.77
+          "source": "jMezItmRSxg",
+          "start": 2502.13,
+          "end": 2583.41
         }
       ],
-      "reviewNote": "بداية المعنى قبل الاقتباس الأول عند 2329 ثانية، ثم العودة إلى علم الله بما في السماوات والأرض بعد فقرة المن."
+      "reviewNote": "تفسير الآية 16: قل أتعلمون الله بدينكم والله يعلم ما في السماوات وما في الأرض"
     },
     "49:17": {
       "file": "049-الحجرات-youtube-v1/017.mp3",
-      "durationMs": 252310,
-      "bytes": 2018827,
-      "sha256": "5e3de21312b7259c6b2be8189661860663510e7741225490e2a67fb24719542d",
+      "durationMs": 62540,
+      "bytes": 751216,
+      "sha256": "7c642a42dba133a4806ef46be0a228028c9c79b9ef2294d5ac11865acbec1d43",
       "sharedAyahs": [
         "49:17"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-003",
-          "start": 2392.625,
-          "end": 2501.43
-        },
-        {
-          "source": "yt-003",
-          "start": 2557.77,
-          "end": 2644.58
-        },
-        {
-          "source": "yt-003",
-          "start": 2719.675,
-          "end": 2768.775
-        },
-        {
-          "source": "yt-003",
-          "start": 2787.375,
-          "end": 2794.85
+          "source": "jMezItmRSxg",
+          "start": 2583.41,
+          "end": 2645.93
         }
       ],
-      "reviewNote": "جمعت مواضع العودة إلى المن بالإسلام والهداية دون إدخال شرح الآيتين 16 و18 الذي يتخللها."
+      "reviewNote": "تفسير الآية 17: يمنون عليك أن أسلموا قل لا تمنوا علي إسلامكم بل الله يمن عليكم أن هداكم للإيمان"
     },
     "49:18": {
       "file": "049-الحجرات-youtube-v1/018.mp3",
-      "durationMs": 398110,
-      "bytes": 3185227,
-      "sha256": "46d5998a87223d73bfd20e2c2a2c2581cb796b1a203c6d6729be57ae941e5896",
+      "durationMs": 567620,
+      "bytes": 6811915,
+      "sha256": "03f92a5d82e0bc07f558a37ca760fc8e3ad2b8603ee2ec2e00fb034db7705610",
       "sharedAyahs": [
         "49:18"
       ],
       "sourceIntervals": [
         {
-          "source": "yt-003",
-          "start": 2644.58,
-          "end": 2719.675
+          "source": "jMezItmRSxg",
+          "start": 2645.93,
+          "end": 2831.41
         },
         {
-          "source": "yt-003",
-          "start": 2794.85,
-          "end": 2854.7
-        },
-        {
-          "source": "yt-005",
-          "start": 34.48,
-          "end": 255.475
-        },
-        {
-          "source": "yt-005",
-          "start": 343.36,
-          "end": 385.48
+          "source": "VqYhhm1NCcM",
+          "start": 3.28,
+          "end": 385.38
         }
       ],
-      "reviewNote": "جمع شرح غيب السماوات والأرض وبصير بما تعملون عبر اللقاءين، مع فصل فقرة تجدد عطاء القرآن العامة."
+      "reviewNote": "تفسير الآية 18: إن الله يعلم غيب السماوات والأرض والله بصير بما تعملون"
     }
   },
-  "extraTracks": [
-    {
-      "file": "049-الحجرات-youtube-v1/introduction-17.mp3",
-      "kind": "introduction",
-      "durationMs": 12360,
-      "bytes": 99209,
-      "sha256": "0c9ea4e879d60f61f5ffdbac789f7f285155f6289b7b87b064cdade82e9c7675",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-001",
-          "start": 0,
-          "end": 12.33
-        }
-      ],
-      "reviewNote": "افتتاح اللقاء ودعاء البداية أو التعوذ؛ محفوظ في التشغيل الكامل وخارج قائمة الموضوعات العامة."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/introduction-18.mp3",
-      "kind": "introduction",
-      "durationMs": 19700,
-      "bytes": 157961,
-      "sha256": "660c47dc7c1b17c59d29a7a76b6c743b63442683e14dfcd2dc8f0dc70515d4ae",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-002",
-          "start": 0,
-          "end": 19.675
-        }
-      ],
-      "reviewNote": "افتتاح اللقاء ودعاء البداية أو التعوذ؛ محفوظ في التشغيل الكامل وخارج قائمة الموضوعات العامة."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/introduction-19.mp3",
-      "kind": "introduction",
-      "durationMs": 28390,
-      "bytes": 227465,
-      "sha256": "13289db966fb34ae1727e06bf389366e3b73ff51f909d119278f75d75655c7ff",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "archive-011-013",
-          "start": 0,
-          "end": 28.36
-        }
-      ],
-      "reviewNote": "افتتاح اللقاء ودعاء البداية أو التعوذ؛ محفوظ في التشغيل الكامل وخارج قائمة الموضوعات العامة."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/introduction-20.mp3",
-      "kind": "introduction",
-      "durationMs": 33600,
-      "bytes": 269129,
-      "sha256": "a5f297611b2a5c5bef989aeb77b82063505c7050a01b48db1bf8ac3845da621e",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-003",
-          "start": 0,
-          "end": 33.57
-        }
-      ],
-      "reviewNote": "افتتاح اللقاء ودعاء البداية أو التعوذ؛ محفوظ في التشغيل الكامل وخارج قائمة الموضوعات العامة."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/introduction-21.mp3",
-      "kind": "introduction",
-      "durationMs": 34510,
-      "bytes": 276425,
-      "sha256": "19c92f8a971f2fd6ba26a94bb3ef797ce5dc2b7cc3653bffc34c90818d02c46c",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-005",
-          "start": 0,
-          "end": 34.48
-        }
-      ],
-      "reviewNote": "افتتاح اللقاء ودعاء البداية أو التعوذ؛ محفوظ في التشغيل الكامل وخارج قائمة الموضوعات العامة."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/closing-22.mp3",
-      "kind": "closing",
-      "durationMs": 6310,
-      "bytes": 50820,
-      "sha256": "6f91ce6f9e58e17e62fdcec51788ec7b32f795aafef8d7cc758f076dca1b5199",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-001",
-          "start": 1617.475,
-          "end": 1623.79
-        }
-      ],
-      "reviewNote": "خاتمة اللقاء أو الذيل الصوتي القصير؛ لا يعرض كموضوع عام."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/closing-23.mp3",
-      "kind": "closing",
-      "durationMs": 7680,
-      "bytes": 61764,
-      "sha256": "dfb5cc68d36052cb1959f1724d2c173015ee64a66fd746c83ddee372fce8d4d1",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-002",
-          "start": 2552.175,
-          "end": 2559.86
-        }
-      ],
-      "reviewNote": "خاتمة اللقاء أو الذيل الصوتي القصير؛ لا يعرض كموضوع عام."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/closing-24.mp3",
-      "kind": "closing",
-      "durationMs": 2690,
-      "bytes": 21828,
-      "sha256": "753cbf5013717ecbdf5fe1ba884029fd9ab99a4a748de80c1b5256bac05c05fe",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "archive-011-013",
-          "start": 2497.67,
-          "end": 2500.37
-        }
-      ],
-      "reviewNote": "خاتمة اللقاء أو الذيل الصوتي القصير؛ لا يعرض كموضوع عام."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/closing-25.mp3",
-      "kind": "closing",
-      "durationMs": 11110,
-      "bytes": 89220,
-      "sha256": "669ca7843fee207ccca9a502773ecee389ec952f44a8d5315368a113bd8269cc",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-005",
-          "start": 385.48,
-          "end": 396.6
-        }
-      ],
-      "reviewNote": "خاتمة اللقاء أو الذيل الصوتي القصير؛ لا يعرض كموضوع عام."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/other-26.mp3",
-      "kind": "other",
-      "durationMs": 110520,
-      "bytes": 884482,
-      "sha256": "c3e59065c70e1f40d16868337be7b184ed501fa59caef0cc88e148e1777e18e5",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "archive-011-013",
-          "start": 42.47,
-          "end": 152.955
-        }
-      ],
-      "reviewNote": "عنوان وصفي تحريري لفقرة عامة روجعت بسياق التفريغ؛ ليست من نص القرآن أو عنوان اللقاء الأصلي."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/other-27.mp3",
-      "kind": "other",
-      "durationMs": 404710,
-      "bytes": 3238018,
-      "sha256": "ec0ffcb0bb13856f8d5b2cf710ebb2f852fca4c2d78508dbfe19e24c2051088c",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-003",
-          "start": 593.465,
-          "end": 998.145
-        }
-      ],
-      "reviewNote": "عنوان وصفي تحريري لفقرة عامة روجعت بسياق التفريغ؛ ليست من نص القرآن أو عنوان اللقاء الأصلي."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/other-28.mp3",
-      "kind": "other",
-      "durationMs": 180530,
-      "bytes": 1444546,
-      "sha256": "8ac55052cea839ef0bad1f37b1182c338ce86bf297d9c4baca5885b77181abdc",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-003",
-          "start": 2108.27,
-          "end": 2288.775
-        }
-      ],
-      "reviewNote": "عنوان وصفي تحريري لفقرة عامة روجعت بسياق التفريغ؛ ليست من نص القرآن أو عنوان اللقاء الأصلي."
-    },
-    {
-      "file": "049-الحجرات-youtube-v1/other-29.mp3",
-      "kind": "other",
-      "durationMs": 87910,
-      "bytes": 703618,
-      "sha256": "8c56a2fc439e5498748ede92b5f8aaf49cd4117f03f8bc5a99a26bcac47d8883",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "yt-005",
-          "start": 255.475,
-          "end": 343.36
-        }
-      ],
-      "reviewNote": "عنوان وصفي تحريري لفقرة عامة روجعت بسياق التفريغ؛ ليست من نص القرآن أو عنوان اللقاء الأصلي."
-    }
-  ],
+  "extraTracks": [],
   "sourceUrl": "https://www.youtube.com/playlist?list=PL946DB972F94C447E",
-  "audioProcessing": "Supplied MP3 64 kbps mono 48 kHz preserved. Missing archive lesson encoded once to the same format. All ayah, topic and full-track cuts use MP3 stream copy; no further lossy encoding.",
-  "alignmentMethod": "Arabic word-timestamp ASR, transcript-context review, focused ordinary-decoder rechecks, shared groups and revisited passages, then nearby low-energy pause adjustment within 180 ms. Human full listening review pending.",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
   "topics": [
     {
-      "id": "hujurat-structure",
-      "title": "ترابط آداب سورة الحجرات وأحوال المخاطبين",
-      "file": "049-الحجرات-youtube-v1/other-26.mp3",
+      "id": "hujurat-adab-with-prophet",
+      "title": "أدب التعامل مع رسول الله صلى الله عليه وسلم وخفض الصوت وتوقيره ومقام النبوة",
+      "file": "049-الحجرات-youtube-v1/001.mp3",
       "startMs": 0,
-      "endMs": 110520
+      "endMs": 563530
     },
     {
-      "id": "cloning-and-family",
-      "title": "الاستنساخ وخصوصية الأسرة الإنسانية",
-      "file": "049-الحجرات-youtube-v1/other-27.mp3",
+      "id": "hujurat-verifying-news",
+      "title": "وجوب التثبت والتبين من أخبار الفساق وقواعد التعامل مع الشائعات في المجتمع",
+      "file": "049-الحجرات-youtube-v1/006.mp3",
       "startMs": 0,
-      "endMs": 404710
+      "endMs": 972879
     },
     {
-      "id": "zakariya-maryam-yahya",
-      "title": "دعاء زكريا ورزق مريم وتسمية يحيى",
-      "file": "049-الحجرات-youtube-v1/other-28.mp3",
+      "id": "hujurat-brotherhood-and-reconciliation",
+      "title": "إنما المؤمنون إخوة: قواعد الإصلاح بين المتخاصمين وقتال الفئة الباغية بالعدل",
+      "file": "049-الحجرات-youtube-v1/009.mp3",
       "startMs": 0,
-      "endMs": 180530
+      "endMs": 742870
     },
     {
-      "id": "quran-renewed-understanding",
-      "title": "تجدد عطاء القرآن وتعدد أفهام قارئيه",
-      "file": "049-الحجرات-youtube-v1/other-29.mp3",
+      "id": "hujurat-prohibitions-mockery-and-names",
+      "title": "النهي عن السخرية واللمز والتنابز بالألقاب وحرمة أعراض المؤمنين",
+      "file": "049-الحجرات-youtube-v1/011.mp3",
       "startMs": 0,
-      "endMs": 87910
+      "endMs": 1178860
+    },
+    {
+      "id": "hujurat-suspicion-spying-backbiting",
+      "title": "اجتنبوا كثيرا من الظن ولا تجسسوا ولا يغتب بعضكم بعضا: حفظ حرمة البيوت والقلوب",
+      "file": "049-الحجرات-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 1171489
+    },
+    {
+      "id": "hujurat-human-equality-and-taqwa",
+      "title": "وحدة الأصل الإنساني وميزان التفاضل بالتقوى: إنا خلقناكم من ذكر وأنثى",
+      "file": "049-الحجرات-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 1513890
+    },
+    {
+      "id": "hujurat-islam-versus-iman",
+      "title": "الفرق الدقيق بين الإسلام والإيمان ومنة الله بالهداية",
+      "file": "049-الحجرات-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 383690
     }
   ],
   "fullSurah": {
     "mode": "reused-clips",
     "sourceOrder": [
-      "yt-001",
-      "yt-002",
-      "archive-011-013",
-      "yt-003",
-      "yt-005"
+      "-pIWoOVxjPE",
+      "GezMFITe8_w",
+      "v741vFe6nw0",
+      "jMezItmRSxg",
+      "VqYhhm1NCcM"
     ],
     "includesIntroductionsAndRecaps": true,
     "tracks": [
       {
-        "file": "049-الحجرات-youtube-v1/introduction-17.mp3",
-        "startMs": 0,
-        "endMs": 12360,
-        "durationMs": 12360,
-        "recordingDurationMs": 12360,
-        "bytes": 99209,
-        "sha256": "0c9ea4e879d60f61f5ffdbac789f7f285155f6289b7b87b064cdade82e9c7675",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-001",
-            "start": 0,
-            "end": 12.33
-          }
-        ]
-      },
-      {
         "file": "049-الحجرات-youtube-v1/001.mp3",
         "startMs": 0,
-        "endMs": 561910,
-        "durationMs": 561910,
-        "recordingDurationMs": 561910,
-        "bytes": 4495625,
-        "sha256": "e35191bf1cae6fa36fe85ed881dc0e9188e99597e9799acb867964ca4ef3bb9c",
+        "endMs": 563540,
+        "durationMs": 563540,
+        "recordingDurationMs": 563540,
+        "bytes": 6763214,
+        "sha256": "751e7ca32579610d71a36efffcae768c8fa82aa2118b9e81ce601974ca3c97b8",
         "sharedAyahs": [
           "49:1"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-001",
-            "start": 12.33,
-            "end": 574.205
+            "source": "-pIWoOVxjPE",
+            "start": 10.67,
+            "end": 574.2
           }
         ]
       },
@@ -729,35 +473,35 @@
         "endMs": 274580,
         "durationMs": 274580,
         "recordingDurationMs": 274580,
-        "bytes": 2197001,
-        "sha256": "56364cc7a52542da636589559eb2d0dd77a8647025d06585417d288810492e80",
+        "bytes": 3295694,
+        "sha256": "bde909a2f2c83a77813ffd84647b9e5df6d11725448326835230134396b59f73",
         "sharedAyahs": [
           "49:2"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-001",
-            "start": 574.205,
-            "end": 848.765
+            "source": "-pIWoOVxjPE",
+            "start": 574.2,
+            "end": 848.76
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/003.mp3",
         "startMs": 0,
-        "endMs": 327960,
-        "durationMs": 327960,
-        "recordingDurationMs": 327960,
-        "bytes": 2624009,
-        "sha256": "734d6d5b4e5bc1af071a4b4341456dd39b2ea9477aae8d98282d77dee834e665",
+        "endMs": 327980,
+        "durationMs": 327980,
+        "recordingDurationMs": 327980,
+        "bytes": 3936494,
+        "sha256": "ee3df2e22daef3d1e5227d7a2eb43bd0a27210d6fd2534c4a16feb56cfabb3d4",
         "sharedAyahs": [
           "49:3"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-001",
-            "start": 848.765,
-            "end": 1176.715
+            "source": "-pIWoOVxjPE",
+            "start": 848.76,
+            "end": 1176.71
           }
         ]
       },
@@ -767,16 +511,16 @@
         "endMs": 159340,
         "durationMs": 159340,
         "recordingDurationMs": 159340,
-        "bytes": 1275021,
-        "sha256": "e90ba05278632982477dc091df3472f4ec307dc25ef8141a2ca7a762624d634e",
+        "bytes": 1912722,
+        "sha256": "1d47041437d21f8d3cbb158d0ab8f622c298793f9ab07f14c243612760ccff42",
         "sharedAyahs": [
           "49:4",
           "49:5"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-001",
-            "start": 1176.715,
+            "source": "-pIWoOVxjPE",
+            "start": 1176.71,
             "end": 1336.01
           }
         ]
@@ -784,741 +528,310 @@
       {
         "file": "049-الحجرات-youtube-v1/006.mp3",
         "startMs": 0,
-        "endMs": 281461,
-        "durationMs": 281461,
-        "recordingDurationMs": 768500,
-        "bytes": 6148361,
-        "sha256": "01bc6208e3f12dc3af0a930d00887ac2ed41972774efb369a777b6ed2b1c674e",
+        "endMs": 287723,
+        "durationMs": 287723,
+        "recordingDurationMs": 972890,
+        "bytes": 11675081,
+        "sha256": "dd5cd60ea77d3c5ce2d1c7c0a0b128f57e649cf7f7e1a17ef1ef1e213ff9d0b0",
         "sharedAyahs": [
           "49:6"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-001",
+            "source": "-pIWoOVxjPE",
             "start": 1336.01,
-            "end": 1617.475
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/closing-22.mp3",
-        "startMs": 0,
-        "endMs": 6310,
-        "durationMs": 6310,
-        "recordingDurationMs": 6310,
-        "bytes": 50820,
-        "sha256": "6f91ce6f9e58e17e62fdcec51788ec7b32f795aafef8d7cc758f076dca1b5199",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-001",
-            "start": 1617.475,
-            "end": 1623.79
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/introduction-18.mp3",
-        "startMs": 0,
-        "endMs": 19700,
-        "durationMs": 19700,
-        "recordingDurationMs": 19700,
-        "bytes": 157961,
-        "sha256": "660c47dc7c1b17c59d29a7a76b6c743b63442683e14dfcd2dc8f0dc70515d4ae",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-002",
-            "start": 0,
-            "end": 19.675
+            "end": 1623.84
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/006.mp3",
-        "startMs": 281461,
-        "endMs": 768500,
-        "durationMs": 487039,
-        "recordingDurationMs": 768500,
-        "bytes": 6148361,
-        "sha256": "01bc6208e3f12dc3af0a930d00887ac2ed41972774efb369a777b6ed2b1c674e",
+        "startMs": 287723,
+        "endMs": 972890,
+        "durationMs": 685167,
+        "recordingDurationMs": 972890,
+        "bytes": 11675081,
+        "sha256": "dd5cd60ea77d3c5ce2d1c7c0a0b128f57e649cf7f7e1a17ef1ef1e213ff9d0b0",
         "sharedAyahs": [
           "49:6"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-002",
-            "start": 19.675,
-            "end": 506.68
+            "source": "GezMFITe8_w",
+            "start": 2.96,
+            "end": 688.01
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/007.mp3",
         "startMs": 0,
-        "endMs": 560520,
-        "durationMs": 560520,
-        "recordingDurationMs": 560520,
-        "bytes": 4484489,
-        "sha256": "eaf85bb6c9cff76d11c4815909f063afa61544cca19ec36e8aeb3c31e7375595",
+        "endMs": 379580,
+        "durationMs": 379580,
+        "recordingDurationMs": 379580,
+        "bytes": 4555694,
+        "sha256": "800510dec30acca3dc7d9cf655e27af8a419833f6cf2653d18daab26992e5263",
         "sharedAyahs": [
           "49:7"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-002",
-            "start": 506.68,
-            "end": 1067.18
+            "source": "GezMFITe8_w",
+            "start": 688.01,
+            "end": 1067.58
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/008.mp3",
         "startMs": 0,
-        "endMs": 198020,
-        "durationMs": 198020,
-        "recordingDurationMs": 198020,
-        "bytes": 1584521,
-        "sha256": "5bb3de48c240e28122593355efee2761bbebf8b692e5a8a51be34117ddbaa143",
+        "endMs": 198000,
+        "durationMs": 198000,
+        "recordingDurationMs": 198000,
+        "bytes": 2376686,
+        "sha256": "5a7c5b57d52254bffae5619be70d875cfb6efad5372f3aa4e4b465e6ba69147f",
         "sharedAyahs": [
           "49:8"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-002",
-            "start": 1067.18,
-            "end": 1265.18
+            "source": "GezMFITe8_w",
+            "start": 1067.58,
+            "end": 1265.56
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/009.mp3",
         "startMs": 0,
-        "endMs": 526220,
-        "durationMs": 526220,
-        "recordingDurationMs": 526220,
-        "bytes": 4210121,
-        "sha256": "ea35a389a91a7ce9bff22f54fbf545be4c7eb516f1db1e5d14bbed9587848f71",
+        "endMs": 742900,
+        "durationMs": 742900,
+        "recordingDurationMs": 742900,
+        "bytes": 8915438,
+        "sha256": "5bf680511d3fc0ddcc6b6367fe4f11947210c8b096775a13b17136c5fdd4d581",
         "sharedAyahs": [
           "49:9"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-002",
-            "start": 1265.18,
-            "end": 1791.375
+            "source": "GezMFITe8_w",
+            "start": 1265.56,
+            "end": 2008.43
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/010.mp3",
         "startMs": 0,
-        "endMs": 287520,
-        "durationMs": 287520,
-        "recordingDurationMs": 287520,
-        "bytes": 2300491,
-        "sha256": "bd56fd66bdee3cfb9eba7c596e1c78dd376139951cae4c7bc2aa36ed4f84c61a",
+        "endMs": 551470,
+        "durationMs": 551470,
+        "recordingDurationMs": 551470,
+        "bytes": 6618352,
+        "sha256": "74cafa5fc2de67dbfb11f51908e1d20d059a4718ca464b1281edf616f01504e1",
         "sharedAyahs": [
           "49:10"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-002",
-            "start": 1791.375,
-            "end": 2078.875
+            "source": "GezMFITe8_w",
+            "start": 2008.43,
+            "end": 2559.91
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/011.mp3",
         "startMs": 0,
-        "endMs": 473317,
-        "durationMs": 473317,
-        "recordingDurationMs": 1675540,
-        "bytes": 13404619,
-        "sha256": "1a67792a8e54d82187902f23677581b90f9e72c7c25268fb1876cdf7c6337c84",
+        "endMs": 1178880,
+        "durationMs": 1178880,
+        "recordingDurationMs": 1178880,
+        "bytes": 14147248,
+        "sha256": "3e2b1bb3267f5e5199fc574b3ef93b5007893870c6a1d29498020271c2cfe72b",
         "sharedAyahs": [
           "49:11"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-002",
-            "start": 2078.875,
-            "end": 2552.175
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/closing-23.mp3",
-        "startMs": 0,
-        "endMs": 7680,
-        "durationMs": 7680,
-        "recordingDurationMs": 7680,
-        "bytes": 61764,
-        "sha256": "dfb5cc68d36052cb1959f1724d2c173015ee64a66fd746c83ddee372fce8d4d1",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-002",
-            "start": 2552.175,
-            "end": 2559.86
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/introduction-19.mp3",
-        "startMs": 0,
-        "endMs": 28390,
-        "durationMs": 28390,
-        "recordingDurationMs": 28390,
-        "bytes": 227465,
-        "sha256": "13289db966fb34ae1727e06bf389366e3b73ff51f909d119278f75d75655c7ff",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "archive-011-013",
-            "start": 0,
-            "end": 28.36
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/011.mp3",
-        "startMs": 473317,
-        "endMs": 487453,
-        "durationMs": 14136,
-        "recordingDurationMs": 1675540,
-        "bytes": 13404619,
-        "sha256": "1a67792a8e54d82187902f23677581b90f9e72c7c25268fb1876cdf7c6337c84",
-        "sharedAyahs": [
-          "49:11"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "archive-011-013",
-            "start": 28.36,
-            "end": 42.47
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/other-26.mp3",
-        "startMs": 0,
-        "endMs": 110520,
-        "durationMs": 110520,
-        "recordingDurationMs": 110520,
-        "bytes": 884482,
-        "sha256": "c3e59065c70e1f40d16868337be7b184ed501fa59caef0cc88e148e1777e18e5",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "archive-011-013",
-            "start": 42.47,
-            "end": 152.955
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/011.mp3",
-        "startMs": 487453,
-        "endMs": 1675540,
-        "durationMs": 1188087,
-        "recordingDurationMs": 1675540,
-        "bytes": 13404619,
-        "sha256": "1a67792a8e54d82187902f23677581b90f9e72c7c25268fb1876cdf7c6337c84",
-        "sharedAyahs": [
-          "49:11"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "archive-011-013",
-            "start": 152.955,
-            "end": 1341.015
+            "source": "v741vFe6nw0",
+            "start": 1.14,
+            "end": 1180.0
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/012.mp3",
         "startMs": 0,
-        "endMs": 948980,
-        "durationMs": 948980,
-        "recordingDurationMs": 948980,
-        "bytes": 7592203,
-        "sha256": "8c63250d8ff5a46947d1d3216e8281d6ed5f031042997037ce01a073054dc52c",
+        "endMs": 1171510,
+        "durationMs": 1171510,
+        "recordingDurationMs": 1171510,
+        "bytes": 14058832,
+        "sha256": "32172c8d8971c718ae730098db2a25a458ade768a833c397f9993f78c07a5618",
         "sharedAyahs": [
           "49:12"
         ],
         "sourceIntervals": [
           {
-            "source": "archive-011-013",
-            "start": 1341.015,
-            "end": 2289.975
+            "source": "v741vFe6nw0",
+            "start": 1180.0,
+            "end": 2351.49
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/013.mp3",
         "startMs": 0,
-        "endMs": 207709,
-        "durationMs": 207709,
-        "recordingDurationMs": 1062070,
-        "bytes": 8496907,
-        "sha256": "b0ef0a27748700ef916791a873cdce9bbcf2f2b6f1e16898bc1b918129364319",
+        "endMs": 148835,
+        "durationMs": 148835,
+        "recordingDurationMs": 1513900,
+        "bytes": 18167179,
+        "sha256": "b8d2bf16e522e744d6eceb54164498ff8d50fa4676659e0e306fd4988babe44f",
         "sharedAyahs": [
           "49:13"
         ],
         "sourceIntervals": [
           {
-            "source": "archive-011-013",
-            "start": 2289.975,
-            "end": 2497.67
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/closing-24.mp3",
-        "startMs": 0,
-        "endMs": 2690,
-        "durationMs": 2690,
-        "recordingDurationMs": 2690,
-        "bytes": 21828,
-        "sha256": "753cbf5013717ecbdf5fe1ba884029fd9ab99a4a748de80c1b5256bac05c05fe",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "archive-011-013",
-            "start": 2497.67,
-            "end": 2500.37
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/introduction-20.mp3",
-        "startMs": 0,
-        "endMs": 33600,
-        "durationMs": 33600,
-        "recordingDurationMs": 33600,
-        "bytes": 269129,
-        "sha256": "a5f297611b2a5c5bef989aeb77b82063505c7050a01b48db1bf8ac3845da621e",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 0,
-            "end": 33.57
+            "source": "v741vFe6nw0",
+            "start": 2351.49,
+            "end": 2500.42
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/013.mp3",
-        "startMs": 207709,
-        "endMs": 767629,
-        "durationMs": 559920,
-        "recordingDurationMs": 1062070,
-        "bytes": 8496907,
-        "sha256": "b0ef0a27748700ef916791a873cdce9bbcf2f2b6f1e16898bc1b918129364319",
+        "startMs": 148835,
+        "endMs": 1513900,
+        "durationMs": 1365065,
+        "recordingDurationMs": 1513900,
+        "bytes": 18167179,
+        "sha256": "b8d2bf16e522e744d6eceb54164498ff8d50fa4676659e0e306fd4988babe44f",
         "sharedAyahs": [
           "49:13"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-003",
-            "start": 33.57,
-            "end": 593.465
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/other-27.mp3",
-        "startMs": 0,
-        "endMs": 404710,
-        "durationMs": 404710,
-        "recordingDurationMs": 404710,
-        "bytes": 3238018,
-        "sha256": "ec0ffcb0bb13856f8d5b2cf710ebb2f852fca4c2d78508dbfe19e24c2051088c",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 593.465,
-            "end": 998.145
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/013.mp3",
-        "startMs": 767629,
-        "endMs": 1062070,
-        "durationMs": 294441,
-        "recordingDurationMs": 1062070,
-        "bytes": 8496907,
-        "sha256": "b0ef0a27748700ef916791a873cdce9bbcf2f2b6f1e16898bc1b918129364319",
-        "sharedAyahs": [
-          "49:13"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 998.145,
-            "end": 1292.55
+            "source": "jMezItmRSxg",
+            "start": 30.4,
+            "end": 1395.36
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/014.mp3",
         "startMs": 0,
-        "endMs": 486133,
-        "durationMs": 486133,
-        "recordingDurationMs": 504770,
-        "bytes": 4038475,
-        "sha256": "d0456c90f0fa6d8418f3e9f18052283cadb044a724e32a9643d6edb257d87a18",
+        "endMs": 383740,
+        "durationMs": 383740,
+        "recordingDurationMs": 383740,
+        "bytes": 4605520,
+        "sha256": "476d7d67f4c65b2dfe9773cf44804c594f768c2e121876a5536bc300c7458282",
         "sharedAyahs": [
           "49:14"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-003",
-            "start": 1292.55,
-            "end": 1778.68
+            "source": "jMezItmRSxg",
+            "start": 1395.36,
+            "end": 1779.05
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/015.mp3",
         "startMs": 0,
-        "endMs": 329605,
-        "durationMs": 329605,
-        "recordingDurationMs": 356640,
-        "bytes": 2853451,
-        "sha256": "1f883c24ef6b3dcd02b0c04e8eef0aea24551e6f120ab37eb2360d69b3791536",
+        "endMs": 723100,
+        "durationMs": 723100,
+        "recordingDurationMs": 723100,
+        "bytes": 8677840,
+        "sha256": "9c66c7fef683e97110c3fbe9975f58ff53eaa53f7080b7a55398ccbb2d4d0f1c",
         "sharedAyahs": [
           "49:15"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-003",
-            "start": 1778.68,
-            "end": 2108.27
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/other-28.mp3",
-        "startMs": 0,
-        "endMs": 180530,
-        "durationMs": 180530,
-        "recordingDurationMs": 180530,
-        "bytes": 1444546,
-        "sha256": "8ac55052cea839ef0bad1f37b1182c338ce86bf297d9c4baca5885b77181abdc",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 2108.27,
-            "end": 2288.775
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/015.mp3",
-        "startMs": 329605,
-        "endMs": 356640,
-        "durationMs": 27035,
-        "recordingDurationMs": 356640,
-        "bytes": 2853451,
-        "sha256": "1f883c24ef6b3dcd02b0c04e8eef0aea24551e6f120ab37eb2360d69b3791536",
-        "sharedAyahs": [
-          "49:15"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 2288.775,
-            "end": 2315.775
+            "source": "jMezItmRSxg",
+            "start": 1779.05,
+            "end": 2502.13
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/016.mp3",
         "startMs": 0,
-        "endMs": 76861,
-        "durationMs": 76861,
-        "recordingDurationMs": 133220,
-        "bytes": 1066123,
-        "sha256": "7dd4e706c073cc9367e84f54849524beca68161b5acfe4b9772cac5ea3fb02e0",
+        "endMs": 81310,
+        "durationMs": 81310,
+        "recordingDurationMs": 81310,
+        "bytes": 976432,
+        "sha256": "30acbb9b05ad7d2ad58db35defba2b60dd996baf5722b9f7ec54c12307a80413",
         "sharedAyahs": [
           "49:16"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-003",
-            "start": 2315.775,
-            "end": 2392.625
+            "source": "jMezItmRSxg",
+            "start": 2502.13,
+            "end": 2583.41
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/017.mp3",
         "startMs": 0,
-        "endMs": 108829,
-        "durationMs": 108829,
-        "recordingDurationMs": 252310,
-        "bytes": 2018827,
-        "sha256": "5e3de21312b7259c6b2be8189661860663510e7741225490e2a67fb24719542d",
+        "endMs": 62540,
+        "durationMs": 62540,
+        "recordingDurationMs": 62540,
+        "bytes": 751216,
+        "sha256": "7c642a42dba133a4806ef46be0a228028c9c79b9ef2294d5ac11865acbec1d43",
         "sharedAyahs": [
           "49:17"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-003",
-            "start": 2392.625,
-            "end": 2501.43
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/016.mp3",
-        "startMs": 76861,
-        "endMs": 133220,
-        "durationMs": 56359,
-        "recordingDurationMs": 133220,
-        "bytes": 1066123,
-        "sha256": "7dd4e706c073cc9367e84f54849524beca68161b5acfe4b9772cac5ea3fb02e0",
-        "sharedAyahs": [
-          "49:16"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 2501.43,
-            "end": 2557.77
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/017.mp3",
-        "startMs": 108829,
-        "endMs": 195661,
-        "durationMs": 86832,
-        "recordingDurationMs": 252310,
-        "bytes": 2018827,
-        "sha256": "5e3de21312b7259c6b2be8189661860663510e7741225490e2a67fb24719542d",
-        "sharedAyahs": [
-          "49:17"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 2557.77,
-            "end": 2644.58
+            "source": "jMezItmRSxg",
+            "start": 2583.41,
+            "end": 2645.93
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/018.mp3",
         "startMs": 0,
-        "endMs": 75035,
-        "durationMs": 75035,
-        "recordingDurationMs": 398110,
-        "bytes": 3185227,
-        "sha256": "46d5998a87223d73bfd20e2c2a2c2581cb796b1a203c6d6729be57ae941e5896",
+        "endMs": 185485,
+        "durationMs": 185485,
+        "recordingDurationMs": 567620,
+        "bytes": 6811915,
+        "sha256": "03f92a5d82e0bc07f558a37ca760fc8e3ad2b8603ee2ec2e00fb034db7705610",
         "sharedAyahs": [
           "49:18"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-003",
-            "start": 2644.58,
-            "end": 2719.675
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/017.mp3",
-        "startMs": 195661,
-        "endMs": 244789,
-        "durationMs": 49128,
-        "recordingDurationMs": 252310,
-        "bytes": 2018827,
-        "sha256": "5e3de21312b7259c6b2be8189661860663510e7741225490e2a67fb24719542d",
-        "sharedAyahs": [
-          "49:17"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 2719.675,
-            "end": 2768.775
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/014.mp3",
-        "startMs": 486133,
-        "endMs": 504770,
-        "durationMs": 18637,
-        "recordingDurationMs": 504770,
-        "bytes": 4038475,
-        "sha256": "d0456c90f0fa6d8418f3e9f18052283cadb044a724e32a9643d6edb257d87a18",
-        "sharedAyahs": [
-          "49:14"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 2768.775,
-            "end": 2787.375
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/017.mp3",
-        "startMs": 244789,
-        "endMs": 252310,
-        "durationMs": 7521,
-        "recordingDurationMs": 252310,
-        "bytes": 2018827,
-        "sha256": "5e3de21312b7259c6b2be8189661860663510e7741225490e2a67fb24719542d",
-        "sharedAyahs": [
-          "49:17"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-003",
-            "start": 2787.375,
-            "end": 2794.85
+            "source": "jMezItmRSxg",
+            "start": 2645.93,
+            "end": 2831.41
           }
         ]
       },
       {
         "file": "049-الحجرات-youtube-v1/018.mp3",
-        "startMs": 75035,
-        "endMs": 134867,
-        "durationMs": 59832,
-        "recordingDurationMs": 398110,
-        "bytes": 3185227,
-        "sha256": "46d5998a87223d73bfd20e2c2a2c2581cb796b1a203c6d6729be57ae941e5896",
+        "startMs": 185485,
+        "endMs": 567620,
+        "durationMs": 382135,
+        "recordingDurationMs": 567620,
+        "bytes": 6811915,
+        "sha256": "03f92a5d82e0bc07f558a37ca760fc8e3ad2b8603ee2ec2e00fb034db7705610",
         "sharedAyahs": [
           "49:18"
         ],
         "sourceIntervals": [
           {
-            "source": "yt-003",
-            "start": 2794.85,
-            "end": 2854.7
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/introduction-21.mp3",
-        "startMs": 0,
-        "endMs": 34510,
-        "durationMs": 34510,
-        "recordingDurationMs": 34510,
-        "bytes": 276425,
-        "sha256": "19c92f8a971f2fd6ba26a94bb3ef797ce5dc2b7cc3653bffc34c90818d02c46c",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-005",
-            "start": 0,
-            "end": 34.48
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/018.mp3",
-        "startMs": 134867,
-        "endMs": 355883,
-        "durationMs": 221016,
-        "recordingDurationMs": 398110,
-        "bytes": 3185227,
-        "sha256": "46d5998a87223d73bfd20e2c2a2c2581cb796b1a203c6d6729be57ae941e5896",
-        "sharedAyahs": [
-          "49:18"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-005",
-            "start": 34.48,
-            "end": 255.475
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/other-29.mp3",
-        "startMs": 0,
-        "endMs": 87910,
-        "durationMs": 87910,
-        "recordingDurationMs": 87910,
-        "bytes": 703618,
-        "sha256": "8c56a2fc439e5498748ede92b5f8aaf49cd4117f03f8bc5a99a26bcac47d8883",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-005",
-            "start": 255.475,
-            "end": 343.36
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/018.mp3",
-        "startMs": 355883,
-        "endMs": 398110,
-        "durationMs": 42227,
-        "recordingDurationMs": 398110,
-        "bytes": 3185227,
-        "sha256": "46d5998a87223d73bfd20e2c2a2c2581cb796b1a203c6d6729be57ae941e5896",
-        "sharedAyahs": [
-          "49:18"
-        ],
-        "sourceIntervals": [
-          {
-            "source": "yt-005",
-            "start": 343.36,
-            "end": 385.48
-          }
-        ]
-      },
-      {
-        "file": "049-الحجرات-youtube-v1/closing-25.mp3",
-        "startMs": 0,
-        "endMs": 11110,
-        "durationMs": 11110,
-        "recordingDurationMs": 11110,
-        "bytes": 89220,
-        "sha256": "669ca7843fee207ccca9a502773ecee389ec952f44a8d5315368a113bd8269cc",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
-            "source": "yt-005",
-            "start": 385.48,
-            "end": 396.6
+            "source": "VqYhhm1NCcM",
+            "start": 3.28,
+            "end": 385.38
           }
         ]
       }
     ],
-    "durationMs": 9936230,
+    "durationMs": 9852880,
     "additionalAudioBytes": 0
   },
-  "topicTitles": "Editorial descriptive titles; not original lecture titles or Quran text.",
-  "sourceExclusions": [
-    {
-      "source": "yt-004",
-      "start": 0,
-      "end": 2854.54,
-      "reason": "Duplicate of yt-003 with a 4.44-second opening offset; six waveform windows correlate above 0.99 and transcript context agrees."
-    }
-  ],
-  "supplementarySource": {
-    "sourceUrl": "https://www.youtube.com/watch?v=v741vFe6nw0",
-    "title": "تفسير سورة الحجرات - الحلقة 3 - الشعراوي",
-    "channel": "sharawe",
-    "channelId": "UC8TASWHq6yxJsubrOUyfG-w",
-    "reason": "Supplied official playlist repeats the 13-18 lesson and omits the 11-13 lesson.",
-    "discoveryUrl": "https://www.sharawe.com/mobile/play-3671.html",
-    "audioProcessing": "Downloaded best available archive audio; encoded once to MP3 64 kbps mono 48 kHz to match supplied format. Original retained locally."
-  },
-  "humanFullListeningComplete": false
+  "publicationStatus": "published"
 }
