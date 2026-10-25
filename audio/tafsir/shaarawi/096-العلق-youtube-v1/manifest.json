@@ -1,0 +1,583 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "قناة الشيخ الشعراوي الرسمية (يوتيوب)",
+  "surah": 96,
+  "surahName": "العلق",
+  "ayahCount": 19,
+  "reviewStatus": "complete",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 19,
+    "mappedAyahCount": 19,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "44-eZN3VcEI": {
+      "durationSeconds": 3996.67,
+      "bytes": 47960396,
+      "sha256": "c7c0248aa78c8764ae1ad6a22262e3eb7bd18c2830b9121f32d503b634782f90",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-019_44-eZN3VcEI.mp3",
+      "url": "https://www.youtube.com/watch?v=44-eZN3VcEI"
+    }
+  },
+  "ayahs": {
+    "96:1": {
+      "file": "096-العلق-youtube-v1/001.mp3",
+      "durationMs": 1348030,
+      "bytes": 16176809,
+      "sha256": "f572cf6bed59af53216e3ed706023e8c6aef163dac72bc035d8b0bf873593289",
+      "sharedAyahs": [
+        "96:1",
+        "96:2",
+        "96:3",
+        "96:4",
+        "96:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 0.0,
+          "end": 1348.0
+        }
+      ],
+      "reviewNote": "تفسير اقرأ باسم ربك الذي خلق خلق الإنسان من علق اقرأ وربك الأكرم الذي علم بالقلم علم الإنسان ما لم يعلم (الآيات 1-5)"
+    },
+    "96:2": {
+      "file": "096-العلق-youtube-v1/001.mp3",
+      "durationMs": 1348030,
+      "bytes": 16176809,
+      "sha256": "f572cf6bed59af53216e3ed706023e8c6aef163dac72bc035d8b0bf873593289",
+      "sharedAyahs": [
+        "96:1",
+        "96:2",
+        "96:3",
+        "96:4",
+        "96:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 0.0,
+          "end": 1348.0
+        }
+      ],
+      "reviewNote": "تفسير اقرأ باسم ربك الذي خلق خلق الإنسان من علق اقرأ وربك الأكرم الذي علم بالقلم علم الإنسان ما لم يعلم (الآيات 1-5)"
+    },
+    "96:3": {
+      "file": "096-العلق-youtube-v1/001.mp3",
+      "durationMs": 1348030,
+      "bytes": 16176809,
+      "sha256": "f572cf6bed59af53216e3ed706023e8c6aef163dac72bc035d8b0bf873593289",
+      "sharedAyahs": [
+        "96:1",
+        "96:2",
+        "96:3",
+        "96:4",
+        "96:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 0.0,
+          "end": 1348.0
+        }
+      ],
+      "reviewNote": "تفسير اقرأ باسم ربك الذي خلق خلق الإنسان من علق اقرأ وربك الأكرم الذي علم بالقلم علم الإنسان ما لم يعلم (الآيات 1-5)"
+    },
+    "96:4": {
+      "file": "096-العلق-youtube-v1/001.mp3",
+      "durationMs": 1348030,
+      "bytes": 16176809,
+      "sha256": "f572cf6bed59af53216e3ed706023e8c6aef163dac72bc035d8b0bf873593289",
+      "sharedAyahs": [
+        "96:1",
+        "96:2",
+        "96:3",
+        "96:4",
+        "96:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 0.0,
+          "end": 1348.0
+        }
+      ],
+      "reviewNote": "تفسير اقرأ باسم ربك الذي خلق خلق الإنسان من علق اقرأ وربك الأكرم الذي علم بالقلم علم الإنسان ما لم يعلم (الآيات 1-5)"
+    },
+    "96:5": {
+      "file": "096-العلق-youtube-v1/001.mp3",
+      "durationMs": 1348030,
+      "bytes": 16176809,
+      "sha256": "f572cf6bed59af53216e3ed706023e8c6aef163dac72bc035d8b0bf873593289",
+      "sharedAyahs": [
+        "96:1",
+        "96:2",
+        "96:3",
+        "96:4",
+        "96:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 0.0,
+          "end": 1348.0
+        }
+      ],
+      "reviewNote": "تفسير اقرأ باسم ربك الذي خلق خلق الإنسان من علق اقرأ وربك الأكرم الذي علم بالقلم علم الإنسان ما لم يعلم (الآيات 1-5)"
+    },
+    "96:6": {
+      "file": "096-العلق-youtube-v1/006.mp3",
+      "durationMs": 1019620,
+      "bytes": 12235817,
+      "sha256": "e4f79a2a86345bffc1e1abe150536fc574381b908c47d90e0ad34907c57281d1",
+      "sharedAyahs": [
+        "96:6",
+        "96:7",
+        "96:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 1348.0,
+          "end": 2367.6
+        }
+      ],
+      "reviewNote": "تفسير كلا إن الإنسان ليطغى أن رآه استغنى إن إلى ربك الرجعى (الآيات 6-8)"
+    },
+    "96:7": {
+      "file": "096-العلق-youtube-v1/006.mp3",
+      "durationMs": 1019620,
+      "bytes": 12235817,
+      "sha256": "e4f79a2a86345bffc1e1abe150536fc574381b908c47d90e0ad34907c57281d1",
+      "sharedAyahs": [
+        "96:6",
+        "96:7",
+        "96:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 1348.0,
+          "end": 2367.6
+        }
+      ],
+      "reviewNote": "تفسير كلا إن الإنسان ليطغى أن رآه استغنى إن إلى ربك الرجعى (الآيات 6-8)"
+    },
+    "96:8": {
+      "file": "096-العلق-youtube-v1/006.mp3",
+      "durationMs": 1019620,
+      "bytes": 12235817,
+      "sha256": "e4f79a2a86345bffc1e1abe150536fc574381b908c47d90e0ad34907c57281d1",
+      "sharedAyahs": [
+        "96:6",
+        "96:7",
+        "96:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 1348.0,
+          "end": 2367.6
+        }
+      ],
+      "reviewNote": "تفسير كلا إن الإنسان ليطغى أن رآه استغنى إن إلى ربك الرجعى (الآيات 6-8)"
+    },
+    "96:9": {
+      "file": "096-العلق-youtube-v1/009.mp3",
+      "durationMs": 535420,
+      "bytes": 6425418,
+      "sha256": "3374528d35afa07f7e30513fde17052e4300d41478e21381b87c4b4c66cd2e22",
+      "sharedAyahs": [
+        "96:9",
+        "96:10",
+        "96:11",
+        "96:12",
+        "96:13",
+        "96:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2367.6,
+          "end": 2902.98
+        }
+      ],
+      "reviewNote": "تفسير أرأيت الذي ينهى عبدا إذا صلى أرأيت إن كان على الهدى أو أمر بالتقوى أرأيت إن كذب وتولى ألم يعلم بأن الله يرى (الآيات 9-14)"
+    },
+    "96:10": {
+      "file": "096-العلق-youtube-v1/009.mp3",
+      "durationMs": 535420,
+      "bytes": 6425418,
+      "sha256": "3374528d35afa07f7e30513fde17052e4300d41478e21381b87c4b4c66cd2e22",
+      "sharedAyahs": [
+        "96:9",
+        "96:10",
+        "96:11",
+        "96:12",
+        "96:13",
+        "96:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2367.6,
+          "end": 2902.98
+        }
+      ],
+      "reviewNote": "تفسير أرأيت الذي ينهى عبدا إذا صلى أرأيت إن كان على الهدى أو أمر بالتقوى أرأيت إن كذب وتولى ألم يعلم بأن الله يرى (الآيات 9-14)"
+    },
+    "96:11": {
+      "file": "096-العلق-youtube-v1/009.mp3",
+      "durationMs": 535420,
+      "bytes": 6425418,
+      "sha256": "3374528d35afa07f7e30513fde17052e4300d41478e21381b87c4b4c66cd2e22",
+      "sharedAyahs": [
+        "96:9",
+        "96:10",
+        "96:11",
+        "96:12",
+        "96:13",
+        "96:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2367.6,
+          "end": 2902.98
+        }
+      ],
+      "reviewNote": "تفسير أرأيت الذي ينهى عبدا إذا صلى أرأيت إن كان على الهدى أو أمر بالتقوى أرأيت إن كذب وتولى ألم يعلم بأن الله يرى (الآيات 9-14)"
+    },
+    "96:12": {
+      "file": "096-العلق-youtube-v1/009.mp3",
+      "durationMs": 535420,
+      "bytes": 6425418,
+      "sha256": "3374528d35afa07f7e30513fde17052e4300d41478e21381b87c4b4c66cd2e22",
+      "sharedAyahs": [
+        "96:9",
+        "96:10",
+        "96:11",
+        "96:12",
+        "96:13",
+        "96:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2367.6,
+          "end": 2902.98
+        }
+      ],
+      "reviewNote": "تفسير أرأيت الذي ينهى عبدا إذا صلى أرأيت إن كان على الهدى أو أمر بالتقوى أرأيت إن كذب وتولى ألم يعلم بأن الله يرى (الآيات 9-14)"
+    },
+    "96:13": {
+      "file": "096-العلق-youtube-v1/009.mp3",
+      "durationMs": 535420,
+      "bytes": 6425418,
+      "sha256": "3374528d35afa07f7e30513fde17052e4300d41478e21381b87c4b4c66cd2e22",
+      "sharedAyahs": [
+        "96:9",
+        "96:10",
+        "96:11",
+        "96:12",
+        "96:13",
+        "96:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2367.6,
+          "end": 2902.98
+        }
+      ],
+      "reviewNote": "تفسير أرأيت الذي ينهى عبدا إذا صلى أرأيت إن كان على الهدى أو أمر بالتقوى أرأيت إن كذب وتولى ألم يعلم بأن الله يرى (الآيات 9-14)"
+    },
+    "96:14": {
+      "file": "096-العلق-youtube-v1/009.mp3",
+      "durationMs": 535420,
+      "bytes": 6425418,
+      "sha256": "3374528d35afa07f7e30513fde17052e4300d41478e21381b87c4b4c66cd2e22",
+      "sharedAyahs": [
+        "96:9",
+        "96:10",
+        "96:11",
+        "96:12",
+        "96:13",
+        "96:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2367.6,
+          "end": 2902.98
+        }
+      ],
+      "reviewNote": "تفسير أرأيت الذي ينهى عبدا إذا صلى أرأيت إن كان على الهدى أو أمر بالتقوى أرأيت إن كذب وتولى ألم يعلم بأن الله يرى (الآيات 9-14)"
+    },
+    "96:15": {
+      "file": "096-العلق-youtube-v1/015.mp3",
+      "durationMs": 315550,
+      "bytes": 3787052,
+      "sha256": "d2cf33736b9cfc26cd93974d93bead6a43bf639b222a8a8e6fb9a3993f6e2114",
+      "sharedAyahs": [
+        "96:15",
+        "96:16",
+        "96:17",
+        "96:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2902.98,
+          "end": 3218.5
+        }
+      ],
+      "reviewNote": "تفسير كلا لئن لم ينته لنسفعا بالناصية ناصية كاذبة خاطئة فليدع ناديه سندع الزبانية (الآيات 15-18)"
+    },
+    "96:16": {
+      "file": "096-العلق-youtube-v1/015.mp3",
+      "durationMs": 315550,
+      "bytes": 3787052,
+      "sha256": "d2cf33736b9cfc26cd93974d93bead6a43bf639b222a8a8e6fb9a3993f6e2114",
+      "sharedAyahs": [
+        "96:15",
+        "96:16",
+        "96:17",
+        "96:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2902.98,
+          "end": 3218.5
+        }
+      ],
+      "reviewNote": "تفسير كلا لئن لم ينته لنسفعا بالناصية ناصية كاذبة خاطئة فليدع ناديه سندع الزبانية (الآيات 15-18)"
+    },
+    "96:17": {
+      "file": "096-العلق-youtube-v1/015.mp3",
+      "durationMs": 315550,
+      "bytes": 3787052,
+      "sha256": "d2cf33736b9cfc26cd93974d93bead6a43bf639b222a8a8e6fb9a3993f6e2114",
+      "sharedAyahs": [
+        "96:15",
+        "96:16",
+        "96:17",
+        "96:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2902.98,
+          "end": 3218.5
+        }
+      ],
+      "reviewNote": "تفسير كلا لئن لم ينته لنسفعا بالناصية ناصية كاذبة خاطئة فليدع ناديه سندع الزبانية (الآيات 15-18)"
+    },
+    "96:18": {
+      "file": "096-العلق-youtube-v1/015.mp3",
+      "durationMs": 315550,
+      "bytes": 3787052,
+      "sha256": "d2cf33736b9cfc26cd93974d93bead6a43bf639b222a8a8e6fb9a3993f6e2114",
+      "sharedAyahs": [
+        "96:15",
+        "96:16",
+        "96:17",
+        "96:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 2902.98,
+          "end": 3218.5
+        }
+      ],
+      "reviewNote": "تفسير كلا لئن لم ينته لنسفعا بالناصية ناصية كاذبة خاطئة فليدع ناديه سندع الزبانية (الآيات 15-18)"
+    },
+    "96:19": {
+      "file": "096-العلق-youtube-v1/019.mp3",
+      "durationMs": 778150,
+      "bytes": 9338247,
+      "sha256": "0e68e38c33745c6d4ff18d39d4e50e3e5057fd339635ace8e217881cd90fdd69",
+      "sharedAyahs": [
+        "96:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44-eZN3VcEI",
+          "start": 3218.5,
+          "end": 3996.67
+        }
+      ],
+      "reviewNote": "تفسير كلا لا تطعه واسجد واقترب وخاتمة السورة وبدء الوحي في غار حراء وفترة الوحي وتفنيد مطاعن المستشرقين (الآية 19)"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/watch?v=44-eZN3VcEI",
+  "audioProcessing": "libmp3lame-90k-mono-48khz-stream-copy-sliced-jingle-stripped",
+  "alignmentMethod": "faster-whisper-large-v3-turbo-cuda-word-timestamps",
+  "topics": [
+    {
+      "id": "alaq-reading-creation-knowledge-1-5",
+      "title": "أمر القراءة وبداية الوحي وخلق الإنسان والشرف بالقلم والعلم (الآيات 1-5)",
+      "file": "096-العلق-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1348000
+    },
+    {
+      "id": "alaq-tyranny-and-return-6-8",
+      "title": "طغيان الإنسان باستغنائه ومرجعه إلى ربه وحتمية البعث (الآيات 6-8)",
+      "file": "096-العلق-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 1019600
+    },
+    {
+      "id": "alaq-prayer-prevention-warning-9-14",
+      "title": "شناعة النهي عن الصلاة والتحذير من تكذيب الهدى (الآيات 9-14)",
+      "file": "096-العلق-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 535380
+    },
+    {
+      "id": "alaq-forelock-and-zabaniyah-15-18",
+      "title": "وعيد الناصية الكاذبة ودعاء الزبانية (الآيات 15-18)",
+      "file": "096-العلق-youtube-v1/015.mp3",
+      "startMs": 0,
+      "endMs": 315520
+    },
+    {
+      "id": "alaq-prostration-and-revelation-truths-19",
+      "title": "الأمر بالسجود والاقتراب، وحقائق بدء الوحي في غار حراء وفترة الوحي (الآية 19)",
+      "file": "096-العلق-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 778150
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "44-eZN3VcEI"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "096-العلق-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1348030,
+        "durationMs": 1348030,
+        "recordingDurationMs": 1348030,
+        "bytes": 16176809,
+        "sha256": "f572cf6bed59af53216e3ed706023e8c6aef163dac72bc035d8b0bf873593289",
+        "sharedAyahs": [
+          "96:1",
+          "96:2",
+          "96:3",
+          "96:4",
+          "96:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44-eZN3VcEI",
+            "start": 0.0,
+            "end": 1348.0
+          }
+        ]
+      },
+      {
+        "file": "096-العلق-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 1019620,
+        "durationMs": 1019620,
+        "recordingDurationMs": 1019620,
+        "bytes": 12235817,
+        "sha256": "e4f79a2a86345bffc1e1abe150536fc574381b908c47d90e0ad34907c57281d1",
+        "sharedAyahs": [
+          "96:6",
+          "96:7",
+          "96:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44-eZN3VcEI",
+            "start": 1348.0,
+            "end": 2367.6
+          }
+        ]
+      },
+      {
+        "file": "096-العلق-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 535420,
+        "durationMs": 535420,
+        "recordingDurationMs": 535420,
+        "bytes": 6425418,
+        "sha256": "3374528d35afa07f7e30513fde17052e4300d41478e21381b87c4b4c66cd2e22",
+        "sharedAyahs": [
+          "96:9",
+          "96:10",
+          "96:11",
+          "96:12",
+          "96:13",
+          "96:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44-eZN3VcEI",
+            "start": 2367.6,
+            "end": 2902.98
+          }
+        ]
+      },
+      {
+        "file": "096-العلق-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 315550,
+        "durationMs": 315550,
+        "recordingDurationMs": 315550,
+        "bytes": 3787052,
+        "sha256": "d2cf33736b9cfc26cd93974d93bead6a43bf639b222a8a8e6fb9a3993f6e2114",
+        "sharedAyahs": [
+          "96:15",
+          "96:16",
+          "96:17",
+          "96:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44-eZN3VcEI",
+            "start": 2902.98,
+            "end": 3218.5
+          }
+        ]
+      },
+      {
+        "file": "096-العلق-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 778150,
+        "durationMs": 778150,
+        "recordingDurationMs": 778150,
+        "bytes": 9338247,
+        "sha256": "0e68e38c33745c6d4ff18d39d4e50e3e5057fd339635ace8e217881cd90fdd69",
+        "sharedAyahs": [
+          "96:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44-eZN3VcEI",
+            "start": 3218.5,
+            "end": 3996.67
+          }
+        ]
+      }
+    ],
+    "durationMs": 3996770,
+    "additionalAudioBytes": 0
+  }
+}
