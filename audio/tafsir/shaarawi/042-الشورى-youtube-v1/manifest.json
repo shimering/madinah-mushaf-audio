@@ -1,0 +1,2356 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "تفسير القرآن الكريم للشيخ الشعراوي - سورة الشورى (صوت القاهرة)",
+  "surah": 42,
+  "surahName": "الشورى",
+  "ayahCount": 53,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 53,
+    "mappedAyahCount": 53,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "kdLJhCkhmMg": {
+      "durationSeconds": 1504.9,
+      "bytes": 18059450,
+      "sha256": "cab0116950c2e96ee9568d58b97697214cb861b0b8592e049eef78823f1f8187",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-002_kdLJhCkhmMg.mp3",
+      "url": "https://www.youtube.com/watch?v=kdLJhCkhmMg"
+    },
+    "CGCqFYKsPvY": {
+      "durationSeconds": 1282.82,
+      "bytes": 15394587,
+      "sha256": "45018d34947b92a9ecd6bd820ca55e346e9202f536a3740b83fd0ebc1e3198a4",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_003-003_CGCqFYKsPvY.mp3",
+      "url": "https://www.youtube.com/watch?v=CGCqFYKsPvY"
+    },
+    "VcpDA-Zd_Zc": {
+      "durationSeconds": 1318.08,
+      "bytes": 15817662,
+      "sha256": "30c11ef96cd675f71ead940481336a3473ce99355c78bff4b4209e3cd8e4ad93",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_003-005_VcpDA-Zd_Zc.mp3",
+      "url": "https://www.youtube.com/watch?v=VcpDA-Zd_Zc"
+    },
+    "yHw7678kWOY": {
+      "durationSeconds": 1171.42,
+      "bytes": 14057694,
+      "sha256": "4976de8906dbc5ed95fc90838bc94d99d175a06c6a0751013d1e3a6f416ac626",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_005-007_yHw7678kWOY.mp3",
+      "url": "https://www.youtube.com/watch?v=yHw7678kWOY"
+    },
+    "BSxP1oHNxRs": {
+      "durationSeconds": 1212.94,
+      "bytes": 14555934,
+      "sha256": "7fc579ed6962935164d0d6bc135eb34a1ce36159dee5e23617b6a00f0018cafe",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_007-009_BSxP1oHNxRs.mp3",
+      "url": "https://www.youtube.com/watch?v=BSxP1oHNxRs"
+    },
+    "9hELvgEsbeg": {
+      "durationSeconds": 1163.66,
+      "bytes": 13964672,
+      "sha256": "57dc36b94b8c43c3d4827270521e764871ed0852b1141b020932ee8e2379be35",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_009-010_9hELvgEsbeg.mp3",
+      "url": "https://www.youtube.com/watch?v=9hELvgEsbeg"
+    },
+    "dtNKTEo1f-4": {
+      "durationSeconds": 1207.92,
+      "bytes": 14495746,
+      "sha256": "214ba3375fd85bbd107c85d3cba254cca032138d7d208f9aa16788b6255d4a5b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_010-012_dtNKTEo1f-4.mp3",
+      "url": "https://www.youtube.com/watch?v=dtNKTEo1f-4"
+    },
+    "nz946r-4rkk": {
+      "durationSeconds": 1344.7,
+      "bytes": 16137058,
+      "sha256": "0ed4fe177e6677197f0025519938a4b14bd83155a90a7efb1cca0a7a2186a575",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_012-013_nz946r-4rkk.mp3",
+      "url": "https://www.youtube.com/watch?v=nz946r-4rkk"
+    },
+    "kuxXPzxp5d4": {
+      "durationSeconds": 1385.3,
+      "bytes": 16624354,
+      "sha256": "b970e4492b61ef05134d553b611d64b604ae701bbc6a42f8bf745ed4ce3a3683",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_014-019_kuxXPzxp5d4.mp3",
+      "url": "https://www.youtube.com/watch?v=kuxXPzxp5d4"
+    },
+    "z9movP7Umxs": {
+      "durationSeconds": 1272.0,
+      "bytes": 15264708,
+      "sha256": "17a240ad5dfd396ffeb93f3e2ca9b88b5ec51a5cd4e0dd56a4184209edcb3a44",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_019-020_z9movP7Umxs.mp3",
+      "url": "https://www.youtube.com/watch?v=z9movP7Umxs"
+    },
+    "mzQRLSGNmiA": {
+      "durationSeconds": 1301.9,
+      "bytes": 15623556,
+      "sha256": "5d061a3d905c954597bfa4daff50dd7bf736a1ca750acf61a3806707f24664de",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_020-023_mzQRLSGNmiA.mp3",
+      "url": "https://www.youtube.com/watch?v=mzQRLSGNmiA"
+    },
+    "6B2jGePSFs8": {
+      "durationSeconds": 1239.41,
+      "bytes": 14873604,
+      "sha256": "e7c7b7eb8eec6d3c1e578d90ce278eca6a3c942911dddcfbf2914b709e82bc9a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_023-025_6B2jGePSFs8.mp3",
+      "url": "https://www.youtube.com/watch?v=6B2jGePSFs8"
+    },
+    "_oNfpj0xh9M": {
+      "durationSeconds": 1282.13,
+      "bytes": 15386244,
+      "sha256": "961e6b5364d60929b7cb0fe4d482ee9548d5a3e66ed8f1629f3728445de87e01",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_025-029__oNfpj0xh9M.mp3",
+      "url": "https://www.youtube.com/watch?v=_oNfpj0xh9M"
+    },
+    "1Exe8E1YwEQ": {
+      "durationSeconds": 1512.7,
+      "bytes": 18153060,
+      "sha256": "a23115c9170384e6d1777228cd7938a680eacab6a64360428723173b53a2f9c1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_030-032_1Exe8E1YwEQ.mp3",
+      "url": "https://www.youtube.com/watch?v=1Exe8E1YwEQ"
+    },
+    "UFBdo0wjF1A": {
+      "durationSeconds": 1421.64,
+      "bytes": 17060388,
+      "sha256": "c61078294394b4cf9d17d579fd1af2ad910f7d958ce29d408f4b9fce30cedf3b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_032-038_UFBdo0wjF1A.mp3",
+      "url": "https://www.youtube.com/watch?v=UFBdo0wjF1A"
+    },
+    "tH_IhRh6QPc": {
+      "durationSeconds": 1500.86,
+      "bytes": 18011076,
+      "sha256": "990e073c32f4e4e18f8413d50467f0c817452862d02ea94e4d31fb819656f105",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_038-048_tH_IhRh6QPc.mp3",
+      "url": "https://www.youtube.com/watch?v=tH_IhRh6QPc"
+    },
+    "mZhOrVcniyY": {
+      "durationSeconds": 1461.7,
+      "bytes": 17541060,
+      "sha256": "e90725c6183a5f83d43309f822a25595e8b07a49e90fcc19daeccabb7f0e551b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "017_048-051_mZhOrVcniyY.mp3",
+      "url": "https://www.youtube.com/watch?v=mZhOrVcniyY"
+    },
+    "NlQOYVoa27c": {
+      "durationSeconds": 1570.01,
+      "bytes": 18840804,
+      "sha256": "46e0d2f7dfe7628c0f7bec37545bff40ea78cd56e9e8e3d0db135585548c7310",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "018_051-052_NlQOYVoa27c.mp3",
+      "url": "https://www.youtube.com/watch?v=NlQOYVoa27c"
+    },
+    "MsLMAdMgws4": {
+      "durationSeconds": 674.47,
+      "bytes": 8094372,
+      "sha256": "6d28a406b151330f821c6668d7b1cfe1f5db97eaff739d5619ca48d7872c137f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "019_052-053_MsLMAdMgws4.mp3",
+      "url": "https://www.youtube.com/watch?v=MsLMAdMgws4"
+    }
+  },
+  "ayahs": {
+    "42:1": {
+      "file": "042-الشورى-youtube-v1/001.mp3",
+      "durationMs": 1501220,
+      "bytes": 18015374,
+      "sha256": "3ea8d998bcb4ea168ab81b023ae3881ea7045c8a8b2b51a45302bcb44547f56a",
+      "sharedAyahs": [
+        "42:1",
+        "42:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kdLJhCkhmMg",
+          "start": 0.21,
+          "end": 1501.41
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-2: حم ۝ عسق"
+    },
+    "42:2": {
+      "file": "042-الشورى-youtube-v1/001.mp3",
+      "durationMs": 1501220,
+      "bytes": 18015374,
+      "sha256": "3ea8d998bcb4ea168ab81b023ae3881ea7045c8a8b2b51a45302bcb44547f56a",
+      "sharedAyahs": [
+        "42:1",
+        "42:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kdLJhCkhmMg",
+          "start": 0.21,
+          "end": 1501.41
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-2: حم ۝ عسق"
+    },
+    "42:3": {
+      "file": "042-الشورى-youtube-v1/003.mp3",
+      "durationMs": 1659100,
+      "bytes": 19909575,
+      "sha256": "dd4158d77cc3e046fa270706c3cc251acda5266265100fcb64ffd5f77738308a",
+      "sharedAyahs": [
+        "42:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CGCqFYKsPvY",
+          "start": 0.08,
+          "end": 1282.28
+        },
+        {
+          "source": "VcpDA-Zd_Zc",
+          "start": 0.21,
+          "end": 377.05
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: كذلك يوحى إليك وإلى الذين من قبلك الله العزيز الحكيم"
+    },
+    "42:4": {
+      "file": "042-الشورى-youtube-v1/004.mp3",
+      "durationMs": 708720,
+      "bytes": 8505322,
+      "sha256": "25c046df70f82adfa32728cc4442298ccc327040c6c57d138dfb1effe2603cc9",
+      "sharedAyahs": [
+        "42:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VcpDA-Zd_Zc",
+          "start": 377.05,
+          "end": 1085.75
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: له ما في السماوات وما في الأرض وهو العلي العظيم"
+    },
+    "42:5": {
+      "file": "042-الشورى-youtube-v1/005.mp3",
+      "durationMs": 625440,
+      "bytes": 7505703,
+      "sha256": "6c90847786e884268fa8b0a56639cab4ca4b90856a0611411487b0f8da21bcc0",
+      "sharedAyahs": [
+        "42:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VcpDA-Zd_Zc",
+          "start": 1085.75,
+          "end": 1314.89
+        },
+        {
+          "source": "yHw7678kWOY",
+          "start": 0.11,
+          "end": 396.35
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: تكاد السماوات يتفطرن من فوقهن والملائكة يسبحون بحمد ربهم"
+    },
+    "42:6": {
+      "file": "042-الشورى-youtube-v1/006.mp3",
+      "durationMs": 100300,
+      "bytes": 1204234,
+      "sha256": "12a538dc6d102c46550bf9badcd3e24cfd7b30243e3ba327c8f41f8b5fafb03d",
+      "sharedAyahs": [
+        "42:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yHw7678kWOY",
+          "start": 396.35,
+          "end": 496.62
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: والذين اتخذوا من دونه أولياء الله حفيظ عليهم وما أنت عليهم بوكيل"
+    },
+    "42:7": {
+      "file": "042-الشورى-youtube-v1/007.mp3",
+      "durationMs": 1338890,
+      "bytes": 16067079,
+      "sha256": "39bac3f4bca40fa821555b31c64700118a7644754ac7dcd959caac64ca53aaaf",
+      "sharedAyahs": [
+        "42:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yHw7678kWOY",
+          "start": 496.62,
+          "end": 1170.89
+        },
+        {
+          "source": "BSxP1oHNxRs",
+          "start": 0.37,
+          "end": 664.94
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: وكذلك أوحينا إليك قرآنا عربيا لتنذر أم القرى ومن حولها"
+    },
+    "42:8": {
+      "file": "042-الشورى-youtube-v1/008.mp3",
+      "durationMs": 103130,
+      "bytes": 1238218,
+      "sha256": "a1e8baa39b583156195f4fa24367ace10d9f7334f20c6b486ba775e496465ef1",
+      "sharedAyahs": [
+        "42:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BSxP1oHNxRs",
+          "start": 664.94,
+          "end": 768.04
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: ولو شاء الله لجعلهم أمة واحدة ولكن يدخل من يشاء في رحمته"
+    },
+    "42:9": {
+      "file": "042-الشورى-youtube-v1/009.mp3",
+      "durationMs": 1296960,
+      "bytes": 15563943,
+      "sha256": "7ba9ab7f5447d320c17ee3aad854f9802ba9c489b1addd7d1647cfd59af7b2cb",
+      "sharedAyahs": [
+        "42:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BSxP1oHNxRs",
+          "start": 768.04,
+          "end": 1212.64
+        },
+        {
+          "source": "9hELvgEsbeg",
+          "start": 0.4,
+          "end": 852.72
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: أم اتخذوا من دونه أولياء فالله هو الولي وهو يحيي الموتى"
+    },
+    "42:10": {
+      "file": "042-الشورى-youtube-v1/010.mp3",
+      "durationMs": 573530,
+      "bytes": 6882761,
+      "sha256": "a62a570c819c716149af853fd70dc6539d9779b7fbef13aad9d3a565d3dadbb4",
+      "sharedAyahs": [
+        "42:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9hELvgEsbeg",
+          "start": 852.72,
+          "end": 1163.39
+        },
+        {
+          "source": "dtNKTEo1f-4",
+          "start": 20.54,
+          "end": 283.34
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: وما اختلفتم فيه من شيء فحكمه إلى الله ذلكم الله ربي"
+    },
+    "42:11": {
+      "file": "042-الشورى-youtube-v1/011.mp3",
+      "durationMs": 852960,
+      "bytes": 10236204,
+      "sha256": "5c5cccc26bf6d031ecb01895b41b68a12e37c3a56633e8b850c490bbb7a30368",
+      "sharedAyahs": [
+        "42:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "dtNKTEo1f-4",
+          "start": 283.34,
+          "end": 1136.27
+        }
+      ],
+      "reviewNote": "تفسير الآية 11: فاطر السماوات والأرض جعل لكم من أنفسكم أزواجا ومن الأنعام أزواجا"
+    },
+    "42:12": {
+      "file": "042-الشورى-youtube-v1/012.mp3",
+      "durationMs": 589700,
+      "bytes": 7076873,
+      "sha256": "e0383980089f20c2290caf8a744d4788c64094a2127207b49942843f79ee0549",
+      "sharedAyahs": [
+        "42:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "dtNKTEo1f-4",
+          "start": 1136.27,
+          "end": 1207.45
+        },
+        {
+          "source": "nz946r-4rkk",
+          "start": 0.43,
+          "end": 518.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: له مقاليد السماوات والأرض يبسط الرزق لمن يشاء ويقدر"
+    },
+    "42:13": {
+      "file": "042-الشورى-youtube-v1/013.mp3",
+      "durationMs": 768840,
+      "bytes": 9226764,
+      "sha256": "bfa484788f1c6dac19d7be4b7c1ca2538fbe2add5c72896719ddd1303d4bc38c",
+      "sharedAyahs": [
+        "42:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nz946r-4rkk",
+          "start": 518.9,
+          "end": 1287.71
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: شرع لكم من الدين ما وصى به نوحا والذي أوحينا إليك"
+    },
+    "42:14": {
+      "file": "042-الشورى-youtube-v1/014.mp3",
+      "durationMs": 599810,
+      "bytes": 7198126,
+      "sha256": "15e671eacf82c9d70376f62fc18c5ae02936628ca4647a3a6d0a8fbf95259163",
+      "sharedAyahs": [
+        "42:14",
+        "42:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nz946r-4rkk",
+          "start": 1287.71,
+          "end": 1344.11
+        },
+        {
+          "source": "kuxXPzxp5d4",
+          "start": 0.37,
+          "end": 543.73
+        }
+      ],
+      "reviewNote": "تفسير الآيات 14-15: وما تفرقوا إلا من بعد ما جاءهم العلم بغيا بينهم... فلذلك فادع واستقم"
+    },
+    "42:15": {
+      "file": "042-الشورى-youtube-v1/014.mp3",
+      "durationMs": 599810,
+      "bytes": 7198126,
+      "sha256": "15e671eacf82c9d70376f62fc18c5ae02936628ca4647a3a6d0a8fbf95259163",
+      "sharedAyahs": [
+        "42:14",
+        "42:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nz946r-4rkk",
+          "start": 1287.71,
+          "end": 1344.11
+        },
+        {
+          "source": "kuxXPzxp5d4",
+          "start": 0.37,
+          "end": 543.73
+        }
+      ],
+      "reviewNote": "تفسير الآيات 14-15: وما تفرقوا إلا من بعد ما جاءهم العلم بغيا بينهم... فلذلك فادع واستقم"
+    },
+    "42:16": {
+      "file": "042-الشورى-youtube-v1/016.mp3",
+      "durationMs": 355820,
+      "bytes": 4270577,
+      "sha256": "4cd421425f5d7ee871f1d5a4a3f3297de7f1122f470b33b7b49aa2460146978b",
+      "sharedAyahs": [
+        "42:16",
+        "42:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kuxXPzxp5d4",
+          "start": 543.73,
+          "end": 899.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 16-17: والذين يحاجون في الله من بعد ما استجيب له حجتهم داحضة... الله الذي أنزل الكتاب"
+    },
+    "42:17": {
+      "file": "042-الشورى-youtube-v1/016.mp3",
+      "durationMs": 355820,
+      "bytes": 4270577,
+      "sha256": "4cd421425f5d7ee871f1d5a4a3f3297de7f1122f470b33b7b49aa2460146978b",
+      "sharedAyahs": [
+        "42:16",
+        "42:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kuxXPzxp5d4",
+          "start": 543.73,
+          "end": 899.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 16-17: والذين يحاجون في الله من بعد ما استجيب له حجتهم داحضة... الله الذي أنزل الكتاب"
+    },
+    "42:18": {
+      "file": "042-الشورى-youtube-v1/018.mp3",
+      "durationMs": 138100,
+      "bytes": 1657836,
+      "sha256": "36ac22ddb50ce4b8cfbafcb53b7dd63a9c7708286f14bba04f2482883da3ea65",
+      "sharedAyahs": [
+        "42:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kuxXPzxp5d4",
+          "start": 899.54,
+          "end": 1037.61
+        }
+      ],
+      "reviewNote": "تفسير الآية 18: يستعجل بها الذين لا يؤمنون بها والذين آمنوا مشفقون منها"
+    },
+    "42:19": {
+      "file": "042-الشورى-youtube-v1/019.mp3",
+      "durationMs": 1322540,
+      "bytes": 15870953,
+      "sha256": "56b2f339f60613ea884d4c38b1f97efba23ae874d097162165f293b299b24538",
+      "sharedAyahs": [
+        "42:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kuxXPzxp5d4",
+          "start": 1037.61,
+          "end": 1385.0
+        },
+        {
+          "source": "z9movP7Umxs",
+          "start": 0.3,
+          "end": 975.4
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: الله لطيف بعباده يرزق من يشاء وهو القوي العزيز"
+    },
+    "42:20": {
+      "file": "042-الشورى-youtube-v1/020.mp3",
+      "durationMs": 309100,
+      "bytes": 3709577,
+      "sha256": "ff8788c903c1a8792d4c5a9e70dd001a78c79ccb114780c14c6d7b70bcef99dc",
+      "sharedAyahs": [
+        "42:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "z9movP7Umxs",
+          "start": 975.4,
+          "end": 1241.13
+        },
+        {
+          "source": "mzQRLSGNmiA",
+          "start": 6.34,
+          "end": 49.68
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: من كان يريد حرث الآخرة نزد له في حرثه ومن كان يريد حرث الدنيا نؤته منها"
+    },
+    "42:21": {
+      "file": "042-الشورى-youtube-v1/021.mp3",
+      "durationMs": 607340,
+      "bytes": 7288553,
+      "sha256": "dbd24d7b30190c1fa78b3f05352fc7a31ae8ca8f148bc186a8afbce7f1797bbc",
+      "sharedAyahs": [
+        "42:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "z9movP7Umxs",
+          "start": 1241.13,
+          "end": 1271.45
+        },
+        {
+          "source": "mzQRLSGNmiA",
+          "start": 49.68,
+          "end": 626.63
+        }
+      ],
+      "reviewNote": "تفسير الآية 21: أم لهم شركاء شرعوا لهم من الدين ما لم يأذن به الله"
+    },
+    "42:22": {
+      "file": "042-الشورى-youtube-v1/022.mp3",
+      "durationMs": 532750,
+      "bytes": 6393708,
+      "sha256": "2aa045154d00f2570ccc9169930a48366bd2a2e44509258155cfd989fd18e4b9",
+      "sharedAyahs": [
+        "42:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mzQRLSGNmiA",
+          "start": 626.63,
+          "end": 1159.36
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: ترى الظالمين مشفقين مما كسبوا وهو واقع بهم"
+    },
+    "42:23": {
+      "file": "042-الشورى-youtube-v1/023.mp3",
+      "durationMs": 861050,
+      "bytes": 10333001,
+      "sha256": "2118aa02f66baf999333591d9b028a7b386a3bbd1fd82cb509300b41819c4bc4",
+      "sharedAyahs": [
+        "42:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mzQRLSGNmiA",
+          "start": 1159.36,
+          "end": 1301.1
+        },
+        {
+          "source": "6B2jGePSFs8",
+          "start": 0.02,
+          "end": 719.26
+        }
+      ],
+      "reviewNote": "تفسير الآية 23: ذلك الذي يبشر الله عباده الذين آمنوا وعملوا الصالحات قل لا أسألكم عليه أجرا"
+    },
+    "42:24": {
+      "file": "042-الشورى-youtube-v1/024.mp3",
+      "durationMs": 473740,
+      "bytes": 5685516,
+      "sha256": "a619fe1ad74dec39c8fefe89d1f0d166c6ec32a3d5e0cfe6ea67de40c614da68",
+      "sharedAyahs": [
+        "42:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6B2jGePSFs8",
+          "start": 719.26,
+          "end": 1192.97
+        }
+      ],
+      "reviewNote": "تفسير الآية 24: أم يقولون افترى على الله كذبا فإن يشأ الله يختم على قلبك"
+    },
+    "42:25": {
+      "file": "042-الشورى-youtube-v1/025.mp3",
+      "durationMs": 622750,
+      "bytes": 7473449,
+      "sha256": "66542b1d7315df24253f0e7245d20715b91975b6d97187bc79dfcb0fd119a307",
+      "sharedAyahs": [
+        "42:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6B2jGePSFs8",
+          "start": 1192.97,
+          "end": 1238.64
+        },
+        {
+          "source": "_oNfpj0xh9M",
+          "start": 0.14,
+          "end": 577.18
+        }
+      ],
+      "reviewNote": "تفسير الآية 25: وهو الذي يقبل التوبة عن عباده ويعفو عن السيئات ويعلم ما تفعلون"
+    },
+    "42:26": {
+      "file": "042-الشورى-youtube-v1/026.mp3",
+      "durationMs": 44620,
+      "bytes": 536076,
+      "sha256": "5e91b1f55a10da539676c72036acecdc51bbe9010d6cfa4a5ba255f9aa05de28",
+      "sharedAyahs": [
+        "42:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_oNfpj0xh9M",
+          "start": 577.18,
+          "end": 621.77
+        }
+      ],
+      "reviewNote": "تفسير الآية 26: ويستجيب الذين آمنوا وعملوا الصالحات ويزيدهم من فضله"
+    },
+    "42:27": {
+      "file": "042-الشورى-youtube-v1/027.mp3",
+      "durationMs": 280820,
+      "bytes": 3370572,
+      "sha256": "5c74a30406a8e6b0ef04cdd4a97ecbc9e1f3810d50b05f4a6cd5339442b75243",
+      "sharedAyahs": [
+        "42:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_oNfpj0xh9M",
+          "start": 621.77,
+          "end": 902.58
+        }
+      ],
+      "reviewNote": "تفسير الآية 27: ولو بسط الله الرزق لعباده لبغوا في الأرض ولكن ينزل بقدر ما يشاء"
+    },
+    "42:28": {
+      "file": "042-الشورى-youtube-v1/028.mp3",
+      "durationMs": 278900,
+      "bytes": 3347532,
+      "sha256": "55022cc1de916fed3f92895e7cd2781ac8295135caaf57b55b9d5259ae2921cc",
+      "sharedAyahs": [
+        "42:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_oNfpj0xh9M",
+          "start": 902.58,
+          "end": 1181.46
+        }
+      ],
+      "reviewNote": "تفسير الآية 28: وهو الذي ينزل الغيث من بعد ما قنطوا وينشر رحمته وهو الولي الحميد"
+    },
+    "42:29": {
+      "file": "042-الشورى-youtube-v1/029.mp3",
+      "durationMs": 100150,
+      "bytes": 1202508,
+      "sha256": "0c4be8806e4cbd4e49ecf38fde0b7e863345ec90166279e4741f9f1bb7529999",
+      "sharedAyahs": [
+        "42:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_oNfpj0xh9M",
+          "start": 1181.46,
+          "end": 1281.58
+        }
+      ],
+      "reviewNote": "تفسير الآية 29: ومن آياته خلق السماوات والأرض وما بث فيهما من دابة"
+    },
+    "42:30": {
+      "file": "042-الشورى-youtube-v1/030.mp3",
+      "durationMs": 1375130,
+      "bytes": 16502225,
+      "sha256": "ba8ea074f11823568fe5c941235e16e804a8a5b87227ff2da6379da4e6c40940",
+      "sharedAyahs": [
+        "42:30",
+        "42:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1Exe8E1YwEQ",
+          "start": 99.7,
+          "end": 1474.81
+        }
+      ],
+      "reviewNote": "تفسير الآيات 30-31: وما أصابكم من مصيبة فبما كسبت أيديكم ويعفو عن كثير... وما أنتم بمعجزين"
+    },
+    "42:31": {
+      "file": "042-الشورى-youtube-v1/030.mp3",
+      "durationMs": 1375130,
+      "bytes": 16502225,
+      "sha256": "ba8ea074f11823568fe5c941235e16e804a8a5b87227ff2da6379da4e6c40940",
+      "sharedAyahs": [
+        "42:30",
+        "42:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1Exe8E1YwEQ",
+          "start": 99.7,
+          "end": 1474.81
+        }
+      ],
+      "reviewNote": "تفسير الآيات 30-31: وما أصابكم من مصيبة فبما كسبت أيديكم ويعفو عن كثير... وما أنتم بمعجزين"
+    },
+    "42:32": {
+      "file": "042-الشورى-youtube-v1/032.mp3",
+      "durationMs": 437260,
+      "bytes": 5247761,
+      "sha256": "166cdd71ec1a5cf32728c7bf7665dda6692786ad53b34fcf41119614788cbdee",
+      "sharedAyahs": [
+        "42:32",
+        "42:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UFBdo0wjF1A",
+          "start": 96.31,
+          "end": 533.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-33: ومن آياته الجوار في البحر كالأعلام... إن يشأ يسكن الريح"
+    },
+    "42:33": {
+      "file": "042-الشورى-youtube-v1/032.mp3",
+      "durationMs": 437260,
+      "bytes": 5247761,
+      "sha256": "166cdd71ec1a5cf32728c7bf7665dda6692786ad53b34fcf41119614788cbdee",
+      "sharedAyahs": [
+        "42:32",
+        "42:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UFBdo0wjF1A",
+          "start": 96.31,
+          "end": 533.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-33: ومن آياته الجوار في البحر كالأعلام... إن يشأ يسكن الريح"
+    },
+    "42:34": {
+      "file": "042-الشورى-youtube-v1/034.mp3",
+      "durationMs": 116380,
+      "bytes": 1397201,
+      "sha256": "f68ac7131a5f98e2e5e7c3bb94392c41d4d94590baba0e795723ef1893bed0da",
+      "sharedAyahs": [
+        "42:34",
+        "42:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UFBdo0wjF1A",
+          "start": 533.54,
+          "end": 649.89
+        }
+      ],
+      "reviewNote": "تفسير الآيات 34-35: أو يوبقهن بما كسبوا ويعف عن كثير... ويعلم الذين يجادلون في آياتنا"
+    },
+    "42:35": {
+      "file": "042-الشورى-youtube-v1/034.mp3",
+      "durationMs": 116380,
+      "bytes": 1397201,
+      "sha256": "f68ac7131a5f98e2e5e7c3bb94392c41d4d94590baba0e795723ef1893bed0da",
+      "sharedAyahs": [
+        "42:34",
+        "42:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UFBdo0wjF1A",
+          "start": 533.54,
+          "end": 649.89
+        }
+      ],
+      "reviewNote": "تفسير الآيات 34-35: أو يوبقهن بما كسبوا ويعف عن كثير... ويعلم الذين يجادلون في آياتنا"
+    },
+    "42:36": {
+      "file": "042-الشورى-youtube-v1/036.mp3",
+      "durationMs": 31780,
+      "bytes": 381996,
+      "sha256": "fec9ff86254a1946cdbdcfb8ca954c18cef9be37ac6827b11e2a3e398df6b0f0",
+      "sharedAyahs": [
+        "42:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UFBdo0wjF1A",
+          "start": 649.89,
+          "end": 681.63
+        }
+      ],
+      "reviewNote": "تفسير الآية 36: فما أوتيتم من شيء فمتاع الحياة الدنيا وما عند الله خير وأبقى"
+    },
+    "42:37": {
+      "file": "042-الشورى-youtube-v1/037.mp3",
+      "durationMs": 732530,
+      "bytes": 8791020,
+      "sha256": "7d129680b55cc16f6e0f0fbb736e1f39a84cb367ab448977d25713ef9b45fa33",
+      "sharedAyahs": [
+        "42:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UFBdo0wjF1A",
+          "start": 681.63,
+          "end": 1414.14
+        }
+      ],
+      "reviewNote": "تفسير الآية 37: والذين يجتنبون كبائر الإثم والفواحش وإذا ما غضبوا هم يغفرون"
+    },
+    "42:38": {
+      "file": "042-الشورى-youtube-v1/038.mp3",
+      "durationMs": 147620,
+      "bytes": 1772172,
+      "sha256": "cdcd2e0e204e64bc55534bc5338d186a23c1346a870c1b30b5d77caec05465a3",
+      "sharedAyahs": [
+        "42:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 30.2,
+          "end": 177.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 38: والذين استجابوا لربهم وأقاموا الصلاة وأمرهم شورى بينهم"
+    },
+    "42:39": {
+      "file": "042-الشورى-youtube-v1/039.mp3",
+      "durationMs": 186480,
+      "bytes": 2238444,
+      "sha256": "1f624e06161129e9f0b5dd755802efbe9a29610f1de20ade323555764c534993",
+      "sharedAyahs": [
+        "42:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 177.8,
+          "end": 364.25
+        }
+      ],
+      "reviewNote": "تفسير الآية 39: والذين إذا أصابهم البغي هم ينتصرون"
+    },
+    "42:40": {
+      "file": "042-الشورى-youtube-v1/040.mp3",
+      "durationMs": 120980,
+      "bytes": 1452492,
+      "sha256": "99301385aebcf35a0c067553bfe246e46c71eb39ef3b4f225d37f313b2eed3b8",
+      "sharedAyahs": [
+        "42:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 364.25,
+          "end": 485.21
+        }
+      ],
+      "reviewNote": "تفسير الآية 40: وجزاء سيئة سيئة مثلها فمن عفا وأصلح فأجره على الله"
+    },
+    "42:41": {
+      "file": "042-الشورى-youtube-v1/041.mp3",
+      "durationMs": 257980,
+      "bytes": 3096401,
+      "sha256": "5177a7cb85bcfbb7cf0175c723d4b31a42afe70054a85090715dff13e3d0755d",
+      "sharedAyahs": [
+        "42:41",
+        "42:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 485.21,
+          "end": 743.18
+        }
+      ],
+      "reviewNote": "تفسير الآيات 41-42: ولمن انتصر بعد ظلمه... إنما السبيل على الذين يظلمون الناس"
+    },
+    "42:42": {
+      "file": "042-الشورى-youtube-v1/041.mp3",
+      "durationMs": 257980,
+      "bytes": 3096401,
+      "sha256": "5177a7cb85bcfbb7cf0175c723d4b31a42afe70054a85090715dff13e3d0755d",
+      "sharedAyahs": [
+        "42:41",
+        "42:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 485.21,
+          "end": 743.18
+        }
+      ],
+      "reviewNote": "تفسير الآيات 41-42: ولمن انتصر بعد ظلمه... إنما السبيل على الذين يظلمون الناس"
+    },
+    "42:43": {
+      "file": "042-الشورى-youtube-v1/043.mp3",
+      "durationMs": 85200,
+      "bytes": 1023084,
+      "sha256": "73baddc1a464c58676ad5f18a2855ce7ebe0af881b8d500fd8f9e655d2caa4cd",
+      "sharedAyahs": [
+        "42:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 743.18,
+          "end": 828.36
+        }
+      ],
+      "reviewNote": "تفسير الآية 43: ولمن صبر وغفر إن ذلك لمن عزم الأمور"
+    },
+    "42:44": {
+      "file": "042-الشورى-youtube-v1/044.mp3",
+      "durationMs": 151540,
+      "bytes": 1819116,
+      "sha256": "011d28fc38f8267b84424608739831ee9b0c4821e5ab6b4f55d8de6be1f39615",
+      "sharedAyahs": [
+        "42:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 828.36,
+          "end": 979.85
+        }
+      ],
+      "reviewNote": "تفسير الآية 44: ومن يضلل الله فما له من ولي من بعده وترى الظالمين لما رأوا العذاب"
+    },
+    "42:45": {
+      "file": "042-الشورى-youtube-v1/045.mp3",
+      "durationMs": 67340,
+      "bytes": 808812,
+      "sha256": "fd14676d79478d69499f90415c9f27ed11fc8c48a786c4469a817ad4721f9513",
+      "sharedAyahs": [
+        "42:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 979.85,
+          "end": 1047.18
+        }
+      ],
+      "reviewNote": "تفسير الآية 45: وتراهم يعرضون عليها خاشعين من الذل ينظرون من طرف خفي"
+    },
+    "42:46": {
+      "file": "042-الشورى-youtube-v1/046.mp3",
+      "durationMs": 360860,
+      "bytes": 4331052,
+      "sha256": "4070a8c39d11c89e4ed3b985b1f223173ad41a726b34fac09e4aab54f547b75e",
+      "sharedAyahs": [
+        "42:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 1047.18,
+          "end": 1408.03
+        }
+      ],
+      "reviewNote": "تفسير الآية 46: وما كان لهم من أولياء ينصرونهم من دون الله"
+    },
+    "42:47": {
+      "file": "042-الشورى-youtube-v1/047.mp3",
+      "durationMs": 54860,
+      "bytes": 659052,
+      "sha256": "cd7516c84849074cc91e45302008efa24228fc943f50523c5622927b14e1f610",
+      "sharedAyahs": [
+        "42:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tH_IhRh6QPc",
+          "start": 1408.03,
+          "end": 1462.85
+        }
+      ],
+      "reviewNote": "تفسير الآية 47: استجيبوا لربكم من قبل أن يأتي يوم لا مرد له من الله"
+    },
+    "42:48": {
+      "file": "042-الشورى-youtube-v1/048.mp3",
+      "durationMs": 289080,
+      "bytes": 3469644,
+      "sha256": "6c7dc98e9dc3580c94616bbaf97f796f634bca421f32de3eaf6fc1cd0d961a15",
+      "sharedAyahs": [
+        "42:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mZhOrVcniyY",
+          "start": 94.66,
+          "end": 383.73
+        }
+      ],
+      "reviewNote": "تفسير الآية 48: فإن أعرضوا فما أرسلناك عليهم حفيظا إن عليك إلا البلاغ"
+    },
+    "42:49": {
+      "file": "042-الشورى-youtube-v1/049.mp3",
+      "durationMs": 1067950,
+      "bytes": 12816113,
+      "sha256": "347621fa470ad9f60141029cc2da899e17560f9d1f61d1959fdf01650b4cdf2d",
+      "sharedAyahs": [
+        "42:49",
+        "42:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mZhOrVcniyY",
+          "start": 383.73,
+          "end": 1451.65
+        }
+      ],
+      "reviewNote": "تفسير الآيات 49-50: لله ملك السماوات والأرض يخلق ما يشاء يهب لمن يشاء إناثا ويهب لمن يشاء الذكور"
+    },
+    "42:50": {
+      "file": "042-الشورى-youtube-v1/049.mp3",
+      "durationMs": 1067950,
+      "bytes": 12816113,
+      "sha256": "347621fa470ad9f60141029cc2da899e17560f9d1f61d1959fdf01650b4cdf2d",
+      "sharedAyahs": [
+        "42:49",
+        "42:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mZhOrVcniyY",
+          "start": 383.73,
+          "end": 1451.65
+        }
+      ],
+      "reviewNote": "تفسير الآيات 49-50: لله ملك السماوات والأرض يخلق ما يشاء يهب لمن يشاء إناثا ويهب لمن يشاء الذكور"
+    },
+    "42:51": {
+      "file": "042-الشورى-youtube-v1/051.mp3",
+      "durationMs": 191500,
+      "bytes": 2298636,
+      "sha256": "468c8ecb67ca77a30063bae93da8ec6d31c40336ca2a7b65f315a4cf39f0ced2",
+      "sharedAyahs": [
+        "42:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NlQOYVoa27c",
+          "start": 95.65,
+          "end": 287.12
+        }
+      ],
+      "reviewNote": "تفسير الآية 51: وما كان لبشر أن يكلمه الله إلا وحيا أو من وراء حجاب"
+    },
+    "42:52": {
+      "file": "042-الشورى-youtube-v1/052.mp3",
+      "durationMs": 1588970,
+      "bytes": 19068041,
+      "sha256": "d2172085f8f2ba94f2495bfa1d15f465e1b6cbfc228260a9e1af849f78b0855e",
+      "sharedAyahs": [
+        "42:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NlQOYVoa27c",
+          "start": 287.12,
+          "end": 1556.94
+        },
+        {
+          "source": "MsLMAdMgws4",
+          "start": 20.89,
+          "end": 340.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 52: وكذلك أوحينا إليك روحا من أمرنا ما كنت تدري ما الكتاب ولا الإيمان"
+    },
+    "42:53": {
+      "file": "042-الشورى-youtube-v1/053.mp3",
+      "durationMs": 333360,
+      "bytes": 4001004,
+      "sha256": "786265a4dc04a06ddee7d6dbeeb74bb2b00a0a4ea10cb5ff19757ee258d8e654",
+      "sharedAyahs": [
+        "42:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "MsLMAdMgws4",
+          "start": 340.0,
+          "end": 673.34
+        }
+      ],
+      "reviewNote": "تفسير الآية 53: صراط الله الذي له ما في السماوات وما في الأرض ألا إلى الله تصير الأمور"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7A752FFB7A236AED",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "shura-divine-revelation-tawheed",
+      "title": "وحي الله إلى الرسل وقضية التوحيد",
+      "file": "042-الشورى-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 1659040
+    },
+    {
+      "id": "shura-unity-of-religion",
+      "title": "وحدة أصول الدين ووصية الأنبياء بعدم التفرق",
+      "file": "042-الشورى-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 768810
+    },
+    {
+      "id": "shura-hereafter-vs-worldly-harvest",
+      "title": "حرث الآخرة وحرث الدنيا ومقاييس الجزاء الرباني",
+      "file": "042-الشورى-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 309070
+    },
+    {
+      "id": "shura-mutual-consultation-community",
+      "title": "مبدأ الشورى بين المؤمنين والإنفاق ودفع البغي",
+      "file": "042-الشورى-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 147600
+    },
+    {
+      "id": "shura-forgiveness-and-patience",
+      "title": "عزة العفو والصبر عند المقدرة ولمن صبر وغفر",
+      "file": "042-الشورى-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 85180
+    },
+    {
+      "id": "shura-divine-gift-of-children",
+      "title": "ملك السموات والأرض وهبة الإناث والذكور وتدبير الخالق",
+      "file": "042-الشورى-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 1067920
+    },
+    {
+      "id": "shura-modes-of-divine-communication",
+      "title": "مراتب تكليم الله للبشر وحقيقة الوحي والروح",
+      "file": "042-الشورى-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 191470
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "kdLJhCkhmMg",
+      "CGCqFYKsPvY",
+      "VcpDA-Zd_Zc",
+      "yHw7678kWOY",
+      "BSxP1oHNxRs",
+      "9hELvgEsbeg",
+      "dtNKTEo1f-4",
+      "nz946r-4rkk",
+      "kuxXPzxp5d4",
+      "z9movP7Umxs",
+      "mzQRLSGNmiA",
+      "6B2jGePSFs8",
+      "_oNfpj0xh9M",
+      "1Exe8E1YwEQ",
+      "UFBdo0wjF1A",
+      "tH_IhRh6QPc",
+      "mZhOrVcniyY",
+      "NlQOYVoa27c",
+      "MsLMAdMgws4"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "042-الشورى-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1501220,
+        "durationMs": 1501220,
+        "recordingDurationMs": 1501220,
+        "bytes": 18015374,
+        "sha256": "3ea8d998bcb4ea168ab81b023ae3881ea7045c8a8b2b51a45302bcb44547f56a",
+        "sharedAyahs": [
+          "42:1",
+          "42:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kdLJhCkhmMg",
+            "start": 0.21,
+            "end": 1501.41
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 1282213,
+        "durationMs": 1282213,
+        "recordingDurationMs": 1659100,
+        "bytes": 19909575,
+        "sha256": "dd4158d77cc3e046fa270706c3cc251acda5266265100fcb64ffd5f77738308a",
+        "sharedAyahs": [
+          "42:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CGCqFYKsPvY",
+            "start": 0.08,
+            "end": 1282.28
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/003.mp3",
+        "startMs": 1282213,
+        "endMs": 1659100,
+        "durationMs": 376887,
+        "recordingDurationMs": 1659100,
+        "bytes": 19909575,
+        "sha256": "dd4158d77cc3e046fa270706c3cc251acda5266265100fcb64ffd5f77738308a",
+        "sharedAyahs": [
+          "42:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VcpDA-Zd_Zc",
+            "start": 0.21,
+            "end": 377.05
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 708720,
+        "durationMs": 708720,
+        "recordingDurationMs": 708720,
+        "bytes": 8505322,
+        "sha256": "25c046df70f82adfa32728cc4442298ccc327040c6c57d138dfb1effe2603cc9",
+        "sharedAyahs": [
+          "42:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VcpDA-Zd_Zc",
+            "start": 377.05,
+            "end": 1085.75
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 229165,
+        "durationMs": 229165,
+        "recordingDurationMs": 625440,
+        "bytes": 7505703,
+        "sha256": "6c90847786e884268fa8b0a56639cab4ca4b90856a0611411487b0f8da21bcc0",
+        "sharedAyahs": [
+          "42:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VcpDA-Zd_Zc",
+            "start": 1085.75,
+            "end": 1314.89
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/005.mp3",
+        "startMs": 229165,
+        "endMs": 625440,
+        "durationMs": 396275,
+        "recordingDurationMs": 625440,
+        "bytes": 7505703,
+        "sha256": "6c90847786e884268fa8b0a56639cab4ca4b90856a0611411487b0f8da21bcc0",
+        "sharedAyahs": [
+          "42:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yHw7678kWOY",
+            "start": 0.11,
+            "end": 396.35
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 100300,
+        "durationMs": 100300,
+        "recordingDurationMs": 100300,
+        "bytes": 1204234,
+        "sha256": "12a538dc6d102c46550bf9badcd3e24cfd7b30243e3ba327c8f41f8b5fafb03d",
+        "sharedAyahs": [
+          "42:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yHw7678kWOY",
+            "start": 396.35,
+            "end": 496.62
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 674293,
+        "durationMs": 674293,
+        "recordingDurationMs": 1338890,
+        "bytes": 16067079,
+        "sha256": "39bac3f4bca40fa821555b31c64700118a7644754ac7dcd959caac64ca53aaaf",
+        "sharedAyahs": [
+          "42:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yHw7678kWOY",
+            "start": 496.62,
+            "end": 1170.89
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/007.mp3",
+        "startMs": 674293,
+        "endMs": 1338890,
+        "durationMs": 664597,
+        "recordingDurationMs": 1338890,
+        "bytes": 16067079,
+        "sha256": "39bac3f4bca40fa821555b31c64700118a7644754ac7dcd959caac64ca53aaaf",
+        "sharedAyahs": [
+          "42:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BSxP1oHNxRs",
+            "start": 0.37,
+            "end": 664.94
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 103130,
+        "durationMs": 103130,
+        "recordingDurationMs": 103130,
+        "bytes": 1238218,
+        "sha256": "a1e8baa39b583156195f4fa24367ace10d9f7334f20c6b486ba775e496465ef1",
+        "sharedAyahs": [
+          "42:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BSxP1oHNxRs",
+            "start": 664.94,
+            "end": 768.04
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 444613,
+        "durationMs": 444613,
+        "recordingDurationMs": 1296960,
+        "bytes": 15563943,
+        "sha256": "7ba9ab7f5447d320c17ee3aad854f9802ba9c489b1addd7d1647cfd59af7b2cb",
+        "sharedAyahs": [
+          "42:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BSxP1oHNxRs",
+            "start": 768.04,
+            "end": 1212.64
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/009.mp3",
+        "startMs": 444613,
+        "endMs": 1296960,
+        "durationMs": 852347,
+        "recordingDurationMs": 1296960,
+        "bytes": 15563943,
+        "sha256": "7ba9ab7f5447d320c17ee3aad854f9802ba9c489b1addd7d1647cfd59af7b2cb",
+        "sharedAyahs": [
+          "42:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9hELvgEsbeg",
+            "start": 0.4,
+            "end": 852.72
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 310693,
+        "durationMs": 310693,
+        "recordingDurationMs": 573530,
+        "bytes": 6882761,
+        "sha256": "a62a570c819c716149af853fd70dc6539d9779b7fbef13aad9d3a565d3dadbb4",
+        "sharedAyahs": [
+          "42:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9hELvgEsbeg",
+            "start": 852.72,
+            "end": 1163.39
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/010.mp3",
+        "startMs": 310693,
+        "endMs": 573530,
+        "durationMs": 262837,
+        "recordingDurationMs": 573530,
+        "bytes": 6882761,
+        "sha256": "a62a570c819c716149af853fd70dc6539d9779b7fbef13aad9d3a565d3dadbb4",
+        "sharedAyahs": [
+          "42:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "dtNKTEo1f-4",
+            "start": 20.54,
+            "end": 283.34
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 852960,
+        "durationMs": 852960,
+        "recordingDurationMs": 852960,
+        "bytes": 10236204,
+        "sha256": "5c5cccc26bf6d031ecb01895b41b68a12e37c3a56633e8b850c490bbb7a30368",
+        "sharedAyahs": [
+          "42:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "dtNKTEo1f-4",
+            "start": 283.34,
+            "end": 1136.27
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 71197,
+        "durationMs": 71197,
+        "recordingDurationMs": 589700,
+        "bytes": 7076873,
+        "sha256": "e0383980089f20c2290caf8a744d4788c64094a2127207b49942843f79ee0549",
+        "sharedAyahs": [
+          "42:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "dtNKTEo1f-4",
+            "start": 1136.27,
+            "end": 1207.45
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/012.mp3",
+        "startMs": 71197,
+        "endMs": 589700,
+        "durationMs": 518503,
+        "recordingDurationMs": 589700,
+        "bytes": 7076873,
+        "sha256": "e0383980089f20c2290caf8a744d4788c64094a2127207b49942843f79ee0549",
+        "sharedAyahs": [
+          "42:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nz946r-4rkk",
+            "start": 0.43,
+            "end": 518.9
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 768840,
+        "durationMs": 768840,
+        "recordingDurationMs": 768840,
+        "bytes": 9226764,
+        "sha256": "bfa484788f1c6dac19d7be4b7c1ca2538fbe2add5c72896719ddd1303d4bc38c",
+        "sharedAyahs": [
+          "42:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nz946r-4rkk",
+            "start": 518.9,
+            "end": 1287.71
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 56413,
+        "durationMs": 56413,
+        "recordingDurationMs": 599810,
+        "bytes": 7198126,
+        "sha256": "15e671eacf82c9d70376f62fc18c5ae02936628ca4647a3a6d0a8fbf95259163",
+        "sharedAyahs": [
+          "42:14",
+          "42:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nz946r-4rkk",
+            "start": 1287.71,
+            "end": 1344.11
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/014.mp3",
+        "startMs": 56413,
+        "endMs": 599810,
+        "durationMs": 543397,
+        "recordingDurationMs": 599810,
+        "bytes": 7198126,
+        "sha256": "15e671eacf82c9d70376f62fc18c5ae02936628ca4647a3a6d0a8fbf95259163",
+        "sharedAyahs": [
+          "42:14",
+          "42:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kuxXPzxp5d4",
+            "start": 0.37,
+            "end": 543.73
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 355820,
+        "durationMs": 355820,
+        "recordingDurationMs": 355820,
+        "bytes": 4270577,
+        "sha256": "4cd421425f5d7ee871f1d5a4a3f3297de7f1122f470b33b7b49aa2460146978b",
+        "sharedAyahs": [
+          "42:16",
+          "42:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kuxXPzxp5d4",
+            "start": 543.73,
+            "end": 899.54
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 138100,
+        "durationMs": 138100,
+        "recordingDurationMs": 138100,
+        "bytes": 1657836,
+        "sha256": "36ac22ddb50ce4b8cfbafcb53b7dd63a9c7708286f14bba04f2482883da3ea65",
+        "sharedAyahs": [
+          "42:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kuxXPzxp5d4",
+            "start": 899.54,
+            "end": 1037.61
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 347413,
+        "durationMs": 347413,
+        "recordingDurationMs": 1322540,
+        "bytes": 15870953,
+        "sha256": "56b2f339f60613ea884d4c38b1f97efba23ae874d097162165f293b299b24538",
+        "sharedAyahs": [
+          "42:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kuxXPzxp5d4",
+            "start": 1037.61,
+            "end": 1385.0
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/019.mp3",
+        "startMs": 347413,
+        "endMs": 1322540,
+        "durationMs": 975127,
+        "recordingDurationMs": 1322540,
+        "bytes": 15870953,
+        "sha256": "56b2f339f60613ea884d4c38b1f97efba23ae874d097162165f293b299b24538",
+        "sharedAyahs": [
+          "42:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "z9movP7Umxs",
+            "start": 0.3,
+            "end": 975.4
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 265741,
+        "durationMs": 265741,
+        "recordingDurationMs": 309100,
+        "bytes": 3709577,
+        "sha256": "ff8788c903c1a8792d4c5a9e70dd001a78c79ccb114780c14c6d7b70bcef99dc",
+        "sharedAyahs": [
+          "42:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "z9movP7Umxs",
+            "start": 975.4,
+            "end": 1241.13
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 30349,
+        "durationMs": 30349,
+        "recordingDurationMs": 607340,
+        "bytes": 7288553,
+        "sha256": "dbd24d7b30190c1fa78b3f05352fc7a31ae8ca8f148bc186a8afbce7f1797bbc",
+        "sharedAyahs": [
+          "42:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "z9movP7Umxs",
+            "start": 1241.13,
+            "end": 1271.45
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/020.mp3",
+        "startMs": 265741,
+        "endMs": 309100,
+        "durationMs": 43359,
+        "recordingDurationMs": 309100,
+        "bytes": 3709577,
+        "sha256": "ff8788c903c1a8792d4c5a9e70dd001a78c79ccb114780c14c6d7b70bcef99dc",
+        "sharedAyahs": [
+          "42:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mzQRLSGNmiA",
+            "start": 6.34,
+            "end": 49.68
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/021.mp3",
+        "startMs": 30349,
+        "endMs": 607340,
+        "durationMs": 576991,
+        "recordingDurationMs": 607340,
+        "bytes": 7288553,
+        "sha256": "dbd24d7b30190c1fa78b3f05352fc7a31ae8ca8f148bc186a8afbce7f1797bbc",
+        "sharedAyahs": [
+          "42:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mzQRLSGNmiA",
+            "start": 49.68,
+            "end": 626.63
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 532750,
+        "durationMs": 532750,
+        "recordingDurationMs": 532750,
+        "bytes": 6393708,
+        "sha256": "2aa045154d00f2570ccc9169930a48366bd2a2e44509258155cfd989fd18e4b9",
+        "sharedAyahs": [
+          "42:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mzQRLSGNmiA",
+            "start": 626.63,
+            "end": 1159.36
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 141757,
+        "durationMs": 141757,
+        "recordingDurationMs": 861050,
+        "bytes": 10333001,
+        "sha256": "2118aa02f66baf999333591d9b028a7b386a3bbd1fd82cb509300b41819c4bc4",
+        "sharedAyahs": [
+          "42:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mzQRLSGNmiA",
+            "start": 1159.36,
+            "end": 1301.1
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/023.mp3",
+        "startMs": 141757,
+        "endMs": 861050,
+        "durationMs": 719293,
+        "recordingDurationMs": 861050,
+        "bytes": 10333001,
+        "sha256": "2118aa02f66baf999333591d9b028a7b386a3bbd1fd82cb509300b41819c4bc4",
+        "sharedAyahs": [
+          "42:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6B2jGePSFs8",
+            "start": 0.02,
+            "end": 719.26
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 473740,
+        "durationMs": 473740,
+        "recordingDurationMs": 473740,
+        "bytes": 5685516,
+        "sha256": "a619fe1ad74dec39c8fefe89d1f0d166c6ec32a3d5e0cfe6ea67de40c614da68",
+        "sharedAyahs": [
+          "42:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6B2jGePSFs8",
+            "start": 719.26,
+            "end": 1192.97
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 45661,
+        "durationMs": 45661,
+        "recordingDurationMs": 622750,
+        "bytes": 7473449,
+        "sha256": "66542b1d7315df24253f0e7245d20715b91975b6d97187bc79dfcb0fd119a307",
+        "sharedAyahs": [
+          "42:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6B2jGePSFs8",
+            "start": 1192.97,
+            "end": 1238.64
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/025.mp3",
+        "startMs": 45661,
+        "endMs": 622750,
+        "durationMs": 577089,
+        "recordingDurationMs": 622750,
+        "bytes": 7473449,
+        "sha256": "66542b1d7315df24253f0e7245d20715b91975b6d97187bc79dfcb0fd119a307",
+        "sharedAyahs": [
+          "42:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_oNfpj0xh9M",
+            "start": 0.14,
+            "end": 577.18
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 44620,
+        "durationMs": 44620,
+        "recordingDurationMs": 44620,
+        "bytes": 536076,
+        "sha256": "5e91b1f55a10da539676c72036acecdc51bbe9010d6cfa4a5ba255f9aa05de28",
+        "sharedAyahs": [
+          "42:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_oNfpj0xh9M",
+            "start": 577.18,
+            "end": 621.77
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 280820,
+        "durationMs": 280820,
+        "recordingDurationMs": 280820,
+        "bytes": 3370572,
+        "sha256": "5c74a30406a8e6b0ef04cdd4a97ecbc9e1f3810d50b05f4a6cd5339442b75243",
+        "sharedAyahs": [
+          "42:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_oNfpj0xh9M",
+            "start": 621.77,
+            "end": 902.58
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 278900,
+        "durationMs": 278900,
+        "recordingDurationMs": 278900,
+        "bytes": 3347532,
+        "sha256": "55022cc1de916fed3f92895e7cd2781ac8295135caaf57b55b9d5259ae2921cc",
+        "sharedAyahs": [
+          "42:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_oNfpj0xh9M",
+            "start": 902.58,
+            "end": 1181.46
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 100150,
+        "durationMs": 100150,
+        "recordingDurationMs": 100150,
+        "bytes": 1202508,
+        "sha256": "0c4be8806e4cbd4e49ecf38fde0b7e863345ec90166279e4741f9f1bb7529999",
+        "sharedAyahs": [
+          "42:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_oNfpj0xh9M",
+            "start": 1181.46,
+            "end": 1281.58
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 1375130,
+        "durationMs": 1375130,
+        "recordingDurationMs": 1375130,
+        "bytes": 16502225,
+        "sha256": "ba8ea074f11823568fe5c941235e16e804a8a5b87227ff2da6379da4e6c40940",
+        "sharedAyahs": [
+          "42:30",
+          "42:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1Exe8E1YwEQ",
+            "start": 99.7,
+            "end": 1474.81
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 437260,
+        "durationMs": 437260,
+        "recordingDurationMs": 437260,
+        "bytes": 5247761,
+        "sha256": "166cdd71ec1a5cf32728c7bf7665dda6692786ad53b34fcf41119614788cbdee",
+        "sharedAyahs": [
+          "42:32",
+          "42:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "UFBdo0wjF1A",
+            "start": 96.31,
+            "end": 533.54
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 116380,
+        "durationMs": 116380,
+        "recordingDurationMs": 116380,
+        "bytes": 1397201,
+        "sha256": "f68ac7131a5f98e2e5e7c3bb94392c41d4d94590baba0e795723ef1893bed0da",
+        "sharedAyahs": [
+          "42:34",
+          "42:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "UFBdo0wjF1A",
+            "start": 533.54,
+            "end": 649.89
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 31780,
+        "durationMs": 31780,
+        "recordingDurationMs": 31780,
+        "bytes": 381996,
+        "sha256": "fec9ff86254a1946cdbdcfb8ca954c18cef9be37ac6827b11e2a3e398df6b0f0",
+        "sharedAyahs": [
+          "42:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "UFBdo0wjF1A",
+            "start": 649.89,
+            "end": 681.63
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 732530,
+        "durationMs": 732530,
+        "recordingDurationMs": 732530,
+        "bytes": 8791020,
+        "sha256": "7d129680b55cc16f6e0f0fbb736e1f39a84cb367ab448977d25713ef9b45fa33",
+        "sharedAyahs": [
+          "42:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "UFBdo0wjF1A",
+            "start": 681.63,
+            "end": 1414.14
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 147620,
+        "durationMs": 147620,
+        "recordingDurationMs": 147620,
+        "bytes": 1772172,
+        "sha256": "cdcd2e0e204e64bc55534bc5338d186a23c1346a870c1b30b5d77caec05465a3",
+        "sharedAyahs": [
+          "42:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 30.2,
+            "end": 177.8
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 186480,
+        "durationMs": 186480,
+        "recordingDurationMs": 186480,
+        "bytes": 2238444,
+        "sha256": "1f624e06161129e9f0b5dd755802efbe9a29610f1de20ade323555764c534993",
+        "sharedAyahs": [
+          "42:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 177.8,
+            "end": 364.25
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 120980,
+        "durationMs": 120980,
+        "recordingDurationMs": 120980,
+        "bytes": 1452492,
+        "sha256": "99301385aebcf35a0c067553bfe246e46c71eb39ef3b4f225d37f313b2eed3b8",
+        "sharedAyahs": [
+          "42:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 364.25,
+            "end": 485.21
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 257980,
+        "durationMs": 257980,
+        "recordingDurationMs": 257980,
+        "bytes": 3096401,
+        "sha256": "5177a7cb85bcfbb7cf0175c723d4b31a42afe70054a85090715dff13e3d0755d",
+        "sharedAyahs": [
+          "42:41",
+          "42:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 485.21,
+            "end": 743.18
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 85200,
+        "durationMs": 85200,
+        "recordingDurationMs": 85200,
+        "bytes": 1023084,
+        "sha256": "73baddc1a464c58676ad5f18a2855ce7ebe0af881b8d500fd8f9e655d2caa4cd",
+        "sharedAyahs": [
+          "42:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 743.18,
+            "end": 828.36
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 151540,
+        "durationMs": 151540,
+        "recordingDurationMs": 151540,
+        "bytes": 1819116,
+        "sha256": "011d28fc38f8267b84424608739831ee9b0c4821e5ab6b4f55d8de6be1f39615",
+        "sharedAyahs": [
+          "42:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 828.36,
+            "end": 979.85
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 67340,
+        "durationMs": 67340,
+        "recordingDurationMs": 67340,
+        "bytes": 808812,
+        "sha256": "fd14676d79478d69499f90415c9f27ed11fc8c48a786c4469a817ad4721f9513",
+        "sharedAyahs": [
+          "42:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 979.85,
+            "end": 1047.18
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 360860,
+        "durationMs": 360860,
+        "recordingDurationMs": 360860,
+        "bytes": 4331052,
+        "sha256": "4070a8c39d11c89e4ed3b985b1f223173ad41a726b34fac09e4aab54f547b75e",
+        "sharedAyahs": [
+          "42:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 1047.18,
+            "end": 1408.03
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 54860,
+        "durationMs": 54860,
+        "recordingDurationMs": 54860,
+        "bytes": 659052,
+        "sha256": "cd7516c84849074cc91e45302008efa24228fc943f50523c5622927b14e1f610",
+        "sharedAyahs": [
+          "42:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tH_IhRh6QPc",
+            "start": 1408.03,
+            "end": 1462.85
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 289080,
+        "durationMs": 289080,
+        "recordingDurationMs": 289080,
+        "bytes": 3469644,
+        "sha256": "6c7dc98e9dc3580c94616bbaf97f796f634bca421f32de3eaf6fc1cd0d961a15",
+        "sharedAyahs": [
+          "42:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mZhOrVcniyY",
+            "start": 94.66,
+            "end": 383.73
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 1067950,
+        "durationMs": 1067950,
+        "recordingDurationMs": 1067950,
+        "bytes": 12816113,
+        "sha256": "347621fa470ad9f60141029cc2da899e17560f9d1f61d1959fdf01650b4cdf2d",
+        "sharedAyahs": [
+          "42:49",
+          "42:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mZhOrVcniyY",
+            "start": 383.73,
+            "end": 1451.65
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 191500,
+        "durationMs": 191500,
+        "recordingDurationMs": 191500,
+        "bytes": 2298636,
+        "sha256": "468c8ecb67ca77a30063bae93da8ec6d31c40336ca2a7b65f315a4cf39f0ced2",
+        "sharedAyahs": [
+          "42:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NlQOYVoa27c",
+            "start": 95.65,
+            "end": 287.12
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 1269829,
+        "durationMs": 1269829,
+        "recordingDurationMs": 1588970,
+        "bytes": 19068041,
+        "sha256": "d2172085f8f2ba94f2495bfa1d15f465e1b6cbfc228260a9e1af849f78b0855e",
+        "sharedAyahs": [
+          "42:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NlQOYVoa27c",
+            "start": 287.12,
+            "end": 1556.94
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/052.mp3",
+        "startMs": 1269829,
+        "endMs": 1588970,
+        "durationMs": 319141,
+        "recordingDurationMs": 1588970,
+        "bytes": 19068041,
+        "sha256": "d2172085f8f2ba94f2495bfa1d15f465e1b6cbfc228260a9e1af849f78b0855e",
+        "sharedAyahs": [
+          "42:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "MsLMAdMgws4",
+            "start": 20.89,
+            "end": 340.0
+          }
+        ]
+      },
+      {
+        "file": "042-الشورى-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 333360,
+        "durationMs": 333360,
+        "recordingDurationMs": 333360,
+        "bytes": 4001004,
+        "sha256": "786265a4dc04a06ddee7d6dbeeb74bb2b00a0a4ea10cb5ff19757ee258d8e654",
+        "sharedAyahs": [
+          "42:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "MsLMAdMgws4",
+            "start": 340.0,
+            "end": 673.34
+          }
+        ]
+      }
+    ],
+    "durationMs": 24243080,
+    "additionalAudioBytes": 0
+  }
+}
