@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "قناة الشيخ الشعراوي الرسمية (يوتيوب)",
+  "surah": 85,
+  "surahName": "البروج",
+  "ayahCount": 22,
+  "reviewStatus": "complete",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 22,
+    "mappedAyahCount": 22,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "WD8BIlT4pBQ": {
+      "durationSeconds": 3613.63,
+      "bytes": 43364308,
+      "sha256": "2b4a8efda8ae16066a3eb5868c28319a1636d1fbff4b53bfa8a9993a671dd351",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-022_WD8BIlT4pBQ.mp3",
+      "url": "https://www.youtube.com/watch?v=WD8BIlT4pBQ"
+    }
+  },
+  "ayahs": {
+    "85:1": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:2": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:3": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:4": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:5": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:6": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:7": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:8": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:9": {
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "durationMs": 875180,
+      "bytes": 10502635,
+      "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+      "sharedAyahs": [
+        "85:1",
+        "85:2",
+        "85:3",
+        "85:4",
+        "85:5",
+        "85:6",
+        "85:7",
+        "85:8",
+        "85:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 0.0,
+          "end": 53.17
+        },
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 93.3,
+          "end": 915.25
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات البروج وقصة أصحاب الأخدود والنار ذات الوقود وتجرد الإيمان (الآيات 1-9)"
+    },
+    "85:10": {
+      "file": "085-البروج-youtube-v1/010.mp3",
+      "durationMs": 532270,
+      "bytes": 6387953,
+      "sha256": "87cd581aa1b4923e44c8a3f37c4e752a62e8c5f16b9c3eec622dac622c465b32",
+      "sharedAyahs": [
+        "85:10",
+        "85:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 915.25,
+          "end": 1447.5
+        }
+      ],
+      "reviewNote": "تفسير عذاب الفاتنين للمؤمنين وجزاء المؤمنين بجنات تجري من تحتها الأنهار والفوز الكبير (الآيات 10-11)"
+    },
+    "85:11": {
+      "file": "085-البروج-youtube-v1/010.mp3",
+      "durationMs": 532270,
+      "bytes": 6387953,
+      "sha256": "87cd581aa1b4923e44c8a3f37c4e752a62e8c5f16b9c3eec622dac622c465b32",
+      "sharedAyahs": [
+        "85:10",
+        "85:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 915.25,
+          "end": 1447.5
+        }
+      ],
+      "reviewNote": "تفسير عذاب الفاتنين للمؤمنين وجزاء المؤمنين بجنات تجري من تحتها الأنهار والفوز الكبير (الآيات 10-11)"
+    },
+    "85:12": {
+      "file": "085-البروج-youtube-v1/012.mp3",
+      "durationMs": 1755530,
+      "bytes": 21067025,
+      "sha256": "496c8a0d057d8aeea5580d1f93a426ec63d1718683fdedc7f791884da5bcb7be",
+      "sharedAyahs": [
+        "85:12",
+        "85:13",
+        "85:14",
+        "85:15",
+        "85:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 1447.5,
+          "end": 3203.0
+        }
+      ],
+      "reviewNote": "تفسير إن بطش ربك لشديد وإنه هو يبدئ ويعيد وهو الغفور الودود ذو العرش المجيد فعال لما يريد (الآيات 12-16)"
+    },
+    "85:13": {
+      "file": "085-البروج-youtube-v1/012.mp3",
+      "durationMs": 1755530,
+      "bytes": 21067025,
+      "sha256": "496c8a0d057d8aeea5580d1f93a426ec63d1718683fdedc7f791884da5bcb7be",
+      "sharedAyahs": [
+        "85:12",
+        "85:13",
+        "85:14",
+        "85:15",
+        "85:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 1447.5,
+          "end": 3203.0
+        }
+      ],
+      "reviewNote": "تفسير إن بطش ربك لشديد وإنه هو يبدئ ويعيد وهو الغفور الودود ذو العرش المجيد فعال لما يريد (الآيات 12-16)"
+    },
+    "85:14": {
+      "file": "085-البروج-youtube-v1/012.mp3",
+      "durationMs": 1755530,
+      "bytes": 21067025,
+      "sha256": "496c8a0d057d8aeea5580d1f93a426ec63d1718683fdedc7f791884da5bcb7be",
+      "sharedAyahs": [
+        "85:12",
+        "85:13",
+        "85:14",
+        "85:15",
+        "85:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 1447.5,
+          "end": 3203.0
+        }
+      ],
+      "reviewNote": "تفسير إن بطش ربك لشديد وإنه هو يبدئ ويعيد وهو الغفور الودود ذو العرش المجيد فعال لما يريد (الآيات 12-16)"
+    },
+    "85:15": {
+      "file": "085-البروج-youtube-v1/012.mp3",
+      "durationMs": 1755530,
+      "bytes": 21067025,
+      "sha256": "496c8a0d057d8aeea5580d1f93a426ec63d1718683fdedc7f791884da5bcb7be",
+      "sharedAyahs": [
+        "85:12",
+        "85:13",
+        "85:14",
+        "85:15",
+        "85:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 1447.5,
+          "end": 3203.0
+        }
+      ],
+      "reviewNote": "تفسير إن بطش ربك لشديد وإنه هو يبدئ ويعيد وهو الغفور الودود ذو العرش المجيد فعال لما يريد (الآيات 12-16)"
+    },
+    "85:16": {
+      "file": "085-البروج-youtube-v1/012.mp3",
+      "durationMs": 1755530,
+      "bytes": 21067025,
+      "sha256": "496c8a0d057d8aeea5580d1f93a426ec63d1718683fdedc7f791884da5bcb7be",
+      "sharedAyahs": [
+        "85:12",
+        "85:13",
+        "85:14",
+        "85:15",
+        "85:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 1447.5,
+          "end": 3203.0
+        }
+      ],
+      "reviewNote": "تفسير إن بطش ربك لشديد وإنه هو يبدئ ويعيد وهو الغفور الودود ذو العرش المجيد فعال لما يريد (الآيات 12-16)"
+    },
+    "85:17": {
+      "file": "085-البروج-youtube-v1/017.mp3",
+      "durationMs": 410620,
+      "bytes": 4928081,
+      "sha256": "6d19c7b9a7b7bf2a485ffbc0a0564793245bf72d176a7580bb564dfdee0e6334",
+      "sharedAyahs": [
+        "85:17",
+        "85:18",
+        "85:19",
+        "85:20",
+        "85:21",
+        "85:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 3203.0,
+          "end": 3613.632
+        }
+      ],
+      "reviewNote": "تفسير هل أتاك حديث الجنود فرعون وثمود وتكذيب الكفار ومجد القرآن في لوح محفوظ (الآيات 17-22)"
+    },
+    "85:18": {
+      "file": "085-البروج-youtube-v1/017.mp3",
+      "durationMs": 410620,
+      "bytes": 4928081,
+      "sha256": "6d19c7b9a7b7bf2a485ffbc0a0564793245bf72d176a7580bb564dfdee0e6334",
+      "sharedAyahs": [
+        "85:17",
+        "85:18",
+        "85:19",
+        "85:20",
+        "85:21",
+        "85:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 3203.0,
+          "end": 3613.632
+        }
+      ],
+      "reviewNote": "تفسير هل أتاك حديث الجنود فرعون وثمود وتكذيب الكفار ومجد القرآن في لوح محفوظ (الآيات 17-22)"
+    },
+    "85:19": {
+      "file": "085-البروج-youtube-v1/017.mp3",
+      "durationMs": 410620,
+      "bytes": 4928081,
+      "sha256": "6d19c7b9a7b7bf2a485ffbc0a0564793245bf72d176a7580bb564dfdee0e6334",
+      "sharedAyahs": [
+        "85:17",
+        "85:18",
+        "85:19",
+        "85:20",
+        "85:21",
+        "85:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 3203.0,
+          "end": 3613.632
+        }
+      ],
+      "reviewNote": "تفسير هل أتاك حديث الجنود فرعون وثمود وتكذيب الكفار ومجد القرآن في لوح محفوظ (الآيات 17-22)"
+    },
+    "85:20": {
+      "file": "085-البروج-youtube-v1/017.mp3",
+      "durationMs": 410620,
+      "bytes": 4928081,
+      "sha256": "6d19c7b9a7b7bf2a485ffbc0a0564793245bf72d176a7580bb564dfdee0e6334",
+      "sharedAyahs": [
+        "85:17",
+        "85:18",
+        "85:19",
+        "85:20",
+        "85:21",
+        "85:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 3203.0,
+          "end": 3613.632
+        }
+      ],
+      "reviewNote": "تفسير هل أتاك حديث الجنود فرعون وثمود وتكذيب الكفار ومجد القرآن في لوح محفوظ (الآيات 17-22)"
+    },
+    "85:21": {
+      "file": "085-البروج-youtube-v1/017.mp3",
+      "durationMs": 410620,
+      "bytes": 4928081,
+      "sha256": "6d19c7b9a7b7bf2a485ffbc0a0564793245bf72d176a7580bb564dfdee0e6334",
+      "sharedAyahs": [
+        "85:17",
+        "85:18",
+        "85:19",
+        "85:20",
+        "85:21",
+        "85:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 3203.0,
+          "end": 3613.632
+        }
+      ],
+      "reviewNote": "تفسير هل أتاك حديث الجنود فرعون وثمود وتكذيب الكفار ومجد القرآن في لوح محفوظ (الآيات 17-22)"
+    },
+    "85:22": {
+      "file": "085-البروج-youtube-v1/017.mp3",
+      "durationMs": 410620,
+      "bytes": 4928081,
+      "sha256": "6d19c7b9a7b7bf2a485ffbc0a0564793245bf72d176a7580bb564dfdee0e6334",
+      "sharedAyahs": [
+        "85:17",
+        "85:18",
+        "85:19",
+        "85:20",
+        "85:21",
+        "85:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WD8BIlT4pBQ",
+          "start": 3203.0,
+          "end": 3613.632
+        }
+      ],
+      "reviewNote": "تفسير هل أتاك حديث الجنود فرعون وثمود وتكذيب الكفار ومجد القرآن في لوح محفوظ (الآيات 17-22)"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/watch?v=WD8BIlT4pBQ",
+  "audioProcessing": "libmp3lame-90k-mono-48khz-stream-copy-sliced-jingle-stripped",
+  "alignmentMethod": "faster-whisper-large-v3-turbo-cuda-word-timestamps",
+  "topics": [
+    {
+      "id": "burooj-constellations-and-akhdood-1-9",
+      "title": "قسم السماء ذات البروج وقصة أصحاب الأخدود وطغيان الكفر ونصرة الإيمان (الآيات 1-9)",
+      "file": "085-البروج-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 875120
+    },
+    {
+      "id": "burooj-persecutors-fate-and-believers-reward-10-11",
+      "title": "وعيد الفاتنين بالمؤمنين بعذاب جهنم وبشرى المؤمنين بجنات النعيم والفوز الكبير (الآيات 10-11)",
+      "file": "085-البروج-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 532250
+    },
+    {
+      "id": "burooj-divine-might-and-majesty-12-16",
+      "title": "شدة بطش الله وأسرار البدء والإعادة وأسماء الغفور الودود ذي العرش المجيد الفعال لما يريد (الآيات 12-16)",
+      "file": "085-البروج-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 1755500
+    },
+    {
+      "id": "burooj-pharaoh-thamud-and-quran-17-22",
+      "title": "عبرة الجنود فرعون وثمود وإحاطة الله بالكافرين ومجد القرآن المحفوظ (الآيات 17-22)",
+      "file": "085-البروج-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 410620
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "WD8BIlT4pBQ"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "085-البروج-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 53185,
+        "durationMs": 53185,
+        "recordingDurationMs": 875180,
+        "bytes": 10502635,
+        "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+        "sharedAyahs": [
+          "85:1",
+          "85:2",
+          "85:3",
+          "85:4",
+          "85:5",
+          "85:6",
+          "85:7",
+          "85:8",
+          "85:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WD8BIlT4pBQ",
+            "start": 0.0,
+            "end": 53.17
+          }
+        ]
+      },
+      {
+        "file": "085-البروج-youtube-v1/001.mp3",
+        "startMs": 53185,
+        "endMs": 875180,
+        "durationMs": 821995,
+        "recordingDurationMs": 875180,
+        "bytes": 10502635,
+        "sha256": "aeab033df1ecedcd080048eed82ea10b48e419cee27ae40561b39580826cde9f",
+        "sharedAyahs": [
+          "85:1",
+          "85:2",
+          "85:3",
+          "85:4",
+          "85:5",
+          "85:6",
+          "85:7",
+          "85:8",
+          "85:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WD8BIlT4pBQ",
+            "start": 93.3,
+            "end": 915.25
+          }
+        ]
+      },
+      {
+        "file": "085-البروج-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 532270,
+        "durationMs": 532270,
+        "recordingDurationMs": 532270,
+        "bytes": 6387953,
+        "sha256": "87cd581aa1b4923e44c8a3f37c4e752a62e8c5f16b9c3eec622dac622c465b32",
+        "sharedAyahs": [
+          "85:10",
+          "85:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WD8BIlT4pBQ",
+            "start": 915.25,
+            "end": 1447.5
+          }
+        ]
+      },
+      {
+        "file": "085-البروج-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 1755530,
+        "durationMs": 1755530,
+        "recordingDurationMs": 1755530,
+        "bytes": 21067025,
+        "sha256": "496c8a0d057d8aeea5580d1f93a426ec63d1718683fdedc7f791884da5bcb7be",
+        "sharedAyahs": [
+          "85:12",
+          "85:13",
+          "85:14",
+          "85:15",
+          "85:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WD8BIlT4pBQ",
+            "start": 1447.5,
+            "end": 3203.0
+          }
+        ]
+      },
+      {
+        "file": "085-البروج-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 410620,
+        "durationMs": 410620,
+        "recordingDurationMs": 410620,
+        "bytes": 4928081,
+        "sha256": "6d19c7b9a7b7bf2a485ffbc0a0564793245bf72d176a7580bb564dfdee0e6334",
+        "sharedAyahs": [
+          "85:17",
+          "85:18",
+          "85:19",
+          "85:20",
+          "85:21",
+          "85:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WD8BIlT4pBQ",
+            "start": 3203.0,
+            "end": 3613.632
+          }
+        ]
+      }
+    ],
+    "durationMs": 3573600,
+    "additionalAudioBytes": 0
+  }
+}
