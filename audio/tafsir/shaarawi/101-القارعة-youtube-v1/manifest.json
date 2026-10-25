@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "قناة الشيخ الشعراوي الرسمية (يوتيوب)",
+  "surah": 101,
+  "surahName": "القارعة",
+  "ayahCount": 11,
+  "reviewStatus": "complete",
+  "editionStatus": "incomplete_experimental",
+  "coverage": {
+    "complete": false,
+    "totalAyahCount": 11,
+    "mappedAyahCount": 7,
+    "missingAyahs": [
+      "101:8",
+      "101:9",
+      "101:10",
+      "101:11"
+    ],
+    "missingCommentary": [
+      {
+        "ayah": "101:8",
+        "reason": "لم يُسجل أو لم يُحفظ في الأرشيف التلفزيوني المتاح حلقة تفسير الآية 8؛ ينتهي التسجيل التلفزيوني المتاح عند ختام تفسير الآية 7."
+      },
+      {
+        "ayah": "101:9",
+        "reason": "لم يُسجل أو لم يُحفظ في الأرشيف التلفزيوني المتاح حلقة تفسير الآية 9؛ ينتهي التسجيل التلفزيوني المتاح عند ختام تفسير الآية 7."
+      },
+      {
+        "ayah": "101:10",
+        "reason": "لم يُسجل أو لم يُحفظ في الأرشيف التلفزيوني المتاح حلقة تفسير الآية 10؛ ينتهي التسجيل التلفزيوني المتاح عند ختام تفسير الآية 7."
+      },
+      {
+        "ayah": "101:11",
+        "reason": "لم يُسجل أو لم يُحفظ في الأرشيف التلفزيوني المتاح حلقة تفسير الآية 11؛ ينتهي التسجيل التلفزيوني المتاح عند ختام تفسير الآية 7."
+      }
+    ]
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "cMnA46pLLso": {
+      "durationSeconds": 4091.16,
+      "bytes": 49094252,
+      "sha256": "6e17bdb937ef54cac8653fc0409a5f54e1719f267821e764433dc4ba181e664f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-011_cMnA46pLLso.mp3",
+      "url": "https://www.youtube.com/watch?v=cMnA46pLLso"
+    }
+  },
+  "ayahs": {
+    "101:1": {
+      "file": "101-القارعة-youtube-v1/001.mp3",
+      "durationMs": 2057040,
+      "bytes": 24684909,
+      "sha256": "c3c7ec1ff151567ab766ae4e86a9c92e53756b32ce2fc267fc1c094ae0c6005d",
+      "sharedAyahs": [
+        "101:1",
+        "101:2",
+        "101:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cMnA46pLLso",
+          "start": 0.0,
+          "end": 2057.0
+        }
+      ],
+      "reviewNote": "تفسير القارعة ما القارعة وما أدراك ما القارعة وأهوال القيامة والإبهام والتهويل والتعظيم (الآيات 1-3)"
+    },
+    "101:2": {
+      "file": "101-القارعة-youtube-v1/001.mp3",
+      "durationMs": 2057040,
+      "bytes": 24684909,
+      "sha256": "c3c7ec1ff151567ab766ae4e86a9c92e53756b32ce2fc267fc1c094ae0c6005d",
+      "sharedAyahs": [
+        "101:1",
+        "101:2",
+        "101:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cMnA46pLLso",
+          "start": 0.0,
+          "end": 2057.0
+        }
+      ],
+      "reviewNote": "تفسير القارعة ما القارعة وما أدراك ما القارعة وأهوال القيامة والإبهام والتهويل والتعظيم (الآيات 1-3)"
+    },
+    "101:3": {
+      "file": "101-القارعة-youtube-v1/001.mp3",
+      "durationMs": 2057040,
+      "bytes": 24684909,
+      "sha256": "c3c7ec1ff151567ab766ae4e86a9c92e53756b32ce2fc267fc1c094ae0c6005d",
+      "sharedAyahs": [
+        "101:1",
+        "101:2",
+        "101:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cMnA46pLLso",
+          "start": 0.0,
+          "end": 2057.0
+        }
+      ],
+      "reviewNote": "تفسير القارعة ما القارعة وما أدراك ما القارعة وأهوال القيامة والإبهام والتهويل والتعظيم (الآيات 1-3)"
+    },
+    "101:4": {
+      "file": "101-القارعة-youtube-v1/004.mp3",
+      "durationMs": 310510,
+      "bytes": 3726573,
+      "sha256": "d26ed1b838662b1e5a1dd14c0d53beb8e4c623bdc7eb5c57008b036026fe3c18",
+      "sharedAyahs": [
+        "101:4",
+        "101:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cMnA46pLLso",
+          "start": 2057.0,
+          "end": 2367.5
+        }
+      ],
+      "reviewNote": "تفسير يوم يكون الناس كالفراش المبثوث وتكون الجبال كالعهن المنفوش (الآيتان 4-5)"
+    },
+    "101:5": {
+      "file": "101-القارعة-youtube-v1/004.mp3",
+      "durationMs": 310510,
+      "bytes": 3726573,
+      "sha256": "d26ed1b838662b1e5a1dd14c0d53beb8e4c623bdc7eb5c57008b036026fe3c18",
+      "sharedAyahs": [
+        "101:4",
+        "101:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cMnA46pLLso",
+          "start": 2057.0,
+          "end": 2367.5
+        }
+      ],
+      "reviewNote": "تفسير يوم يكون الناس كالفراش المبثوث وتكون الجبال كالعهن المنفوش (الآيتان 4-5)"
+    },
+    "101:6": {
+      "file": "101-القارعة-youtube-v1/006.mp3",
+      "durationMs": 1116480,
+      "bytes": 13398185,
+      "sha256": "25790e0aaaba873926c639b24859eb05a27a930384dd4274a7d0da29886d1c9d",
+      "sharedAyahs": [
+        "101:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cMnA46pLLso",
+          "start": 2367.5,
+          "end": 3483.95
+        }
+      ],
+      "reviewNote": "تفسير فأما من ثقلت موازينه وضبط الحقوق والموازين المعنوية والمادية وتساوي الكفتين (الآية 6)"
+    },
+    "101:7": {
+      "file": "101-القارعة-youtube-v1/007.mp3",
+      "durationMs": 607200,
+      "bytes": 7286825,
+      "sha256": "282c79c4a374a229fd38804688607ba52751eaa766e7fbcceeee6ac69fa02caf",
+      "sharedAyahs": [
+        "101:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cMnA46pLLso",
+          "start": 3483.95,
+          "end": 4091.16
+        }
+      ],
+      "reviewNote": "تفسير فهو في عيشة راضية ومعنى الرضا وعواطف الجمادات وبكاء السماء والأرض وحسن الجزاء (الآية 7)"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/watch?v=cMnA46pLLso",
+  "audioProcessing": "libmp3lame-90k-mono-48khz-stream-copy-sliced-jingle-stripped",
+  "alignmentMethod": "faster-whisper-large-v3-turbo-cuda-word-timestamps",
+  "topics": [
+    {
+      "id": "qariah-cataclysm-and-name-1-3",
+      "title": "أهوال يوم القيامة وإبهام القارعة وتهويلها وأسرار التعبير القرآني بـ (القارعة ما القارعة وما أدراك ما القارعة) (الآيات 1-3)",
+      "file": "101-القارعة-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 2057000
+    },
+    {
+      "id": "qariah-moths-and-mountains-4-5",
+      "title": "حال الناس يوم القيامة كالفراش المبثوث وتسيير الجبال وتطايرها كالعهن المنفوش (الآيتان 4-5)",
+      "file": "101-القارعة-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 310500
+    },
+    {
+      "id": "qariah-heavy-scales-6",
+      "title": "موازين القسط يوم القيامة وثقل موازين الحسنات وتساوي الكفتين وسبق رحمة الله لغضبه (الآية 6)",
+      "file": "101-القارعة-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 1116450
+    },
+    {
+      "id": "qariah-pleasing-life-7",
+      "title": "معنى العيشة الراضية ونعيم أهل الجنة وحياة الجمادات وعواطفها وشهادتها للمؤمن (الآية 7)",
+      "file": "101-القارعة-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 607200
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "cMnA46pLLso"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "101-القارعة-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 2057040,
+        "durationMs": 2057040,
+        "recordingDurationMs": 2057040,
+        "bytes": 24684909,
+        "sha256": "c3c7ec1ff151567ab766ae4e86a9c92e53756b32ce2fc267fc1c094ae0c6005d",
+        "sharedAyahs": [
+          "101:1",
+          "101:2",
+          "101:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cMnA46pLLso",
+            "start": 0.0,
+            "end": 2057.0
+          }
+        ]
+      },
+      {
+        "file": "101-القارعة-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 310510,
+        "durationMs": 310510,
+        "recordingDurationMs": 310510,
+        "bytes": 3726573,
+        "sha256": "d26ed1b838662b1e5a1dd14c0d53beb8e4c623bdc7eb5c57008b036026fe3c18",
+        "sharedAyahs": [
+          "101:4",
+          "101:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cMnA46pLLso",
+            "start": 2057.0,
+            "end": 2367.5
+          }
+        ]
+      },
+      {
+        "file": "101-القارعة-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 1116480,
+        "durationMs": 1116480,
+        "recordingDurationMs": 1116480,
+        "bytes": 13398185,
+        "sha256": "25790e0aaaba873926c639b24859eb05a27a930384dd4274a7d0da29886d1c9d",
+        "sharedAyahs": [
+          "101:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cMnA46pLLso",
+            "start": 2367.5,
+            "end": 3483.95
+          }
+        ]
+      },
+      {
+        "file": "101-القارعة-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 607200,
+        "durationMs": 607200,
+        "recordingDurationMs": 607200,
+        "bytes": 7286825,
+        "sha256": "282c79c4a374a229fd38804688607ba52751eaa766e7fbcceeee6ac69fa02caf",
+        "sharedAyahs": [
+          "101:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cMnA46pLLso",
+            "start": 3483.95,
+            "end": 4091.16
+          }
+        ]
+      }
+    ],
+    "durationMs": 4091230,
+    "additionalAudioBytes": 0
+  }
+}
