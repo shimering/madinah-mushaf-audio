@@ -77,66 +77,60 @@
   "ayahs": {
     "57:1": {
       "file": "057-الحديد-youtube-v1/001.mp3",
-      "durationMs": 1934020,
-      "bytes": 23208785,
-      "sha256": "59d7dfdaf2b02ab2588892fda10de180c392b514b689a9153f1d9252c95d49d6",
+      "durationMs": 1090010,
+      "bytes": 13080685,
+      "sha256": "2874f6ba6a62f346b783ef0aed4feff696f6cc95611ff1b9c191da74f692cd5a",
       "sharedAyahs": [
-        "57:1",
-        "57:2",
-        "57:3"
+        "57:1"
       ],
       "sourceIntervals": [
         {
           "source": "6L-vT_ankWE",
-          "start": 0.0,
-          "end": 1933.97
+          "start": 8.56,
+          "end": 1098.55
         }
       ],
-      "reviewNote": "تفسير الآيات 1-3: سبح لله ما في السماوات والأرض وهو العزيز الحكيم له ملك السماوات والأرض يحيي ويميت وهو على كل شيء قدير هو الأول والآخر والظاهر والباطن"
+      "reviewNote": "تفسير الآية 1: سبح لله ما في السماوات والأرض وهو العزيز الحكيم"
     },
     "57:2": {
-      "file": "057-الحديد-youtube-v1/001.mp3",
-      "durationMs": 1934020,
-      "bytes": 23208785,
-      "sha256": "59d7dfdaf2b02ab2588892fda10de180c392b514b689a9153f1d9252c95d49d6",
+      "file": "057-الحديد-youtube-v1/002.mp3",
+      "durationMs": 155420,
+      "bytes": 1865677,
+      "sha256": "a81074c614c608d5202d26339be7d6e1ae3b9dbbfd97d5d465f365d68e65808b",
       "sharedAyahs": [
-        "57:1",
-        "57:2",
-        "57:3"
+        "57:2"
       ],
       "sourceIntervals": [
         {
           "source": "6L-vT_ankWE",
-          "start": 0.0,
-          "end": 1933.97
+          "start": 1098.55,
+          "end": 1253.94
         }
       ],
-      "reviewNote": "تفسير الآيات 1-3: سبح لله ما في السماوات والأرض وهو العزيز الحكيم له ملك السماوات والأرض يحيي ويميت وهو على كل شيء قدير هو الأول والآخر والظاهر والباطن"
+      "reviewNote": "تفسير الآية 2: له ملك السماوات والأرض يحيي ويميت وهو على كل شيء قدير"
     },
     "57:3": {
-      "file": "057-الحديد-youtube-v1/001.mp3",
-      "durationMs": 1934020,
-      "bytes": 23208785,
-      "sha256": "59d7dfdaf2b02ab2588892fda10de180c392b514b689a9153f1d9252c95d49d6",
+      "file": "057-الحديد-youtube-v1/003.mp3",
+      "durationMs": 680060,
+      "bytes": 8161357,
+      "sha256": "d8bbcf5ab3ea928be98a94934907408a154563d1695b512140d4a0f6699a925d",
       "sharedAyahs": [
-        "57:1",
-        "57:2",
         "57:3"
       ],
       "sourceIntervals": [
         {
           "source": "6L-vT_ankWE",
-          "start": 0.0,
+          "start": 1253.94,
           "end": 1933.97
         }
       ],
-      "reviewNote": "تفسير الآيات 1-3: سبح لله ما في السماوات والأرض وهو العزيز الحكيم له ملك السماوات والأرض يحيي ويميت وهو على كل شيء قدير هو الأول والآخر والظاهر والباطن"
+      "reviewNote": "تفسير الآية 3: هو الأول والآخر والظاهر والباطن وهو بكل شيء عليم"
     },
     "57:4": {
       "file": "057-الحديد-youtube-v1/004.mp3",
-      "durationMs": 1107600,
-      "bytes": 13291793,
-      "sha256": "c71a4193d5b5628b278f04db8871cb09fd4c2f86ff44641b0091032788bc3110",
+      "durationMs": 1079380,
+      "bytes": 12953105,
+      "sha256": "473bbf309feb94d3b1124a412ff3ee44ad4cffe2a916e29d21daf64f3f574177",
       "sharedAyahs": [
         "57:4",
         "57:5"
@@ -144,17 +138,17 @@
       "sourceIntervals": [
         {
           "source": "QEhCFQZe-Y4",
-          "start": 0.0,
+          "start": 28.22,
           "end": 1107.56
         }
       ],
-      "reviewNote": "تفسير الآيات 4-5: هو الذي خلق السماوات والأرض في ستة أيام ثم استوى على العرش يعلم ما يلج في الأرض وما يخرج منها..."
+      "reviewNote": "تفسير الآيات 4-5: هو الذي خلق السماوات والأرض في ستة أيام ثم استوى على العرش..."
     },
     "57:5": {
       "file": "057-الحديد-youtube-v1/004.mp3",
-      "durationMs": 1107600,
-      "bytes": 13291793,
-      "sha256": "c71a4193d5b5628b278f04db8871cb09fd4c2f86ff44641b0091032788bc3110",
+      "durationMs": 1079380,
+      "bytes": 12953105,
+      "sha256": "473bbf309feb94d3b1124a412ff3ee44ad4cffe2a916e29d21daf64f3f574177",
       "sharedAyahs": [
         "57:4",
         "57:5"
@@ -162,11 +156,11 @@
       "sourceIntervals": [
         {
           "source": "QEhCFQZe-Y4",
-          "start": 0.0,
+          "start": 28.22,
           "end": 1107.56
         }
       ],
-      "reviewNote": "تفسير الآيات 4-5: هو الذي خلق السماوات والأرض في ستة أيام ثم استوى على العرش يعلم ما يلج في الأرض وما يخرج منها..."
+      "reviewNote": "تفسير الآيات 4-5: هو الذي خلق السماوات والأرض في ستة أيام ثم استوى على العرش..."
     },
     "57:6": {
       "file": "057-الحديد-youtube-v1/006.mp3",
@@ -206,16 +200,21 @@
     },
     "57:8": {
       "file": "057-الحديد-youtube-v1/008.mp3",
-      "durationMs": 618620,
-      "bytes": 7424077,
-      "sha256": "cceb05056d66d04c778992d2543eeffccc57d967de3492259742485de160961b",
+      "durationMs": 621860,
+      "bytes": 7462791,
+      "sha256": "4cd34820855a50176a1ccf45b44d69dcc338c7ffb7b70a797f68a7515c64bde1",
       "sharedAyahs": [
         "57:8"
       ],
       "sourceIntervals": [
         {
+          "source": "QEhCFQZe-Y4",
+          "start": 1682.47,
+          "end": 1691.38
+        },
+        {
           "source": "TL13hY5TFG8",
-          "start": 0.0,
+          "start": 5.65,
           "end": 618.6
         }
       ],
@@ -257,16 +256,16 @@
     },
     "57:11": {
       "file": "057-الحديد-youtube-v1/011.mp3",
-      "durationMs": 588240,
-      "bytes": 7059471,
-      "sha256": "6fd80401dafe016d46153fb5c04b3d8cb366c3191696046596de844110b0e515",
+      "durationMs": 530520,
+      "bytes": 6366831,
+      "sha256": "5114e0359049fe0c9ad0e1d4509856cd1eb262c9e48a93e2029a9f3bdda954c5",
       "sharedAyahs": [
         "57:11"
       ],
       "sourceIntervals": [
         {
           "source": "nbS6kQmEbY8",
-          "start": 0.0,
+          "start": 57.71,
           "end": 588.2
         }
       ],
@@ -414,20 +413,25 @@
     },
     "57:20": {
       "file": "057-الحديد-youtube-v1/020.mp3",
-      "durationMs": 294700,
-      "bytes": 3536943,
-      "sha256": "856371f46b6159313eb17b43ab9462e6343a6adfbfd99bf15913036af3520034",
+      "durationMs": 552580,
+      "bytes": 6631337,
+      "sha256": "a619b508c243ccd83b8d714a0f23bfed5ae94676bf34b7e6625cccd91fae4980",
       "sharedAyahs": [
         "57:20"
       ],
       "sourceIntervals": [
         {
+          "source": "nbS6kQmEbY8",
+          "start": 1534.96,
+          "end": 1796.14
+        },
+        {
           "source": "6hzimrEonGM",
-          "start": 0.0,
+          "start": 3.28,
           "end": 294.67
         }
       ],
-      "reviewNote": "تفسير الآية 20: اعلموا أنما الحياة الدنيا لعب ولهو وزينة وتفاخر بينكم وتكاثر في الأموال والأولاد كمثل غيث أعجب الكفار نباته ثم يهيج فتراه مصفرا"
+      "reviewNote": "تفسير الآية 20: اعلموا أنما الحياة الدنيا لعب ولهو وزينة وتفاخر بينكم وتكاثر في الأموال والأولاد"
     },
     "57:21": {
       "file": "057-الحديد-youtube-v1/021.mp3",
@@ -444,7 +448,7 @@
           "end": 889.32
         }
       ],
-      "reviewNote": "تفسير الآية 21: سابقوا إلى مغفرة من ربكم وجنة عرضها كعرض السماء والأرض أعدت للذين آمنوا بالله ورسله ذلك فضل الله يؤتيه من يشاء"
+      "reviewNote": "تفسير الآية 21: سابقوا إلى مغفرة من ربكم وجنة عرضها كعرض السماء والأرض أعدت للذين آمنوا بالله ورسله"
     },
     "57:22": {
       "file": "057-الحديد-youtube-v1/022.mp3",
@@ -465,16 +469,16 @@
     },
     "57:23": {
       "file": "057-الحديد-youtube-v1/023.mp3",
-      "durationMs": 464300,
-      "bytes": 5572239,
-      "sha256": "74055a6b52e48658d53e6ec513fd4fb63e9756340aa45f9f1c7e4e28f3bbd736",
+      "durationMs": 434160,
+      "bytes": 5210511,
+      "sha256": "c9a2d613e5e8052b4ba6c398644bcc18aa9f7f90ef39b3471fbffa41d254838b",
       "sharedAyahs": [
         "57:23"
       ],
       "sourceIntervals": [
         {
           "source": "xEt-YsGJ98Q",
-          "start": 0.0,
+          "start": 30.13,
           "end": 464.27
         }
       ],
@@ -499,16 +503,21 @@
     },
     "57:25": {
       "file": "057-الحديد-youtube-v1/025.mp3",
-      "durationMs": 829660,
-      "bytes": 9956463,
-      "sha256": "700ed4c5a604f3667b81058df9814a521260ac7d2821ebbef679d3162acc8f3f",
+      "durationMs": 1858610,
+      "bytes": 22303721,
+      "sha256": "b917ed4febccb0cb12f61d45365d4cbb9c92439083667822c1bd507414328587",
       "sharedAyahs": [
         "57:25"
       ],
       "sourceIntervals": [
         {
+          "source": "xEt-YsGJ98Q",
+          "start": 1194.28,
+          "end": 2225.28
+        },
+        {
           "source": "rzxdxfD19T8",
-          "start": 0.0,
+          "start": 2.04,
           "end": 829.63
         }
       ],
@@ -587,7 +596,7 @@
   },
   "extraTracks": [
     {
-      "file": "057-الحديد-youtube-v1/closing-01.mp3",
+      "file": "057-الحديد-youtube-v1/closing-03.mp3",
       "kind": "closing",
       "durationMs": 461780,
       "bytes": 5541992,
@@ -601,54 +610,6 @@
         }
       ],
       "reviewNote": "مقدمة الآية 4 وتمهيد للدرس التالي"
-    },
-    {
-      "file": "057-الحديد-youtube-v1/closing-04.mp3",
-      "kind": "closing",
-      "durationMs": 8900,
-      "bytes": 107432,
-      "sha256": "c17706ad7196b47f7ea3eb8e667b5dedb227c96df32488c98d1a1d2435e95530",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "QEhCFQZe-Y4",
-          "start": 1682.47,
-          "end": 1691.38
-        }
-      ],
-      "reviewNote": "تمهيد للآية 8 وخاتمة الدرس الثاني"
-    },
-    {
-      "file": "057-الحديد-youtube-v1/closing-15.mp3",
-      "kind": "closing",
-      "durationMs": 261170,
-      "bytes": 3134600,
-      "sha256": "e69eb55393c0662662ed9e8197d0ec47fb1bbf63f904d56edeefcafc90ae95e5",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "nbS6kQmEbY8",
-          "start": 1534.96,
-          "end": 1796.14
-        }
-      ],
-      "reviewNote": "تمهيد للآية 20 وخاتمة الدرس الرابع"
-    },
-    {
-      "file": "057-الحديد-youtube-v1/closing-21.mp3",
-      "kind": "closing",
-      "durationMs": 1030990,
-      "bytes": 12372488,
-      "sha256": "d8a995b1562f13854227a2fa42d497f0d6f234416380839aaffcbbfbd567f8e9",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "xEt-YsGJ98Q",
-          "start": 1194.28,
-          "end": 2225.28
-        }
-      ],
-      "reviewNote": "مقدمة الآية 25 وتمهيد لدرس إنزال الحديد"
     }
   ],
   "sourceUrl": "https://www.youtube.com/playlist?list=PL681014CD9980695B",
@@ -659,14 +620,14 @@
       "title": "عظمة الأسماء الحسنى: هو الأول والآخر والظاهر والباطن وتسبيح الكائنات",
       "file": "057-الحديد-youtube-v1/001.mp3",
       "startMs": 0,
-      "endMs": 1933970
+      "endMs": 1089990
     },
     {
       "id": "hadid-light-of-believers-and-hypocrites",
       "title": "نور المؤمنين يوم القيامة وحسرة المنافقين وراء السور",
       "file": "057-الحديد-youtube-v1/011.mp3",
       "startMs": 0,
-      "endMs": 588200
+      "endMs": 530490
     },
     {
       "id": "hadid-call-to-humility-of-hearts",
@@ -680,14 +641,14 @@
       "title": "حقيقة الحياة الدنيا كغيث أعجب الكفار نباته والمسابقة إلى مغفرة وجنة عرضها كعرض السماء والأرض",
       "file": "057-الحديد-youtube-v1/020.mp3",
       "startMs": 0,
-      "endMs": 294670
+      "endMs": 552570
     },
     {
       "id": "hadid-sending-down-iron-and-divine-grace",
       "title": "إنزال الحديد فيه بأس شديد ومنافع للناس وأن الفضل بيد الله يؤتيه من يشاء",
       "file": "057-الحديد-youtube-v1/025.mp3",
       "startMs": 0,
-      "endMs": 829630
+      "endMs": 1858590
     }
   ],
   "fullSurah": {
@@ -706,26 +667,62 @@
       {
         "file": "057-الحديد-youtube-v1/001.mp3",
         "startMs": 0,
-        "endMs": 1934020,
-        "durationMs": 1934020,
-        "recordingDurationMs": 1934020,
-        "bytes": 23208785,
-        "sha256": "59d7dfdaf2b02ab2588892fda10de180c392b514b689a9153f1d9252c95d49d6",
+        "endMs": 1090010,
+        "durationMs": 1090010,
+        "recordingDurationMs": 1090010,
+        "bytes": 13080685,
+        "sha256": "2874f6ba6a62f346b783ef0aed4feff696f6cc95611ff1b9c191da74f692cd5a",
         "sharedAyahs": [
-          "57:1",
-          "57:2",
+          "57:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6L-vT_ankWE",
+            "start": 8.56,
+            "end": 1098.55
+          }
+        ]
+      },
+      {
+        "file": "057-الحديد-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 155420,
+        "durationMs": 155420,
+        "recordingDurationMs": 155420,
+        "bytes": 1865677,
+        "sha256": "a81074c614c608d5202d26339be7d6e1ae3b9dbbfd97d5d465f365d68e65808b",
+        "sharedAyahs": [
+          "57:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6L-vT_ankWE",
+            "start": 1098.55,
+            "end": 1253.94
+          }
+        ]
+      },
+      {
+        "file": "057-الحديد-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 680060,
+        "durationMs": 680060,
+        "recordingDurationMs": 680060,
+        "bytes": 8161357,
+        "sha256": "d8bbcf5ab3ea928be98a94934907408a154563d1695b512140d4a0f6699a925d",
+        "sharedAyahs": [
           "57:3"
         ],
         "sourceIntervals": [
           {
             "source": "6L-vT_ankWE",
-            "start": 0.0,
+            "start": 1253.94,
             "end": 1933.97
           }
         ]
       },
       {
-        "file": "057-الحديد-youtube-v1/closing-01.mp3",
+        "file": "057-الحديد-youtube-v1/closing-03.mp3",
         "startMs": 0,
         "endMs": 461780,
         "durationMs": 461780,
@@ -744,11 +741,11 @@
       {
         "file": "057-الحديد-youtube-v1/004.mp3",
         "startMs": 0,
-        "endMs": 1107600,
-        "durationMs": 1107600,
-        "recordingDurationMs": 1107600,
-        "bytes": 13291793,
-        "sha256": "c71a4193d5b5628b278f04db8871cb09fd4c2f86ff44641b0091032788bc3110",
+        "endMs": 1079380,
+        "durationMs": 1079380,
+        "recordingDurationMs": 1079380,
+        "bytes": 12953105,
+        "sha256": "473bbf309feb94d3b1124a412ff3ee44ad4cffe2a916e29d21daf64f3f574177",
         "sharedAyahs": [
           "57:4",
           "57:5"
@@ -756,7 +753,7 @@
         "sourceIntervals": [
           {
             "source": "QEhCFQZe-Y4",
-            "start": 0.0,
+            "start": 28.22,
             "end": 1107.56
           }
         ]
@@ -782,14 +779,16 @@
         ]
       },
       {
-        "file": "057-الحديد-youtube-v1/closing-04.mp3",
+        "file": "057-الحديد-youtube-v1/008.mp3",
         "startMs": 0,
-        "endMs": 8900,
-        "durationMs": 8900,
-        "recordingDurationMs": 8900,
-        "bytes": 107432,
-        "sha256": "c17706ad7196b47f7ea3eb8e667b5dedb227c96df32488c98d1a1d2435e95530",
-        "sharedAyahs": [],
+        "endMs": 8819,
+        "durationMs": 8819,
+        "recordingDurationMs": 621860,
+        "bytes": 7462791,
+        "sha256": "4cd34820855a50176a1ccf45b44d69dcc338c7ffb7b70a797f68a7515c64bde1",
+        "sharedAyahs": [
+          "57:8"
+        ],
         "sourceIntervals": [
           {
             "source": "QEhCFQZe-Y4",
@@ -800,19 +799,19 @@
       },
       {
         "file": "057-الحديد-youtube-v1/008.mp3",
-        "startMs": 0,
-        "endMs": 618620,
-        "durationMs": 618620,
-        "recordingDurationMs": 618620,
-        "bytes": 7424077,
-        "sha256": "cceb05056d66d04c778992d2543eeffccc57d967de3492259742485de160961b",
+        "startMs": 8819,
+        "endMs": 621860,
+        "durationMs": 613041,
+        "recordingDurationMs": 621860,
+        "bytes": 7462791,
+        "sha256": "4cd34820855a50176a1ccf45b44d69dcc338c7ffb7b70a797f68a7515c64bde1",
         "sharedAyahs": [
           "57:8"
         ],
         "sourceIntervals": [
           {
             "source": "TL13hY5TFG8",
-            "start": 0.0,
+            "start": 5.65,
             "end": 618.6
           }
         ]
@@ -858,18 +857,18 @@
       {
         "file": "057-الحديد-youtube-v1/011.mp3",
         "startMs": 0,
-        "endMs": 588240,
-        "durationMs": 588240,
-        "recordingDurationMs": 588240,
-        "bytes": 7059471,
-        "sha256": "6fd80401dafe016d46153fb5c04b3d8cb366c3191696046596de844110b0e515",
+        "endMs": 530520,
+        "durationMs": 530520,
+        "recordingDurationMs": 530520,
+        "bytes": 6366831,
+        "sha256": "5114e0359049fe0c9ad0e1d4509856cd1eb262c9e48a93e2029a9f3bdda954c5",
         "sharedAyahs": [
           "57:11"
         ],
         "sourceIntervals": [
           {
             "source": "nbS6kQmEbY8",
-            "start": 0.0,
+            "start": 57.71,
             "end": 588.2
           }
         ]
@@ -991,14 +990,16 @@
         ]
       },
       {
-        "file": "057-الحديد-youtube-v1/closing-15.mp3",
+        "file": "057-الحديد-youtube-v1/020.mp3",
         "startMs": 0,
-        "endMs": 261170,
-        "durationMs": 261170,
-        "recordingDurationMs": 261170,
-        "bytes": 3134600,
-        "sha256": "e69eb55393c0662662ed9e8197d0ec47fb1bbf63f904d56edeefcafc90ae95e5",
-        "sharedAyahs": [],
+        "endMs": 261083,
+        "durationMs": 261083,
+        "recordingDurationMs": 552580,
+        "bytes": 6631337,
+        "sha256": "a619b508c243ccd83b8d714a0f23bfed5ae94676bf34b7e6625cccd91fae4980",
+        "sharedAyahs": [
+          "57:20"
+        ],
         "sourceIntervals": [
           {
             "source": "nbS6kQmEbY8",
@@ -1009,19 +1010,19 @@
       },
       {
         "file": "057-الحديد-youtube-v1/020.mp3",
-        "startMs": 0,
-        "endMs": 294700,
-        "durationMs": 294700,
-        "recordingDurationMs": 294700,
-        "bytes": 3536943,
-        "sha256": "856371f46b6159313eb17b43ab9462e6343a6adfbfd99bf15913036af3520034",
+        "startMs": 261083,
+        "endMs": 552580,
+        "durationMs": 291497,
+        "recordingDurationMs": 552580,
+        "bytes": 6631337,
+        "sha256": "a619b508c243ccd83b8d714a0f23bfed5ae94676bf34b7e6625cccd91fae4980",
         "sharedAyahs": [
           "57:20"
         ],
         "sourceIntervals": [
           {
             "source": "6hzimrEonGM",
-            "start": 0.0,
+            "start": 3.28,
             "end": 294.67
           }
         ]
@@ -1067,18 +1068,18 @@
       {
         "file": "057-الحديد-youtube-v1/023.mp3",
         "startMs": 0,
-        "endMs": 464300,
-        "durationMs": 464300,
-        "recordingDurationMs": 464300,
-        "bytes": 5572239,
-        "sha256": "74055a6b52e48658d53e6ec513fd4fb63e9756340aa45f9f1c7e4e28f3bbd736",
+        "endMs": 434160,
+        "durationMs": 434160,
+        "recordingDurationMs": 434160,
+        "bytes": 5210511,
+        "sha256": "c9a2d613e5e8052b4ba6c398644bcc18aa9f7f90ef39b3471fbffa41d254838b",
         "sharedAyahs": [
           "57:23"
         ],
         "sourceIntervals": [
           {
             "source": "xEt-YsGJ98Q",
-            "start": 0.0,
+            "start": 30.13,
             "end": 464.27
           }
         ]
@@ -1103,14 +1104,16 @@
         ]
       },
       {
-        "file": "057-الحديد-youtube-v1/closing-21.mp3",
+        "file": "057-الحديد-youtube-v1/025.mp3",
         "startMs": 0,
-        "endMs": 1030990,
-        "durationMs": 1030990,
-        "recordingDurationMs": 1030990,
-        "bytes": 12372488,
-        "sha256": "d8a995b1562f13854227a2fa42d497f0d6f234416380839aaffcbbfbd567f8e9",
-        "sharedAyahs": [],
+        "endMs": 1030907,
+        "durationMs": 1030907,
+        "recordingDurationMs": 1858610,
+        "bytes": 22303721,
+        "sha256": "b917ed4febccb0cb12f61d45365d4cbb9c92439083667822c1bd507414328587",
+        "sharedAyahs": [
+          "57:25"
+        ],
         "sourceIntervals": [
           {
             "source": "xEt-YsGJ98Q",
@@ -1121,19 +1124,19 @@
       },
       {
         "file": "057-الحديد-youtube-v1/025.mp3",
-        "startMs": 0,
-        "endMs": 829660,
-        "durationMs": 829660,
-        "recordingDurationMs": 829660,
-        "bytes": 9956463,
-        "sha256": "700ed4c5a604f3667b81058df9814a521260ac7d2821ebbef679d3162acc8f3f",
+        "startMs": 1030907,
+        "endMs": 1858610,
+        "durationMs": 827703,
+        "recordingDurationMs": 1858610,
+        "bytes": 22303721,
+        "sha256": "b917ed4febccb0cb12f61d45365d4cbb9c92439083667822c1bd507414328587",
         "sharedAyahs": [
           "57:25"
         ],
         "sourceIntervals": [
           {
             "source": "rzxdxfD19T8",
-            "start": 0.0,
+            "start": 2.04,
             "end": 829.63
           }
         ]
@@ -1197,7 +1200,7 @@
         ]
       }
     ],
-    "durationMs": 13249720,
+    "durationMs": 13114120,
     "additionalAudioBytes": 0
   },
   "publicationStatus": "published"
