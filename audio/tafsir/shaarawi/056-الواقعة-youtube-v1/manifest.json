@@ -53,9 +53,9 @@
   "ayahs": {
     "56:1": {
       "file": "056-الواقعة-youtube-v1/001.mp3",
-      "durationMs": 237260,
-      "bytes": 2847765,
-      "sha256": "4d3f4f8129e49403330e6d8da0193b3ecb06a500255fca25b92a9a91096badf0",
+      "durationMs": 231100,
+      "bytes": 2773749,
+      "sha256": "242e78d803c7cbe3a867f2eefc2ed26f7ddffda44b20c53035429f321841b2a0",
       "sharedAyahs": [
         "56:1",
         "56:2"
@@ -63,7 +63,7 @@
       "sourceIntervals": [
         {
           "source": "kfy1QKXD9x0",
-          "start": 0.0,
+          "start": 6.16,
           "end": 237.23
         }
       ],
@@ -71,9 +71,9 @@
     },
     "56:2": {
       "file": "056-الواقعة-youtube-v1/001.mp3",
-      "durationMs": 237260,
-      "bytes": 2847765,
-      "sha256": "4d3f4f8129e49403330e6d8da0193b3ecb06a500255fca25b92a9a91096badf0",
+      "durationMs": 231100,
+      "bytes": 2773749,
+      "sha256": "242e78d803c7cbe3a867f2eefc2ed26f7ddffda44b20c53035429f321841b2a0",
       "sharedAyahs": [
         "56:1",
         "56:2"
@@ -81,7 +81,7 @@
       "sourceIntervals": [
         {
           "source": "kfy1QKXD9x0",
-          "start": 0.0,
+          "start": 6.16,
           "end": 237.23
         }
       ],
@@ -1585,264 +1585,212 @@
     },
     "56:75": {
       "file": "056-الواقعة-youtube-v1/075.mp3",
-      "durationMs": 270430,
-      "bytes": 3245784,
-      "sha256": "028bff04ee991885ba54553d5f21cbf3822b559feacf9d2ff96c6cec3b1c3b24",
+      "durationMs": 7540,
+      "bytes": 91032,
+      "sha256": "b546168f4a8549db60a74276f64ba274f73ed116a1928ca1b6494b0adb4efd33",
       "sharedAyahs": [
         "56:75",
         "56:76"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 916.75,
-          "end": 1187.14
+          "source": "gMuwG8efqGw",
+          "start": 28.49,
+          "end": 36.01
         }
       ],
       "reviewNote": "تفسير الآيات 75-76: فلا أقسم بمواقع النجوم وإنه لقسم لو تعلمون عظيم"
     },
     "56:76": {
       "file": "056-الواقعة-youtube-v1/075.mp3",
-      "durationMs": 270430,
-      "bytes": 3245784,
-      "sha256": "028bff04ee991885ba54553d5f21cbf3822b559feacf9d2ff96c6cec3b1c3b24",
+      "durationMs": 7540,
+      "bytes": 91032,
+      "sha256": "b546168f4a8549db60a74276f64ba274f73ed116a1928ca1b6494b0adb4efd33",
       "sharedAyahs": [
         "56:75",
         "56:76"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 916.75,
-          "end": 1187.14
+          "source": "gMuwG8efqGw",
+          "start": 28.49,
+          "end": 36.01
         }
       ],
       "reviewNote": "تفسير الآيات 75-76: فلا أقسم بمواقع النجوم وإنه لقسم لو تعلمون عظيم"
     },
     "56:77": {
       "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "durationMs": 1049110,
+      "bytes": 12589944,
+      "sha256": "438ddf7c44c0e750bf06a6fe9987f88a94c2e523552e43aebf2245bce7629d91",
       "sharedAyahs": [
         "56:77",
         "56:78",
         "56:79",
-        "56:80",
-        "56:81",
-        "56:82",
-        "56:83",
-        "56:84",
-        "56:85"
+        "56:80"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 36.01,
+          "end": 1085.1
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 77-80: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين"
     },
     "56:78": {
       "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "durationMs": 1049110,
+      "bytes": 12589944,
+      "sha256": "438ddf7c44c0e750bf06a6fe9987f88a94c2e523552e43aebf2245bce7629d91",
       "sharedAyahs": [
         "56:77",
         "56:78",
         "56:79",
-        "56:80",
-        "56:81",
-        "56:82",
-        "56:83",
-        "56:84",
-        "56:85"
+        "56:80"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 36.01,
+          "end": 1085.1
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 77-80: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين"
     },
     "56:79": {
       "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "durationMs": 1049110,
+      "bytes": 12589944,
+      "sha256": "438ddf7c44c0e750bf06a6fe9987f88a94c2e523552e43aebf2245bce7629d91",
       "sharedAyahs": [
         "56:77",
         "56:78",
         "56:79",
-        "56:80",
-        "56:81",
-        "56:82",
-        "56:83",
-        "56:84",
-        "56:85"
+        "56:80"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 36.01,
+          "end": 1085.1
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 77-80: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين"
     },
     "56:80": {
       "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "durationMs": 1049110,
+      "bytes": 12589944,
+      "sha256": "438ddf7c44c0e750bf06a6fe9987f88a94c2e523552e43aebf2245bce7629d91",
       "sharedAyahs": [
         "56:77",
         "56:78",
         "56:79",
-        "56:80",
-        "56:81",
-        "56:82",
-        "56:83",
-        "56:84",
-        "56:85"
+        "56:80"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 36.01,
+          "end": 1085.1
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 77-80: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين"
     },
     "56:81": {
-      "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "file": "056-الواقعة-youtube-v1/081.mp3",
+      "durationMs": 501480,
+      "bytes": 6018360,
+      "sha256": "6498cbf5355c1004adb9423bd8d3cd628a22c21263f186e32f60b62deafa4d86",
       "sharedAyahs": [
-        "56:77",
-        "56:78",
-        "56:79",
-        "56:80",
         "56:81",
-        "56:82",
-        "56:83",
-        "56:84",
-        "56:85"
+        "56:82"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 1085.1,
+          "end": 1586.55
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 81-82: أفبهذا الحديث أنتم مدهنون وتجعلون رزقكم أنكم تكذبون"
     },
     "56:82": {
-      "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "file": "056-الواقعة-youtube-v1/081.mp3",
+      "durationMs": 501480,
+      "bytes": 6018360,
+      "sha256": "6498cbf5355c1004adb9423bd8d3cd628a22c21263f186e32f60b62deafa4d86",
       "sharedAyahs": [
-        "56:77",
-        "56:78",
-        "56:79",
-        "56:80",
         "56:81",
-        "56:82",
-        "56:83",
-        "56:84",
-        "56:85"
+        "56:82"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 1085.1,
+          "end": 1586.55
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 81-82: أفبهذا الحديث أنتم مدهنون وتجعلون رزقكم أنكم تكذبون"
     },
     "56:83": {
-      "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "file": "056-الواقعة-youtube-v1/083.mp3",
+      "durationMs": 143330,
+      "bytes": 1720536,
+      "sha256": "c61751714d36840f5c53de1b98aede014101ab1bcdcefcbcb40ab183d2e762ac",
       "sharedAyahs": [
-        "56:77",
-        "56:78",
-        "56:79",
-        "56:80",
-        "56:81",
-        "56:82",
         "56:83",
         "56:84",
         "56:85"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 1586.55,
+          "end": 1729.85
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 83-85: فلولا إذا بلغت الحلقوم وأنتم حينئذ تنظرون ونحن أقرب إليه منكم ولكن لا تبصرون"
     },
     "56:84": {
-      "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "file": "056-الواقعة-youtube-v1/083.mp3",
+      "durationMs": 143330,
+      "bytes": 1720536,
+      "sha256": "c61751714d36840f5c53de1b98aede014101ab1bcdcefcbcb40ab183d2e762ac",
       "sharedAyahs": [
-        "56:77",
-        "56:78",
-        "56:79",
-        "56:80",
-        "56:81",
-        "56:82",
         "56:83",
         "56:84",
         "56:85"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 1586.55,
+          "end": 1729.85
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 83-85: فلولا إذا بلغت الحلقوم وأنتم حينئذ تنظرون ونحن أقرب إليه منكم ولكن لا تبصرون"
     },
     "56:85": {
-      "file": "056-الواقعة-youtube-v1/077.mp3",
-      "durationMs": 460850,
-      "bytes": 5530776,
-      "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+      "file": "056-الواقعة-youtube-v1/083.mp3",
+      "durationMs": 143330,
+      "bytes": 1720536,
+      "sha256": "c61751714d36840f5c53de1b98aede014101ab1bcdcefcbcb40ab183d2e762ac",
       "sharedAyahs": [
-        "56:77",
-        "56:78",
-        "56:79",
-        "56:80",
-        "56:81",
-        "56:82",
         "56:83",
         "56:84",
         "56:85"
       ],
       "sourceIntervals": [
         {
-          "source": "cOZ5EwPqp5E",
-          "start": 1187.14,
-          "end": 1648.01
+          "source": "gMuwG8efqGw",
+          "start": 1586.55,
+          "end": 1729.85
         }
       ],
-      "reviewNote": "تفسير الآيات 77-85: إنه لقرآن كريم في كتاب مكنون لا يمسه إلا المطهرون تنزيل من رب العالمين... ونحن أقرب إليه منكم ولكن لا تبصرون"
+      "reviewNote": "تفسير الآيات 83-85: فلولا إذا بلغت الحلقوم وأنتم حينئذ تنظرون ونحن أقرب إليه منكم ولكن لا تبصرون"
     },
     "56:86": {
       "file": "056-الواقعة-youtube-v1/086.mp3",
@@ -2048,11 +1996,11 @@
   },
   "extraTracks": [
     {
-      "file": "056-الواقعة-youtube-v1/closing-06.mp3",
-      "kind": "closing",
+      "file": "056-الواقعة-youtube-v1/introduction-06.mp3",
+      "kind": "introduction",
       "durationMs": 162600,
-      "bytes": 1951881,
-      "sha256": "2e33c76b4e75cf949df512e4f09696d2603cbabcda1c1435b76eba451aa933b5",
+      "bytes": 1951886,
+      "sha256": "09c707b6a40faacfd7107d61f96c0c261031d6ae342c48d5bb8f069458c060c0",
       "sharedAyahs": [],
       "sourceIntervals": [
         {
@@ -2064,39 +2012,55 @@
       "reviewNote": "مراجعة وتمهيد للآيات 20 وما بعدها"
     },
     {
-      "file": "056-الواقعة-youtube-v1/closing-15.mp3",
-      "kind": "closing",
-      "durationMs": 104980,
-      "bytes": 1260300,
-      "sha256": "47effd0ff82e7aea25b944643bb02d35a7ce4106e33fbf8b3ab902588b7f6397",
+      "file": "056-الواقعة-youtube-v1/introduction-15.mp3",
+      "kind": "introduction",
+      "durationMs": 100370,
+      "bytes": 1205009,
+      "sha256": "b8f73c8c145eb37830d73d6235aa5a1a8dc0f567a946eaf64a31e97abb2196c5",
       "sharedAyahs": [],
       "sourceIntervals": [
         {
           "source": "cOZ5EwPqp5E",
-          "start": 0.0,
+          "start": 4.59,
           "end": 104.93
         }
       ],
       "reviewNote": "استذكار الآيات 58-59"
     },
     {
-      "file": "056-الواقعة-youtube-v1/closing-22.mp3",
+      "file": "056-الواقعة-youtube-v1/closing-20.mp3",
       "kind": "closing",
-      "durationMs": 1729900,
-      "bytes": 20759340,
-      "sha256": "b726fc6380ea97aa0278cb5f817937dab6f6907b754a473ef3274ee268df98db",
+      "durationMs": 731260,
+      "bytes": 8775660,
+      "sha256": "36ac1a539a2d550d2a498cb50dd9ed4b9c4fe49a0d6512b11229c4118622e9de",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "cOZ5EwPqp5E",
+          "start": 916.75,
+          "end": 1648.01
+        }
+      ],
+      "reviewNote": "قراءة تمهيدية للآيات 75-85 وخاتمة الدرس الثالث"
+    },
+    {
+      "file": "056-الواقعة-youtube-v1/introduction-21.mp3",
+      "kind": "introduction",
+      "durationMs": 27430,
+      "bytes": 329777,
+      "sha256": "2ddc12d26335080c5dfd4043b4e7acb559d9a8c707d541b36cc5c2b4a38f4dc8",
       "sharedAyahs": [],
       "sourceIntervals": [
         {
           "source": "gMuwG8efqGw",
-          "start": 0.0,
-          "end": 1729.85
+          "start": 1.1,
+          "end": 28.49
         }
       ],
-      "reviewNote": "وقفة تفصيلية مع عظمة القسم بمواقع النجوم وإعجاز القرآن الكريم"
+      "reviewNote": "مقدمة الدرس الرابع"
     }
   ],
-  "sourceUrl": "https://www.youtube.com/playlist?list=PL6DC41F0A0064C463",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL9C4FEF08F9D26399",
   "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
   "topics": [
     {
@@ -2104,35 +2068,35 @@
       "title": "أهوال القيامة وأصناف الخلق الثلاثة: السابقون وأصحاب اليمين وأصحاب المشأمة",
       "file": "056-الواقعة-youtube-v1/001.mp3",
       "startMs": 0,
-      "endMs": 237230
+      "endMs": 231070
     },
     {
       "id": "waqiah-blessings-of-the-righteous",
       "title": "نعيم المقربين وأصحاب اليمين في جنات النعيم والفرش المرفوعة",
       "file": "056-الواقعة-youtube-v1/011.mp3",
       "startMs": 0,
-      "endMs": 331649
+      "endMs": 331650
     },
     {
       "id": "waqiah-divine-arguments-creation-water-fire",
-      "title": "دلائل التوحيد والقدرة الإلهية: الزرع والماء والنار والنشأة الأولى",
-      "file": "056-الواقعة-youtube-v1/063.mp3",
+      "title": "دلائل القدرة الإلهية في خلق الإنسان والزرع والماء والنار",
+      "file": "056-الواقعة-youtube-v1/057.mp3",
       "startMs": 0,
-      "endMs": 184910
+      "endMs": 108220
     },
     {
-      "id": "waqiah-oath-by-stars-and-quranic-nobility",
-      "title": "عظمة القسم بمواقع النجوم وإعجاز القرآن الكريم وتنزيل رب العالمين",
+      "id": "waqiah-inviolability-of-the-quran",
+      "title": "القسم بمواقع النجوم وعظمة القرآن الكريم في كتاب مكنون",
       "file": "056-الواقعة-youtube-v1/075.mp3",
       "startMs": 0,
-      "endMs": 270390
+      "endMs": 7520
     },
     {
-      "id": "waqiah-moment-of-death-and-ultimate-destinies",
-      "title": "سكرة الموت ومصير كل صنف: إن هذا لهو حق اليقين فسبح باسم ربك العظيم",
-      "file": "056-الواقعة-youtube-v1/086.mp3",
+      "id": "waqiah-certainty-of-truth-and-fate-at-death",
+      "title": "لحظة الاحتضار وحق اليقين والجزاء الأخير",
+      "file": "056-الواقعة-youtube-v1/083.mp3",
       "startMs": 0,
-      "endMs": 80300
+      "endMs": 143300
     }
   ],
   "fullSurah": {
@@ -2148,11 +2112,11 @@
       {
         "file": "056-الواقعة-youtube-v1/001.mp3",
         "startMs": 0,
-        "endMs": 237260,
-        "durationMs": 237260,
-        "recordingDurationMs": 237260,
-        "bytes": 2847765,
-        "sha256": "4d3f4f8129e49403330e6d8da0193b3ecb06a500255fca25b92a9a91096badf0",
+        "endMs": 231100,
+        "durationMs": 231100,
+        "recordingDurationMs": 231100,
+        "bytes": 2773749,
+        "sha256": "242e78d803c7cbe3a867f2eefc2ed26f7ddffda44b20c53035429f321841b2a0",
         "sharedAyahs": [
           "56:1",
           "56:2"
@@ -2160,7 +2124,7 @@
         "sourceIntervals": [
           {
             "source": "kfy1QKXD9x0",
-            "start": 0.0,
+            "start": 6.16,
             "end": 237.23
           }
         ]
@@ -2273,13 +2237,13 @@
         ]
       },
       {
-        "file": "056-الواقعة-youtube-v1/closing-06.mp3",
+        "file": "056-الواقعة-youtube-v1/introduction-06.mp3",
         "startMs": 0,
         "endMs": 162600,
         "durationMs": 162600,
         "recordingDurationMs": 162600,
-        "bytes": 1951881,
-        "sha256": "2e33c76b4e75cf949df512e4f09696d2603cbabcda1c1435b76eba451aa933b5",
+        "bytes": 1951886,
+        "sha256": "09c707b6a40faacfd7107d61f96c0c261031d6ae342c48d5bb8f069458c060c0",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
@@ -2474,18 +2438,18 @@
         ]
       },
       {
-        "file": "056-الواقعة-youtube-v1/closing-15.mp3",
+        "file": "056-الواقعة-youtube-v1/introduction-15.mp3",
         "startMs": 0,
-        "endMs": 104980,
-        "durationMs": 104980,
-        "recordingDurationMs": 104980,
-        "bytes": 1260300,
-        "sha256": "47effd0ff82e7aea25b944643bb02d35a7ce4106e33fbf8b3ab902588b7f6397",
+        "endMs": 100370,
+        "durationMs": 100370,
+        "recordingDurationMs": 100370,
+        "bytes": 1205009,
+        "sha256": "b8f73c8c145eb37830d73d6235aa5a1a8dc0f567a946eaf64a31e97abb2196c5",
         "sharedAyahs": [],
         "sourceIntervals": [
           {
             "source": "cOZ5EwPqp5E",
-            "start": 0.0,
+            "start": 4.59,
             "end": 104.93
           }
         ]
@@ -2578,65 +2542,118 @@
         ]
       },
       {
+        "file": "056-الواقعة-youtube-v1/closing-20.mp3",
+        "startMs": 0,
+        "endMs": 731260,
+        "durationMs": 731260,
+        "recordingDurationMs": 731260,
+        "bytes": 8775660,
+        "sha256": "36ac1a539a2d550d2a498cb50dd9ed4b9c4fe49a0d6512b11229c4118622e9de",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "cOZ5EwPqp5E",
+            "start": 916.75,
+            "end": 1648.01
+          }
+        ]
+      },
+      {
+        "file": "056-الواقعة-youtube-v1/introduction-21.mp3",
+        "startMs": 0,
+        "endMs": 27430,
+        "durationMs": 27430,
+        "recordingDurationMs": 27430,
+        "bytes": 329777,
+        "sha256": "2ddc12d26335080c5dfd4043b4e7acb559d9a8c707d541b36cc5c2b4a38f4dc8",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "gMuwG8efqGw",
+            "start": 1.1,
+            "end": 28.49
+          }
+        ]
+      },
+      {
         "file": "056-الواقعة-youtube-v1/075.mp3",
         "startMs": 0,
-        "endMs": 270430,
-        "durationMs": 270430,
-        "recordingDurationMs": 270430,
-        "bytes": 3245784,
-        "sha256": "028bff04ee991885ba54553d5f21cbf3822b559feacf9d2ff96c6cec3b1c3b24",
+        "endMs": 7540,
+        "durationMs": 7540,
+        "recordingDurationMs": 7540,
+        "bytes": 91032,
+        "sha256": "b546168f4a8549db60a74276f64ba274f73ed116a1928ca1b6494b0adb4efd33",
         "sharedAyahs": [
           "56:75",
           "56:76"
         ],
         "sourceIntervals": [
           {
-            "source": "cOZ5EwPqp5E",
-            "start": 916.75,
-            "end": 1187.14
+            "source": "gMuwG8efqGw",
+            "start": 28.49,
+            "end": 36.01
           }
         ]
       },
       {
         "file": "056-الواقعة-youtube-v1/077.mp3",
         "startMs": 0,
-        "endMs": 460850,
-        "durationMs": 460850,
-        "recordingDurationMs": 460850,
-        "bytes": 5530776,
-        "sha256": "edb13b9e87e76bbe9febde0abfd38ad1e3fab3b3532b04485e468f7fbdc90900",
+        "endMs": 1049110,
+        "durationMs": 1049110,
+        "recordingDurationMs": 1049110,
+        "bytes": 12589944,
+        "sha256": "438ddf7c44c0e750bf06a6fe9987f88a94c2e523552e43aebf2245bce7629d91",
         "sharedAyahs": [
           "56:77",
           "56:78",
           "56:79",
-          "56:80",
+          "56:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "gMuwG8efqGw",
+            "start": 36.01,
+            "end": 1085.1
+          }
+        ]
+      },
+      {
+        "file": "056-الواقعة-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 501480,
+        "durationMs": 501480,
+        "recordingDurationMs": 501480,
+        "bytes": 6018360,
+        "sha256": "6498cbf5355c1004adb9423bd8d3cd628a22c21263f186e32f60b62deafa4d86",
+        "sharedAyahs": [
           "56:81",
-          "56:82",
+          "56:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "gMuwG8efqGw",
+            "start": 1085.1,
+            "end": 1586.55
+          }
+        ]
+      },
+      {
+        "file": "056-الواقعة-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 143330,
+        "durationMs": 143330,
+        "recordingDurationMs": 143330,
+        "bytes": 1720536,
+        "sha256": "c61751714d36840f5c53de1b98aede014101ab1bcdcefcbcb40ab183d2e762ac",
+        "sharedAyahs": [
           "56:83",
           "56:84",
           "56:85"
         ],
         "sourceIntervals": [
           {
-            "source": "cOZ5EwPqp5E",
-            "start": 1187.14,
-            "end": 1648.01
-          }
-        ]
-      },
-      {
-        "file": "056-الواقعة-youtube-v1/closing-22.mp3",
-        "startMs": 0,
-        "endMs": 1729900,
-        "durationMs": 1729900,
-        "recordingDurationMs": 1729900,
-        "bytes": 20759340,
-        "sha256": "b726fc6380ea97aa0278cb5f817937dab6f6907b754a473ef3274ee268df98db",
-        "sharedAyahs": [],
-        "sourceIntervals": [
-          {
             "source": "gMuwG8efqGw",
-            "start": 0.0,
+            "start": 1586.55,
             "end": 1729.85
           }
         ]
@@ -2743,7 +2760,7 @@
         ]
       }
     ],
-    "durationMs": 7830720,
+    "durationMs": 7818920,
     "additionalAudioBytes": 0
   },
   "publicationStatus": "published"
