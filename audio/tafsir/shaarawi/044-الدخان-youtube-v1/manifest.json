@@ -1,0 +1,2002 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "تفسير القرآن الكريم للشيخ الشعراوي - سورة الدخان (القناة الرسمية)",
+  "surah": 44,
+  "surahName": "الدخان",
+  "ayahCount": 59,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 59,
+    "mappedAyahCount": 59,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "UBCAP6aBOGM": {
+      "durationSeconds": 2482.27,
+      "bytes": 29787963,
+      "sha256": "4efa00e359072885ee792178e26fe64f29a23a11e98d77447314b4c23176c45f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-007_UBCAP6aBOGM.mp3",
+      "url": "https://www.youtube.com/watch?v=UBCAP6aBOGM"
+    },
+    "pnQoRH3EyXk": {
+      "durationSeconds": 2677.46,
+      "bytes": 32130269,
+      "sha256": "466df1b66241d60a119512025479b4bbfa54b7b2e05b045889f39b4a250dd961",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_007-019_pnQoRH3EyXk.mp3",
+      "url": "https://www.youtube.com/watch?v=pnQoRH3EyXk"
+    },
+    "0r5lr2Jnkfw": {
+      "durationSeconds": 2671.3,
+      "bytes": 32056255,
+      "sha256": "97df625769220daa58d3a6c67208de57c70e40cd2b477bb8cd3542ec8d53ecd0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_019-035_0r5lr2Jnkfw.mp3",
+      "url": "https://www.youtube.com/watch?v=0r5lr2Jnkfw"
+    },
+    "M4WuNBFtulc": {
+      "durationSeconds": 2600.76,
+      "bytes": 31209823,
+      "sha256": "7330069151d354d3b931758342c9ac04f89ca9a950ac1e4daac93027e5c4c9fe",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_035-054_M4WuNBFtulc.mp3",
+      "url": "https://www.youtube.com/watch?v=M4WuNBFtulc"
+    },
+    "oxsk_p0JT4U": {
+      "durationSeconds": 2118.34,
+      "bytes": 25420735,
+      "sha256": "e9ed31251182217a50cbf7edb63c050f673a164b9e5d210b7a405343c087caf9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_054-059_oxsk_p0JT4U.mp3",
+      "url": "https://www.youtube.com/watch?v=oxsk_p0JT4U"
+    }
+  },
+  "ayahs": {
+    "44:1": {
+      "file": "044-الدخان-youtube-v1/001.mp3",
+      "durationMs": 1037500,
+      "bytes": 12450638,
+      "sha256": "64be06d80bdfe01859b5c2e3cf779db3a17618c8170c4125241b8724ccd52ee2",
+      "sharedAyahs": [
+        "44:1",
+        "44:2",
+        "44:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UBCAP6aBOGM",
+          "start": 31.81,
+          "end": 1069.29
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-3: حم ۝ والكتاب المبين ۝ إنا أنزلناه في ليلة مباركة"
+    },
+    "44:2": {
+      "file": "044-الدخان-youtube-v1/001.mp3",
+      "durationMs": 1037500,
+      "bytes": 12450638,
+      "sha256": "64be06d80bdfe01859b5c2e3cf779db3a17618c8170c4125241b8724ccd52ee2",
+      "sharedAyahs": [
+        "44:1",
+        "44:2",
+        "44:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UBCAP6aBOGM",
+          "start": 31.81,
+          "end": 1069.29
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-3: حم ۝ والكتاب المبين ۝ إنا أنزلناه في ليلة مباركة"
+    },
+    "44:3": {
+      "file": "044-الدخان-youtube-v1/001.mp3",
+      "durationMs": 1037500,
+      "bytes": 12450638,
+      "sha256": "64be06d80bdfe01859b5c2e3cf779db3a17618c8170c4125241b8724ccd52ee2",
+      "sharedAyahs": [
+        "44:1",
+        "44:2",
+        "44:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UBCAP6aBOGM",
+          "start": 31.81,
+          "end": 1069.29
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-3: حم ۝ والكتاب المبين ۝ إنا أنزلناه في ليلة مباركة"
+    },
+    "44:4": {
+      "file": "044-الدخان-youtube-v1/004.mp3",
+      "durationMs": 79700,
+      "bytes": 957130,
+      "sha256": "3e4a4d380d34fd36c9b2edc80e3ad9e965ecf57d587f72610bbe46ef3481d6ff",
+      "sharedAyahs": [
+        "44:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UBCAP6aBOGM",
+          "start": 1069.29,
+          "end": 1148.97
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: فيها يفرق كل أمر حكيم"
+    },
+    "44:5": {
+      "file": "044-الدخان-youtube-v1/005.mp3",
+      "durationMs": 1054800,
+      "bytes": 12658282,
+      "sha256": "98f34b89334a9b9a99265f8a768f280737097d27a80a749ebfb57b9e9cd8a3b1",
+      "sharedAyahs": [
+        "44:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UBCAP6aBOGM",
+          "start": 1148.97,
+          "end": 2203.75
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: أمرا من عندنا إنا كنا مرسلين"
+    },
+    "44:6": {
+      "file": "044-الدخان-youtube-v1/006.mp3",
+      "durationMs": 276380,
+      "bytes": 3317290,
+      "sha256": "7330f97c07fdcfc5aa8e57730350667254e39ee8a3c10d78c00c7ac50a8bddba",
+      "sharedAyahs": [
+        "44:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UBCAP6aBOGM",
+          "start": 2203.75,
+          "end": 2480.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: رحمة من ربك إنه هو السميع العليم"
+    },
+    "44:7": {
+      "file": "044-الدخان-youtube-v1/007.mp3",
+      "durationMs": 594700,
+      "bytes": 7137034,
+      "sha256": "8fc08a1690428543843f4fc8315d81c1b0ec71cef89454e6129579c5c417fb0d",
+      "sharedAyahs": [
+        "44:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 1.36,
+          "end": 596.03
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: رب السماوات والأرض وما بينهما إن كنتم موقنين"
+    },
+    "44:8": {
+      "file": "044-الدخان-youtube-v1/008.mp3",
+      "durationMs": 395060,
+      "bytes": 4741450,
+      "sha256": "12d0bd3ce3e587c43f66fa1a00cea9942ace8d843179b2a165708bc2675c280e",
+      "sharedAyahs": [
+        "44:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 596.03,
+          "end": 991.07
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: لا إله إلا هو يحيي ويميت ربكم ورب آبائكم الأولين"
+    },
+    "44:9": {
+      "file": "044-الدخان-youtube-v1/009.mp3",
+      "durationMs": 376610,
+      "bytes": 4519978,
+      "sha256": "6f5bdbfa780521eade529f91ed6aafb11aab07b991db9209e38edaae3541c7aa",
+      "sharedAyahs": [
+        "44:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 991.07,
+          "end": 1367.65
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: بل هم في شك يلعبون"
+    },
+    "44:10": {
+      "file": "044-الدخان-youtube-v1/010.mp3",
+      "durationMs": 263570,
+      "bytes": 3163505,
+      "sha256": "68e2af9ba952b83fda88119ef551ee2e390a173a8edbef2fced847d5a5fea695",
+      "sharedAyahs": [
+        "44:10",
+        "44:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 1367.65,
+          "end": 1631.19
+        }
+      ],
+      "reviewNote": "تفسير الآيات 10-11: فارتقب يوم تأتي السماء بدخان مبين ۝ يغشى الناس هذا عذاب أليم"
+    },
+    "44:11": {
+      "file": "044-الدخان-youtube-v1/010.mp3",
+      "durationMs": 263570,
+      "bytes": 3163505,
+      "sha256": "68e2af9ba952b83fda88119ef551ee2e390a173a8edbef2fced847d5a5fea695",
+      "sharedAyahs": [
+        "44:10",
+        "44:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 1367.65,
+          "end": 1631.19
+        }
+      ],
+      "reviewNote": "تفسير الآيات 10-11: فارتقب يوم تأتي السماء بدخان مبين ۝ يغشى الناس هذا عذاب أليم"
+    },
+    "44:12": {
+      "file": "044-الدخان-youtube-v1/012.mp3",
+      "durationMs": 49250,
+      "bytes": 591660,
+      "sha256": "d10cbc721f61b1f4aaa43430a5d12a4f52732195eabecd63a52710dfac5d3ee4",
+      "sharedAyahs": [
+        "44:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 1631.19,
+          "end": 1680.41
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: ربنا اكشف عنا العذاب إنا مؤمنون"
+    },
+    "44:13": {
+      "file": "044-الدخان-youtube-v1/013.mp3",
+      "durationMs": 128420,
+      "bytes": 1541772,
+      "sha256": "4a0a8d58700e337d47576c7dca7d8c48eda8167afb13247f285027e6b0dcfc04",
+      "sharedAyahs": [
+        "44:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 1680.41,
+          "end": 1808.82
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: أنى لهم الذكرى وقد جاءهم رسول مبين"
+    },
+    "44:14": {
+      "file": "044-الدخان-youtube-v1/014.mp3",
+      "durationMs": 5140,
+      "bytes": 62316,
+      "sha256": "305a95daf90e22c5c905bef9fdfd57c9ddf00fdd8cfdba12b952d6240de0206a",
+      "sharedAyahs": [
+        "44:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 1808.82,
+          "end": 1813.94
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: ثم تولوا عنه وقالوا معلم مجنون"
+    },
+    "44:15": {
+      "file": "044-الدخان-youtube-v1/015.mp3",
+      "durationMs": 158280,
+      "bytes": 1900044,
+      "sha256": "ffc47c87b893c6a700ab92f896a22299a29e265b92247d422e78c9e7fef310a9",
+      "sharedAyahs": [
+        "44:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 1813.94,
+          "end": 1972.19
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: إنا كاشفو العذاب قليلا إنكم عائدون"
+    },
+    "44:16": {
+      "file": "044-الدخان-youtube-v1/016.mp3",
+      "durationMs": 114770,
+      "bytes": 1377900,
+      "sha256": "c2b58fd926aeca1698023cd83a4f4634ca86b6e28307a57146f839baa3441a50",
+      "sharedAyahs": [
+        "44:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 1972.19,
+          "end": 2086.94
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: يوم نبطش البطشة الكبرى إنا منتقمون"
+    },
+    "44:17": {
+      "file": "044-الدخان-youtube-v1/017.mp3",
+      "durationMs": 313610,
+      "bytes": 3763980,
+      "sha256": "913e7f8b54520bb817829681b1bd1adb6c56bab290d1431f4e777bd79660d2af",
+      "sharedAyahs": [
+        "44:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 2086.94,
+          "end": 2400.52
+        }
+      ],
+      "reviewNote": "تفسير الآية 17: ولقد فتنا قبلهم قوم فرعون وجاءهم رسول كريم"
+    },
+    "44:18": {
+      "file": "044-الدخان-youtube-v1/018.mp3",
+      "durationMs": 146980,
+      "bytes": 1764396,
+      "sha256": "83c41eac2d19e44a02305bf9113d0ef105f138a6e139063481191e024d85b233",
+      "sharedAyahs": [
+        "44:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 2400.52,
+          "end": 2547.47
+        }
+      ],
+      "reviewNote": "تفسير الآية 18: أن أدوا إلي عباد الله إني لكم رسول أمين"
+    },
+    "44:19": {
+      "file": "044-الدخان-youtube-v1/019.mp3",
+      "durationMs": 122620,
+      "bytes": 1472076,
+      "sha256": "fe6f65281ab8fdb371016e9bb963c4dca2368b4c9347efd99a7840dc34611e2e",
+      "sharedAyahs": [
+        "44:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pnQoRH3EyXk",
+          "start": 2547.47,
+          "end": 2670.06
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: وأن لا تعلوا على الله إني آتيكم بسلطان مبين"
+    },
+    "44:20": {
+      "file": "044-الدخان-youtube-v1/020.mp3",
+      "durationMs": 689540,
+      "bytes": 8275217,
+      "sha256": "cbaf109227a5fd8a483e0b819d3eb10a2f2cb02060f6f3436c15c026cc82583f",
+      "sharedAyahs": [
+        "44:20",
+        "44:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 8.56,
+          "end": 698.08
+        }
+      ],
+      "reviewNote": "تفسير الآيات 20-21: وإني عذت بربي وربكم أن ترجمون ۝ وإن لم تؤمنوا لي فاعتزلون"
+    },
+    "44:21": {
+      "file": "044-الدخان-youtube-v1/020.mp3",
+      "durationMs": 689540,
+      "bytes": 8275217,
+      "sha256": "cbaf109227a5fd8a483e0b819d3eb10a2f2cb02060f6f3436c15c026cc82583f",
+      "sharedAyahs": [
+        "44:20",
+        "44:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 8.56,
+          "end": 698.08
+        }
+      ],
+      "reviewNote": "تفسير الآيات 20-21: وإني عذت بربي وربكم أن ترجمون ۝ وإن لم تؤمنوا لي فاعتزلون"
+    },
+    "44:22": {
+      "file": "044-الدخان-youtube-v1/022.mp3",
+      "durationMs": 59380,
+      "bytes": 713196,
+      "sha256": "ae1874d12369843242b3a34fd0d1c5b73b4d06b7651a3d2865c1d44da25dfddc",
+      "sharedAyahs": [
+        "44:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 698.08,
+          "end": 757.42
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: فدعا ربه أن هؤلاء قوم مجرمون"
+    },
+    "44:23": {
+      "file": "044-الدخان-youtube-v1/023.mp3",
+      "durationMs": 231860,
+      "bytes": 2783057,
+      "sha256": "8566d12d20035d6c07863b6d980e0996a86188a92d99c794e5f026e751d84589",
+      "sharedAyahs": [
+        "44:23",
+        "44:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 757.42,
+          "end": 989.27
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-24: فأسر بعبادي ليلا إنكم متبعون ۝ واترك البحر رهوا"
+    },
+    "44:24": {
+      "file": "044-الدخان-youtube-v1/023.mp3",
+      "durationMs": 231860,
+      "bytes": 2783057,
+      "sha256": "8566d12d20035d6c07863b6d980e0996a86188a92d99c794e5f026e751d84589",
+      "sharedAyahs": [
+        "44:23",
+        "44:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 757.42,
+          "end": 989.27
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-24: فأسر بعبادي ليلا إنكم متبعون ۝ واترك البحر رهوا"
+    },
+    "44:25": {
+      "file": "044-الدخان-youtube-v1/025.mp3",
+      "durationMs": 227710,
+      "bytes": 2733233,
+      "sha256": "9c9f28021e55b6156d8921a4ab250b662249a777d9bb3b8c37eb109f9a2d350d",
+      "sharedAyahs": [
+        "44:25",
+        "44:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 989.27,
+          "end": 1216.95
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-26: كم تركوا من جنات وعيون ۝ وزروع ومقام كريم"
+    },
+    "44:26": {
+      "file": "044-الدخان-youtube-v1/025.mp3",
+      "durationMs": 227710,
+      "bytes": 2733233,
+      "sha256": "9c9f28021e55b6156d8921a4ab250b662249a777d9bb3b8c37eb109f9a2d350d",
+      "sharedAyahs": [
+        "44:25",
+        "44:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 989.27,
+          "end": 1216.95
+        }
+      ],
+      "reviewNote": "تفسير الآيات 25-26: كم تركوا من جنات وعيون ۝ وزروع ومقام كريم"
+    },
+    "44:27": {
+      "file": "044-الدخان-youtube-v1/027.mp3",
+      "durationMs": 209380,
+      "bytes": 2513201,
+      "sha256": "91050173c646945ad8d343027e4d942d080cb24788d9efe552f75428d0e1b235",
+      "sharedAyahs": [
+        "44:27",
+        "44:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 1216.95,
+          "end": 1426.32
+        }
+      ],
+      "reviewNote": "تفسير الآيات 27-28: ونعمة كانوا فيها فاكهين ۝ كذلك وأورثناها قوما آخرين"
+    },
+    "44:28": {
+      "file": "044-الدخان-youtube-v1/027.mp3",
+      "durationMs": 209380,
+      "bytes": 2513201,
+      "sha256": "91050173c646945ad8d343027e4d942d080cb24788d9efe552f75428d0e1b235",
+      "sharedAyahs": [
+        "44:27",
+        "44:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 1216.95,
+          "end": 1426.32
+        }
+      ],
+      "reviewNote": "تفسير الآيات 27-28: ونعمة كانوا فيها فاكهين ۝ كذلك وأورثناها قوما آخرين"
+    },
+    "44:29": {
+      "file": "044-الدخان-youtube-v1/029.mp3",
+      "durationMs": 742820,
+      "bytes": 8914572,
+      "sha256": "6e2122dd7dbd4083b1852b3eee7a9198ddf1f1aacfb13c85b25e363f16502086",
+      "sharedAyahs": [
+        "44:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 1426.32,
+          "end": 2169.11
+        }
+      ],
+      "reviewNote": "تفسير الآية 29: فما بكت عليهم السماء والأرض وما كانوا منظرين"
+    },
+    "44:30": {
+      "file": "044-الدخان-youtube-v1/030.mp3",
+      "durationMs": 25300,
+      "bytes": 304241,
+      "sha256": "d2221ff1af059de95bcb023cc1cabafb2541b6498488a0716cfb460a447d28e2",
+      "sharedAyahs": [
+        "44:30",
+        "44:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 2169.11,
+          "end": 2194.38
+        }
+      ],
+      "reviewNote": "تفسير الآيات 30-31: ولقد نجينا بني إسرائيل من العذاب المهين ۝ من فرعون إنه كان عاليا من المسرفين"
+    },
+    "44:31": {
+      "file": "044-الدخان-youtube-v1/030.mp3",
+      "durationMs": 25300,
+      "bytes": 304241,
+      "sha256": "d2221ff1af059de95bcb023cc1cabafb2541b6498488a0716cfb460a447d28e2",
+      "sharedAyahs": [
+        "44:30",
+        "44:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 2169.11,
+          "end": 2194.38
+        }
+      ],
+      "reviewNote": "تفسير الآيات 30-31: ولقد نجينا بني إسرائيل من العذاب المهين ۝ من فرعون إنه كان عاليا من المسرفين"
+    },
+    "44:32": {
+      "file": "044-الدخان-youtube-v1/032.mp3",
+      "durationMs": 140540,
+      "bytes": 1687212,
+      "sha256": "2d4c0aea910d4c5a6d054085d3f93f696721c7a119b8a749f25198f85804dac6",
+      "sharedAyahs": [
+        "44:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 2194.38,
+          "end": 2334.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 32: ولقد اخترناهم على علم على العالمين"
+    },
+    "44:33": {
+      "file": "044-الدخان-youtube-v1/033.mp3",
+      "durationMs": 154540,
+      "bytes": 1855116,
+      "sha256": "4dc81c7d8efb11b7dcb50639b3b1169cba2133cdd8e424c00b195786aafdcda0",
+      "sharedAyahs": [
+        "44:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 2334.9,
+          "end": 2489.42
+        }
+      ],
+      "reviewNote": "تفسير الآية 33: وآتيناهم من الآيات ما فيه بلاء مبين"
+    },
+    "44:34": {
+      "file": "044-الدخان-youtube-v1/034.mp3",
+      "durationMs": 179040,
+      "bytes": 2149169,
+      "sha256": "1d714243b6e237d63f9ff173e8e7ec8330f31584385b51f0a7b39f7f9c71d0d1",
+      "sharedAyahs": [
+        "44:34",
+        "44:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 2489.42,
+          "end": 2668.44
+        }
+      ],
+      "reviewNote": "تفسير الآيات 34-35: إن هؤلاء ليقولون ۝ إن هي إلا موتتنا الأولى وما نحن بمنشرين"
+    },
+    "44:35": {
+      "file": "044-الدخان-youtube-v1/034.mp3",
+      "durationMs": 179040,
+      "bytes": 2149169,
+      "sha256": "1d714243b6e237d63f9ff173e8e7ec8330f31584385b51f0a7b39f7f9c71d0d1",
+      "sharedAyahs": [
+        "44:34",
+        "44:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0r5lr2Jnkfw",
+          "start": 2489.42,
+          "end": 2668.44
+        }
+      ],
+      "reviewNote": "تفسير الآيات 34-35: إن هؤلاء ليقولون ۝ إن هي إلا موتتنا الأولى وما نحن بمنشرين"
+    },
+    "44:36": {
+      "file": "044-الدخان-youtube-v1/036.mp3",
+      "durationMs": 300310,
+      "bytes": 3604428,
+      "sha256": "5e0fb7f5de6474a8c148a19fa35ec07d833d7372ad046d1290dfbb4c6b8a261e",
+      "sharedAyahs": [
+        "44:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1.62,
+          "end": 301.92
+        }
+      ],
+      "reviewNote": "تفسير الآية 36: فأتوا بآبائنا إن كنتم صادقين"
+    },
+    "44:37": {
+      "file": "044-الدخان-youtube-v1/037.mp3",
+      "durationMs": 211730,
+      "bytes": 2541420,
+      "sha256": "cc31faafd4ad692b1292a107973067f8f45d20c4fc684dee3a4be0f305ccd033",
+      "sharedAyahs": [
+        "44:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 301.92,
+          "end": 513.61
+        }
+      ],
+      "reviewNote": "تفسير الآية 37: أهم خير أم قوم تبع والذين من قبلهم أهلكناهم إنهم كانوا مجرمين"
+    },
+    "44:38": {
+      "file": "044-الدخان-youtube-v1/038.mp3",
+      "durationMs": 245570,
+      "bytes": 2947505,
+      "sha256": "290baeb261da57e6a78cf3ea2044715508798282912617ab7cc54d207282c319",
+      "sharedAyahs": [
+        "44:38",
+        "44:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 513.61,
+          "end": 759.15
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-39: وما خلقنا السماوات والأرض وما بينهما لاعبين ۝ ما خلقناهما إلا بالحق"
+    },
+    "44:39": {
+      "file": "044-الدخان-youtube-v1/038.mp3",
+      "durationMs": 245570,
+      "bytes": 2947505,
+      "sha256": "290baeb261da57e6a78cf3ea2044715508798282912617ab7cc54d207282c319",
+      "sharedAyahs": [
+        "44:38",
+        "44:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 513.61,
+          "end": 759.15
+        }
+      ],
+      "reviewNote": "تفسير الآيات 38-39: وما خلقنا السماوات والأرض وما بينهما لاعبين ۝ ما خلقناهما إلا بالحق"
+    },
+    "44:40": {
+      "file": "044-الدخان-youtube-v1/040.mp3",
+      "durationMs": 192500,
+      "bytes": 2310732,
+      "sha256": "489091908b7562197691ab3dd04f0a91c9d3a1e3231729f1eb774aba840ff828",
+      "sharedAyahs": [
+        "44:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 759.15,
+          "end": 951.63
+        }
+      ],
+      "reviewNote": "تفسير الآية 40: إن يوم الفصل ميقاتهم أجمعين"
+    },
+    "44:41": {
+      "file": "044-الدخان-youtube-v1/041.mp3",
+      "durationMs": 144170,
+      "bytes": 1730705,
+      "sha256": "b5ede66ca9169d285a0594e1df5915ca8ee801005e2575e0e4f20bf9795dc434",
+      "sharedAyahs": [
+        "44:41",
+        "44:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 951.63,
+          "end": 1095.77
+        }
+      ],
+      "reviewNote": "تفسير الآيات 41-42: يوم لا يغني مولى عن مولى شيئا... إلا من رحم الله"
+    },
+    "44:42": {
+      "file": "044-الدخان-youtube-v1/041.mp3",
+      "durationMs": 144170,
+      "bytes": 1730705,
+      "sha256": "b5ede66ca9169d285a0594e1df5915ca8ee801005e2575e0e4f20bf9795dc434",
+      "sharedAyahs": [
+        "44:41",
+        "44:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 951.63,
+          "end": 1095.77
+        }
+      ],
+      "reviewNote": "تفسير الآيات 41-42: يوم لا يغني مولى عن مولى شيئا... إلا من رحم الله"
+    },
+    "44:43": {
+      "file": "044-الدخان-youtube-v1/043.mp3",
+      "durationMs": 429740,
+      "bytes": 5157617,
+      "sha256": "9f453d1a20586882bd2b17dd7bd5fd9aa831c950278ffb66d053f9a7f99a2b99",
+      "sharedAyahs": [
+        "44:43",
+        "44:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1095.77,
+          "end": 1525.49
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-44: إن شجرت الزقوم ۝ طعام الأثيم"
+    },
+    "44:44": {
+      "file": "044-الدخان-youtube-v1/043.mp3",
+      "durationMs": 429740,
+      "bytes": 5157617,
+      "sha256": "9f453d1a20586882bd2b17dd7bd5fd9aa831c950278ffb66d053f9a7f99a2b99",
+      "sharedAyahs": [
+        "44:43",
+        "44:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1095.77,
+          "end": 1525.49
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-44: إن شجرت الزقوم ۝ طعام الأثيم"
+    },
+    "44:45": {
+      "file": "044-الدخان-youtube-v1/045.mp3",
+      "durationMs": 34460,
+      "bytes": 414257,
+      "sha256": "ece524295ca66f690d2b6ae68bd6a93c42e2c79fb7ae820bccfc46b549c48a23",
+      "sharedAyahs": [
+        "44:45",
+        "44:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1525.49,
+          "end": 1559.93
+        }
+      ],
+      "reviewNote": "تفسير الآيات 45-46: كالمهل يغلي في البطون ۝ كغلي الحميم"
+    },
+    "44:46": {
+      "file": "044-الدخان-youtube-v1/045.mp3",
+      "durationMs": 34460,
+      "bytes": 414257,
+      "sha256": "ece524295ca66f690d2b6ae68bd6a93c42e2c79fb7ae820bccfc46b549c48a23",
+      "sharedAyahs": [
+        "44:45",
+        "44:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1525.49,
+          "end": 1559.93
+        }
+      ],
+      "reviewNote": "تفسير الآيات 45-46: كالمهل يغلي في البطون ۝ كغلي الحميم"
+    },
+    "44:47": {
+      "file": "044-الدخان-youtube-v1/047.mp3",
+      "durationMs": 115750,
+      "bytes": 1389713,
+      "sha256": "2431f9cb11749852a64ac236dad14fea33b1e28f2eb8f27648fedc3d88fdb1fb",
+      "sharedAyahs": [
+        "44:47",
+        "44:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1559.93,
+          "end": 1675.66
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-48: خذوه فاعتلوه إلى سواء الجحيم ۝ ثم صبوا فوق رأسه من عذاب الحميم"
+    },
+    "44:48": {
+      "file": "044-الدخان-youtube-v1/047.mp3",
+      "durationMs": 115750,
+      "bytes": 1389713,
+      "sha256": "2431f9cb11749852a64ac236dad14fea33b1e28f2eb8f27648fedc3d88fdb1fb",
+      "sharedAyahs": [
+        "44:47",
+        "44:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1559.93,
+          "end": 1675.66
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-48: خذوه فاعتلوه إلى سواء الجحيم ۝ ثم صبوا فوق رأسه من عذاب الحميم"
+    },
+    "44:49": {
+      "file": "044-الدخان-youtube-v1/049.mp3",
+      "durationMs": 37510,
+      "bytes": 450833,
+      "sha256": "1cb90aa5be84782c4461d8771a634f5c759963ff09ead3814ac5986f27338f00",
+      "sharedAyahs": [
+        "44:49",
+        "44:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1675.66,
+          "end": 1713.15
+        }
+      ],
+      "reviewNote": "تفسير الآيات 49-50: ذق إنك أنت العزيز الكريم ۝ إن هذا ما كنتم به تمترون"
+    },
+    "44:50": {
+      "file": "044-الدخان-youtube-v1/049.mp3",
+      "durationMs": 37510,
+      "bytes": 450833,
+      "sha256": "1cb90aa5be84782c4461d8771a634f5c759963ff09ead3814ac5986f27338f00",
+      "sharedAyahs": [
+        "44:49",
+        "44:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1675.66,
+          "end": 1713.15
+        }
+      ],
+      "reviewNote": "تفسير الآيات 49-50: ذق إنك أنت العزيز الكريم ۝ إن هذا ما كنتم به تمترون"
+    },
+    "44:51": {
+      "file": "044-الدخان-youtube-v1/051.mp3",
+      "durationMs": 648410,
+      "bytes": 7781585,
+      "sha256": "4c835027185a9d8d4d0f6aafaf34a359ba547417b64c9a8ce77bc2c7d5ecb14d",
+      "sharedAyahs": [
+        "44:51",
+        "44:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1713.15,
+          "end": 2361.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 51-52: إن المتقين في مقام أمين ۝ في جنات وعيون"
+    },
+    "44:52": {
+      "file": "044-الدخان-youtube-v1/051.mp3",
+      "durationMs": 648410,
+      "bytes": 7781585,
+      "sha256": "4c835027185a9d8d4d0f6aafaf34a359ba547417b64c9a8ce77bc2c7d5ecb14d",
+      "sharedAyahs": [
+        "44:51",
+        "44:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 1713.15,
+          "end": 2361.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 51-52: إن المتقين في مقام أمين ۝ في جنات وعيون"
+    },
+    "44:53": {
+      "file": "044-الدخان-youtube-v1/053.mp3",
+      "durationMs": 222740,
+      "bytes": 2673612,
+      "sha256": "f2bb50e17a03457d0cd18dc2906a42e7d87c8efec545e1b6425dee00a89a2ff6",
+      "sharedAyahs": [
+        "44:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M4WuNBFtulc",
+          "start": 2361.54,
+          "end": 2584.25
+        }
+      ],
+      "reviewNote": "تفسير الآية 53: يلبسون من سندس وإستبرق متقابلين"
+    },
+    "44:54": {
+      "file": "044-الدخان-youtube-v1/054.mp3",
+      "durationMs": 1215620,
+      "bytes": 14588172,
+      "sha256": "6d359f0b678117f27137e36e6ed8297f888cc8a374a728bf8f311f025f0a1746",
+      "sharedAyahs": [
+        "44:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxsk_p0JT4U",
+          "start": 4.5,
+          "end": 1220.11
+        }
+      ],
+      "reviewNote": "تفسير الآية 54: كذلك وزوجناهم بحور عين"
+    },
+    "44:55": {
+      "file": "044-الدخان-youtube-v1/055.mp3",
+      "durationMs": 169100,
+      "bytes": 2029932,
+      "sha256": "caa33e6f38a88c112d1f54ba3a0554f59ebc44c6a0a0c9f298385cfb1080e507",
+      "sharedAyahs": [
+        "44:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxsk_p0JT4U",
+          "start": 1220.11,
+          "end": 1389.19
+        }
+      ],
+      "reviewNote": "تفسير الآية 55: يدعون فيها بكل فاكهة آمنين"
+    },
+    "44:56": {
+      "file": "044-الدخان-youtube-v1/056.mp3",
+      "durationMs": 344260,
+      "bytes": 4131756,
+      "sha256": "3c6466a62768935f7f0473d107c9a974cab2699948515294a8cadd3ffa4c6f5c",
+      "sharedAyahs": [
+        "44:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxsk_p0JT4U",
+          "start": 1389.19,
+          "end": 1733.42
+        }
+      ],
+      "reviewNote": "تفسير الآية 56: لا يذوقون فيها الموت إلا الموتة الأولى ووقاهم عذاب الجحيم"
+    },
+    "44:57": {
+      "file": "044-الدخان-youtube-v1/057.mp3",
+      "durationMs": 107210,
+      "bytes": 1287180,
+      "sha256": "e325d3773aa990d476c68c65f93b41d1076c2e5fcaa336e02f75a8b4ff10cf1f",
+      "sharedAyahs": [
+        "44:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxsk_p0JT4U",
+          "start": 1733.42,
+          "end": 1840.59
+        }
+      ],
+      "reviewNote": "تفسير الآية 57: فضلا من ربك ذلك هو الفوز العظيم"
+    },
+    "44:58": {
+      "file": "044-الدخان-youtube-v1/058.mp3",
+      "durationMs": 5090,
+      "bytes": 61740,
+      "sha256": "f501d503ac37e8f47d233574943ef8ca2fba1321858ae52c05718a617472c934",
+      "sharedAyahs": [
+        "44:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxsk_p0JT4U",
+          "start": 1840.59,
+          "end": 1845.65
+        }
+      ],
+      "reviewNote": "تفسير الآية 58: فإنما يسرناه بلسانك لعلهم يتذكرون"
+    },
+    "44:59": {
+      "file": "044-الدخان-youtube-v1/059.mp3",
+      "durationMs": 269040,
+      "bytes": 3229164,
+      "sha256": "5c709c9c7a505c04bbd841bee9ecdeb797d444c8efa1b684963d1f9b1308b23d",
+      "sharedAyahs": [
+        "44:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxsk_p0JT4U",
+          "start": 1845.65,
+          "end": 2114.67
+        }
+      ],
+      "reviewNote": "تفسير الآية 59: فارتقب إنهم مرتقبون"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLB9D5EB47BFB34390",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "dukhan-blessed-night-and-quran",
+      "title": "الليلة المباركة ونزول القرآن وتفريق كل أمر حكيم",
+      "file": "044-الدخان-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1037480
+    },
+    {
+      "id": "dukhan-clear-smoke-and-punishment",
+      "title": "آية الدخان المبين وتكذيب كفار قريش والبطشة الكبرى",
+      "file": "044-الدخان-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 263539
+    },
+    {
+      "id": "dukhan-moses-and-sea-crossing",
+      "title": "دعوة موسى عليه السلام وفتنة فرعون وانفلاق البحر رهواً",
+      "file": "044-الدخان-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 313579
+    },
+    {
+      "id": "dukhan-neither-heaven-nor-earth-wept",
+      "title": "فما بكت عليهم السماء والأرض وما كانوا منظرين",
+      "file": "044-الدخان-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 742790
+    },
+    {
+      "id": "dukhan-day-of-decision",
+      "title": "إنكار البعث وحقيقة يوم الفصل وميقات الخلائق أجمعين",
+      "file": "044-الدخان-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 192480
+    },
+    {
+      "id": "dukhan-tree-of-zaqqum",
+      "title": "شجرة الزقوم طعام الأثيم وعذاب الحميم والغليان في البطون",
+      "file": "044-الدخان-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 429720
+    },
+    {
+      "id": "dukhan-secure-abode-of-righteous",
+      "title": "المقام الأمين في جنات وعيون وزواج الحور العين والنعيم الخالد",
+      "file": "044-الدخان-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 648389
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "UBCAP6aBOGM",
+      "pnQoRH3EyXk",
+      "0r5lr2Jnkfw",
+      "M4WuNBFtulc",
+      "oxsk_p0JT4U"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "044-الدخان-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1037500,
+        "durationMs": 1037500,
+        "recordingDurationMs": 1037500,
+        "bytes": 12450638,
+        "sha256": "64be06d80bdfe01859b5c2e3cf779db3a17618c8170c4125241b8724ccd52ee2",
+        "sharedAyahs": [
+          "44:1",
+          "44:2",
+          "44:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "UBCAP6aBOGM",
+            "start": 31.81,
+            "end": 1069.29
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 79700,
+        "durationMs": 79700,
+        "recordingDurationMs": 79700,
+        "bytes": 957130,
+        "sha256": "3e4a4d380d34fd36c9b2edc80e3ad9e965ecf57d587f72610bbe46ef3481d6ff",
+        "sharedAyahs": [
+          "44:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "UBCAP6aBOGM",
+            "start": 1069.29,
+            "end": 1148.97
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 1054800,
+        "durationMs": 1054800,
+        "recordingDurationMs": 1054800,
+        "bytes": 12658282,
+        "sha256": "98f34b89334a9b9a99265f8a768f280737097d27a80a749ebfb57b9e9cd8a3b1",
+        "sharedAyahs": [
+          "44:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "UBCAP6aBOGM",
+            "start": 1148.97,
+            "end": 2203.75
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 276380,
+        "durationMs": 276380,
+        "recordingDurationMs": 276380,
+        "bytes": 3317290,
+        "sha256": "7330f97c07fdcfc5aa8e57730350667254e39ee8a3c10d78c00c7ac50a8bddba",
+        "sharedAyahs": [
+          "44:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "UBCAP6aBOGM",
+            "start": 2203.75,
+            "end": 2480.1
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 594700,
+        "durationMs": 594700,
+        "recordingDurationMs": 594700,
+        "bytes": 7137034,
+        "sha256": "8fc08a1690428543843f4fc8315d81c1b0ec71cef89454e6129579c5c417fb0d",
+        "sharedAyahs": [
+          "44:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 1.36,
+            "end": 596.03
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 395060,
+        "durationMs": 395060,
+        "recordingDurationMs": 395060,
+        "bytes": 4741450,
+        "sha256": "12d0bd3ce3e587c43f66fa1a00cea9942ace8d843179b2a165708bc2675c280e",
+        "sharedAyahs": [
+          "44:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 596.03,
+            "end": 991.07
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 376610,
+        "durationMs": 376610,
+        "recordingDurationMs": 376610,
+        "bytes": 4519978,
+        "sha256": "6f5bdbfa780521eade529f91ed6aafb11aab07b991db9209e38edaae3541c7aa",
+        "sharedAyahs": [
+          "44:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 991.07,
+            "end": 1367.65
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 263570,
+        "durationMs": 263570,
+        "recordingDurationMs": 263570,
+        "bytes": 3163505,
+        "sha256": "68e2af9ba952b83fda88119ef551ee2e390a173a8edbef2fced847d5a5fea695",
+        "sharedAyahs": [
+          "44:10",
+          "44:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 1367.65,
+            "end": 1631.19
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 49250,
+        "durationMs": 49250,
+        "recordingDurationMs": 49250,
+        "bytes": 591660,
+        "sha256": "d10cbc721f61b1f4aaa43430a5d12a4f52732195eabecd63a52710dfac5d3ee4",
+        "sharedAyahs": [
+          "44:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 1631.19,
+            "end": 1680.41
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 128420,
+        "durationMs": 128420,
+        "recordingDurationMs": 128420,
+        "bytes": 1541772,
+        "sha256": "4a0a8d58700e337d47576c7dca7d8c48eda8167afb13247f285027e6b0dcfc04",
+        "sharedAyahs": [
+          "44:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 1680.41,
+            "end": 1808.82
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 5140,
+        "durationMs": 5140,
+        "recordingDurationMs": 5140,
+        "bytes": 62316,
+        "sha256": "305a95daf90e22c5c905bef9fdfd57c9ddf00fdd8cfdba12b952d6240de0206a",
+        "sharedAyahs": [
+          "44:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 1808.82,
+            "end": 1813.94
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 158280,
+        "durationMs": 158280,
+        "recordingDurationMs": 158280,
+        "bytes": 1900044,
+        "sha256": "ffc47c87b893c6a700ab92f896a22299a29e265b92247d422e78c9e7fef310a9",
+        "sharedAyahs": [
+          "44:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 1813.94,
+            "end": 1972.19
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 114770,
+        "durationMs": 114770,
+        "recordingDurationMs": 114770,
+        "bytes": 1377900,
+        "sha256": "c2b58fd926aeca1698023cd83a4f4634ca86b6e28307a57146f839baa3441a50",
+        "sharedAyahs": [
+          "44:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 1972.19,
+            "end": 2086.94
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 313610,
+        "durationMs": 313610,
+        "recordingDurationMs": 313610,
+        "bytes": 3763980,
+        "sha256": "913e7f8b54520bb817829681b1bd1adb6c56bab290d1431f4e777bd79660d2af",
+        "sharedAyahs": [
+          "44:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 2086.94,
+            "end": 2400.52
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 146980,
+        "durationMs": 146980,
+        "recordingDurationMs": 146980,
+        "bytes": 1764396,
+        "sha256": "83c41eac2d19e44a02305bf9113d0ef105f138a6e139063481191e024d85b233",
+        "sharedAyahs": [
+          "44:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 2400.52,
+            "end": 2547.47
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 122620,
+        "durationMs": 122620,
+        "recordingDurationMs": 122620,
+        "bytes": 1472076,
+        "sha256": "fe6f65281ab8fdb371016e9bb963c4dca2368b4c9347efd99a7840dc34611e2e",
+        "sharedAyahs": [
+          "44:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pnQoRH3EyXk",
+            "start": 2547.47,
+            "end": 2670.06
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 689540,
+        "durationMs": 689540,
+        "recordingDurationMs": 689540,
+        "bytes": 8275217,
+        "sha256": "cbaf109227a5fd8a483e0b819d3eb10a2f2cb02060f6f3436c15c026cc82583f",
+        "sharedAyahs": [
+          "44:20",
+          "44:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 8.56,
+            "end": 698.08
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 59380,
+        "durationMs": 59380,
+        "recordingDurationMs": 59380,
+        "bytes": 713196,
+        "sha256": "ae1874d12369843242b3a34fd0d1c5b73b4d06b7651a3d2865c1d44da25dfddc",
+        "sharedAyahs": [
+          "44:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 698.08,
+            "end": 757.42
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 231860,
+        "durationMs": 231860,
+        "recordingDurationMs": 231860,
+        "bytes": 2783057,
+        "sha256": "8566d12d20035d6c07863b6d980e0996a86188a92d99c794e5f026e751d84589",
+        "sharedAyahs": [
+          "44:23",
+          "44:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 757.42,
+            "end": 989.27
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 227710,
+        "durationMs": 227710,
+        "recordingDurationMs": 227710,
+        "bytes": 2733233,
+        "sha256": "9c9f28021e55b6156d8921a4ab250b662249a777d9bb3b8c37eb109f9a2d350d",
+        "sharedAyahs": [
+          "44:25",
+          "44:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 989.27,
+            "end": 1216.95
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 209380,
+        "durationMs": 209380,
+        "recordingDurationMs": 209380,
+        "bytes": 2513201,
+        "sha256": "91050173c646945ad8d343027e4d942d080cb24788d9efe552f75428d0e1b235",
+        "sharedAyahs": [
+          "44:27",
+          "44:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 1216.95,
+            "end": 1426.32
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 742820,
+        "durationMs": 742820,
+        "recordingDurationMs": 742820,
+        "bytes": 8914572,
+        "sha256": "6e2122dd7dbd4083b1852b3eee7a9198ddf1f1aacfb13c85b25e363f16502086",
+        "sharedAyahs": [
+          "44:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 1426.32,
+            "end": 2169.11
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 25300,
+        "durationMs": 25300,
+        "recordingDurationMs": 25300,
+        "bytes": 304241,
+        "sha256": "d2221ff1af059de95bcb023cc1cabafb2541b6498488a0716cfb460a447d28e2",
+        "sharedAyahs": [
+          "44:30",
+          "44:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 2169.11,
+            "end": 2194.38
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 140540,
+        "durationMs": 140540,
+        "recordingDurationMs": 140540,
+        "bytes": 1687212,
+        "sha256": "2d4c0aea910d4c5a6d054085d3f93f696721c7a119b8a749f25198f85804dac6",
+        "sharedAyahs": [
+          "44:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 2194.38,
+            "end": 2334.9
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 154540,
+        "durationMs": 154540,
+        "recordingDurationMs": 154540,
+        "bytes": 1855116,
+        "sha256": "4dc81c7d8efb11b7dcb50639b3b1169cba2133cdd8e424c00b195786aafdcda0",
+        "sharedAyahs": [
+          "44:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 2334.9,
+            "end": 2489.42
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 179040,
+        "durationMs": 179040,
+        "recordingDurationMs": 179040,
+        "bytes": 2149169,
+        "sha256": "1d714243b6e237d63f9ff173e8e7ec8330f31584385b51f0a7b39f7f9c71d0d1",
+        "sharedAyahs": [
+          "44:34",
+          "44:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0r5lr2Jnkfw",
+            "start": 2489.42,
+            "end": 2668.44
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 300310,
+        "durationMs": 300310,
+        "recordingDurationMs": 300310,
+        "bytes": 3604428,
+        "sha256": "5e0fb7f5de6474a8c148a19fa35ec07d833d7372ad046d1290dfbb4c6b8a261e",
+        "sharedAyahs": [
+          "44:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 1.62,
+            "end": 301.92
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 211730,
+        "durationMs": 211730,
+        "recordingDurationMs": 211730,
+        "bytes": 2541420,
+        "sha256": "cc31faafd4ad692b1292a107973067f8f45d20c4fc684dee3a4be0f305ccd033",
+        "sharedAyahs": [
+          "44:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 301.92,
+            "end": 513.61
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 245570,
+        "durationMs": 245570,
+        "recordingDurationMs": 245570,
+        "bytes": 2947505,
+        "sha256": "290baeb261da57e6a78cf3ea2044715508798282912617ab7cc54d207282c319",
+        "sharedAyahs": [
+          "44:38",
+          "44:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 513.61,
+            "end": 759.15
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 192500,
+        "durationMs": 192500,
+        "recordingDurationMs": 192500,
+        "bytes": 2310732,
+        "sha256": "489091908b7562197691ab3dd04f0a91c9d3a1e3231729f1eb774aba840ff828",
+        "sharedAyahs": [
+          "44:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 759.15,
+            "end": 951.63
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 144170,
+        "durationMs": 144170,
+        "recordingDurationMs": 144170,
+        "bytes": 1730705,
+        "sha256": "b5ede66ca9169d285a0594e1df5915ca8ee801005e2575e0e4f20bf9795dc434",
+        "sharedAyahs": [
+          "44:41",
+          "44:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 951.63,
+            "end": 1095.77
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 429740,
+        "durationMs": 429740,
+        "recordingDurationMs": 429740,
+        "bytes": 5157617,
+        "sha256": "9f453d1a20586882bd2b17dd7bd5fd9aa831c950278ffb66d053f9a7f99a2b99",
+        "sharedAyahs": [
+          "44:43",
+          "44:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 1095.77,
+            "end": 1525.49
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 34460,
+        "durationMs": 34460,
+        "recordingDurationMs": 34460,
+        "bytes": 414257,
+        "sha256": "ece524295ca66f690d2b6ae68bd6a93c42e2c79fb7ae820bccfc46b549c48a23",
+        "sharedAyahs": [
+          "44:45",
+          "44:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 1525.49,
+            "end": 1559.93
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 115750,
+        "durationMs": 115750,
+        "recordingDurationMs": 115750,
+        "bytes": 1389713,
+        "sha256": "2431f9cb11749852a64ac236dad14fea33b1e28f2eb8f27648fedc3d88fdb1fb",
+        "sharedAyahs": [
+          "44:47",
+          "44:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 1559.93,
+            "end": 1675.66
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 37510,
+        "durationMs": 37510,
+        "recordingDurationMs": 37510,
+        "bytes": 450833,
+        "sha256": "1cb90aa5be84782c4461d8771a634f5c759963ff09ead3814ac5986f27338f00",
+        "sharedAyahs": [
+          "44:49",
+          "44:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 1675.66,
+            "end": 1713.15
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 648410,
+        "durationMs": 648410,
+        "recordingDurationMs": 648410,
+        "bytes": 7781585,
+        "sha256": "4c835027185a9d8d4d0f6aafaf34a359ba547417b64c9a8ce77bc2c7d5ecb14d",
+        "sharedAyahs": [
+          "44:51",
+          "44:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 1713.15,
+            "end": 2361.54
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 222740,
+        "durationMs": 222740,
+        "recordingDurationMs": 222740,
+        "bytes": 2673612,
+        "sha256": "f2bb50e17a03457d0cd18dc2906a42e7d87c8efec545e1b6425dee00a89a2ff6",
+        "sharedAyahs": [
+          "44:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "M4WuNBFtulc",
+            "start": 2361.54,
+            "end": 2584.25
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 1215620,
+        "durationMs": 1215620,
+        "recordingDurationMs": 1215620,
+        "bytes": 14588172,
+        "sha256": "6d359f0b678117f27137e36e6ed8297f888cc8a374a728bf8f311f025f0a1746",
+        "sharedAyahs": [
+          "44:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxsk_p0JT4U",
+            "start": 4.5,
+            "end": 1220.11
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 169100,
+        "durationMs": 169100,
+        "recordingDurationMs": 169100,
+        "bytes": 2029932,
+        "sha256": "caa33e6f38a88c112d1f54ba3a0554f59ebc44c6a0a0c9f298385cfb1080e507",
+        "sharedAyahs": [
+          "44:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxsk_p0JT4U",
+            "start": 1220.11,
+            "end": 1389.19
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 344260,
+        "durationMs": 344260,
+        "recordingDurationMs": 344260,
+        "bytes": 4131756,
+        "sha256": "3c6466a62768935f7f0473d107c9a974cab2699948515294a8cadd3ffa4c6f5c",
+        "sharedAyahs": [
+          "44:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxsk_p0JT4U",
+            "start": 1389.19,
+            "end": 1733.42
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 107210,
+        "durationMs": 107210,
+        "recordingDurationMs": 107210,
+        "bytes": 1287180,
+        "sha256": "e325d3773aa990d476c68c65f93b41d1076c2e5fcaa336e02f75a8b4ff10cf1f",
+        "sharedAyahs": [
+          "44:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxsk_p0JT4U",
+            "start": 1733.42,
+            "end": 1840.59
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 5090,
+        "durationMs": 5090,
+        "recordingDurationMs": 5090,
+        "bytes": 61740,
+        "sha256": "f501d503ac37e8f47d233574943ef8ca2fba1321858ae52c05718a617472c934",
+        "sharedAyahs": [
+          "44:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxsk_p0JT4U",
+            "start": 1840.59,
+            "end": 1845.65
+          }
+        ]
+      },
+      {
+        "file": "044-الدخان-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 269040,
+        "durationMs": 269040,
+        "recordingDurationMs": 269040,
+        "bytes": 3229164,
+        "sha256": "5c709c9c7a505c04bbd841bee9ecdeb797d444c8efa1b684963d1f9b1308b23d",
+        "sharedAyahs": [
+          "44:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxsk_p0JT4U",
+            "start": 1845.65,
+            "end": 2114.67
+          }
+        ]
+      }
+    ],
+    "durationMs": 12470710,
+    "additionalAudioBytes": 0
+  }
+}
