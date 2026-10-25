@@ -61,37 +61,27 @@
   "ayahs": {
     "53:1": {
       "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "durationMs": 663550,
+      "bytes": 7963209,
+      "sha256": "e85f49f077fcc846479821317cd1838074a6c8e7b5d5143da04a64034daeb7a9",
       "sharedAyahs": [
-        "53:1",
-        "53:2",
-        "53:3",
-        "53:4",
-        "53:5",
-        "53:6",
-        "53:7",
-        "53:8",
-        "53:9",
-        "53:10"
+        "53:1"
       ],
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
-          "end": 1677.07
+          "start": 1.06,
+          "end": 664.59
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآية 1: والنجم إذا هوى"
     },
     "53:2": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -105,19 +95,18 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:3": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -131,19 +120,18 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:4": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -157,19 +145,18 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:5": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -183,19 +170,18 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:6": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -209,19 +195,18 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:7": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -235,19 +220,18 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:8": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -261,19 +245,18 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:9": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -287,19 +270,18 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:10": {
-      "file": "053-النجم-youtube-v1/001.mp3",
-      "durationMs": 1677070,
-      "bytes": 20125454,
-      "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+      "file": "053-النجم-youtube-v1/002.mp3",
+      "durationMs": 1012460,
+      "bytes": 12150158,
+      "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
       "sharedAyahs": [
-        "53:1",
         "53:2",
         "53:3",
         "53:4",
@@ -313,17 +295,17 @@
       "sourceIntervals": [
         {
           "source": "RcDd-sKMcQU",
-          "start": 0.0,
+          "start": 664.59,
           "end": 1677.07
         }
       ],
-      "reviewNote": "تفسير الآيات 1-10: والنجم إذا هوى ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
+      "reviewNote": "تفسير الآيات 2-10: ما ضل صاحبكم وما غوى وما ينطق عن الهوى إن هو إلا وحي يوحى"
     },
     "53:11": {
       "file": "053-النجم-youtube-v1/011.mp3",
-      "durationMs": 155090,
-      "bytes": 1861648,
-      "sha256": "a5e20251d57d73bcf29be988fcb3fea59962b423ec059df020f3b2e7c1dd9ec8",
+      "durationMs": 148270,
+      "bytes": 1779856,
+      "sha256": "92393b934a2977795e73b5eb34d8f5dc79d85e5974a56b422b292696773b470b",
       "sharedAyahs": [
         "53:11",
         "53:12"
@@ -331,7 +313,7 @@
       "sourceIntervals": [
         {
           "source": "-hrE2C1x3GM",
-          "start": 0.0,
+          "start": 6.8,
           "end": 155.05
         }
       ],
@@ -339,9 +321,9 @@
     },
     "53:12": {
       "file": "053-النجم-youtube-v1/011.mp3",
-      "durationMs": 155090,
-      "bytes": 1861648,
-      "sha256": "a5e20251d57d73bcf29be988fcb3fea59962b423ec059df020f3b2e7c1dd9ec8",
+      "durationMs": 148270,
+      "bytes": 1779856,
+      "sha256": "92393b934a2977795e73b5eb34d8f5dc79d85e5974a56b422b292696773b470b",
       "sharedAyahs": [
         "53:11",
         "53:12"
@@ -349,7 +331,7 @@
       "sourceIntervals": [
         {
           "source": "-hrE2C1x3GM",
-          "start": 0.0,
+          "start": 6.8,
           "end": 155.05
         }
       ],
@@ -582,9 +564,9 @@
     },
     "53:24": {
       "file": "053-النجم-youtube-v1/024.mp3",
-      "durationMs": 225020,
-      "bytes": 2700880,
-      "sha256": "a9b9d106944e1383f9a2416f4d770c19eece14b67b76e2983de44f71ca519e8c",
+      "durationMs": 216340,
+      "bytes": 2596624,
+      "sha256": "568f879f932535b5ac1d07a64a9b16f01804f5cea5203664212c79bfc0aa9710",
       "sharedAyahs": [
         "53:24",
         "53:25"
@@ -592,7 +574,7 @@
       "sourceIntervals": [
         {
           "source": "HBe8srv-zQ8",
-          "start": 0.0,
+          "start": 8.68,
           "end": 225.0
         }
       ],
@@ -600,9 +582,9 @@
     },
     "53:25": {
       "file": "053-النجم-youtube-v1/024.mp3",
-      "durationMs": 225020,
-      "bytes": 2700880,
-      "sha256": "a9b9d106944e1383f9a2416f4d770c19eece14b67b76e2983de44f71ca519e8c",
+      "durationMs": 216340,
+      "bytes": 2596624,
+      "sha256": "568f879f932535b5ac1d07a64a9b16f01804f5cea5203664212c79bfc0aa9710",
       "sharedAyahs": [
         "53:24",
         "53:25"
@@ -610,7 +592,7 @@
       "sourceIntervals": [
         {
           "source": "HBe8srv-zQ8",
-          "start": 0.0,
+          "start": 8.68,
           "end": 225.0
         }
       ],
@@ -724,16 +706,16 @@
     },
     "53:32": {
       "file": "053-النجم-youtube-v1/032.mp3",
-      "durationMs": 725540,
-      "bytes": 8707115,
-      "sha256": "a655af5b573c16258800c5788abe0c15a39c2dea680ab1d6d94c5b39099c32e4",
+      "durationMs": 724440,
+      "bytes": 8693867,
+      "sha256": "bcedd081083924cfb35e966b6f4956ac9ba7c8781d10b67fb244fd43d8d924fb",
       "sharedAyahs": [
         "53:32"
       ],
       "sourceIntervals": [
         {
           "source": "N2mg5pCnvDQ",
-          "start": 0.0,
+          "start": 1.09,
           "end": 725.5
         }
       ],
@@ -906,16 +888,21 @@
     },
     "53:42": {
       "file": "053-النجم-youtube-v1/042.mp3",
-      "durationMs": 57620,
-      "bytes": 692075,
-      "sha256": "4a1d5623b8cb6f648f7e14afb3bc0b94500a6262ddea495c215f92466c6e9935",
+      "durationMs": 120430,
+      "bytes": 1445607,
+      "sha256": "3a60f5509518af3c8ff54b2adfd3144b1d219e7b3a85e179f3260b9d1be3ef38",
       "sharedAyahs": [
         "53:42"
       ],
       "sourceIntervals": [
         {
+          "source": "N2mg5pCnvDQ",
+          "start": 1625.8,
+          "end": 1689.82
+        },
+        {
           "source": "HOWr4hjwudY",
-          "start": 0.0,
+          "start": 1.2,
           "end": 57.6
         }
       ],
@@ -1318,7 +1305,7 @@
   },
   "extraTracks": [
     {
-      "file": "053-النجم-youtube-v1/closing-10.mp3",
+      "file": "053-النجم-youtube-v1/closing-11.mp3",
       "kind": "closing",
       "durationMs": 427560,
       "bytes": 5131300,
@@ -1332,22 +1319,6 @@
         }
       ],
       "reviewNote": "مقدمة الآية 32 وتمهيد للدرس التالي"
-    },
-    {
-      "file": "053-النجم-youtube-v1/closing-16.mp3",
-      "kind": "closing",
-      "durationMs": 64010,
-      "bytes": 768676,
-      "sha256": "34702ef3687dcf4b74bb818158a23e70bc7a6a6982cd6876770ed8390a2ec0be",
-      "sharedAyahs": [],
-      "sourceIntervals": [
-        {
-          "source": "N2mg5pCnvDQ",
-          "start": 1625.8,
-          "end": 1689.82
-        }
-      ],
-      "reviewNote": "تمهيد للآية 42 وخاتمة الدرس الرابع"
     },
     {
       "file": "053-النجم-youtube-v1/closing-24.mp3",
@@ -1374,7 +1345,7 @@
       "title": "صدق الوحي المحمدي ورؤية جبريل في الأفق وسدرة المنتهى",
       "file": "053-النجم-youtube-v1/001.mp3",
       "startMs": 0,
-      "endMs": 1677070
+      "endMs": 663530
     },
     {
       "id": "najm-falsehood-of-idols",
@@ -1388,21 +1359,21 @@
       "title": "مغفرة الله الواسعة واجتناب كبائر الإثم واللمم وأسرار التوبة",
       "file": "053-النجم-youtube-v1/032.mp3",
       "startMs": 0,
-      "endMs": 725500
+      "endMs": 724410
     },
     {
       "id": "najm-individual-responsibility-scrolls",
       "title": "صحف إبراهيم وموسى: ألا تزر وازرة وزر أخرى وأن ليس للإنسان إلا ما سعى",
       "file": "053-النجم-youtube-v1/036.mp3",
       "startMs": 0,
-      "endMs": 126259
+      "endMs": 126260
     },
     {
       "id": "najm-divine-attributes-and-prostration",
       "title": "قدرة الله في الإماتة والإحياء والضحك والبكاء والأمر بالسجود لله",
       "file": "053-النجم-youtube-v1/042.mp3",
       "startMs": 0,
-      "endMs": 57600
+      "endMs": 120420
     }
   ],
   "fullSurah": {
@@ -1419,13 +1390,31 @@
       {
         "file": "053-النجم-youtube-v1/001.mp3",
         "startMs": 0,
-        "endMs": 1677070,
-        "durationMs": 1677070,
-        "recordingDurationMs": 1677070,
-        "bytes": 20125454,
-        "sha256": "299373d349cbbce068ca33e203cf17da4ecc30755d8500f1f6e8fe49a80be6a5",
+        "endMs": 663550,
+        "durationMs": 663550,
+        "recordingDurationMs": 663550,
+        "bytes": 7963209,
+        "sha256": "e85f49f077fcc846479821317cd1838074a6c8e7b5d5143da04a64034daeb7a9",
         "sharedAyahs": [
-          "53:1",
+          "53:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RcDd-sKMcQU",
+            "start": 1.06,
+            "end": 664.59
+          }
+        ]
+      },
+      {
+        "file": "053-النجم-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 1012460,
+        "durationMs": 1012460,
+        "recordingDurationMs": 1012460,
+        "bytes": 12150158,
+        "sha256": "b30d53e160fbdc4e689c34e5616dabcbb24249c8f89ddcf41fbbe17f9414f74e",
+        "sharedAyahs": [
           "53:2",
           "53:3",
           "53:4",
@@ -1439,7 +1428,7 @@
         "sourceIntervals": [
           {
             "source": "RcDd-sKMcQU",
-            "start": 0.0,
+            "start": 664.59,
             "end": 1677.07
           }
         ]
@@ -1447,11 +1436,11 @@
       {
         "file": "053-النجم-youtube-v1/011.mp3",
         "startMs": 0,
-        "endMs": 155090,
-        "durationMs": 155090,
-        "recordingDurationMs": 155090,
-        "bytes": 1861648,
-        "sha256": "a5e20251d57d73bcf29be988fcb3fea59962b423ec059df020f3b2e7c1dd9ec8",
+        "endMs": 148270,
+        "durationMs": 148270,
+        "recordingDurationMs": 148270,
+        "bytes": 1779856,
+        "sha256": "92393b934a2977795e73b5eb34d8f5dc79d85e5974a56b422b292696773b470b",
         "sharedAyahs": [
           "53:11",
           "53:12"
@@ -1459,7 +1448,7 @@
         "sourceIntervals": [
           {
             "source": "-hrE2C1x3GM",
-            "start": 0.0,
+            "start": 6.8,
             "end": 155.05
           }
         ]
@@ -1532,11 +1521,11 @@
       {
         "file": "053-النجم-youtube-v1/024.mp3",
         "startMs": 0,
-        "endMs": 225020,
-        "durationMs": 225020,
-        "recordingDurationMs": 225020,
-        "bytes": 2700880,
-        "sha256": "a9b9d106944e1383f9a2416f4d770c19eece14b67b76e2983de44f71ca519e8c",
+        "endMs": 216340,
+        "durationMs": 216340,
+        "recordingDurationMs": 216340,
+        "bytes": 2596624,
+        "sha256": "568f879f932535b5ac1d07a64a9b16f01804f5cea5203664212c79bfc0aa9710",
         "sharedAyahs": [
           "53:24",
           "53:25"
@@ -1544,7 +1533,7 @@
         "sourceIntervals": [
           {
             "source": "HBe8srv-zQ8",
-            "start": 0.0,
+            "start": 8.68,
             "end": 225.0
           }
         ]
@@ -1628,7 +1617,7 @@
         ]
       },
       {
-        "file": "053-النجم-youtube-v1/closing-10.mp3",
+        "file": "053-النجم-youtube-v1/closing-11.mp3",
         "startMs": 0,
         "endMs": 427560,
         "durationMs": 427560,
@@ -1647,18 +1636,18 @@
       {
         "file": "053-النجم-youtube-v1/032.mp3",
         "startMs": 0,
-        "endMs": 725540,
-        "durationMs": 725540,
-        "recordingDurationMs": 725540,
-        "bytes": 8707115,
-        "sha256": "a655af5b573c16258800c5788abe0c15a39c2dea680ab1d6d94c5b39099c32e4",
+        "endMs": 724440,
+        "durationMs": 724440,
+        "recordingDurationMs": 724440,
+        "bytes": 8693867,
+        "sha256": "bcedd081083924cfb35e966b6f4956ac9ba7c8781d10b67fb244fd43d8d924fb",
         "sharedAyahs": [
           "53:32"
         ],
         "sourceIntervals": [
           {
             "source": "N2mg5pCnvDQ",
-            "start": 0.0,
+            "start": 1.09,
             "end": 725.5
           }
         ]
@@ -1745,14 +1734,16 @@
         ]
       },
       {
-        "file": "053-النجم-youtube-v1/closing-16.mp3",
+        "file": "053-النجم-youtube-v1/042.mp3",
         "startMs": 0,
-        "endMs": 64010,
-        "durationMs": 64010,
-        "recordingDurationMs": 64010,
-        "bytes": 768676,
-        "sha256": "34702ef3687dcf4b74bb818158a23e70bc7a6a6982cd6876770ed8390a2ec0be",
-        "sharedAyahs": [],
+        "endMs": 63923,
+        "durationMs": 63923,
+        "recordingDurationMs": 120430,
+        "bytes": 1445607,
+        "sha256": "3a60f5509518af3c8ff54b2adfd3144b1d219e7b3a85e179f3260b9d1be3ef38",
+        "sharedAyahs": [
+          "53:42"
+        ],
         "sourceIntervals": [
           {
             "source": "N2mg5pCnvDQ",
@@ -1763,19 +1754,19 @@
       },
       {
         "file": "053-النجم-youtube-v1/042.mp3",
-        "startMs": 0,
-        "endMs": 57620,
-        "durationMs": 57620,
-        "recordingDurationMs": 57620,
-        "bytes": 692075,
-        "sha256": "4a1d5623b8cb6f648f7e14afb3bc0b94500a6262ddea495c215f92466c6e9935",
+        "startMs": 63923,
+        "endMs": 120430,
+        "durationMs": 56507,
+        "recordingDurationMs": 120430,
+        "bytes": 1445607,
+        "sha256": "3a60f5509518af3c8ff54b2adfd3144b1d219e7b3a85e179f3260b9d1be3ef38",
         "sharedAyahs": [
           "53:42"
         ],
         "sourceIntervals": [
           {
             "source": "HOWr4hjwudY",
-            "start": 0.0,
+            "start": 1.2,
             "end": 57.6
           }
         ]
@@ -1926,7 +1917,7 @@
         ]
       }
     ],
-    "durationMs": 7783060,
+    "durationMs": 7764200,
     "additionalAudioBytes": 0
   },
   "publicationStatus": "published"
