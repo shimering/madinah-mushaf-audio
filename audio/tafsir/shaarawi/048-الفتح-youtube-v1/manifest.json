@@ -1,0 +1,1139 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 48,
+  "surahName": "الفتح",
+  "ayahCount": 29,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 29,
+    "mappedAyahCount": 29,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "pOMEs4ZIgks": {
+      "durationSeconds": 1729.06,
+      "bytes": 20749365,
+      "sha256": "cf51f2b85c074c7af929a943b12bc8164be8293a33aa5fddb205bea9f29a564a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-005_pOMEs4ZIgks.mp3",
+      "url": "https://www.youtube.com/watch?v=pOMEs4ZIgks"
+    },
+    "znVMrbeFdV0": {
+      "durationSeconds": 2623.87,
+      "bytes": 31487159,
+      "sha256": "25e13c7533770bd6a9f8cdfe1cdd0df402d1339341d7ceae1108dd9d6f2c4784",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_005-027_znVMrbeFdV0.mp3",
+      "url": "https://www.youtube.com/watch?v=znVMrbeFdV0"
+    },
+    "ywI1u2BXl-Q": {
+      "durationSeconds": 2666.86,
+      "bytes": 32002969,
+      "sha256": "49e4213f24cddd57cb3a1cff062ac90157a71a206b37108af4af3656bebc26ef",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_027-029_ywI1u2BXl-Q.mp3",
+      "url": "https://www.youtube.com/watch?v=ywI1u2BXl-Q"
+    },
+    "S-v0bpbbuX8": {
+      "durationSeconds": 2582.88,
+      "bytes": 30995266,
+      "sha256": "d25012416f20eea34c78b3cf6748d747930df08ff8a49b8b45f7110b0750ff21",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_029-029_S-v0bpbbuX8.mp3",
+      "url": "https://www.youtube.com/watch?v=S-v0bpbbuX8"
+    },
+    "bd8Sf88qjpM": {
+      "durationSeconds": 952.42,
+      "bytes": 11429695,
+      "sha256": "153fc56f38e42dfad0b57bf257e7456041e3457ae945ca87a5077b06916854d0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_029-029_bd8Sf88qjpM.mp3",
+      "url": "https://www.youtube.com/watch?v=bd8Sf88qjpM"
+    }
+  },
+  "ayahs": {
+    "48:1": {
+      "file": "048-الفتح-youtube-v1/001.mp3",
+      "durationMs": 425300,
+      "bytes": 5104326,
+      "sha256": "a6bb758d053f821c9375a6236cb53c8dc3c90b2bd0391f081615c9c41f1f7b35",
+      "sharedAyahs": [
+        "48:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pOMEs4ZIgks",
+          "start": 5.49,
+          "end": 430.77
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: إنا فتحنا لك فتحا مبينا"
+    },
+    "48:2": {
+      "file": "048-الفتح-youtube-v1/002.mp3",
+      "durationMs": 319920,
+      "bytes": 3839718,
+      "sha256": "1b464c343443ae60ed6a1050fd277671f612ab9af721bfcfdb90aa9baf548410",
+      "sharedAyahs": [
+        "48:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pOMEs4ZIgks",
+          "start": 430.77,
+          "end": 750.65
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: ليغفر لك الله ما تقدم من ذنبك وما تأخر ويتم نعمته عليك ويهديك صراطا مستقيما"
+    },
+    "48:3": {
+      "file": "048-الفتح-youtube-v1/003.mp3",
+      "durationMs": 175900,
+      "bytes": 2111430,
+      "sha256": "9f7210d85775a895ce61cf1037284c8e940777f4563794296556733cab44f82a",
+      "sharedAyahs": [
+        "48:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pOMEs4ZIgks",
+          "start": 750.65,
+          "end": 926.54
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: وينصرك الله نصرا عزيزا"
+    },
+    "48:4": {
+      "file": "048-الفتح-youtube-v1/004.mp3",
+      "durationMs": 589750,
+      "bytes": 7077702,
+      "sha256": "b8af3287978d7b22f8210a6eaf4e0cad378a64a6708cf72c7b5385fb6fd7ca1a",
+      "sharedAyahs": [
+        "48:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pOMEs4ZIgks",
+          "start": 926.54,
+          "end": 1516.27
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: هو الذي أنزل السكينة في قلوب المؤمنين ليزدادوا إيمانا مع إيمانهم ولله جنود السماوات والأرض"
+    },
+    "48:5": {
+      "file": "048-الفتح-youtube-v1/005.mp3",
+      "durationMs": 306550,
+      "bytes": 3679045,
+      "sha256": "5e0b46fbf536624aa8f9a6a8b1b51ae2c19354f16a67b2eed483eb8a1e5c58e2",
+      "sharedAyahs": [
+        "48:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pOMEs4ZIgks",
+          "start": 1516.27,
+          "end": 1729.06
+        },
+        {
+          "source": "znVMrbeFdV0",
+          "start": 6.1,
+          "end": 99.86
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: ليدخل المؤمنين والمؤمنات جنات تجري من تحتها الأنهار خالدين فيها"
+    },
+    "48:6": {
+      "file": "048-الفتح-youtube-v1/006.mp3",
+      "durationMs": 238560,
+      "bytes": 2863398,
+      "sha256": "0f758df2ab41722b1a5767a377baa904447eb6c8d6ea48582d2f9ac528ff5592",
+      "sharedAyahs": [
+        "48:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 99.86,
+          "end": 338.39
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: ويعذب المنافقين والمنافقات والمشركين والمشركات الظانين بالله ظن السوء"
+    },
+    "48:7": {
+      "file": "048-الفتح-youtube-v1/007.mp3",
+      "durationMs": 33580,
+      "bytes": 403590,
+      "sha256": "572bb305331d7c60b2bca3525cb67d6fdc5e5df1afe9d32057f831970b015a4b",
+      "sharedAyahs": [
+        "48:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 338.39,
+          "end": 371.95
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: ولله جنود السماوات والأرض وكان الله عزيزا حكيما"
+    },
+    "48:8": {
+      "file": "048-الفتح-youtube-v1/008.mp3",
+      "durationMs": 304820,
+      "bytes": 3658570,
+      "sha256": "d955755f5716acdb668f6bbe901fdad9a52e4364ccecf22da514e84a657fc479",
+      "sharedAyahs": [
+        "48:8",
+        "48:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 371.95,
+          "end": 676.74
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 8-9: إنا أرسلناك شاهدا ومبشرا ونذيرا لتؤمنوا بالله ورسوله وتعزروه وتوقروه وتسبحوه بكرة وأصيلا"
+    },
+    "48:9": {
+      "file": "048-الفتح-youtube-v1/008.mp3",
+      "durationMs": 304820,
+      "bytes": 3658570,
+      "sha256": "d955755f5716acdb668f6bbe901fdad9a52e4364ccecf22da514e84a657fc479",
+      "sharedAyahs": [
+        "48:8",
+        "48:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 371.95,
+          "end": 676.74
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 8-9: إنا أرسلناك شاهدا ومبشرا ونذيرا لتؤمنوا بالله ورسوله وتعزروه وتوقروه وتسبحوه بكرة وأصيلا"
+    },
+    "48:10": {
+      "file": "048-الفتح-youtube-v1/010.mp3",
+      "durationMs": 565060,
+      "bytes": 6781352,
+      "sha256": "5ef0021cc1a9ae93b1a214fb42f38c2f1e612377e4759063c465b2ad5e76f8a6",
+      "sharedAyahs": [
+        "48:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 676.74,
+          "end": 1241.78
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: إن الذين يبايعونك إنما يبايعون الله يد الله فوق أيديهم"
+    },
+    "48:11": {
+      "file": "048-الفتح-youtube-v1/011.mp3",
+      "durationMs": 101760,
+      "bytes": 1221800,
+      "sha256": "a514343f62248ed635c7ebf953cce7ddc4b3011d4f0831122ddbce9929001449",
+      "sharedAyahs": [
+        "48:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 1241.78,
+          "end": 1343.51
+        }
+      ],
+      "reviewNote": "تفسير الآية 11: سيقول لك المخلفون من الأعراب شغلتنا أموالنا وأهلونا فاستغفر لنا"
+    },
+    "48:12": {
+      "file": "048-الفتح-youtube-v1/012.mp3",
+      "durationMs": 263160,
+      "bytes": 3158600,
+      "sha256": "d0cb3a4b359d2b9616d4e19b502daeb381d982b89b0a600ec610db153c06d0bc",
+      "sharedAyahs": [
+        "48:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 1343.51,
+          "end": 1606.64
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: بل ظننتم أن لن ينقلب الرسول والمؤمنون إلى أهليهم أبدا وزين ذلك في قلوبكم"
+    },
+    "48:13": {
+      "file": "048-الفتح-youtube-v1/013.mp3",
+      "durationMs": 492170,
+      "bytes": 5906701,
+      "sha256": "2516d24564630c7319a401a9db6ed9d73da99106b9e186239b2eb7bc360b1488",
+      "sharedAyahs": [
+        "48:13",
+        "48:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 1606.64,
+          "end": 2098.79
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 13-14: ومن لم يؤمن بالله ورسوله فإنا أعتدنا للكافرين سعيرا ولله ملك السماوات والأرض"
+    },
+    "48:14": {
+      "file": "048-الفتح-youtube-v1/013.mp3",
+      "durationMs": 492170,
+      "bytes": 5906701,
+      "sha256": "2516d24564630c7319a401a9db6ed9d73da99106b9e186239b2eb7bc360b1488",
+      "sharedAyahs": [
+        "48:13",
+        "48:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 1606.64,
+          "end": 2098.79
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 13-14: ومن لم يؤمن بالله ورسوله فإنا أعتدنا للكافرين سعيرا ولله ملك السماوات والأرض"
+    },
+    "48:15": {
+      "file": "048-الفتح-youtube-v1/015.mp3",
+      "durationMs": 105340,
+      "bytes": 1264717,
+      "sha256": "4aa5519517c9af5424cd27f1b4f016bd065a7c409df31f26b8ef83c9d576042e",
+      "sharedAyahs": [
+        "48:15",
+        "48:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2098.79,
+          "end": 2204.11
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 15-16: سيقول المخلفون إذا انطلقتم إلى مغانم لتأخذوها ذرونا نتبعكم... قل للمخلفين من الأعراب ستدعون إلى قوم أولي بأس شديد"
+    },
+    "48:16": {
+      "file": "048-الفتح-youtube-v1/015.mp3",
+      "durationMs": 105340,
+      "bytes": 1264717,
+      "sha256": "4aa5519517c9af5424cd27f1b4f016bd065a7c409df31f26b8ef83c9d576042e",
+      "sharedAyahs": [
+        "48:15",
+        "48:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2098.79,
+          "end": 2204.11
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 15-16: سيقول المخلفون إذا انطلقتم إلى مغانم لتأخذوها ذرونا نتبعكم... قل للمخلفين من الأعراب ستدعون إلى قوم أولي بأس شديد"
+    },
+    "48:17": {
+      "file": "048-الفتح-youtube-v1/017.mp3",
+      "durationMs": 27670,
+      "bytes": 332744,
+      "sha256": "7ed7ad75d6897d16a75ce87c15ca3671dcacaa268af83530d5bd333cd3f1a09f",
+      "sharedAyahs": [
+        "48:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2204.11,
+          "end": 2231.75
+        }
+      ],
+      "reviewNote": "تفسير الآية 17: ليس على الأعمى حرج ولا على الأعرج حرج ولا على المريض حرج"
+    },
+    "48:18": {
+      "file": "048-الفتح-youtube-v1/018.mp3",
+      "durationMs": 28250,
+      "bytes": 339661,
+      "sha256": "501ffd0392ab5b1fc6523d0a951d975a9dccba7dc8b50bcb080cd05cee666c5b",
+      "sharedAyahs": [
+        "48:18",
+        "48:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2231.75,
+          "end": 2259.97
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 18-19: لقد رضي الله عن المؤمنين إذ يبايعونك تحت الشجرة فعلم ما في قلوبهم فأنزل السكينة عليهم وأثابهم فتحا قريبا ومغانم كثيرة"
+    },
+    "48:19": {
+      "file": "048-الفتح-youtube-v1/018.mp3",
+      "durationMs": 28250,
+      "bytes": 339661,
+      "sha256": "501ffd0392ab5b1fc6523d0a951d975a9dccba7dc8b50bcb080cd05cee666c5b",
+      "sharedAyahs": [
+        "48:18",
+        "48:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2231.75,
+          "end": 2259.97
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 18-19: لقد رضي الله عن المؤمنين إذ يبايعونك تحت الشجرة فعلم ما في قلوبهم فأنزل السكينة عليهم وأثابهم فتحا قريبا ومغانم كثيرة"
+    },
+    "48:20": {
+      "file": "048-الفتح-youtube-v1/020.mp3",
+      "durationMs": 29520,
+      "bytes": 354925,
+      "sha256": "4e978f3d62fd39d29ed5ff103e1a32ea40c77aa332b3eb882975c9f91d18d61d",
+      "sharedAyahs": [
+        "48:20",
+        "48:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2259.97,
+          "end": 2289.46
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 20-21: وعدكم الله مغانم كثيرة تأخذونها فعجل لكم هذه وكف أيدي الناس عنكم... وأخرى لم تقدروا عليها قد أحاط الله بها"
+    },
+    "48:21": {
+      "file": "048-الفتح-youtube-v1/020.mp3",
+      "durationMs": 29520,
+      "bytes": 354925,
+      "sha256": "4e978f3d62fd39d29ed5ff103e1a32ea40c77aa332b3eb882975c9f91d18d61d",
+      "sharedAyahs": [
+        "48:20",
+        "48:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2259.97,
+          "end": 2289.46
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 20-21: وعدكم الله مغانم كثيرة تأخذونها فعجل لكم هذه وكف أيدي الناس عنكم... وأخرى لم تقدروا عليها قد أحاط الله بها"
+    },
+    "48:22": {
+      "file": "048-الفتح-youtube-v1/022.mp3",
+      "durationMs": 5300,
+      "bytes": 64333,
+      "sha256": "e83890560a7fd69ddaff0f78707eb1e80b7f1458d3df8c61777751f0dee96396",
+      "sharedAyahs": [
+        "48:22",
+        "48:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2289.46,
+          "end": 2294.76
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 22-23: ولو قاتلكم الذين كفروا لولوا الأدبار ثم لا يجدون وليا ولا نصيرا سنة الله التي قد خلت من قبل"
+    },
+    "48:23": {
+      "file": "048-الفتح-youtube-v1/022.mp3",
+      "durationMs": 5300,
+      "bytes": 64333,
+      "sha256": "e83890560a7fd69ddaff0f78707eb1e80b7f1458d3df8c61777751f0dee96396",
+      "sharedAyahs": [
+        "48:22",
+        "48:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2289.46,
+          "end": 2294.76
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 22-23: ولو قاتلكم الذين كفروا لولوا الأدبار ثم لا يجدون وليا ولا نصيرا سنة الله التي قد خلت من قبل"
+    },
+    "48:24": {
+      "file": "048-الفتح-youtube-v1/024.mp3",
+      "durationMs": 61870,
+      "bytes": 743144,
+      "sha256": "8fcf6fd280694fc033567d7cfce14376c710e8fa43b0a490cda432544d8f8330",
+      "sharedAyahs": [
+        "48:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2294.76,
+          "end": 2356.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 24: وهو الذي كف أيديهم عنكم وأيديكم عنهم ببطن مكة من بعد أن أظفركم عليهم"
+    },
+    "48:25": {
+      "file": "048-الفتح-youtube-v1/025.mp3",
+      "durationMs": 131740,
+      "bytes": 1581512,
+      "sha256": "71fcf71791d51350361c657987c1ef932433d8d67f8d2bc1010b0d265c2e563c",
+      "sharedAyahs": [
+        "48:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2356.6,
+          "end": 2488.31
+        }
+      ],
+      "reviewNote": "تفسير الآية 25: هم الذين كفروا وصدوكم عن المسجد الحرام والهدي معكوفا أن يبلغ محله"
+    },
+    "48:26": {
+      "file": "048-الفتح-youtube-v1/026.mp3",
+      "durationMs": 41690,
+      "bytes": 500936,
+      "sha256": "a804e2f5fabeb014a144cf7bf9ec63e8576a8e82efa5adc48b09dada97f773a2",
+      "sharedAyahs": [
+        "48:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2488.31,
+          "end": 2529.98
+        }
+      ],
+      "reviewNote": "تفسير الآية 26: إذ جعل الذين كفروا في قلوبهم الحمية حمية الجاهلية فأنزل الله سكينته على رسوله وعلى المؤمنين"
+    },
+    "48:27": {
+      "file": "048-الفتح-youtube-v1/027.mp3",
+      "durationMs": 1929550,
+      "bytes": 23155047,
+      "sha256": "cdb9f3c3cc0548e69498bb79e59e0ce76fffd9e164790997378321887b522828",
+      "sharedAyahs": [
+        "48:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "znVMrbeFdV0",
+          "start": 2529.98,
+          "end": 2619.17
+        },
+        {
+          "source": "ywI1u2BXl-Q",
+          "start": 4.72,
+          "end": 1845.02
+        }
+      ],
+      "reviewNote": "تفسير الآية 27: لقد صدق الله ورسوله الرؤيا بالحق لتدخلن المسجد الحرام إن شاء الله آمنين محلقين رؤوسكم ومقصرين لا تخافون"
+    },
+    "48:28": {
+      "file": "048-الفتح-youtube-v1/028.mp3",
+      "durationMs": 821830,
+      "bytes": 9862664,
+      "sha256": "b2e612ac719a177ffb1eecfbde5804302665299eb9955f84cc63ee2329ea268e",
+      "sharedAyahs": [
+        "48:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ywI1u2BXl-Q",
+          "start": 1845.02,
+          "end": 2666.86
+        }
+      ],
+      "reviewNote": "تفسير الآية 28: هو الذي أرسل رسوله بالهدى ودين الحق ليظهره على الدين كله وكفى بالله شهيدا"
+    },
+    "48:29": {
+      "file": "048-الفتح-youtube-v1/029.mp3",
+      "durationMs": 3500810,
+      "bytes": 42010119,
+      "sha256": "f1371b4e718b82a606445b10d230a06b5b2c4af96e623656f9980b0ba4472ada",
+      "sharedAyahs": [
+        "48:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "S-v0bpbbuX8",
+          "start": 4.59,
+          "end": 2582.88
+        },
+        {
+          "source": "bd8Sf88qjpM",
+          "start": 25.4,
+          "end": 947.91
+        }
+      ],
+      "reviewNote": "تفسير الآية 29: محمد رسول الله والذين معه أشداء على الكفار رحماء بينهم تراهم ركعا سجدا يبتغون فضلا من الله ورضوانا سيماهم في وجوههم من أثر السجود"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLE166EC33C7D97182",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "fath-manifest-victory-and-hudaybiyyah",
+      "title": "إنا فتحنا لك فتحا مبينا: صلح الحديبية ومغفرة ما تقدم من الذنب وما تأخر",
+      "file": "048-الفتح-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 425280
+    },
+    {
+      "id": "fath-tranquility-and-soldiers-of-heavens",
+      "title": "إنزال السكينة في قلوب المؤمنين وجنود السماوات والأرض",
+      "file": "048-الفتح-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 589730
+    },
+    {
+      "id": "fath-pledge-under-the-tree",
+      "title": "إن الذين يبايعونك إنما يبايعون الله وبيعة الرضوان تحت الشجرة",
+      "file": "048-الفتح-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 565040
+    },
+    {
+      "id": "fath-true-vision-and-entering-mecca",
+      "title": "لقد صدق الله ورسوله الرؤيا بالحق لتدخلن المسجد الحرام آمنين محلقين ومقصرين",
+      "file": "048-الفتح-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 1929490
+    },
+    {
+      "id": "fath-attributes-of-prophet-and-companions",
+      "title": "محمد رسول الله والذين معه أشداء على الكفار رحماء بينهم ومثلهم في التوراة والإنجيل",
+      "file": "048-الفتح-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 3500800
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "pOMEs4ZIgks",
+      "znVMrbeFdV0",
+      "ywI1u2BXl-Q",
+      "S-v0bpbbuX8",
+      "bd8Sf88qjpM"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "048-الفتح-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 425300,
+        "durationMs": 425300,
+        "recordingDurationMs": 425300,
+        "bytes": 5104326,
+        "sha256": "a6bb758d053f821c9375a6236cb53c8dc3c90b2bd0391f081615c9c41f1f7b35",
+        "sharedAyahs": [
+          "48:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pOMEs4ZIgks",
+            "start": 5.49,
+            "end": 430.77
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 319920,
+        "durationMs": 319920,
+        "recordingDurationMs": 319920,
+        "bytes": 3839718,
+        "sha256": "1b464c343443ae60ed6a1050fd277671f612ab9af721bfcfdb90aa9baf548410",
+        "sharedAyahs": [
+          "48:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pOMEs4ZIgks",
+            "start": 430.77,
+            "end": 750.65
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 175900,
+        "durationMs": 175900,
+        "recordingDurationMs": 175900,
+        "bytes": 2111430,
+        "sha256": "9f7210d85775a895ce61cf1037284c8e940777f4563794296556733cab44f82a",
+        "sharedAyahs": [
+          "48:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pOMEs4ZIgks",
+            "start": 750.65,
+            "end": 926.54
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 589750,
+        "durationMs": 589750,
+        "recordingDurationMs": 589750,
+        "bytes": 7077702,
+        "sha256": "b8af3287978d7b22f8210a6eaf4e0cad378a64a6708cf72c7b5385fb6fd7ca1a",
+        "sharedAyahs": [
+          "48:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pOMEs4ZIgks",
+            "start": 926.54,
+            "end": 1516.27
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 212699,
+        "durationMs": 212699,
+        "recordingDurationMs": 306550,
+        "bytes": 3679045,
+        "sha256": "5e0b46fbf536624aa8f9a6a8b1b51ae2c19354f16a67b2eed483eb8a1e5c58e2",
+        "sharedAyahs": [
+          "48:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pOMEs4ZIgks",
+            "start": 1516.27,
+            "end": 1729.06
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/005.mp3",
+        "startMs": 212699,
+        "endMs": 306550,
+        "durationMs": 93851,
+        "recordingDurationMs": 306550,
+        "bytes": 3679045,
+        "sha256": "5e0b46fbf536624aa8f9a6a8b1b51ae2c19354f16a67b2eed483eb8a1e5c58e2",
+        "sharedAyahs": [
+          "48:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 6.1,
+            "end": 99.86
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 238560,
+        "durationMs": 238560,
+        "recordingDurationMs": 238560,
+        "bytes": 2863398,
+        "sha256": "0f758df2ab41722b1a5767a377baa904447eb6c8d6ea48582d2f9ac528ff5592",
+        "sharedAyahs": [
+          "48:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 99.86,
+            "end": 338.39
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 33580,
+        "durationMs": 33580,
+        "recordingDurationMs": 33580,
+        "bytes": 403590,
+        "sha256": "572bb305331d7c60b2bca3525cb67d6fdc5e5df1afe9d32057f831970b015a4b",
+        "sharedAyahs": [
+          "48:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 338.39,
+            "end": 371.95
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 304820,
+        "durationMs": 304820,
+        "recordingDurationMs": 304820,
+        "bytes": 3658570,
+        "sha256": "d955755f5716acdb668f6bbe901fdad9a52e4364ccecf22da514e84a657fc479",
+        "sharedAyahs": [
+          "48:8",
+          "48:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 371.95,
+            "end": 676.74
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 565060,
+        "durationMs": 565060,
+        "recordingDurationMs": 565060,
+        "bytes": 6781352,
+        "sha256": "5ef0021cc1a9ae93b1a214fb42f38c2f1e612377e4759063c465b2ad5e76f8a6",
+        "sharedAyahs": [
+          "48:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 676.74,
+            "end": 1241.78
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 101760,
+        "durationMs": 101760,
+        "recordingDurationMs": 101760,
+        "bytes": 1221800,
+        "sha256": "a514343f62248ed635c7ebf953cce7ddc4b3011d4f0831122ddbce9929001449",
+        "sharedAyahs": [
+          "48:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 1241.78,
+            "end": 1343.51
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 263160,
+        "durationMs": 263160,
+        "recordingDurationMs": 263160,
+        "bytes": 3158600,
+        "sha256": "d0cb3a4b359d2b9616d4e19b502daeb381d982b89b0a600ec610db153c06d0bc",
+        "sharedAyahs": [
+          "48:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 1343.51,
+            "end": 1606.64
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 492170,
+        "durationMs": 492170,
+        "recordingDurationMs": 492170,
+        "bytes": 5906701,
+        "sha256": "2516d24564630c7319a401a9db6ed9d73da99106b9e186239b2eb7bc360b1488",
+        "sharedAyahs": [
+          "48:13",
+          "48:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 1606.64,
+            "end": 2098.79
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 105340,
+        "durationMs": 105340,
+        "recordingDurationMs": 105340,
+        "bytes": 1264717,
+        "sha256": "4aa5519517c9af5424cd27f1b4f016bd065a7c409df31f26b8ef83c9d576042e",
+        "sharedAyahs": [
+          "48:15",
+          "48:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2098.79,
+            "end": 2204.11
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 27670,
+        "durationMs": 27670,
+        "recordingDurationMs": 27670,
+        "bytes": 332744,
+        "sha256": "7ed7ad75d6897d16a75ce87c15ca3671dcacaa268af83530d5bd333cd3f1a09f",
+        "sharedAyahs": [
+          "48:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2204.11,
+            "end": 2231.75
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 28250,
+        "durationMs": 28250,
+        "recordingDurationMs": 28250,
+        "bytes": 339661,
+        "sha256": "501ffd0392ab5b1fc6523d0a951d975a9dccba7dc8b50bcb080cd05cee666c5b",
+        "sharedAyahs": [
+          "48:18",
+          "48:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2231.75,
+            "end": 2259.97
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 29520,
+        "durationMs": 29520,
+        "recordingDurationMs": 29520,
+        "bytes": 354925,
+        "sha256": "4e978f3d62fd39d29ed5ff103e1a32ea40c77aa332b3eb882975c9f91d18d61d",
+        "sharedAyahs": [
+          "48:20",
+          "48:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2259.97,
+            "end": 2289.46
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 5300,
+        "durationMs": 5300,
+        "recordingDurationMs": 5300,
+        "bytes": 64333,
+        "sha256": "e83890560a7fd69ddaff0f78707eb1e80b7f1458d3df8c61777751f0dee96396",
+        "sharedAyahs": [
+          "48:22",
+          "48:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2289.46,
+            "end": 2294.76
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 61870,
+        "durationMs": 61870,
+        "recordingDurationMs": 61870,
+        "bytes": 743144,
+        "sha256": "8fcf6fd280694fc033567d7cfce14376c710e8fa43b0a490cda432544d8f8330",
+        "sharedAyahs": [
+          "48:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2294.76,
+            "end": 2356.6
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 131740,
+        "durationMs": 131740,
+        "recordingDurationMs": 131740,
+        "bytes": 1581512,
+        "sha256": "71fcf71791d51350361c657987c1ef932433d8d67f8d2bc1010b0d265c2e563c",
+        "sharedAyahs": [
+          "48:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2356.6,
+            "end": 2488.31
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 41690,
+        "durationMs": 41690,
+        "recordingDurationMs": 41690,
+        "bytes": 500936,
+        "sha256": "a804e2f5fabeb014a144cf7bf9ec63e8576a8e82efa5adc48b09dada97f773a2",
+        "sharedAyahs": [
+          "48:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2488.31,
+            "end": 2529.98
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 89221,
+        "durationMs": 89221,
+        "recordingDurationMs": 1929550,
+        "bytes": 23155047,
+        "sha256": "cdb9f3c3cc0548e69498bb79e59e0ce76fffd9e164790997378321887b522828",
+        "sharedAyahs": [
+          "48:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "znVMrbeFdV0",
+            "start": 2529.98,
+            "end": 2619.17
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/027.mp3",
+        "startMs": 89221,
+        "endMs": 1929550,
+        "durationMs": 1840329,
+        "recordingDurationMs": 1929550,
+        "bytes": 23155047,
+        "sha256": "cdb9f3c3cc0548e69498bb79e59e0ce76fffd9e164790997378321887b522828",
+        "sharedAyahs": [
+          "48:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ywI1u2BXl-Q",
+            "start": 4.72,
+            "end": 1845.02
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 821830,
+        "durationMs": 821830,
+        "recordingDurationMs": 821830,
+        "bytes": 9862664,
+        "sha256": "b2e612ac719a177ffb1eecfbde5804302665299eb9955f84cc63ee2329ea268e",
+        "sharedAyahs": [
+          "48:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ywI1u2BXl-Q",
+            "start": 1845.02,
+            "end": 2666.86
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 2578187,
+        "durationMs": 2578187,
+        "recordingDurationMs": 3500810,
+        "bytes": 42010119,
+        "sha256": "f1371b4e718b82a606445b10d230a06b5b2c4af96e623656f9980b0ba4472ada",
+        "sharedAyahs": [
+          "48:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "S-v0bpbbuX8",
+            "start": 4.59,
+            "end": 2582.88
+          }
+        ]
+      },
+      {
+        "file": "048-الفتح-youtube-v1/029.mp3",
+        "startMs": 2578187,
+        "endMs": 3500810,
+        "durationMs": 922623,
+        "recordingDurationMs": 3500810,
+        "bytes": 42010119,
+        "sha256": "f1371b4e718b82a606445b10d230a06b5b2c4af96e623656f9980b0ba4472ada",
+        "sharedAyahs": [
+          "48:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bd8Sf88qjpM",
+            "start": 25.4,
+            "end": 947.91
+          }
+        ]
+      }
+    ],
+    "durationMs": 10500100,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
