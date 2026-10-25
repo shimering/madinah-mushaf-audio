@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "قناة الشيخ الشعراوي الرسمية (يوتيوب)",
+  "surah": 86,
+  "surahName": "الطارق",
+  "ayahCount": 17,
+  "reviewStatus": "complete",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 17,
+    "mappedAyahCount": 17,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "NMjzuZZjksk": {
+      "durationSeconds": 3881.14,
+      "bytes": 46574356,
+      "sha256": "732bc5758a1e67b970c909eac9bb3522f06063f83aa0fd659e5847fa2a896b8e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-017_NMjzuZZjksk.mp3",
+      "url": "https://www.youtube.com/watch?v=NMjzuZZjksk"
+    }
+  },
+  "ayahs": {
+    "86:1": {
+      "file": "086-الطارق-youtube-v1/001.mp3",
+      "durationMs": 1196620,
+      "bytes": 14360078,
+      "sha256": "a4378ae5dda6b7fe55b67e1066704f027e4b2c1266c843a0be2ff05079253a57",
+      "sharedAyahs": [
+        "86:1",
+        "86:2",
+        "86:3",
+        "86:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 0.0,
+          "end": 1196.59
+        }
+      ],
+      "reviewNote": "تفسير والسماء والطارق وما أدراك ما الطارق النجم الثاقب إن كل نفس لما عليها حافظ (الآيات 1-4)"
+    },
+    "86:2": {
+      "file": "086-الطارق-youtube-v1/001.mp3",
+      "durationMs": 1196620,
+      "bytes": 14360078,
+      "sha256": "a4378ae5dda6b7fe55b67e1066704f027e4b2c1266c843a0be2ff05079253a57",
+      "sharedAyahs": [
+        "86:1",
+        "86:2",
+        "86:3",
+        "86:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 0.0,
+          "end": 1196.59
+        }
+      ],
+      "reviewNote": "تفسير والسماء والطارق وما أدراك ما الطارق النجم الثاقب إن كل نفس لما عليها حافظ (الآيات 1-4)"
+    },
+    "86:3": {
+      "file": "086-الطارق-youtube-v1/001.mp3",
+      "durationMs": 1196620,
+      "bytes": 14360078,
+      "sha256": "a4378ae5dda6b7fe55b67e1066704f027e4b2c1266c843a0be2ff05079253a57",
+      "sharedAyahs": [
+        "86:1",
+        "86:2",
+        "86:3",
+        "86:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 0.0,
+          "end": 1196.59
+        }
+      ],
+      "reviewNote": "تفسير والسماء والطارق وما أدراك ما الطارق النجم الثاقب إن كل نفس لما عليها حافظ (الآيات 1-4)"
+    },
+    "86:4": {
+      "file": "086-الطارق-youtube-v1/001.mp3",
+      "durationMs": 1196620,
+      "bytes": 14360078,
+      "sha256": "a4378ae5dda6b7fe55b67e1066704f027e4b2c1266c843a0be2ff05079253a57",
+      "sharedAyahs": [
+        "86:1",
+        "86:2",
+        "86:3",
+        "86:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 0.0,
+          "end": 1196.59
+        }
+      ],
+      "reviewNote": "تفسير والسماء والطارق وما أدراك ما الطارق النجم الثاقب إن كل نفس لما عليها حافظ (الآيات 1-4)"
+    },
+    "86:5": {
+      "file": "086-الطارق-youtube-v1/005.mp3",
+      "durationMs": 1195390,
+      "bytes": 14345390,
+      "sha256": "ab8465dbce7a406c6b4c713b50cb47355e9c2a71e005a01769a98b5e4e10bb88",
+      "sharedAyahs": [
+        "86:5",
+        "86:6",
+        "86:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 1215.25,
+          "end": 2410.62
+        }
+      ],
+      "reviewNote": "تفسير فلينظر الإنسان مم خلق خلق من ماء دافق يخرج من بين الصلب والترائب (الآيات 5-7)"
+    },
+    "86:6": {
+      "file": "086-الطارق-youtube-v1/005.mp3",
+      "durationMs": 1195390,
+      "bytes": 14345390,
+      "sha256": "ab8465dbce7a406c6b4c713b50cb47355e9c2a71e005a01769a98b5e4e10bb88",
+      "sharedAyahs": [
+        "86:5",
+        "86:6",
+        "86:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 1215.25,
+          "end": 2410.62
+        }
+      ],
+      "reviewNote": "تفسير فلينظر الإنسان مم خلق خلق من ماء دافق يخرج من بين الصلب والترائب (الآيات 5-7)"
+    },
+    "86:7": {
+      "file": "086-الطارق-youtube-v1/005.mp3",
+      "durationMs": 1195390,
+      "bytes": 14345390,
+      "sha256": "ab8465dbce7a406c6b4c713b50cb47355e9c2a71e005a01769a98b5e4e10bb88",
+      "sharedAyahs": [
+        "86:5",
+        "86:6",
+        "86:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 1215.25,
+          "end": 2410.62
+        }
+      ],
+      "reviewNote": "تفسير فلينظر الإنسان مم خلق خلق من ماء دافق يخرج من بين الصلب والترائب (الآيات 5-7)"
+    },
+    "86:8": {
+      "file": "086-الطارق-youtube-v1/008.mp3",
+      "durationMs": 379510,
+      "bytes": 4554831,
+      "sha256": "0ca1e0a6fd3b73bcfc31eb9330f98f6ed4e1bb9635b3e3d7bb5ceedf98fbcdb9",
+      "sharedAyahs": [
+        "86:8",
+        "86:9",
+        "86:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2442.03,
+          "end": 2821.52
+        }
+      ],
+      "reviewNote": "تفسير إنه على رجعه لقادر يوم تبلى السرائر فما له من قوة ولا ناصر (الآيات 8-10)"
+    },
+    "86:9": {
+      "file": "086-الطارق-youtube-v1/008.mp3",
+      "durationMs": 379510,
+      "bytes": 4554831,
+      "sha256": "0ca1e0a6fd3b73bcfc31eb9330f98f6ed4e1bb9635b3e3d7bb5ceedf98fbcdb9",
+      "sharedAyahs": [
+        "86:8",
+        "86:9",
+        "86:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2442.03,
+          "end": 2821.52
+        }
+      ],
+      "reviewNote": "تفسير إنه على رجعه لقادر يوم تبلى السرائر فما له من قوة ولا ناصر (الآيات 8-10)"
+    },
+    "86:10": {
+      "file": "086-الطارق-youtube-v1/008.mp3",
+      "durationMs": 379510,
+      "bytes": 4554831,
+      "sha256": "0ca1e0a6fd3b73bcfc31eb9330f98f6ed4e1bb9635b3e3d7bb5ceedf98fbcdb9",
+      "sharedAyahs": [
+        "86:8",
+        "86:9",
+        "86:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2442.03,
+          "end": 2821.52
+        }
+      ],
+      "reviewNote": "تفسير إنه على رجعه لقادر يوم تبلى السرائر فما له من قوة ولا ناصر (الآيات 8-10)"
+    },
+    "86:11": {
+      "file": "086-الطارق-youtube-v1/011.mp3",
+      "durationMs": 1033150,
+      "bytes": 12398513,
+      "sha256": "5fbbed06e300d762e2b7df528c283031e23ee314d9547a66d71d8243d49bc2b7",
+      "sharedAyahs": [
+        "86:11",
+        "86:12",
+        "86:13",
+        "86:14",
+        "86:15",
+        "86:16",
+        "86:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2847.98,
+          "end": 3881.136
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات الرجع والأرض ذات الصدع وإنه لقول فصل وكيد الكافرين وإمهالهم (الآيات 11-17)"
+    },
+    "86:12": {
+      "file": "086-الطارق-youtube-v1/011.mp3",
+      "durationMs": 1033150,
+      "bytes": 12398513,
+      "sha256": "5fbbed06e300d762e2b7df528c283031e23ee314d9547a66d71d8243d49bc2b7",
+      "sharedAyahs": [
+        "86:11",
+        "86:12",
+        "86:13",
+        "86:14",
+        "86:15",
+        "86:16",
+        "86:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2847.98,
+          "end": 3881.136
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات الرجع والأرض ذات الصدع وإنه لقول فصل وكيد الكافرين وإمهالهم (الآيات 11-17)"
+    },
+    "86:13": {
+      "file": "086-الطارق-youtube-v1/011.mp3",
+      "durationMs": 1033150,
+      "bytes": 12398513,
+      "sha256": "5fbbed06e300d762e2b7df528c283031e23ee314d9547a66d71d8243d49bc2b7",
+      "sharedAyahs": [
+        "86:11",
+        "86:12",
+        "86:13",
+        "86:14",
+        "86:15",
+        "86:16",
+        "86:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2847.98,
+          "end": 3881.136
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات الرجع والأرض ذات الصدع وإنه لقول فصل وكيد الكافرين وإمهالهم (الآيات 11-17)"
+    },
+    "86:14": {
+      "file": "086-الطارق-youtube-v1/011.mp3",
+      "durationMs": 1033150,
+      "bytes": 12398513,
+      "sha256": "5fbbed06e300d762e2b7df528c283031e23ee314d9547a66d71d8243d49bc2b7",
+      "sharedAyahs": [
+        "86:11",
+        "86:12",
+        "86:13",
+        "86:14",
+        "86:15",
+        "86:16",
+        "86:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2847.98,
+          "end": 3881.136
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات الرجع والأرض ذات الصدع وإنه لقول فصل وكيد الكافرين وإمهالهم (الآيات 11-17)"
+    },
+    "86:15": {
+      "file": "086-الطارق-youtube-v1/011.mp3",
+      "durationMs": 1033150,
+      "bytes": 12398513,
+      "sha256": "5fbbed06e300d762e2b7df528c283031e23ee314d9547a66d71d8243d49bc2b7",
+      "sharedAyahs": [
+        "86:11",
+        "86:12",
+        "86:13",
+        "86:14",
+        "86:15",
+        "86:16",
+        "86:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2847.98,
+          "end": 3881.136
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات الرجع والأرض ذات الصدع وإنه لقول فصل وكيد الكافرين وإمهالهم (الآيات 11-17)"
+    },
+    "86:16": {
+      "file": "086-الطارق-youtube-v1/011.mp3",
+      "durationMs": 1033150,
+      "bytes": 12398513,
+      "sha256": "5fbbed06e300d762e2b7df528c283031e23ee314d9547a66d71d8243d49bc2b7",
+      "sharedAyahs": [
+        "86:11",
+        "86:12",
+        "86:13",
+        "86:14",
+        "86:15",
+        "86:16",
+        "86:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2847.98,
+          "end": 3881.136
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات الرجع والأرض ذات الصدع وإنه لقول فصل وكيد الكافرين وإمهالهم (الآيات 11-17)"
+    },
+    "86:17": {
+      "file": "086-الطارق-youtube-v1/011.mp3",
+      "durationMs": 1033150,
+      "bytes": 12398513,
+      "sha256": "5fbbed06e300d762e2b7df528c283031e23ee314d9547a66d71d8243d49bc2b7",
+      "sharedAyahs": [
+        "86:11",
+        "86:12",
+        "86:13",
+        "86:14",
+        "86:15",
+        "86:16",
+        "86:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NMjzuZZjksk",
+          "start": 2847.98,
+          "end": 3881.136
+        }
+      ],
+      "reviewNote": "تفسير والسماء ذات الرجع والأرض ذات الصدع وإنه لقول فصل وكيد الكافرين وإمهالهم (الآيات 11-17)"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/watch?v=NMjzuZZjksk",
+  "audioProcessing": "libmp3lame-90k-mono-48khz-stream-copy-sliced-jingle-stripped",
+  "alignmentMethod": "faster-whisper-large-v3-turbo-cuda-word-timestamps",
+  "topics": [
+    {
+      "id": "tariq-oath-piercing-star-1-4",
+      "title": "القسم بالسماء والطارق والنجم الثاقب وحفظ النفس الإنسانية (الآيات 1-4)",
+      "file": "086-الطارق-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1196590
+    },
+    {
+      "id": "tariq-human-creation-origin-5-7",
+      "title": "الدعوة للنظر في أصل خلق الإنسان وخروجه من بين الصلب والترائب (الآيات 5-7)",
+      "file": "086-الطارق-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 1195370
+    },
+    {
+      "id": "tariq-resurrection-and-secrets-8-10",
+      "title": "قدرة الله على البعث والرجعة وابتلاء السرائر وعجز الإنسان دون ناصر (الآيات 8-10)",
+      "file": "086-الطارق-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 379490
+    },
+    {
+      "id": "tariq-decisive-word-and-reprieve-11-17",
+      "title": "قسم السماء ذات الرجع والأرض ذات الصدع وفصل القول وإمهال الكافرين (الآيات 11-17)",
+      "file": "086-الطارق-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 1033150
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "NMjzuZZjksk"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "086-الطارق-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1196620,
+        "durationMs": 1196620,
+        "recordingDurationMs": 1196620,
+        "bytes": 14360078,
+        "sha256": "a4378ae5dda6b7fe55b67e1066704f027e4b2c1266c843a0be2ff05079253a57",
+        "sharedAyahs": [
+          "86:1",
+          "86:2",
+          "86:3",
+          "86:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NMjzuZZjksk",
+            "start": 0.0,
+            "end": 1196.59
+          }
+        ]
+      },
+      {
+        "file": "086-الطارق-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 1195390,
+        "durationMs": 1195390,
+        "recordingDurationMs": 1195390,
+        "bytes": 14345390,
+        "sha256": "ab8465dbce7a406c6b4c713b50cb47355e9c2a71e005a01769a98b5e4e10bb88",
+        "sharedAyahs": [
+          "86:5",
+          "86:6",
+          "86:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NMjzuZZjksk",
+            "start": 1215.25,
+            "end": 2410.62
+          }
+        ]
+      },
+      {
+        "file": "086-الطارق-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 379510,
+        "durationMs": 379510,
+        "recordingDurationMs": 379510,
+        "bytes": 4554831,
+        "sha256": "0ca1e0a6fd3b73bcfc31eb9330f98f6ed4e1bb9635b3e3d7bb5ceedf98fbcdb9",
+        "sharedAyahs": [
+          "86:8",
+          "86:9",
+          "86:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NMjzuZZjksk",
+            "start": 2442.03,
+            "end": 2821.52
+          }
+        ]
+      },
+      {
+        "file": "086-الطارق-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 1033150,
+        "durationMs": 1033150,
+        "recordingDurationMs": 1033150,
+        "bytes": 12398513,
+        "sha256": "5fbbed06e300d762e2b7df528c283031e23ee314d9547a66d71d8243d49bc2b7",
+        "sharedAyahs": [
+          "86:11",
+          "86:12",
+          "86:13",
+          "86:14",
+          "86:15",
+          "86:16",
+          "86:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NMjzuZZjksk",
+            "start": 2847.98,
+            "end": 3881.136
+          }
+        ]
+      }
+    ],
+    "durationMs": 3804670,
+    "additionalAudioBytes": 0
+  }
+}
