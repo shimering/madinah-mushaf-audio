@@ -1,0 +1,1482 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "تفسير القرآن الكريم للشيخ الشعراوي - سورة الجاثية (القناة الرسمية)",
+  "surah": 45,
+  "surahName": "الجاثية",
+  "ayahCount": 37,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 37,
+    "mappedAyahCount": 37,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "8Zkjtdzwoco": {
+      "durationSeconds": 2462.69,
+      "bytes": 29552977,
+      "sha256": "dd640bf2fe87262011f361d634aec02c7612b0cafc73f420c36b625a46e916f9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-004_8Zkjtdzwoco.mp3",
+      "url": "https://www.youtube.com/watch?v=8Zkjtdzwoco"
+    },
+    "Bt6aDOLU8Zk": {
+      "durationSeconds": 2588.74,
+      "bytes": 31065553,
+      "sha256": "5daf47fc556f3b8182316e1bd1fb353bd264a3c3393ebfee12052ed66c5e986a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_004-007_Bt6aDOLU8Zk.mp3",
+      "url": "https://www.youtube.com/watch?v=Bt6aDOLU8Zk"
+    },
+    "bVJPjqNghg4": {
+      "durationSeconds": 2539.61,
+      "bytes": 30476019,
+      "sha256": "cfcd36775d9239b722acbae5a94bd8a64dcb2ce58d36c2b0059c9b1c054bc51d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_007-013_bVJPjqNghg4.mp3",
+      "url": "https://www.youtube.com/watch?v=bVJPjqNghg4"
+    },
+    "n_qM05NUpN8": {
+      "durationSeconds": 2622.72,
+      "bytes": 31473365,
+      "sha256": "c84291df4fb212c9ccac36653540d5ba66c97559890bb56ffb7f0673262a9822",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_013-014_n_qM05NUpN8.mp3",
+      "url": "https://www.youtube.com/watch?v=n_qM05NUpN8"
+    },
+    "b2i_5iySkRk": {
+      "durationSeconds": 2617.68,
+      "bytes": 31412885,
+      "sha256": "95a21f612b8a4f812377bd1340cd2a431c502bd4fde252c2955c694eedcf5703",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_014-024_b2i_5iySkRk.mp3",
+      "url": "https://www.youtube.com/watch?v=b2i_5iySkRk"
+    },
+    "TETSthA2LPg": {
+      "durationSeconds": 2575.73,
+      "bytes": 30909461,
+      "sha256": "10ff65e78585cd3b8c74f03c8dcb6cfc6de9068e126adf1f91a5876f6458c099",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_024-027_TETSthA2LPg.mp3",
+      "url": "https://www.youtube.com/watch?v=TETSthA2LPg"
+    },
+    "oY5RKs1TLEY": {
+      "durationSeconds": 2583.74,
+      "bytes": 31005653,
+      "sha256": "b5cb7e227ea7faa441220d3a5d644319505d5aa85a55381510fdccb77fc0a16e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_027-037_oY5RKs1TLEY.mp3",
+      "url": "https://www.youtube.com/watch?v=oY5RKs1TLEY"
+    }
+  },
+  "ayahs": {
+    "45:1": {
+      "file": "045-الجاثية-youtube-v1/001.mp3",
+      "durationMs": 1840010,
+      "bytes": 22080786,
+      "sha256": "af7f4f93ef830fa66d707aa1252492fcc89dd79bbd76dfef67352eeff6599a37",
+      "sharedAyahs": [
+        "45:1",
+        "45:2",
+        "45:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8Zkjtdzwoco",
+          "start": 30.57,
+          "end": 1870.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-3: حم ۝ تنزيل الكتاب من الله العزيز الحكيم ۝ إن في السماوات والأرض لآيات للمؤمنين"
+    },
+    "45:2": {
+      "file": "045-الجاثية-youtube-v1/001.mp3",
+      "durationMs": 1840010,
+      "bytes": 22080786,
+      "sha256": "af7f4f93ef830fa66d707aa1252492fcc89dd79bbd76dfef67352eeff6599a37",
+      "sharedAyahs": [
+        "45:1",
+        "45:2",
+        "45:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8Zkjtdzwoco",
+          "start": 30.57,
+          "end": 1870.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-3: حم ۝ تنزيل الكتاب من الله العزيز الحكيم ۝ إن في السماوات والأرض لآيات للمؤمنين"
+    },
+    "45:3": {
+      "file": "045-الجاثية-youtube-v1/001.mp3",
+      "durationMs": 1840010,
+      "bytes": 22080786,
+      "sha256": "af7f4f93ef830fa66d707aa1252492fcc89dd79bbd76dfef67352eeff6599a37",
+      "sharedAyahs": [
+        "45:1",
+        "45:2",
+        "45:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8Zkjtdzwoco",
+          "start": 30.57,
+          "end": 1870.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-3: حم ۝ تنزيل الكتاب من الله العزيز الحكيم ۝ إن في السماوات والأرض لآيات للمؤمنين"
+    },
+    "45:4": {
+      "file": "045-الجاثية-youtube-v1/004.mp3",
+      "durationMs": 1524120,
+      "bytes": 18289865,
+      "sha256": "2aae8fddc3f7410605dd52ea1f5f4e577b32f7853ea80b233a8f70c982bbb94f",
+      "sharedAyahs": [
+        "45:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8Zkjtdzwoco",
+          "start": 1870.54,
+          "end": 2409.39
+        },
+        {
+          "source": "Bt6aDOLU8Zk",
+          "start": 24.93,
+          "end": 1010.15
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: وفي خلقكم وما يبث من دابة آيات لقوم يوقنون"
+    },
+    "45:5": {
+      "file": "045-الجاثية-youtube-v1/005.mp3",
+      "durationMs": 764380,
+      "bytes": 9173198,
+      "sha256": "baccb61eed998e9b31096b3f576fff8b6f7847f3c15e98172403d51b331a44f6",
+      "sharedAyahs": [
+        "45:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bt6aDOLU8Zk",
+          "start": 1010.15,
+          "end": 1774.51
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: واختلاف الليل والنهار وما أنزل الله من السماء من رزق... وتصريف الرياح"
+    },
+    "45:6": {
+      "file": "045-الجاثية-youtube-v1/006.mp3",
+      "durationMs": 724460,
+      "bytes": 8694254,
+      "sha256": "e2f7d084a5136559c7ae65cff97897ff2f5af6e83e6ac424591a1c86ac8875de",
+      "sharedAyahs": [
+        "45:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bt6aDOLU8Zk",
+          "start": 1774.51,
+          "end": 2498.94
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: تلك آيات الله نتلوها عليك بالحق فبأي حديث بعد الله وآياته يؤمنون"
+    },
+    "45:7": {
+      "file": "045-الجاثية-youtube-v1/007.mp3",
+      "durationMs": 205850,
+      "bytes": 2470601,
+      "sha256": "09997ab353e321facce6757978d6151cd9e75dedc119404f12802fba149db862",
+      "sharedAyahs": [
+        "45:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bt6aDOLU8Zk",
+          "start": 2498.94,
+          "end": 2558.98
+        },
+        {
+          "source": "bVJPjqNghg4",
+          "start": 25.78,
+          "end": 171.54
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: ويل لكل أفاك أثيم"
+    },
+    "45:8": {
+      "file": "045-الجاثية-youtube-v1/008.mp3",
+      "durationMs": 327500,
+      "bytes": 3930734,
+      "sha256": "26d3fa05734884486de8aa5720c94c5c276bd2b99d0f3b063daec2aeb9814d61",
+      "sharedAyahs": [
+        "45:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bVJPjqNghg4",
+          "start": 171.54,
+          "end": 499.01
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: يسمع آيات الله تتلى عليه ثم يصر مستكبرا"
+    },
+    "45:9": {
+      "file": "045-الجاثية-youtube-v1/009.mp3",
+      "durationMs": 808610,
+      "bytes": 9703982,
+      "sha256": "7abe4ab23650598267b7cfd4c9fe1621cf3f6c09d64386e43ba6c43632609b87",
+      "sharedAyahs": [
+        "45:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bVJPjqNghg4",
+          "start": 499.01,
+          "end": 1307.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: وإذا علم من آياتنا شيئا اتخذها هزوا أولئك لهم عذاب مهين"
+    },
+    "45:10": {
+      "file": "045-الجاثية-youtube-v1/010.mp3",
+      "durationMs": 341520,
+      "bytes": 4098928,
+      "sha256": "f692398c1e82913c84efa56dc84b6e8abd2b5e08b130fb05fdc22f38b6d94715",
+      "sharedAyahs": [
+        "45:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bVJPjqNghg4",
+          "start": 1307.6,
+          "end": 1649.09
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: من ورائهم جهنم ولا يغني عنهم ما كسبوا شيئا"
+    },
+    "45:11": {
+      "file": "045-الجاثية-youtube-v1/011.mp3",
+      "durationMs": 752230,
+      "bytes": 9027472,
+      "sha256": "baab106298d913d2cf7d358b2323e6b7cf84bb240831b248a2aec089a0877033",
+      "sharedAyahs": [
+        "45:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bVJPjqNghg4",
+          "start": 1649.09,
+          "end": 2401.32
+        }
+      ],
+      "reviewNote": "تفسير الآية 11: هذا هدى والذين كفروا بآيات ربهم لهم عذاب من رجز أليم"
+    },
+    "45:12": {
+      "file": "045-الجاثية-youtube-v1/012.mp3",
+      "durationMs": 132620,
+      "bytes": 1592176,
+      "sha256": "1c565907a869876c731fffbab14e767e5fbabdee8c0e0959503c8bf9f4fca8ca",
+      "sharedAyahs": [
+        "45:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bVJPjqNghg4",
+          "start": 2401.32,
+          "end": 2533.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: الله الذي سخر لكم البحر لتجري الفلك فيه بأمره ولتبتغوا من فضله"
+    },
+    "45:13": {
+      "file": "045-الجاثية-youtube-v1/013.mp3",
+      "durationMs": 1570800,
+      "bytes": 18850288,
+      "sha256": "e5cb7ef58e2fd29e4fb264d87e48b0f669c1d61713e6a90709d7e213a916d7c0",
+      "sharedAyahs": [
+        "45:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "n_qM05NUpN8",
+          "start": 28.81,
+          "end": 1599.59
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: وسخر لكم ما في السماوات وما في الأرض جميعا منه إن في ذلك لآيات لقوم يتفكرون"
+    },
+    "45:14": {
+      "file": "045-الجاثية-youtube-v1/014.mp3",
+      "durationMs": 1369270,
+      "bytes": 16431691,
+      "sha256": "22540ffd6cb9ba050208322309df5e6ce7e12395b819efda423a67d98043d781",
+      "sharedAyahs": [
+        "45:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "n_qM05NUpN8",
+          "start": 1599.59,
+          "end": 2596.78
+        },
+        {
+          "source": "b2i_5iySkRk",
+          "start": 23.9,
+          "end": 395.92
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: قل للذين آمنوا يغفروا للذين لا يرجون أيام الله"
+    },
+    "45:15": {
+      "file": "045-الجاثية-youtube-v1/015.mp3",
+      "durationMs": 202420,
+      "bytes": 2429680,
+      "sha256": "ed225fe82b9d7fdfc0c37824e7bf9f985461a1508e53d27862056f09601a8f89",
+      "sharedAyahs": [
+        "45:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 395.92,
+          "end": 598.32
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: من عمل صالحا فلنفسه ومن أساء فعليها ثم إلى ربكم ترجعون"
+    },
+    "45:16": {
+      "file": "045-الجاثية-youtube-v1/016.mp3",
+      "durationMs": 806500,
+      "bytes": 9678645,
+      "sha256": "8ef47b6869bd9081f0e0f5a8309d4d8b5357942e03125154fd1eb13b14d34646",
+      "sharedAyahs": [
+        "45:16",
+        "45:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 598.32,
+          "end": 1404.77
+        }
+      ],
+      "reviewNote": "تفسير الآيات 16-17: ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة... وآتيناهم بينات من الأمر"
+    },
+    "45:17": {
+      "file": "045-الجاثية-youtube-v1/016.mp3",
+      "durationMs": 806500,
+      "bytes": 9678645,
+      "sha256": "8ef47b6869bd9081f0e0f5a8309d4d8b5357942e03125154fd1eb13b14d34646",
+      "sharedAyahs": [
+        "45:16",
+        "45:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 598.32,
+          "end": 1404.77
+        }
+      ],
+      "reviewNote": "تفسير الآيات 16-17: ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة... وآتيناهم بينات من الأمر"
+    },
+    "45:18": {
+      "file": "045-الجاثية-youtube-v1/018.mp3",
+      "durationMs": 90500,
+      "bytes": 1086741,
+      "sha256": "4d8f78f9409a2c0daf7883a5f48df4cd488d44b3e1f16087f7be5f0ea101f54f",
+      "sharedAyahs": [
+        "45:18",
+        "45:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 1404.77,
+          "end": 1495.25
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-19: ثم جعلناك على شريعة من الأمر فاتبعها... وإن الظالمين بعضهم أولياء بعض"
+    },
+    "45:19": {
+      "file": "045-الجاثية-youtube-v1/018.mp3",
+      "durationMs": 90500,
+      "bytes": 1086741,
+      "sha256": "4d8f78f9409a2c0daf7883a5f48df4cd488d44b3e1f16087f7be5f0ea101f54f",
+      "sharedAyahs": [
+        "45:18",
+        "45:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 1404.77,
+          "end": 1495.25
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-19: ثم جعلناك على شريعة من الأمر فاتبعها... وإن الظالمين بعضهم أولياء بعض"
+    },
+    "45:20": {
+      "file": "045-الجاثية-youtube-v1/020.mp3",
+      "durationMs": 110180,
+      "bytes": 1322896,
+      "sha256": "0276d4d4af9b4ad9f5684f4409fa6585aafe101f596693f51c8c747ebc1911e9",
+      "sharedAyahs": [
+        "45:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 1495.25,
+          "end": 1605.42
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: هذا بصائر للناس وهدى ورحمة لقوم يوقنون"
+    },
+    "45:21": {
+      "file": "045-الجاثية-youtube-v1/021.mp3",
+      "durationMs": 217200,
+      "bytes": 2607088,
+      "sha256": "8b9c3e8c38016807f859da9a72a21632fb556941896503902686ba6c04efafa0",
+      "sharedAyahs": [
+        "45:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 1605.42,
+          "end": 1822.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 21: أم حسب الذين اجترحوا السيئات أن نجعلهم كالذين آمنوا وعملوا الصالحات"
+    },
+    "45:22": {
+      "file": "045-الجاثية-youtube-v1/022.mp3",
+      "durationMs": 98520,
+      "bytes": 1182928,
+      "sha256": "0ac1d3f2e33cf735556d03c2aa1327c93f8eebd25df6f4bee99178cd977a9eb5",
+      "sharedAyahs": [
+        "45:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 1822.6,
+          "end": 1921.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: وخلق الله السماوات والأرض بالحق ولتجزى كل نفس بما كسبت"
+    },
+    "45:23": {
+      "file": "045-الجاثية-youtube-v1/023.mp3",
+      "durationMs": 561120,
+      "bytes": 6734128,
+      "sha256": "fe60c84043104f7e64503cfc8f8dfad8a8106eac7e2e1347d2ae45ebb4a31fc9",
+      "sharedAyahs": [
+        "45:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 1921.1,
+          "end": 2482.19
+        }
+      ],
+      "reviewNote": "تفسير الآية 23: أفرأيت من اتخذ إلهه هواه وأضله الله على علم وختم على سمعه وقلبه"
+    },
+    "45:24": {
+      "file": "045-الجاثية-youtube-v1/024.mp3",
+      "durationMs": 2057060,
+      "bytes": 24685195,
+      "sha256": "5939aa68393388e09e7ee275b3c014374d6b8992fbd1ee16f22d5d3c1a876e96",
+      "sharedAyahs": [
+        "45:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "b2i_5iySkRk",
+          "start": 2482.19,
+          "end": 2592.14
+        },
+        {
+          "source": "TETSthA2LPg",
+          "start": 26.31,
+          "end": 1973.38
+        }
+      ],
+      "reviewNote": "تفسير الآية 24: وقالوا ما هي إلا حياتنا الدنيا نموت ونحيا وما يهلكنا إلا الدهر"
+    },
+    "45:25": {
+      "file": "045-الجاثية-youtube-v1/025.mp3",
+      "durationMs": 275160,
+      "bytes": 3302608,
+      "sha256": "501de7cd9e6850aaa55589b7421eedb1a605a8c1d297bf280f869a77fba8c2da",
+      "sharedAyahs": [
+        "45:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TETSthA2LPg",
+          "start": 1973.38,
+          "end": 2248.52
+        }
+      ],
+      "reviewNote": "تفسير الآية 25: وإذا تتلى عليهم آياتنا بينات ما كان حجتهم إلا أن قالوا ائتوا بآبائنا"
+    },
+    "45:26": {
+      "file": "045-الجاثية-youtube-v1/026.mp3",
+      "durationMs": 73080,
+      "bytes": 877648,
+      "sha256": "ba0d6faa19271e9eb129a966f61718513032897463c725318b7287752141468e",
+      "sharedAyahs": [
+        "45:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TETSthA2LPg",
+          "start": 2248.52,
+          "end": 2321.58
+        }
+      ],
+      "reviewNote": "تفسير الآية 26: قل الله يحييكم ثم يميتكم ثم يجمعكم إلى يوم القيامة لا ريب فيه"
+    },
+    "45:27": {
+      "file": "045-الجاثية-youtube-v1/027.mp3",
+      "durationMs": 244320,
+      "bytes": 2932528,
+      "sha256": "a81ba2e67ff35de892e40ca95c1ce6ea2df631180927dde6930a40bcad239ca9",
+      "sharedAyahs": [
+        "45:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TETSthA2LPg",
+          "start": 2321.58,
+          "end": 2565.87
+        }
+      ],
+      "reviewNote": "تفسير الآية 27: ولله ملك السماوات والأرض ويوم تقوم الساعة يومئذ يخسر المبطلون"
+    },
+    "45:28": {
+      "file": "045-الجاثية-youtube-v1/028.mp3",
+      "durationMs": 695280,
+      "bytes": 8344048,
+      "sha256": "996e1f921c4147b26181057eea04496d34fa71284d4753eb04e457bd5c0c0bda",
+      "sharedAyahs": [
+        "45:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 29.53,
+          "end": 724.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 28: وترى كل أمة جاثية كل أمة تدعى إلى كتابها"
+    },
+    "45:29": {
+      "file": "045-الجاثية-youtube-v1/029.mp3",
+      "durationMs": 69940,
+      "bytes": 839920,
+      "sha256": "3f95f36e64acefd22de42e1843778d30bb36e3069adf7785705bbc7326efbdfd",
+      "sharedAyahs": [
+        "45:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 724.8,
+          "end": 794.69
+        }
+      ],
+      "reviewNote": "تفسير الآية 29: هذا كتابنا ينطق عليكم بالحق إنا كنا نستنسخ ما كنتم تعملون"
+    },
+    "45:30": {
+      "file": "045-الجاثية-youtube-v1/030.mp3",
+      "durationMs": 262870,
+      "bytes": 3155152,
+      "sha256": "e5c378a17d3a4b278eec0004f2f0caf92be62971caf5030ac39f44ebbf822749",
+      "sharedAyahs": [
+        "45:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 794.69,
+          "end": 1057.54
+        }
+      ],
+      "reviewNote": "تفسير الآية 30: فأما الذين آمنوا وعملوا الصالحات فيدخلهم ربهم في رحمته"
+    },
+    "45:31": {
+      "file": "045-الجاثية-youtube-v1/031.mp3",
+      "durationMs": 200520,
+      "bytes": 2406933,
+      "sha256": "3ff20d225322b370a4e54592258505ff30457303d39af501191ddb392aa9bee7",
+      "sharedAyahs": [
+        "45:31",
+        "45:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 1057.54,
+          "end": 1258.05
+        }
+      ],
+      "reviewNote": "تفسير الآيات 31-32: وأما الذين كفروا أفلم تكن آياتي تتلى عليكم... وإذا قيل إن وعد الله حق"
+    },
+    "45:32": {
+      "file": "045-الجاثية-youtube-v1/031.mp3",
+      "durationMs": 200520,
+      "bytes": 2406933,
+      "sha256": "3ff20d225322b370a4e54592258505ff30457303d39af501191ddb392aa9bee7",
+      "sharedAyahs": [
+        "45:31",
+        "45:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 1057.54,
+          "end": 1258.05
+        }
+      ],
+      "reviewNote": "تفسير الآيات 31-32: وأما الذين كفروا أفلم تكن آياتي تتلى عليكم... وإذا قيل إن وعد الله حق"
+    },
+    "45:33": {
+      "file": "045-الجاثية-youtube-v1/033.mp3",
+      "durationMs": 126480,
+      "bytes": 1518448,
+      "sha256": "b3d2089a003e33a654a6d061495b0facef3f295cc89289cbc2287ec47ef4d429",
+      "sharedAyahs": [
+        "45:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 1258.05,
+          "end": 1384.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 33: وبدا لهم سيئات ما عملوا وحاق بهم ما كانوا به يستهزئون"
+    },
+    "45:34": {
+      "file": "045-الجاثية-youtube-v1/034.mp3",
+      "durationMs": 570960,
+      "bytes": 6852213,
+      "sha256": "1355d7ba5b65e1bed51b744b299863a507354a22bfc048a552b9a71128b678ab",
+      "sharedAyahs": [
+        "45:34",
+        "45:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 1384.5,
+          "end": 1955.44
+        }
+      ],
+      "reviewNote": "تفسير الآيات 34-35: وقيل اليوم ننساكم كما نسيتم لقاء يومكم هذا... ذلكم بأنكم اتخذتم آيات الله هزوا"
+    },
+    "45:35": {
+      "file": "045-الجاثية-youtube-v1/034.mp3",
+      "durationMs": 570960,
+      "bytes": 6852213,
+      "sha256": "1355d7ba5b65e1bed51b744b299863a507354a22bfc048a552b9a71128b678ab",
+      "sharedAyahs": [
+        "45:34",
+        "45:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 1384.5,
+          "end": 1955.44
+        }
+      ],
+      "reviewNote": "تفسير الآيات 34-35: وقيل اليوم ننساكم كما نسيتم لقاء يومكم هذا... ذلكم بأنكم اتخذتم آيات الله هزوا"
+    },
+    "45:36": {
+      "file": "045-الجاثية-youtube-v1/036.mp3",
+      "durationMs": 616180,
+      "bytes": 7394805,
+      "sha256": "413783888781cd693fce33757200f542335fd10f1301acd7317616dbe48b21b1",
+      "sharedAyahs": [
+        "45:36",
+        "45:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 1955.44,
+          "end": 2571.59
+        }
+      ],
+      "reviewNote": "تفسير الآيات 36-37: فلله الحمد رب السماوات ورب الأرض... وله الكبرياء في السماوات والأرض"
+    },
+    "45:37": {
+      "file": "045-الجاثية-youtube-v1/036.mp3",
+      "durationMs": 616180,
+      "bytes": 7394805,
+      "sha256": "413783888781cd693fce33757200f542335fd10f1301acd7317616dbe48b21b1",
+      "sharedAyahs": [
+        "45:36",
+        "45:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oY5RKs1TLEY",
+          "start": 1955.44,
+          "end": 2571.59
+        }
+      ],
+      "reviewNote": "تفسير الآيات 36-37: فلله الحمد رب السماوات ورب الأرض... وله الكبرياء في السماوات والأرض"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL4488A016BC7BF2FA",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "jathiyah-signs-in-creation",
+      "title": "آيات الله في السماوات والأرض وخلق الإنسان وبث الدواب",
+      "file": "045-الجاثية-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1839970
+    },
+    {
+      "id": "jathiyah-arrogant-liar-punishment",
+      "title": "عاقبة المستكبر المعرض عن آيات الله ووعيد الأفاك الأثيم",
+      "file": "045-الجاثية-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 205799
+    },
+    {
+      "id": "jathiyah-subjugation-of-universe",
+      "title": "تسخير البحر والفلك وما في السموات والأرض لخدمة الإنسان",
+      "file": "045-الجاثية-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 132579
+    },
+    {
+      "id": "jathiyah-pardon-and-accountability",
+      "title": "أمر المؤمنين بالصفح وسنة الجزاء الفردي بالعمل الصالح",
+      "file": "045-الجاثية-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 1369210
+    },
+    {
+      "id": "jathiyah-sharia-vs-desires",
+      "title": "شريعة الحق ومفاضلة أهل الإيمان على أهل الهوى والظالمين",
+      "file": "045-الجاثية-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 90480
+    },
+    {
+      "id": "jathiyah-worshipping-whims",
+      "title": "خطورة من اتخذ إلهه هواه وختم الله على سمعه وقلبه وبصره",
+      "file": "045-الجاثية-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 561090
+    },
+    {
+      "id": "jathiyah-refuting-materialism",
+      "title": "إبطال دعوى الدهرية وحقيقة الإحياء والإماتة والجمع للقيامة",
+      "file": "045-الجاثية-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 2057020
+    },
+    {
+      "id": "jathiyah-nations-kneeling-judgment",
+      "title": "مشهد جثو الأمم واستنساخ الأعمال في كتاب الله يوم القيامة",
+      "file": "045-الجاثية-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 695270
+    },
+    {
+      "id": "jathiyah-divine-majesty-and-praise",
+      "title": "كبرياء الله في السماوات والأرض والحمد لرب العالمين العزيز الحكيم",
+      "file": "045-الجاثية-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 616150
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "8Zkjtdzwoco",
+      "Bt6aDOLU8Zk",
+      "bVJPjqNghg4",
+      "n_qM05NUpN8",
+      "b2i_5iySkRk",
+      "TETSthA2LPg",
+      "oY5RKs1TLEY"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "045-الجاثية-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1840010,
+        "durationMs": 1840010,
+        "recordingDurationMs": 1840010,
+        "bytes": 22080786,
+        "sha256": "af7f4f93ef830fa66d707aa1252492fcc89dd79bbd76dfef67352eeff6599a37",
+        "sharedAyahs": [
+          "45:1",
+          "45:2",
+          "45:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8Zkjtdzwoco",
+            "start": 30.57,
+            "end": 1870.54
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 538861,
+        "durationMs": 538861,
+        "recordingDurationMs": 1524120,
+        "bytes": 18289865,
+        "sha256": "2aae8fddc3f7410605dd52ea1f5f4e577b32f7853ea80b233a8f70c982bbb94f",
+        "sharedAyahs": [
+          "45:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8Zkjtdzwoco",
+            "start": 1870.54,
+            "end": 2409.39
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/004.mp3",
+        "startMs": 538861,
+        "endMs": 1524120,
+        "durationMs": 985259,
+        "recordingDurationMs": 1524120,
+        "bytes": 18289865,
+        "sha256": "2aae8fddc3f7410605dd52ea1f5f4e577b32f7853ea80b233a8f70c982bbb94f",
+        "sharedAyahs": [
+          "45:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Bt6aDOLU8Zk",
+            "start": 24.93,
+            "end": 1010.15
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 764380,
+        "durationMs": 764380,
+        "recordingDurationMs": 764380,
+        "bytes": 9173198,
+        "sha256": "baccb61eed998e9b31096b3f576fff8b6f7847f3c15e98172403d51b331a44f6",
+        "sharedAyahs": [
+          "45:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Bt6aDOLU8Zk",
+            "start": 1010.15,
+            "end": 1774.51
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 724460,
+        "durationMs": 724460,
+        "recordingDurationMs": 724460,
+        "bytes": 8694254,
+        "sha256": "e2f7d084a5136559c7ae65cff97897ff2f5af6e83e6ac424591a1c86ac8875de",
+        "sharedAyahs": [
+          "45:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Bt6aDOLU8Zk",
+            "start": 1774.51,
+            "end": 2498.94
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 60061,
+        "durationMs": 60061,
+        "recordingDurationMs": 205850,
+        "bytes": 2470601,
+        "sha256": "09997ab353e321facce6757978d6151cd9e75dedc119404f12802fba149db862",
+        "sharedAyahs": [
+          "45:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Bt6aDOLU8Zk",
+            "start": 2498.94,
+            "end": 2558.98
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/007.mp3",
+        "startMs": 60061,
+        "endMs": 205850,
+        "durationMs": 145789,
+        "recordingDurationMs": 205850,
+        "bytes": 2470601,
+        "sha256": "09997ab353e321facce6757978d6151cd9e75dedc119404f12802fba149db862",
+        "sharedAyahs": [
+          "45:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bVJPjqNghg4",
+            "start": 25.78,
+            "end": 171.54
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 327500,
+        "durationMs": 327500,
+        "recordingDurationMs": 327500,
+        "bytes": 3930734,
+        "sha256": "26d3fa05734884486de8aa5720c94c5c276bd2b99d0f3b063daec2aeb9814d61",
+        "sharedAyahs": [
+          "45:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bVJPjqNghg4",
+            "start": 171.54,
+            "end": 499.01
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 808610,
+        "durationMs": 808610,
+        "recordingDurationMs": 808610,
+        "bytes": 9703982,
+        "sha256": "7abe4ab23650598267b7cfd4c9fe1621cf3f6c09d64386e43ba6c43632609b87",
+        "sharedAyahs": [
+          "45:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bVJPjqNghg4",
+            "start": 499.01,
+            "end": 1307.6
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 341520,
+        "durationMs": 341520,
+        "recordingDurationMs": 341520,
+        "bytes": 4098928,
+        "sha256": "f692398c1e82913c84efa56dc84b6e8abd2b5e08b130fb05fdc22f38b6d94715",
+        "sharedAyahs": [
+          "45:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bVJPjqNghg4",
+            "start": 1307.6,
+            "end": 1649.09
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 752230,
+        "durationMs": 752230,
+        "recordingDurationMs": 752230,
+        "bytes": 9027472,
+        "sha256": "baab106298d913d2cf7d358b2323e6b7cf84bb240831b248a2aec089a0877033",
+        "sharedAyahs": [
+          "45:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bVJPjqNghg4",
+            "start": 1649.09,
+            "end": 2401.32
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 132620,
+        "durationMs": 132620,
+        "recordingDurationMs": 132620,
+        "bytes": 1592176,
+        "sha256": "1c565907a869876c731fffbab14e767e5fbabdee8c0e0959503c8bf9f4fca8ca",
+        "sharedAyahs": [
+          "45:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bVJPjqNghg4",
+            "start": 2401.32,
+            "end": 2533.9
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 1570800,
+        "durationMs": 1570800,
+        "recordingDurationMs": 1570800,
+        "bytes": 18850288,
+        "sha256": "e5cb7ef58e2fd29e4fb264d87e48b0f669c1d61713e6a90709d7e213a916d7c0",
+        "sharedAyahs": [
+          "45:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "n_qM05NUpN8",
+            "start": 28.81,
+            "end": 1599.59
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 997213,
+        "durationMs": 997213,
+        "recordingDurationMs": 1369270,
+        "bytes": 16431691,
+        "sha256": "22540ffd6cb9ba050208322309df5e6ce7e12395b819efda423a67d98043d781",
+        "sharedAyahs": [
+          "45:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "n_qM05NUpN8",
+            "start": 1599.59,
+            "end": 2596.78
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/014.mp3",
+        "startMs": 997213,
+        "endMs": 1369270,
+        "durationMs": 372057,
+        "recordingDurationMs": 1369270,
+        "bytes": 16431691,
+        "sha256": "22540ffd6cb9ba050208322309df5e6ce7e12395b819efda423a67d98043d781",
+        "sharedAyahs": [
+          "45:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 23.9,
+            "end": 395.92
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 202420,
+        "durationMs": 202420,
+        "recordingDurationMs": 202420,
+        "bytes": 2429680,
+        "sha256": "ed225fe82b9d7fdfc0c37824e7bf9f985461a1508e53d27862056f09601a8f89",
+        "sharedAyahs": [
+          "45:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 395.92,
+            "end": 598.32
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 806500,
+        "durationMs": 806500,
+        "recordingDurationMs": 806500,
+        "bytes": 9678645,
+        "sha256": "8ef47b6869bd9081f0e0f5a8309d4d8b5357942e03125154fd1eb13b14d34646",
+        "sharedAyahs": [
+          "45:16",
+          "45:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 598.32,
+            "end": 1404.77
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 90500,
+        "durationMs": 90500,
+        "recordingDurationMs": 90500,
+        "bytes": 1086741,
+        "sha256": "4d8f78f9409a2c0daf7883a5f48df4cd488d44b3e1f16087f7be5f0ea101f54f",
+        "sharedAyahs": [
+          "45:18",
+          "45:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 1404.77,
+            "end": 1495.25
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 110180,
+        "durationMs": 110180,
+        "recordingDurationMs": 110180,
+        "bytes": 1322896,
+        "sha256": "0276d4d4af9b4ad9f5684f4409fa6585aafe101f596693f51c8c747ebc1911e9",
+        "sharedAyahs": [
+          "45:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 1495.25,
+            "end": 1605.42
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 217200,
+        "durationMs": 217200,
+        "recordingDurationMs": 217200,
+        "bytes": 2607088,
+        "sha256": "8b9c3e8c38016807f859da9a72a21632fb556941896503902686ba6c04efafa0",
+        "sharedAyahs": [
+          "45:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 1605.42,
+            "end": 1822.6
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 98520,
+        "durationMs": 98520,
+        "recordingDurationMs": 98520,
+        "bytes": 1182928,
+        "sha256": "0ac1d3f2e33cf735556d03c2aa1327c93f8eebd25df6f4bee99178cd977a9eb5",
+        "sharedAyahs": [
+          "45:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 1822.6,
+            "end": 1921.1
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 561120,
+        "durationMs": 561120,
+        "recordingDurationMs": 561120,
+        "bytes": 6734128,
+        "sha256": "fe60c84043104f7e64503cfc8f8dfad8a8106eac7e2e1347d2ae45ebb4a31fc9",
+        "sharedAyahs": [
+          "45:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 1921.1,
+            "end": 2482.19
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 109957,
+        "durationMs": 109957,
+        "recordingDurationMs": 2057060,
+        "bytes": 24685195,
+        "sha256": "5939aa68393388e09e7ee275b3c014374d6b8992fbd1ee16f22d5d3c1a876e96",
+        "sharedAyahs": [
+          "45:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "b2i_5iySkRk",
+            "start": 2482.19,
+            "end": 2592.14
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/024.mp3",
+        "startMs": 109957,
+        "endMs": 2057060,
+        "durationMs": 1947103,
+        "recordingDurationMs": 2057060,
+        "bytes": 24685195,
+        "sha256": "5939aa68393388e09e7ee275b3c014374d6b8992fbd1ee16f22d5d3c1a876e96",
+        "sharedAyahs": [
+          "45:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TETSthA2LPg",
+            "start": 26.31,
+            "end": 1973.38
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 275160,
+        "durationMs": 275160,
+        "recordingDurationMs": 275160,
+        "bytes": 3302608,
+        "sha256": "501de7cd9e6850aaa55589b7421eedb1a605a8c1d297bf280f869a77fba8c2da",
+        "sharedAyahs": [
+          "45:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TETSthA2LPg",
+            "start": 1973.38,
+            "end": 2248.52
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 73080,
+        "durationMs": 73080,
+        "recordingDurationMs": 73080,
+        "bytes": 877648,
+        "sha256": "ba0d6faa19271e9eb129a966f61718513032897463c725318b7287752141468e",
+        "sharedAyahs": [
+          "45:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TETSthA2LPg",
+            "start": 2248.52,
+            "end": 2321.58
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 244320,
+        "durationMs": 244320,
+        "recordingDurationMs": 244320,
+        "bytes": 2932528,
+        "sha256": "a81ba2e67ff35de892e40ca95c1ce6ea2df631180927dde6930a40bcad239ca9",
+        "sharedAyahs": [
+          "45:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TETSthA2LPg",
+            "start": 2321.58,
+            "end": 2565.87
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 695280,
+        "durationMs": 695280,
+        "recordingDurationMs": 695280,
+        "bytes": 8344048,
+        "sha256": "996e1f921c4147b26181057eea04496d34fa71284d4753eb04e457bd5c0c0bda",
+        "sharedAyahs": [
+          "45:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oY5RKs1TLEY",
+            "start": 29.53,
+            "end": 724.8
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 69940,
+        "durationMs": 69940,
+        "recordingDurationMs": 69940,
+        "bytes": 839920,
+        "sha256": "3f95f36e64acefd22de42e1843778d30bb36e3069adf7785705bbc7326efbdfd",
+        "sharedAyahs": [
+          "45:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oY5RKs1TLEY",
+            "start": 724.8,
+            "end": 794.69
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 262870,
+        "durationMs": 262870,
+        "recordingDurationMs": 262870,
+        "bytes": 3155152,
+        "sha256": "e5c378a17d3a4b278eec0004f2f0caf92be62971caf5030ac39f44ebbf822749",
+        "sharedAyahs": [
+          "45:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oY5RKs1TLEY",
+            "start": 794.69,
+            "end": 1057.54
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 200520,
+        "durationMs": 200520,
+        "recordingDurationMs": 200520,
+        "bytes": 2406933,
+        "sha256": "3ff20d225322b370a4e54592258505ff30457303d39af501191ddb392aa9bee7",
+        "sharedAyahs": [
+          "45:31",
+          "45:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oY5RKs1TLEY",
+            "start": 1057.54,
+            "end": 1258.05
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 126480,
+        "durationMs": 126480,
+        "recordingDurationMs": 126480,
+        "bytes": 1518448,
+        "sha256": "b3d2089a003e33a654a6d061495b0facef3f295cc89289cbc2287ec47ef4d429",
+        "sharedAyahs": [
+          "45:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oY5RKs1TLEY",
+            "start": 1258.05,
+            "end": 1384.5
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 570960,
+        "durationMs": 570960,
+        "recordingDurationMs": 570960,
+        "bytes": 6852213,
+        "sha256": "1355d7ba5b65e1bed51b744b299863a507354a22bfc048a552b9a71128b678ab",
+        "sharedAyahs": [
+          "45:34",
+          "45:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oY5RKs1TLEY",
+            "start": 1384.5,
+            "end": 1955.44
+          }
+        ]
+      },
+      {
+        "file": "045-الجاثية-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 616180,
+        "durationMs": 616180,
+        "recordingDurationMs": 616180,
+        "bytes": 7394805,
+        "sha256": "413783888781cd693fce33757200f542335fd10f1301acd7317616dbe48b21b1",
+        "sharedAyahs": [
+          "45:36",
+          "45:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oY5RKs1TLEY",
+            "start": 1955.44,
+            "end": 2571.59
+          }
+        ]
+      }
+    ],
+    "durationMs": 17639660,
+    "additionalAudioBytes": 0
+  }
+}
