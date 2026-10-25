@@ -1,0 +1,1704 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 78,
+  "surahName": "النبأ",
+  "ayahCount": 40,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 40,
+    "mappedAyahCount": 40,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "2EHnPisrm9k": {
+      "durationSeconds": 10597.37,
+      "bytes": 127169136,
+      "sha256": "97646757ea7f07d920f6f1e23168077ba534718a3fa4c285ad7bc7e14681b920",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-040_2EHnPisrm9k.mp3",
+      "url": "https://www.youtube.com/watch?v=2EHnPisrm9k"
+    }
+  },
+  "ayahs": {
+    "78:1": {
+      "file": "078-النبأ-youtube-v1/001.mp3",
+      "durationMs": 68620,
+      "bytes": 824070,
+      "sha256": "371b6a12f7bafc5e93b6729cfc08a4ed0d7c5ea0b3929f850352bbcf768f9f36",
+      "sharedAyahs": [
+        "78:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 418.725,
+          "end": 487.32
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: عَمَّ يَتَسَاءَلُونَ - تفخيم الشأن بالإبهام"
+    },
+    "78:2": {
+      "file": "078-النبأ-youtube-v1/002.mp3",
+      "durationMs": 723910,
+      "bytes": 8687622,
+      "sha256": "95225435b7deccd8cebbdd891d6cb5faa248fc72f1f300d44521498b16e19fea",
+      "sharedAyahs": [
+        "78:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 487.32,
+          "end": 1211.19
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: عَنِ النَّبَإِ الْعَظِيمِ - حقيقة النبأ العظيم والبعث"
+    },
+    "78:3": {
+      "file": "078-النبأ-youtube-v1/003.mp3",
+      "durationMs": 51670,
+      "bytes": 620742,
+      "sha256": "4008784c390a1bbadd0f37bcf07274d1b3ed181d285e623a13429f762afb4126",
+      "sharedAyahs": [
+        "78:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 1211.19,
+          "end": 1262.84
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ - أوجه خلاف الكفار في البعث"
+    },
+    "78:4": {
+      "file": "078-النبأ-youtube-v1/004.mp3",
+      "durationMs": 501980,
+      "bytes": 6024490,
+      "sha256": "dd2b18e922a85623c3828f85ab3ebba3fe8b1eb2ac5be5e85a4fc245efe74a6c",
+      "sharedAyahs": [
+        "78:4",
+        "78:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 1262.84,
+          "end": 1764.81
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 4-5: كَلَّا سَيَعْلَمُونَ ثُمَّ كَلَّا سَيَعْلَمُونَ - الردع والإنذار بالمعاينة"
+    },
+    "78:5": {
+      "file": "078-النبأ-youtube-v1/004.mp3",
+      "durationMs": 501980,
+      "bytes": 6024490,
+      "sha256": "dd2b18e922a85623c3828f85ab3ebba3fe8b1eb2ac5be5e85a4fc245efe74a6c",
+      "sharedAyahs": [
+        "78:4",
+        "78:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 1262.84,
+          "end": 1764.81
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 4-5: كَلَّا سَيَعْلَمُونَ ثُمَّ كَلَّا سَيَعْلَمُونَ - الردع والإنذار بالمعاينة"
+    },
+    "78:6": {
+      "file": "078-النبأ-youtube-v1/006.mp3",
+      "durationMs": 429290,
+      "bytes": 5152134,
+      "sha256": "8e2c260bd21e4e825e777d8860440b270233a82092ad9391135aa34ebbb75c5e",
+      "sharedAyahs": [
+        "78:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 1764.81,
+          "end": 2194.065
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا - الاستدلال بتمهيد الأرض قبل خلق الإنسان"
+    },
+    "78:7": {
+      "file": "078-النبأ-youtube-v1/007.mp3",
+      "durationMs": 606550,
+      "bytes": 7279302,
+      "sha256": "2a5e8fa2799f4e8b58d95c1a17c6560fad6aa98320bb78b5d75038886655ff44",
+      "sharedAyahs": [
+        "78:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 2194.065,
+          "end": 2800.605
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: وَالْجِبَالَ أَوْتَادًا - حكمة خلق الجبال أوتاداً لتثبيت الأرض وتوازن الغلاف الجوي"
+    },
+    "78:8": {
+      "file": "078-النبأ-youtube-v1/008.mp3",
+      "durationMs": 338570,
+      "bytes": 4063494,
+      "sha256": "b0169656087cd2f29415458961ced3bc5fed4e10fca93d6d2709e81b825075f0",
+      "sharedAyahs": [
+        "78:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 2800.605,
+          "end": 3139.13
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: وَخَلَقْنَاكُمْ أَزْوَاجًا - حكمة الزوجية في الخلق وبقاء النوع والسكن والمودة"
+    },
+    "78:9": {
+      "file": "078-النبأ-youtube-v1/009.mp3",
+      "durationMs": 330890,
+      "bytes": 3971334,
+      "sha256": "224eaa10f92a22d786fc28e0fe27a12d6f36515e9b3250d6b935993ea2b00e06",
+      "sharedAyahs": [
+        "78:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 3139.13,
+          "end": 3470.005
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا - حكمة النوم وانقطاع الحركة لاسترداد طاقة الجسد"
+    },
+    "78:10": {
+      "file": "078-النبأ-youtube-v1/010.mp3",
+      "durationMs": 269980,
+      "bytes": 3240397,
+      "sha256": "a66378cd21f64cd6d30b8962090233dc9cd557c4d61c214d0a877072d6822d3c",
+      "sharedAyahs": [
+        "78:10",
+        "78:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 3470.005,
+          "end": 3739.96
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 10-11: وَجَعَلْنَا اللَّيْلَ لِبَاسًا وَجَعَلْنَا النَّهَارَ مَعَاشًا - ستر الليل وحركة النهار"
+    },
+    "78:11": {
+      "file": "078-النبأ-youtube-v1/010.mp3",
+      "durationMs": 269980,
+      "bytes": 3240397,
+      "sha256": "a66378cd21f64cd6d30b8962090233dc9cd557c4d61c214d0a877072d6822d3c",
+      "sharedAyahs": [
+        "78:10",
+        "78:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 3470.005,
+          "end": 3739.96
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 10-11: وَجَعَلْنَا اللَّيْلَ لِبَاسًا وَجَعَلْنَا النَّهَارَ مَعَاشًا - ستر الليل وحركة النهار"
+    },
+    "78:12": {
+      "file": "078-النبأ-youtube-v1/012.mp3",
+      "durationMs": 977230,
+      "bytes": 11727464,
+      "sha256": "45176aad598e1fbe85de8a0ade8e7879b4cc5892aa5dbb684f87deb21c15d67f",
+      "sharedAyahs": [
+        "78:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 4343.95,
+          "end": 5321.16
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا - خلق السماوات السبع وإحكام بنائها"
+    },
+    "78:13": {
+      "file": "078-النبأ-youtube-v1/013.mp3",
+      "durationMs": 65780,
+      "bytes": 790088,
+      "sha256": "ca083979c7dd28e213d69f8e96724c34b3a682cc5d628d5c1181fc4fe7ffa24f",
+      "sharedAyahs": [
+        "78:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 5321.16,
+          "end": 5386.915
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: وَجَعَلْنَا سِرَاجًا وَهَّاجًا - وظيفة الشمس كمصدر للضوء والحرارة والطاقة"
+    },
+    "78:14": {
+      "file": "078-النبأ-youtube-v1/014.mp3",
+      "durationMs": 331920,
+      "bytes": 3983720,
+      "sha256": "fb9c5d86cb3f2d86ae70314a3951d3ff58ebb535d60c2c7cb6f3c471e7dea244",
+      "sharedAyahs": [
+        "78:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 5386.915,
+          "end": 5718.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا - دورة الرياح والسحب وإنزال المطر المتدفق"
+    },
+    "78:15": {
+      "file": "078-النبأ-youtube-v1/015.mp3",
+      "durationMs": 101280,
+      "bytes": 1216040,
+      "sha256": "3bbf12e5e46d50a8829e0089c598d22f55e8c1d9d2fa221ca0cedcd6987b5d0f",
+      "sharedAyahs": [
+        "78:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 5718.8,
+          "end": 5820.07
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - خروج الحب والنبات بالماء كدليل على إحياء الموتى"
+    },
+    "78:16": {
+      "file": "078-النبأ-youtube-v1/016.mp3",
+      "durationMs": 39890,
+      "bytes": 479336,
+      "sha256": "8564acff4860f46f13eeedfd00c9db807c28420820472b675c902667e4c71b03",
+      "sharedAyahs": [
+        "78:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 5820.07,
+          "end": 5859.92
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: وَجَنَّاتٍ أَلْفَافًا - البساتين الملتفة الشجر وثمارها"
+    },
+    "78:17": {
+      "file": "078-النبأ-youtube-v1/017.mp3",
+      "durationMs": 115060,
+      "bytes": 1381352,
+      "sha256": "9bb9807430a6c3e4ea0536a06751863cca0a104422c723fb560453c6c4fb1fee",
+      "sharedAyahs": [
+        "78:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 5859.92,
+          "end": 5974.95
+        }
+      ],
+      "reviewNote": "تفسير الآية 17: إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا - الفصل بين الخلائق وتوقيت اليوم الموعود"
+    },
+    "78:18": {
+      "file": "078-النبأ-youtube-v1/018.mp3",
+      "durationMs": 269690,
+      "bytes": 3236936,
+      "sha256": "2d16169c09316bfc25247c913d8e776b6cbb3a7c5c4b18d609bf14f16f0d3fec",
+      "sharedAyahs": [
+        "78:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 5974.95,
+          "end": 6244.63
+        }
+      ],
+      "reviewNote": "تفسير الآية 18: يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا - النفخ في الصور ومجيء الأمم جماعات"
+    },
+    "78:19": {
+      "file": "078-النبأ-youtube-v1/019.mp3",
+      "durationMs": 230210,
+      "bytes": 2763176,
+      "sha256": "24b7bf5676f2ef73eb5f8d9a0818ffb01da3fd6e74ad553b6bfe1d29d8a35163",
+      "sharedAyahs": [
+        "78:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 6244.63,
+          "end": 6474.795
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا - تغير النظام الكوني وانفتاح السماء لنزول الملائكة"
+    },
+    "78:20": {
+      "file": "078-النبأ-youtube-v1/020.mp3",
+      "durationMs": 263160,
+      "bytes": 3158600,
+      "sha256": "9508f06486b11de019ac07bc175644b3fa0b6ce448b899a7dc09f4d1535b5f50",
+      "sharedAyahs": [
+        "78:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 6474.795,
+          "end": 6737.95
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا - تسيير الجبال وتلاشيها يوم القيامة"
+    },
+    "78:21": {
+      "file": "078-النبأ-youtube-v1/021.mp3",
+      "durationMs": 345260,
+      "bytes": 4143848,
+      "sha256": "45847d5c5a76f576a6ebb759d0a0e9dfd33159696dcf4532fa37d679428f616f",
+      "sharedAyahs": [
+        "78:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 6737.95,
+          "end": 7083.19
+        }
+      ],
+      "reviewNote": "تفسير الآية 21: إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا - جهنم ترصد وتترقب الكافرين والطاغين"
+    },
+    "78:22": {
+      "file": "078-النبأ-youtube-v1/022.mp3",
+      "durationMs": 41760,
+      "bytes": 501805,
+      "sha256": "bb700135354387f412e9e1f588b4b8d9fe360b226c1510cdabc46e3656e25a72",
+      "sharedAyahs": [
+        "78:22",
+        "78:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 7083.19,
+          "end": 7124.92
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 22-23: لِلطَّاغِينَ مَآبًا لَابِثِينَ فِيهَا أَحْقَابًا - مصير الطغاة والخلود الأبدي"
+    },
+    "78:23": {
+      "file": "078-النبأ-youtube-v1/022.mp3",
+      "durationMs": 41760,
+      "bytes": 501805,
+      "sha256": "bb700135354387f412e9e1f588b4b8d9fe360b226c1510cdabc46e3656e25a72",
+      "sharedAyahs": [
+        "78:22",
+        "78:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 7083.19,
+          "end": 7124.92
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 22-23: لِلطَّاغِينَ مَآبًا لَابِثِينَ فِيهَا أَحْقَابًا - مصير الطغاة والخلود الأبدي"
+    },
+    "78:24": {
+      "file": "078-النبأ-youtube-v1/024.mp3",
+      "durationMs": 50090,
+      "bytes": 601741,
+      "sha256": "38a7672e11675e1f423a50cf1de3ee964e329a33db38a1c9922ece65ee3d5fc4",
+      "sharedAyahs": [
+        "78:24",
+        "78:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 7124.92,
+          "end": 7174.98
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 24-25: لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا إِلَّا حَمِيمًا وَغَسَّاقًا - طعام أهل النار وشرابهم"
+    },
+    "78:25": {
+      "file": "078-النبأ-youtube-v1/024.mp3",
+      "durationMs": 50090,
+      "bytes": 601741,
+      "sha256": "38a7672e11675e1f423a50cf1de3ee964e329a33db38a1c9922ece65ee3d5fc4",
+      "sharedAyahs": [
+        "78:24",
+        "78:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 7124.92,
+          "end": 7174.98
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 24-25: لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا إِلَّا حَمِيمًا وَغَسَّاقًا - طعام أهل النار وشرابهم"
+    },
+    "78:26": {
+      "file": "078-النبأ-youtube-v1/026.mp3",
+      "durationMs": 33620,
+      "bytes": 404168,
+      "sha256": "4cd5db4dfcee1bca7666a112891ab84f07cc166886ec5de23ee5d293d7c39f99",
+      "sharedAyahs": [
+        "78:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 7174.98,
+          "end": 7208.59
+        }
+      ],
+      "reviewNote": "تفسير الآية 26: جَزَاءً وِفَاقًا - تمام العدل الإلهي في موافقة العقوبة للجرم"
+    },
+    "78:27": {
+      "file": "078-النبأ-youtube-v1/027.mp3",
+      "durationMs": 459620,
+      "bytes": 5516168,
+      "sha256": "981ddd49f33b27c1f42d2511c75d4c37927d31cc4992b5aac9923c8ffe526baf",
+      "sharedAyahs": [
+        "78:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 7839.9,
+          "end": 8299.49
+        }
+      ],
+      "reviewNote": "تفسير الآية 27: إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا - أصل كفرهم بإنكار الحساب والمسؤولية"
+    },
+    "78:28": {
+      "file": "078-النبأ-youtube-v1/028.mp3",
+      "durationMs": 655060,
+      "bytes": 7861352,
+      "sha256": "a525402c2821d8eab90b42816102ca98cc62d5241cba3a74ae63e48916d2bdb6",
+      "sharedAyahs": [
+        "78:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 8299.49,
+          "end": 8954.54
+        }
+      ],
+      "reviewNote": "تفسير الآية 28: وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا - تكذيبهم الشديد بآيات الله الشرعية والكونية"
+    },
+    "78:29": {
+      "file": "078-النبأ-youtube-v1/029.mp3",
+      "durationMs": 61630,
+      "bytes": 740264,
+      "sha256": "aab70770746bf819d031a4f0d9bfd13b87661956c06fd38e52f9ac7ad1ced660",
+      "sharedAyahs": [
+        "78:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 8954.54,
+          "end": 9016.13
+        }
+      ],
+      "reviewNote": "تفسير الآية 29: وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا - دقة الإحصاء والكتابة لجميع أعمال العباد"
+    },
+    "78:30": {
+      "file": "078-النبأ-youtube-v1/030.mp3",
+      "durationMs": 159380,
+      "bytes": 1913288,
+      "sha256": "5287210467bdf107b97f00234839340371c45c261dff43910c12c5f4f734b62a",
+      "sharedAyahs": [
+        "78:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 9016.13,
+          "end": 9175.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 30: فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا - أشد آية على أهل النار في دوام الزيادة"
+    },
+    "78:31": {
+      "file": "078-النبأ-youtube-v1/031.mp3",
+      "durationMs": 153980,
+      "bytes": 1848488,
+      "sha256": "a757b285f9dbad751d73542496ce3989266071988598f195db989fb528f14118",
+      "sharedAyahs": [
+        "78:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 9175.5,
+          "end": 9329.46
+        }
+      ],
+      "reviewNote": "تفسير الآية 31: إِنَّ لِلْمُتَّقِينَ مَفَازًا - جزاء المتقين والفوز بالنجاة والجنة"
+    },
+    "78:32": {
+      "file": "078-النبأ-youtube-v1/032.mp3",
+      "durationMs": 551110,
+      "bytes": 6614024,
+      "sha256": "6e671da45f64045f10e67b9e3c30525e32db89bb316dc18dbe9c203812bc6c71",
+      "sharedAyahs": [
+        "78:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 9329.46,
+          "end": 9880.55
+        }
+      ],
+      "reviewNote": "تفسير الآية 32: حَدَائِقَ وَأَعْنَابًا - نعيم الجنان والبساتين الكريمة"
+    },
+    "78:33": {
+      "file": "078-النبأ-youtube-v1/033.mp3",
+      "durationMs": 9960,
+      "bytes": 120200,
+      "sha256": "9169a71af9e74e5180c37267d4204a37902a21346237f3583e8c05a9069401fe",
+      "sharedAyahs": [
+        "78:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 9880.55,
+          "end": 9890.495
+        }
+      ],
+      "reviewNote": "تفسير الآية 33: وَكَوَاعِبَ أَتْرَابًا - كمال نعيم أهل الجنة في نسائهم وأزواجهم"
+    },
+    "78:34": {
+      "file": "078-النبأ-youtube-v1/034.mp3",
+      "durationMs": 37340,
+      "bytes": 448808,
+      "sha256": "3157574fdea34cea5b4e6e0e5cedb89ac18848273229276794a2854e26f386ed",
+      "sharedAyahs": [
+        "78:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 9890.495,
+          "end": 9927.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 34: وَكَأْسًا دِهَاقًا - كؤوس الشراب الممتلئة المتتابعة الصافية"
+    },
+    "78:35": {
+      "file": "078-النبأ-youtube-v1/035.mp3",
+      "durationMs": 58180,
+      "bytes": 698792,
+      "sha256": "d3ac6ccac2d91b2efdd92c458438ba37a1d4ea1ce8b6051846e4b925023ea0ea",
+      "sharedAyahs": [
+        "78:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 9927.8,
+          "end": 9985.945
+        }
+      ],
+      "reviewNote": "تفسير الآية 35: لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا - طهارة الجنة من باطل القول والكذب"
+    },
+    "78:36": {
+      "file": "078-النبأ-youtube-v1/036.mp3",
+      "durationMs": 78860,
+      "bytes": 947048,
+      "sha256": "8852df75119ea2aeaab1dc5779351395fe97e0e1d76f51b39263088c34be5ea2",
+      "sharedAyahs": [
+        "78:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 9985.945,
+          "end": 10064.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 36: جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا - الفرق بين جزاء العدل وجزاء الفضل والعطاء"
+    },
+    "78:37": {
+      "file": "078-النبأ-youtube-v1/037.mp3",
+      "durationMs": 129190,
+      "bytes": 1550984,
+      "sha256": "e490bcf88e58ff01955312407ee5eb86869b9207182ad63dc97c8f492710b18a",
+      "sharedAyahs": [
+        "78:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 10064.8,
+          "end": 10193.97
+        }
+      ],
+      "reviewNote": "تفسير الآية 37: رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ - ربوبية الخالق ورحمانيته وهيبته"
+    },
+    "78:38": {
+      "file": "078-النبأ-youtube-v1/038.mp3",
+      "durationMs": 128900,
+      "bytes": 1547528,
+      "sha256": "19f9dde82e00bfd59e61ff63da2790eca992da95d683f240826e5b9ecf6232ce",
+      "sharedAyahs": [
+        "78:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 10193.97,
+          "end": 10322.85
+        }
+      ],
+      "reviewNote": "تفسير الآية 38: يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا - خشوع الملائكة وجبريل والشفاعة بالإذن"
+    },
+    "78:39": {
+      "file": "078-النبأ-youtube-v1/039.mp3",
+      "durationMs": 46460,
+      "bytes": 558248,
+      "sha256": "92c947330c5fca6a8707477f53b8d5e5ee14aa4bb1c81fb6f899f0f5af6d1d32",
+      "sharedAyahs": [
+        "78:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 10322.85,
+          "end": 10369.28
+        }
+      ],
+      "reviewNote": "تفسير الآية 39: ذَٰلِكَ الْيَوْمُ الْحَقُّ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا - حتمية اليوم الحق والدعوة للتوبة"
+    },
+    "78:40": {
+      "file": "078-النبأ-youtube-v1/040.mp3",
+      "durationMs": 228070,
+      "bytes": 2737544,
+      "sha256": "2de068317c904a6d6f8cce6f33fb20333fc77c71de9eac2eb918476e50399b39",
+      "sharedAyahs": [
+        "78:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 10369.28,
+          "end": 10597.37
+        }
+      ],
+      "reviewNote": "تفسير الآية 40: إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "078-النبأ-youtube-v1/other-00.mp3",
+      "kind": "other",
+      "durationMs": 123170,
+      "bytes": 1478687,
+      "sha256": "5ad40cd0bbc77591239bf2ec8ce1b28b10c2cf9393c5c3f5a6a4489e47afce81",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 0.0,
+          "end": 123.13
+        }
+      ],
+      "reviewNote": "مقدمة جزء عم وبيان اشتمال قصار السور على أمهات مقاصد العقيدة"
+    },
+    {
+      "file": "078-النبأ-youtube-v1/other-01.mp3",
+      "kind": "other",
+      "durationMs": 95590,
+      "bytes": 1147775,
+      "sha256": "e387b49a9545ea8bb0dbe42b15c6ae5d84f1461daf02aca30b4f26a9de6e22ee",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 123.13,
+          "end": 218.71
+        }
+      ],
+      "reviewNote": "بيان الارتباط البياني والسياقي بين ختام المرسلات وافتتاح النبأ بيوم الفصل"
+    },
+    {
+      "file": "078-النبأ-youtube-v1/other-02.mp3",
+      "kind": "other",
+      "durationMs": 74090,
+      "bytes": 889727,
+      "sha256": "aa83f0ddc2878f8dce46deead5af6000f1f0e61e9abdec9358bf11c4e1a07a24",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 218.71,
+          "end": 292.765
+        }
+      ],
+      "reviewNote": "قاعدة تفسيرية في القرآن الكريم عند ورود وما أدراك وما يدريك"
+    },
+    {
+      "file": "078-النبأ-youtube-v1/other-03.mp3",
+      "kind": "other",
+      "durationMs": 125980,
+      "bytes": 1512383,
+      "sha256": "7bcefb14ebe8a11fd74530acf98e526d36619cafe52b0ee66e76c2e980e515a1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 292.765,
+          "end": 418.725
+        }
+      ],
+      "reviewNote": "تكامل ذكر أحوال النعيم والعذاب بين سور الدهر والمرسلات وعم"
+    },
+    {
+      "file": "078-النبأ-youtube-v1/other-13.mp3",
+      "kind": "other",
+      "durationMs": 329710,
+      "bytes": 3957215,
+      "sha256": "3f7b70a05ad03260f9431df9d0fbc189c764bb8c3f4ce641f46068bc5d0030cf",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 3739.96,
+          "end": 4069.64
+        }
+      ],
+      "reviewNote": "استدلال الشيخ الشعراوي بالمشاهد الكونية والتسخير على كمال القدرة ووحدانية الخالق"
+    },
+    {
+      "file": "078-النبأ-youtube-v1/other-14.mp3",
+      "kind": "other",
+      "durationMs": 274320,
+      "bytes": 3292511,
+      "sha256": "73eacb050a464ac687132e2a5ca21098c9a969ff8edd58c58e025c5a08b27743",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 4069.64,
+          "end": 4343.95
+        }
+      ],
+      "reviewNote": "استئناف المجلس الثاني وتأكيد دلائل التمهيد قبل خلق المكلف"
+    },
+    {
+      "file": "078-النبأ-youtube-v1/other-28.mp3",
+      "kind": "other",
+      "durationMs": 631340,
+      "bytes": 7576799,
+      "sha256": "91224a1d12215363c56f485fe78cf3b3afa86610268166f2837b31eb1a2e06fe",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2EHnPisrm9k",
+          "start": 7208.59,
+          "end": 7839.9
+        }
+      ],
+      "reviewNote": "مراجعة شاملة في مستهل الدرس الثاني لأدلة البعث واستحقاق الجزاء"
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/watch?v=2EHnPisrm9k",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_fine_pause_alignment",
+  "topics": [
+    {
+      "id": "naba-amma-purpose",
+      "title": "جزء عم وجمع مقاصد القرآن",
+      "file": "078-النبأ-youtube-v1/other-00.mp3",
+      "startMs": 0,
+      "endMs": 123170
+    },
+    {
+      "id": "naba-mursalat-relation",
+      "title": "صلة سورة النبأ بالمرسلات وبيان يوم الفصل",
+      "file": "078-النبأ-youtube-v1/other-01.mp3",
+      "startMs": 0,
+      "endMs": 95590
+    },
+    {
+      "id": "naba-adraka-yudrika",
+      "title": "الفرق الدقيق بين «وما أدراك» و«وما يدريك»",
+      "file": "078-النبأ-youtube-v1/other-02.mp3",
+      "startMs": 0,
+      "endMs": 74090
+    },
+    {
+      "id": "naba-surah-order-harmony",
+      "title": "التكامل البياني بين سور الإنسان والمرسلات والنبأ",
+      "file": "078-النبأ-youtube-v1/other-03.mp3",
+      "startMs": 0,
+      "endMs": 125980
+    },
+    {
+      "id": "naba-cosmic-evidence",
+      "title": "أدلة التوحيد وكمال القدرة في المشاهد الكونية",
+      "file": "078-النبأ-youtube-v1/other-13.mp3",
+      "startMs": 0,
+      "endMs": 329710
+    },
+    {
+      "id": "naba-creation-cosmic-order",
+      "title": "استئناف دلائل الخلق وتدبير مقومات الحياة",
+      "file": "078-النبأ-youtube-v1/other-14.mp3",
+      "startMs": 0,
+      "endMs": 274320
+    },
+    {
+      "id": "naba-resurrection-justice-review",
+      "title": "مراجعة دلائل الإيمان واستدلال المشاهد على البعث",
+      "file": "078-النبأ-youtube-v1/other-28.mp3",
+      "startMs": 0,
+      "endMs": 631340
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "2EHnPisrm9k"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "078-النبأ-youtube-v1/other-00.mp3",
+        "startMs": 0,
+        "endMs": 123170,
+        "durationMs": 123170,
+        "recordingDurationMs": 123170,
+        "bytes": 1478687,
+        "sha256": "5ad40cd0bbc77591239bf2ec8ce1b28b10c2cf9393c5c3f5a6a4489e47afce81",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 0.0,
+            "end": 123.13
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/other-01.mp3",
+        "startMs": 0,
+        "endMs": 95590,
+        "durationMs": 95590,
+        "recordingDurationMs": 95590,
+        "bytes": 1147775,
+        "sha256": "e387b49a9545ea8bb0dbe42b15c6ae5d84f1461daf02aca30b4f26a9de6e22ee",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 123.13,
+            "end": 218.71
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/other-02.mp3",
+        "startMs": 0,
+        "endMs": 74090,
+        "durationMs": 74090,
+        "recordingDurationMs": 74090,
+        "bytes": 889727,
+        "sha256": "aa83f0ddc2878f8dce46deead5af6000f1f0e61e9abdec9358bf11c4e1a07a24",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 218.71,
+            "end": 292.765
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/other-03.mp3",
+        "startMs": 0,
+        "endMs": 125980,
+        "durationMs": 125980,
+        "recordingDurationMs": 125980,
+        "bytes": 1512383,
+        "sha256": "7bcefb14ebe8a11fd74530acf98e526d36619cafe52b0ee66e76c2e980e515a1",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 292.765,
+            "end": 418.725
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 68620,
+        "durationMs": 68620,
+        "recordingDurationMs": 68620,
+        "bytes": 824070,
+        "sha256": "371b6a12f7bafc5e93b6729cfc08a4ed0d7c5ea0b3929f850352bbcf768f9f36",
+        "sharedAyahs": [
+          "78:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 418.725,
+            "end": 487.32
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 723910,
+        "durationMs": 723910,
+        "recordingDurationMs": 723910,
+        "bytes": 8687622,
+        "sha256": "95225435b7deccd8cebbdd891d6cb5faa248fc72f1f300d44521498b16e19fea",
+        "sharedAyahs": [
+          "78:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 487.32,
+            "end": 1211.19
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 51670,
+        "durationMs": 51670,
+        "recordingDurationMs": 51670,
+        "bytes": 620742,
+        "sha256": "4008784c390a1bbadd0f37bcf07274d1b3ed181d285e623a13429f762afb4126",
+        "sharedAyahs": [
+          "78:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 1211.19,
+            "end": 1262.84
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 501980,
+        "durationMs": 501980,
+        "recordingDurationMs": 501980,
+        "bytes": 6024490,
+        "sha256": "dd2b18e922a85623c3828f85ab3ebba3fe8b1eb2ac5be5e85a4fc245efe74a6c",
+        "sharedAyahs": [
+          "78:4",
+          "78:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 1262.84,
+            "end": 1764.81
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 429290,
+        "durationMs": 429290,
+        "recordingDurationMs": 429290,
+        "bytes": 5152134,
+        "sha256": "8e2c260bd21e4e825e777d8860440b270233a82092ad9391135aa34ebbb75c5e",
+        "sharedAyahs": [
+          "78:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 1764.81,
+            "end": 2194.065
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 606550,
+        "durationMs": 606550,
+        "recordingDurationMs": 606550,
+        "bytes": 7279302,
+        "sha256": "2a5e8fa2799f4e8b58d95c1a17c6560fad6aa98320bb78b5d75038886655ff44",
+        "sharedAyahs": [
+          "78:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 2194.065,
+            "end": 2800.605
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 338570,
+        "durationMs": 338570,
+        "recordingDurationMs": 338570,
+        "bytes": 4063494,
+        "sha256": "b0169656087cd2f29415458961ced3bc5fed4e10fca93d6d2709e81b825075f0",
+        "sharedAyahs": [
+          "78:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 2800.605,
+            "end": 3139.13
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 330890,
+        "durationMs": 330890,
+        "recordingDurationMs": 330890,
+        "bytes": 3971334,
+        "sha256": "224eaa10f92a22d786fc28e0fe27a12d6f36515e9b3250d6b935993ea2b00e06",
+        "sharedAyahs": [
+          "78:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 3139.13,
+            "end": 3470.005
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 269980,
+        "durationMs": 269980,
+        "recordingDurationMs": 269980,
+        "bytes": 3240397,
+        "sha256": "a66378cd21f64cd6d30b8962090233dc9cd557c4d61c214d0a877072d6822d3c",
+        "sharedAyahs": [
+          "78:10",
+          "78:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 3470.005,
+            "end": 3739.96
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/other-13.mp3",
+        "startMs": 0,
+        "endMs": 329710,
+        "durationMs": 329710,
+        "recordingDurationMs": 329710,
+        "bytes": 3957215,
+        "sha256": "3f7b70a05ad03260f9431df9d0fbc189c764bb8c3f4ce641f46068bc5d0030cf",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 3739.96,
+            "end": 4069.64
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/other-14.mp3",
+        "startMs": 0,
+        "endMs": 274320,
+        "durationMs": 274320,
+        "recordingDurationMs": 274320,
+        "bytes": 3292511,
+        "sha256": "73eacb050a464ac687132e2a5ca21098c9a969ff8edd58c58e025c5a08b27743",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 4069.64,
+            "end": 4343.95
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 977230,
+        "durationMs": 977230,
+        "recordingDurationMs": 977230,
+        "bytes": 11727464,
+        "sha256": "45176aad598e1fbe85de8a0ade8e7879b4cc5892aa5dbb684f87deb21c15d67f",
+        "sharedAyahs": [
+          "78:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 4343.95,
+            "end": 5321.16
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 65780,
+        "durationMs": 65780,
+        "recordingDurationMs": 65780,
+        "bytes": 790088,
+        "sha256": "ca083979c7dd28e213d69f8e96724c34b3a682cc5d628d5c1181fc4fe7ffa24f",
+        "sharedAyahs": [
+          "78:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 5321.16,
+            "end": 5386.915
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 331920,
+        "durationMs": 331920,
+        "recordingDurationMs": 331920,
+        "bytes": 3983720,
+        "sha256": "fb9c5d86cb3f2d86ae70314a3951d3ff58ebb535d60c2c7cb6f3c471e7dea244",
+        "sharedAyahs": [
+          "78:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 5386.915,
+            "end": 5718.8
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 101280,
+        "durationMs": 101280,
+        "recordingDurationMs": 101280,
+        "bytes": 1216040,
+        "sha256": "3bbf12e5e46d50a8829e0089c598d22f55e8c1d9d2fa221ca0cedcd6987b5d0f",
+        "sharedAyahs": [
+          "78:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 5718.8,
+            "end": 5820.07
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 39890,
+        "durationMs": 39890,
+        "recordingDurationMs": 39890,
+        "bytes": 479336,
+        "sha256": "8564acff4860f46f13eeedfd00c9db807c28420820472b675c902667e4c71b03",
+        "sharedAyahs": [
+          "78:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 5820.07,
+            "end": 5859.92
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 115060,
+        "durationMs": 115060,
+        "recordingDurationMs": 115060,
+        "bytes": 1381352,
+        "sha256": "9bb9807430a6c3e4ea0536a06751863cca0a104422c723fb560453c6c4fb1fee",
+        "sharedAyahs": [
+          "78:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 5859.92,
+            "end": 5974.95
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 269690,
+        "durationMs": 269690,
+        "recordingDurationMs": 269690,
+        "bytes": 3236936,
+        "sha256": "2d16169c09316bfc25247c913d8e776b6cbb3a7c5c4b18d609bf14f16f0d3fec",
+        "sharedAyahs": [
+          "78:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 5974.95,
+            "end": 6244.63
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 230210,
+        "durationMs": 230210,
+        "recordingDurationMs": 230210,
+        "bytes": 2763176,
+        "sha256": "24b7bf5676f2ef73eb5f8d9a0818ffb01da3fd6e74ad553b6bfe1d29d8a35163",
+        "sharedAyahs": [
+          "78:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 6244.63,
+            "end": 6474.795
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 263160,
+        "durationMs": 263160,
+        "recordingDurationMs": 263160,
+        "bytes": 3158600,
+        "sha256": "9508f06486b11de019ac07bc175644b3fa0b6ce448b899a7dc09f4d1535b5f50",
+        "sharedAyahs": [
+          "78:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 6474.795,
+            "end": 6737.95
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 345260,
+        "durationMs": 345260,
+        "recordingDurationMs": 345260,
+        "bytes": 4143848,
+        "sha256": "45847d5c5a76f576a6ebb759d0a0e9dfd33159696dcf4532fa37d679428f616f",
+        "sharedAyahs": [
+          "78:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 6737.95,
+            "end": 7083.19
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 41760,
+        "durationMs": 41760,
+        "recordingDurationMs": 41760,
+        "bytes": 501805,
+        "sha256": "bb700135354387f412e9e1f588b4b8d9fe360b226c1510cdabc46e3656e25a72",
+        "sharedAyahs": [
+          "78:22",
+          "78:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 7083.19,
+            "end": 7124.92
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 50090,
+        "durationMs": 50090,
+        "recordingDurationMs": 50090,
+        "bytes": 601741,
+        "sha256": "38a7672e11675e1f423a50cf1de3ee964e329a33db38a1c9922ece65ee3d5fc4",
+        "sharedAyahs": [
+          "78:24",
+          "78:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 7124.92,
+            "end": 7174.98
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 33620,
+        "durationMs": 33620,
+        "recordingDurationMs": 33620,
+        "bytes": 404168,
+        "sha256": "4cd5db4dfcee1bca7666a112891ab84f07cc166886ec5de23ee5d293d7c39f99",
+        "sharedAyahs": [
+          "78:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 7174.98,
+            "end": 7208.59
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/other-28.mp3",
+        "startMs": 0,
+        "endMs": 631340,
+        "durationMs": 631340,
+        "recordingDurationMs": 631340,
+        "bytes": 7576799,
+        "sha256": "91224a1d12215363c56f485fe78cf3b3afa86610268166f2837b31eb1a2e06fe",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 7208.59,
+            "end": 7839.9
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 459620,
+        "durationMs": 459620,
+        "recordingDurationMs": 459620,
+        "bytes": 5516168,
+        "sha256": "981ddd49f33b27c1f42d2511c75d4c37927d31cc4992b5aac9923c8ffe526baf",
+        "sharedAyahs": [
+          "78:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 7839.9,
+            "end": 8299.49
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 655060,
+        "durationMs": 655060,
+        "recordingDurationMs": 655060,
+        "bytes": 7861352,
+        "sha256": "a525402c2821d8eab90b42816102ca98cc62d5241cba3a74ae63e48916d2bdb6",
+        "sharedAyahs": [
+          "78:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 8299.49,
+            "end": 8954.54
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 61630,
+        "durationMs": 61630,
+        "recordingDurationMs": 61630,
+        "bytes": 740264,
+        "sha256": "aab70770746bf819d031a4f0d9bfd13b87661956c06fd38e52f9ac7ad1ced660",
+        "sharedAyahs": [
+          "78:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 8954.54,
+            "end": 9016.13
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 159380,
+        "durationMs": 159380,
+        "recordingDurationMs": 159380,
+        "bytes": 1913288,
+        "sha256": "5287210467bdf107b97f00234839340371c45c261dff43910c12c5f4f734b62a",
+        "sharedAyahs": [
+          "78:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 9016.13,
+            "end": 9175.5
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 153980,
+        "durationMs": 153980,
+        "recordingDurationMs": 153980,
+        "bytes": 1848488,
+        "sha256": "a757b285f9dbad751d73542496ce3989266071988598f195db989fb528f14118",
+        "sharedAyahs": [
+          "78:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 9175.5,
+            "end": 9329.46
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 551110,
+        "durationMs": 551110,
+        "recordingDurationMs": 551110,
+        "bytes": 6614024,
+        "sha256": "6e671da45f64045f10e67b9e3c30525e32db89bb316dc18dbe9c203812bc6c71",
+        "sharedAyahs": [
+          "78:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 9329.46,
+            "end": 9880.55
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 9960,
+        "durationMs": 9960,
+        "recordingDurationMs": 9960,
+        "bytes": 120200,
+        "sha256": "9169a71af9e74e5180c37267d4204a37902a21346237f3583e8c05a9069401fe",
+        "sharedAyahs": [
+          "78:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 9880.55,
+            "end": 9890.495
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 37340,
+        "durationMs": 37340,
+        "recordingDurationMs": 37340,
+        "bytes": 448808,
+        "sha256": "3157574fdea34cea5b4e6e0e5cedb89ac18848273229276794a2854e26f386ed",
+        "sharedAyahs": [
+          "78:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 9890.495,
+            "end": 9927.8
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 58180,
+        "durationMs": 58180,
+        "recordingDurationMs": 58180,
+        "bytes": 698792,
+        "sha256": "d3ac6ccac2d91b2efdd92c458438ba37a1d4ea1ce8b6051846e4b925023ea0ea",
+        "sharedAyahs": [
+          "78:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 9927.8,
+            "end": 9985.945
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 78860,
+        "durationMs": 78860,
+        "recordingDurationMs": 78860,
+        "bytes": 947048,
+        "sha256": "8852df75119ea2aeaab1dc5779351395fe97e0e1d76f51b39263088c34be5ea2",
+        "sharedAyahs": [
+          "78:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 9985.945,
+            "end": 10064.8
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 129190,
+        "durationMs": 129190,
+        "recordingDurationMs": 129190,
+        "bytes": 1550984,
+        "sha256": "e490bcf88e58ff01955312407ee5eb86869b9207182ad63dc97c8f492710b18a",
+        "sharedAyahs": [
+          "78:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 10064.8,
+            "end": 10193.97
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 128900,
+        "durationMs": 128900,
+        "recordingDurationMs": 128900,
+        "bytes": 1547528,
+        "sha256": "19f9dde82e00bfd59e61ff63da2790eca992da95d683f240826e5b9ecf6232ce",
+        "sharedAyahs": [
+          "78:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 10193.97,
+            "end": 10322.85
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 46460,
+        "durationMs": 46460,
+        "recordingDurationMs": 46460,
+        "bytes": 558248,
+        "sha256": "92c947330c5fca6a8707477f53b8d5e5ee14aa4bb1c81fb6f899f0f5af6d1d32",
+        "sharedAyahs": [
+          "78:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 10322.85,
+            "end": 10369.28
+          }
+        ]
+      },
+      {
+        "file": "078-النبأ-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 228070,
+        "durationMs": 228070,
+        "recordingDurationMs": 228070,
+        "bytes": 2737544,
+        "sha256": "2de068317c904a6d6f8cce6f33fb20333fc77c71de9eac2eb918476e50399b39",
+        "sharedAyahs": [
+          "78:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2EHnPisrm9k",
+            "start": 10369.28,
+            "end": 10597.37
+          }
+        ]
+      }
+    ],
+    "durationMs": 10598350,
+    "additionalAudioBytes": 0
+  }
+}
