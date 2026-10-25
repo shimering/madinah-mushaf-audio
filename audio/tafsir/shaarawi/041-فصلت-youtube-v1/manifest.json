@@ -1,0 +1,2219 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 41,
+  "surahName": "فصلت",
+  "ayahCount": 54,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 54,
+    "mappedAyahCount": 54,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "LBiO-y7ad84": {
+      "durationSeconds": 2623.27,
+      "bytes": 31479958,
+      "sha256": "901665c4a000ffd44ccfd73297ee89c9a3278ca13e0469b37b8224cedd55633b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-006_LBiO-y7ad84.mp3",
+      "url": "https://www.youtube.com/watch?v=LBiO-y7ad84"
+    },
+    "8mVEExH71yc": {
+      "durationSeconds": 2580.53,
+      "bytes": 30967032,
+      "sha256": "c28702fd2fa21c274eafc4193e04923f82e9b92d3f1673010bfb831d08a4c0c3",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_006-012_8mVEExH71yc.mp3",
+      "url": "https://www.youtube.com/watch?v=8mVEExH71yc"
+    },
+    "CuOBg47uTPU": {
+      "durationSeconds": 2635.27,
+      "bytes": 31623962,
+      "sha256": "f02af42cc4dde11461fbbd0966a259c4abafa398f42403aa8427785be1060554",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_012-020_CuOBg47uTPU.mp3",
+      "url": "https://www.youtube.com/watch?v=CuOBg47uTPU"
+    },
+    "-PmXt1n4n1o": {
+      "durationSeconds": 2585.83,
+      "bytes": 31030682,
+      "sha256": "d3e5ee6e5854c02b46f3f3dff74d75d0c7320fe206065cf960ab8b1a36f93d41",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_020-030_-PmXt1n4n1o.mp3",
+      "url": "https://www.youtube.com/watch?v=-PmXt1n4n1o"
+    },
+    "8F-Ag5YDy68": {
+      "durationSeconds": 2678.98,
+      "bytes": 32148405,
+      "sha256": "506c1be3389d9c5244d501f8a28d8ce18a64eccbcc4999c120eac14335c97d30",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_030-030_8F-Ag5YDy68.mp3",
+      "url": "https://www.youtube.com/watch?v=8F-Ag5YDy68"
+    },
+    "oUNveGeyYew": {
+      "durationSeconds": 2599.56,
+      "bytes": 31195418,
+      "sha256": "e04846f7865ea98fc8c0ce97e55d4df0183c7203f69b35af7a30bab9b373f8d8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_030-033_oUNveGeyYew.mp3",
+      "url": "https://www.youtube.com/watch?v=oUNveGeyYew"
+    },
+    "oHKm9rAhKCM": {
+      "durationSeconds": 2458.94,
+      "bytes": 29508026,
+      "sha256": "eed10518054d8efcaeafaa05114c494aae25ffb0d70a336f3435059fa6b9fa18",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_033-037_oHKm9rAhKCM.mp3",
+      "url": "https://www.youtube.com/watch?v=oHKm9rAhKCM"
+    },
+    "mf8Uh5PK3vI": {
+      "durationSeconds": 2577.82,
+      "bytes": 30934491,
+      "sha256": "992530506bae0d55a4c892e420c1fb4f17519499349cee6a17a794d459eb5958",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_037-040_mf8Uh5PK3vI.mp3",
+      "url": "https://www.youtube.com/watch?v=mf8Uh5PK3vI"
+    },
+    "c_5LrOYeqMQ": {
+      "durationSeconds": 2559.41,
+      "bytes": 30713594,
+      "sha256": "fdb87d6d11ef96996e963ef9743a0adfc26e392aaddf3ab2ffeb6a4285a25f03",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_040-044_c_5LrOYeqMQ.mp3",
+      "url": "https://www.youtube.com/watch?v=c_5LrOYeqMQ"
+    },
+    "fOu4XdQGE4k": {
+      "durationSeconds": 2660.74,
+      "bytes": 31929531,
+      "sha256": "50737d6c3b86d880e8a56a53b0a75f355e5eebc363b61c2f00a4cb4d2baf68a1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_044-053_fOu4XdQGE4k.mp3",
+      "url": "https://www.youtube.com/watch?v=fOu4XdQGE4k"
+    },
+    "tiwPqmFwB2Q": {
+      "durationSeconds": 2671.37,
+      "bytes": 32057115,
+      "sha256": "8b1ffbc1819261cb748cf5d88062316042fb44042e30bc922dd6ad5122dfbf60",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_043-054_tiwPqmFwB2Q.mp3",
+      "url": "https://www.youtube.com/watch?v=tiwPqmFwB2Q"
+    }
+  },
+  "ayahs": {
+    "41:1": {
+      "file": "041-فصلت-youtube-v1/001.mp3",
+      "durationMs": 5500,
+      "bytes": 66626,
+      "sha256": "82fe013bb59b764eb1e2f9e7886f288917dbb4d70669de69e6628b197b8f276e",
+      "sharedAyahs": [
+        "41:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LBiO-y7ad84",
+          "start": 24.49,
+          "end": 29.96
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: حم"
+    },
+    "41:2": {
+      "file": "041-فصلت-youtube-v1/002.mp3",
+      "durationMs": 1261750,
+      "bytes": 15141698,
+      "sha256": "6c349e9d58e05269903710b00fc2a3aa282b0873361da14dd9bac9d42435a2eb",
+      "sharedAyahs": [
+        "41:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LBiO-y7ad84",
+          "start": 29.96,
+          "end": 1291.69
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: تنزيل من الرحمن الرحيم"
+    },
+    "41:3": {
+      "file": "041-فصلت-youtube-v1/003.mp3",
+      "durationMs": 542350,
+      "bytes": 6508902,
+      "sha256": "0b329b0df8c79aeb1b003fa91e001f629a98d7ffccc5a196e71cd051b6d6cf3e",
+      "sharedAyahs": [
+        "41:3",
+        "41:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LBiO-y7ad84",
+          "start": 1291.69,
+          "end": 1834.02
+        }
+      ],
+      "reviewNote": "تفسير الآيات 3-4: كتاب فصلت آياته قرآنا عربيا... بشيرا ونذيرا"
+    },
+    "41:4": {
+      "file": "041-فصلت-youtube-v1/003.mp3",
+      "durationMs": 542350,
+      "bytes": 6508902,
+      "sha256": "0b329b0df8c79aeb1b003fa91e001f629a98d7ffccc5a196e71cd051b6d6cf3e",
+      "sharedAyahs": [
+        "41:3",
+        "41:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LBiO-y7ad84",
+          "start": 1291.69,
+          "end": 1834.02
+        }
+      ],
+      "reviewNote": "تفسير الآيات 3-4: كتاب فصلت آياته قرآنا عربيا... بشيرا ونذيرا"
+    },
+    "41:5": {
+      "file": "041-فصلت-youtube-v1/005.mp3",
+      "durationMs": 700800,
+      "bytes": 8410274,
+      "sha256": "75facff4dc2014fb763740815ec13fcbf99d4ace9e1ff9ddabd091e2c5b7d69b",
+      "sharedAyahs": [
+        "41:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LBiO-y7ad84",
+          "start": 1834.02,
+          "end": 2534.79
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: وقالوا قلوبنا في أكنة مما تدعونا إليه"
+    },
+    "41:6": {
+      "file": "041-فصلت-youtube-v1/006.mp3",
+      "durationMs": 415660,
+      "bytes": 4988291,
+      "sha256": "f10536dff0b3cce64a5d200bec0bd2ddcd2a18fb26ef3e0cd8161561cc33551c",
+      "sharedAyahs": [
+        "41:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LBiO-y7ad84",
+          "start": 2534.79,
+          "end": 2622.83
+        },
+        {
+          "source": "8mVEExH71yc",
+          "start": 0.11,
+          "end": 327.69
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: قل إنما أنا بشر مثلكم يوحى إلي"
+    },
+    "41:7": {
+      "file": "041-فصلت-youtube-v1/007.mp3",
+      "durationMs": 740810,
+      "bytes": 8890370,
+      "sha256": "18e4732316161cabda2fe300dcf707068be55c13c0ccf302263d828688521ce2",
+      "sharedAyahs": [
+        "41:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8mVEExH71yc",
+          "start": 327.69,
+          "end": 1068.47
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: الذين لا يؤتون الزكاة وهم بالآخرة هم كافرون"
+    },
+    "41:8": {
+      "file": "041-فصلت-youtube-v1/008.mp3",
+      "durationMs": 160220,
+      "bytes": 1923362,
+      "sha256": "086fb065161108b0f80ba6e6d01b670d7c1c2e83b542e577144795d81aefc314",
+      "sharedAyahs": [
+        "41:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8mVEExH71yc",
+          "start": 1068.47,
+          "end": 1228.68
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: إن الذين آمنوا وعملوا الصالحات لهم أجر غير ممنون"
+    },
+    "41:9": {
+      "file": "041-فصلت-youtube-v1/009.mp3",
+      "durationMs": 169130,
+      "bytes": 2030210,
+      "sha256": "5f028c49c416c2e5fa78c30c0ae6836b56e3563499c1e81a9f5cc0bfd6737ffa",
+      "sharedAyahs": [
+        "41:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8mVEExH71yc",
+          "start": 1228.68,
+          "end": 1397.77
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: قل أئنكم لتكفرون بالذي خلق الأرض في يومين"
+    },
+    "41:10": {
+      "file": "041-فصلت-youtube-v1/010.mp3",
+      "durationMs": 210820,
+      "bytes": 2530468,
+      "sha256": "f69c551a0a6bebfc55e15c444a632cb2f756451c540958459688b7f9cf9e4ddf",
+      "sharedAyahs": [
+        "41:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8mVEExH71yc",
+          "start": 1397.77,
+          "end": 1608.56
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: وجعل فيها رواسي من فوقها وبارك فيها"
+    },
+    "41:11": {
+      "file": "041-فصلت-youtube-v1/011.mp3",
+      "durationMs": 2114450,
+      "bytes": 25373802,
+      "sha256": "986da1e6f55f9199c5b15f59267c46fcd99814c15eec48f5ccb228679377ca21",
+      "sharedAyahs": [
+        "41:11",
+        "41:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8mVEExH71yc",
+          "start": 1608.56,
+          "end": 2578.96
+        },
+        {
+          "source": "CuOBg47uTPU",
+          "start": 0.34,
+          "end": 1144.36
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-12: ثم استوى إلى السماء وهي دخان... فقضاهن سبع سماوات في يومين"
+    },
+    "41:12": {
+      "file": "041-فصلت-youtube-v1/011.mp3",
+      "durationMs": 2114450,
+      "bytes": 25373802,
+      "sha256": "986da1e6f55f9199c5b15f59267c46fcd99814c15eec48f5ccb228679377ca21",
+      "sharedAyahs": [
+        "41:11",
+        "41:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "8mVEExH71yc",
+          "start": 1608.56,
+          "end": 2578.96
+        },
+        {
+          "source": "CuOBg47uTPU",
+          "start": 0.34,
+          "end": 1144.36
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-12: ثم استوى إلى السماء وهي دخان... فقضاهن سبع سماوات في يومين"
+    },
+    "41:13": {
+      "file": "041-فصلت-youtube-v1/013.mp3",
+      "durationMs": 305280,
+      "bytes": 3664041,
+      "sha256": "3f8fdefffc6a2475816a853877cdfaf800c2c4f7f2eb3c8633f5b548c4ecb1f2",
+      "sharedAyahs": [
+        "41:13",
+        "41:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CuOBg47uTPU",
+          "start": 1144.36,
+          "end": 1449.61
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-14: فإن أعرضوا فقل أنذرتكم صاعقة مثل صاعقة عاد وثمود"
+    },
+    "41:14": {
+      "file": "041-فصلت-youtube-v1/013.mp3",
+      "durationMs": 305280,
+      "bytes": 3664041,
+      "sha256": "3f8fdefffc6a2475816a853877cdfaf800c2c4f7f2eb3c8633f5b548c4ecb1f2",
+      "sharedAyahs": [
+        "41:13",
+        "41:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CuOBg47uTPU",
+          "start": 1144.36,
+          "end": 1449.61
+        }
+      ],
+      "reviewNote": "تفسير الآيات 13-14: فإن أعرضوا فقل أنذرتكم صاعقة مثل صاعقة عاد وثمود"
+    },
+    "41:15": {
+      "file": "041-فصلت-youtube-v1/015.mp3",
+      "durationMs": 87310,
+      "bytes": 1048420,
+      "sha256": "7779be85bc51e3a8e07ae0fbb865355838530a9b5fefb1a8afdc2ab6344810c3",
+      "sharedAyahs": [
+        "41:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CuOBg47uTPU",
+          "start": 1449.61,
+          "end": 1536.91
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: فأما عاد فاستكبروا في الأرض بغير الحق"
+    },
+    "41:16": {
+      "file": "041-فصلت-youtube-v1/016.mp3",
+      "durationMs": 392640,
+      "bytes": 4712356,
+      "sha256": "4690d8f2c61ac81df2f2076298b8bcb7a4579919483bbfe2458ee661d8955a47",
+      "sharedAyahs": [
+        "41:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CuOBg47uTPU",
+          "start": 1536.91,
+          "end": 1929.52
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: فأرسلنا عليهم ريحا صرصرا في أيام نحسات"
+    },
+    "41:17": {
+      "file": "041-فصلت-youtube-v1/017.mp3",
+      "durationMs": 372100,
+      "bytes": 4465828,
+      "sha256": "8d96f96947e2fbefc6ec788a73371a0b607cfcb625f8ad93ac53ae858eed9b29",
+      "sharedAyahs": [
+        "41:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CuOBg47uTPU",
+          "start": 1929.52,
+          "end": 2301.58
+        }
+      ],
+      "reviewNote": "تفسير الآية 17: وأما ثمود فهديناهم فاستحبوا العمى على الهدى"
+    },
+    "41:18": {
+      "file": "041-فصلت-youtube-v1/018.mp3",
+      "durationMs": 173020,
+      "bytes": 2076873,
+      "sha256": "fe79cfc62a80635ef88088e9f84d6f1a97615b1893ab6ed3de620a8cb4e544bb",
+      "sharedAyahs": [
+        "41:18",
+        "41:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CuOBg47uTPU",
+          "start": 2301.58,
+          "end": 2474.57
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-19: ونجينا الذين آمنوا وكانوا يتقون... ويوم يحشر أعداء الله إلى النار"
+    },
+    "41:19": {
+      "file": "041-فصلت-youtube-v1/018.mp3",
+      "durationMs": 173020,
+      "bytes": 2076873,
+      "sha256": "fe79cfc62a80635ef88088e9f84d6f1a97615b1893ab6ed3de620a8cb4e544bb",
+      "sharedAyahs": [
+        "41:18",
+        "41:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CuOBg47uTPU",
+          "start": 2301.58,
+          "end": 2474.57
+        }
+      ],
+      "reviewNote": "تفسير الآيات 18-19: ونجينا الذين آمنوا وكانوا يتقون... ويوم يحشر أعداء الله إلى النار"
+    },
+    "41:20": {
+      "file": "041-فصلت-youtube-v1/020.mp3",
+      "durationMs": 257950,
+      "bytes": 3095845,
+      "sha256": "1da8cf081596cc9c3d6b11680713c5e5b4ede3ed7825cf4f33b135a068cb47ed",
+      "sharedAyahs": [
+        "41:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CuOBg47uTPU",
+          "start": 2474.57,
+          "end": 2634.51
+        },
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 0.43,
+          "end": 98.4
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: حتى إذا ما جاءوها شهد عليهم سمعهم وأبصارهم وجلودهم بما كانوا يعملون"
+    },
+    "41:21": {
+      "file": "041-فصلت-youtube-v1/021.mp3",
+      "durationMs": 527140,
+      "bytes": 6326308,
+      "sha256": "36b208cf058d8719c2556a6149e5e065345ccac68ec419151b51d8e90a9aded7",
+      "sharedAyahs": [
+        "41:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 98.4,
+          "end": 625.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 21: وقالوا لجلودهم لم شهدتم علينا قالوا أنطقنا الله الذي أنطق كل شيء"
+    },
+    "41:22": {
+      "file": "041-فصلت-youtube-v1/022.mp3",
+      "durationMs": 47760,
+      "bytes": 573796,
+      "sha256": "b33166fe2cc673a6ec8d6fe138477c9e9ea4749dd2b25387aff1b7d8aa1a4125",
+      "sharedAyahs": [
+        "41:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 625.5,
+          "end": 673.23
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: وما كنتم تستترون أن يشهد عليكم سمعكم ولا أبصاركم ولا جلودكم"
+    },
+    "41:23": {
+      "file": "041-فصلت-youtube-v1/023.mp3",
+      "durationMs": 248260,
+      "bytes": 2979753,
+      "sha256": "da4fac8a291a5c1d44cce8ca696a90e9e4d43290e0eaa2a97ded16a636bd3471",
+      "sharedAyahs": [
+        "41:23",
+        "41:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 673.23,
+          "end": 921.48
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-24: وذلكم ظنكم الذي ظننتم بربكم أرداكم... وإن يستعتبوا فما هم من المعتبين"
+    },
+    "41:24": {
+      "file": "041-فصلت-youtube-v1/023.mp3",
+      "durationMs": 248260,
+      "bytes": 2979753,
+      "sha256": "da4fac8a291a5c1d44cce8ca696a90e9e4d43290e0eaa2a97ded16a636bd3471",
+      "sharedAyahs": [
+        "41:23",
+        "41:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 673.23,
+          "end": 921.48
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-24: وذلكم ظنكم الذي ظننتم بربكم أرداكم... وإن يستعتبوا فما هم من المعتبين"
+    },
+    "41:25": {
+      "file": "041-فصلت-youtube-v1/025.mp3",
+      "durationMs": 48860,
+      "bytes": 587044,
+      "sha256": "c53ccb1f4d95b78680a8aeb7a052efbbe2f8848cc345f2e454ce07089d989c99",
+      "sharedAyahs": [
+        "41:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 921.48,
+          "end": 970.31
+        }
+      ],
+      "reviewNote": "تفسير الآية 25: وقيضنا لهم قرناء فزينوا لهم ما بين أيديهم وما خلفهم"
+    },
+    "41:26": {
+      "file": "041-فصلت-youtube-v1/026.mp3",
+      "durationMs": 556420,
+      "bytes": 6677668,
+      "sha256": "028031d157a5fdab9272f949dd5abc3fd9077292130a93d740752c300ef2a148",
+      "sharedAyahs": [
+        "41:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 970.31,
+          "end": 1526.69
+        }
+      ],
+      "reviewNote": "تفسير الآية 26: وقال الذين كفروا لا تسمعوا لهذا القرآن والغوا فيه لعلكم تغلبون"
+    },
+    "41:27": {
+      "file": "041-فصلت-youtube-v1/027.mp3",
+      "durationMs": 238250,
+      "bytes": 2859657,
+      "sha256": "502a48afb785b0f48ae1263c0b66f681e220089de06a3c435c9d255598d67ac1",
+      "sharedAyahs": [
+        "41:27",
+        "41:28",
+        "41:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 1526.69,
+          "end": 1764.92
+        }
+      ],
+      "reviewNote": "تفسير الآيات 27-29: فلنذيقن الذين كفروا عذابا شديدا... ذلك جزاء أعداء الله النار"
+    },
+    "41:28": {
+      "file": "041-فصلت-youtube-v1/027.mp3",
+      "durationMs": 238250,
+      "bytes": 2859657,
+      "sha256": "502a48afb785b0f48ae1263c0b66f681e220089de06a3c435c9d255598d67ac1",
+      "sharedAyahs": [
+        "41:27",
+        "41:28",
+        "41:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 1526.69,
+          "end": 1764.92
+        }
+      ],
+      "reviewNote": "تفسير الآيات 27-29: فلنذيقن الذين كفروا عذابا شديدا... ذلك جزاء أعداء الله النار"
+    },
+    "41:29": {
+      "file": "041-فصلت-youtube-v1/027.mp3",
+      "durationMs": 238250,
+      "bytes": 2859657,
+      "sha256": "502a48afb785b0f48ae1263c0b66f681e220089de06a3c435c9d255598d67ac1",
+      "sharedAyahs": [
+        "41:27",
+        "41:28",
+        "41:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 1526.69,
+          "end": 1764.92
+        }
+      ],
+      "reviewNote": "تفسير الآيات 27-29: فلنذيقن الذين كفروا عذابا شديدا... ذلك جزاء أعداء الله النار"
+    },
+    "41:30": {
+      "file": "041-فصلت-youtube-v1/030.mp3",
+      "durationMs": 5127600,
+      "bytes": 61531621,
+      "sha256": "1309a678e5a722c6c985c909bd387b059902f806861bbce55276e80a42686a90",
+      "sharedAyahs": [
+        "41:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PmXt1n4n1o",
+          "start": 1764.92,
+          "end": 2585.2
+        },
+        {
+          "source": "8F-Ag5YDy68",
+          "start": 0.3,
+          "end": 2678.39
+        },
+        {
+          "source": "oUNveGeyYew",
+          "start": 0.14,
+          "end": 1629.29
+        }
+      ],
+      "reviewNote": "تفسير الآية 30: إن الذين قالوا ربنا الله ثم استقاموا تتنزل عليهم الملائكة"
+    },
+    "41:31": {
+      "file": "041-فصلت-youtube-v1/031.mp3",
+      "durationMs": 516980,
+      "bytes": 6204484,
+      "sha256": "b2a76e757c53c39a38956c9d68299c1ad6b38cd0515eabf30dd60bf5db1de878",
+      "sharedAyahs": [
+        "41:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oUNveGeyYew",
+          "start": 1629.29,
+          "end": 2146.26
+        }
+      ],
+      "reviewNote": "تفسير الآية 31: نحن أولياؤكم في الحياة الدنيا وفي الآخرة"
+    },
+    "41:32": {
+      "file": "041-فصلت-youtube-v1/032.mp3",
+      "durationMs": 2980,
+      "bytes": 36388,
+      "sha256": "72f858001cea3251296232337f5d0901c873f5dcebeb0e9d8eabf84e0bf6f28a",
+      "sharedAyahs": [
+        "41:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oUNveGeyYew",
+          "start": 2146.26,
+          "end": 2149.22
+        }
+      ],
+      "reviewNote": "تفسير الآية 32: نزلا من غفور رحيم"
+    },
+    "41:33": {
+      "file": "041-فصلت-youtube-v1/033.mp3",
+      "durationMs": 1684850,
+      "bytes": 20218597,
+      "sha256": "543a277fc7f3b6bb772318900d7d8dd8c43a0fe58f4bb48b07a3f4cbd400aec9",
+      "sharedAyahs": [
+        "41:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oUNveGeyYew",
+          "start": 2149.22,
+          "end": 2598.52
+        },
+        {
+          "source": "oHKm9rAhKCM",
+          "start": 0.72,
+          "end": 1236.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 33: ومن أحسن قولا ممن دعا إلى الله وعمل صالحا وقال إنني من المسلمين"
+    },
+    "41:34": {
+      "file": "041-فصلت-youtube-v1/034.mp3",
+      "durationMs": 349010,
+      "bytes": 4188772,
+      "sha256": "abc2818761615a8ffa91c3d3cc8f328447b9e8829ea259e55e6f8ca7160f03ba",
+      "sharedAyahs": [
+        "41:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oHKm9rAhKCM",
+          "start": 1236.2,
+          "end": 1585.18
+        }
+      ],
+      "reviewNote": "تفسير الآية 34: ولا تستوي الحسنة ولا السيئة ادفع بالتي هي أحسن"
+    },
+    "41:35": {
+      "file": "041-فصلت-youtube-v1/035.mp3",
+      "durationMs": 267650,
+      "bytes": 3212452,
+      "sha256": "43f2c9bc5f4a4cb2e9790fc4932a99920be7f79a9553d30a99cfd57c5bb35f2f",
+      "sharedAyahs": [
+        "41:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oHKm9rAhKCM",
+          "start": 1585.18,
+          "end": 1852.82
+        }
+      ],
+      "reviewNote": "تفسير الآية 35: وما يلقاها إلا الذين صبروا وما يلقاها إلا ذو حظ عظيم"
+    },
+    "41:36": {
+      "file": "041-فصلت-youtube-v1/036.mp3",
+      "durationMs": 605300,
+      "bytes": 7264324,
+      "sha256": "db60b0eca3dbade6a219d2b459dab5bb0358834ef8104693335fff2283e65b9d",
+      "sharedAyahs": [
+        "41:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oHKm9rAhKCM",
+          "start": 1852.82,
+          "end": 2458.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 36: وإما ينزغنك من الشيطان نزغ فاستعذ بالله إنه هو السميع العليم"
+    },
+    "41:37": {
+      "file": "041-فصلت-youtube-v1/037.mp3",
+      "durationMs": 1654820,
+      "bytes": 19858564,
+      "sha256": "dcc4359496c1b82b64b11aeb4bdd1babcc1cb486e325c15afffab8ad303d9603",
+      "sharedAyahs": [
+        "41:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mf8Uh5PK3vI",
+          "start": 0.56,
+          "end": 1655.37
+        }
+      ],
+      "reviewNote": "تفسير الآية 37: ومن آياته الليل والنهار والشمس والقمر لا تسجدوا للشمس ولا للقمر"
+    },
+    "41:38": {
+      "file": "041-فصلت-youtube-v1/038.mp3",
+      "durationMs": 476880,
+      "bytes": 5723236,
+      "sha256": "3016cfab48049d02e972c985b6905fbbce13b07f97cfede5879af4fc42768133",
+      "sharedAyahs": [
+        "41:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mf8Uh5PK3vI",
+          "start": 1655.37,
+          "end": 2132.21
+        }
+      ],
+      "reviewNote": "تفسير الآية 38: فإن استكبروا فالذين عند ربك يسبحون له بالليل والنهار وهم لا يسأمون"
+    },
+    "41:39": {
+      "file": "041-فصلت-youtube-v1/039.mp3",
+      "durationMs": 357620,
+      "bytes": 4292164,
+      "sha256": "fa6fb8df2508c6c06d9e51995b9b18f8b64348472055152041b926b4e01e4410",
+      "sharedAyahs": [
+        "41:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mf8Uh5PK3vI",
+          "start": 2132.21,
+          "end": 2489.83
+        }
+      ],
+      "reviewNote": "تفسير الآية 39: ومن آياته أنك ترى الأرض خاشعة فإذا أنزلنا عليها الماء اهتزت وربت"
+    },
+    "41:40": {
+      "file": "041-فصلت-youtube-v1/040.mp3",
+      "durationMs": 820730,
+      "bytes": 9849157,
+      "sha256": "e443e7b3206e2e4991827596ce8078dcc194937ccb55fee9dbde7eac1de19696",
+      "sharedAyahs": [
+        "41:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mf8Uh5PK3vI",
+          "start": 2489.83,
+          "end": 2576.67
+        },
+        {
+          "source": "c_5LrOYeqMQ",
+          "start": 2.48,
+          "end": 736.32
+        }
+      ],
+      "reviewNote": "تفسير الآية 40: إن الذين يلحدون في آياتنا لا يخفون علينا أفمن يلقى في النار خير"
+    },
+    "41:41": {
+      "file": "041-فصلت-youtube-v1/041.mp3",
+      "durationMs": 357360,
+      "bytes": 4288996,
+      "sha256": "5a2a768d444bc34cf2a81025cb352f9cbec5df993db4026a3bf31bbc69452172",
+      "sharedAyahs": [
+        "41:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "c_5LrOYeqMQ",
+          "start": 736.32,
+          "end": 1093.65
+        }
+      ],
+      "reviewNote": "تفسير الآية 41: إن الذين كفروا بالذكر لما جاءهم وإنه لكتاب عزيز"
+    },
+    "41:42": {
+      "file": "041-فصلت-youtube-v1/042.mp3",
+      "durationMs": 917330,
+      "bytes": 11008612,
+      "sha256": "b3c4afa0d9cbcdc6838ff379e600cb17e3fec7ed9c438d1bbf78b66963c89054",
+      "sharedAyahs": [
+        "41:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "c_5LrOYeqMQ",
+          "start": 1093.65,
+          "end": 2010.94
+        }
+      ],
+      "reviewNote": "تفسير الآية 42: لا يأتيه الباطل من بين يديه ولا من خلفه تنزيل من حكيم حميد"
+    },
+    "41:43": {
+      "file": "041-فصلت-youtube-v1/043.mp3",
+      "durationMs": 367820,
+      "bytes": 4414564,
+      "sha256": "6c400f0c42b349de17c43c69c97d8f1be1e33ee61bb82d21ce1089a82c89a50b",
+      "sharedAyahs": [
+        "41:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "c_5LrOYeqMQ",
+          "start": 2010.94,
+          "end": 2378.75
+        }
+      ],
+      "reviewNote": "تفسير الآية 43: ما يقال لك إلا ما قد قيل للرسل من قبلك إن ربك لذو مغفرة"
+    },
+    "41:44": {
+      "file": "041-فصلت-youtube-v1/044.mp3",
+      "durationMs": 274130,
+      "bytes": 3289957,
+      "sha256": "33cf6db354ab1acef2a3e949e9c0491e97ca974c10166ffd260fe61d7e080c90",
+      "sharedAyahs": [
+        "41:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "c_5LrOYeqMQ",
+          "start": 2378.75,
+          "end": 2557.42
+        },
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 0.66,
+          "end": 96.05
+        }
+      ],
+      "reviewNote": "تفسير الآية 44: ولو جعلناه قرآنا أعجميا لقالوا لولا فصلت آياته أأعجمي وعربي"
+    },
+    "41:45": {
+      "file": "041-فصلت-youtube-v1/045.mp3",
+      "durationMs": 412220,
+      "bytes": 4947364,
+      "sha256": "10f9aa931876448c82e07747f1df31b9ebc9d1f0ba111cfc182ec7106abf1272",
+      "sharedAyahs": [
+        "41:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 96.05,
+          "end": 508.26
+        }
+      ],
+      "reviewNote": "تفسير الآية 45: ولقد آتينا موسى الكتاب فاختلف فيه ولولا كلمة سبقت من ربك لقضي بينهم"
+    },
+    "41:46": {
+      "file": "041-فصلت-youtube-v1/046.mp3",
+      "durationMs": 364220,
+      "bytes": 4371364,
+      "sha256": "e9e755e9e2fac7ad175e720f8c4f4e4bba05b8f67f30f3664abadfa00172b63e",
+      "sharedAyahs": [
+        "41:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 508.26,
+          "end": 872.45
+        }
+      ],
+      "reviewNote": "تفسير الآية 46: من عمل صالحا فلنفسه ومن أساء فعليها وما ربك بظلام للعبيد"
+    },
+    "41:47": {
+      "file": "041-فصلت-youtube-v1/047.mp3",
+      "durationMs": 722380,
+      "bytes": 8669193,
+      "sha256": "c54f4c158d4110b0eac3d56532075a12e06e7edd531818970f68ac7f5de311ce",
+      "sharedAyahs": [
+        "41:47",
+        "41:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 872.45,
+          "end": 1594.82
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-48: إليه يرد علم الساعة وما تخرج من ثمرات من أكمامها... وظنوا ما لهم من محيص"
+    },
+    "41:48": {
+      "file": "041-فصلت-youtube-v1/047.mp3",
+      "durationMs": 722380,
+      "bytes": 8669193,
+      "sha256": "c54f4c158d4110b0eac3d56532075a12e06e7edd531818970f68ac7f5de311ce",
+      "sharedAyahs": [
+        "41:47",
+        "41:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 872.45,
+          "end": 1594.82
+        }
+      ],
+      "reviewNote": "تفسير الآيات 47-48: إليه يرد علم الساعة وما تخرج من ثمرات من أكمامها... وظنوا ما لهم من محيص"
+    },
+    "41:49": {
+      "file": "041-فصلت-youtube-v1/049.mp3",
+      "durationMs": 379870,
+      "bytes": 4559140,
+      "sha256": "4d1c1f0346ae16d43462ba567ec5b83b91c2757e04d736eb5897213f278dfcfe",
+      "sharedAyahs": [
+        "41:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 1594.82,
+          "end": 1974.66
+        }
+      ],
+      "reviewNote": "تفسير الآية 49: لا يسأم الإنسان من دعاء الخير وإن مسه الشر فيئوس قنوط"
+    },
+    "41:50": {
+      "file": "041-فصلت-youtube-v1/050.mp3",
+      "durationMs": 265420,
+      "bytes": 3185668,
+      "sha256": "c30e489cc304c153bb1b70e91fec3bcb75c25886e6c52a7c558c91935c78815a",
+      "sharedAyahs": [
+        "41:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 1974.66,
+          "end": 2240.06
+        }
+      ],
+      "reviewNote": "تفسير الآية 50: ولئن أذقناه رحمة منا من بعد ضراء مسته ليقولن هذا لي"
+    },
+    "41:51": {
+      "file": "041-فصلت-youtube-v1/051.mp3",
+      "durationMs": 176880,
+      "bytes": 2123236,
+      "sha256": "c136249d39359e1d961bf1444f5fb3dab35039a3d6413f21a746c6aad06069db",
+      "sharedAyahs": [
+        "41:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 2240.06,
+          "end": 2416.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 51: وإذا أنعمنا على الإنسان أعرض ونأى بجانبه وإذا مسه الشر فذو دعاء عريض"
+    },
+    "41:52": {
+      "file": "041-فصلت-youtube-v1/052.mp3",
+      "durationMs": 173500,
+      "bytes": 2082628,
+      "sha256": "893a2b3defe6b76957dc75be0e6266968c30d62ed7485cd0ea59a3bbb27117b8",
+      "sharedAyahs": [
+        "41:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 2416.9,
+          "end": 2590.39
+        }
+      ],
+      "reviewNote": "تفسير الآية 52: قل أرأيتم إن كان من عند الله ثم كفرتم به من أضل ممن هو في شقاق بعيد"
+    },
+    "41:53": {
+      "file": "041-فصلت-youtube-v1/053.mp3",
+      "durationMs": 2236440,
+      "bytes": 26837701,
+      "sha256": "9c44e635c8da9147b6ce7407bba9d4d5f56faf1ce47d8e4fa6f7d9b057359b96",
+      "sharedAyahs": [
+        "41:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fOu4XdQGE4k",
+          "start": 2590.39,
+          "end": 2659.97
+        },
+        {
+          "source": "tiwPqmFwB2Q",
+          "start": 22.42,
+          "end": 2189.23
+        }
+      ],
+      "reviewNote": "تفسير الآية 53: سنريهم آياتنا في الآفاق وفي أنفسهم حتى يتبين لهم أنه الحق"
+    },
+    "41:54": {
+      "file": "041-فصلت-youtube-v1/054.mp3",
+      "durationMs": 481130,
+      "bytes": 5774212,
+      "sha256": "d77ed465ff9ff45d0bcec238bde92d8d9a2e74ebadb8f3a7e93b3950c97222ea",
+      "sharedAyahs": [
+        "41:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tiwPqmFwB2Q",
+          "start": 2189.23,
+          "end": 2670.33
+        }
+      ],
+      "reviewNote": "تفسير الآية 54: ألا إنهم في مرية من لقاء ربهم ألا إنه بكل شيء محيط"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7D7331035FD838C8",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "fussilat-creation-earth-heavens",
+      "title": "خلق الأرض والسموات السبع ودلالات القدرة الإلهية",
+      "file": "041-فصلت-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 169089
+    },
+    {
+      "id": "fussilat-ad-thamud-warning",
+      "title": "عبرة الأمم السابقة: عاد وثمود وسنن الاستدراج والهلاك",
+      "file": "041-فصلت-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 305250
+    },
+    {
+      "id": "fussilat-body-testimony-judgment",
+      "title": "شهادة الجوارح والجلود على الإنسان يوم الحساب",
+      "file": "041-فصلت-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 527100
+    },
+    {
+      "id": "fussilat-angels-steadfast-believers",
+      "title": "بشارة الملائكة لأهل الاستقامة عند الموت وفي الآخرة",
+      "file": "041-فصلت-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 5127600
+    },
+    {
+      "id": "fussilat-calling-to-allah-good-conduct",
+      "title": "الدعوة إلى الله وأدب دفع السيئة بالتي هي أحسن",
+      "file": "041-فصلت-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 1684780
+    },
+    {
+      "id": "fussilat-cosmic-and-inner-signs",
+      "title": "آيات الله في الآفاق وفي الأنفس وتجليات الحق",
+      "file": "041-فصلت-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 2236390
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "LBiO-y7ad84",
+      "8mVEExH71yc",
+      "CuOBg47uTPU",
+      "-PmXt1n4n1o",
+      "8F-Ag5YDy68",
+      "oUNveGeyYew",
+      "oHKm9rAhKCM",
+      "mf8Uh5PK3vI",
+      "c_5LrOYeqMQ",
+      "fOu4XdQGE4k",
+      "tiwPqmFwB2Q"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "041-فصلت-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 5500,
+        "durationMs": 5500,
+        "recordingDurationMs": 5500,
+        "bytes": 66626,
+        "sha256": "82fe013bb59b764eb1e2f9e7886f288917dbb4d70669de69e6628b197b8f276e",
+        "sharedAyahs": [
+          "41:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LBiO-y7ad84",
+            "start": 24.49,
+            "end": 29.96
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 1261750,
+        "durationMs": 1261750,
+        "recordingDurationMs": 1261750,
+        "bytes": 15141698,
+        "sha256": "6c349e9d58e05269903710b00fc2a3aa282b0873361da14dd9bac9d42435a2eb",
+        "sharedAyahs": [
+          "41:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LBiO-y7ad84",
+            "start": 29.96,
+            "end": 1291.69
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 542350,
+        "durationMs": 542350,
+        "recordingDurationMs": 542350,
+        "bytes": 6508902,
+        "sha256": "0b329b0df8c79aeb1b003fa91e001f629a98d7ffccc5a196e71cd051b6d6cf3e",
+        "sharedAyahs": [
+          "41:3",
+          "41:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LBiO-y7ad84",
+            "start": 1291.69,
+            "end": 1834.02
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 700800,
+        "durationMs": 700800,
+        "recordingDurationMs": 700800,
+        "bytes": 8410274,
+        "sha256": "75facff4dc2014fb763740815ec13fcbf99d4ace9e1ff9ddabd091e2c5b7d69b",
+        "sharedAyahs": [
+          "41:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LBiO-y7ad84",
+            "start": 1834.02,
+            "end": 2534.79
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 88045,
+        "durationMs": 88045,
+        "recordingDurationMs": 415660,
+        "bytes": 4988291,
+        "sha256": "f10536dff0b3cce64a5d200bec0bd2ddcd2a18fb26ef3e0cd8161561cc33551c",
+        "sharedAyahs": [
+          "41:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LBiO-y7ad84",
+            "start": 2534.79,
+            "end": 2622.83
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/006.mp3",
+        "startMs": 88045,
+        "endMs": 415660,
+        "durationMs": 327615,
+        "recordingDurationMs": 415660,
+        "bytes": 4988291,
+        "sha256": "f10536dff0b3cce64a5d200bec0bd2ddcd2a18fb26ef3e0cd8161561cc33551c",
+        "sharedAyahs": [
+          "41:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8mVEExH71yc",
+            "start": 0.11,
+            "end": 327.69
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 740810,
+        "durationMs": 740810,
+        "recordingDurationMs": 740810,
+        "bytes": 8890370,
+        "sha256": "18e4732316161cabda2fe300dcf707068be55c13c0ccf302263d828688521ce2",
+        "sharedAyahs": [
+          "41:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8mVEExH71yc",
+            "start": 327.69,
+            "end": 1068.47
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 160220,
+        "durationMs": 160220,
+        "recordingDurationMs": 160220,
+        "bytes": 1923362,
+        "sha256": "086fb065161108b0f80ba6e6d01b670d7c1c2e83b542e577144795d81aefc314",
+        "sharedAyahs": [
+          "41:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8mVEExH71yc",
+            "start": 1068.47,
+            "end": 1228.68
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 169130,
+        "durationMs": 169130,
+        "recordingDurationMs": 169130,
+        "bytes": 2030210,
+        "sha256": "5f028c49c416c2e5fa78c30c0ae6836b56e3563499c1e81a9f5cc0bfd6737ffa",
+        "sharedAyahs": [
+          "41:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8mVEExH71yc",
+            "start": 1228.68,
+            "end": 1397.77
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 210820,
+        "durationMs": 210820,
+        "recordingDurationMs": 210820,
+        "bytes": 2530468,
+        "sha256": "f69c551a0a6bebfc55e15c444a632cb2f756451c540958459688b7f9cf9e4ddf",
+        "sharedAyahs": [
+          "41:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8mVEExH71yc",
+            "start": 1397.77,
+            "end": 1608.56
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 970405,
+        "durationMs": 970405,
+        "recordingDurationMs": 2114450,
+        "bytes": 25373802,
+        "sha256": "986da1e6f55f9199c5b15f59267c46fcd99814c15eec48f5ccb228679377ca21",
+        "sharedAyahs": [
+          "41:11",
+          "41:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8mVEExH71yc",
+            "start": 1608.56,
+            "end": 2578.96
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/011.mp3",
+        "startMs": 970405,
+        "endMs": 2114450,
+        "durationMs": 1144045,
+        "recordingDurationMs": 2114450,
+        "bytes": 25373802,
+        "sha256": "986da1e6f55f9199c5b15f59267c46fcd99814c15eec48f5ccb228679377ca21",
+        "sharedAyahs": [
+          "41:11",
+          "41:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CuOBg47uTPU",
+            "start": 0.34,
+            "end": 1144.36
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 305280,
+        "durationMs": 305280,
+        "recordingDurationMs": 305280,
+        "bytes": 3664041,
+        "sha256": "3f8fdefffc6a2475816a853877cdfaf800c2c4f7f2eb3c8633f5b548c4ecb1f2",
+        "sharedAyahs": [
+          "41:13",
+          "41:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CuOBg47uTPU",
+            "start": 1144.36,
+            "end": 1449.61
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 87310,
+        "durationMs": 87310,
+        "recordingDurationMs": 87310,
+        "bytes": 1048420,
+        "sha256": "7779be85bc51e3a8e07ae0fbb865355838530a9b5fefb1a8afdc2ab6344810c3",
+        "sharedAyahs": [
+          "41:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CuOBg47uTPU",
+            "start": 1449.61,
+            "end": 1536.91
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 392640,
+        "durationMs": 392640,
+        "recordingDurationMs": 392640,
+        "bytes": 4712356,
+        "sha256": "4690d8f2c61ac81df2f2076298b8bcb7a4579919483bbfe2458ee661d8955a47",
+        "sharedAyahs": [
+          "41:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CuOBg47uTPU",
+            "start": 1536.91,
+            "end": 1929.52
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 372100,
+        "durationMs": 372100,
+        "recordingDurationMs": 372100,
+        "bytes": 4465828,
+        "sha256": "8d96f96947e2fbefc6ec788a73371a0b607cfcb625f8ad93ac53ae858eed9b29",
+        "sharedAyahs": [
+          "41:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CuOBg47uTPU",
+            "start": 1929.52,
+            "end": 2301.58
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 173020,
+        "durationMs": 173020,
+        "recordingDurationMs": 173020,
+        "bytes": 2076873,
+        "sha256": "fe79cfc62a80635ef88088e9f84d6f1a97615b1893ab6ed3de620a8cb4e544bb",
+        "sharedAyahs": [
+          "41:18",
+          "41:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CuOBg47uTPU",
+            "start": 2301.58,
+            "end": 2474.57
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 159949,
+        "durationMs": 159949,
+        "recordingDurationMs": 257950,
+        "bytes": 3095845,
+        "sha256": "1da8cf081596cc9c3d6b11680713c5e5b4ede3ed7825cf4f33b135a068cb47ed",
+        "sharedAyahs": [
+          "41:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CuOBg47uTPU",
+            "start": 2474.57,
+            "end": 2634.51
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/020.mp3",
+        "startMs": 159949,
+        "endMs": 257950,
+        "durationMs": 98001,
+        "recordingDurationMs": 257950,
+        "bytes": 3095845,
+        "sha256": "1da8cf081596cc9c3d6b11680713c5e5b4ede3ed7825cf4f33b135a068cb47ed",
+        "sharedAyahs": [
+          "41:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PmXt1n4n1o",
+            "start": 0.43,
+            "end": 98.4
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 527140,
+        "durationMs": 527140,
+        "recordingDurationMs": 527140,
+        "bytes": 6326308,
+        "sha256": "36b208cf058d8719c2556a6149e5e065345ccac68ec419151b51d8e90a9aded7",
+        "sharedAyahs": [
+          "41:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PmXt1n4n1o",
+            "start": 98.4,
+            "end": 625.5
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 47760,
+        "durationMs": 47760,
+        "recordingDurationMs": 47760,
+        "bytes": 573796,
+        "sha256": "b33166fe2cc673a6ec8d6fe138477c9e9ea4749dd2b25387aff1b7d8aa1a4125",
+        "sharedAyahs": [
+          "41:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PmXt1n4n1o",
+            "start": 625.5,
+            "end": 673.23
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 248260,
+        "durationMs": 248260,
+        "recordingDurationMs": 248260,
+        "bytes": 2979753,
+        "sha256": "da4fac8a291a5c1d44cce8ca696a90e9e4d43290e0eaa2a97ded16a636bd3471",
+        "sharedAyahs": [
+          "41:23",
+          "41:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PmXt1n4n1o",
+            "start": 673.23,
+            "end": 921.48
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 48860,
+        "durationMs": 48860,
+        "recordingDurationMs": 48860,
+        "bytes": 587044,
+        "sha256": "c53ccb1f4d95b78680a8aeb7a052efbbe2f8848cc345f2e454ce07089d989c99",
+        "sharedAyahs": [
+          "41:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PmXt1n4n1o",
+            "start": 921.48,
+            "end": 970.31
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 556420,
+        "durationMs": 556420,
+        "recordingDurationMs": 556420,
+        "bytes": 6677668,
+        "sha256": "028031d157a5fdab9272f949dd5abc3fd9077292130a93d740752c300ef2a148",
+        "sharedAyahs": [
+          "41:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PmXt1n4n1o",
+            "start": 970.31,
+            "end": 1526.69
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 238250,
+        "durationMs": 238250,
+        "recordingDurationMs": 238250,
+        "bytes": 2859657,
+        "sha256": "502a48afb785b0f48ae1263c0b66f681e220089de06a3c435c9d255598d67ac1",
+        "sharedAyahs": [
+          "41:27",
+          "41:28",
+          "41:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PmXt1n4n1o",
+            "start": 1526.69,
+            "end": 1764.92
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 820285,
+        "durationMs": 820285,
+        "recordingDurationMs": 5127600,
+        "bytes": 61531621,
+        "sha256": "1309a678e5a722c6c985c909bd387b059902f806861bbce55276e80a42686a90",
+        "sharedAyahs": [
+          "41:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PmXt1n4n1o",
+            "start": 1764.92,
+            "end": 2585.2
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/030.mp3",
+        "startMs": 820285,
+        "endMs": 3498397,
+        "durationMs": 2678112,
+        "recordingDurationMs": 5127600,
+        "bytes": 61531621,
+        "sha256": "1309a678e5a722c6c985c909bd387b059902f806861bbce55276e80a42686a90",
+        "sharedAyahs": [
+          "41:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "8F-Ag5YDy68",
+            "start": 0.3,
+            "end": 2678.39
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/030.mp3",
+        "startMs": 3498397,
+        "endMs": 5127600,
+        "durationMs": 1629203,
+        "recordingDurationMs": 5127600,
+        "bytes": 61531621,
+        "sha256": "1309a678e5a722c6c985c909bd387b059902f806861bbce55276e80a42686a90",
+        "sharedAyahs": [
+          "41:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oUNveGeyYew",
+            "start": 0.14,
+            "end": 1629.29
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 516980,
+        "durationMs": 516980,
+        "recordingDurationMs": 516980,
+        "bytes": 6204484,
+        "sha256": "b2a76e757c53c39a38956c9d68299c1ad6b38cd0515eabf30dd60bf5db1de878",
+        "sharedAyahs": [
+          "41:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oUNveGeyYew",
+            "start": 1629.29,
+            "end": 2146.26
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 2980,
+        "durationMs": 2980,
+        "recordingDurationMs": 2980,
+        "bytes": 36388,
+        "sha256": "72f858001cea3251296232337f5d0901c873f5dcebeb0e9d8eabf84e0bf6f28a",
+        "sharedAyahs": [
+          "41:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oUNveGeyYew",
+            "start": 2146.26,
+            "end": 2149.22
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 449317,
+        "durationMs": 449317,
+        "recordingDurationMs": 1684850,
+        "bytes": 20218597,
+        "sha256": "543a277fc7f3b6bb772318900d7d8dd8c43a0fe58f4bb48b07a3f4cbd400aec9",
+        "sharedAyahs": [
+          "41:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oUNveGeyYew",
+            "start": 2149.22,
+            "end": 2598.52
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/033.mp3",
+        "startMs": 449317,
+        "endMs": 1684850,
+        "durationMs": 1235533,
+        "recordingDurationMs": 1684850,
+        "bytes": 20218597,
+        "sha256": "543a277fc7f3b6bb772318900d7d8dd8c43a0fe58f4bb48b07a3f4cbd400aec9",
+        "sharedAyahs": [
+          "41:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oHKm9rAhKCM",
+            "start": 0.72,
+            "end": 1236.2
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 349010,
+        "durationMs": 349010,
+        "recordingDurationMs": 349010,
+        "bytes": 4188772,
+        "sha256": "abc2818761615a8ffa91c3d3cc8f328447b9e8829ea259e55e6f8ca7160f03ba",
+        "sharedAyahs": [
+          "41:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oHKm9rAhKCM",
+            "start": 1236.2,
+            "end": 1585.18
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 267650,
+        "durationMs": 267650,
+        "recordingDurationMs": 267650,
+        "bytes": 3212452,
+        "sha256": "43f2c9bc5f4a4cb2e9790fc4932a99920be7f79a9553d30a99cfd57c5bb35f2f",
+        "sharedAyahs": [
+          "41:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oHKm9rAhKCM",
+            "start": 1585.18,
+            "end": 1852.82
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 605300,
+        "durationMs": 605300,
+        "recordingDurationMs": 605300,
+        "bytes": 7264324,
+        "sha256": "db60b0eca3dbade6a219d2b459dab5bb0358834ef8104693335fff2283e65b9d",
+        "sharedAyahs": [
+          "41:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oHKm9rAhKCM",
+            "start": 1852.82,
+            "end": 2458.1
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 1654820,
+        "durationMs": 1654820,
+        "recordingDurationMs": 1654820,
+        "bytes": 19858564,
+        "sha256": "dcc4359496c1b82b64b11aeb4bdd1babcc1cb486e325c15afffab8ad303d9603",
+        "sharedAyahs": [
+          "41:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mf8Uh5PK3vI",
+            "start": 0.56,
+            "end": 1655.37
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 476880,
+        "durationMs": 476880,
+        "recordingDurationMs": 476880,
+        "bytes": 5723236,
+        "sha256": "3016cfab48049d02e972c985b6905fbbce13b07f97cfede5879af4fc42768133",
+        "sharedAyahs": [
+          "41:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mf8Uh5PK3vI",
+            "start": 1655.37,
+            "end": 2132.21
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 357620,
+        "durationMs": 357620,
+        "recordingDurationMs": 357620,
+        "bytes": 4292164,
+        "sha256": "fa6fb8df2508c6c06d9e51995b9b18f8b64348472055152041b926b4e01e4410",
+        "sharedAyahs": [
+          "41:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mf8Uh5PK3vI",
+            "start": 2132.21,
+            "end": 2489.83
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 86869,
+        "durationMs": 86869,
+        "recordingDurationMs": 820730,
+        "bytes": 9849157,
+        "sha256": "e443e7b3206e2e4991827596ce8078dcc194937ccb55fee9dbde7eac1de19696",
+        "sharedAyahs": [
+          "41:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mf8Uh5PK3vI",
+            "start": 2489.83,
+            "end": 2576.67
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/040.mp3",
+        "startMs": 86869,
+        "endMs": 820730,
+        "durationMs": 733861,
+        "recordingDurationMs": 820730,
+        "bytes": 9849157,
+        "sha256": "e443e7b3206e2e4991827596ce8078dcc194937ccb55fee9dbde7eac1de19696",
+        "sharedAyahs": [
+          "41:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "c_5LrOYeqMQ",
+            "start": 2.48,
+            "end": 736.32
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 357360,
+        "durationMs": 357360,
+        "recordingDurationMs": 357360,
+        "bytes": 4288996,
+        "sha256": "5a2a768d444bc34cf2a81025cb352f9cbec5df993db4026a3bf31bbc69452172",
+        "sharedAyahs": [
+          "41:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "c_5LrOYeqMQ",
+            "start": 736.32,
+            "end": 1093.65
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 917330,
+        "durationMs": 917330,
+        "recordingDurationMs": 917330,
+        "bytes": 11008612,
+        "sha256": "b3c4afa0d9cbcdc6838ff379e600cb17e3fec7ed9c438d1bbf78b66963c89054",
+        "sharedAyahs": [
+          "41:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "c_5LrOYeqMQ",
+            "start": 1093.65,
+            "end": 2010.94
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 367820,
+        "durationMs": 367820,
+        "recordingDurationMs": 367820,
+        "bytes": 4414564,
+        "sha256": "6c400f0c42b349de17c43c69c97d8f1be1e33ee61bb82d21ce1089a82c89a50b",
+        "sharedAyahs": [
+          "41:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "c_5LrOYeqMQ",
+            "start": 2010.94,
+            "end": 2378.75
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 178693,
+        "durationMs": 178693,
+        "recordingDurationMs": 274130,
+        "bytes": 3289957,
+        "sha256": "33cf6db354ab1acef2a3e949e9c0491e97ca974c10166ffd260fe61d7e080c90",
+        "sharedAyahs": [
+          "41:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "c_5LrOYeqMQ",
+            "start": 2378.75,
+            "end": 2557.42
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/044.mp3",
+        "startMs": 178693,
+        "endMs": 274130,
+        "durationMs": 95437,
+        "recordingDurationMs": 274130,
+        "bytes": 3289957,
+        "sha256": "33cf6db354ab1acef2a3e949e9c0491e97ca974c10166ffd260fe61d7e080c90",
+        "sharedAyahs": [
+          "41:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 0.66,
+            "end": 96.05
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 412220,
+        "durationMs": 412220,
+        "recordingDurationMs": 412220,
+        "bytes": 4947364,
+        "sha256": "10f9aa931876448c82e07747f1df31b9ebc9d1f0ba111cfc182ec7106abf1272",
+        "sharedAyahs": [
+          "41:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 96.05,
+            "end": 508.26
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 364220,
+        "durationMs": 364220,
+        "recordingDurationMs": 364220,
+        "bytes": 4371364,
+        "sha256": "e9e755e9e2fac7ad175e720f8c4f4e4bba05b8f67f30f3664abadfa00172b63e",
+        "sharedAyahs": [
+          "41:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 508.26,
+            "end": 872.45
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 722380,
+        "durationMs": 722380,
+        "recordingDurationMs": 722380,
+        "bytes": 8669193,
+        "sha256": "c54f4c158d4110b0eac3d56532075a12e06e7edd531818970f68ac7f5de311ce",
+        "sharedAyahs": [
+          "41:47",
+          "41:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 872.45,
+            "end": 1594.82
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 379870,
+        "durationMs": 379870,
+        "recordingDurationMs": 379870,
+        "bytes": 4559140,
+        "sha256": "4d1c1f0346ae16d43462ba567ec5b83b91c2757e04d736eb5897213f278dfcfe",
+        "sharedAyahs": [
+          "41:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 1594.82,
+            "end": 1974.66
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 265420,
+        "durationMs": 265420,
+        "recordingDurationMs": 265420,
+        "bytes": 3185668,
+        "sha256": "c30e489cc304c153bb1b70e91fec3bcb75c25886e6c52a7c558c91935c78815a",
+        "sharedAyahs": [
+          "41:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 1974.66,
+            "end": 2240.06
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 176880,
+        "durationMs": 176880,
+        "recordingDurationMs": 176880,
+        "bytes": 2123236,
+        "sha256": "c136249d39359e1d961bf1444f5fb3dab35039a3d6413f21a746c6aad06069db",
+        "sharedAyahs": [
+          "41:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 2240.06,
+            "end": 2416.9
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 173500,
+        "durationMs": 173500,
+        "recordingDurationMs": 173500,
+        "bytes": 2082628,
+        "sha256": "893a2b3defe6b76957dc75be0e6266968c30d62ed7485cd0ea59a3bbb27117b8",
+        "sharedAyahs": [
+          "41:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 2416.9,
+            "end": 2590.39
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 69613,
+        "durationMs": 69613,
+        "recordingDurationMs": 2236440,
+        "bytes": 26837701,
+        "sha256": "9c44e635c8da9147b6ce7407bba9d4d5f56faf1ce47d8e4fa6f7d9b057359b96",
+        "sharedAyahs": [
+          "41:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fOu4XdQGE4k",
+            "start": 2590.39,
+            "end": 2659.97
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/053.mp3",
+        "startMs": 69613,
+        "endMs": 2236440,
+        "durationMs": 2166827,
+        "recordingDurationMs": 2236440,
+        "bytes": 26837701,
+        "sha256": "9c44e635c8da9147b6ce7407bba9d4d5f56faf1ce47d8e4fa6f7d9b057359b96",
+        "sharedAyahs": [
+          "41:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tiwPqmFwB2Q",
+            "start": 22.42,
+            "end": 2189.23
+          }
+        ]
+      },
+      {
+        "file": "041-فصلت-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 481130,
+        "durationMs": 481130,
+        "recordingDurationMs": 481130,
+        "bytes": 5774212,
+        "sha256": "d77ed465ff9ff45d0bcec238bde92d8d9a2e74ebadb8f3a7e93b3950c97222ea",
+        "sharedAyahs": [
+          "41:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tiwPqmFwB2Q",
+            "start": 2189.23,
+            "end": 2670.33
+          }
+        ]
+      }
+    ],
+    "durationMs": 28569600,
+    "additionalAudioBytes": 0
+  }
+}
