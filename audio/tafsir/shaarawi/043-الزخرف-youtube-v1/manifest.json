@@ -1,0 +1,3040 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "تفسير القرآن الكريم للشيخ الشعراوي - سورة الزخرف (القناة الرسمية والمكتبة الموثقة)",
+  "surah": 43,
+  "surahName": "الزخرف",
+  "ayahCount": 89,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 89,
+    "mappedAyahCount": 89,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "HQPI9_hkudc": {
+      "durationSeconds": 743.47,
+      "bytes": 8922362,
+      "sha256": "9898fc3191b7e6838d2c8a664676bebc11d885628400076726787ab1c3270656",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-004_HQPI9_hkudc.mp3",
+      "url": "https://www.youtube.com/watch?v=HQPI9_hkudc"
+    },
+    "jUGVg3pm4_I": {
+      "durationSeconds": 1513.06,
+      "bytes": 18157372,
+      "sha256": "a0f55ece8e8b3636dfae71603567325f03c1cb64a7c3be831f8d7414e86631db",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_004-012_jUGVg3pm4_I.mp3",
+      "url": "https://www.youtube.com/watch?v=jUGVg3pm4_I"
+    },
+    "v3_taM45Vc8": {
+      "durationSeconds": 1381.06,
+      "bytes": 16573374,
+      "sha256": "eee549fa91ea325e5a58c3d4de738293de2923c6de948b85f0866555cda08d9d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_011-019_v3_taM45Vc8.mp3",
+      "url": "https://www.youtube.com/watch?v=v3_taM45Vc8"
+    },
+    "kAXn0ADaHNs": {
+      "durationSeconds": 1749.84,
+      "bytes": 20998777,
+      "sha256": "819814d51c3d6a9310cc121987059466cf8b7e88e406106c0fad827f1328034f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_019-019_kAXn0ADaHNs.mp3",
+      "url": "https://www.youtube.com/watch?v=kAXn0ADaHNs"
+    },
+    "_NAjzSWYHAs": {
+      "durationSeconds": 1482.46,
+      "bytes": 17790173,
+      "sha256": "53c2bb6115d052b0517ca96acb9bbdc48998758b3d2c22475e07e816b49c493c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_020-026__NAjzSWYHAs.mp3",
+      "url": "https://www.youtube.com/watch?v=_NAjzSWYHAs"
+    },
+    "eWcraIojAe4": {
+      "durationSeconds": 1361.47,
+      "bytes": 16338365,
+      "sha256": "5cd233ed8a66e81a73e96afe02eab1ad62c4ba97bb6c652ad7e2e84f5d98a037",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_026-036_eWcraIojAe4.mp3",
+      "url": "https://www.youtube.com/watch?v=eWcraIojAe4"
+    },
+    "kKJ0GjZ4Erw": {
+      "durationSeconds": 1541.33,
+      "bytes": 18496638,
+      "sha256": "e011b0f4813e7745fa90e31be69b1827950999d5eff06564529488723135d92d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_036-045_kKJ0GjZ4Erw.mp3",
+      "url": "https://www.youtube.com/watch?v=kKJ0GjZ4Erw"
+    },
+    "0VBZYazs4v4": {
+      "durationSeconds": 1690.13,
+      "bytes": 20282238,
+      "sha256": "c7b399efaab53dc81ce93dfc7a77eb9bc2638e02af8539db8cb04af398bd0ec6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_045-046_0VBZYazs4v4.mp3",
+      "url": "https://www.youtube.com/watch?v=0VBZYazs4v4"
+    },
+    "H8REmmY2i9E": {
+      "durationSeconds": 1561.56,
+      "bytes": 18739422,
+      "sha256": "1234138d202434626ab3887aabe45d0050b63a1fb252f455ae9e2feb4a59db88",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_046-051_H8REmmY2i9E.mp3",
+      "url": "https://www.youtube.com/watch?v=H8REmmY2i9E"
+    },
+    "9RPF0lL-1kA": {
+      "durationSeconds": 1617.12,
+      "bytes": 19406143,
+      "sha256": "8701e9c4633e70da66d0c087320f2ecc8b2966458b225258d22ecf780661a0a9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_051-059_9RPF0lL-1kA.mp3",
+      "url": "https://www.youtube.com/watch?v=9RPF0lL-1kA"
+    },
+    "BfMie2oTxGo": {
+      "durationSeconds": 1504.82,
+      "bytes": 18058591,
+      "sha256": "7f49346b1102781a9bf532bee4c940256de7f424a94b16f9099a9503e7fb8fd5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_059-067_BfMie2oTxGo.mp3",
+      "url": "https://www.youtube.com/watch?v=BfMie2oTxGo"
+    },
+    "Biqx8ARDK1k": {
+      "durationSeconds": 1576.92,
+      "bytes": 18923743,
+      "sha256": "622f4aa39f2c5045a08fb54234b0dbe34b18ce858e89e0779abf9e702bc83963",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_067-072_Biqx8ARDK1k.mp3",
+      "url": "https://www.youtube.com/watch?v=Biqx8ARDK1k"
+    },
+    "f7EvKGwMtZk": {
+      "durationSeconds": 1363.2,
+      "bytes": 16359112,
+      "sha256": "4daf7352bafaf74f23ad7cecf6fdb0382853fb19336ad8c37c9be6970fd54f7c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_072-082_f7EvKGwMtZk.mp3",
+      "url": "https://www.youtube.com/watch?v=f7EvKGwMtZk"
+    },
+    "HV5VB1uhOSk": {
+      "durationSeconds": 2555.09,
+      "bytes": 30661759,
+      "sha256": "c4872f68014c33fcd893e0dda7c49c3eacb3db09d19f0bc27b4dc7ff02374192",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_082-089_HV5VB1uhOSk.mp3",
+      "url": "https://www.youtube.com/watch?v=HV5VB1uhOSk"
+    }
+  },
+  "ayahs": {
+    "43:1": {
+      "file": "043-الزخرف-youtube-v1/001.mp3",
+      "durationMs": 39840,
+      "bytes": 478766,
+      "sha256": "49506a5901bfcc23df676eaed8d0cfa28684e6626acd4c09c5cb28a9bf5e0a30",
+      "sharedAyahs": [
+        "43:1",
+        "43:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HQPI9_hkudc",
+          "start": 17.39,
+          "end": 57.2
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-2: حم ۝ والكتاب المبين"
+    },
+    "43:2": {
+      "file": "043-الزخرف-youtube-v1/001.mp3",
+      "durationMs": 39840,
+      "bytes": 478766,
+      "sha256": "49506a5901bfcc23df676eaed8d0cfa28684e6626acd4c09c5cb28a9bf5e0a30",
+      "sharedAyahs": [
+        "43:1",
+        "43:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HQPI9_hkudc",
+          "start": 17.39,
+          "end": 57.2
+        }
+      ],
+      "reviewNote": "تفسير الآيات 1-2: حم ۝ والكتاب المبين"
+    },
+    "43:3": {
+      "file": "043-الزخرف-youtube-v1/003.mp3",
+      "durationMs": 392380,
+      "bytes": 4709194,
+      "sha256": "cf4779e1d685009093389e37d2883b5499763d27173e7661463e34f3017202b2",
+      "sharedAyahs": [
+        "43:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HQPI9_hkudc",
+          "start": 57.2,
+          "end": 449.56
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: إنا جعلناه قرآنا عربيا لعلكم تعقلون"
+    },
+    "43:4": {
+      "file": "043-الزخرف-youtube-v1/004.mp3",
+      "durationMs": 819310,
+      "bytes": 9832167,
+      "sha256": "71d4295c9d6871ddc6c611ff6daea6f39b8f722faf11a6781439f73c98b5ebec",
+      "sharedAyahs": [
+        "43:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HQPI9_hkudc",
+          "start": 449.56,
+          "end": 739.06
+        },
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 0.66,
+          "end": 530.41
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: وإنه في أم الكتاب لدينا لعلي حكيم"
+    },
+    "43:5": {
+      "file": "043-الزخرف-youtube-v1/005.mp3",
+      "durationMs": 117430,
+      "bytes": 1409866,
+      "sha256": "c1a25a3fce68829819132438dee7256e80f98474af51957796cf97507b11ad93",
+      "sharedAyahs": [
+        "43:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 530.41,
+          "end": 647.81
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: أفنضرب عنكم الذكر صفحا أن كنتم قوما مسرفين"
+    },
+    "43:6": {
+      "file": "043-الزخرف-youtube-v1/006.mp3",
+      "durationMs": 95060,
+      "bytes": 1141454,
+      "sha256": "16ede40bd3907078509b92cecac4304aaae1b3ee34d922ce7d8a3b668fa1b3cc",
+      "sharedAyahs": [
+        "43:6",
+        "43:7",
+        "43:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 647.81,
+          "end": 742.85
+        }
+      ],
+      "reviewNote": "تفسير الآيات 6-8: وكم أرسلنا من نبي في الأولين... فأهلكنا أشد منهم بطشا"
+    },
+    "43:7": {
+      "file": "043-الزخرف-youtube-v1/006.mp3",
+      "durationMs": 95060,
+      "bytes": 1141454,
+      "sha256": "16ede40bd3907078509b92cecac4304aaae1b3ee34d922ce7d8a3b668fa1b3cc",
+      "sharedAyahs": [
+        "43:6",
+        "43:7",
+        "43:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 647.81,
+          "end": 742.85
+        }
+      ],
+      "reviewNote": "تفسير الآيات 6-8: وكم أرسلنا من نبي في الأولين... فأهلكنا أشد منهم بطشا"
+    },
+    "43:8": {
+      "file": "043-الزخرف-youtube-v1/006.mp3",
+      "durationMs": 95060,
+      "bytes": 1141454,
+      "sha256": "16ede40bd3907078509b92cecac4304aaae1b3ee34d922ce7d8a3b668fa1b3cc",
+      "sharedAyahs": [
+        "43:6",
+        "43:7",
+        "43:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 647.81,
+          "end": 742.85
+        }
+      ],
+      "reviewNote": "تفسير الآيات 6-8: وكم أرسلنا من نبي في الأولين... فأهلكنا أشد منهم بطشا"
+    },
+    "43:9": {
+      "file": "043-الزخرف-youtube-v1/009.mp3",
+      "durationMs": 101830,
+      "bytes": 1222666,
+      "sha256": "d0f6647d8d6557f986061f64672136f467d9b6e856b779e9782a96582b1e4e2f",
+      "sharedAyahs": [
+        "43:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 742.85,
+          "end": 844.68
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: ولئن سألتهم من خلق السماوات والأرض ليقولن خلقهن العزيز العليم"
+    },
+    "43:10": {
+      "file": "043-الزخرف-youtube-v1/010.mp3",
+      "durationMs": 255360,
+      "bytes": 3065004,
+      "sha256": "bc1048af030c7baa2c47f1cb7470b2879cf8c7253b59c058853beb8acc08c915",
+      "sharedAyahs": [
+        "43:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 844.68,
+          "end": 1100.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: الذي جعل لكم الأرض مهدا وجعل لكم فيها سبلا"
+    },
+    "43:11": {
+      "file": "043-الزخرف-youtube-v1/011.mp3",
+      "durationMs": 259300,
+      "bytes": 3112236,
+      "sha256": "90793d9c6a86663b38ef5c588d7b31c404bf9a91c9cbb51b86ce1e3461567c12",
+      "sharedAyahs": [
+        "43:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 1100.0,
+          "end": 1359.27
+        }
+      ],
+      "reviewNote": "تفسير الآية 11: والذي نزل من السماء ماء بقدر فأنشرنا به بلدة ميتا"
+    },
+    "43:12": {
+      "file": "043-الزخرف-youtube-v1/012.mp3",
+      "durationMs": 502940,
+      "bytes": 6035753,
+      "sha256": "60f23e8c7e2a69f648590024fff587017a529d48fe447dd085cfa5d31f6b6f04",
+      "sharedAyahs": [
+        "43:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jUGVg3pm4_I",
+          "start": 1359.27,
+          "end": 1504.97
+        },
+        {
+          "source": "v3_taM45Vc8",
+          "start": 4.91,
+          "end": 362.11
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: والذي خلق الأزواج كلها وجعل لكم من الفلك والأنعام ما تركبون"
+    },
+    "43:13": {
+      "file": "043-الزخرف-youtube-v1/013.mp3",
+      "durationMs": 80420,
+      "bytes": 965772,
+      "sha256": "ea1f7b47712ecc65f011f2c5a2dcb06655bd24538848242a16998d896e47af93",
+      "sharedAyahs": [
+        "43:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v3_taM45Vc8",
+          "start": 362.11,
+          "end": 442.49
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: لتستووا على ظهوره ثم تذكروا نعمة ربكم"
+    },
+    "43:14": {
+      "file": "043-الزخرف-youtube-v1/014.mp3",
+      "durationMs": 193750,
+      "bytes": 2325708,
+      "sha256": "df4ebf64fc5d199b1aad97936cfa2ee1e721710636133123e3744489c9c85613",
+      "sharedAyahs": [
+        "43:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v3_taM45Vc8",
+          "start": 442.49,
+          "end": 636.22
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: وإنا إلى ربنا لمنقلبون"
+    },
+    "43:15": {
+      "file": "043-الزخرف-youtube-v1/015.mp3",
+      "durationMs": 222940,
+      "bytes": 2675916,
+      "sha256": "d048e08219931e419c88015c86f685fdb64f711bbb1a5f6a92965eab6e2c06ab",
+      "sharedAyahs": [
+        "43:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v3_taM45Vc8",
+          "start": 636.22,
+          "end": 859.15
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: وجعلوا له من عباده جزءا إن الإنسان لكفور مبين"
+    },
+    "43:16": {
+      "file": "043-الزخرف-youtube-v1/016.mp3",
+      "durationMs": 170760,
+      "bytes": 2049804,
+      "sha256": "b6a953146a849eeab64627a69c6b9b6a760ab47a7a2493c7355deeaba38855a2",
+      "sharedAyahs": [
+        "43:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v3_taM45Vc8",
+          "start": 859.15,
+          "end": 1029.87
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: أم اتخذ مما يخلق بنات وأصفاكم بالبنين"
+    },
+    "43:17": {
+      "file": "043-الزخرف-youtube-v1/017.mp3",
+      "durationMs": 337970,
+      "bytes": 4056305,
+      "sha256": "89b110ca7f82a8251de809d1fe93c44f00fd286ecb90db4bfc5d96d2fed8f5d7",
+      "sharedAyahs": [
+        "43:17",
+        "43:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v3_taM45Vc8",
+          "start": 1029.87,
+          "end": 1367.82
+        }
+      ],
+      "reviewNote": "تفسير الآيات 17-18: وإذا بشر أحدهم بما ضرب للرحمن مثلا... أو من ينشأ في الحلية"
+    },
+    "43:18": {
+      "file": "043-الزخرف-youtube-v1/017.mp3",
+      "durationMs": 337970,
+      "bytes": 4056305,
+      "sha256": "89b110ca7f82a8251de809d1fe93c44f00fd286ecb90db4bfc5d96d2fed8f5d7",
+      "sharedAyahs": [
+        "43:17",
+        "43:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v3_taM45Vc8",
+          "start": 1029.87,
+          "end": 1367.82
+        }
+      ],
+      "reviewNote": "تفسير الآيات 17-18: وإذا بشر أحدهم بما ضرب للرحمن مثلا... أو من ينشأ في الحلية"
+    },
+    "43:19": {
+      "file": "043-الزخرف-youtube-v1/019.mp3",
+      "durationMs": 1738800,
+      "bytes": 20866284,
+      "sha256": "50cd2db40a01ec1e7a23e7a5f495c9a76c674cb0d90fada5f9a5c0996dc0e3c5",
+      "sharedAyahs": [
+        "43:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kAXn0ADaHNs",
+          "start": 0.34,
+          "end": 1739.13
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: وجعلوا الملائكة الذين هم عباد الرحمن إناثا أشهدوا خلقهم"
+    },
+    "43:20": {
+      "file": "043-الزخرف-youtube-v1/020.mp3",
+      "durationMs": 543550,
+      "bytes": 6523308,
+      "sha256": "7e4cb467dfaa82245d8d318ce9c6951021f16cb45e67334d5c432a4c5e9782e9",
+      "sharedAyahs": [
+        "43:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_NAjzSWYHAs",
+          "start": 0.34,
+          "end": 543.87
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: وقالوا لو شاء الرحمن ما عبدناهم ما لهم بذلك من علم"
+    },
+    "43:21": {
+      "file": "043-الزخرف-youtube-v1/021.mp3",
+      "durationMs": 195020,
+      "bytes": 2340977,
+      "sha256": "e85c14aae5875d658313ca1f55aea38331b8fe352bff07b554e77e408d2d8da6",
+      "sharedAyahs": [
+        "43:21",
+        "43:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_NAjzSWYHAs",
+          "start": 543.87,
+          "end": 738.87
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-22: أم آتيناهم كتابا من قبله فهم به مستمسكون... بل قالوا إنا وجدنا آباءنا على أمة"
+    },
+    "43:22": {
+      "file": "043-الزخرف-youtube-v1/021.mp3",
+      "durationMs": 195020,
+      "bytes": 2340977,
+      "sha256": "e85c14aae5875d658313ca1f55aea38331b8fe352bff07b554e77e408d2d8da6",
+      "sharedAyahs": [
+        "43:21",
+        "43:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_NAjzSWYHAs",
+          "start": 543.87,
+          "end": 738.87
+        }
+      ],
+      "reviewNote": "تفسير الآيات 21-22: أم آتيناهم كتابا من قبله فهم به مستمسكون... بل قالوا إنا وجدنا آباءنا على أمة"
+    },
+    "43:23": {
+      "file": "043-الزخرف-youtube-v1/023.mp3",
+      "durationMs": 473450,
+      "bytes": 5682065,
+      "sha256": "b67a0f1cc4d5c07edff6501ab91b34fb6bb615b215d240c07e530cd2381918f0",
+      "sharedAyahs": [
+        "43:23",
+        "43:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_NAjzSWYHAs",
+          "start": 738.87,
+          "end": 1212.29
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-24: وكذلك ما أرسلنا من قبلك في قرية من نذير إلا قال مترفوها... قال أولو جئتكم بأهدى"
+    },
+    "43:24": {
+      "file": "043-الزخرف-youtube-v1/023.mp3",
+      "durationMs": 473450,
+      "bytes": 5682065,
+      "sha256": "b67a0f1cc4d5c07edff6501ab91b34fb6bb615b215d240c07e530cd2381918f0",
+      "sharedAyahs": [
+        "43:23",
+        "43:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_NAjzSWYHAs",
+          "start": 738.87,
+          "end": 1212.29
+        }
+      ],
+      "reviewNote": "تفسير الآيات 23-24: وكذلك ما أرسلنا من قبلك في قرية من نذير إلا قال مترفوها... قال أولو جئتكم بأهدى"
+    },
+    "43:25": {
+      "file": "043-الزخرف-youtube-v1/025.mp3",
+      "durationMs": 250800,
+      "bytes": 3010284,
+      "sha256": "04b9c525e69c7d0199374851ff2a8a2eee38bbd606196f803c7d6bdd28ee37ee",
+      "sharedAyahs": [
+        "43:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_NAjzSWYHAs",
+          "start": 1212.29,
+          "end": 1463.08
+        }
+      ],
+      "reviewNote": "تفسير الآية 25: فانتقمنا منهم فانظر كيف كان عاقبة المكذبين"
+    },
+    "43:26": {
+      "file": "043-الزخرف-youtube-v1/026.mp3",
+      "durationMs": 205730,
+      "bytes": 2469425,
+      "sha256": "fbccc4dffa8b5dd20eb97b34e7d8aa6f6948677760b20d43992e78e30ae02358",
+      "sharedAyahs": [
+        "43:26",
+        "43:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 2.16,
+          "end": 207.86
+        }
+      ],
+      "reviewNote": "تفسير الآيات 26-27: وإذ قال إبراهيم لأبيه وقومه إنني براء مما تعبدون... إلا الذي فطرني"
+    },
+    "43:27": {
+      "file": "043-الزخرف-youtube-v1/026.mp3",
+      "durationMs": 205730,
+      "bytes": 2469425,
+      "sha256": "fbccc4dffa8b5dd20eb97b34e7d8aa6f6948677760b20d43992e78e30ae02358",
+      "sharedAyahs": [
+        "43:26",
+        "43:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 2.16,
+          "end": 207.86
+        }
+      ],
+      "reviewNote": "تفسير الآيات 26-27: وإذ قال إبراهيم لأبيه وقومه إنني براء مما تعبدون... إلا الذي فطرني"
+    },
+    "43:28": {
+      "file": "043-الزخرف-youtube-v1/028.mp3",
+      "durationMs": 16080,
+      "bytes": 193644,
+      "sha256": "d506c900fec98879928afd2f4c3a28300d9d750ecbe0b172e47a5a2d1df43f9d",
+      "sharedAyahs": [
+        "43:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 207.86,
+          "end": 223.92
+        }
+      ],
+      "reviewNote": "تفسير الآية 28: وجعلها كلمة باقية في عقبه لعلهم يرجعون"
+    },
+    "43:29": {
+      "file": "043-الزخرف-youtube-v1/029.mp3",
+      "durationMs": 213530,
+      "bytes": 2563025,
+      "sha256": "28ab661dcef48c2fa44e01b6031071eafce93907f70837c1f4fd0c7c5271e9bb",
+      "sharedAyahs": [
+        "43:29",
+        "43:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 223.92,
+          "end": 437.42
+        }
+      ],
+      "reviewNote": "تفسير الآيات 29-30: بل متعت هؤلاء وآباءهم حتى جاءهم الحق... وقالوا هذا سحر"
+    },
+    "43:30": {
+      "file": "043-الزخرف-youtube-v1/029.mp3",
+      "durationMs": 213530,
+      "bytes": 2563025,
+      "sha256": "28ab661dcef48c2fa44e01b6031071eafce93907f70837c1f4fd0c7c5271e9bb",
+      "sharedAyahs": [
+        "43:29",
+        "43:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 223.92,
+          "end": 437.42
+        }
+      ],
+      "reviewNote": "تفسير الآيات 29-30: بل متعت هؤلاء وآباءهم حتى جاءهم الحق... وقالوا هذا سحر"
+    },
+    "43:31": {
+      "file": "043-الزخرف-youtube-v1/031.mp3",
+      "durationMs": 54120,
+      "bytes": 650124,
+      "sha256": "e88c9552c428301c36c39c8c355f2511451c3393cf8ec94c9cb3f75b2c2c7fef",
+      "sharedAyahs": [
+        "43:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 437.42,
+          "end": 491.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 31: وقالوا لولا نزل هذا القرآن على رجل من القريتين عظيم"
+    },
+    "43:32": {
+      "file": "043-الزخرف-youtube-v1/032.mp3",
+      "durationMs": 328660,
+      "bytes": 3944556,
+      "sha256": "a820069862c6a3ae3b5c90343d1d9b319336980be45284f6b30740a1fc71220b",
+      "sharedAyahs": [
+        "43:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 491.5,
+          "end": 820.15
+        }
+      ],
+      "reviewNote": "تفسير الآية 32: أهم يقسمون رحمت ربك نحن قسمنا بينهم معيشتهم في الحياة الدنيا"
+    },
+    "43:33": {
+      "file": "043-الزخرف-youtube-v1/033.mp3",
+      "durationMs": 529270,
+      "bytes": 6351953,
+      "sha256": "ef7b78a30b05b49a9f4af839e331611a90e929839ca88ea03935f63263a09080",
+      "sharedAyahs": [
+        "43:33",
+        "43:34",
+        "43:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 820.15,
+          "end": 1349.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-35: ولولا أن يكون الناس أمة واحدة لجعلنا لمن يكفر بالرحمن لبيوتهم سقفا من فضة... وزخرفا"
+    },
+    "43:34": {
+      "file": "043-الزخرف-youtube-v1/033.mp3",
+      "durationMs": 529270,
+      "bytes": 6351953,
+      "sha256": "ef7b78a30b05b49a9f4af839e331611a90e929839ca88ea03935f63263a09080",
+      "sharedAyahs": [
+        "43:33",
+        "43:34",
+        "43:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 820.15,
+          "end": 1349.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-35: ولولا أن يكون الناس أمة واحدة لجعلنا لمن يكفر بالرحمن لبيوتهم سقفا من فضة... وزخرفا"
+    },
+    "43:35": {
+      "file": "043-الزخرف-youtube-v1/033.mp3",
+      "durationMs": 529270,
+      "bytes": 6351953,
+      "sha256": "ef7b78a30b05b49a9f4af839e331611a90e929839ca88ea03935f63263a09080",
+      "sharedAyahs": [
+        "43:33",
+        "43:34",
+        "43:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eWcraIojAe4",
+          "start": 820.15,
+          "end": 1349.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 33-35: ولولا أن يكون الناس أمة واحدة لجعلنا لمن يكفر بالرحمن لبيوتهم سقفا من فضة... وزخرفا"
+    },
+    "43:36": {
+      "file": "043-الزخرف-youtube-v1/036.mp3",
+      "durationMs": 635230,
+      "bytes": 7623468,
+      "sha256": "d793b2e1340be1783282d22072d19d63d07b769c17e3f1e77150dbef152b4d3c",
+      "sharedAyahs": [
+        "43:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 0.3,
+          "end": 635.51
+        }
+      ],
+      "reviewNote": "تفسير الآية 36: ومن يعش عن ذكر الرحمن نقيض له شيطانا فهو له قرين"
+    },
+    "43:37": {
+      "file": "043-الزخرف-youtube-v1/037.mp3",
+      "durationMs": 289540,
+      "bytes": 3475121,
+      "sha256": "f5529b29dea4b5cff26ea96ef20a0c4f4d7840f9a166ee4a00af3757354912e7",
+      "sharedAyahs": [
+        "43:37",
+        "43:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 635.51,
+          "end": 925.02
+        }
+      ],
+      "reviewNote": "تفسير الآيات 37-38: وإنهم ليصدونهم عن السبيل... حتى إذا جاءنا قال يا ليت بيني وبينك بعد المشرقين"
+    },
+    "43:38": {
+      "file": "043-الزخرف-youtube-v1/037.mp3",
+      "durationMs": 289540,
+      "bytes": 3475121,
+      "sha256": "f5529b29dea4b5cff26ea96ef20a0c4f4d7840f9a166ee4a00af3757354912e7",
+      "sharedAyahs": [
+        "43:37",
+        "43:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 635.51,
+          "end": 925.02
+        }
+      ],
+      "reviewNote": "تفسير الآيات 37-38: وإنهم ليصدونهم عن السبيل... حتى إذا جاءنا قال يا ليت بيني وبينك بعد المشرقين"
+    },
+    "43:39": {
+      "file": "043-الزخرف-youtube-v1/039.mp3",
+      "durationMs": 141480,
+      "bytes": 1698449,
+      "sha256": "1759252a938b661c2cdae91eb75d1ac27033f2df853592f8ba6f9907c2230ed9",
+      "sharedAyahs": [
+        "43:39",
+        "43:40",
+        "43:41",
+        "43:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 925.02,
+          "end": 1066.47
+        }
+      ],
+      "reviewNote": "تفسير الآيات 39-42: ولن ينفعكم اليوم إذ ظلمتم... أفأنت تسمع الصم أو تهدي العمي"
+    },
+    "43:40": {
+      "file": "043-الزخرف-youtube-v1/039.mp3",
+      "durationMs": 141480,
+      "bytes": 1698449,
+      "sha256": "1759252a938b661c2cdae91eb75d1ac27033f2df853592f8ba6f9907c2230ed9",
+      "sharedAyahs": [
+        "43:39",
+        "43:40",
+        "43:41",
+        "43:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 925.02,
+          "end": 1066.47
+        }
+      ],
+      "reviewNote": "تفسير الآيات 39-42: ولن ينفعكم اليوم إذ ظلمتم... أفأنت تسمع الصم أو تهدي العمي"
+    },
+    "43:41": {
+      "file": "043-الزخرف-youtube-v1/039.mp3",
+      "durationMs": 141480,
+      "bytes": 1698449,
+      "sha256": "1759252a938b661c2cdae91eb75d1ac27033f2df853592f8ba6f9907c2230ed9",
+      "sharedAyahs": [
+        "43:39",
+        "43:40",
+        "43:41",
+        "43:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 925.02,
+          "end": 1066.47
+        }
+      ],
+      "reviewNote": "تفسير الآيات 39-42: ولن ينفعكم اليوم إذ ظلمتم... أفأنت تسمع الصم أو تهدي العمي"
+    },
+    "43:42": {
+      "file": "043-الزخرف-youtube-v1/039.mp3",
+      "durationMs": 141480,
+      "bytes": 1698449,
+      "sha256": "1759252a938b661c2cdae91eb75d1ac27033f2df853592f8ba6f9907c2230ed9",
+      "sharedAyahs": [
+        "43:39",
+        "43:40",
+        "43:41",
+        "43:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 925.02,
+          "end": 1066.47
+        }
+      ],
+      "reviewNote": "تفسير الآيات 39-42: ولن ينفعكم اليوم إذ ظلمتم... أفأنت تسمع الصم أو تهدي العمي"
+    },
+    "43:43": {
+      "file": "043-الزخرف-youtube-v1/043.mp3",
+      "durationMs": 471190,
+      "bytes": 5654993,
+      "sha256": "e045a38827a6a57374f7669604c16a1bc94d91ad6deb8735656fe7daea566da1",
+      "sharedAyahs": [
+        "43:43",
+        "43:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 1066.47,
+          "end": 1537.64
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-44: فاستمسك بالذي أوحي إليك إنك على صراط مستقيم... وإنه لذكر لك ولقومك"
+    },
+    "43:44": {
+      "file": "043-الزخرف-youtube-v1/043.mp3",
+      "durationMs": 471190,
+      "bytes": 5654993,
+      "sha256": "e045a38827a6a57374f7669604c16a1bc94d91ad6deb8735656fe7daea566da1",
+      "sharedAyahs": [
+        "43:43",
+        "43:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kKJ0GjZ4Erw",
+          "start": 1066.47,
+          "end": 1537.64
+        }
+      ],
+      "reviewNote": "تفسير الآيات 43-44: فاستمسك بالذي أوحي إليك إنك على صراط مستقيم... وإنه لذكر لك ولقومك"
+    },
+    "43:45": {
+      "file": "043-الزخرف-youtube-v1/045.mp3",
+      "durationMs": 359110,
+      "bytes": 4310028,
+      "sha256": "99b2570850e7b22a6ab60e4ad19f6e1b81d1304fcdf623c563d44a50c67f0906",
+      "sharedAyahs": [
+        "43:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0VBZYazs4v4",
+          "start": 1.04,
+          "end": 360.13
+        }
+      ],
+      "reviewNote": "تفسير الآية 45: واسأل من أرسلنا من قبلك من رسلنا أجعلنا من دون الرحمن آلهة يعبدون"
+    },
+    "43:46": {
+      "file": "043-الزخرف-youtube-v1/046.mp3",
+      "durationMs": 1375870,
+      "bytes": 16510889,
+      "sha256": "ed65163fcbecc292038f91e378dc59cb1974c3df8c550e62779108d0c881b91b",
+      "sharedAyahs": [
+        "43:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0VBZYazs4v4",
+          "start": 360.13,
+          "end": 1638.2
+        },
+        {
+          "source": "H8REmmY2i9E",
+          "start": 17.68,
+          "end": 115.43
+        }
+      ],
+      "reviewNote": "تفسير الآية 46: ولقد أرسلنا موسى بآياتنا إلى فرعون وملئه فقال إني رسول رب العالمين"
+    },
+    "43:47": {
+      "file": "043-الزخرف-youtube-v1/047.mp3",
+      "durationMs": 23660,
+      "bytes": 284652,
+      "sha256": "cc022ce147e924f93e662008be83f1d84a50c15dd2c5eaf27d475f6122de8acc",
+      "sharedAyahs": [
+        "43:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H8REmmY2i9E",
+          "start": 115.43,
+          "end": 139.06
+        }
+      ],
+      "reviewNote": "تفسير الآية 47: فلما جاءهم بآياتنا إذا هم منها يضحكون"
+    },
+    "43:48": {
+      "file": "043-الزخرف-youtube-v1/048.mp3",
+      "durationMs": 379420,
+      "bytes": 4553681,
+      "sha256": "9474ba4ffa3ff95df7aecbcd294f034df2d0dd42bf38c2a3e4ba5d2503953426",
+      "sharedAyahs": [
+        "43:48",
+        "43:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H8REmmY2i9E",
+          "start": 139.06,
+          "end": 518.45
+        }
+      ],
+      "reviewNote": "تفسير الآيات 48-49: وما نريهم من آية إلا هي أكبر من أختها... وقالوا يا أيه الساحر ادع لنا ربك"
+    },
+    "43:49": {
+      "file": "043-الزخرف-youtube-v1/048.mp3",
+      "durationMs": 379420,
+      "bytes": 4553681,
+      "sha256": "9474ba4ffa3ff95df7aecbcd294f034df2d0dd42bf38c2a3e4ba5d2503953426",
+      "sharedAyahs": [
+        "43:48",
+        "43:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H8REmmY2i9E",
+          "start": 139.06,
+          "end": 518.45
+        }
+      ],
+      "reviewNote": "تفسير الآيات 48-49: وما نريهم من آية إلا هي أكبر من أختها... وقالوا يا أيه الساحر ادع لنا ربك"
+    },
+    "43:50": {
+      "file": "043-الزخرف-youtube-v1/050.mp3",
+      "durationMs": 73750,
+      "bytes": 885708,
+      "sha256": "e8639e5aaaa56dfa34845b3f42fd82c1a23e463076d30685ad0fd17db534ade6",
+      "sharedAyahs": [
+        "43:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H8REmmY2i9E",
+          "start": 518.45,
+          "end": 592.19
+        }
+      ],
+      "reviewNote": "تفسير الآية 50: فلما كشفنا عنهم العذاب إذا هم ينكثون"
+    },
+    "43:51": {
+      "file": "043-الزخرف-youtube-v1/051.mp3",
+      "durationMs": 1317940,
+      "bytes": 15815657,
+      "sha256": "af0110c4c7e84f7dcb67325610e228cfce7091dc2dc54c5c269da5a7cd64cf33",
+      "sharedAyahs": [
+        "43:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H8REmmY2i9E",
+          "start": 592.19,
+          "end": 1532.49
+        },
+        {
+          "source": "9RPF0lL-1kA",
+          "start": 0.46,
+          "end": 378.05
+        }
+      ],
+      "reviewNote": "تفسير الآية 51: ونادى فرعون في قومه قال يا قوم أليس لي ملك مصر وهذه الأنهار تجري من تحتي"
+    },
+    "43:52": {
+      "file": "043-الزخرف-youtube-v1/052.mp3",
+      "durationMs": 210700,
+      "bytes": 2529041,
+      "sha256": "f785477258ce88dac62e85720f66d24f2f6dd01783c302324d6609473bbe2074",
+      "sharedAyahs": [
+        "43:52",
+        "43:53",
+        "43:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9RPF0lL-1kA",
+          "start": 378.05,
+          "end": 588.74
+        }
+      ],
+      "reviewNote": "تفسير الآيات 52-54: أم أنا خير من هذا الذي هو مهين... فلولا ألقي عليه أسورة من ذهب... فاستخف قومه"
+    },
+    "43:53": {
+      "file": "043-الزخرف-youtube-v1/052.mp3",
+      "durationMs": 210700,
+      "bytes": 2529041,
+      "sha256": "f785477258ce88dac62e85720f66d24f2f6dd01783c302324d6609473bbe2074",
+      "sharedAyahs": [
+        "43:52",
+        "43:53",
+        "43:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9RPF0lL-1kA",
+          "start": 378.05,
+          "end": 588.74
+        }
+      ],
+      "reviewNote": "تفسير الآيات 52-54: أم أنا خير من هذا الذي هو مهين... فلولا ألقي عليه أسورة من ذهب... فاستخف قومه"
+    },
+    "43:54": {
+      "file": "043-الزخرف-youtube-v1/052.mp3",
+      "durationMs": 210700,
+      "bytes": 2529041,
+      "sha256": "f785477258ce88dac62e85720f66d24f2f6dd01783c302324d6609473bbe2074",
+      "sharedAyahs": [
+        "43:52",
+        "43:53",
+        "43:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9RPF0lL-1kA",
+          "start": 378.05,
+          "end": 588.74
+        }
+      ],
+      "reviewNote": "تفسير الآيات 52-54: أم أنا خير من هذا الذي هو مهين... فلولا ألقي عليه أسورة من ذهب... فاستخف قومه"
+    },
+    "43:55": {
+      "file": "043-الزخرف-youtube-v1/055.mp3",
+      "durationMs": 73080,
+      "bytes": 877649,
+      "sha256": "a77e09b4789a4100dd65f1761e88fbf5281dce7152ccd8742d8dfd85cc22cd99",
+      "sharedAyahs": [
+        "43:55",
+        "43:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9RPF0lL-1kA",
+          "start": 588.74,
+          "end": 661.78
+        }
+      ],
+      "reviewNote": "تفسير الآيات 55-56: فلما آسفونا انتقمنا منهم فأغرقناهم أجمعين... فجعلناهم سلفا ومثلا للآخرين"
+    },
+    "43:56": {
+      "file": "043-الزخرف-youtube-v1/055.mp3",
+      "durationMs": 73080,
+      "bytes": 877649,
+      "sha256": "a77e09b4789a4100dd65f1761e88fbf5281dce7152ccd8742d8dfd85cc22cd99",
+      "sharedAyahs": [
+        "43:55",
+        "43:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9RPF0lL-1kA",
+          "start": 588.74,
+          "end": 661.78
+        }
+      ],
+      "reviewNote": "تفسير الآيات 55-56: فلما آسفونا انتقمنا منهم فأغرقناهم أجمعين... فجعلناهم سلفا ومثلا للآخرين"
+    },
+    "43:57": {
+      "file": "043-الزخرف-youtube-v1/057.mp3",
+      "durationMs": 721320,
+      "bytes": 8656524,
+      "sha256": "0e14fd13089e144cc4c0459fcddaf288146b917585deaa40291d10ec85fa0940",
+      "sharedAyahs": [
+        "43:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9RPF0lL-1kA",
+          "start": 661.78,
+          "end": 1383.09
+        }
+      ],
+      "reviewNote": "تفسير الآية 57: ولما ضرب ابن مريم مثلا إذا قومك منه يصدون"
+    },
+    "43:58": {
+      "file": "043-الزخرف-youtube-v1/058.mp3",
+      "durationMs": 224380,
+      "bytes": 2693196,
+      "sha256": "83238589b87f2574e5a2625423aac2a8b1f3e870d453649f10eb42d4a9a8dec8",
+      "sharedAyahs": [
+        "43:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9RPF0lL-1kA",
+          "start": 1383.09,
+          "end": 1607.44
+        }
+      ],
+      "reviewNote": "تفسير الآية 58: وقالوا أآلهتنا خير أم هو ما ضربوه لك إلا جدلا بل هم قوم خصمون"
+    },
+    "43:59": {
+      "file": "043-الزخرف-youtube-v1/059.mp3",
+      "durationMs": 79800,
+      "bytes": 958284,
+      "sha256": "69b7f3baf85786f460106a58a6425819475fc0adfd83187da15edbcef97b6fd8",
+      "sharedAyahs": [
+        "43:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BfMie2oTxGo",
+          "start": 0.43,
+          "end": 80.19
+        }
+      ],
+      "reviewNote": "تفسير الآية 59: إن هو إلا عبد أنعمنا عليه وجعلناه مثلا لبني إسرائيل"
+    },
+    "43:60": {
+      "file": "043-الزخرف-youtube-v1/060.mp3",
+      "durationMs": 174620,
+      "bytes": 2096177,
+      "sha256": "b0106f724e822458f5bf468907e61b6afb7244b94ac09a31e68b8afaa10e4713",
+      "sharedAyahs": [
+        "43:60",
+        "43:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BfMie2oTxGo",
+          "start": 80.19,
+          "end": 254.8
+        }
+      ],
+      "reviewNote": "تفسير الآيات 60-61: ولو نشاء لجعلنا منكم ملائكة في الأرض يخلفون... وإنه لعلم للساعة"
+    },
+    "43:61": {
+      "file": "043-الزخرف-youtube-v1/060.mp3",
+      "durationMs": 174620,
+      "bytes": 2096177,
+      "sha256": "b0106f724e822458f5bf468907e61b6afb7244b94ac09a31e68b8afaa10e4713",
+      "sharedAyahs": [
+        "43:60",
+        "43:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BfMie2oTxGo",
+          "start": 80.19,
+          "end": 254.8
+        }
+      ],
+      "reviewNote": "تفسير الآيات 60-61: ولو نشاء لجعلنا منكم ملائكة في الأرض يخلفون... وإنه لعلم للساعة"
+    },
+    "43:62": {
+      "file": "043-الزخرف-youtube-v1/062.mp3",
+      "durationMs": 66700,
+      "bytes": 801036,
+      "sha256": "e900a32489565f9d97f3e5282022afc7c619aa4ba0b2a460e1cc1e1ad3a77f0c",
+      "sharedAyahs": [
+        "43:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BfMie2oTxGo",
+          "start": 254.8,
+          "end": 321.48
+        }
+      ],
+      "reviewNote": "تفسير الآية 62: ولا يصدنكم الشيطان إنه لكم عدو مبين"
+    },
+    "43:63": {
+      "file": "043-الزخرف-youtube-v1/063.mp3",
+      "durationMs": 866280,
+      "bytes": 10396049,
+      "sha256": "9924860c7b8957530fbfe637abb546da65f345bea7bac5384be3e42a8662490e",
+      "sharedAyahs": [
+        "43:63",
+        "43:64",
+        "43:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BfMie2oTxGo",
+          "start": 321.48,
+          "end": 1187.72
+        }
+      ],
+      "reviewNote": "تفسير الآيات 63-65: ولما جاء عيسى بالبينات قال قد جئتكم بالحكمة... إن الله هو ربي وربكم فاعبدوه"
+    },
+    "43:64": {
+      "file": "043-الزخرف-youtube-v1/063.mp3",
+      "durationMs": 866280,
+      "bytes": 10396049,
+      "sha256": "9924860c7b8957530fbfe637abb546da65f345bea7bac5384be3e42a8662490e",
+      "sharedAyahs": [
+        "43:63",
+        "43:64",
+        "43:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BfMie2oTxGo",
+          "start": 321.48,
+          "end": 1187.72
+        }
+      ],
+      "reviewNote": "تفسير الآيات 63-65: ولما جاء عيسى بالبينات قال قد جئتكم بالحكمة... إن الله هو ربي وربكم فاعبدوه"
+    },
+    "43:65": {
+      "file": "043-الزخرف-youtube-v1/063.mp3",
+      "durationMs": 866280,
+      "bytes": 10396049,
+      "sha256": "9924860c7b8957530fbfe637abb546da65f345bea7bac5384be3e42a8662490e",
+      "sharedAyahs": [
+        "43:63",
+        "43:64",
+        "43:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BfMie2oTxGo",
+          "start": 321.48,
+          "end": 1187.72
+        }
+      ],
+      "reviewNote": "تفسير الآيات 63-65: ولما جاء عيسى بالبينات قال قد جئتكم بالحكمة... إن الله هو ربي وربكم فاعبدوه"
+    },
+    "43:66": {
+      "file": "043-الزخرف-youtube-v1/066.mp3",
+      "durationMs": 293570,
+      "bytes": 3523500,
+      "sha256": "487e7ed5d35a090b231f6415990bb2b3f07e0ec26509e461af8627da50d1c36f",
+      "sharedAyahs": [
+        "43:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BfMie2oTxGo",
+          "start": 1187.72,
+          "end": 1481.26
+        }
+      ],
+      "reviewNote": "تفسير الآية 66: هل ينظرون إلا الساعة أن تأتيهم بغتة وهم لا يشعرون"
+    },
+    "43:67": {
+      "file": "043-الزخرف-youtube-v1/067.mp3",
+      "durationMs": 485760,
+      "bytes": 5829804,
+      "sha256": "06af019415ef0e4ca93a481cd9e6fb39a1c38ae6c235f780598852d55066e005",
+      "sharedAyahs": [
+        "43:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Biqx8ARDK1k",
+          "start": 5.39,
+          "end": 491.13
+        }
+      ],
+      "reviewNote": "تفسير الآية 67: الأخلاء يومئذ بعضهم لبعض عدو إلا المتقين"
+    },
+    "43:68": {
+      "file": "043-الزخرف-youtube-v1/068.mp3",
+      "durationMs": 467450,
+      "bytes": 5610065,
+      "sha256": "e62774238cf23325aee6ecd8420ccf92d8f8464e5ac57fdb9a39add59e6e41e2",
+      "sharedAyahs": [
+        "43:68",
+        "43:69",
+        "43:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Biqx8ARDK1k",
+          "start": 491.13,
+          "end": 958.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 68-70: يا عباد لا خوف عليكم اليوم... الذين آمنوا بآياتنا وكانوا مسلمين... ادخلوا الجنة"
+    },
+    "43:69": {
+      "file": "043-الزخرف-youtube-v1/068.mp3",
+      "durationMs": 467450,
+      "bytes": 5610065,
+      "sha256": "e62774238cf23325aee6ecd8420ccf92d8f8464e5ac57fdb9a39add59e6e41e2",
+      "sharedAyahs": [
+        "43:68",
+        "43:69",
+        "43:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Biqx8ARDK1k",
+          "start": 491.13,
+          "end": 958.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 68-70: يا عباد لا خوف عليكم اليوم... الذين آمنوا بآياتنا وكانوا مسلمين... ادخلوا الجنة"
+    },
+    "43:70": {
+      "file": "043-الزخرف-youtube-v1/068.mp3",
+      "durationMs": 467450,
+      "bytes": 5610065,
+      "sha256": "e62774238cf23325aee6ecd8420ccf92d8f8464e5ac57fdb9a39add59e6e41e2",
+      "sharedAyahs": [
+        "43:68",
+        "43:69",
+        "43:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Biqx8ARDK1k",
+          "start": 491.13,
+          "end": 958.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 68-70: يا عباد لا خوف عليكم اليوم... الذين آمنوا بآياتنا وكانوا مسلمين... ادخلوا الجنة"
+    },
+    "43:71": {
+      "file": "043-الزخرف-youtube-v1/071.mp3",
+      "durationMs": 607250,
+      "bytes": 7287660,
+      "sha256": "1faf68dcb202aaa00b02a65a5c0d79191d3be6c39df96b6fd4e58108346757eb",
+      "sharedAyahs": [
+        "43:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Biqx8ARDK1k",
+          "start": 958.54,
+          "end": 1565.78
+        }
+      ],
+      "reviewNote": "تفسير الآية 71: يطاف عليهم بصحاف من ذهب وأكواب وفيها ما تشتهيه الأنفس وتلذ الأعين"
+    },
+    "43:72": {
+      "file": "043-الزخرف-youtube-v1/072.mp3",
+      "durationMs": 258820,
+      "bytes": 3106481,
+      "sha256": "56a3bcd3d7b95908b40c19fcdce91f5197afdd50b31b51ea88710c432d718d41",
+      "sharedAyahs": [
+        "43:72",
+        "43:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 1.17,
+          "end": 259.96
+        }
+      ],
+      "reviewNote": "تفسير الآيات 72-73: وتلك الجنة التي أورثتموها بما كنتم تعملون... لكم فيها فاكهة كثيرة"
+    },
+    "43:73": {
+      "file": "043-الزخرف-youtube-v1/072.mp3",
+      "durationMs": 258820,
+      "bytes": 3106481,
+      "sha256": "56a3bcd3d7b95908b40c19fcdce91f5197afdd50b31b51ea88710c432d718d41",
+      "sharedAyahs": [
+        "43:72",
+        "43:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 1.17,
+          "end": 259.96
+        }
+      ],
+      "reviewNote": "تفسير الآيات 72-73: وتلك الجنة التي أورثتموها بما كنتم تعملون... لكم فيها فاكهة كثيرة"
+    },
+    "43:74": {
+      "file": "043-الزخرف-youtube-v1/074.mp3",
+      "durationMs": 270220,
+      "bytes": 3243281,
+      "sha256": "277a59163c8d0708b76d9a18ced3fbe25e52e26d6243f4eb27df832bef639836",
+      "sharedAyahs": [
+        "43:74",
+        "43:75",
+        "43:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 259.96,
+          "end": 530.14
+        }
+      ],
+      "reviewNote": "تفسير الآيات 74-76: إن المجرمين في عذاب جهنم خالدون... لا يفتر عنهم... وما ظلمناهم"
+    },
+    "43:75": {
+      "file": "043-الزخرف-youtube-v1/074.mp3",
+      "durationMs": 270220,
+      "bytes": 3243281,
+      "sha256": "277a59163c8d0708b76d9a18ced3fbe25e52e26d6243f4eb27df832bef639836",
+      "sharedAyahs": [
+        "43:74",
+        "43:75",
+        "43:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 259.96,
+          "end": 530.14
+        }
+      ],
+      "reviewNote": "تفسير الآيات 74-76: إن المجرمين في عذاب جهنم خالدون... لا يفتر عنهم... وما ظلمناهم"
+    },
+    "43:76": {
+      "file": "043-الزخرف-youtube-v1/074.mp3",
+      "durationMs": 270220,
+      "bytes": 3243281,
+      "sha256": "277a59163c8d0708b76d9a18ced3fbe25e52e26d6243f4eb27df832bef639836",
+      "sharedAyahs": [
+        "43:74",
+        "43:75",
+        "43:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 259.96,
+          "end": 530.14
+        }
+      ],
+      "reviewNote": "تفسير الآيات 74-76: إن المجرمين في عذاب جهنم خالدون... لا يفتر عنهم... وما ظلمناهم"
+    },
+    "43:77": {
+      "file": "043-الزخرف-youtube-v1/077.mp3",
+      "durationMs": 310250,
+      "bytes": 3723665,
+      "sha256": "8396e5ca51def8e4ccdc7f567c085d638c7fe5cc1cb888cd5306e561c64710d5",
+      "sharedAyahs": [
+        "43:77",
+        "43:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 530.14,
+          "end": 840.38
+        }
+      ],
+      "reviewNote": "تفسير الآيات 77-78: ونادوا يا مالك ليقض علينا ربك قال إنكم ماكثون... لقد جئناكم بالحق"
+    },
+    "43:78": {
+      "file": "043-الزخرف-youtube-v1/077.mp3",
+      "durationMs": 310250,
+      "bytes": 3723665,
+      "sha256": "8396e5ca51def8e4ccdc7f567c085d638c7fe5cc1cb888cd5306e561c64710d5",
+      "sharedAyahs": [
+        "43:77",
+        "43:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 530.14,
+          "end": 840.38
+        }
+      ],
+      "reviewNote": "تفسير الآيات 77-78: ونادوا يا مالك ليقض علينا ربك قال إنكم ماكثون... لقد جئناكم بالحق"
+    },
+    "43:79": {
+      "file": "043-الزخرف-youtube-v1/079.mp3",
+      "durationMs": 85320,
+      "bytes": 1024529,
+      "sha256": "8d551155b16f117c5a3be84e09bc062172842232d328a93b72413ac3ad793984",
+      "sharedAyahs": [
+        "43:79",
+        "43:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 840.38,
+          "end": 925.67
+        }
+      ],
+      "reviewNote": "تفسير الآيات 79-80: أم أبرموا أمرا فإنا مبرمون... أم يحسبون أنا لا نسمع سرهم ونجواهم"
+    },
+    "43:80": {
+      "file": "043-الزخرف-youtube-v1/079.mp3",
+      "durationMs": 85320,
+      "bytes": 1024529,
+      "sha256": "8d551155b16f117c5a3be84e09bc062172842232d328a93b72413ac3ad793984",
+      "sharedAyahs": [
+        "43:79",
+        "43:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 840.38,
+          "end": 925.67
+        }
+      ],
+      "reviewNote": "تفسير الآيات 79-80: أم أبرموا أمرا فإنا مبرمون... أم يحسبون أنا لا نسمع سرهم ونجواهم"
+    },
+    "43:81": {
+      "file": "043-الزخرف-youtube-v1/081.mp3",
+      "durationMs": 414600,
+      "bytes": 4975884,
+      "sha256": "c188c3afbd44a421f772d1ce6f79a2e354c4e895db4d05f722e88f47e13a2866",
+      "sharedAyahs": [
+        "43:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f7EvKGwMtZk",
+          "start": 925.67,
+          "end": 1340.24
+        }
+      ],
+      "reviewNote": "تفسير الآية 81: قل إن كان للرحمن ولد فأنا أول العابدين"
+    },
+    "43:82": {
+      "file": "043-الزخرف-youtube-v1/082.mp3",
+      "durationMs": 690580,
+      "bytes": 8287601,
+      "sha256": "47553b0577f347494b1be2dd8b15df5b45960b9b8a36fca896f27a5ad3f9a7b0",
+      "sharedAyahs": [
+        "43:82",
+        "43:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HV5VB1uhOSk",
+          "start": 0.0,
+          "end": 690.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 82-83: سبحان رب السماوات والأرض رب العرش عما يصفون... فذرهم يخوضوا ويلعبوا"
+    },
+    "43:83": {
+      "file": "043-الزخرف-youtube-v1/082.mp3",
+      "durationMs": 690580,
+      "bytes": 8287601,
+      "sha256": "47553b0577f347494b1be2dd8b15df5b45960b9b8a36fca896f27a5ad3f9a7b0",
+      "sharedAyahs": [
+        "43:82",
+        "43:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HV5VB1uhOSk",
+          "start": 0.0,
+          "end": 690.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 82-83: سبحان رب السماوات والأرض رب العرش عما يصفون... فذرهم يخوضوا ويلعبوا"
+    },
+    "43:84": {
+      "file": "043-الزخرف-youtube-v1/084.mp3",
+      "durationMs": 258670,
+      "bytes": 3104748,
+      "sha256": "d248801202f78bcd183d8a1aaee8f08fe2c2ff6ff8fe9cbbe15f2cecd827a498",
+      "sharedAyahs": [
+        "43:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HV5VB1uhOSk",
+          "start": 690.54,
+          "end": 949.18
+        }
+      ],
+      "reviewNote": "تفسير الآية 84: وهو الذي في السماء إله وفي الأرض إله وهو الحكيم العليم"
+    },
+    "43:85": {
+      "file": "043-الزخرف-youtube-v1/085.mp3",
+      "durationMs": 329830,
+      "bytes": 3958668,
+      "sha256": "c1e16be1818a5d8c78b4bd24057a22b04b97c33fcee097c4d8457d8523119642",
+      "sharedAyahs": [
+        "43:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HV5VB1uhOSk",
+          "start": 949.18,
+          "end": 1278.99
+        }
+      ],
+      "reviewNote": "تفسير الآية 85: وتبارك الذي له ملك السماوات والأرض وما بينهما وعنده علم الساعة وإليه ترجعون"
+    },
+    "43:86": {
+      "file": "043-الزخرف-youtube-v1/086.mp3",
+      "durationMs": 614380,
+      "bytes": 7373201,
+      "sha256": "c7b78c010e05eb2cd3d4abd0c56e6ffdf3ba9f9b80562240b2e25f0c24beb97f",
+      "sharedAyahs": [
+        "43:86",
+        "43:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HV5VB1uhOSk",
+          "start": 1278.99,
+          "end": 1893.34
+        }
+      ],
+      "reviewNote": "تفسير الآيات 86-87: ولا يملك الذين يدعون من دونه الشفاعة... ولئن سألتهم من خلقهم ليقولن الله"
+    },
+    "43:87": {
+      "file": "043-الزخرف-youtube-v1/086.mp3",
+      "durationMs": 614380,
+      "bytes": 7373201,
+      "sha256": "c7b78c010e05eb2cd3d4abd0c56e6ffdf3ba9f9b80562240b2e25f0c24beb97f",
+      "sharedAyahs": [
+        "43:86",
+        "43:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HV5VB1uhOSk",
+          "start": 1278.99,
+          "end": 1893.34
+        }
+      ],
+      "reviewNote": "تفسير الآيات 86-87: ولا يملك الذين يدعون من دونه الشفاعة... ولئن سألتهم من خلقهم ليقولن الله"
+    },
+    "43:88": {
+      "file": "043-الزخرف-youtube-v1/088.mp3",
+      "durationMs": 654310,
+      "bytes": 7852433,
+      "sha256": "6ee3ecce27840c1e4fc092d073cb03efef4edfab41f5cf49e89a05d4a37fb435",
+      "sharedAyahs": [
+        "43:88",
+        "43:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HV5VB1uhOSk",
+          "start": 1893.34,
+          "end": 2547.64
+        }
+      ],
+      "reviewNote": "تفسير الآيات 88-89: وقيله يا رب إن هؤلاء قوم لا يؤمنون... فاصفح عنهم وقل سلام فسوف يعلمون"
+    },
+    "43:89": {
+      "file": "043-الزخرف-youtube-v1/088.mp3",
+      "durationMs": 654310,
+      "bytes": 7852433,
+      "sha256": "6ee3ecce27840c1e4fc092d073cb03efef4edfab41f5cf49e89a05d4a37fb435",
+      "sharedAyahs": [
+        "43:88",
+        "43:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HV5VB1uhOSk",
+          "start": 1893.34,
+          "end": 2547.64
+        }
+      ],
+      "reviewNote": "تفسير الآيات 88-89: وقيله يا رب إن هؤلاء قوم لا يؤمنون... فاصفح عنهم وقل سلام فسوف يعلمون"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLF37BED5C002EC305",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "zukhruf-quran-in-arabic",
+      "title": "حقيقة الوحي وجعل القرآن عربياً لعقول المؤمنين",
+      "file": "043-الزخرف-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 392360
+    },
+    {
+      "id": "zukhruf-signs-pairs-and-transport",
+      "title": "آيات الله في خلق الأزواج والفلك والأنعام وركوبها",
+      "file": "043-الزخرف-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 502900
+    },
+    {
+      "id": "zukhruf-angels-and-false-attribution",
+      "title": "إبطال دعوى بنوة الملائكة وتنزيه الخالق عن الولد والشريك",
+      "file": "043-الزخرف-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 1738790
+    },
+    {
+      "id": "zukhruf-abraham-monotheism",
+      "title": "براءة إبراهيم عليه السلام والكلمة الباقية في عقبه",
+      "file": "043-الزخرف-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 205700
+    },
+    {
+      "id": "zukhruf-vanity-of-worldly-ornaments",
+      "title": "فتنة زخرف الدنيا وزوال المتاع الفاني وقسمة المعيشة",
+      "file": "043-الزخرف-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 529250
+    },
+    {
+      "id": "zukhruf-turning-from-remembrance",
+      "title": "عاقبة من يعش عن ذكر الرحمن والقرين المضل",
+      "file": "043-الزخرف-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 635210
+    },
+    {
+      "id": "zukhruf-moses-and-pharaoh",
+      "title": "رسالة موسى لفرعون وملئه واستكبار الطاغية بمصر وأنهارها",
+      "file": "043-الزخرف-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 1375820
+    },
+    {
+      "id": "zukhruf-jesus-servant-of-allah",
+      "title": "عيسى ابن مريم عبد الله ورسوله وبطلان دعوى ألوهيته",
+      "file": "043-الزخرف-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 79759
+    },
+    {
+      "id": "zukhruf-companions-and-paradise",
+      "title": "الأخلاء يومئذ بعضهم لبعض عدو إلا المتقين ونعيم الجنان",
+      "file": "043-الزخرف-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 485740
+    },
+    {
+      "id": "zukhruf-lord-of-heavens-and-earth",
+      "title": "تنزيه رب العرش وأنه في السماء إله وفي الأرض إله",
+      "file": "043-الزخرف-youtube-v1/084.mp3",
+      "startMs": 0,
+      "endMs": 258640
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "HQPI9_hkudc",
+      "jUGVg3pm4_I",
+      "v3_taM45Vc8",
+      "kAXn0ADaHNs",
+      "_NAjzSWYHAs",
+      "eWcraIojAe4",
+      "kKJ0GjZ4Erw",
+      "0VBZYazs4v4",
+      "H8REmmY2i9E",
+      "9RPF0lL-1kA",
+      "BfMie2oTxGo",
+      "Biqx8ARDK1k",
+      "f7EvKGwMtZk",
+      "HV5VB1uhOSk"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "043-الزخرف-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 39840,
+        "durationMs": 39840,
+        "recordingDurationMs": 39840,
+        "bytes": 478766,
+        "sha256": "49506a5901bfcc23df676eaed8d0cfa28684e6626acd4c09c5cb28a9bf5e0a30",
+        "sharedAyahs": [
+          "43:1",
+          "43:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HQPI9_hkudc",
+            "start": 17.39,
+            "end": 57.2
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 392380,
+        "durationMs": 392380,
+        "recordingDurationMs": 392380,
+        "bytes": 4709194,
+        "sha256": "cf4779e1d685009093389e37d2883b5499763d27173e7661463e34f3017202b2",
+        "sharedAyahs": [
+          "43:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HQPI9_hkudc",
+            "start": 57.2,
+            "end": 449.56
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 289525,
+        "durationMs": 289525,
+        "recordingDurationMs": 819310,
+        "bytes": 9832167,
+        "sha256": "71d4295c9d6871ddc6c611ff6daea6f39b8f722faf11a6781439f73c98b5ebec",
+        "sharedAyahs": [
+          "43:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HQPI9_hkudc",
+            "start": 449.56,
+            "end": 739.06
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/004.mp3",
+        "startMs": 289525,
+        "endMs": 819310,
+        "durationMs": 529785,
+        "recordingDurationMs": 819310,
+        "bytes": 9832167,
+        "sha256": "71d4295c9d6871ddc6c611ff6daea6f39b8f722faf11a6781439f73c98b5ebec",
+        "sharedAyahs": [
+          "43:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jUGVg3pm4_I",
+            "start": 0.66,
+            "end": 530.41
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 117430,
+        "durationMs": 117430,
+        "recordingDurationMs": 117430,
+        "bytes": 1409866,
+        "sha256": "c1a25a3fce68829819132438dee7256e80f98474af51957796cf97507b11ad93",
+        "sharedAyahs": [
+          "43:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jUGVg3pm4_I",
+            "start": 530.41,
+            "end": 647.81
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 95060,
+        "durationMs": 95060,
+        "recordingDurationMs": 95060,
+        "bytes": 1141454,
+        "sha256": "16ede40bd3907078509b92cecac4304aaae1b3ee34d922ce7d8a3b668fa1b3cc",
+        "sharedAyahs": [
+          "43:6",
+          "43:7",
+          "43:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jUGVg3pm4_I",
+            "start": 647.81,
+            "end": 742.85
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 101830,
+        "durationMs": 101830,
+        "recordingDurationMs": 101830,
+        "bytes": 1222666,
+        "sha256": "d0f6647d8d6557f986061f64672136f467d9b6e856b779e9782a96582b1e4e2f",
+        "sharedAyahs": [
+          "43:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jUGVg3pm4_I",
+            "start": 742.85,
+            "end": 844.68
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 255360,
+        "durationMs": 255360,
+        "recordingDurationMs": 255360,
+        "bytes": 3065004,
+        "sha256": "bc1048af030c7baa2c47f1cb7470b2879cf8c7253b59c058853beb8acc08c915",
+        "sharedAyahs": [
+          "43:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jUGVg3pm4_I",
+            "start": 844.68,
+            "end": 1100.0
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 259300,
+        "durationMs": 259300,
+        "recordingDurationMs": 259300,
+        "bytes": 3112236,
+        "sha256": "90793d9c6a86663b38ef5c588d7b31c404bf9a91c9cbb51b86ce1e3461567c12",
+        "sharedAyahs": [
+          "43:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jUGVg3pm4_I",
+            "start": 1100.0,
+            "end": 1359.27
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 145717,
+        "durationMs": 145717,
+        "recordingDurationMs": 502940,
+        "bytes": 6035753,
+        "sha256": "60f23e8c7e2a69f648590024fff587017a529d48fe447dd085cfa5d31f6b6f04",
+        "sharedAyahs": [
+          "43:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jUGVg3pm4_I",
+            "start": 1359.27,
+            "end": 1504.97
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/012.mp3",
+        "startMs": 145717,
+        "endMs": 502940,
+        "durationMs": 357223,
+        "recordingDurationMs": 502940,
+        "bytes": 6035753,
+        "sha256": "60f23e8c7e2a69f648590024fff587017a529d48fe447dd085cfa5d31f6b6f04",
+        "sharedAyahs": [
+          "43:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v3_taM45Vc8",
+            "start": 4.91,
+            "end": 362.11
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 80420,
+        "durationMs": 80420,
+        "recordingDurationMs": 80420,
+        "bytes": 965772,
+        "sha256": "ea1f7b47712ecc65f011f2c5a2dcb06655bd24538848242a16998d896e47af93",
+        "sharedAyahs": [
+          "43:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v3_taM45Vc8",
+            "start": 362.11,
+            "end": 442.49
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 193750,
+        "durationMs": 193750,
+        "recordingDurationMs": 193750,
+        "bytes": 2325708,
+        "sha256": "df4ebf64fc5d199b1aad97936cfa2ee1e721710636133123e3744489c9c85613",
+        "sharedAyahs": [
+          "43:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v3_taM45Vc8",
+            "start": 442.49,
+            "end": 636.22
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 222940,
+        "durationMs": 222940,
+        "recordingDurationMs": 222940,
+        "bytes": 2675916,
+        "sha256": "d048e08219931e419c88015c86f685fdb64f711bbb1a5f6a92965eab6e2c06ab",
+        "sharedAyahs": [
+          "43:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v3_taM45Vc8",
+            "start": 636.22,
+            "end": 859.15
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 170760,
+        "durationMs": 170760,
+        "recordingDurationMs": 170760,
+        "bytes": 2049804,
+        "sha256": "b6a953146a849eeab64627a69c6b9b6a760ab47a7a2493c7355deeaba38855a2",
+        "sharedAyahs": [
+          "43:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v3_taM45Vc8",
+            "start": 859.15,
+            "end": 1029.87
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 337970,
+        "durationMs": 337970,
+        "recordingDurationMs": 337970,
+        "bytes": 4056305,
+        "sha256": "89b110ca7f82a8251de809d1fe93c44f00fd286ecb90db4bfc5d96d2fed8f5d7",
+        "sharedAyahs": [
+          "43:17",
+          "43:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v3_taM45Vc8",
+            "start": 1029.87,
+            "end": 1367.82
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 1738800,
+        "durationMs": 1738800,
+        "recordingDurationMs": 1738800,
+        "bytes": 20866284,
+        "sha256": "50cd2db40a01ec1e7a23e7a5f495c9a76c674cb0d90fada5f9a5c0996dc0e3c5",
+        "sharedAyahs": [
+          "43:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kAXn0ADaHNs",
+            "start": 0.34,
+            "end": 1739.13
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 543550,
+        "durationMs": 543550,
+        "recordingDurationMs": 543550,
+        "bytes": 6523308,
+        "sha256": "7e4cb467dfaa82245d8d318ce9c6951021f16cb45e67334d5c432a4c5e9782e9",
+        "sharedAyahs": [
+          "43:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_NAjzSWYHAs",
+            "start": 0.34,
+            "end": 543.87
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 195020,
+        "durationMs": 195020,
+        "recordingDurationMs": 195020,
+        "bytes": 2340977,
+        "sha256": "e85c14aae5875d658313ca1f55aea38331b8fe352bff07b554e77e408d2d8da6",
+        "sharedAyahs": [
+          "43:21",
+          "43:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_NAjzSWYHAs",
+            "start": 543.87,
+            "end": 738.87
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 473450,
+        "durationMs": 473450,
+        "recordingDurationMs": 473450,
+        "bytes": 5682065,
+        "sha256": "b67a0f1cc4d5c07edff6501ab91b34fb6bb615b215d240c07e530cd2381918f0",
+        "sharedAyahs": [
+          "43:23",
+          "43:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_NAjzSWYHAs",
+            "start": 738.87,
+            "end": 1212.29
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 250800,
+        "durationMs": 250800,
+        "recordingDurationMs": 250800,
+        "bytes": 3010284,
+        "sha256": "04b9c525e69c7d0199374851ff2a8a2eee38bbd606196f803c7d6bdd28ee37ee",
+        "sharedAyahs": [
+          "43:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_NAjzSWYHAs",
+            "start": 1212.29,
+            "end": 1463.08
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 205730,
+        "durationMs": 205730,
+        "recordingDurationMs": 205730,
+        "bytes": 2469425,
+        "sha256": "fbccc4dffa8b5dd20eb97b34e7d8aa6f6948677760b20d43992e78e30ae02358",
+        "sharedAyahs": [
+          "43:26",
+          "43:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eWcraIojAe4",
+            "start": 2.16,
+            "end": 207.86
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 16080,
+        "durationMs": 16080,
+        "recordingDurationMs": 16080,
+        "bytes": 193644,
+        "sha256": "d506c900fec98879928afd2f4c3a28300d9d750ecbe0b172e47a5a2d1df43f9d",
+        "sharedAyahs": [
+          "43:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eWcraIojAe4",
+            "start": 207.86,
+            "end": 223.92
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 213530,
+        "durationMs": 213530,
+        "recordingDurationMs": 213530,
+        "bytes": 2563025,
+        "sha256": "28ab661dcef48c2fa44e01b6031071eafce93907f70837c1f4fd0c7c5271e9bb",
+        "sharedAyahs": [
+          "43:29",
+          "43:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eWcraIojAe4",
+            "start": 223.92,
+            "end": 437.42
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 54120,
+        "durationMs": 54120,
+        "recordingDurationMs": 54120,
+        "bytes": 650124,
+        "sha256": "e88c9552c428301c36c39c8c355f2511451c3393cf8ec94c9cb3f75b2c2c7fef",
+        "sharedAyahs": [
+          "43:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eWcraIojAe4",
+            "start": 437.42,
+            "end": 491.5
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 328660,
+        "durationMs": 328660,
+        "recordingDurationMs": 328660,
+        "bytes": 3944556,
+        "sha256": "a820069862c6a3ae3b5c90343d1d9b319336980be45284f6b30740a1fc71220b",
+        "sharedAyahs": [
+          "43:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eWcraIojAe4",
+            "start": 491.5,
+            "end": 820.15
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 529270,
+        "durationMs": 529270,
+        "recordingDurationMs": 529270,
+        "bytes": 6351953,
+        "sha256": "ef7b78a30b05b49a9f4af839e331611a90e929839ca88ea03935f63263a09080",
+        "sharedAyahs": [
+          "43:33",
+          "43:34",
+          "43:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eWcraIojAe4",
+            "start": 820.15,
+            "end": 1349.4
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 635230,
+        "durationMs": 635230,
+        "recordingDurationMs": 635230,
+        "bytes": 7623468,
+        "sha256": "d793b2e1340be1783282d22072d19d63d07b769c17e3f1e77150dbef152b4d3c",
+        "sharedAyahs": [
+          "43:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kKJ0GjZ4Erw",
+            "start": 0.3,
+            "end": 635.51
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 289540,
+        "durationMs": 289540,
+        "recordingDurationMs": 289540,
+        "bytes": 3475121,
+        "sha256": "f5529b29dea4b5cff26ea96ef20a0c4f4d7840f9a166ee4a00af3757354912e7",
+        "sharedAyahs": [
+          "43:37",
+          "43:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kKJ0GjZ4Erw",
+            "start": 635.51,
+            "end": 925.02
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 141480,
+        "durationMs": 141480,
+        "recordingDurationMs": 141480,
+        "bytes": 1698449,
+        "sha256": "1759252a938b661c2cdae91eb75d1ac27033f2df853592f8ba6f9907c2230ed9",
+        "sharedAyahs": [
+          "43:39",
+          "43:40",
+          "43:41",
+          "43:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kKJ0GjZ4Erw",
+            "start": 925.02,
+            "end": 1066.47
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 471190,
+        "durationMs": 471190,
+        "recordingDurationMs": 471190,
+        "bytes": 5654993,
+        "sha256": "e045a38827a6a57374f7669604c16a1bc94d91ad6deb8735656fe7daea566da1",
+        "sharedAyahs": [
+          "43:43",
+          "43:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kKJ0GjZ4Erw",
+            "start": 1066.47,
+            "end": 1537.64
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 359110,
+        "durationMs": 359110,
+        "recordingDurationMs": 359110,
+        "bytes": 4310028,
+        "sha256": "99b2570850e7b22a6ab60e4ad19f6e1b81d1304fcdf623c563d44a50c67f0906",
+        "sharedAyahs": [
+          "43:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0VBZYazs4v4",
+            "start": 1.04,
+            "end": 360.13
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 1278085,
+        "durationMs": 1278085,
+        "recordingDurationMs": 1375870,
+        "bytes": 16510889,
+        "sha256": "ed65163fcbecc292038f91e378dc59cb1974c3df8c550e62779108d0c881b91b",
+        "sharedAyahs": [
+          "43:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0VBZYazs4v4",
+            "start": 360.13,
+            "end": 1638.2
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/046.mp3",
+        "startMs": 1278085,
+        "endMs": 1375870,
+        "durationMs": 97785,
+        "recordingDurationMs": 1375870,
+        "bytes": 16510889,
+        "sha256": "ed65163fcbecc292038f91e378dc59cb1974c3df8c550e62779108d0c881b91b",
+        "sharedAyahs": [
+          "43:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H8REmmY2i9E",
+            "start": 17.68,
+            "end": 115.43
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 23660,
+        "durationMs": 23660,
+        "recordingDurationMs": 23660,
+        "bytes": 284652,
+        "sha256": "cc022ce147e924f93e662008be83f1d84a50c15dd2c5eaf27d475f6122de8acc",
+        "sharedAyahs": [
+          "43:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H8REmmY2i9E",
+            "start": 115.43,
+            "end": 139.06
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 379420,
+        "durationMs": 379420,
+        "recordingDurationMs": 379420,
+        "bytes": 4553681,
+        "sha256": "9474ba4ffa3ff95df7aecbcd294f034df2d0dd42bf38c2a3e4ba5d2503953426",
+        "sharedAyahs": [
+          "43:48",
+          "43:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H8REmmY2i9E",
+            "start": 139.06,
+            "end": 518.45
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 73750,
+        "durationMs": 73750,
+        "recordingDurationMs": 73750,
+        "bytes": 885708,
+        "sha256": "e8639e5aaaa56dfa34845b3f42fd82c1a23e463076d30685ad0fd17db534ade6",
+        "sharedAyahs": [
+          "43:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H8REmmY2i9E",
+            "start": 518.45,
+            "end": 592.19
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 940309,
+        "durationMs": 940309,
+        "recordingDurationMs": 1317940,
+        "bytes": 15815657,
+        "sha256": "af0110c4c7e84f7dcb67325610e228cfce7091dc2dc54c5c269da5a7cd64cf33",
+        "sharedAyahs": [
+          "43:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H8REmmY2i9E",
+            "start": 592.19,
+            "end": 1532.49
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/051.mp3",
+        "startMs": 940309,
+        "endMs": 1317940,
+        "durationMs": 377631,
+        "recordingDurationMs": 1317940,
+        "bytes": 15815657,
+        "sha256": "af0110c4c7e84f7dcb67325610e228cfce7091dc2dc54c5c269da5a7cd64cf33",
+        "sharedAyahs": [
+          "43:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9RPF0lL-1kA",
+            "start": 0.46,
+            "end": 378.05
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 210700,
+        "durationMs": 210700,
+        "recordingDurationMs": 210700,
+        "bytes": 2529041,
+        "sha256": "f785477258ce88dac62e85720f66d24f2f6dd01783c302324d6609473bbe2074",
+        "sharedAyahs": [
+          "43:52",
+          "43:53",
+          "43:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9RPF0lL-1kA",
+            "start": 378.05,
+            "end": 588.74
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 73080,
+        "durationMs": 73080,
+        "recordingDurationMs": 73080,
+        "bytes": 877649,
+        "sha256": "a77e09b4789a4100dd65f1761e88fbf5281dce7152ccd8742d8dfd85cc22cd99",
+        "sharedAyahs": [
+          "43:55",
+          "43:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9RPF0lL-1kA",
+            "start": 588.74,
+            "end": 661.78
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 721320,
+        "durationMs": 721320,
+        "recordingDurationMs": 721320,
+        "bytes": 8656524,
+        "sha256": "0e14fd13089e144cc4c0459fcddaf288146b917585deaa40291d10ec85fa0940",
+        "sharedAyahs": [
+          "43:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9RPF0lL-1kA",
+            "start": 661.78,
+            "end": 1383.09
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 224380,
+        "durationMs": 224380,
+        "recordingDurationMs": 224380,
+        "bytes": 2693196,
+        "sha256": "83238589b87f2574e5a2625423aac2a8b1f3e870d453649f10eb42d4a9a8dec8",
+        "sharedAyahs": [
+          "43:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9RPF0lL-1kA",
+            "start": 1383.09,
+            "end": 1607.44
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 79800,
+        "durationMs": 79800,
+        "recordingDurationMs": 79800,
+        "bytes": 958284,
+        "sha256": "69b7f3baf85786f460106a58a6425819475fc0adfd83187da15edbcef97b6fd8",
+        "sharedAyahs": [
+          "43:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BfMie2oTxGo",
+            "start": 0.43,
+            "end": 80.19
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 174620,
+        "durationMs": 174620,
+        "recordingDurationMs": 174620,
+        "bytes": 2096177,
+        "sha256": "b0106f724e822458f5bf468907e61b6afb7244b94ac09a31e68b8afaa10e4713",
+        "sharedAyahs": [
+          "43:60",
+          "43:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BfMie2oTxGo",
+            "start": 80.19,
+            "end": 254.8
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 66700,
+        "durationMs": 66700,
+        "recordingDurationMs": 66700,
+        "bytes": 801036,
+        "sha256": "e900a32489565f9d97f3e5282022afc7c619aa4ba0b2a460e1cc1e1ad3a77f0c",
+        "sharedAyahs": [
+          "43:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BfMie2oTxGo",
+            "start": 254.8,
+            "end": 321.48
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 866280,
+        "durationMs": 866280,
+        "recordingDurationMs": 866280,
+        "bytes": 10396049,
+        "sha256": "9924860c7b8957530fbfe637abb546da65f345bea7bac5384be3e42a8662490e",
+        "sharedAyahs": [
+          "43:63",
+          "43:64",
+          "43:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BfMie2oTxGo",
+            "start": 321.48,
+            "end": 1187.72
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 293570,
+        "durationMs": 293570,
+        "recordingDurationMs": 293570,
+        "bytes": 3523500,
+        "sha256": "487e7ed5d35a090b231f6415990bb2b3f07e0ec26509e461af8627da50d1c36f",
+        "sharedAyahs": [
+          "43:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BfMie2oTxGo",
+            "start": 1187.72,
+            "end": 1481.26
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 485760,
+        "durationMs": 485760,
+        "recordingDurationMs": 485760,
+        "bytes": 5829804,
+        "sha256": "06af019415ef0e4ca93a481cd9e6fb39a1c38ae6c235f780598852d55066e005",
+        "sharedAyahs": [
+          "43:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Biqx8ARDK1k",
+            "start": 5.39,
+            "end": 491.13
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 467450,
+        "durationMs": 467450,
+        "recordingDurationMs": 467450,
+        "bytes": 5610065,
+        "sha256": "e62774238cf23325aee6ecd8420ccf92d8f8464e5ac57fdb9a39add59e6e41e2",
+        "sharedAyahs": [
+          "43:68",
+          "43:69",
+          "43:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Biqx8ARDK1k",
+            "start": 491.13,
+            "end": 958.54
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 607250,
+        "durationMs": 607250,
+        "recordingDurationMs": 607250,
+        "bytes": 7287660,
+        "sha256": "1faf68dcb202aaa00b02a65a5c0d79191d3be6c39df96b6fd4e58108346757eb",
+        "sharedAyahs": [
+          "43:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Biqx8ARDK1k",
+            "start": 958.54,
+            "end": 1565.78
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 258820,
+        "durationMs": 258820,
+        "recordingDurationMs": 258820,
+        "bytes": 3106481,
+        "sha256": "56a3bcd3d7b95908b40c19fcdce91f5197afdd50b31b51ea88710c432d718d41",
+        "sharedAyahs": [
+          "43:72",
+          "43:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f7EvKGwMtZk",
+            "start": 1.17,
+            "end": 259.96
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 270220,
+        "durationMs": 270220,
+        "recordingDurationMs": 270220,
+        "bytes": 3243281,
+        "sha256": "277a59163c8d0708b76d9a18ced3fbe25e52e26d6243f4eb27df832bef639836",
+        "sharedAyahs": [
+          "43:74",
+          "43:75",
+          "43:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f7EvKGwMtZk",
+            "start": 259.96,
+            "end": 530.14
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 310250,
+        "durationMs": 310250,
+        "recordingDurationMs": 310250,
+        "bytes": 3723665,
+        "sha256": "8396e5ca51def8e4ccdc7f567c085d638c7fe5cc1cb888cd5306e561c64710d5",
+        "sharedAyahs": [
+          "43:77",
+          "43:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f7EvKGwMtZk",
+            "start": 530.14,
+            "end": 840.38
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 85320,
+        "durationMs": 85320,
+        "recordingDurationMs": 85320,
+        "bytes": 1024529,
+        "sha256": "8d551155b16f117c5a3be84e09bc062172842232d328a93b72413ac3ad793984",
+        "sharedAyahs": [
+          "43:79",
+          "43:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f7EvKGwMtZk",
+            "start": 840.38,
+            "end": 925.67
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 414600,
+        "durationMs": 414600,
+        "recordingDurationMs": 414600,
+        "bytes": 4975884,
+        "sha256": "c188c3afbd44a421f772d1ce6f79a2e354c4e895db4d05f722e88f47e13a2866",
+        "sharedAyahs": [
+          "43:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f7EvKGwMtZk",
+            "start": 925.67,
+            "end": 1340.24
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 690580,
+        "durationMs": 690580,
+        "recordingDurationMs": 690580,
+        "bytes": 8287601,
+        "sha256": "47553b0577f347494b1be2dd8b15df5b45960b9b8a36fca896f27a5ad3f9a7b0",
+        "sharedAyahs": [
+          "43:82",
+          "43:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HV5VB1uhOSk",
+            "start": 0.0,
+            "end": 690.54
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 258670,
+        "durationMs": 258670,
+        "recordingDurationMs": 258670,
+        "bytes": 3104748,
+        "sha256": "d248801202f78bcd183d8a1aaee8f08fe2c2ff6ff8fe9cbbe15f2cecd827a498",
+        "sharedAyahs": [
+          "43:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HV5VB1uhOSk",
+            "start": 690.54,
+            "end": 949.18
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 329830,
+        "durationMs": 329830,
+        "recordingDurationMs": 329830,
+        "bytes": 3958668,
+        "sha256": "c1e16be1818a5d8c78b4bd24057a22b04b97c33fcee097c4d8457d8523119642",
+        "sharedAyahs": [
+          "43:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HV5VB1uhOSk",
+            "start": 949.18,
+            "end": 1278.99
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 614380,
+        "durationMs": 614380,
+        "recordingDurationMs": 614380,
+        "bytes": 7373201,
+        "sha256": "c7b78c010e05eb2cd3d4abd0c56e6ffdf3ba9f9b80562240b2e25f0c24beb97f",
+        "sharedAyahs": [
+          "43:86",
+          "43:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HV5VB1uhOSk",
+            "start": 1278.99,
+            "end": 1893.34
+          }
+        ]
+      },
+      {
+        "file": "043-الزخرف-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 654310,
+        "durationMs": 654310,
+        "recordingDurationMs": 654310,
+        "bytes": 7852433,
+        "sha256": "6ee3ecce27840c1e4fc092d073cb03efef4edfab41f5cf49e89a05d4a37fb435",
+        "sharedAyahs": [
+          "43:88",
+          "43:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HV5VB1uhOSk",
+            "start": 1893.34,
+            "end": 2547.64
+          }
+        ]
+      }
+    ],
+    "durationMs": 21363380,
+    "additionalAudioBytes": 0
+  }
+}
