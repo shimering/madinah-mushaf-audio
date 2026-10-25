@@ -1,0 +1,1493 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 47,
+  "surahName": "محمد",
+  "ayahCount": 38,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 38,
+    "mappedAyahCount": 38,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "4ysEcTip6TA": {
+      "durationSeconds": 1477.85,
+      "bytes": 17734865,
+      "sha256": "d16626e5adee15c1a73cdd4b7a8d35a399c615712481dee4f773aae3c7a5a858",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-003_4ysEcTip6TA.mp3",
+      "url": "https://www.youtube.com/watch?v=4ysEcTip6TA"
+    },
+    "K3MgIkIOcTk": {
+      "durationSeconds": 2718.41,
+      "bytes": 32621587,
+      "sha256": "fb41a962630f9a5e1c5d381a6969295143cea1a03286c448c3a43391d75226ee",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_003-015_K3MgIkIOcTk.mp3",
+      "url": "https://www.youtube.com/watch?v=K3MgIkIOcTk"
+    },
+    "ur9Ufz3PPHk": {
+      "durationSeconds": 2653.39,
+      "bytes": 31841397,
+      "sha256": "65543031c361f6248b60450b1fe080d04e7b4d0e367d17a72f025f3e3690abd9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_010-016_ur9Ufz3PPHk.mp3",
+      "url": "https://www.youtube.com/watch?v=ur9Ufz3PPHk"
+    },
+    "v5pf6ovczhM": {
+      "durationSeconds": 2478.36,
+      "bytes": 29741013,
+      "sha256": "46a7f978c251af68cfc51ead7bae8598d91462c5758b9aba1361fc390402d539",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_016-022_v5pf6ovczhM.mp3",
+      "url": "https://www.youtube.com/watch?v=v5pf6ovczhM"
+    },
+    "TVRpbA4CY6w": {
+      "durationSeconds": 2585.86,
+      "bytes": 31030965,
+      "sha256": "a64efd2e6adfb0367432fea5cdf805a49a3adb7cde8ad8c048c12055746b0fb2",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_022-031_TVRpbA4CY6w.mp3",
+      "url": "https://www.youtube.com/watch?v=TVRpbA4CY6w"
+    },
+    "fXwDTWSebEw": {
+      "durationSeconds": 2830.18,
+      "bytes": 33962805,
+      "sha256": "c16e7525b91aa443769f0575ed5bdc6044f5ba8f22c36e4ddfaa2e45a0d2c1cb",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_031-038_fXwDTWSebEw.mp3",
+      "url": "https://www.youtube.com/watch?v=fXwDTWSebEw"
+    },
+    "rsjNwsb_i44": {
+      "durationSeconds": 877.56,
+      "bytes": 10531408,
+      "sha256": "18a88229086cd9b9923cb21b5e6c50ed5d11a3a26dd6c3e6a4e85703185fbe42",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_038-038_rsjNwsb_i44.mp3",
+      "url": "https://www.youtube.com/watch?v=rsjNwsb_i44"
+    }
+  },
+  "ayahs": {
+    "47:1": {
+      "file": "047-محمد-youtube-v1/001.mp3",
+      "durationMs": 744310,
+      "bytes": 8932418,
+      "sha256": "4d68440f57fa92d419612d30bdeed0588624264214222c66221badeac3d0f4ad",
+      "sharedAyahs": [
+        "47:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4ysEcTip6TA",
+          "start": 5.71,
+          "end": 750.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: الذين كفروا وصدوا عن سبيل الله أضل أعمالهم"
+    },
+    "47:2": {
+      "file": "047-محمد-youtube-v1/002.mp3",
+      "durationMs": 618340,
+      "bytes": 7420706,
+      "sha256": "c94ce66b385089c69f292ff3cc0879dbef97fbe8ca74e040392de1ad715b415e",
+      "sharedAyahs": [
+        "47:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4ysEcTip6TA",
+          "start": 750.0,
+          "end": 1368.3
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: والذين آمنوا وعملوا الصالحات وآمنوا بما نزل على محمد"
+    },
+    "47:3": {
+      "file": "047-محمد-youtube-v1/003.mp3",
+      "durationMs": 670060,
+      "bytes": 8041091,
+      "sha256": "c9b73bea2bd9b2aa46148b80d11e179f7e8fbd4fcd7742052a2837c58e763b82",
+      "sharedAyahs": [
+        "47:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4ysEcTip6TA",
+          "start": 1368.3,
+          "end": 1477.85
+        },
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 2.9,
+          "end": 563.38
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: ذلك بأن الذين كفروا اتبعوا الباطل وأن الذين آمنوا اتبعوا الحق من ربهم"
+    },
+    "47:4": {
+      "file": "047-محمد-youtube-v1/004.mp3",
+      "durationMs": 816960,
+      "bytes": 9804194,
+      "sha256": "cca7a0e1884e96b6524e625578fe987df1fba81c3443db446b88306e3d2e05b1",
+      "sharedAyahs": [
+        "47:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 563.38,
+          "end": 1380.33
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: فإذا لقيتم الذين كفروا فضرب الرقاب حتى إذا أثخنتموهم فشدوا الوثاق"
+    },
+    "47:5": {
+      "file": "047-محمد-youtube-v1/005.mp3",
+      "durationMs": 181800,
+      "bytes": 2182278,
+      "sha256": "87cc5233ec971499ca9f1fab7bb137cb6e15c48e3b0edc19ed20ad23e2d03299",
+      "sharedAyahs": [
+        "47:5",
+        "47:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1380.33,
+          "end": 1562.11
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 5-6: سيهديهم ويصلح بالهم ويدخلهم الجنة عرفها لهم"
+    },
+    "47:6": {
+      "file": "047-محمد-youtube-v1/005.mp3",
+      "durationMs": 181800,
+      "bytes": 2182278,
+      "sha256": "87cc5233ec971499ca9f1fab7bb137cb6e15c48e3b0edc19ed20ad23e2d03299",
+      "sharedAyahs": [
+        "47:5",
+        "47:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1380.33,
+          "end": 1562.11
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 5-6: سيهديهم ويصلح بالهم ويدخلهم الجنة عرفها لهم"
+    },
+    "47:7": {
+      "file": "047-محمد-youtube-v1/007.mp3",
+      "durationMs": 151990,
+      "bytes": 1824582,
+      "sha256": "bcd0457c95f0b2cede10693f032aea7632c600bbf8a3bec900156d4e2ecd6dab",
+      "sharedAyahs": [
+        "47:7",
+        "47:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1562.11,
+          "end": 1714.06
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 7-8: يا أيها الذين آمنوا إن تنصروا الله ينصركم والذين كفروا فتعسا لهم"
+    },
+    "47:8": {
+      "file": "047-محمد-youtube-v1/007.mp3",
+      "durationMs": 151990,
+      "bytes": 1824582,
+      "sha256": "bcd0457c95f0b2cede10693f032aea7632c600bbf8a3bec900156d4e2ecd6dab",
+      "sharedAyahs": [
+        "47:7",
+        "47:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1562.11,
+          "end": 1714.06
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 7-8: يا أيها الذين آمنوا إن تنصروا الله ينصركم والذين كفروا فتعسا لهم"
+    },
+    "47:9": {
+      "file": "047-محمد-youtube-v1/009.mp3",
+      "durationMs": 45170,
+      "bytes": 542690,
+      "sha256": "649882400f8fc39b18eda15f691a7c2433ee8b6049bb68a9e055b2e9795859f8",
+      "sharedAyahs": [
+        "47:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1714.06,
+          "end": 1759.21
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: ذلك بأنهم كرهوا ما أنزل الله فأحبط أعمالهم"
+    },
+    "47:10": {
+      "file": "047-محمد-youtube-v1/010.mp3",
+      "durationMs": 113620,
+      "bytes": 1364068,
+      "sha256": "25291fd4e082d441688cddcb6d71075098ad62d665ab994e71a4b361bdd54505",
+      "sharedAyahs": [
+        "47:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1759.21,
+          "end": 1872.8
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: أفلم يسيروا في الأرض فينظروا كيف كان عاقبة الذين من قبلهم"
+    },
+    "47:11": {
+      "file": "047-محمد-youtube-v1/011.mp3",
+      "durationMs": 110400,
+      "bytes": 1325481,
+      "sha256": "3f8579ae4d3ddade49a4e6dbfd05f53df49c9e2ae09b0f00ae612313f632afdd",
+      "sharedAyahs": [
+        "47:11",
+        "47:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1872.8,
+          "end": 1983.19
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 11-12: ذلك بأن الله مولى الذين آمنوا وإن الله يدخل الذين آمنوا جنات تجري من تحتها الأنهار"
+    },
+    "47:12": {
+      "file": "047-محمد-youtube-v1/011.mp3",
+      "durationMs": 110400,
+      "bytes": 1325481,
+      "sha256": "3f8579ae4d3ddade49a4e6dbfd05f53df49c9e2ae09b0f00ae612313f632afdd",
+      "sharedAyahs": [
+        "47:11",
+        "47:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1872.8,
+          "end": 1983.19
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 11-12: ذلك بأن الله مولى الذين آمنوا وإن الله يدخل الذين آمنوا جنات تجري من تحتها الأنهار"
+    },
+    "47:13": {
+      "file": "047-محمد-youtube-v1/013.mp3",
+      "durationMs": 62570,
+      "bytes": 751492,
+      "sha256": "0bd19c4e43b21b508e4135e2b4e8c9d2b052aa6783635c00379df8d169bfa89a",
+      "sharedAyahs": [
+        "47:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 1983.19,
+          "end": 2045.73
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: وكأين من قرية هي أشد قوة من قريتك التي أخرجتك أهلكناهم"
+    },
+    "47:14": {
+      "file": "047-محمد-youtube-v1/014.mp3",
+      "durationMs": 89930,
+      "bytes": 1079812,
+      "sha256": "26e7c2b04a4c2c84488f0a2282dde83b5d48071abe86e85a5191b8a830a4e609",
+      "sharedAyahs": [
+        "47:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 2045.73,
+          "end": 2135.62
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: أفمن كان على بينة من ربه كمن زين له سوء عمله"
+    },
+    "47:15": {
+      "file": "047-محمد-youtube-v1/015.mp3",
+      "durationMs": 3136970,
+      "bytes": 37644037,
+      "sha256": "2c14f3dbe3967955bdfca98b00385013afeff80c6d11c60ed1e4b9c711d39028",
+      "sharedAyahs": [
+        "47:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "K3MgIkIOcTk",
+          "start": 2135.62,
+          "end": 2714.18
+        },
+        {
+          "source": "ur9Ufz3PPHk",
+          "start": 6.1,
+          "end": 2564.49
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: مثل الجنة التي وعد المتقون فيها أنهار من ماء غير آسن وأنهار من لبن لم يتغير طعمه"
+    },
+    "47:16": {
+      "file": "047-محمد-youtube-v1/016.mp3",
+      "durationMs": 620400,
+      "bytes": 7445221,
+      "sha256": "b775412b0a6a5ceeed4f22245a3c9219d5e0e5d340baec9045e40d73db357678",
+      "sharedAyahs": [
+        "47:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ur9Ufz3PPHk",
+          "start": 2564.49,
+          "end": 2653.39
+        },
+        {
+          "source": "v5pf6ovczhM",
+          "start": 1.42,
+          "end": 532.91
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: ومنهم من يستمع إليك حتى إذا خرجوا من عندك قالوا للذين أوتوا العلم ماذا قال آنفا"
+    },
+    "47:17": {
+      "file": "047-محمد-youtube-v1/017.mp3",
+      "durationMs": 314180,
+      "bytes": 3770889,
+      "sha256": "1f2ba6afc8dd88bf61cb6e2df96b3d934d7e767e30fae0b8c3720c89ce19612a",
+      "sharedAyahs": [
+        "47:17",
+        "47:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v5pf6ovczhM",
+          "start": 532.91,
+          "end": 847.06
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 17-18: والذين اهتدوا زادهم هدى وآتاهم تقواهم فهل ينظرون إلا الساعة أن تأتيهم بغتة"
+    },
+    "47:18": {
+      "file": "047-محمد-youtube-v1/017.mp3",
+      "durationMs": 314180,
+      "bytes": 3770889,
+      "sha256": "1f2ba6afc8dd88bf61cb6e2df96b3d934d7e767e30fae0b8c3720c89ce19612a",
+      "sharedAyahs": [
+        "47:17",
+        "47:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v5pf6ovczhM",
+          "start": 532.91,
+          "end": 847.06
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 17-18: والذين اهتدوا زادهم هدى وآتاهم تقواهم فهل ينظرون إلا الساعة أن تأتيهم بغتة"
+    },
+    "47:19": {
+      "file": "047-محمد-youtube-v1/019.mp3",
+      "durationMs": 1016160,
+      "bytes": 12194596,
+      "sha256": "4bedbdf0418ccf34e2c335b6b2ca84d7389ad0abc211d36ec24e383b0e4c962f",
+      "sharedAyahs": [
+        "47:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v5pf6ovczhM",
+          "start": 847.06,
+          "end": 1863.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: فاعلم أنه لا إله إلا الله واستغفر لذنبك وللمؤمنين والمؤمنات"
+    },
+    "47:20": {
+      "file": "047-محمد-youtube-v1/020.mp3",
+      "durationMs": 450600,
+      "bytes": 5407881,
+      "sha256": "44e84232dd755f1151930ef8455b4a50a57cffe2154773fa19b077b2c7773638",
+      "sharedAyahs": [
+        "47:20",
+        "47:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v5pf6ovczhM",
+          "start": 1863.2,
+          "end": 2313.79
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 20-21: ويقول الذين آمنوا لولا نزلت سورة فإذا أنزلت سورة محكمة طاعة وقول معروف"
+    },
+    "47:21": {
+      "file": "047-محمد-youtube-v1/020.mp3",
+      "durationMs": 450600,
+      "bytes": 5407881,
+      "sha256": "44e84232dd755f1151930ef8455b4a50a57cffe2154773fa19b077b2c7773638",
+      "sharedAyahs": [
+        "47:20",
+        "47:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v5pf6ovczhM",
+          "start": 1863.2,
+          "end": 2313.79
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 20-21: ويقول الذين آمنوا لولا نزلت سورة فإذا أنزلت سورة محكمة طاعة وقول معروف"
+    },
+    "47:22": {
+      "file": "047-محمد-youtube-v1/022.mp3",
+      "durationMs": 1217640,
+      "bytes": 14612101,
+      "sha256": "61aed3caeb394057d12879582a54308364e68e5fff7bff3b3fc64a42c238f4b1",
+      "sharedAyahs": [
+        "47:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "v5pf6ovczhM",
+          "start": 2313.79,
+          "end": 2475.33
+        },
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 2.27,
+          "end": 1058.31
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: فهل عسيتم إن توليتم أن تفسدوا في الأرض وتقطعوا أرحامكم"
+    },
+    "47:23": {
+      "file": "047-محمد-youtube-v1/023.mp3",
+      "durationMs": 260470,
+      "bytes": 3126340,
+      "sha256": "bcca531081a81a0872d2cb8380c5dcb0315cd55c1d46266b0ae14c9317ebad8f",
+      "sharedAyahs": [
+        "47:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 1058.31,
+          "end": 1318.77
+        }
+      ],
+      "reviewNote": "تفسير الآية 23: أولئك الذين لعنهم الله فأصمهم وأعمى أبصارهم"
+    },
+    "47:24": {
+      "file": "047-محمد-youtube-v1/024.mp3",
+      "durationMs": 476760,
+      "bytes": 5721796,
+      "sha256": "9e112f86ec549bace3c21bcc751e6adc15e78ae268f65ebc850b7603021b7860",
+      "sharedAyahs": [
+        "47:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 1318.77,
+          "end": 1795.49
+        }
+      ],
+      "reviewNote": "تفسير الآية 24: أفلا يتدبرون القرآن أم على قلوب أقفالها"
+    },
+    "47:25": {
+      "file": "047-محمد-youtube-v1/025.mp3",
+      "durationMs": 29380,
+      "bytes": 353193,
+      "sha256": "a56b92159aab9668d87cada097045c1ce46aff8dfc23ed763c09070fedb1538d",
+      "sharedAyahs": [
+        "47:25",
+        "47:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 1795.49,
+          "end": 1824.86
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 25-26: إن الذين ارتدوا على أدبارهم ذلك بأنهم قالوا للذين كرهوا ما نزل الله سنطيعكم في بعض الأمر"
+    },
+    "47:26": {
+      "file": "047-محمد-youtube-v1/025.mp3",
+      "durationMs": 29380,
+      "bytes": 353193,
+      "sha256": "a56b92159aab9668d87cada097045c1ce46aff8dfc23ed763c09070fedb1538d",
+      "sharedAyahs": [
+        "47:25",
+        "47:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 1795.49,
+          "end": 1824.86
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 25-26: إن الذين ارتدوا على أدبارهم ذلك بأنهم قالوا للذين كرهوا ما نزل الله سنطيعكم في بعض الأمر"
+    },
+    "47:27": {
+      "file": "047-محمد-youtube-v1/027.mp3",
+      "durationMs": 198120,
+      "bytes": 2378121,
+      "sha256": "18252497f69a07ce59433e0abbb647e4fbf956cedc2882025fd96fff3a882af8",
+      "sharedAyahs": [
+        "47:27",
+        "47:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 1824.86,
+          "end": 2022.95
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 27-28: فكيف إذا توفتهم الملائكة يضربون وجوههم وأدبارهم ذلك بأنهم اتبعوا ما أسخط الله"
+    },
+    "47:28": {
+      "file": "047-محمد-youtube-v1/027.mp3",
+      "durationMs": 198120,
+      "bytes": 2378121,
+      "sha256": "18252497f69a07ce59433e0abbb647e4fbf956cedc2882025fd96fff3a882af8",
+      "sharedAyahs": [
+        "47:27",
+        "47:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 1824.86,
+          "end": 2022.95
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 27-28: فكيف إذا توفتهم الملائكة يضربون وجوههم وأدبارهم ذلك بأنهم اتبعوا ما أسخط الله"
+    },
+    "47:29": {
+      "file": "047-محمد-youtube-v1/029.mp3",
+      "durationMs": 268130,
+      "bytes": 3218217,
+      "sha256": "ee74382083d6528efba6129e71b4f83dd8eae0c620f819fad32e574f38d13157",
+      "sharedAyahs": [
+        "47:29",
+        "47:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 2022.95,
+          "end": 2291.05
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 29-30: أم حسب الذين في قلوبهم مرض أن لن يخرج الله أضغانهم ولو نشاء لأريناكهم فلعرفتهم بسيماهم"
+    },
+    "47:30": {
+      "file": "047-محمد-youtube-v1/029.mp3",
+      "durationMs": 268130,
+      "bytes": 3218217,
+      "sha256": "ee74382083d6528efba6129e71b4f83dd8eae0c620f819fad32e574f38d13157",
+      "sharedAyahs": [
+        "47:29",
+        "47:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 2022.95,
+          "end": 2291.05
+        }
+      ],
+      "reviewNote": "تفسير الآيتين 29-30: أم حسب الذين في قلوبهم مرض أن لن يخرج الله أضغانهم ولو نشاء لأريناكهم فلعرفتهم بسيماهم"
+    },
+    "47:31": {
+      "file": "047-محمد-youtube-v1/031.mp3",
+      "durationMs": 582740,
+      "bytes": 6993349,
+      "sha256": "2026c0f4e5159057dd5c88db45001ed2579347654aee2d816a0e72677038d029",
+      "sharedAyahs": [
+        "47:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TVRpbA4CY6w",
+          "start": 2291.05,
+          "end": 2585.86
+        },
+        {
+          "source": "fXwDTWSebEw",
+          "start": 18.32,
+          "end": 306.25
+        }
+      ],
+      "reviewNote": "تفسير الآية 31: ولنبلونكم حتى نعلم المجاهدين منكم والصابرين ونبلو أخباركم"
+    },
+    "47:32": {
+      "file": "047-محمد-youtube-v1/032.mp3",
+      "durationMs": 1102900,
+      "bytes": 13235433,
+      "sha256": "798a71d26605dddae52f2035383dcc42bcc36f5025b90b1bb3933c81e93127ff",
+      "sharedAyahs": [
+        "47:32",
+        "47:33",
+        "47:34",
+        "47:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fXwDTWSebEw",
+          "start": 306.25,
+          "end": 1409.12
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-35: إن الذين كفروا وصدوا عن سبيل الله... يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول فلا تهنوا وتدعوا إلى السلم"
+    },
+    "47:33": {
+      "file": "047-محمد-youtube-v1/032.mp3",
+      "durationMs": 1102900,
+      "bytes": 13235433,
+      "sha256": "798a71d26605dddae52f2035383dcc42bcc36f5025b90b1bb3933c81e93127ff",
+      "sharedAyahs": [
+        "47:32",
+        "47:33",
+        "47:34",
+        "47:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fXwDTWSebEw",
+          "start": 306.25,
+          "end": 1409.12
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-35: إن الذين كفروا وصدوا عن سبيل الله... يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول فلا تهنوا وتدعوا إلى السلم"
+    },
+    "47:34": {
+      "file": "047-محمد-youtube-v1/032.mp3",
+      "durationMs": 1102900,
+      "bytes": 13235433,
+      "sha256": "798a71d26605dddae52f2035383dcc42bcc36f5025b90b1bb3933c81e93127ff",
+      "sharedAyahs": [
+        "47:32",
+        "47:33",
+        "47:34",
+        "47:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fXwDTWSebEw",
+          "start": 306.25,
+          "end": 1409.12
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-35: إن الذين كفروا وصدوا عن سبيل الله... يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول فلا تهنوا وتدعوا إلى السلم"
+    },
+    "47:35": {
+      "file": "047-محمد-youtube-v1/032.mp3",
+      "durationMs": 1102900,
+      "bytes": 13235433,
+      "sha256": "798a71d26605dddae52f2035383dcc42bcc36f5025b90b1bb3933c81e93127ff",
+      "sharedAyahs": [
+        "47:32",
+        "47:33",
+        "47:34",
+        "47:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fXwDTWSebEw",
+          "start": 306.25,
+          "end": 1409.12
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-35: إن الذين كفروا وصدوا عن سبيل الله... يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول فلا تهنوا وتدعوا إلى السلم"
+    },
+    "47:36": {
+      "file": "047-محمد-youtube-v1/036.mp3",
+      "durationMs": 567190,
+      "bytes": 6806980,
+      "sha256": "4cb0548d9df66e9059afa5909d495e4c29ef2a325fa3b51dbb6c42ebceee5497",
+      "sharedAyahs": [
+        "47:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fXwDTWSebEw",
+          "start": 1409.12,
+          "end": 1976.3
+        }
+      ],
+      "reviewNote": "تفسير الآية 36: إنما الحياة الدنيا لعب ولهو وإن تؤمنوا وتتقوا يؤتكم أجوركم"
+    },
+    "47:37": {
+      "file": "047-محمد-youtube-v1/037.mp3",
+      "durationMs": 544700,
+      "bytes": 6537124,
+      "sha256": "d7a5a715d23e90b9a6c366452f2e1df2b1ccec95c8513edb62d19f469a99df1c",
+      "sharedAyahs": [
+        "47:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fXwDTWSebEw",
+          "start": 1976.3,
+          "end": 2520.98
+        }
+      ],
+      "reviewNote": "تفسير الآية 37: إن يسألكموها فيحفكم تبخلوا ويخرج أضغانكم"
+    },
+    "47:38": {
+      "file": "047-محمد-youtube-v1/038.mp3",
+      "durationMs": 1181810,
+      "bytes": 14182117,
+      "sha256": "0616a353fb88e02134d51a7cf0117706c39f9c4418190cd39c3595b5616c9e89",
+      "sharedAyahs": [
+        "47:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fXwDTWSebEw",
+          "start": 2520.98,
+          "end": 2829.18
+        },
+        {
+          "source": "rsjNwsb_i44",
+          "start": 1.44,
+          "end": 874.98
+        }
+      ],
+      "reviewNote": "تفسير الآية 38: ها أنتم هؤلاء تدعون لتنفقوا في سبيل الله فمنكم من يبخل ومن يبخل فإنما يبخل عن نفسه والله الغني وأنتم الفقراء وإن تتولوا يستبدل قوما غيركم ثم لا يكونوا أمثالكم"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLC82A89AD738C9741",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "muhammad-faith-versus-disbelief",
+      "title": "حقيقة الإيمان بالله وتكفير السيئات وإضلال أعمال الكافرين والباطل",
+      "file": "047-محمد-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 744290
+    },
+    {
+      "id": "muhammad-rules-of-jihad-and-captives",
+      "title": "أحكام القتال وضرب الرقاب وفداء الأسرى وثواب الشهداء عند ربهم",
+      "file": "047-محمد-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 816949
+    },
+    {
+      "id": "muhammad-description-of-paradise-rivers",
+      "title": "مثل الجنة وأنهارها الأربعة من ماء ولبن وخمر وعسل مصفى ونعيم المتقين",
+      "file": "047-محمد-youtube-v1/015.mp3",
+      "startMs": 0,
+      "endMs": 3136950
+    },
+    {
+      "id": "muhammad-knowledge-of-tawhid-and-forgiveness",
+      "title": "فاعلم أنه لا إله إلا الله واستغفر لذنبك وللمؤمنين والمؤمنات",
+      "file": "047-محمد-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 1016140
+    },
+    {
+      "id": "muhammad-kinship-and-reflection-on-quran",
+      "title": "التحذير من قطيعة الأرحام والإفساد في الأرض وأفلا يتدبرون القرآن أم على قلوب أقفالها",
+      "file": "047-محمد-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 1217580
+    },
+    {
+      "id": "muhammad-quranic-reflection-locks-on-hearts",
+      "title": "أفلا يتدبرون القرآن أم على قلوب أقفالها: منهج تدبر آيات التنزيل",
+      "file": "047-محمد-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 476720
+    },
+    {
+      "id": "muhammad-spending-in-the-cause-of-god",
+      "title": "ها أنتم هؤلاء تدعون لتنفقوا في سبيل الله وحقيقة الغنى الإلهي وإن تتولوا يستبدل قوما غيركم",
+      "file": "047-محمد-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 1181739
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "4ysEcTip6TA",
+      "K3MgIkIOcTk",
+      "ur9Ufz3PPHk",
+      "v5pf6ovczhM",
+      "TVRpbA4CY6w",
+      "fXwDTWSebEw",
+      "rsjNwsb_i44"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "047-محمد-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 744310,
+        "durationMs": 744310,
+        "recordingDurationMs": 744310,
+        "bytes": 8932418,
+        "sha256": "4d68440f57fa92d419612d30bdeed0588624264214222c66221badeac3d0f4ad",
+        "sharedAyahs": [
+          "47:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4ysEcTip6TA",
+            "start": 5.71,
+            "end": 750.0
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 618340,
+        "durationMs": 618340,
+        "recordingDurationMs": 618340,
+        "bytes": 7420706,
+        "sha256": "c94ce66b385089c69f292ff3cc0879dbef97fbe8ca74e040392de1ad715b415e",
+        "sharedAyahs": [
+          "47:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4ysEcTip6TA",
+            "start": 750.0,
+            "end": 1368.3
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 109451,
+        "durationMs": 109451,
+        "recordingDurationMs": 670060,
+        "bytes": 8041091,
+        "sha256": "c9b73bea2bd9b2aa46148b80d11e179f7e8fbd4fcd7742052a2837c58e763b82",
+        "sharedAyahs": [
+          "47:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4ysEcTip6TA",
+            "start": 1368.3,
+            "end": 1477.85
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/003.mp3",
+        "startMs": 109451,
+        "endMs": 670060,
+        "durationMs": 560609,
+        "recordingDurationMs": 670060,
+        "bytes": 8041091,
+        "sha256": "c9b73bea2bd9b2aa46148b80d11e179f7e8fbd4fcd7742052a2837c58e763b82",
+        "sharedAyahs": [
+          "47:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 2.9,
+            "end": 563.38
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 816960,
+        "durationMs": 816960,
+        "recordingDurationMs": 816960,
+        "bytes": 9804194,
+        "sha256": "cca7a0e1884e96b6524e625578fe987df1fba81c3443db446b88306e3d2e05b1",
+        "sharedAyahs": [
+          "47:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 563.38,
+            "end": 1380.33
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 181800,
+        "durationMs": 181800,
+        "recordingDurationMs": 181800,
+        "bytes": 2182278,
+        "sha256": "87cc5233ec971499ca9f1fab7bb137cb6e15c48e3b0edc19ed20ad23e2d03299",
+        "sharedAyahs": [
+          "47:5",
+          "47:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 1380.33,
+            "end": 1562.11
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 151990,
+        "durationMs": 151990,
+        "recordingDurationMs": 151990,
+        "bytes": 1824582,
+        "sha256": "bcd0457c95f0b2cede10693f032aea7632c600bbf8a3bec900156d4e2ecd6dab",
+        "sharedAyahs": [
+          "47:7",
+          "47:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 1562.11,
+            "end": 1714.06
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 45170,
+        "durationMs": 45170,
+        "recordingDurationMs": 45170,
+        "bytes": 542690,
+        "sha256": "649882400f8fc39b18eda15f691a7c2433ee8b6049bb68a9e055b2e9795859f8",
+        "sharedAyahs": [
+          "47:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 1714.06,
+            "end": 1759.21
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 113620,
+        "durationMs": 113620,
+        "recordingDurationMs": 113620,
+        "bytes": 1364068,
+        "sha256": "25291fd4e082d441688cddcb6d71075098ad62d665ab994e71a4b361bdd54505",
+        "sharedAyahs": [
+          "47:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 1759.21,
+            "end": 1872.8
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 110400,
+        "durationMs": 110400,
+        "recordingDurationMs": 110400,
+        "bytes": 1325481,
+        "sha256": "3f8579ae4d3ddade49a4e6dbfd05f53df49c9e2ae09b0f00ae612313f632afdd",
+        "sharedAyahs": [
+          "47:11",
+          "47:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 1872.8,
+            "end": 1983.19
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 62570,
+        "durationMs": 62570,
+        "recordingDurationMs": 62570,
+        "bytes": 751492,
+        "sha256": "0bd19c4e43b21b508e4135e2b4e8c9d2b052aa6783635c00379df8d169bfa89a",
+        "sharedAyahs": [
+          "47:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 1983.19,
+            "end": 2045.73
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 89930,
+        "durationMs": 89930,
+        "recordingDurationMs": 89930,
+        "bytes": 1079812,
+        "sha256": "26e7c2b04a4c2c84488f0a2282dde83b5d48071abe86e85a5191b8a830a4e609",
+        "sharedAyahs": [
+          "47:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 2045.73,
+            "end": 2135.62
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 578557,
+        "durationMs": 578557,
+        "recordingDurationMs": 3136970,
+        "bytes": 37644037,
+        "sha256": "2c14f3dbe3967955bdfca98b00385013afeff80c6d11c60ed1e4b9c711d39028",
+        "sharedAyahs": [
+          "47:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "K3MgIkIOcTk",
+            "start": 2135.62,
+            "end": 2714.18
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/015.mp3",
+        "startMs": 578557,
+        "endMs": 3136970,
+        "durationMs": 2558413,
+        "recordingDurationMs": 3136970,
+        "bytes": 37644037,
+        "sha256": "2c14f3dbe3967955bdfca98b00385013afeff80c6d11c60ed1e4b9c711d39028",
+        "sharedAyahs": [
+          "47:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ur9Ufz3PPHk",
+            "start": 6.1,
+            "end": 2564.49
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 88811,
+        "durationMs": 88811,
+        "recordingDurationMs": 620400,
+        "bytes": 7445221,
+        "sha256": "b775412b0a6a5ceeed4f22245a3c9219d5e0e5d340baec9045e40d73db357678",
+        "sharedAyahs": [
+          "47:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ur9Ufz3PPHk",
+            "start": 2564.49,
+            "end": 2653.39
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/016.mp3",
+        "startMs": 88811,
+        "endMs": 620400,
+        "durationMs": 531589,
+        "recordingDurationMs": 620400,
+        "bytes": 7445221,
+        "sha256": "b775412b0a6a5ceeed4f22245a3c9219d5e0e5d340baec9045e40d73db357678",
+        "sharedAyahs": [
+          "47:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v5pf6ovczhM",
+            "start": 1.42,
+            "end": 532.91
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 314180,
+        "durationMs": 314180,
+        "recordingDurationMs": 314180,
+        "bytes": 3770889,
+        "sha256": "1f2ba6afc8dd88bf61cb6e2df96b3d934d7e767e30fae0b8c3720c89ce19612a",
+        "sharedAyahs": [
+          "47:17",
+          "47:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v5pf6ovczhM",
+            "start": 532.91,
+            "end": 847.06
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 1016160,
+        "durationMs": 1016160,
+        "recordingDurationMs": 1016160,
+        "bytes": 12194596,
+        "sha256": "4bedbdf0418ccf34e2c335b6b2ca84d7389ad0abc211d36ec24e383b0e4c962f",
+        "sharedAyahs": [
+          "47:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v5pf6ovczhM",
+            "start": 847.06,
+            "end": 1863.2
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 450600,
+        "durationMs": 450600,
+        "recordingDurationMs": 450600,
+        "bytes": 5407881,
+        "sha256": "44e84232dd755f1151930ef8455b4a50a57cffe2154773fa19b077b2c7773638",
+        "sharedAyahs": [
+          "47:20",
+          "47:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v5pf6ovczhM",
+            "start": 1863.2,
+            "end": 2313.79
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 161557,
+        "durationMs": 161557,
+        "recordingDurationMs": 1217640,
+        "bytes": 14612101,
+        "sha256": "61aed3caeb394057d12879582a54308364e68e5fff7bff3b3fc64a42c238f4b1",
+        "sharedAyahs": [
+          "47:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "v5pf6ovczhM",
+            "start": 2313.79,
+            "end": 2475.33
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/022.mp3",
+        "startMs": 161557,
+        "endMs": 1217640,
+        "durationMs": 1056083,
+        "recordingDurationMs": 1217640,
+        "bytes": 14612101,
+        "sha256": "61aed3caeb394057d12879582a54308364e68e5fff7bff3b3fc64a42c238f4b1",
+        "sharedAyahs": [
+          "47:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TVRpbA4CY6w",
+            "start": 2.27,
+            "end": 1058.31
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 260470,
+        "durationMs": 260470,
+        "recordingDurationMs": 260470,
+        "bytes": 3126340,
+        "sha256": "bcca531081a81a0872d2cb8380c5dcb0315cd55c1d46266b0ae14c9317ebad8f",
+        "sharedAyahs": [
+          "47:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TVRpbA4CY6w",
+            "start": 1058.31,
+            "end": 1318.77
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 476760,
+        "durationMs": 476760,
+        "recordingDurationMs": 476760,
+        "bytes": 5721796,
+        "sha256": "9e112f86ec549bace3c21bcc751e6adc15e78ae268f65ebc850b7603021b7860",
+        "sharedAyahs": [
+          "47:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TVRpbA4CY6w",
+            "start": 1318.77,
+            "end": 1795.49
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 29380,
+        "durationMs": 29380,
+        "recordingDurationMs": 29380,
+        "bytes": 353193,
+        "sha256": "a56b92159aab9668d87cada097045c1ce46aff8dfc23ed763c09070fedb1538d",
+        "sharedAyahs": [
+          "47:25",
+          "47:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TVRpbA4CY6w",
+            "start": 1795.49,
+            "end": 1824.86
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 198120,
+        "durationMs": 198120,
+        "recordingDurationMs": 198120,
+        "bytes": 2378121,
+        "sha256": "18252497f69a07ce59433e0abbb647e4fbf956cedc2882025fd96fff3a882af8",
+        "sharedAyahs": [
+          "47:27",
+          "47:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TVRpbA4CY6w",
+            "start": 1824.86,
+            "end": 2022.95
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 268130,
+        "durationMs": 268130,
+        "recordingDurationMs": 268130,
+        "bytes": 3218217,
+        "sha256": "ee74382083d6528efba6129e71b4f83dd8eae0c620f819fad32e574f38d13157",
+        "sharedAyahs": [
+          "47:29",
+          "47:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TVRpbA4CY6w",
+            "start": 2022.95,
+            "end": 2291.05
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 294707,
+        "durationMs": 294707,
+        "recordingDurationMs": 582740,
+        "bytes": 6993349,
+        "sha256": "2026c0f4e5159057dd5c88db45001ed2579347654aee2d816a0e72677038d029",
+        "sharedAyahs": [
+          "47:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TVRpbA4CY6w",
+            "start": 2291.05,
+            "end": 2585.86
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/031.mp3",
+        "startMs": 294707,
+        "endMs": 582740,
+        "durationMs": 288033,
+        "recordingDurationMs": 582740,
+        "bytes": 6993349,
+        "sha256": "2026c0f4e5159057dd5c88db45001ed2579347654aee2d816a0e72677038d029",
+        "sharedAyahs": [
+          "47:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fXwDTWSebEw",
+            "start": 18.32,
+            "end": 306.25
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 1102900,
+        "durationMs": 1102900,
+        "recordingDurationMs": 1102900,
+        "bytes": 13235433,
+        "sha256": "798a71d26605dddae52f2035383dcc42bcc36f5025b90b1bb3933c81e93127ff",
+        "sharedAyahs": [
+          "47:32",
+          "47:33",
+          "47:34",
+          "47:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fXwDTWSebEw",
+            "start": 306.25,
+            "end": 1409.12
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 567190,
+        "durationMs": 567190,
+        "recordingDurationMs": 567190,
+        "bytes": 6806980,
+        "sha256": "4cb0548d9df66e9059afa5909d495e4c29ef2a325fa3b51dbb6c42ebceee5497",
+        "sharedAyahs": [
+          "47:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fXwDTWSebEw",
+            "start": 1409.12,
+            "end": 1976.3
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 544700,
+        "durationMs": 544700,
+        "recordingDurationMs": 544700,
+        "bytes": 6537124,
+        "sha256": "d7a5a715d23e90b9a6c366452f2e1df2b1ccec95c8513edb62d19f469a99df1c",
+        "sharedAyahs": [
+          "47:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fXwDTWSebEw",
+            "start": 1976.3,
+            "end": 2520.98
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 308221,
+        "durationMs": 308221,
+        "recordingDurationMs": 1181810,
+        "bytes": 14182117,
+        "sha256": "0616a353fb88e02134d51a7cf0117706c39f9c4418190cd39c3595b5616c9e89",
+        "sharedAyahs": [
+          "47:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fXwDTWSebEw",
+            "start": 2520.98,
+            "end": 2829.18
+          }
+        ]
+      },
+      {
+        "file": "047-محمد-youtube-v1/038.mp3",
+        "startMs": 308221,
+        "endMs": 1181810,
+        "durationMs": 873589,
+        "recordingDurationMs": 1181810,
+        "bytes": 14182117,
+        "sha256": "0616a353fb88e02134d51a7cf0117706c39f9c4418190cd39c3595b5616c9e89",
+        "sharedAyahs": [
+          "47:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rsjNwsb_i44",
+            "start": 1.44,
+            "end": 874.98
+          }
+        ]
+      }
+    ],
+    "durationMs": 15573300,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
