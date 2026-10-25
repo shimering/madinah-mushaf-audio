@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "تسجيل تليفزيوني - خواطر الشيخ محمد متولي الشعراوي",
+  "surah": 104,
+  "surahName": "الهمزة",
+  "ayahCount": 9,
+  "reviewStatus": "complete",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 9,
+    "mappedAyahCount": 9,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "ep01": {
+      "durationSeconds": 3220.99,
+      "bytes": 38652236,
+      "sha256": "d50684e2dde8af80c6b59ba2efa713399a57e17cb59da44175c6daf507ce1118",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-009_8P8kt-U6uto.mp3",
+      "url": "https://www.youtube.com/watch?v=8P8kt-U6uto"
+    }
+  },
+  "ayahs": {
+    "104:1": {
+      "file": "104-الهمزة/001.mp3",
+      "durationMs": 387020,
+      "bytes": 4644711,
+      "sha256": "badb2d967585f1be9e23c047449bea3cf35b51ed882710dc8707906bc974cd15",
+      "sharedAyahs": [
+        "104:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 1943.15,
+          "end": 2330.15
+        }
+      ],
+      "reviewNote": "ويل لكل همزة لمزة"
+    },
+    "104:2": {
+      "file": "104-الهمزة/002.mp3",
+      "durationMs": 379460,
+      "bytes": 4553991,
+      "sha256": "cc928daaab670215fca44c1bf794ea2395fa6c895193e780dcaa1c5666b61c86",
+      "sharedAyahs": [
+        "104:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 2330.15,
+          "end": 2709.6
+        }
+      ],
+      "reviewNote": "الذي جمع مالا وعدده"
+    },
+    "104:3": {
+      "file": "104-الهمزة/003.mp3",
+      "durationMs": 147240,
+      "bytes": 1767303,
+      "sha256": "52fb5e7ecf47c0f37f9fb46d3ea249a47b59f65c72ffce5e6cb331f88d195f38",
+      "sharedAyahs": [
+        "104:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 2709.6,
+          "end": 2856.8
+        }
+      ],
+      "reviewNote": "يحسب أن ماله أخلده"
+    },
+    "104:4": {
+      "file": "104-الهمزة/004.mp3",
+      "durationMs": 185810,
+      "bytes": 2230119,
+      "sha256": "1b01a22af9267bf2b66545c4f76d93f057fe2cb651d4f39548586c7dcf8993dd",
+      "sharedAyahs": [
+        "104:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 2856.8,
+          "end": 3042.6
+        }
+      ],
+      "reviewNote": "كلا لينبذن في الحطمة"
+    },
+    "104:5": {
+      "file": "104-الهمزة/005.mp3",
+      "durationMs": 178390,
+      "bytes": 2141131,
+      "sha256": "eea27e7d8bbf159a5c0af3e44c9470ff4c92825e81f25b1ea675cca824b9352e",
+      "sharedAyahs": [
+        "104:5",
+        "104:6",
+        "104:7",
+        "104:8",
+        "104:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 3042.6,
+          "end": 3220.99
+        }
+      ],
+      "reviewNote": "وما أدراك ما الحطمة * نار الله الموقدة * التي تطلع على الأفئدة * إنها عليهم مؤصدة * في عمد ممددة"
+    },
+    "104:6": {
+      "file": "104-الهمزة/005.mp3",
+      "durationMs": 178390,
+      "bytes": 2141131,
+      "sha256": "eea27e7d8bbf159a5c0af3e44c9470ff4c92825e81f25b1ea675cca824b9352e",
+      "sharedAyahs": [
+        "104:5",
+        "104:6",
+        "104:7",
+        "104:8",
+        "104:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 3042.6,
+          "end": 3220.99
+        }
+      ],
+      "reviewNote": "وما أدراك ما الحطمة * نار الله الموقدة * التي تطلع على الأفئدة * إنها عليهم مؤصدة * في عمد ممددة"
+    },
+    "104:7": {
+      "file": "104-الهمزة/005.mp3",
+      "durationMs": 178390,
+      "bytes": 2141131,
+      "sha256": "eea27e7d8bbf159a5c0af3e44c9470ff4c92825e81f25b1ea675cca824b9352e",
+      "sharedAyahs": [
+        "104:5",
+        "104:6",
+        "104:7",
+        "104:8",
+        "104:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 3042.6,
+          "end": 3220.99
+        }
+      ],
+      "reviewNote": "وما أدراك ما الحطمة * نار الله الموقدة * التي تطلع على الأفئدة * إنها عليهم مؤصدة * في عمد ممددة"
+    },
+    "104:8": {
+      "file": "104-الهمزة/005.mp3",
+      "durationMs": 178390,
+      "bytes": 2141131,
+      "sha256": "eea27e7d8bbf159a5c0af3e44c9470ff4c92825e81f25b1ea675cca824b9352e",
+      "sharedAyahs": [
+        "104:5",
+        "104:6",
+        "104:7",
+        "104:8",
+        "104:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 3042.6,
+          "end": 3220.99
+        }
+      ],
+      "reviewNote": "وما أدراك ما الحطمة * نار الله الموقدة * التي تطلع على الأفئدة * إنها عليهم مؤصدة * في عمد ممددة"
+    },
+    "104:9": {
+      "file": "104-الهمزة/005.mp3",
+      "durationMs": 178390,
+      "bytes": 2141131,
+      "sha256": "eea27e7d8bbf159a5c0af3e44c9470ff4c92825e81f25b1ea675cca824b9352e",
+      "sharedAyahs": [
+        "104:5",
+        "104:6",
+        "104:7",
+        "104:8",
+        "104:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 3042.6,
+          "end": 3220.99
+        }
+      ],
+      "reviewNote": "وما أدراك ما الحطمة * نار الله الموقدة * التي تطلع على الأفئدة * إنها عليهم مؤصدة * في عمد ممددة"
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "104-الهمزة/introduction-00.mp3",
+      "kind": "introduction",
+      "durationMs": 1943180,
+      "bytes": 23318631,
+      "sha256": "2c50e400e344c3a1c30530ae37b23dc5ca6b1095e7ce47a397d1b370506bc901",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "ep01",
+          "start": 0.0,
+          "end": 1943.15
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "topics": [
+    {
+      "id": "104-01",
+      "title": "مقومات الفلاح الإنساني والربط بين سورتي العصر والهمزة",
+      "file": "104-الهمزة/introduction-00.mp3",
+      "startMs": 0,
+      "endMs": 1943150
+    },
+    {
+      "id": "104-02",
+      "title": "الوعيد الشديد للهمزة اللمزة وحرمة السخرية من الناس",
+      "file": "104-الهمزة/001.mp3",
+      "startMs": 0,
+      "endMs": 387000
+    },
+    {
+      "id": "104-03",
+      "title": "فتنة كنز المال واستعلاء الثروة والاعتبار بعموم اللفظ لا بخصوص السبب",
+      "file": "104-الهمزة/002.mp3",
+      "startMs": 0,
+      "endMs": 379450
+    },
+    {
+      "id": "104-04",
+      "title": "وهم الخلود بالثروة وأثر كنز المال على قسوة القلب والشح",
+      "file": "104-الهمزة/003.mp3",
+      "startMs": 0,
+      "endMs": 147200
+    },
+    {
+      "id": "104-05",
+      "title": "الردع بزجر 'كلا' والمهانة بالطرح في الحطمة",
+      "file": "104-الهمزة/004.mp3",
+      "startMs": 0,
+      "endMs": 185800
+    },
+    {
+      "id": "104-06",
+      "title": "أهوال الحطمة ونار الله الموقدة المغلقة في عمد ممددة",
+      "file": "104-الهمزة/005.mp3",
+      "startMs": 0,
+      "endMs": 178390
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "ep01"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "104-الهمزة/introduction-00.mp3",
+        "startMs": 0,
+        "endMs": 1943180,
+        "durationMs": 1943180,
+        "recordingDurationMs": 1943180,
+        "bytes": 23318631,
+        "sha256": "2c50e400e344c3a1c30530ae37b23dc5ca6b1095e7ce47a397d1b370506bc901",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 0.0,
+            "end": 1943.15
+          }
+        ]
+      },
+      {
+        "file": "104-الهمزة/001.mp3",
+        "startMs": 0,
+        "endMs": 387020,
+        "durationMs": 387020,
+        "recordingDurationMs": 387020,
+        "bytes": 4644711,
+        "sha256": "badb2d967585f1be9e23c047449bea3cf35b51ed882710dc8707906bc974cd15",
+        "sharedAyahs": [
+          "104:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 1943.15,
+            "end": 2330.15
+          }
+        ]
+      },
+      {
+        "file": "104-الهمزة/002.mp3",
+        "startMs": 0,
+        "endMs": 379460,
+        "durationMs": 379460,
+        "recordingDurationMs": 379460,
+        "bytes": 4553991,
+        "sha256": "cc928daaab670215fca44c1bf794ea2395fa6c895193e780dcaa1c5666b61c86",
+        "sharedAyahs": [
+          "104:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 2330.15,
+            "end": 2709.6
+          }
+        ]
+      },
+      {
+        "file": "104-الهمزة/003.mp3",
+        "startMs": 0,
+        "endMs": 147240,
+        "durationMs": 147240,
+        "recordingDurationMs": 147240,
+        "bytes": 1767303,
+        "sha256": "52fb5e7ecf47c0f37f9fb46d3ea249a47b59f65c72ffce5e6cb331f88d195f38",
+        "sharedAyahs": [
+          "104:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 2709.6,
+            "end": 2856.8
+          }
+        ]
+      },
+      {
+        "file": "104-الهمزة/004.mp3",
+        "startMs": 0,
+        "endMs": 185810,
+        "durationMs": 185810,
+        "recordingDurationMs": 185810,
+        "bytes": 2230119,
+        "sha256": "1b01a22af9267bf2b66545c4f76d93f057fe2cb651d4f39548586c7dcf8993dd",
+        "sharedAyahs": [
+          "104:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 2856.8,
+            "end": 3042.6
+          }
+        ]
+      },
+      {
+        "file": "104-الهمزة/005.mp3",
+        "startMs": 0,
+        "endMs": 178390,
+        "durationMs": 178390,
+        "recordingDurationMs": 178390,
+        "bytes": 2141131,
+        "sha256": "eea27e7d8bbf159a5c0af3e44c9470ff4c92825e81f25b1ea675cca824b9352e",
+        "sharedAyahs": [
+          "104:5",
+          "104:6",
+          "104:7",
+          "104:8",
+          "104:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ep01",
+            "start": 3042.6,
+            "end": 3220.99
+          }
+        ]
+      }
+    ],
+    "durationMs": 3221100,
+    "additionalAudioBytes": 0
+  }
+}
