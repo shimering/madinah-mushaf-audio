@@ -1,0 +1,10 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:29.780,خواطر سورة الكافرون
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=29.780
+introduction-00.mp3
+#EXTINF:1201.660,خواطر سورة الكافرون
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1201.660
+001.mp3

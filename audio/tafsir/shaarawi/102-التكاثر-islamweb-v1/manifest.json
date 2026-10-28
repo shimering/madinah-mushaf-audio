@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "Islamweb Audio — محمد متولي الشعراوي",
+  "surah": 102,
+  "surahName": "التكاثر",
+  "ayahCount": 8,
+  "reviewStatus": "transcript_context_reviewed_listening_review_pending",
+  "editionStatus": "incomplete_experimental",
+  "coverage": {
+    "complete": false,
+    "totalAyahCount": 8,
+    "mappedAyahCount": 5,
+    "missingAyahs": [
+      "102:6",
+      "102:7",
+      "102:8"
+    ],
+    "missingCommentary": [
+      {
+        "ayah": "102:6",
+        "reason": "No independently established direct exposition in the supplied excerpt. Mentions of fire, sight and levels of certainty support verses3–5 but do not establish commentary on this verse; the recording ends during the warning/certainty discussion. Further source/listening needed."
+      },
+      {
+        "ayah": "102:7",
+        "reason": "No independently established direct exposition in the supplied excerpt. Mentions of fire, sight and levels of certainty support verses3–5 but do not establish commentary on this verse; the recording ends during the warning/certainty discussion. Further source/listening needed."
+      },
+      {
+        "ayah": "102:8",
+        "reason": "No independently established direct exposition in the supplied excerpt. Mentions of fire, sight and levels of certainty support verses3–5 but do not establish commentary on this verse; the recording ends during the warning/certainty discussion. Further source/listening needed."
+      }
+    ]
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "archive": {
+      "durationSeconds": 1159.96,
+      "bytes": 9306259,
+      "sha256": "9c6145a6335c2cb6e9024c68ae0869e7a0211dcfd5bc2ccb8e7cf025cfe8510c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "archive-34201.mp3",
+      "url": "https://lecture-h9afefaff7fjc2h3.z01.azurefd.net/audio/lecturs/sharawi/34201.mp3"
+    }
+  },
+  "ayahs": {
+    "102:1": {
+      "file": "102-التكاثر-islamweb-v1/001.mp3",
+      "durationMs": 684750,
+      "bytes": 5478547,
+      "sha256": "8eb928e46d9d96a2b3d0fbcd3b9090fc4121ec6342f3cacc9b3066a6d02d8e15",
+      "sharedAyahs": [
+        "102:1",
+        "102:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive",
+          "start": 47.65,
+          "end": 732.38
+        }
+      ],
+      "reviewNote": "Shared explanation of distraction, competitive accumulation and visiting graves. Opening continues the previous al-Qariah conclusion as contextual bridge; no standalone prayer or introduction identified. Recreational/Eid examples explain the difference between play and distraction and remain integral."
+    },
+    "102:2": {
+      "file": "102-التكاثر-islamweb-v1/001.mp3",
+      "durationMs": 684750,
+      "bytes": 5478547,
+      "sha256": "8eb928e46d9d96a2b3d0fbcd3b9090fc4121ec6342f3cacc9b3066a6d02d8e15",
+      "sharedAyahs": [
+        "102:1",
+        "102:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive",
+          "start": 47.65,
+          "end": 732.38
+        }
+      ],
+      "reviewNote": "Shared explanation of distraction, competitive accumulation and visiting graves. Opening continues the previous al-Qariah conclusion as contextual bridge; no standalone prayer or introduction identified. Recreational/Eid examples explain the difference between play and distraction and remain integral."
+    },
+    "102:3": {
+      "file": "102-التكاثر-islamweb-v1/003.mp3",
+      "durationMs": 427570,
+      "bytes": 3421143,
+      "sha256": "d9fd173be39b15e8953458cc14069049c3cdf51afcc0df173df3787d6a85548e",
+      "sharedAyahs": [
+        "102:3",
+        "102:4",
+        "102:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive",
+          "start": 732.38,
+          "end": 1159.96
+        }
+      ],
+      "reviewNote": "انتقال من شرح زيارة المقابر إلى استحضار الجزاء ومراتب اليقين؛ حد732.38 مثبت بإعادة تفريغ المصدر الأرشيفي نفسه650–800. الحد القديم724.49 كان داخل كلمة في المصدر الفعلي."
+    },
+    "102:4": {
+      "file": "102-التكاثر-islamweb-v1/003.mp3",
+      "durationMs": 427570,
+      "bytes": 3421143,
+      "sha256": "d9fd173be39b15e8953458cc14069049c3cdf51afcc0df173df3787d6a85548e",
+      "sharedAyahs": [
+        "102:3",
+        "102:4",
+        "102:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive",
+          "start": 732.38,
+          "end": 1159.96
+        }
+      ],
+      "reviewNote": "انتقال من شرح زيارة المقابر إلى استحضار الجزاء ومراتب اليقين؛ حد732.38 مثبت بإعادة تفريغ المصدر الأرشيفي نفسه650–800. الحد القديم724.49 كان داخل كلمة في المصدر الفعلي."
+    },
+    "102:5": {
+      "file": "102-التكاثر-islamweb-v1/003.mp3",
+      "durationMs": 427570,
+      "bytes": 3421143,
+      "sha256": "d9fd173be39b15e8953458cc14069049c3cdf51afcc0df173df3787d6a85548e",
+      "sharedAyahs": [
+        "102:3",
+        "102:4",
+        "102:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "archive",
+          "start": 732.38,
+          "end": 1159.96
+        }
+      ],
+      "reviewNote": "انتقال من شرح زيارة المقابر إلى استحضار الجزاء ومراتب اليقين؛ حد732.38 مثبت بإعادة تفريغ المصدر الأرشيفي نفسه650–800. الحد القديم724.49 كان داخل كلمة في المصدر الفعلي."
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "102-التكاثر-islamweb-v1/introduction-00.mp3",
+      "kind": "introduction",
+      "durationMs": 47670,
+      "bytes": 381948,
+      "sha256": "982518efbe52a1696027780b17ccf6a81ba5c4937afcc6bfb573ff0526e05c71",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "archive",
+          "start": 0,
+          "end": 47.65
+        }
+      ],
+      "reviewNote": "مراجعة ختام القارعة والميزان تسبق الانتقال للتكاثر؛ تحفظ في التشغيل المتتابع بوصفها تمهيدا."
+    }
+  ],
+  "sourceUrl": "https://audio.islamweb.net/audio/index.php?audioid=141394&kh=0&lg=741&page=audioinfo&read=0",
+  "audioProcessing": "Islamweb original MP3 preserved; stream-copy export without further lossy encoding",
+  "topics": [],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "archive"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "102-التكاثر-islamweb-v1/introduction-00.mp3",
+        "startMs": 0,
+        "endMs": 47670,
+        "durationMs": 47670,
+        "recordingDurationMs": 47670,
+        "bytes": 381948,
+        "sha256": "982518efbe52a1696027780b17ccf6a81ba5c4937afcc6bfb573ff0526e05c71",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "archive",
+            "start": 0,
+            "end": 47.65
+          }
+        ]
+      },
+      {
+        "file": "102-التكاثر-islamweb-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 684750,
+        "durationMs": 684750,
+        "recordingDurationMs": 684750,
+        "bytes": 5478547,
+        "sha256": "8eb928e46d9d96a2b3d0fbcd3b9090fc4121ec6342f3cacc9b3066a6d02d8e15",
+        "sharedAyahs": [
+          "102:1",
+          "102:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "archive",
+            "start": 47.65,
+            "end": 732.38
+          }
+        ]
+      },
+      {
+        "file": "102-التكاثر-islamweb-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 427570,
+        "durationMs": 427570,
+        "recordingDurationMs": 427570,
+        "bytes": 3421143,
+        "sha256": "d9fd173be39b15e8953458cc14069049c3cdf51afcc0df173df3787d6a85548e",
+        "sharedAyahs": [
+          "102:3",
+          "102:4",
+          "102:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "archive",
+            "start": 732.38,
+            "end": 1159.96
+          }
+        ]
+      }
+    ],
+    "durationMs": 1159990,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}

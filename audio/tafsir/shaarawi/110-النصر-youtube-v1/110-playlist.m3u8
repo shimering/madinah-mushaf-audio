@@ -1,0 +1,6 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:743.620,خواطر سورة النصر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=743.620
+001.mp3

@@ -1,0 +1,30 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:65.920,خواطر سورة الضحى
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=65.920
+001.m4a
+#EXTINF:70.728,خواطر سورة الضحى
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=70.728
+003.m4a
+#EXTINF:14.820,خواطر سورة الضحى
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=14.820
+004.m4a
+#EXTINF:97.085,خواطر سورة الضحى
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=97.085
+other-03.m4a
+#EXTINF:32.902,خواطر سورة الضحى
+#EXTVLCOPT:start-time=70.728
+#EXTVLCOPT:stop-time=103.630
+003.m4a
+#EXTINF:30.165,خواطر سورة الضحى
+#EXTVLCOPT:start-time=97.085
+#EXTVLCOPT:stop-time=127.250
+other-03.m4a
+#EXTINF:32.720,خواطر سورة الضحى
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=32.720
+closing-04.m4a

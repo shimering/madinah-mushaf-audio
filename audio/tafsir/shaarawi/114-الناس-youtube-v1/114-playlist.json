@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "surah": 114,
+  "mode": "reused-clips",
+  "durationMs": 220100,
+  "tracks": [
+    {
+      "file": "114-الناس-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 121800,
+      "durationMs": 121800,
+      "recordingDurationMs": 121800,
+      "bytes": 1462025,
+      "sha256": "c1a240bcaada3bf3ba611a52119f73eed6da54f67412175054e4479239a3d81a",
+      "sharedAyahs": [
+        "114:1",
+        "114:2",
+        "114:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 0,
+          "end": 121.77
+        }
+      ]
+    },
+    {
+      "file": "114-الناس-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 98300,
+      "durationMs": 98300,
+      "recordingDurationMs": 98300,
+      "bytes": 1180073,
+      "sha256": "1d397cc49f5b7936bfb0d6eef42d09d150bdac2161bb65db2c6181c53f46033a",
+      "sharedAyahs": [
+        "114:4",
+        "114:5",
+        "114:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 121.77,
+          "end": 220.07999999999998
+        }
+      ]
+    }
+  ]
+}

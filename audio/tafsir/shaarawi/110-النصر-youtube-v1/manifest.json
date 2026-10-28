@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "محمد متولي الشعراوي - recording from YouTube",
+  "surah": 110,
+  "surahName": "النصر",
+  "ayahCount": 3,
+  "reviewStatus": "transcript_context_reviewed_listening_review_pending",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 3,
+    "mappedAyahCount": 3,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "source1": {
+      "durationSeconds": 778.94,
+      "bytes": 9347660,
+      "sha256": "b7fb95ff4532972dfdd396668b67359e5f8d9424ff0d319ec995211d1b831d4d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-003_mhgfh90wVYw.mp3",
+      "url": "https://www.youtube.com/watch?v=mhgfh90wVYw"
+    }
+  },
+  "ayahs": {
+    "110:1": {
+      "file": "110-النصر-youtube-v1/001.mp3",
+      "durationMs": 743620,
+      "bytes": 8923817,
+      "sha256": "5e1a0eb537a235614a779af231b866231d7ad9e57d22c0505bf71b4437d1d700",
+      "sharedAyahs": [
+        "110:1",
+        "110:2",
+        "110:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 0,
+          "end": 743.59
+        }
+      ],
+      "reviewNote": "حفظ ملخص التسبيح والحمد والاستغفار والتوبة حتى نهاية إليه عند 743.59؛ الحد القديم735.1 كان يقطع كلمة ويحمده."
+    },
+    "110:2": {
+      "file": "110-النصر-youtube-v1/001.mp3",
+      "durationMs": 743620,
+      "bytes": 8923817,
+      "sha256": "5e1a0eb537a235614a779af231b866231d7ad9e57d22c0505bf71b4437d1d700",
+      "sharedAyahs": [
+        "110:1",
+        "110:2",
+        "110:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 0,
+          "end": 743.59
+        }
+      ],
+      "reviewNote": "حفظ ملخص التسبيح والحمد والاستغفار والتوبة حتى نهاية إليه عند 743.59؛ الحد القديم735.1 كان يقطع كلمة ويحمده."
+    },
+    "110:3": {
+      "file": "110-النصر-youtube-v1/001.mp3",
+      "durationMs": 743620,
+      "bytes": 8923817,
+      "sha256": "5e1a0eb537a235614a779af231b866231d7ad9e57d22c0505bf71b4437d1d700",
+      "sharedAyahs": [
+        "110:1",
+        "110:2",
+        "110:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 0,
+          "end": 743.59
+        }
+      ],
+      "reviewNote": "حفظ ملخص التسبيح والحمد والاستغفار والتوبة حتى نهاية إليه عند 743.59؛ الحد القديم735.1 كان يقطع كلمة ويحمده."
+    }
+  },
+  "extraTracks": [],
+  "audioProcessing": "Existing local MP3; stream-copy only, no further lossy encoding",
+  "alignmentMethod": "Context reviewed against legacy transcript and new source-hash-verified complete CUDA ASR; listening pending",
+  "topics": [],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "source1"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "110-النصر-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 743620,
+        "durationMs": 743620,
+        "recordingDurationMs": 743620,
+        "bytes": 8923817,
+        "sha256": "5e1a0eb537a235614a779af231b866231d7ad9e57d22c0505bf71b4437d1d700",
+        "sharedAyahs": [
+          "110:1",
+          "110:2",
+          "110:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "source1",
+            "start": 0,
+            "end": 743.59
+          }
+        ]
+      }
+    ],
+    "durationMs": 743620,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}

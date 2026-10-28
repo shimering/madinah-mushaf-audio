@@ -1,0 +1,14 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:47.670,خواطر سورة التكاثر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=47.670
+introduction-00.mp3
+#EXTINF:684.750,خواطر سورة التكاثر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=684.750
+001.mp3
+#EXTINF:427.570,خواطر سورة التكاثر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=427.570
+003.mp3

@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "YouTube; supplied attribution to محمد متولي الشعراوي, voice identity not independently listening-verified",
+  "surah": 113,
+  "surahName": "الفلق",
+  "ayahCount": 5,
+  "reviewStatus": "transcript_context_reviewed_listening_review_pending",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 5,
+    "mappedAyahCount": 5,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "s1": {
+      "durationSeconds": 2475.82,
+      "bytes": 29710124,
+      "sha256": "00c095ece357b6eaed43cef6f166c4578754272f110d3198afd805200209316e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-005_hQRTJzuSdb0.mp3",
+      "url": "https://www.youtube.com/watch?v=hQRTJzuSdb0"
+    }
+  },
+  "ayahs": {
+    "113:1": {
+      "file": "113-الفلق-youtube-v1/001.mp3",
+      "durationMs": 80350,
+      "bytes": 964645,
+      "sha256": "1da95599cd8a4486c4e19aa479c601fa19044bb0981f50b817400a2038517dd2",
+      "sharedAyahs": [
+        "113:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 0,
+          "end": 80.31
+        }
+      ],
+      "reviewNote": "Falaq grounds of refuge; next قال من شر begins 80.59 after الفلق ends80.03."
+    },
+    "113:2": {
+      "file": "113-الفلق-youtube-v1/002.mp3",
+      "durationMs": 202010,
+      "bytes": 2424517,
+      "sha256": "5427978c55427b1b57b1af376f052f5a7bb38d6db4e90328fec8910f90ccc103",
+      "sharedAyahs": [
+        "113:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 80.31,
+          "end": 282.31
+        }
+      ],
+      "reviewNote": "Creation and its evil; next rhetorical transition begins282.46 after بالخالق282.16."
+    },
+    "113:3": {
+      "file": "113-الفلق-youtube-v1/003.mp3",
+      "durationMs": 159480,
+      "bytes": 1914181,
+      "sha256": "bd0759c48459a3ea008fcf8720a4dc2532c9374432aca80cf2ae7158c36988e4",
+      "sharedAyahs": [
+        "113:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 282.31,
+          "end": 441.76
+        }
+      ],
+      "reviewNote": "Darkness explanation ends438.29; next subject begins445.23."
+    },
+    "113:4": {
+      "file": "113-الفلق-youtube-v1/004.mp3",
+      "durationMs": 1631090,
+      "bytes": 19573477,
+      "sha256": "572870b8029aba02f8c15b50817a3c717951289026289c031199529f86c1f13b",
+      "sharedAyahs": [
+        "113:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 441.76,
+          "end": 2072.815
+        }
+      ],
+      "reviewNote": "Magic, rationalism and examples retained under naffathat. Clear new subject بقي شيء آخر begins2073.19 after دي2072.44. Earlier envy mentions are previews."
+    },
+    "113:5": {
+      "file": "113-الفلق-youtube-v1/005.mp3",
+      "durationMs": 384790,
+      "bytes": 4617925,
+      "sha256": "ddb46c599276b1c5647683f1ff626dc066910b082d4cf7fccf7fbfc8f31d1660",
+      "sharedAyahs": [
+        "113:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 2072.815,
+          "end": 2457.58
+        }
+      ],
+      "reviewNote": "Standalone envy exposition then joint final synthesis; return to naffathat illustrates the concluding refuge argument and does not require a second mapping."
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "113-الفلق-youtube-v1/closing-05.mp3",
+      "kind": "closing",
+      "durationMs": 18220,
+      "bytes": 219008,
+      "sha256": "e6cb04711aae5299eb0f01aff05a3ac74a21ec0d4d363cf8aee15feaa2867053",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 2457.58,
+          "end": 2475.82
+        }
+      ],
+      "reviewNote": "Closing includes prayer onset نسأل2457.66; previous الشر ends2457.50."
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/watch?v=hQRTJzuSdb0",
+  "audioProcessing": "Original supplied MP3; no re-encoding performed",
+  "topics": [],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "s1"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "113-الفلق-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 80350,
+        "durationMs": 80350,
+        "recordingDurationMs": 80350,
+        "bytes": 964645,
+        "sha256": "1da95599cd8a4486c4e19aa479c601fa19044bb0981f50b817400a2038517dd2",
+        "sharedAyahs": [
+          "113:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 0,
+            "end": 80.31
+          }
+        ]
+      },
+      {
+        "file": "113-الفلق-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 202010,
+        "durationMs": 202010,
+        "recordingDurationMs": 202010,
+        "bytes": 2424517,
+        "sha256": "5427978c55427b1b57b1af376f052f5a7bb38d6db4e90328fec8910f90ccc103",
+        "sharedAyahs": [
+          "113:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 80.31,
+            "end": 282.31
+          }
+        ]
+      },
+      {
+        "file": "113-الفلق-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 159480,
+        "durationMs": 159480,
+        "recordingDurationMs": 159480,
+        "bytes": 1914181,
+        "sha256": "bd0759c48459a3ea008fcf8720a4dc2532c9374432aca80cf2ae7158c36988e4",
+        "sharedAyahs": [
+          "113:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 282.31,
+            "end": 441.76
+          }
+        ]
+      },
+      {
+        "file": "113-الفلق-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 1631090,
+        "durationMs": 1631090,
+        "recordingDurationMs": 1631090,
+        "bytes": 19573477,
+        "sha256": "572870b8029aba02f8c15b50817a3c717951289026289c031199529f86c1f13b",
+        "sharedAyahs": [
+          "113:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 441.76,
+            "end": 2072.815
+          }
+        ]
+      },
+      {
+        "file": "113-الفلق-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 384790,
+        "durationMs": 384790,
+        "recordingDurationMs": 384790,
+        "bytes": 4617925,
+        "sha256": "ddb46c599276b1c5647683f1ff626dc066910b082d4cf7fccf7fbfc8f31d1660",
+        "sharedAyahs": [
+          "113:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 2072.815,
+            "end": 2457.58
+          }
+        ]
+      },
+      {
+        "file": "113-الفلق-youtube-v1/closing-05.mp3",
+        "startMs": 0,
+        "endMs": 18220,
+        "durationMs": 18220,
+        "recordingDurationMs": 18220,
+        "bytes": 219008,
+        "sha256": "e6cb04711aae5299eb0f01aff05a3ac74a21ec0d4d363cf8aee15feaa2867053",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 2457.58,
+            "end": 2475.82
+          }
+        ]
+      }
+    ],
+    "durationMs": 2475940,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}

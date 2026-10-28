@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "surah": 100,
+  "mode": "reused-clips",
+  "durationMs": 298750,
+  "tracks": [
+    {
+      "file": "100-العاديات-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 38380,
+      "durationMs": 38380,
+      "recordingDurationMs": 38380,
+      "bytes": 460939,
+      "sha256": "b644efa14601692b9ec32cbab0e384036e8a7639cb49151c024f22cb8cebec6a",
+      "sharedAyahs": [
+        "100:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 0,
+          "end": 38.35
+        }
+      ]
+    },
+    {
+      "file": "100-العاديات-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 79870,
+      "durationMs": 79870,
+      "recordingDurationMs": 79870,
+      "bytes": 958895,
+      "sha256": "2fe2143e58034bdb62c78840737070c49b4c07b8e15f41570557f0079bc6c5a9",
+      "sharedAyahs": [
+        "100:6",
+        "100:7",
+        "100:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 38.35,
+          "end": 118.2
+        }
+      ]
+    },
+    {
+      "file": "100-العاديات-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 180500,
+      "durationMs": 180500,
+      "recordingDurationMs": 180500,
+      "bytes": 2166477,
+      "sha256": "cb8204665ca2d186c5c8f2fd33419bfce761bb783d04e80be181293fd10e997a",
+      "sharedAyahs": [
+        "100:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 118.2,
+          "end": 298.7
+        }
+      ]
+    }
+  ]
+}

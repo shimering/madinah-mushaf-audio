@@ -1,0 +1,26 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:80.350,خواطر سورة الفلق
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=80.350
+001.mp3
+#EXTINF:202.010,خواطر سورة الفلق
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=202.010
+002.mp3
+#EXTINF:159.480,خواطر سورة الفلق
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=159.480
+003.mp3
+#EXTINF:1631.090,خواطر سورة الفلق
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1631.090
+004.mp3
+#EXTINF:384.790,خواطر سورة الفلق
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=384.790
+005.mp3
+#EXTINF:18.220,خواطر سورة الفلق
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=18.220
+closing-05.mp3

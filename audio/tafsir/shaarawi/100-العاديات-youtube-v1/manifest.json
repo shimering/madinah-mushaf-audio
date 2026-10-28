@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "خواطر الشيخ محمد متولي الشعراوي؛ نسخة تجريبية بمراجعة سياق التفريغ",
+  "surah": 100,
+  "surahName": "العاديات",
+  "ayahCount": 11,
+  "reviewStatus": "transcript_context_reviewed_listening_review_pending",
+  "editionStatus": "incomplete_experimental",
+  "coverage": {
+    "complete": false,
+    "totalAyahCount": 11,
+    "mappedAyahCount": 5,
+    "missingAyahs": [
+      "100:2",
+      "100:3",
+      "100:4",
+      "100:5",
+      "100:9",
+      "100:10"
+    ],
+    "missingCommentary": [
+      {
+        "ayah": "100:2",
+        "reason": "التسجيل الرسمي قصير ويبدأ أثناء مراجعة الدرس؛ وردت هذه الآية في التلاوة دون تفسير محدد لها في المقتطف المتاح."
+      },
+      {
+        "ayah": "100:3",
+        "reason": "التسجيل الرسمي قصير ويبدأ أثناء مراجعة الدرس؛ وردت هذه الآية في التلاوة دون تفسير محدد لها في المقتطف المتاح."
+      },
+      {
+        "ayah": "100:4",
+        "reason": "التسجيل الرسمي قصير ويبدأ أثناء مراجعة الدرس؛ وردت هذه الآية في التلاوة دون تفسير محدد لها في المقتطف المتاح."
+      },
+      {
+        "ayah": "100:5",
+        "reason": "التسجيل الرسمي قصير ويبدأ أثناء مراجعة الدرس؛ وردت هذه الآية في التلاوة دون تفسير محدد لها في المقتطف المتاح."
+      },
+      {
+        "ayah": "100:9",
+        "reason": "التسجيل الرسمي قصير ويبدأ أثناء مراجعة الدرس؛ وردت هذه الآية في التلاوة دون تفسير محدد لها في المقتطف المتاح."
+      },
+      {
+        "ayah": "100:10",
+        "reason": "التسجيل الرسمي قصير ويبدأ أثناء مراجعة الدرس؛ وردت هذه الآية في التلاوة دون تفسير محدد لها في المقتطف المتاح."
+      }
+    ]
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "s1": {
+      "durationSeconds": 298.7,
+      "bytes": 3584780,
+      "sha256": "baaa219efc89dd16f88e22c281a154ad8bf4331e82ccc8029a7e269d67595bb6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-011_myZIPX_eeYA.mp3",
+      "url": "https://www.youtube.com/watch?v=myZIPX_eeYA"
+    }
+  },
+  "ayahs": {
+    "100:1": {
+      "file": "100-العاديات-youtube-v1/001.mp3",
+      "durationMs": 38380,
+      "bytes": 460939,
+      "sha256": "b644efa14601692b9ec32cbab0e384036e8a7639cb49151c024f22cb8cebec6a",
+      "sharedAyahs": [
+        "100:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 0,
+          "end": 38.35
+        }
+      ],
+      "reviewNote": "مقتطف يبدأ أثناء مراجعة تفسير العاديات في الجهاد أو الحج؛ لا يمثل افتتاح الدرس الكامل."
+    },
+    "100:6": {
+      "file": "100-العاديات-youtube-v1/006.mp3",
+      "durationMs": 79870,
+      "bytes": 958895,
+      "sha256": "2fe2143e58034bdb62c78840737070c49b4c07b8e15f41570557f0079bc6c5a9",
+      "sharedAyahs": [
+        "100:6",
+        "100:7",
+        "100:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 38.35,
+          "end": 118.2
+        }
+      ],
+      "reviewNote": "مراجعة القضايا الثلاث واستثناء المتبع لمنهج الله من الصفات المذمومة."
+    },
+    "100:7": {
+      "file": "100-العاديات-youtube-v1/006.mp3",
+      "durationMs": 79870,
+      "bytes": 958895,
+      "sha256": "2fe2143e58034bdb62c78840737070c49b4c07b8e15f41570557f0079bc6c5a9",
+      "sharedAyahs": [
+        "100:6",
+        "100:7",
+        "100:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 38.35,
+          "end": 118.2
+        }
+      ],
+      "reviewNote": "مراجعة القضايا الثلاث واستثناء المتبع لمنهج الله من الصفات المذمومة."
+    },
+    "100:8": {
+      "file": "100-العاديات-youtube-v1/006.mp3",
+      "durationMs": 79870,
+      "bytes": 958895,
+      "sha256": "2fe2143e58034bdb62c78840737070c49b4c07b8e15f41570557f0079bc6c5a9",
+      "sharedAyahs": [
+        "100:6",
+        "100:7",
+        "100:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 38.35,
+          "end": 118.2
+        }
+      ],
+      "reviewNote": "مراجعة القضايا الثلاث واستثناء المتبع لمنهج الله من الصفات المذمومة."
+    },
+    "100:11": {
+      "file": "100-العاديات-youtube-v1/011.mp3",
+      "durationMs": 180500,
+      "bytes": 2166477,
+      "sha256": "cb8204665ca2d186c5c8f2fd33419bfce761bb783d04e80be181293fd10e997a",
+      "sharedAyahs": [
+        "100:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 118.2,
+          "end": 298.7
+        }
+      ],
+      "reviewNote": "بيان خبرة الله بأعمال العباد وربط ختام العاديات برؤية العمل في الزلزلة؛ تلاوة سائر الآيات هنا ليست شرحا لها."
+    }
+  },
+  "extraTracks": [],
+  "audioProcessing": "Existing local compressed audio; stream-copy cuts without further lossy encoding",
+  "topics": [],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "s1"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "100-العاديات-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 38380,
+        "durationMs": 38380,
+        "recordingDurationMs": 38380,
+        "bytes": 460939,
+        "sha256": "b644efa14601692b9ec32cbab0e384036e8a7639cb49151c024f22cb8cebec6a",
+        "sharedAyahs": [
+          "100:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 0,
+            "end": 38.35
+          }
+        ]
+      },
+      {
+        "file": "100-العاديات-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 79870,
+        "durationMs": 79870,
+        "recordingDurationMs": 79870,
+        "bytes": 958895,
+        "sha256": "2fe2143e58034bdb62c78840737070c49b4c07b8e15f41570557f0079bc6c5a9",
+        "sharedAyahs": [
+          "100:6",
+          "100:7",
+          "100:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 38.35,
+            "end": 118.2
+          }
+        ]
+      },
+      {
+        "file": "100-العاديات-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 180500,
+        "durationMs": 180500,
+        "recordingDurationMs": 180500,
+        "bytes": 2166477,
+        "sha256": "cb8204665ca2d186c5c8f2fd33419bfce761bb783d04e80be181293fd10e997a",
+        "sharedAyahs": [
+          "100:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 118.2,
+            "end": 298.7
+          }
+        ]
+      }
+    ],
+    "durationMs": 298750,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}

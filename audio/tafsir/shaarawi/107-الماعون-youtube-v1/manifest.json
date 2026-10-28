@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "محمد متولي الشعراوي - recording from YouTube",
+  "surah": 107,
+  "surahName": "الماعون",
+  "ayahCount": 7,
+  "reviewStatus": "transcript_context_reviewed_listening_review_pending",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 7,
+    "mappedAyahCount": 7,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "source1": {
+      "durationSeconds": 2667.14,
+      "bytes": 32006060,
+      "sha256": "5b9cdd1f984ec6c3e7fb8ac4080145f2bb5fdaccd57f13e1e13c73aa4decf033",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-007_TVDJIB9FqhI.mp3",
+      "url": "https://www.youtube.com/watch?v=TVDJIB9FqhI"
+    }
+  },
+  "ayahs": {
+    "107:1": {
+      "file": "107-الماعون-youtube-v1/001.mp3",
+      "durationMs": 592780,
+      "bytes": 7113737,
+      "sha256": "66c554f3baf20ecf79687ca83e0d6d1311804f91f1894296df4700d5c6874927",
+      "sharedAyahs": [
+        "107:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 0,
+          "end": 592.75
+        }
+      ],
+      "reviewNote": "Transcript context: explanation of denial of الدين as revealed by conduct; boundary candidate 592.75 transitions to يدعو اليتيم."
+    },
+    "107:2": {
+      "file": "107-الماعون-youtube-v1/002.mp3",
+      "durationMs": 899930,
+      "bytes": 10799565,
+      "sha256": "7bcdf64a1f58e1d4eaa85651184366fd6528696648e7bed784cdbeb8139fafcf",
+      "sharedAyahs": [
+        "107:2",
+        "107:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 592.75,
+          "end": 1492.65
+        }
+      ],
+      "reviewNote": "Explanations of the orphan and feeding the needy; story of Musa and the righteous servant is an illustrative Qur’anic reference within this topic."
+    },
+    "107:3": {
+      "file": "107-الماعون-youtube-v1/002.mp3",
+      "durationMs": 899930,
+      "bytes": 10799565,
+      "sha256": "7bcdf64a1f58e1d4eaa85651184366fd6528696648e7bed784cdbeb8139fafcf",
+      "sharedAyahs": [
+        "107:2",
+        "107:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 592.75,
+          "end": 1492.65
+        }
+      ],
+      "reviewNote": "Explanations of the orphan and feeding the needy; story of Musa and the righteous servant is an illustrative Qur’anic reference within this topic."
+    },
+    "107:4": {
+      "file": "107-الماعون-youtube-v1/004.mp3",
+      "durationMs": 933580,
+      "bytes": 11203341,
+      "sha256": "c6fa1849d1aa56d7d3bbdae7597deb693360317f013b54385e05286614470650",
+      "sharedAyahs": [
+        "107:4",
+        "107:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 1492.65,
+          "end": 2426.2
+        }
+      ],
+      "reviewNote": "بداية الانتقال إلى فويل للمصلين عند 1492.87؛ نقل الحد القديم 1619.75 الذي كان متأخرا داخل شرح الصلاة."
+    },
+    "107:5": {
+      "file": "107-الماعون-youtube-v1/004.mp3",
+      "durationMs": 933580,
+      "bytes": 11203341,
+      "sha256": "c6fa1849d1aa56d7d3bbdae7597deb693360317f013b54385e05286614470650",
+      "sharedAyahs": [
+        "107:4",
+        "107:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 1492.65,
+          "end": 2426.2
+        }
+      ],
+      "reviewNote": "بداية الانتقال إلى فويل للمصلين عند 1492.87؛ نقل الحد القديم 1619.75 الذي كان متأخرا داخل شرح الصلاة."
+    },
+    "107:6": {
+      "file": "107-الماعون-youtube-v1/006.mp3",
+      "durationMs": 240940,
+      "bytes": 2891661,
+      "sha256": "d14b34c739b1c647291b53be53b4d4e14bd52460aa7b37c4e9e4bf231257243b",
+      "sharedAyahs": [
+        "107:6",
+        "107:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 2426.2,
+          "end": 2667.14
+        }
+      ],
+      "reviewNote": "Transcript row at 2426.7 explicitly begins الذين هم يراءون, followed by ويمنعون الماعون."
+    },
+    "107:7": {
+      "file": "107-الماعون-youtube-v1/006.mp3",
+      "durationMs": 240940,
+      "bytes": 2891661,
+      "sha256": "d14b34c739b1c647291b53be53b4d4e14bd52460aa7b37c4e9e4bf231257243b",
+      "sharedAyahs": [
+        "107:6",
+        "107:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 2426.2,
+          "end": 2667.14
+        }
+      ],
+      "reviewNote": "Transcript row at 2426.7 explicitly begins الذين هم يراءون, followed by ويمنعون الماعون."
+    }
+  },
+  "extraTracks": [],
+  "audioProcessing": "Existing local MP3; stream-copy only, no further lossy encoding",
+  "alignmentMethod": "Context reviewed against legacy transcript and new source-hash-verified complete CUDA ASR; listening pending",
+  "topics": [],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "source1"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "107-الماعون-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 592780,
+        "durationMs": 592780,
+        "recordingDurationMs": 592780,
+        "bytes": 7113737,
+        "sha256": "66c554f3baf20ecf79687ca83e0d6d1311804f91f1894296df4700d5c6874927",
+        "sharedAyahs": [
+          "107:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "source1",
+            "start": 0,
+            "end": 592.75
+          }
+        ]
+      },
+      {
+        "file": "107-الماعون-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 899930,
+        "durationMs": 899930,
+        "recordingDurationMs": 899930,
+        "bytes": 10799565,
+        "sha256": "7bcdf64a1f58e1d4eaa85651184366fd6528696648e7bed784cdbeb8139fafcf",
+        "sharedAyahs": [
+          "107:2",
+          "107:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "source1",
+            "start": 592.75,
+            "end": 1492.65
+          }
+        ]
+      },
+      {
+        "file": "107-الماعون-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 933580,
+        "durationMs": 933580,
+        "recordingDurationMs": 933580,
+        "bytes": 11203341,
+        "sha256": "c6fa1849d1aa56d7d3bbdae7597deb693360317f013b54385e05286614470650",
+        "sharedAyahs": [
+          "107:4",
+          "107:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "source1",
+            "start": 1492.65,
+            "end": 2426.2
+          }
+        ]
+      },
+      {
+        "file": "107-الماعون-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 240940,
+        "durationMs": 240940,
+        "recordingDurationMs": 240940,
+        "bytes": 2891661,
+        "sha256": "d14b34c739b1c647291b53be53b4d4e14bd52460aa7b37c4e9e4bf231257243b",
+        "sharedAyahs": [
+          "107:6",
+          "107:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "source1",
+            "start": 2426.2,
+            "end": 2667.14
+          }
+        ]
+      }
+    ],
+    "durationMs": 2667230,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 2,
+  "surah": 93,
+  "mode": "reused-clips",
+  "durationMs": 344340,
+  "tracks": [
+    {
+      "file": "093-الضحى-youtube-v1/001.m4a",
+      "startMs": 0,
+      "endMs": 65920,
+      "durationMs": 65920,
+      "recordingDurationMs": 65920,
+      "bytes": 1067384,
+      "sha256": "1d06393464cad7b816ce63c8425dac063b557ce9257b1cab0a69b9399ac95be3",
+      "sharedAyahs": [
+        "93:1",
+        "93:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 0,
+          "end": 65.9
+        }
+      ]
+    },
+    {
+      "file": "093-الضحى-youtube-v1/003.m4a",
+      "startMs": 0,
+      "endMs": 70728,
+      "durationMs": 70728,
+      "recordingDurationMs": 103630,
+      "bytes": 1677598,
+      "sha256": "dc674d9da7dc4d31212ca87b386b16e21e9ea5f29e8b12a61d68471d050de32b",
+      "sharedAyahs": [
+        "93:3",
+        "93:6",
+        "93:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 65.9,
+          "end": 136.62
+        }
+      ]
+    },
+    {
+      "file": "093-الضحى-youtube-v1/004.m4a",
+      "startMs": 0,
+      "endMs": 14820,
+      "durationMs": 14820,
+      "recordingDurationMs": 14820,
+      "bytes": 240856,
+      "sha256": "d8ad562ab631df2e64640933eb2da98fc8cc859b4a904f1f6ac9048b25cea2b4",
+      "sharedAyahs": [
+        "93:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 136.62,
+          "end": 151.42
+        }
+      ]
+    },
+    {
+      "file": "093-الضحى-youtube-v1/other-03.m4a",
+      "startMs": 0,
+      "endMs": 97085,
+      "durationMs": 97085,
+      "recordingDurationMs": 127250,
+      "bytes": 2058739,
+      "sha256": "bb82e073d331341f23a324122b8ddd53b58750da81353ef7ddba0bcf258eff24",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 151.42,
+          "end": 248.5
+        }
+      ]
+    },
+    {
+      "file": "093-الضحى-youtube-v1/003.m4a",
+      "startMs": 70728,
+      "endMs": 103630,
+      "durationMs": 32902,
+      "recordingDurationMs": 103630,
+      "bytes": 1677598,
+      "sha256": "dc674d9da7dc4d31212ca87b386b16e21e9ea5f29e8b12a61d68471d050de32b",
+      "sharedAyahs": [
+        "93:3",
+        "93:6",
+        "93:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 248.5,
+          "end": 281.4
+        }
+      ]
+    },
+    {
+      "file": "093-الضحى-youtube-v1/other-03.m4a",
+      "startMs": 97085,
+      "endMs": 127250,
+      "durationMs": 30165,
+      "recordingDurationMs": 127250,
+      "bytes": 2058739,
+      "sha256": "bb82e073d331341f23a324122b8ddd53b58750da81353ef7ddba0bcf258eff24",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 281.4,
+          "end": 311.54
+        }
+      ]
+    },
+    {
+      "file": "093-الضحى-youtube-v1/closing-04.m4a",
+      "startMs": 0,
+      "endMs": 32720,
+      "durationMs": 32720,
+      "recordingDurationMs": 32720,
+      "bytes": 529881,
+      "sha256": "c3c231b6f7b46e4adeb3b25034f7ee707c68fb2dfa9554ff133a391847f572c8",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 311.54,
+          "end": 344.26
+        }
+      ]
+    }
+  ]
+}

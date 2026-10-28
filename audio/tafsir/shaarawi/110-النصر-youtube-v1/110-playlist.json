@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "surah": 110,
+  "mode": "reused-clips",
+  "durationMs": 743620,
+  "tracks": [
+    {
+      "file": "110-النصر-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 743620,
+      "durationMs": 743620,
+      "recordingDurationMs": 743620,
+      "bytes": 8923817,
+      "sha256": "5e1a0eb537a235614a779af231b866231d7ad9e57d22c0505bf71b4437d1d700",
+      "sharedAyahs": [
+        "110:1",
+        "110:2",
+        "110:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "source1",
+          "start": 0,
+          "end": 743.59
+        }
+      ]
+    }
+  ]
+}

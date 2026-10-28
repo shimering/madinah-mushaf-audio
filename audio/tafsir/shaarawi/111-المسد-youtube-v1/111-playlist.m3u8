@@ -1,0 +1,18 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:1206.220,خواطر سورة المسد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1206.220
+001.mp3
+#EXTINF:116.020,خواطر سورة المسد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=116.020
+002.mp3
+#EXTINF:545.980,خواطر سورة المسد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=545.980
+003.mp3
+#EXTINF:5.060,خواطر سورة المسد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=5.060
+closing-03.mp3

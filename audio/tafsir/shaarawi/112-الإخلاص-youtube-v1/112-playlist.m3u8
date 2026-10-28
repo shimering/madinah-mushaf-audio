@@ -1,0 +1,10 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:1760.880,خواطر سورة الإخلاص
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1760.880
+001.mp3
+#EXTINF:934.610,خواطر سورة الإخلاص
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=934.610
+002.mp3

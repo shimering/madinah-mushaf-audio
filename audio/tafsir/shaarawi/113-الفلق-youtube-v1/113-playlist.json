@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 2,
+  "surah": 113,
+  "mode": "reused-clips",
+  "durationMs": 2475940,
+  "tracks": [
+    {
+      "file": "113-الفلق-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 80350,
+      "durationMs": 80350,
+      "recordingDurationMs": 80350,
+      "bytes": 964645,
+      "sha256": "1da95599cd8a4486c4e19aa479c601fa19044bb0981f50b817400a2038517dd2",
+      "sharedAyahs": [
+        "113:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 0,
+          "end": 80.31
+        }
+      ]
+    },
+    {
+      "file": "113-الفلق-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 202010,
+      "durationMs": 202010,
+      "recordingDurationMs": 202010,
+      "bytes": 2424517,
+      "sha256": "5427978c55427b1b57b1af376f052f5a7bb38d6db4e90328fec8910f90ccc103",
+      "sharedAyahs": [
+        "113:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 80.31,
+          "end": 282.31
+        }
+      ]
+    },
+    {
+      "file": "113-الفلق-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 159480,
+      "durationMs": 159480,
+      "recordingDurationMs": 159480,
+      "bytes": 1914181,
+      "sha256": "bd0759c48459a3ea008fcf8720a4dc2532c9374432aca80cf2ae7158c36988e4",
+      "sharedAyahs": [
+        "113:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 282.31,
+          "end": 441.76
+        }
+      ]
+    },
+    {
+      "file": "113-الفلق-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 1631090,
+      "durationMs": 1631090,
+      "recordingDurationMs": 1631090,
+      "bytes": 19573477,
+      "sha256": "572870b8029aba02f8c15b50817a3c717951289026289c031199529f86c1f13b",
+      "sharedAyahs": [
+        "113:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 441.76,
+          "end": 2072.815
+        }
+      ]
+    },
+    {
+      "file": "113-الفلق-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 384790,
+      "durationMs": 384790,
+      "recordingDurationMs": 384790,
+      "bytes": 4617925,
+      "sha256": "ddb46c599276b1c5647683f1ff626dc066910b082d4cf7fccf7fbfc8f31d1660",
+      "sharedAyahs": [
+        "113:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 2072.815,
+          "end": 2457.58
+        }
+      ]
+    },
+    {
+      "file": "113-الفلق-youtube-v1/closing-05.mp3",
+      "startMs": 0,
+      "endMs": 18220,
+      "durationMs": 18220,
+      "recordingDurationMs": 18220,
+      "bytes": 219008,
+      "sha256": "e6cb04711aae5299eb0f01aff05a3ac74a21ec0d4d363cf8aee15feaa2867053",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 2457.58,
+          "end": 2475.82
+        }
+      ]
+    }
+  ]
+}
