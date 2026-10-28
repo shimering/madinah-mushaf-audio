@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "خواطر الشيخ محمد متولي الشعراوي؛ نسخة تجريبية بمراجعة سياق التفريغ",
+  "surah": 93,
+  "surahName": "الضحى",
+  "ayahCount": 11,
+  "reviewStatus": "transcript_context_reviewed_listening_review_pending",
+  "editionStatus": "incomplete_experimental",
+  "coverage": {
+    "complete": false,
+    "totalAyahCount": 11,
+    "mappedAyahCount": 7,
+    "missingAyahs": [
+      "93:7",
+      "93:8",
+      "93:10",
+      "93:11"
+    ],
+    "missingCommentary": [
+      {
+        "ayah": "93:7",
+        "reason": "المصدر الرسمي مقتطف يشرح بناء السورة إجمالا، ولا يتضمن شرحا محددا لهذه الآية؛ التلاوة أو الإشارة الإجمالية لا تكفي لإثبات تغطيتها."
+      },
+      {
+        "ayah": "93:8",
+        "reason": "المصدر الرسمي مقتطف يشرح بناء السورة إجمالا، ولا يتضمن شرحا محددا لهذه الآية؛ التلاوة أو الإشارة الإجمالية لا تكفي لإثبات تغطيتها."
+      },
+      {
+        "ayah": "93:10",
+        "reason": "المصدر الرسمي مقتطف يشرح بناء السورة إجمالا، ولا يتضمن شرحا محددا لهذه الآية؛ التلاوة أو الإشارة الإجمالية لا تكفي لإثبات تغطيتها."
+      },
+      {
+        "ayah": "93:11",
+        "reason": "المصدر الرسمي مقتطف يشرح بناء السورة إجمالا، ولا يتضمن شرحا محددا لهذه الآية؛ التلاوة أو الإشارة الإجمالية لا تكفي لإثبات تغطيتها."
+      }
+    ],
+    "partialAyahs": [
+      "93:5"
+    ],
+    "partialCommentary": [
+      {
+        "ayah": "93:5",
+        "reason": "المتاح ذكر الآية ضمن وعود الله في نحو عشر ثوان، مع تلاوة الآية السابقة؛ لا يتضمن شرحا تفصيليا مستقلا لها."
+      }
+    ]
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "s1": {
+      "durationSeconds": 344.26,
+      "bytes": 5572263,
+      "sha256": "70b7700f73f70401b3f3e1cdd85aa247d7e59a267da1324c3860bdd3b860258f",
+      "audioCodec": "aac (LC) (mp4a / 0x6134706D)",
+      "file": "tpgUbax3CXU.m4a",
+      "url": "https://www.youtube.com/watch?v=tpgUbax3CXU"
+    }
+  },
+  "ayahs": {
+    "93:1": {
+      "file": "093-الضحى-youtube-v2/001.m4a",
+      "durationMs": 65920,
+      "bytes": 1067384,
+      "sha256": "1d06393464cad7b816ce63c8425dac063b557ce9257b1cab0a69b9399ac95be3",
+      "sharedAyahs": [
+        "93:1",
+        "93:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 0,
+          "end": 65.9
+        }
+      ],
+      "reviewNote": "القسم بالضحى والليل وربط تعاقب العمل والراحة بفترة الوحي."
+    },
+    "93:2": {
+      "file": "093-الضحى-youtube-v2/001.m4a",
+      "durationMs": 65920,
+      "bytes": 1067384,
+      "sha256": "1d06393464cad7b816ce63c8425dac063b557ce9257b1cab0a69b9399ac95be3",
+      "sharedAyahs": [
+        "93:1",
+        "93:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 0,
+          "end": 65.9
+        }
+      ],
+      "reviewNote": "القسم بالضحى والليل وربط تعاقب العمل والراحة بفترة الوحي."
+    },
+    "93:3": {
+      "file": "093-الضحى-youtube-v2/003.m4a",
+      "durationMs": 70730,
+      "bytes": 1144875,
+      "sha256": "9e91188e19ae09f47876dd416cacac08bbf5939b0510bdc1488497452fd5ab2f",
+      "sharedAyahs": [
+        "93:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 65.9,
+          "end": 136.62
+        }
+      ],
+      "reviewNote": "شرح ما ودعك ربك وما قلى؛ فصل عن شرح اليتم بدل الجمع السابق مع الآيتين6و9."
+    },
+    "93:4": {
+      "file": "093-الضحى-youtube-v2/004.m4a",
+      "durationMs": 14820,
+      "bytes": 240856,
+      "sha256": "d8ad562ab631df2e64640933eb2da98fc8cc859b4a904f1f6ac9048b25cea2b4",
+      "sharedAyahs": [
+        "93:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 136.62,
+          "end": 151.42
+        }
+      ],
+      "reviewNote": "معنى الآخرة في هذا المقتطف: المرة التالية من الوحي وامتداده."
+    },
+    "93:5": {
+      "file": "093-الضحى-youtube-v2/005.m4a",
+      "durationMs": 10520,
+      "bytes": 171448,
+      "sha256": "1e25ed798fe7bf22a4fab096340a61dcf54f9f0090c3cc1fb00675088650f5e6",
+      "sharedAyahs": [
+        "93:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 238.0,
+          "end": 248.5
+        }
+      ],
+      "reviewNote": "تناول إجمالي: يذكر الشيخ الآيتين4و5 ويصفهما ضمن وعود الله. ليس شرحا تفصيليا مستقلا للآية5؛ تُعلّم كتغطية جزئية."
+    },
+    "93:6": {
+      "file": "093-الضحى-youtube-v2/006.m4a",
+      "durationMs": 32900,
+      "bytes": 533670,
+      "sha256": "ba1daec28c1172ba784c8dfedeca4680e702ce4d9082ed277c57d1826117a4f1",
+      "sharedAyahs": [
+        "93:6",
+        "93:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 248.5,
+          "end": 281.4
+        }
+      ],
+      "reviewNote": "شرح مترابط لإيواء اليتيم والنهي عن قهره؛ الإشارة إلى الآية3 هنا سياق للمقارنة وليست سببا لضم شرحها المنفصل لهذا الملف."
+    },
+    "93:9": {
+      "file": "093-الضحى-youtube-v2/006.m4a",
+      "durationMs": 32900,
+      "bytes": 533670,
+      "sha256": "ba1daec28c1172ba784c8dfedeca4680e702ce4d9082ed277c57d1826117a4f1",
+      "sharedAyahs": [
+        "93:6",
+        "93:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 248.5,
+          "end": 281.4
+        }
+      ],
+      "reviewNote": "شرح مترابط لإيواء اليتيم والنهي عن قهره؛ الإشارة إلى الآية3 هنا سياق للمقارنة وليست سببا لضم شرحها المنفصل لهذا الملف."
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "093-الضحى-youtube-v2/other-05.m4a",
+      "kind": "other",
+      "durationMs": 116730,
+      "bytes": 1888629,
+      "sha256": "7dde015dd17787789beea9832e8430f3601d0cc40b4536c7e12b7292dc3f46f3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 151.42,
+          "end": 238.0
+        },
+        {
+          "source": "s1",
+          "start": 281.4,
+          "end": 311.54
+        }
+      ],
+      "reviewNote": "بيان بنية السورة وعودا وأدلة وتوجيهات؛ عُزلت فقرة الآية5 مع وصف قصر تناولها."
+    },
+    {
+      "file": "093-الضحى-youtube-v2/closing-06.m4a",
+      "kind": "closing",
+      "durationMs": 32720,
+      "bytes": 529881,
+      "sha256": "c3c231b6f7b46e4adeb3b25034f7ee707c68fb2dfa9554ff133a391847f572c8",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "s1",
+          "start": 311.54,
+          "end": 344.26
+        }
+      ],
+      "reviewNote": "شكر مقدم البرنامج وخاتمته؛ محفوظة في التشغيل المتتابع دون نسبتها لآية."
+    }
+  ],
+  "audioProcessing": "Existing local compressed audio; stream-copy cuts without further lossy encoding",
+  "alignmentMethod": "Re-reviewed full transcript with source-hash-verified focused CUDA rechecks; verse3 separated from shared6/9; brief verse5 marked partial. Human listening review pending.",
+  "topics": [
+    {
+      "id": "duha-promises-evidence-guidance",
+      "title": "ترابط الوعود والأدلة والتوجيهات في سورة الضحى",
+      "file": "093-الضحى-youtube-v2/other-05.m4a",
+      "startMs": 0,
+      "endMs": 116730
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "s1"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "093-الضحى-youtube-v2/001.m4a",
+        "startMs": 0,
+        "endMs": 65920,
+        "durationMs": 65920,
+        "recordingDurationMs": 65920,
+        "bytes": 1067384,
+        "sha256": "1d06393464cad7b816ce63c8425dac063b557ce9257b1cab0a69b9399ac95be3",
+        "sharedAyahs": [
+          "93:1",
+          "93:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 0,
+            "end": 65.9
+          }
+        ]
+      },
+      {
+        "file": "093-الضحى-youtube-v2/003.m4a",
+        "startMs": 0,
+        "endMs": 70730,
+        "durationMs": 70730,
+        "recordingDurationMs": 70730,
+        "bytes": 1144875,
+        "sha256": "9e91188e19ae09f47876dd416cacac08bbf5939b0510bdc1488497452fd5ab2f",
+        "sharedAyahs": [
+          "93:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 65.9,
+            "end": 136.62
+          }
+        ]
+      },
+      {
+        "file": "093-الضحى-youtube-v2/004.m4a",
+        "startMs": 0,
+        "endMs": 14820,
+        "durationMs": 14820,
+        "recordingDurationMs": 14820,
+        "bytes": 240856,
+        "sha256": "d8ad562ab631df2e64640933eb2da98fc8cc859b4a904f1f6ac9048b25cea2b4",
+        "sharedAyahs": [
+          "93:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 136.62,
+            "end": 151.42
+          }
+        ]
+      },
+      {
+        "file": "093-الضحى-youtube-v2/other-05.m4a",
+        "startMs": 0,
+        "endMs": 86567,
+        "durationMs": 86567,
+        "recordingDurationMs": 116730,
+        "bytes": 1888629,
+        "sha256": "7dde015dd17787789beea9832e8430f3601d0cc40b4536c7e12b7292dc3f46f3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 151.42,
+            "end": 238.0
+          }
+        ]
+      },
+      {
+        "file": "093-الضحى-youtube-v2/005.m4a",
+        "startMs": 0,
+        "endMs": 10520,
+        "durationMs": 10520,
+        "recordingDurationMs": 10520,
+        "bytes": 171448,
+        "sha256": "1e25ed798fe7bf22a4fab096340a61dcf54f9f0090c3cc1fb00675088650f5e6",
+        "sharedAyahs": [
+          "93:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 238.0,
+            "end": 248.5
+          }
+        ]
+      },
+      {
+        "file": "093-الضحى-youtube-v2/006.m4a",
+        "startMs": 0,
+        "endMs": 32900,
+        "durationMs": 32900,
+        "recordingDurationMs": 32900,
+        "bytes": 533670,
+        "sha256": "ba1daec28c1172ba784c8dfedeca4680e702ce4d9082ed277c57d1826117a4f1",
+        "sharedAyahs": [
+          "93:6",
+          "93:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 248.5,
+            "end": 281.4
+          }
+        ]
+      },
+      {
+        "file": "093-الضحى-youtube-v2/other-05.m4a",
+        "startMs": 86567,
+        "endMs": 116730,
+        "durationMs": 30163,
+        "recordingDurationMs": 116730,
+        "bytes": 1888629,
+        "sha256": "7dde015dd17787789beea9832e8430f3601d0cc40b4536c7e12b7292dc3f46f3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 281.4,
+            "end": 311.54
+          }
+        ]
+      },
+      {
+        "file": "093-الضحى-youtube-v2/closing-06.m4a",
+        "startMs": 0,
+        "endMs": 32720,
+        "durationMs": 32720,
+        "recordingDurationMs": 32720,
+        "bytes": 529881,
+        "sha256": "c3c231b6f7b46e4adeb3b25034f7ee707c68fb2dfa9554ff133a391847f572c8",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "s1",
+            "start": 311.54,
+            "end": 344.26
+          }
+        ]
+      }
+    ],
+    "durationMs": 344340,
+    "additionalAudioBytes": 0
+  },
+  "commentaryLimitations": [
+    {
+      "ayah": "93:5",
+      "reason": "المتاح ذكر الآية ضمن وعود الله في نحو عشر ثوان، مع تلاوة الآية السابقة؛ لا يتضمن شرحا تفصيليا مستقلا لها."
+    }
+  ],
+  "publicationStatus": "published"
+}
