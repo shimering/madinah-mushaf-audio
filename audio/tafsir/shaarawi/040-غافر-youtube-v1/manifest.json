@@ -1,0 +1,3268 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 40,
+  "surahName": "غافر",
+  "ayahCount": 85,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 85,
+    "mappedAyahCount": 85,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "aho46mSetDg": {
+      "durationSeconds": 1732.06,
+      "bytes": 20785362,
+      "sha256": "3675e58afa40c829b52943d54d1b7e4ef18bec578be90b001628a9ef29f2369f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-003_aho46mSetDg.mp3"
+    },
+    "4jLPxa0a6w8": {
+      "durationSeconds": 2567.98,
+      "bytes": 30816402,
+      "sha256": "9bdd4ea28a2a416186fa2c96bd2e58ae8029f5547beba79c84cc2d366aa715f3",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_001-005_4jLPxa0a6w8.mp3"
+    },
+    "JjwaptNirmg": {
+      "durationSeconds": 2612.26,
+      "bytes": 31347764,
+      "sha256": "39141ad886dfaa0185d5d191abd9c016477deb2bf575102b6ff52d533390d333",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_005-011_JjwaptNirmg.mp3"
+    },
+    "Hc4Gc8A25I0": {
+      "durationSeconds": 2566.18,
+      "bytes": 30794806,
+      "sha256": "a39d50f35e467697f5e7a4192db5167c9d0b5b11b6a32ba9227583c9182fcb51",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_012-017_Hc4Gc8A25I0.mp3"
+    },
+    "WesUD5Vw_r4": {
+      "durationSeconds": 2702.95,
+      "bytes": 32436118,
+      "sha256": "6a6a94b54abb51dc073c4d3c5c6c0ebe03b14dea45be658e14caf0d91dbf1f65",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_017-027_WesUD5Vw_r4.mp3"
+    },
+    "9Lm6wRqJwug": {
+      "durationSeconds": 2560.75,
+      "bytes": 30729718,
+      "sha256": "5591fcd4000219fccdd05c14686ccb0bf334c899953bc4e71542e3294932856d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_023-035_9Lm6wRqJwug.mp3"
+    },
+    "osg40X8rtz8": {
+      "durationSeconds": 2579.14,
+      "bytes": 30950326,
+      "sha256": "53e67eedddfe0fe3e75b5223f8413ad2231f61669c1d1c525fc4d9edd1d9a115",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_035-050_osg40X8rtz8.mp3"
+    },
+    "LAhqXr6fjz8": {
+      "durationSeconds": 2580.43,
+      "bytes": 30965878,
+      "sha256": "2195d2dc15b9f08771a45e50b9f2953935f18d03d8ac32952d1ba4679f604a26",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_050-056_LAhqXr6fjz8.mp3"
+    },
+    "xZIrh8dRWrs": {
+      "durationSeconds": 2654.57,
+      "bytes": 31855510,
+      "sha256": "a9937b8107daa878c3cf39a0883f077746ef3a0b7a829bad6d989dca630896ba",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_056-066_xZIrh8dRWrs.mp3"
+    },
+    "J43UOMCyJMI": {
+      "durationSeconds": 2425.92,
+      "bytes": 29111735,
+      "sha256": "3bf8418f3883c7ff38086c5299c8205b45cdceaa1634a04a47eee5a77ba8f4b9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_067-085_J43UOMCyJMI.mp3"
+    }
+  },
+  "ayahs": {
+    "40:1": {
+      "file": "040-غافر-youtube-v1/001.mp3",
+      "durationMs": 1056740,
+      "bytes": 12681602,
+      "sha256": "4ca80775909d037fb970f89eb37cc19d6529af9d3afa1b48a6fd61d22c4488ea",
+      "sharedAyahs": [
+        "40:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aho46mSetDg",
+          "start": 3.7,
+          "end": 1060.43
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: حم وفواتح الحواميم"
+    },
+    "40:2": {
+      "file": "040-غافر-youtube-v1/002.mp3",
+      "durationMs": 613060,
+      "bytes": 7357346,
+      "sha256": "6b9c4939ffce2d42d60b6e6ebdc92753d0bb9eb0e32cf92fc23346dc5956237c",
+      "sharedAyahs": [
+        "40:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aho46mSetDg",
+          "start": 1060.43,
+          "end": 1673.46
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: تنزيل الكتاب من الله العزيز العليم"
+    },
+    "40:3": {
+      "file": "040-غافر-youtube-v1/003.mp3",
+      "durationMs": 285820,
+      "bytes": 3430466,
+      "sha256": "c69e920dc6461c3c74a47e25fd2c0e5c0e340f92d71e95dc107c559c771f77c5",
+      "sharedAyahs": [
+        "40:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jLPxa0a6w8",
+          "start": 2.32,
+          "end": 288.11
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: غافر الذنب وقابل التوب شديد العقاب ذي الطول لا إله إلا هو إليه المصير"
+    },
+    "40:4": {
+      "file": "040-غافر-youtube-v1/004.mp3",
+      "durationMs": 1550690,
+      "bytes": 18608930,
+      "sha256": "8b0897600aadf1d7f365a679dd21763549c81bd96fbf1881c7260fe9ee2f03ee",
+      "sharedAyahs": [
+        "40:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jLPxa0a6w8",
+          "start": 288.11,
+          "end": 1838.78
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: ما يجادل في آيات الله إلا الذين كفروا فلا يغررك تقلبهم في البلاد"
+    },
+    "40:5": {
+      "file": "040-غافر-youtube-v1/005.mp3",
+      "durationMs": 723070,
+      "bytes": 8677538,
+      "sha256": "4732d2a4e4289bebd17cccc37e90448d39ee07b742d45995f5e35e73437fb1ce",
+      "sharedAyahs": [
+        "40:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jLPxa0a6w8",
+          "start": 1838.78,
+          "end": 2561.82
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: كذبت قبلهم قوم نوح والأحزاب من بعدهم وهمت كل أمة برسولهم ليأخذوه"
+    },
+    "40:6": {
+      "file": "040-غافر-youtube-v1/006.mp3",
+      "durationMs": 416570,
+      "bytes": 4999490,
+      "sha256": "cd921aca9c8c62fc82a6c65db1d66b3833f9b0c15daa7c52aa9d27c1dfe94d57",
+      "sharedAyahs": [
+        "40:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JjwaptNirmg",
+          "start": 0.0,
+          "end": 416.54
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: وكذلك حقت كلمة ربك على الذين كفروا أنهم أصحاب النار"
+    },
+    "40:7": {
+      "file": "040-غافر-youtube-v1/007.mp3",
+      "durationMs": 915000,
+      "bytes": 10980674,
+      "sha256": "9583323708b22945a718d02dbcb091e366625407e708b92b53714c3e89092f1c",
+      "sharedAyahs": [
+        "40:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JjwaptNirmg",
+          "start": 416.54,
+          "end": 1331.52
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: الذين يحملون العرش ومن حوله يسبحون بحمد ربهم ويؤمنون به ويستغفرون للذين آمنوا"
+    },
+    "40:8": {
+      "file": "040-غافر-youtube-v1/008.mp3",
+      "durationMs": 489600,
+      "bytes": 5875874,
+      "sha256": "1f364e9486313d142aa89c8a1dd839961e2029bc51d3ed38f5eed9bd3a05a910",
+      "sharedAyahs": [
+        "40:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JjwaptNirmg",
+          "start": 1331.52,
+          "end": 1821.08
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: ربنا وأدخلهم جنات عدن التي وعدتهم ومن صلح من آبائهم وأزواجهم وذرياتهم"
+    },
+    "40:9": {
+      "file": "040-غافر-youtube-v1/009.mp3",
+      "durationMs": 238730,
+      "bytes": 2865410,
+      "sha256": "a32b059516fea18a1205660304657fd6531a3a7702fc7d28e9e8230bf33c8470",
+      "sharedAyahs": [
+        "40:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JjwaptNirmg",
+          "start": 1821.08,
+          "end": 2059.78
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: وقهم السيئات ومن تق السيئات يومئذ فقد رحمته وذلك هو الفوز العظيم"
+    },
+    "40:10": {
+      "file": "040-غافر-youtube-v1/010.mp3",
+      "durationMs": 76660,
+      "bytes": 920548,
+      "sha256": "5fc310422c241189f9ab5d2e4fefbf5cfd056818e9b7c54024d48f6a96c2d5d7",
+      "sharedAyahs": [
+        "40:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JjwaptNirmg",
+          "start": 2059.78,
+          "end": 2136.43
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: إن الذين كفروا ينادون لمقت الله أكبر من مقتكم أنفسكم إذ تدعون إلى الإيمان فتكفرون"
+    },
+    "40:11": {
+      "file": "040-غافر-youtube-v1/011.mp3",
+      "durationMs": 384310,
+      "bytes": 4612420,
+      "sha256": "07ee9c2c30c199d7971776bfe10ce4f7cc922f57580a2c27b1dc51b8d114364d",
+      "sharedAyahs": [
+        "40:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JjwaptNirmg",
+          "start": 2136.43,
+          "end": 2520.71
+        }
+      ],
+      "reviewNote": "تفسير الآية 11: قالوا ربنا أمتنا اثنتين وأحييتنا اثنتين فاعترفنا بذنوبنا فهل إلى خروج من سبيل"
+    },
+    "40:12": {
+      "file": "040-غافر-youtube-v1/012.mp3",
+      "durationMs": 261190,
+      "bytes": 3134980,
+      "sha256": "ec0731be07a5f6b697aee6c97ac713ac3992d5b3715af9d7c50c4d7f3504fd5c",
+      "sharedAyahs": [
+        "40:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hc4Gc8A25I0",
+          "start": 2.8,
+          "end": 263.96
+        }
+      ],
+      "reviewNote": "تفسير الآية 12: ذلكم بأنه إذا دعي الله وحده كفرتم وإن يشرك به تؤمنوا فالحكم لله العلي الكبير"
+    },
+    "40:13": {
+      "file": "040-غافر-youtube-v1/013.mp3",
+      "durationMs": 131950,
+      "bytes": 1584100,
+      "sha256": "1752dcdf4a66ec9d232bee9f8cb0a6144acd185fa62810cfd46bf82c8cba0dcd",
+      "sharedAyahs": [
+        "40:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hc4Gc8A25I0",
+          "start": 263.96,
+          "end": 395.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: هو الذي يريكم آياته وينزل لكم من السماء رزقا وما يتذكر إلا من ينيب"
+    },
+    "40:14": {
+      "file": "040-غافر-youtube-v1/014.mp3",
+      "durationMs": 881230,
+      "bytes": 10575460,
+      "sha256": "d50a3eaeccf7092bf0a4407cd2b7ab3bcae973f5543796e6fba319adc8144be5",
+      "sharedAyahs": [
+        "40:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hc4Gc8A25I0",
+          "start": 395.9,
+          "end": 1277.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: فادعوا الله مخلصين له الدين ولو كره الكافرون"
+    },
+    "40:15": {
+      "file": "040-غافر-youtube-v1/015.mp3",
+      "durationMs": 867860,
+      "bytes": 10415044,
+      "sha256": "a957cace73af9d88b11c77f91e4b6a2e5e41da146c416607a48cfcad80e486c3",
+      "sharedAyahs": [
+        "40:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hc4Gc8A25I0",
+          "start": 1277.1,
+          "end": 2144.94
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: رفيع الدرجات ذو العرش يلقي الروح من أمره على من يشاء من عباده لينذر يوم التلاق"
+    },
+    "40:16": {
+      "file": "040-غافر-youtube-v1/016.mp3",
+      "durationMs": 85510,
+      "bytes": 1026820,
+      "sha256": "e36474b31ed20649ecb1f834f812f06bf3662b0453443568b984fdecf6b0ecfa",
+      "sharedAyahs": [
+        "40:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hc4Gc8A25I0",
+          "start": 2144.94,
+          "end": 2230.44
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: يوم هم بارزون لا يخفى على الله منهم شيء لمن الملك اليوم لله الواحد القهار"
+    },
+    "40:17": {
+      "file": "040-غافر-youtube-v1/017.mp3",
+      "durationMs": 610320,
+      "bytes": 7324261,
+      "sha256": "cd630f0a58cbb47d3425ecd0429ebe7c41b0c8f4a34c8cca4729699045f2d690",
+      "sharedAyahs": [
+        "40:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Hc4Gc8A25I0",
+          "start": 2230.44,
+          "end": 2562.8
+        },
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 2.1,
+          "end": 280.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 17: اليوم تجزى كل نفس بما كسبت لا ظلم اليوم إن الله سريع الحساب"
+    },
+    "40:18": {
+      "file": "040-غافر-youtube-v1/018.mp3",
+      "durationMs": 339120,
+      "bytes": 4070116,
+      "sha256": "5197e37b861e6b06df82a2d937ece1be2d479434f5380295b46616c9c6344d42",
+      "sharedAyahs": [
+        "40:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 280.0,
+          "end": 619.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 18: وأنذرهم يوم الآزفة إذ القلوب لدى الحناجر كاظمين ما للظالمين من حميم ولا شفيع يطاع"
+    },
+    "40:19": {
+      "file": "040-غافر-youtube-v1/019.mp3",
+      "durationMs": 82510,
+      "bytes": 990820,
+      "sha256": "887da2e9da8c54c24461be58dfc8c2881a6d54c0594557e500c716bcd9ed6af8",
+      "sharedAyahs": [
+        "40:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 619.1,
+          "end": 701.57
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: يعلم خائنة الأعين وما تخفي الصدور"
+    },
+    "40:20": {
+      "file": "040-غافر-youtube-v1/020.mp3",
+      "durationMs": 159860,
+      "bytes": 1919044,
+      "sha256": "6a6736a180f72be34a7e0e476d29037861b3ad6449ac00d5a87541ebfb758636",
+      "sharedAyahs": [
+        "40:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 701.57,
+          "end": 861.42
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: والله يقضي بالحق والذين يدعون من دونه لا يقضون بشيء إن الله هو السميع البصير"
+    },
+    "40:21": {
+      "file": "040-غافر-youtube-v1/021.mp3",
+      "durationMs": 433420,
+      "bytes": 5201668,
+      "sha256": "dfd80dda8ae6125de716ec04a29ffe791f7f65fe5572d4fd27efeb8239446bec",
+      "sharedAyahs": [
+        "40:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 861.42,
+          "end": 1294.81
+        }
+      ],
+      "reviewNote": "تفسير الآية 21: أولم يسيروا في الأرض فينظروا كيف كان عاقبة الذين كانوا من قبلهم"
+    },
+    "40:22": {
+      "file": "040-غافر-youtube-v1/022.mp3",
+      "durationMs": 87000,
+      "bytes": 1044676,
+      "sha256": "8e16492aabea41924c746762dd781ef22f16569abc2f0aaab8c23f44d9d4773b",
+      "sharedAyahs": [
+        "40:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 1294.81,
+          "end": 1381.79
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: ذلك بأنهم كانت تأتيهم رسلهم بالبينات فكفروا فأخذهم الله إنه قوي شديد العقاب"
+    },
+    "40:23": {
+      "file": "040-غافر-youtube-v1/023.mp3",
+      "durationMs": 425420,
+      "bytes": 5105764,
+      "sha256": "32e73e7c183794df87cd6c1f2920a7ac93aad9ba816a573d7745d1404db3475a",
+      "sharedAyahs": [
+        "40:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 1381.79,
+          "end": 1807.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 23: ولقد أرسلنا موسى بآياتنا وسلطان مبين"
+    },
+    "40:24": {
+      "file": "040-غافر-youtube-v1/024.mp3",
+      "durationMs": 8280,
+      "bytes": 100036,
+      "sha256": "f204e2cd3727cf57411c1d9e5ecc97607886aaabeda18664798a4a4d4acbdf2d",
+      "sharedAyahs": [
+        "40:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 1807.2,
+          "end": 1815.44
+        }
+      ],
+      "reviewNote": "تفسير الآية 24: إلى فرعون وهامان وقارون فقالوا ساحر كذاب"
+    },
+    "40:25": {
+      "file": "040-غافر-youtube-v1/025.mp3",
+      "durationMs": 169970,
+      "bytes": 2040292,
+      "sha256": "5aea9e071a792df228774bdbbfb5d942fd76f59308dc046e59f19551affff600",
+      "sharedAyahs": [
+        "40:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 1815.44,
+          "end": 1985.38
+        }
+      ],
+      "reviewNote": "تفسير الآية 25: فلما جاءهم بالحق من عندنا قالوا اقتلوا أبناء الذين آمنوا معه واستحيوا نساءهم"
+    },
+    "40:26": {
+      "file": "040-غافر-youtube-v1/026.mp3",
+      "durationMs": 503300,
+      "bytes": 6040324,
+      "sha256": "f263355421c3b19979522793a83ec9ddcb8685ed016b35056416de5b3e0e4e2f",
+      "sharedAyahs": [
+        "40:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 1985.38,
+          "end": 2488.66
+        }
+      ],
+      "reviewNote": "تفسير الآية 26: وقال فرعون ذروني أقتل موسى وليدع ربه إني أخاف أن يبدل دينكم أو أن يظهر في الأرض الفساد"
+    },
+    "40:27": {
+      "file": "040-غافر-youtube-v1/027.mp3",
+      "durationMs": 208850,
+      "bytes": 2506852,
+      "sha256": "664913b763b29776f0f093a4360bd2bc104ccbeaec97d371ac582e9b44486e70",
+      "sharedAyahs": [
+        "40:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WesUD5Vw_r4",
+          "start": 2488.66,
+          "end": 2697.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 27: وقال موسى إني عذت بربي وربكم من كل متكبر لا يؤمن بيوم الحساب"
+    },
+    "40:28": {
+      "file": "040-غافر-youtube-v1/028.mp3",
+      "durationMs": 1735820,
+      "bytes": 20830564,
+      "sha256": "420a21030aea84a56b4d55283ba5a307b37a15f10cf03d1773670fb8937c21b5",
+      "sharedAyahs": [
+        "40:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Lm6wRqJwug",
+          "start": 4.18,
+          "end": 1740.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 28: وقال رجل مؤمن من آل فرعون يكتم إيمانه أتقتلون رجلا أن يقول ربي الله"
+    },
+    "40:29": {
+      "file": "040-غافر-youtube-v1/029.mp3",
+      "durationMs": 59660,
+      "bytes": 716644,
+      "sha256": "9e36f96af3f1b34b7fd6cc85b81b8630ebd5ba775707170d9d79a4fb7ecf386c",
+      "sharedAyahs": [
+        "40:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Lm6wRqJwug",
+          "start": 1740.0,
+          "end": 1799.64
+        }
+      ],
+      "reviewNote": "تفسير الآية 29: يا قوم لكم الملك اليوم ظاهرين في الأرض فمن ينصرنا من بأس الله إن جاءنا"
+    },
+    "40:30": {
+      "file": "040-غافر-youtube-v1/030.mp3",
+      "durationMs": 144480,
+      "bytes": 1734436,
+      "sha256": "806cd101f3f5de2b21db9908f5f147007a066d3c8da9ef219fff1108d6c0f483",
+      "sharedAyahs": [
+        "40:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Lm6wRqJwug",
+          "start": 1799.64,
+          "end": 1944.08
+        }
+      ],
+      "reviewNote": "تفسير الآية 30: وقال الذي آمن يا قوم إني أخاف عليكم مثل يوم الأحزاب"
+    },
+    "40:31": {
+      "file": "040-غافر-youtube-v1/031.mp3",
+      "durationMs": 55940,
+      "bytes": 672004,
+      "sha256": "4573d98e274b4f08738e5067ee97088d17f7fe27e6e49e913aca445457a24f90",
+      "sharedAyahs": [
+        "40:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Lm6wRqJwug",
+          "start": 1944.08,
+          "end": 2000.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 31: مثل دأب قوم نوح وعاد وثمود والذين من بعدهم وما الله يريد ظلما للعباد"
+    },
+    "40:32": {
+      "file": "040-غافر-youtube-v1/032.mp3",
+      "durationMs": 313130,
+      "bytes": 3758212,
+      "sha256": "3f38aa94cd997558f3de799e4ed71cf752ceca0dbe86add35ffab616f62e2be9",
+      "sharedAyahs": [
+        "40:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Lm6wRqJwug",
+          "start": 2000.0,
+          "end": 2313.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 32: ويا قوم إني أخاف عليكم يوم التناد"
+    },
+    "40:33": {
+      "file": "040-غافر-youtube-v1/033.mp3",
+      "durationMs": 78980,
+      "bytes": 948484,
+      "sha256": "2d7825b434883f16f6af72ef0e7515344d44800934a5052439c4b81bdac2b202",
+      "sharedAyahs": [
+        "40:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Lm6wRqJwug",
+          "start": 2313.1,
+          "end": 2392.06
+        }
+      ],
+      "reviewNote": "تفسير الآية 33: يوم تولون مدبرين ما لكم من الله من عاصم ومن يضلل الله فما له من هاد"
+    },
+    "40:34": {
+      "file": "040-غافر-youtube-v1/034.mp3",
+      "durationMs": 127940,
+      "bytes": 1536004,
+      "sha256": "43a17f751c8064b64c79ae442b10820e189b4f3ba5361dea6eca3c0e0f5bdd8d",
+      "sharedAyahs": [
+        "40:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Lm6wRqJwug",
+          "start": 2392.06,
+          "end": 2520.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 34: ولقد جاءكم يوسف من قبل بالبينات فما زلتم في شك مما جاءكم به"
+    },
+    "40:35": {
+      "file": "040-غافر-youtube-v1/035.mp3",
+      "durationMs": 418220,
+      "bytes": 5019109,
+      "sha256": "5378e80d7b9a1ca7b9883924c22b9977f19d661785f9b1b59c7e4f6c1928358b",
+      "sharedAyahs": [
+        "40:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Lm6wRqJwug",
+          "start": 2520.0,
+          "end": 2558.16
+        },
+        {
+          "source": "osg40X8rtz8",
+          "start": 0.0,
+          "end": 380.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 35: الذين يجادلون في آيات الله بغير سلطان أتاهم كبر مقتا عند الله وعند الذين آمنوا"
+    },
+    "40:36": {
+      "file": "040-غافر-youtube-v1/036.mp3",
+      "durationMs": 12790,
+      "bytes": 154180,
+      "sha256": "080ca7e6c164e865bdac1d01ed6b5ae4e71a510b1c90c05deee0eb15f556c6ce",
+      "sharedAyahs": [
+        "40:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 380.0,
+          "end": 392.78
+        }
+      ],
+      "reviewNote": "تفسير الآية 36: وقال فرعون يا هامان ابن لي صرحا لعلي أبلغ الأسباب"
+    },
+    "40:37": {
+      "file": "040-غافر-youtube-v1/037.mp3",
+      "durationMs": 27910,
+      "bytes": 335620,
+      "sha256": "5a2d1d409d1f34c2ad493264a921c543d9b7e5d6cc6c999755dc546791163a92",
+      "sharedAyahs": [
+        "40:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 392.78,
+          "end": 420.65
+        }
+      ],
+      "reviewNote": "تفسير الآية 37: أسباب السماوات فأطلع إلى إله موسى وإني لأظنه كاذبا"
+    },
+    "40:38": {
+      "file": "040-غافر-youtube-v1/038.mp3",
+      "durationMs": 94610,
+      "bytes": 1135972,
+      "sha256": "fb64d1d4fdd294706775e89bdc95a9be36d42bdd60a87be88649d0a58b23ff85",
+      "sharedAyahs": [
+        "40:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 420.65,
+          "end": 515.24
+        }
+      ],
+      "reviewNote": "تفسير الآية 38: وقال الذي آمن يا قوم اتبعون أهدكم سبيل الرشاد"
+    },
+    "40:39": {
+      "file": "040-غافر-youtube-v1/039.mp3",
+      "durationMs": 381020,
+      "bytes": 4572964,
+      "sha256": "212884580a1cb708d4f2550745c0c4d5f1073ece69a3cd412d0c7ddc281b985a",
+      "sharedAyahs": [
+        "40:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 515.24,
+          "end": 896.24
+        }
+      ],
+      "reviewNote": "تفسير الآية 39: يا قوم إنما هذه الحياة الدنيا متاع وإن الآخرة هي دار القرار"
+    },
+    "40:40": {
+      "file": "040-غافر-youtube-v1/040.mp3",
+      "durationMs": 635280,
+      "bytes": 7624036,
+      "sha256": "62a6bf7060b30efd5eb9e4d904eb3faa94c676505f7a8abc824aa03573e120fe",
+      "sharedAyahs": [
+        "40:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 896.24,
+          "end": 1531.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 40: من عمل سيئة فلا يجزى إلا مثلها ومن عمل صالحا من ذكر أو أنثى وهو مؤمن"
+    },
+    "40:41": {
+      "file": "040-غافر-youtube-v1/041.mp3",
+      "durationMs": 69740,
+      "bytes": 837604,
+      "sha256": "835a15d5ac2ed2b87bf8a76b9081aad4088d6420b1e8e3bcf4944c2815e19588",
+      "sharedAyahs": [
+        "40:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 1531.5,
+          "end": 1601.21
+        }
+      ],
+      "reviewNote": "تفسير الآية 41: ويا قوم ما لي أدعوكم إلى النجاة وتدعونني إلى النار"
+    },
+    "40:42": {
+      "file": "040-غافر-youtube-v1/042.mp3",
+      "durationMs": 28340,
+      "bytes": 340804,
+      "sha256": "25cd57bf024b723c50737320af3185af65c51ec65b4a2b8a10c4ca54e43b1194",
+      "sharedAyahs": [
+        "40:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 1601.21,
+          "end": 1629.54
+        }
+      ],
+      "reviewNote": "تفسير الآية 42: تدعونني لأكفر بالله وأشرك به ما ليس لي به علم وأنا أدعوكم إلى العزيز الغفار"
+    },
+    "40:43": {
+      "file": "040-غافر-youtube-v1/043.mp3",
+      "durationMs": 118560,
+      "bytes": 1423396,
+      "sha256": "f19e5a1fcb297970fbcb790ff2b75a08f7d4c62b723d4e840e34dccf56530474",
+      "sharedAyahs": [
+        "40:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 1629.54,
+          "end": 1748.07
+        }
+      ],
+      "reviewNote": "تفسير الآية 43: لا جرم أنما تدعونني إليه ليس له دعوة في الدنيا ولا في الآخرة"
+    },
+    "40:44": {
+      "file": "040-غافر-youtube-v1/044.mp3",
+      "durationMs": 86160,
+      "bytes": 1034596,
+      "sha256": "25a16bbe05bc7a6f78fccc5969a14fd372db6b7449f1c727c922e576990484e5",
+      "sharedAyahs": [
+        "40:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 1748.07,
+          "end": 1834.22
+        }
+      ],
+      "reviewNote": "تفسير الآية 44: فستذكرون ما أقول لكم وأفوض أمري إلى الله إن الله بصير بالعباد"
+    },
+    "40:45": {
+      "file": "040-غافر-youtube-v1/045.mp3",
+      "durationMs": 425520,
+      "bytes": 5106916,
+      "sha256": "7cd0642a094f39852a79fe0b45d099066d14cfc3071aa6c60cd474282c782ee9",
+      "sharedAyahs": [
+        "40:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 1834.22,
+          "end": 2259.71
+        }
+      ],
+      "reviewNote": "تفسير الآية 45: فوقاه الله سيئات ما مكروا وحاق بآل فرعون سوء العذاب"
+    },
+    "40:46": {
+      "file": "040-غافر-youtube-v1/046.mp3",
+      "durationMs": 111910,
+      "bytes": 1343620,
+      "sha256": "b358c36224590d2239c05c4be366ac5bbf8e1726d4bc8b769699fa2d2a52fb9c",
+      "sharedAyahs": [
+        "40:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 2259.71,
+          "end": 2371.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 46: النار يعرضون عليها غدوا وعشيا ويوم تقوم الساعة أدخلوا آل فرعون أشد العذاب"
+    },
+    "40:47": {
+      "file": "040-غافر-youtube-v1/047.mp3",
+      "durationMs": 95230,
+      "bytes": 1143460,
+      "sha256": "8acf009ec4a2972d955d74acf19ba8ce37aa3783a4b15c9b0db71a9ab9ff5ecf",
+      "sharedAyahs": [
+        "40:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 2371.6,
+          "end": 2466.81
+        }
+      ],
+      "reviewNote": "تفسير الآية 47: وإذ يتحاجون في النار فيقول الضعفاء للذين استكبروا إنا كنا لكم تبعا"
+    },
+    "40:48": {
+      "file": "040-غافر-youtube-v1/048.mp3",
+      "durationMs": 33960,
+      "bytes": 408196,
+      "sha256": "919fa0425121d738c7c1c0e34041f29184a6309703f5ba707be7ac2836fbd0aa",
+      "sharedAyahs": [
+        "40:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 2466.81,
+          "end": 2500.75
+        }
+      ],
+      "reviewNote": "تفسير الآية 48: قال الذين استكبروا إنا كل فيها إن الله قد حكم بين العباد"
+    },
+    "40:49": {
+      "file": "040-غافر-youtube-v1/049.mp3",
+      "durationMs": 33650,
+      "bytes": 404452,
+      "sha256": "a95c4f44920226bea6824270fcfdbecea3db31d1ac15aaa44c6b0d7b5a5020e7",
+      "sharedAyahs": [
+        "40:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 2500.75,
+          "end": 2534.37
+        }
+      ],
+      "reviewNote": "تفسير الآية 49: وقال الذين في النار لخزنة جهنم ادعوا ربكم يخفف عنا يوما من العذاب"
+    },
+    "40:50": {
+      "file": "040-غافر-youtube-v1/050.mp3",
+      "durationMs": 43560,
+      "bytes": 523396,
+      "sha256": "6ea1efac3946b756265581ce33dcf2846592d1662cf0d3832154f8b770f773d2",
+      "sharedAyahs": [
+        "40:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "osg40X8rtz8",
+          "start": 2534.37,
+          "end": 2577.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 50: قالوا أولم تك تأتيكم رسلكم بالبينات قالوا بلى قالوا فادعوا وما دعاء الكافرين إلا في ضلال"
+    },
+    "40:51": {
+      "file": "040-غافر-youtube-v1/051.mp3",
+      "durationMs": 1361380,
+      "bytes": 16337188,
+      "sha256": "5f51180dc88258bfcb33c84eaad965c82271d901a43719e8545e833ef0d9471c",
+      "sharedAyahs": [
+        "40:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LAhqXr6fjz8",
+          "start": 5.55,
+          "end": 1366.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 51: إنا لننصر رسلنا والذين آمنوا في الحياة الدنيا ويوم يقوم الأشهاد"
+    },
+    "40:52": {
+      "file": "040-غافر-youtube-v1/052.mp3",
+      "durationMs": 36020,
+      "bytes": 432964,
+      "sha256": "07f5916cbf9edad40b393afb5bbbe1e56f8736770c905a14d73638f26aee41c3",
+      "sharedAyahs": [
+        "40:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LAhqXr6fjz8",
+          "start": 1366.9,
+          "end": 1402.92
+        }
+      ],
+      "reviewNote": "تفسير الآية 52: يوم لا ينفع الظالمين معذرتهم ولهم اللعنة ولهم سوء الدار"
+    },
+    "40:53": {
+      "file": "040-غافر-youtube-v1/053.mp3",
+      "durationMs": 71140,
+      "bytes": 854308,
+      "sha256": "10da6ba3ecd9f39daa58509db22fcb82d6fe21044a6ee710122e332f290696c0",
+      "sharedAyahs": [
+        "40:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LAhqXr6fjz8",
+          "start": 1402.92,
+          "end": 1474.03
+        }
+      ],
+      "reviewNote": "تفسير الآية 53: ولقد آتينا موسى الهدى وأورثنا بني إسرائيل الكتاب"
+    },
+    "40:54": {
+      "file": "040-غافر-youtube-v1/054.mp3",
+      "durationMs": 14570,
+      "bytes": 175492,
+      "sha256": "a47e8f2263f45ef99145d1ad534d2331875c3d5f744d6f6385673a34d22d1590",
+      "sharedAyahs": [
+        "40:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LAhqXr6fjz8",
+          "start": 1474.03,
+          "end": 1488.57
+        }
+      ],
+      "reviewNote": "تفسير الآية 54: هدى وذكرى لأولي الألباب"
+    },
+    "40:55": {
+      "file": "040-غافر-youtube-v1/055.mp3",
+      "durationMs": 1090560,
+      "bytes": 13087396,
+      "sha256": "01f5538ad3958e38c2c05ddc174173fd1e066aca9e0a4a09c22d0429b472b443",
+      "sharedAyahs": [
+        "40:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LAhqXr6fjz8",
+          "start": 1488.57,
+          "end": 2579.11
+        }
+      ],
+      "reviewNote": "تفسير الآية 55: فاصبر إن وعد الله حق واستغفر لذنبك وسبح بحمد ربك بالعشي والإبكار"
+    },
+    "40:56": {
+      "file": "040-غافر-youtube-v1/056.mp3",
+      "durationMs": 300410,
+      "bytes": 3605572,
+      "sha256": "f5ca8244a451a5b4c21f1592ca0351d382f58c7d193a248547260314dabab7ee",
+      "sharedAyahs": [
+        "40:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 2.9,
+          "end": 303.27
+        }
+      ],
+      "reviewNote": "تفسير الآية 56: إن الذين يجادلون في آيات الله بغير سلطان أتاهم إن في صدورهم إلا كبر ما هم ببالغيه"
+    },
+    "40:57": {
+      "file": "040-غافر-youtube-v1/057.mp3",
+      "durationMs": 339980,
+      "bytes": 4080484,
+      "sha256": "44f41635e6ed53c05cf982ec0b32be2800992c91a3e48d77ac1c5748d57fd394",
+      "sharedAyahs": [
+        "40:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 303.27,
+          "end": 643.24
+        }
+      ],
+      "reviewNote": "تفسير الآية 57: لخلق السماوات والأرض أكبر من خلق الناس ولكن أكثر الناس لا يعلمون"
+    },
+    "40:58": {
+      "file": "040-غافر-youtube-v1/058.mp3",
+      "durationMs": 72120,
+      "bytes": 866116,
+      "sha256": "dbf235745f8fca7e927e73f1bc066c8f70e78d5f9b0bdfcea2a673da59507931",
+      "sharedAyahs": [
+        "40:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 643.24,
+          "end": 715.34
+        }
+      ],
+      "reviewNote": "تفسير الآية 58: وما يستوي الأعمى والبصير والذين آمنوا وعملوا الصالحات ولا المسيء"
+    },
+    "40:59": {
+      "file": "040-غافر-youtube-v1/059.mp3",
+      "durationMs": 550440,
+      "bytes": 6605956,
+      "sha256": "883ef35565879ec509e32204775b9f0ac0a61d2e4debbb576112bb5692b0d41c",
+      "sharedAyahs": [
+        "40:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 715.34,
+          "end": 1265.74
+        }
+      ],
+      "reviewNote": "تفسير الآية 59: إن الساعة لآتية لا ريب فيها ولكن أكثر الناس لا يؤمنون"
+    },
+    "40:60": {
+      "file": "040-غافر-youtube-v1/060.mp3",
+      "durationMs": 160060,
+      "bytes": 1921348,
+      "sha256": "c71b33b3e6611a5f4699780d78ce615a47520aec83fc8ec56b5a2f7fe166914e",
+      "sharedAyahs": [
+        "40:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 1265.74,
+          "end": 1425.77
+        }
+      ],
+      "reviewNote": "تفسير الآية 60: وقال ربكم ادعوني أستجب لكم إن الذين يستكبرون عن عبادتي سيدخلون جهنم داخرين"
+    },
+    "40:61": {
+      "file": "040-غافر-youtube-v1/061.mp3",
+      "durationMs": 337460,
+      "bytes": 4050244,
+      "sha256": "fcaa5698930ea0d972a78d52ee4ece0cc4cce36a24d4beb8a389dfa1ed9ab6ed",
+      "sharedAyahs": [
+        "40:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 1425.77,
+          "end": 1763.22
+        }
+      ],
+      "reviewNote": "تفسير الآية 61: الله الذي جعل لكم الليل لتسكنوا فيه والنهار مبصرا"
+    },
+    "40:62": {
+      "file": "040-غافر-youtube-v1/062.mp3",
+      "durationMs": 183620,
+      "bytes": 2204164,
+      "sha256": "987a0d828df02e87f3b4f1031b7b62b33f1daff8a6bd36887e606c9da43a2f0e",
+      "sharedAyahs": [
+        "40:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 1763.22,
+          "end": 1946.83
+        }
+      ],
+      "reviewNote": "تفسير الآية 62: ذلكم الله ربكم خالق كل شيء لا إله إلا هو فأنى تؤفكون"
+    },
+    "40:63": {
+      "file": "040-غافر-youtube-v1/063.mp3",
+      "durationMs": 93190,
+      "bytes": 1118980,
+      "sha256": "23f89afb522188ab0807da32bd4a6571dd3cd10ffa629ab6846ff781f2a581d7",
+      "sharedAyahs": [
+        "40:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 1946.83,
+          "end": 2040.0
+        }
+      ],
+      "reviewNote": "تفسير الآية 63: كذلك يؤفك الذين كانوا بآيات الله يجحدون"
+    },
+    "40:64": {
+      "file": "040-غافر-youtube-v1/064.mp3",
+      "durationMs": 193660,
+      "bytes": 2324548,
+      "sha256": "3d09cebb6cd72ee1f49a4378aaa4570901189342b17c236d71a8406c14f0fd83",
+      "sharedAyahs": [
+        "40:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 2040.0,
+          "end": 2233.62
+        }
+      ],
+      "reviewNote": "تفسير الآية 64: الله الذي جعل لكم الأرض قرارا والسماء بناء وصوركم فأحسن صوركم"
+    },
+    "40:65": {
+      "file": "040-غافر-youtube-v1/065.mp3",
+      "durationMs": 117260,
+      "bytes": 1407844,
+      "sha256": "d18abd8974f07bc5ef55f9fa8c63de9464045283d06fbb4e86ec308570451757",
+      "sharedAyahs": [
+        "40:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 2233.62,
+          "end": 2350.87
+        }
+      ],
+      "reviewNote": "تفسير الآية 65: هو الحي لا إله إلا هو فادعوه مخلصين له الدين الحمد لله رب العالمين"
+    },
+    "40:66": {
+      "file": "040-غافر-youtube-v1/066.mp3",
+      "durationMs": 203930,
+      "bytes": 2447812,
+      "sha256": "2181ed950e8e29f72fc72b70edc8f47b6d6608c3e8ca796378df86d36cdef9d7",
+      "sharedAyahs": [
+        "40:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xZIrh8dRWrs",
+          "start": 2350.87,
+          "end": 2554.76
+        }
+      ],
+      "reviewNote": "تفسير الآية 66: قل إني نهيت أن أعبد الذين تدعون من دون الله لما جاءني البينات من ربي"
+    },
+    "40:67": {
+      "file": "040-غافر-youtube-v1/067.mp3",
+      "durationMs": 24410,
+      "bytes": 293572,
+      "sha256": "2d0e33ea65be288ba5d860896d0e7fe658581e1ca88d9d78f68295e5fa11c043",
+      "sharedAyahs": [
+        "40:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 20.13,
+          "end": 44.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 67: هو الذي خلقكم من تراب ثم من نطفة ثم من علقة ثم يخرجكم طفلا"
+    },
+    "40:68": {
+      "file": "040-غافر-youtube-v1/068.mp3",
+      "durationMs": 23620,
+      "bytes": 284068,
+      "sha256": "4428461049acb4346ed69952cfd5019ba1208f0e3b7dab96ed9733c4faa70826",
+      "sharedAyahs": [
+        "40:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 44.5,
+          "end": 68.11
+        }
+      ],
+      "reviewNote": "تفسير الآية 68: هو الذي يحيي ويميت فإذا قضى أمرا فإنما يقول له كن فيكون"
+    },
+    "40:69": {
+      "file": "040-غافر-youtube-v1/069.mp3",
+      "durationMs": 26020,
+      "bytes": 312868,
+      "sha256": "b0466826e40e595de0d37b968707f1f1a6844a1c3124f88764f4a7e924969ec9",
+      "sharedAyahs": [
+        "40:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 68.11,
+          "end": 94.1
+        }
+      ],
+      "reviewNote": "تفسير الآية 69: ألم تر إلى الذين يجادلون في آيات الله أنى يصرفون"
+    },
+    "40:70": {
+      "file": "040-غافر-youtube-v1/070.mp3",
+      "durationMs": 162720,
+      "bytes": 1953316,
+      "sha256": "c5dd6482612e68e6bd6857210ecfd9efc3b9d05d2385ea29aee13a0d20682da3",
+      "sharedAyahs": [
+        "40:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 94.1,
+          "end": 256.79
+        }
+      ],
+      "reviewNote": "تفسير الآية 70: الذين كذبوا بالكتاب وبما أرسلنا به رسلنا فسوف يعلمون"
+    },
+    "40:71": {
+      "file": "040-غافر-youtube-v1/071.mp3",
+      "durationMs": 8500,
+      "bytes": 102628,
+      "sha256": "e223d143da467bc7fd794d17913d6a5afbbfc24d5d4a1dd94727e1295400d26d",
+      "sharedAyahs": [
+        "40:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 256.79,
+          "end": 265.25
+        }
+      ],
+      "reviewNote": "تفسير الآية 71: إذ الأغلال في أعناقهم والسلاسل يسحبون"
+    },
+    "40:72": {
+      "file": "040-غافر-youtube-v1/072.mp3",
+      "durationMs": 21340,
+      "bytes": 256708,
+      "sha256": "7f99a42cb2b28decb8e74f543490cec1dcee4c70beceda51757a0fd10a168729",
+      "sharedAyahs": [
+        "40:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 265.25,
+          "end": 286.57
+        }
+      ],
+      "reviewNote": "تفسير الآية 72: في الحميم ثم في النار يسجرون"
+    },
+    "40:73": {
+      "file": "040-غافر-youtube-v1/073.mp3",
+      "durationMs": 34660,
+      "bytes": 416548,
+      "sha256": "1554fba604663e3dc9084fc368e1f26a31a7b037708cddaebb8e38b9ba16ab67",
+      "sharedAyahs": [
+        "40:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 286.57,
+          "end": 321.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 73: ثم قيل لهم أين ما كنتم تشركون"
+    },
+    "40:74": {
+      "file": "040-غافر-youtube-v1/074.mp3",
+      "durationMs": 493660,
+      "bytes": 5924548,
+      "sha256": "ec3556dd24e064051572d8103422286330a1c6aaf2bf10a1c0db66edda02fab5",
+      "sharedAyahs": [
+        "40:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 321.2,
+          "end": 814.83
+        }
+      ],
+      "reviewNote": "تفسير الآية 74: من دون الله قالوا ضلوا عنا بل لم نكن ندعو من قبل شيئا"
+    },
+    "40:75": {
+      "file": "040-غافر-youtube-v1/075.mp3",
+      "durationMs": 30550,
+      "bytes": 367300,
+      "sha256": "7ccf3fc3fba039f4c1cb55c0ebc0c970fdc8913581c50fc189e6f60dcbc5c967",
+      "sharedAyahs": [
+        "40:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 814.83,
+          "end": 845.36
+        }
+      ],
+      "reviewNote": "تفسير الآية 75: ذلكم بما كنتم تفرحون في الأرض بغير الحق وبما كنتم تمرحون"
+    },
+    "40:76": {
+      "file": "040-غافر-youtube-v1/076.mp3",
+      "durationMs": 62880,
+      "bytes": 755236,
+      "sha256": "92ec7bd154f465051b7582e34dc7438c82847daf4e23ca6c94b2087473a4504d",
+      "sharedAyahs": [
+        "40:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 845.36,
+          "end": 908.21
+        }
+      ],
+      "reviewNote": "تفسير الآية 76: ادخلوا أبواب جهنم خالدين فيها فبئس مثوى المتكبرين"
+    },
+    "40:77": {
+      "file": "040-غافر-youtube-v1/077.mp3",
+      "durationMs": 63120,
+      "bytes": 758116,
+      "sha256": "28fb374acb3e73088f69257d21ad6a89fe0f8709315e9d912233126a1b628abd",
+      "sharedAyahs": [
+        "40:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 908.21,
+          "end": 971.31
+        }
+      ],
+      "reviewNote": "تفسير الآية 77: فاصبر إن وعد الله حق فإما نرينك بعض الذي نعدهم أو نتوفينك فإلينا يرجعون"
+    },
+    "40:78": {
+      "file": "040-غافر-youtube-v1/078.mp3",
+      "durationMs": 204650,
+      "bytes": 2456452,
+      "sha256": "cb2f12824fe454f7a75785076021533e443f7f34b8c0f951da6189d0fe0535d6",
+      "sharedAyahs": [
+        "40:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 971.31,
+          "end": 1175.95
+        }
+      ],
+      "reviewNote": "تفسير الآية 78: ولقد أرسلنا رسلا من قبلك منهم من قصصنا عليك ومنهم من لم نقصص عليك"
+    },
+    "40:79": {
+      "file": "040-غافر-youtube-v1/079.mp3",
+      "durationMs": 44470,
+      "bytes": 534340,
+      "sha256": "6b29afeab6e01e4eb0536d1d6b6fc61a4f711e1621cf9711115703684aece7ad",
+      "sharedAyahs": [
+        "40:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 1175.95,
+          "end": 1220.39
+        }
+      ],
+      "reviewNote": "تفسير الآية 79: الله الذي جعل لكم الأنعام لتركبوا منها ومنها تأكلون"
+    },
+    "40:80": {
+      "file": "040-غافر-youtube-v1/080.mp3",
+      "durationMs": 362260,
+      "bytes": 4347748,
+      "sha256": "64fe43adaaa292797adbcdf1ea435abeb38ddbd13effeb253b9d32e984a37432",
+      "sharedAyahs": [
+        "40:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 1220.39,
+          "end": 1582.62
+        }
+      ],
+      "reviewNote": "تفسير الآية 80: ولكم فيها منافع ولتبلغوا عليها حاجة في صدوركم وعليها وعلى الفلك تحملون"
+    },
+    "40:81": {
+      "file": "040-غافر-youtube-v1/081.mp3",
+      "durationMs": 98300,
+      "bytes": 1180324,
+      "sha256": "be1b28478617f84b0404c218df7b24e285acc0dcc73b0d6e154e2af6fbb7a32e",
+      "sharedAyahs": [
+        "40:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 1582.62,
+          "end": 1680.91
+        }
+      ],
+      "reviewNote": "تفسير الآية 81: ويريكم آياته فأي آيات الله تنكرون"
+    },
+    "40:82": {
+      "file": "040-غافر-youtube-v1/082.mp3",
+      "durationMs": 317380,
+      "bytes": 3809188,
+      "sha256": "4c8c04efc53ecc33fcdb336fe3a50eb2393b3d22e243846828437d7c940ee8e1",
+      "sharedAyahs": [
+        "40:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 1680.91,
+          "end": 1998.25
+        }
+      ],
+      "reviewNote": "تفسير الآية 82: أفلم يسيروا في الأرض فينظروا كيف كان عاقبة الذين من قبلهم"
+    },
+    "40:83": {
+      "file": "040-غافر-youtube-v1/083.mp3",
+      "durationMs": 277850,
+      "bytes": 3334852,
+      "sha256": "aa71e039b95fee422fcca54d070131085f50925fd62f870117dd8ec4dc6ce315",
+      "sharedAyahs": [
+        "40:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 1998.25,
+          "end": 2276.08
+        }
+      ],
+      "reviewNote": "تفسير الآية 83: فلما جاءتهم رسلهم بالبينات فرحوا بما عندهم من العلم وحاق بهم ما كانوا به يستهزئون"
+    },
+    "40:84": {
+      "file": "040-غافر-youtube-v1/084.mp3",
+      "durationMs": 30290,
+      "bytes": 364132,
+      "sha256": "13e34db49141bc56332b3af54a6e4e1723cff9af055130524587a5b076e1b26c",
+      "sharedAyahs": [
+        "40:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 2276.08,
+          "end": 2306.35
+        }
+      ],
+      "reviewNote": "تفسير الآية 84: فلما رأوا بأسنا قالوا آمنا بالله وحده وكفرنا بما كنا به مشركين"
+    },
+    "40:85": {
+      "file": "040-غافر-youtube-v1/085.mp3",
+      "durationMs": 54190,
+      "bytes": 650980,
+      "sha256": "037bf6f1b3075f299c67c9ce215b0fc6b8951d080dc2758a1bb39c37ee2daa27",
+      "sharedAyahs": [
+        "40:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J43UOMCyJMI",
+          "start": 2306.35,
+          "end": 2360.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 85: فلم يك ينفعهم إيمانهم لما رأوا بأسنا سنة الله التي قد خلت في عباده وخسر هنالك الكافرون"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL039D73ACDC0F8E71",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "ghafir-ha-meem-and-divine-attributes",
+      "title": "أسرار فواتح الحواميم وتجليات صفات الجلال والجمال",
+      "file": "040-غافر-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 285790
+    },
+    {
+      "id": "ghafir-angels-throne-bearers-supplication",
+      "title": "دعاء حملة العرش واستغفار الملائكة للمؤمنين وأهليهم",
+      "file": "040-غافر-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 914980
+    },
+    {
+      "id": "ghafir-day-of-meeting-and-absolute-sovereignty",
+      "title": "أهوال يوم التلاق ونداء الملك الإلهي: لمن الملك اليوم",
+      "file": "040-غافر-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 85500
+    },
+    {
+      "id": "ghafir-believer-of-pharaoh-family-argument",
+      "title": "بلاغة مؤمن آل فرعون وحجة المنطق العقلاني في نصرة الحق",
+      "file": "040-غافر-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 1735820
+    },
+    {
+      "id": "ghafir-concealing-faith-nuaym-ghazwat-ahzab",
+      "title": "حكمة كتمان الإيمان ودهاء الحرب: من مؤمن آل فرعون إلى نعيم بن مسعود",
+      "file": "040-غافر-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 1361350
+    },
+    {
+      "id": "ghafir-creation-of-heavens-and-human-stages",
+      "title": "إعجاز خلق السماوات وأطوار الإنسان من التراب إلى الشيخوخة",
+      "file": "040-غافر-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 24370
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "aho46mSetDg",
+      "4jLPxa0a6w8",
+      "JjwaptNirmg",
+      "Hc4Gc8A25I0",
+      "WesUD5Vw_r4",
+      "9Lm6wRqJwug",
+      "osg40X8rtz8",
+      "LAhqXr6fjz8",
+      "xZIrh8dRWrs",
+      "J43UOMCyJMI"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "040-غافر-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1056740,
+        "durationMs": 1056740,
+        "recordingDurationMs": 1056740,
+        "bytes": 12681602,
+        "sha256": "4ca80775909d037fb970f89eb37cc19d6529af9d3afa1b48a6fd61d22c4488ea",
+        "sharedAyahs": [
+          "40:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aho46mSetDg",
+            "start": 3.7,
+            "end": 1060.43
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 613060,
+        "durationMs": 613060,
+        "recordingDurationMs": 613060,
+        "bytes": 7357346,
+        "sha256": "6b9c4939ffce2d42d60b6e6ebdc92753d0bb9eb0e32cf92fc23346dc5956237c",
+        "sharedAyahs": [
+          "40:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aho46mSetDg",
+            "start": 1060.43,
+            "end": 1673.46
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 285820,
+        "durationMs": 285820,
+        "recordingDurationMs": 285820,
+        "bytes": 3430466,
+        "sha256": "c69e920dc6461c3c74a47e25fd2c0e5c0e340f92d71e95dc107c559c771f77c5",
+        "sharedAyahs": [
+          "40:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jLPxa0a6w8",
+            "start": 2.32,
+            "end": 288.11
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 1550690,
+        "durationMs": 1550690,
+        "recordingDurationMs": 1550690,
+        "bytes": 18608930,
+        "sha256": "8b0897600aadf1d7f365a679dd21763549c81bd96fbf1881c7260fe9ee2f03ee",
+        "sharedAyahs": [
+          "40:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jLPxa0a6w8",
+            "start": 288.11,
+            "end": 1838.78
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 723070,
+        "durationMs": 723070,
+        "recordingDurationMs": 723070,
+        "bytes": 8677538,
+        "sha256": "4732d2a4e4289bebd17cccc37e90448d39ee07b742d45995f5e35e73437fb1ce",
+        "sharedAyahs": [
+          "40:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jLPxa0a6w8",
+            "start": 1838.78,
+            "end": 2561.82
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 416570,
+        "durationMs": 416570,
+        "recordingDurationMs": 416570,
+        "bytes": 4999490,
+        "sha256": "cd921aca9c8c62fc82a6c65db1d66b3833f9b0c15daa7c52aa9d27c1dfe94d57",
+        "sharedAyahs": [
+          "40:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JjwaptNirmg",
+            "start": 0.0,
+            "end": 416.54
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 915000,
+        "durationMs": 915000,
+        "recordingDurationMs": 915000,
+        "bytes": 10980674,
+        "sha256": "9583323708b22945a718d02dbcb091e366625407e708b92b53714c3e89092f1c",
+        "sharedAyahs": [
+          "40:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JjwaptNirmg",
+            "start": 416.54,
+            "end": 1331.52
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 489600,
+        "durationMs": 489600,
+        "recordingDurationMs": 489600,
+        "bytes": 5875874,
+        "sha256": "1f364e9486313d142aa89c8a1dd839961e2029bc51d3ed38f5eed9bd3a05a910",
+        "sharedAyahs": [
+          "40:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JjwaptNirmg",
+            "start": 1331.52,
+            "end": 1821.08
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 238730,
+        "durationMs": 238730,
+        "recordingDurationMs": 238730,
+        "bytes": 2865410,
+        "sha256": "a32b059516fea18a1205660304657fd6531a3a7702fc7d28e9e8230bf33c8470",
+        "sharedAyahs": [
+          "40:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JjwaptNirmg",
+            "start": 1821.08,
+            "end": 2059.78
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 76660,
+        "durationMs": 76660,
+        "recordingDurationMs": 76660,
+        "bytes": 920548,
+        "sha256": "5fc310422c241189f9ab5d2e4fefbf5cfd056818e9b7c54024d48f6a96c2d5d7",
+        "sharedAyahs": [
+          "40:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JjwaptNirmg",
+            "start": 2059.78,
+            "end": 2136.43
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 384310,
+        "durationMs": 384310,
+        "recordingDurationMs": 384310,
+        "bytes": 4612420,
+        "sha256": "07ee9c2c30c199d7971776bfe10ce4f7cc922f57580a2c27b1dc51b8d114364d",
+        "sharedAyahs": [
+          "40:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JjwaptNirmg",
+            "start": 2136.43,
+            "end": 2520.71
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 261190,
+        "durationMs": 261190,
+        "recordingDurationMs": 261190,
+        "bytes": 3134980,
+        "sha256": "ec0731be07a5f6b697aee6c97ac713ac3992d5b3715af9d7c50c4d7f3504fd5c",
+        "sharedAyahs": [
+          "40:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hc4Gc8A25I0",
+            "start": 2.8,
+            "end": 263.96
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 131950,
+        "durationMs": 131950,
+        "recordingDurationMs": 131950,
+        "bytes": 1584100,
+        "sha256": "1752dcdf4a66ec9d232bee9f8cb0a6144acd185fa62810cfd46bf82c8cba0dcd",
+        "sharedAyahs": [
+          "40:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hc4Gc8A25I0",
+            "start": 263.96,
+            "end": 395.9
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 881230,
+        "durationMs": 881230,
+        "recordingDurationMs": 881230,
+        "bytes": 10575460,
+        "sha256": "d50a3eaeccf7092bf0a4407cd2b7ab3bcae973f5543796e6fba319adc8144be5",
+        "sharedAyahs": [
+          "40:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hc4Gc8A25I0",
+            "start": 395.9,
+            "end": 1277.1
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 867860,
+        "durationMs": 867860,
+        "recordingDurationMs": 867860,
+        "bytes": 10415044,
+        "sha256": "a957cace73af9d88b11c77f91e4b6a2e5e41da146c416607a48cfcad80e486c3",
+        "sharedAyahs": [
+          "40:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hc4Gc8A25I0",
+            "start": 1277.1,
+            "end": 2144.94
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 85510,
+        "durationMs": 85510,
+        "recordingDurationMs": 85510,
+        "bytes": 1026820,
+        "sha256": "e36474b31ed20649ecb1f834f812f06bf3662b0453443568b984fdecf6b0ecfa",
+        "sharedAyahs": [
+          "40:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hc4Gc8A25I0",
+            "start": 2144.94,
+            "end": 2230.44
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 332389,
+        "durationMs": 332389,
+        "recordingDurationMs": 610320,
+        "bytes": 7324261,
+        "sha256": "cd630f0a58cbb47d3425ecd0429ebe7c41b0c8f4a34c8cca4729699045f2d690",
+        "sharedAyahs": [
+          "40:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Hc4Gc8A25I0",
+            "start": 2230.44,
+            "end": 2562.8
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/017.mp3",
+        "startMs": 332389,
+        "endMs": 610320,
+        "durationMs": 277931,
+        "recordingDurationMs": 610320,
+        "bytes": 7324261,
+        "sha256": "cd630f0a58cbb47d3425ecd0429ebe7c41b0c8f4a34c8cca4729699045f2d690",
+        "sharedAyahs": [
+          "40:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 2.1,
+            "end": 280.0
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 339120,
+        "durationMs": 339120,
+        "recordingDurationMs": 339120,
+        "bytes": 4070116,
+        "sha256": "5197e37b861e6b06df82a2d937ece1be2d479434f5380295b46616c9c6344d42",
+        "sharedAyahs": [
+          "40:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 280.0,
+            "end": 619.1
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 82510,
+        "durationMs": 82510,
+        "recordingDurationMs": 82510,
+        "bytes": 990820,
+        "sha256": "887da2e9da8c54c24461be58dfc8c2881a6d54c0594557e500c716bcd9ed6af8",
+        "sharedAyahs": [
+          "40:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 619.1,
+            "end": 701.57
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 159860,
+        "durationMs": 159860,
+        "recordingDurationMs": 159860,
+        "bytes": 1919044,
+        "sha256": "6a6736a180f72be34a7e0e476d29037861b3ad6449ac00d5a87541ebfb758636",
+        "sharedAyahs": [
+          "40:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 701.57,
+            "end": 861.42
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 433420,
+        "durationMs": 433420,
+        "recordingDurationMs": 433420,
+        "bytes": 5201668,
+        "sha256": "dfd80dda8ae6125de716ec04a29ffe791f7f65fe5572d4fd27efeb8239446bec",
+        "sharedAyahs": [
+          "40:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 861.42,
+            "end": 1294.81
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 87000,
+        "durationMs": 87000,
+        "recordingDurationMs": 87000,
+        "bytes": 1044676,
+        "sha256": "8e16492aabea41924c746762dd781ef22f16569abc2f0aaab8c23f44d9d4773b",
+        "sharedAyahs": [
+          "40:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 1294.81,
+            "end": 1381.79
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 425420,
+        "durationMs": 425420,
+        "recordingDurationMs": 425420,
+        "bytes": 5105764,
+        "sha256": "32e73e7c183794df87cd6c1f2920a7ac93aad9ba816a573d7745d1404db3475a",
+        "sharedAyahs": [
+          "40:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 1381.79,
+            "end": 1807.2
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 8280,
+        "durationMs": 8280,
+        "recordingDurationMs": 8280,
+        "bytes": 100036,
+        "sha256": "f204e2cd3727cf57411c1d9e5ecc97607886aaabeda18664798a4a4d4acbdf2d",
+        "sharedAyahs": [
+          "40:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 1807.2,
+            "end": 1815.44
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 169970,
+        "durationMs": 169970,
+        "recordingDurationMs": 169970,
+        "bytes": 2040292,
+        "sha256": "5aea9e071a792df228774bdbbfb5d942fd76f59308dc046e59f19551affff600",
+        "sharedAyahs": [
+          "40:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 1815.44,
+            "end": 1985.38
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 503300,
+        "durationMs": 503300,
+        "recordingDurationMs": 503300,
+        "bytes": 6040324,
+        "sha256": "f263355421c3b19979522793a83ec9ddcb8685ed016b35056416de5b3e0e4e2f",
+        "sharedAyahs": [
+          "40:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 1985.38,
+            "end": 2488.66
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 208850,
+        "durationMs": 208850,
+        "recordingDurationMs": 208850,
+        "bytes": 2506852,
+        "sha256": "664913b763b29776f0f093a4360bd2bc104ccbeaec97d371ac582e9b44486e70",
+        "sharedAyahs": [
+          "40:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WesUD5Vw_r4",
+            "start": 2488.66,
+            "end": 2697.5
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 1735820,
+        "durationMs": 1735820,
+        "recordingDurationMs": 1735820,
+        "bytes": 20830564,
+        "sha256": "420a21030aea84a56b4d55283ba5a307b37a15f10cf03d1773670fb8937c21b5",
+        "sharedAyahs": [
+          "40:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Lm6wRqJwug",
+            "start": 4.18,
+            "end": 1740.0
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 59660,
+        "durationMs": 59660,
+        "recordingDurationMs": 59660,
+        "bytes": 716644,
+        "sha256": "9e36f96af3f1b34b7fd6cc85b81b8630ebd5ba775707170d9d79a4fb7ecf386c",
+        "sharedAyahs": [
+          "40:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Lm6wRqJwug",
+            "start": 1740.0,
+            "end": 1799.64
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 144480,
+        "durationMs": 144480,
+        "recordingDurationMs": 144480,
+        "bytes": 1734436,
+        "sha256": "806cd101f3f5de2b21db9908f5f147007a066d3c8da9ef219fff1108d6c0f483",
+        "sharedAyahs": [
+          "40:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Lm6wRqJwug",
+            "start": 1799.64,
+            "end": 1944.08
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 55940,
+        "durationMs": 55940,
+        "recordingDurationMs": 55940,
+        "bytes": 672004,
+        "sha256": "4573d98e274b4f08738e5067ee97088d17f7fe27e6e49e913aca445457a24f90",
+        "sharedAyahs": [
+          "40:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Lm6wRqJwug",
+            "start": 1944.08,
+            "end": 2000.0
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 313130,
+        "durationMs": 313130,
+        "recordingDurationMs": 313130,
+        "bytes": 3758212,
+        "sha256": "3f38aa94cd997558f3de799e4ed71cf752ceca0dbe86add35ffab616f62e2be9",
+        "sharedAyahs": [
+          "40:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Lm6wRqJwug",
+            "start": 2000.0,
+            "end": 2313.1
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 78980,
+        "durationMs": 78980,
+        "recordingDurationMs": 78980,
+        "bytes": 948484,
+        "sha256": "2d7825b434883f16f6af72ef0e7515344d44800934a5052439c4b81bdac2b202",
+        "sharedAyahs": [
+          "40:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Lm6wRqJwug",
+            "start": 2313.1,
+            "end": 2392.06
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 127940,
+        "durationMs": 127940,
+        "recordingDurationMs": 127940,
+        "bytes": 1536004,
+        "sha256": "43a17f751c8064b64c79ae442b10820e189b4f3ba5361dea6eca3c0e0f5bdd8d",
+        "sharedAyahs": [
+          "40:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Lm6wRqJwug",
+            "start": 2392.06,
+            "end": 2520.0
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 38161,
+        "durationMs": 38161,
+        "recordingDurationMs": 418220,
+        "bytes": 5019109,
+        "sha256": "5378e80d7b9a1ca7b9883924c22b9977f19d661785f9b1b59c7e4f6c1928358b",
+        "sharedAyahs": [
+          "40:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Lm6wRqJwug",
+            "start": 2520.0,
+            "end": 2558.16
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/035.mp3",
+        "startMs": 38161,
+        "endMs": 418220,
+        "durationMs": 380059,
+        "recordingDurationMs": 418220,
+        "bytes": 5019109,
+        "sha256": "5378e80d7b9a1ca7b9883924c22b9977f19d661785f9b1b59c7e4f6c1928358b",
+        "sharedAyahs": [
+          "40:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 0.0,
+            "end": 380.0
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 12790,
+        "durationMs": 12790,
+        "recordingDurationMs": 12790,
+        "bytes": 154180,
+        "sha256": "080ca7e6c164e865bdac1d01ed6b5ae4e71a510b1c90c05deee0eb15f556c6ce",
+        "sharedAyahs": [
+          "40:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 380.0,
+            "end": 392.78
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 27910,
+        "durationMs": 27910,
+        "recordingDurationMs": 27910,
+        "bytes": 335620,
+        "sha256": "5a2d1d409d1f34c2ad493264a921c543d9b7e5d6cc6c999755dc546791163a92",
+        "sharedAyahs": [
+          "40:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 392.78,
+            "end": 420.65
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 94610,
+        "durationMs": 94610,
+        "recordingDurationMs": 94610,
+        "bytes": 1135972,
+        "sha256": "fb64d1d4fdd294706775e89bdc95a9be36d42bdd60a87be88649d0a58b23ff85",
+        "sharedAyahs": [
+          "40:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 420.65,
+            "end": 515.24
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 381020,
+        "durationMs": 381020,
+        "recordingDurationMs": 381020,
+        "bytes": 4572964,
+        "sha256": "212884580a1cb708d4f2550745c0c4d5f1073ece69a3cd412d0c7ddc281b985a",
+        "sharedAyahs": [
+          "40:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 515.24,
+            "end": 896.24
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 635280,
+        "durationMs": 635280,
+        "recordingDurationMs": 635280,
+        "bytes": 7624036,
+        "sha256": "62a6bf7060b30efd5eb9e4d904eb3faa94c676505f7a8abc824aa03573e120fe",
+        "sharedAyahs": [
+          "40:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 896.24,
+            "end": 1531.5
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 69740,
+        "durationMs": 69740,
+        "recordingDurationMs": 69740,
+        "bytes": 837604,
+        "sha256": "835a15d5ac2ed2b87bf8a76b9081aad4088d6420b1e8e3bcf4944c2815e19588",
+        "sharedAyahs": [
+          "40:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 1531.5,
+            "end": 1601.21
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 28340,
+        "durationMs": 28340,
+        "recordingDurationMs": 28340,
+        "bytes": 340804,
+        "sha256": "25cd57bf024b723c50737320af3185af65c51ec65b4a2b8a10c4ca54e43b1194",
+        "sharedAyahs": [
+          "40:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 1601.21,
+            "end": 1629.54
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 118560,
+        "durationMs": 118560,
+        "recordingDurationMs": 118560,
+        "bytes": 1423396,
+        "sha256": "f19e5a1fcb297970fbcb790ff2b75a08f7d4c62b723d4e840e34dccf56530474",
+        "sharedAyahs": [
+          "40:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 1629.54,
+            "end": 1748.07
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 86160,
+        "durationMs": 86160,
+        "recordingDurationMs": 86160,
+        "bytes": 1034596,
+        "sha256": "25a16bbe05bc7a6f78fccc5969a14fd372db6b7449f1c727c922e576990484e5",
+        "sharedAyahs": [
+          "40:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 1748.07,
+            "end": 1834.22
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 425520,
+        "durationMs": 425520,
+        "recordingDurationMs": 425520,
+        "bytes": 5106916,
+        "sha256": "7cd0642a094f39852a79fe0b45d099066d14cfc3071aa6c60cd474282c782ee9",
+        "sharedAyahs": [
+          "40:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 1834.22,
+            "end": 2259.71
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 111910,
+        "durationMs": 111910,
+        "recordingDurationMs": 111910,
+        "bytes": 1343620,
+        "sha256": "b358c36224590d2239c05c4be366ac5bbf8e1726d4bc8b769699fa2d2a52fb9c",
+        "sharedAyahs": [
+          "40:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 2259.71,
+            "end": 2371.6
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 95230,
+        "durationMs": 95230,
+        "recordingDurationMs": 95230,
+        "bytes": 1143460,
+        "sha256": "8acf009ec4a2972d955d74acf19ba8ce37aa3783a4b15c9b0db71a9ab9ff5ecf",
+        "sharedAyahs": [
+          "40:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 2371.6,
+            "end": 2466.81
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 33960,
+        "durationMs": 33960,
+        "recordingDurationMs": 33960,
+        "bytes": 408196,
+        "sha256": "919fa0425121d738c7c1c0e34041f29184a6309703f5ba707be7ac2836fbd0aa",
+        "sharedAyahs": [
+          "40:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 2466.81,
+            "end": 2500.75
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 33650,
+        "durationMs": 33650,
+        "recordingDurationMs": 33650,
+        "bytes": 404452,
+        "sha256": "a95c4f44920226bea6824270fcfdbecea3db31d1ac15aaa44c6b0d7b5a5020e7",
+        "sharedAyahs": [
+          "40:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 2500.75,
+            "end": 2534.37
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 43560,
+        "durationMs": 43560,
+        "recordingDurationMs": 43560,
+        "bytes": 523396,
+        "sha256": "6ea1efac3946b756265581ce33dcf2846592d1662cf0d3832154f8b770f773d2",
+        "sharedAyahs": [
+          "40:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "osg40X8rtz8",
+            "start": 2534.37,
+            "end": 2577.9
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 1361380,
+        "durationMs": 1361380,
+        "recordingDurationMs": 1361380,
+        "bytes": 16337188,
+        "sha256": "5f51180dc88258bfcb33c84eaad965c82271d901a43719e8545e833ef0d9471c",
+        "sharedAyahs": [
+          "40:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LAhqXr6fjz8",
+            "start": 5.55,
+            "end": 1366.9
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 36020,
+        "durationMs": 36020,
+        "recordingDurationMs": 36020,
+        "bytes": 432964,
+        "sha256": "07f5916cbf9edad40b393afb5bbbe1e56f8736770c905a14d73638f26aee41c3",
+        "sharedAyahs": [
+          "40:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LAhqXr6fjz8",
+            "start": 1366.9,
+            "end": 1402.92
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 71140,
+        "durationMs": 71140,
+        "recordingDurationMs": 71140,
+        "bytes": 854308,
+        "sha256": "10da6ba3ecd9f39daa58509db22fcb82d6fe21044a6ee710122e332f290696c0",
+        "sharedAyahs": [
+          "40:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LAhqXr6fjz8",
+            "start": 1402.92,
+            "end": 1474.03
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 14570,
+        "durationMs": 14570,
+        "recordingDurationMs": 14570,
+        "bytes": 175492,
+        "sha256": "a47e8f2263f45ef99145d1ad534d2331875c3d5f744d6f6385673a34d22d1590",
+        "sharedAyahs": [
+          "40:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LAhqXr6fjz8",
+            "start": 1474.03,
+            "end": 1488.57
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 1090560,
+        "durationMs": 1090560,
+        "recordingDurationMs": 1090560,
+        "bytes": 13087396,
+        "sha256": "01f5538ad3958e38c2c05ddc174173fd1e066aca9e0a4a09c22d0429b472b443",
+        "sharedAyahs": [
+          "40:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LAhqXr6fjz8",
+            "start": 1488.57,
+            "end": 2579.11
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 300410,
+        "durationMs": 300410,
+        "recordingDurationMs": 300410,
+        "bytes": 3605572,
+        "sha256": "f5ca8244a451a5b4c21f1592ca0351d382f58c7d193a248547260314dabab7ee",
+        "sharedAyahs": [
+          "40:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 2.9,
+            "end": 303.27
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 339980,
+        "durationMs": 339980,
+        "recordingDurationMs": 339980,
+        "bytes": 4080484,
+        "sha256": "44f41635e6ed53c05cf982ec0b32be2800992c91a3e48d77ac1c5748d57fd394",
+        "sharedAyahs": [
+          "40:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 303.27,
+            "end": 643.24
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 72120,
+        "durationMs": 72120,
+        "recordingDurationMs": 72120,
+        "bytes": 866116,
+        "sha256": "dbf235745f8fca7e927e73f1bc066c8f70e78d5f9b0bdfcea2a673da59507931",
+        "sharedAyahs": [
+          "40:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 643.24,
+            "end": 715.34
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 550440,
+        "durationMs": 550440,
+        "recordingDurationMs": 550440,
+        "bytes": 6605956,
+        "sha256": "883ef35565879ec509e32204775b9f0ac0a61d2e4debbb576112bb5692b0d41c",
+        "sharedAyahs": [
+          "40:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 715.34,
+            "end": 1265.74
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 160060,
+        "durationMs": 160060,
+        "recordingDurationMs": 160060,
+        "bytes": 1921348,
+        "sha256": "c71b33b3e6611a5f4699780d78ce615a47520aec83fc8ec56b5a2f7fe166914e",
+        "sharedAyahs": [
+          "40:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 1265.74,
+            "end": 1425.77
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 337460,
+        "durationMs": 337460,
+        "recordingDurationMs": 337460,
+        "bytes": 4050244,
+        "sha256": "fcaa5698930ea0d972a78d52ee4ece0cc4cce36a24d4beb8a389dfa1ed9ab6ed",
+        "sharedAyahs": [
+          "40:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 1425.77,
+            "end": 1763.22
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 183620,
+        "durationMs": 183620,
+        "recordingDurationMs": 183620,
+        "bytes": 2204164,
+        "sha256": "987a0d828df02e87f3b4f1031b7b62b33f1daff8a6bd36887e606c9da43a2f0e",
+        "sharedAyahs": [
+          "40:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 1763.22,
+            "end": 1946.83
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 93190,
+        "durationMs": 93190,
+        "recordingDurationMs": 93190,
+        "bytes": 1118980,
+        "sha256": "23f89afb522188ab0807da32bd4a6571dd3cd10ffa629ab6846ff781f2a581d7",
+        "sharedAyahs": [
+          "40:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 1946.83,
+            "end": 2040.0
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 193660,
+        "durationMs": 193660,
+        "recordingDurationMs": 193660,
+        "bytes": 2324548,
+        "sha256": "3d09cebb6cd72ee1f49a4378aaa4570901189342b17c236d71a8406c14f0fd83",
+        "sharedAyahs": [
+          "40:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 2040.0,
+            "end": 2233.62
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 117260,
+        "durationMs": 117260,
+        "recordingDurationMs": 117260,
+        "bytes": 1407844,
+        "sha256": "d18abd8974f07bc5ef55f9fa8c63de9464045283d06fbb4e86ec308570451757",
+        "sharedAyahs": [
+          "40:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 2233.62,
+            "end": 2350.87
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 203930,
+        "durationMs": 203930,
+        "recordingDurationMs": 203930,
+        "bytes": 2447812,
+        "sha256": "2181ed950e8e29f72fc72b70edc8f47b6d6608c3e8ca796378df86d36cdef9d7",
+        "sharedAyahs": [
+          "40:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xZIrh8dRWrs",
+            "start": 2350.87,
+            "end": 2554.76
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 24410,
+        "durationMs": 24410,
+        "recordingDurationMs": 24410,
+        "bytes": 293572,
+        "sha256": "2d0e33ea65be288ba5d860896d0e7fe658581e1ca88d9d78f68295e5fa11c043",
+        "sharedAyahs": [
+          "40:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 20.13,
+            "end": 44.5
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 23620,
+        "durationMs": 23620,
+        "recordingDurationMs": 23620,
+        "bytes": 284068,
+        "sha256": "4428461049acb4346ed69952cfd5019ba1208f0e3b7dab96ed9733c4faa70826",
+        "sharedAyahs": [
+          "40:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 44.5,
+            "end": 68.11
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 26020,
+        "durationMs": 26020,
+        "recordingDurationMs": 26020,
+        "bytes": 312868,
+        "sha256": "b0466826e40e595de0d37b968707f1f1a6844a1c3124f88764f4a7e924969ec9",
+        "sharedAyahs": [
+          "40:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 68.11,
+            "end": 94.1
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 162720,
+        "durationMs": 162720,
+        "recordingDurationMs": 162720,
+        "bytes": 1953316,
+        "sha256": "c5dd6482612e68e6bd6857210ecfd9efc3b9d05d2385ea29aee13a0d20682da3",
+        "sharedAyahs": [
+          "40:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 94.1,
+            "end": 256.79
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 8500,
+        "durationMs": 8500,
+        "recordingDurationMs": 8500,
+        "bytes": 102628,
+        "sha256": "e223d143da467bc7fd794d17913d6a5afbbfc24d5d4a1dd94727e1295400d26d",
+        "sharedAyahs": [
+          "40:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 256.79,
+            "end": 265.25
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 21340,
+        "durationMs": 21340,
+        "recordingDurationMs": 21340,
+        "bytes": 256708,
+        "sha256": "7f99a42cb2b28decb8e74f543490cec1dcee4c70beceda51757a0fd10a168729",
+        "sharedAyahs": [
+          "40:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 265.25,
+            "end": 286.57
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 34660,
+        "durationMs": 34660,
+        "recordingDurationMs": 34660,
+        "bytes": 416548,
+        "sha256": "1554fba604663e3dc9084fc368e1f26a31a7b037708cddaebb8e38b9ba16ab67",
+        "sharedAyahs": [
+          "40:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 286.57,
+            "end": 321.2
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 493660,
+        "durationMs": 493660,
+        "recordingDurationMs": 493660,
+        "bytes": 5924548,
+        "sha256": "ec3556dd24e064051572d8103422286330a1c6aaf2bf10a1c0db66edda02fab5",
+        "sharedAyahs": [
+          "40:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 321.2,
+            "end": 814.83
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 30550,
+        "durationMs": 30550,
+        "recordingDurationMs": 30550,
+        "bytes": 367300,
+        "sha256": "7ccf3fc3fba039f4c1cb55c0ebc0c970fdc8913581c50fc189e6f60dcbc5c967",
+        "sharedAyahs": [
+          "40:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 814.83,
+            "end": 845.36
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 62880,
+        "durationMs": 62880,
+        "recordingDurationMs": 62880,
+        "bytes": 755236,
+        "sha256": "92ec7bd154f465051b7582e34dc7438c82847daf4e23ca6c94b2087473a4504d",
+        "sharedAyahs": [
+          "40:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 845.36,
+            "end": 908.21
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 63120,
+        "durationMs": 63120,
+        "recordingDurationMs": 63120,
+        "bytes": 758116,
+        "sha256": "28fb374acb3e73088f69257d21ad6a89fe0f8709315e9d912233126a1b628abd",
+        "sharedAyahs": [
+          "40:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 908.21,
+            "end": 971.31
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 204650,
+        "durationMs": 204650,
+        "recordingDurationMs": 204650,
+        "bytes": 2456452,
+        "sha256": "cb2f12824fe454f7a75785076021533e443f7f34b8c0f951da6189d0fe0535d6",
+        "sharedAyahs": [
+          "40:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 971.31,
+            "end": 1175.95
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 44470,
+        "durationMs": 44470,
+        "recordingDurationMs": 44470,
+        "bytes": 534340,
+        "sha256": "6b29afeab6e01e4eb0536d1d6b6fc61a4f711e1621cf9711115703684aece7ad",
+        "sharedAyahs": [
+          "40:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 1175.95,
+            "end": 1220.39
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 362260,
+        "durationMs": 362260,
+        "recordingDurationMs": 362260,
+        "bytes": 4347748,
+        "sha256": "64fe43adaaa292797adbcdf1ea435abeb38ddbd13effeb253b9d32e984a37432",
+        "sharedAyahs": [
+          "40:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 1220.39,
+            "end": 1582.62
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 98300,
+        "durationMs": 98300,
+        "recordingDurationMs": 98300,
+        "bytes": 1180324,
+        "sha256": "be1b28478617f84b0404c218df7b24e285acc0dcc73b0d6e154e2af6fbb7a32e",
+        "sharedAyahs": [
+          "40:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 1582.62,
+            "end": 1680.91
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 317380,
+        "durationMs": 317380,
+        "recordingDurationMs": 317380,
+        "bytes": 3809188,
+        "sha256": "4c8c04efc53ecc33fcdb336fe3a50eb2393b3d22e243846828437d7c940ee8e1",
+        "sharedAyahs": [
+          "40:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 1680.91,
+            "end": 1998.25
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 277850,
+        "durationMs": 277850,
+        "recordingDurationMs": 277850,
+        "bytes": 3334852,
+        "sha256": "aa71e039b95fee422fcca54d070131085f50925fd62f870117dd8ec4dc6ce315",
+        "sharedAyahs": [
+          "40:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 1998.25,
+            "end": 2276.08
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 30290,
+        "durationMs": 30290,
+        "recordingDurationMs": 30290,
+        "bytes": 364132,
+        "sha256": "13e34db49141bc56332b3af54a6e4e1723cff9af055130524587a5b076e1b26c",
+        "sharedAyahs": [
+          "40:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 2276.08,
+            "end": 2306.35
+          }
+        ]
+      },
+      {
+        "file": "040-غافر-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 54190,
+        "durationMs": 54190,
+        "recordingDurationMs": 54190,
+        "bytes": 650980,
+        "sha256": "037bf6f1b3075f299c67c9ce215b0fc6b8951d080dc2758a1bb39c37ee2daa27",
+        "sharedAyahs": [
+          "40:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J43UOMCyJMI",
+            "start": 2306.35,
+            "end": 2360.5
+          }
+        ]
+      }
+    ],
+    "durationMs": 24605120,
+    "additionalAudioBytes": 0
+  }
+}
