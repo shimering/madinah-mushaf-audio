@@ -1,0 +1,3095 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 39,
+  "surahName": "الزمر",
+  "ayahCount": 75,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 75,
+    "mappedAyahCount": 75,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "OthAp9lfd9o": {
+      "durationSeconds": 1759.63,
+      "bytes": 21116280,
+      "sha256": "ef6c417b59ad15e688600a8ec63b900b961db4281d0a4b2248dddb0db69f6767",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-002_OthAp9lfd9o.mp3",
+      "url": "https://www.youtube.com/watch?v=OthAp9lfd9o"
+    },
+    "e3uufPpClII": {
+      "durationSeconds": 1701.67,
+      "bytes": 20420760,
+      "sha256": "356846c9d5565b677ba1e453d9b51cdd9aa5d0d86f9c589cb8b0c29496661f7d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_003-006_e3uufPpClII.mp3",
+      "url": "https://www.youtube.com/watch?v=e3uufPpClII"
+    },
+    "Xe4jqggjdFw": {
+      "durationSeconds": 1677.24,
+      "bytes": 20127576,
+      "sha256": "c1816c4b8b78c63c5afc2cef6f0ecb5820d3d2fb6c8c056df32a9ee3b1381850",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_006-007_Xe4jqggjdFw.mp3",
+      "url": "https://www.youtube.com/watch?v=Xe4jqggjdFw"
+    },
+    "441dW-IZDhg": {
+      "durationSeconds": 1674.53,
+      "bytes": 20095034,
+      "sha256": "185c107aeeeff95ffef2b9df0d02de5c9177814c8b1cce755520692390933af0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_007-010_441dW-IZDhg.mp3",
+      "url": "https://www.youtube.com/watch?v=441dW-IZDhg"
+    },
+    "J-JmGzr5Y3E": {
+      "durationSeconds": 1574.74,
+      "bytes": 18897532,
+      "sha256": "38df0265b2b0e28a755415055555cfcd6fb8fc9539ea48f81495b726bb0a0f37",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_010-017_J-JmGzr5Y3E.mp3",
+      "url": "https://www.youtube.com/watch?v=J-JmGzr5Y3E"
+    },
+    "nLZdZOzFe6Q": {
+      "durationSeconds": 1748.28,
+      "bytes": 20980060,
+      "sha256": "b4c9ae4e6e1b98b44c82d1e05620d2db8ab5a76e276f0b0fa9f5fc8f96541b2f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_017-020_nLZdZOzFe6Q.mp3",
+      "url": "https://www.youtube.com/watch?v=nLZdZOzFe6Q"
+    },
+    "sHZmws5zOE4": {
+      "durationSeconds": 1697.38,
+      "bytes": 20369212,
+      "sha256": "3b367e97a5484d30dc8aa814b9ea38ec90f668f9ecd46809766187834be9c7a8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_020-021_sHZmws5zOE4.mp3",
+      "url": "https://www.youtube.com/watch?v=sHZmws5zOE4"
+    },
+    "q9HxQ9t8Xlw": {
+      "durationSeconds": 1686.5,
+      "bytes": 20238748,
+      "sha256": "2ae088ec868a97fcfd0bce7bfe75e6c1adbd321ea03d967e22c89d39980a7341",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_022-024_q9HxQ9t8Xlw.mp3",
+      "url": "https://www.youtube.com/watch?v=q9HxQ9t8Xlw"
+    },
+    "ai3ZldX5a2M": {
+      "durationSeconds": 1597.87,
+      "bytes": 19175164,
+      "sha256": "081a4d9604878467e1227c4eb0a4aa9f350fd9b58f10d0b86f7a0aff0ff05127",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_024-027_ai3ZldX5a2M.mp3",
+      "url": "https://www.youtube.com/watch?v=ai3ZldX5a2M"
+    },
+    "uJ1yVqb7sU4": {
+      "durationSeconds": 1718.74,
+      "bytes": 20625533,
+      "sha256": "40c4c45aeb4e6ce900ae59ace83d51cf2cb340d48c143b6b36c957c016265d9f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_027-032_uJ1yVqb7sU4.mp3",
+      "url": "https://www.youtube.com/watch?v=uJ1yVqb7sU4"
+    },
+    "40LcaF0tvhU": {
+      "durationSeconds": 2156.71,
+      "bytes": 25881268,
+      "sha256": "e89ae39c3759e48b2ad1b021b35cf33eca0ca69ef85f12c8b0b5a94fc22b9be8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_032-037_40LcaF0tvhU.mp3",
+      "url": "https://www.youtube.com/watch?v=40LcaF0tvhU"
+    },
+    "ScdL0cwmyfU": {
+      "durationSeconds": 2611.15,
+      "bytes": 31334525,
+      "sha256": "35324bb6ffd38b1b7bb10eadd2fca06c83429d3a832d8ed3bd4ea01be3e0e8b2",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_036-040_ScdL0cwmyfU.mp3",
+      "url": "https://www.youtube.com/watch?v=ScdL0cwmyfU"
+    },
+    "Ke6HOdCIq-c": {
+      "durationSeconds": 2631.17,
+      "bytes": 31574717,
+      "sha256": "41f9d7534b97c7329a631b7a11a15fb1221db2e94352a8c4c11c102d0bc8d2f9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_040-044_Ke6HOdCIq-c.mp3",
+      "url": "https://www.youtube.com/watch?v=Ke6HOdCIq-c"
+    },
+    "mKO4WhCQy3s": {
+      "durationSeconds": 2682.79,
+      "bytes": 32194205,
+      "sha256": "ccd646d0ed7b97eeea07f48d73f198f51dfc7859706d9c94b000c2308e060b18",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_044-050_mKO4WhCQy3s.mp3",
+      "url": "https://www.youtube.com/watch?v=mKO4WhCQy3s"
+    },
+    "sGWyup45gNk": {
+      "durationSeconds": 2658.34,
+      "bytes": 31900733,
+      "sha256": "bb02c7c4e9c91c2a8a691297734f9a3509d79b4debf75a2184733f65e0733eb7",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_050-056_sGWyup45gNk.mp3",
+      "url": "https://www.youtube.com/watch?v=sGWyup45gNk"
+    },
+    "avdclpkTHRk": {
+      "durationSeconds": 2487.02,
+      "bytes": 29844989,
+      "sha256": "a0d5cf0957eb83da06c8caf020e82b7d3d5d43d5ad41ce49ae3911f12c55acf6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_056-062_avdclpkTHRk.mp3",
+      "url": "https://www.youtube.com/watch?v=avdclpkTHRk"
+    },
+    "swUNqXywxs8": {
+      "durationSeconds": 2716.9,
+      "bytes": 32603453,
+      "sha256": "db792b85cdb5dde39e81e1d529d29a9b818877bbf8350f2d9930b017fc319b50",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "017_062-068_swUNqXywxs8.mp3",
+      "url": "https://www.youtube.com/watch?v=swUNqXywxs8"
+    },
+    "-iqWOOR5E50": {
+      "durationSeconds": 2755.82,
+      "bytes": 33070589,
+      "sha256": "e795d33564929c77abe5597c084337715c23ead3fd44e6d157a035e891953b2b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "018_068-073_-iqWOOR5E50.mp3",
+      "url": "https://www.youtube.com/watch?v=-iqWOOR5E50"
+    },
+    "huQl2HmzxLo": {
+      "durationSeconds": 896.69,
+      "bytes": 10760957,
+      "sha256": "972caf63c7cd914a012ca5f44569051b5ddcd3afef1a52dfee5a0e7c229df12f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "019_073-075_huQl2HmzxLo.mp3",
+      "url": "https://www.youtube.com/watch?v=huQl2HmzxLo"
+    }
+  },
+  "ayahs": {
+    "39:1": {
+      "file": "039-الزمر-youtube-v1/001.mp3",
+      "durationMs": 1068720,
+      "bytes": 12825318,
+      "sha256": "f5719f6e0689d4e2a81e614a72fb1d6bdb635799ec0f1e7badd8e1630dd7628b",
+      "sharedAyahs": [
+        "39:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OthAp9lfd9o",
+          "start": 28.27,
+          "end": 1096.95
+        }
+      ],
+      "reviewNote": "تفسير الآية 1: تنزيل الكتاب من الله العزيز الحكيم"
+    },
+    "39:2": {
+      "file": "039-الزمر-youtube-v1/002.mp3",
+      "durationMs": 711340,
+      "bytes": 8536453,
+      "sha256": "30121d0941c9057d483e2df351e1a8a5b33d2fcec3c1355b6452a5786c2a099d",
+      "sharedAyahs": [
+        "39:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OthAp9lfd9o",
+          "start": 1096.95,
+          "end": 1759.63
+        },
+        {
+          "source": "e3uufPpClII",
+          "start": 0.94,
+          "end": 49.6
+        }
+      ],
+      "reviewNote": "تفسير الآية 2: إنا أنزلنا إليك الكتاب بالحق فاعبد الله مخلصا له الدين"
+    },
+    "39:3": {
+      "file": "039-الزمر-youtube-v1/003.mp3",
+      "durationMs": 436560,
+      "bytes": 5239398,
+      "sha256": "819769d14ca9e62b277fd4d248be40f53d5f80258eaff646a8687e9ad768afa0",
+      "sharedAyahs": [
+        "39:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "e3uufPpClII",
+          "start": 49.6,
+          "end": 486.14
+        }
+      ],
+      "reviewNote": "تفسير الآية 3: ألا لله الدين الخالص"
+    },
+    "39:4": {
+      "file": "039-الزمر-youtube-v1/004.mp3",
+      "durationMs": 320020,
+      "bytes": 3840870,
+      "sha256": "43b14ef4cc51c193c9f329e9c955661fb4856829f01b6f23dfd003e96034d638",
+      "sharedAyahs": [
+        "39:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "e3uufPpClII",
+          "start": 486.14,
+          "end": 806.13
+        }
+      ],
+      "reviewNote": "تفسير الآية 4: لو أراد الله أن يتخذ ولدا لاصطفى مما يخلق ما يشاء"
+    },
+    "39:5": {
+      "file": "039-الزمر-youtube-v1/005.mp3",
+      "durationMs": 778780,
+      "bytes": 9345990,
+      "sha256": "69d4a673c8ba1b9676c9e66a9e1a9255f5ddec959cef30d0329c8963412b365c",
+      "sharedAyahs": [
+        "39:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "e3uufPpClII",
+          "start": 806.13,
+          "end": 1584.88
+        }
+      ],
+      "reviewNote": "تفسير الآية 5: خلق السماوات والأرض بالحق يكور الليل على النهار"
+    },
+    "39:6": {
+      "file": "039-الزمر-youtube-v1/006.mp3",
+      "durationMs": 1330490,
+      "bytes": 15966534,
+      "sha256": "dca70de148a80256567d6d4f59a0907c36759e206cf936814bc0ee7b9581cee9",
+      "sharedAyahs": [
+        "39:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xe4jqggjdFw",
+          "start": 7.6,
+          "end": 1338.06
+        }
+      ],
+      "reviewNote": "تفسير الآية 6: خلقكم من نفس واحدة... يخلقكم في بطون أمهاتكم خلقا من بعد خلق"
+    },
+    "39:7": {
+      "file": "039-الزمر-youtube-v1/007.mp3",
+      "durationMs": 675600,
+      "bytes": 8107621,
+      "sha256": "a0c4199b7e24e39970312780a26f8a3782be64504ec83f3d1c17ad129852e141",
+      "sharedAyahs": [
+        "39:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xe4jqggjdFw",
+          "start": 1338.06,
+          "end": 1677.24
+        },
+        {
+          "source": "441dW-IZDhg",
+          "start": 5.26,
+          "end": 341.67
+        }
+      ],
+      "reviewNote": "تفسير الآية 7: إن تكفروا فإن الله غني عنكم ولا يرضى لعباده الكفر"
+    },
+    "39:8": {
+      "file": "039-الزمر-youtube-v1/008.mp3",
+      "durationMs": 516790,
+      "bytes": 6202182,
+      "sha256": "558a9f361fe9fcb1c8b92a5a76c241516fec4309f1ed9eaf463eb22496cbff0f",
+      "sharedAyahs": [
+        "39:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "441dW-IZDhg",
+          "start": 341.67,
+          "end": 858.44
+        }
+      ],
+      "reviewNote": "تفسير الآية 8: وإذا مس الإنسان ضر دعا ربه منيبا إليه"
+    },
+    "39:9": {
+      "file": "039-الزمر-youtube-v1/009.mp3",
+      "durationMs": 816070,
+      "bytes": 9793542,
+      "sha256": "fd83c9b0e4c34a7543b03b7423750f89060d86df8ec3964a4c1a8e6dcf585a48",
+      "sharedAyahs": [
+        "39:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "441dW-IZDhg",
+          "start": 858.44,
+          "end": 1674.53
+        }
+      ],
+      "reviewNote": "تفسير الآية 9: أمن هو قانت آناء الليل ساجدا وقائما"
+    },
+    "39:10": {
+      "file": "039-الزمر-youtube-v1/010.mp3",
+      "durationMs": 568580,
+      "bytes": 6823688,
+      "sha256": "8462d8fcd846ab57dac7a7db8bb02feec0438a7532aaf75bba073ec4e6701e35",
+      "sharedAyahs": [
+        "39:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J-JmGzr5Y3E",
+          "start": 7.15,
+          "end": 575.7
+        }
+      ],
+      "reviewNote": "تفسير الآية 10: قل يا عباد الذين آمنوا اتقوا ربكم"
+    },
+    "39:11": {
+      "file": "039-الزمر-youtube-v1/011.mp3",
+      "durationMs": 373320,
+      "bytes": 4480525,
+      "sha256": "313207477bedc92dcb4de1e1c478392b871c1a18209eaf53647b710000d40e1c",
+      "sharedAyahs": [
+        "39:11",
+        "39:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J-JmGzr5Y3E",
+          "start": 575.7,
+          "end": 949.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-12: قل إني أمرت أن أعبد الله مخلصا له الدين * وأمرت لأن أكون أول المسلمين"
+    },
+    "39:12": {
+      "file": "039-الزمر-youtube-v1/011.mp3",
+      "durationMs": 373320,
+      "bytes": 4480525,
+      "sha256": "313207477bedc92dcb4de1e1c478392b871c1a18209eaf53647b710000d40e1c",
+      "sharedAyahs": [
+        "39:11",
+        "39:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J-JmGzr5Y3E",
+          "start": 575.7,
+          "end": 949.0
+        }
+      ],
+      "reviewNote": "تفسير الآيات 11-12: قل إني أمرت أن أعبد الله مخلصا له الدين * وأمرت لأن أكون أول المسلمين"
+    },
+    "39:13": {
+      "file": "039-الزمر-youtube-v1/013.mp3",
+      "durationMs": 26110,
+      "bytes": 314024,
+      "sha256": "a803bbd1a91f1d8fe966d7b586c62c46f6d67717b6369f3311da6fbd93cc5fa0",
+      "sharedAyahs": [
+        "39:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J-JmGzr5Y3E",
+          "start": 949.0,
+          "end": 975.08
+        }
+      ],
+      "reviewNote": "تفسير الآية 13: قل إني أخاف إن عصيت ربي عذاب يوم عظيم"
+    },
+    "39:14": {
+      "file": "039-الزمر-youtube-v1/014.mp3",
+      "durationMs": 72430,
+      "bytes": 869864,
+      "sha256": "6aae908649b5fd3e1c4dae6e799f8d0d395e7a9a7743f1634c8d49ea072cfbf2",
+      "sharedAyahs": [
+        "39:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J-JmGzr5Y3E",
+          "start": 975.08,
+          "end": 1047.5
+        }
+      ],
+      "reviewNote": "تفسير الآية 14: قل الله أعبد مخلصا له ديني"
+    },
+    "39:15": {
+      "file": "039-الزمر-youtube-v1/015.mp3",
+      "durationMs": 141000,
+      "bytes": 1692680,
+      "sha256": "f3904a8a5bae41671ff39b5bc0b64569c11ddd4a09d5b55b8a1a01198ab38ecf",
+      "sharedAyahs": [
+        "39:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J-JmGzr5Y3E",
+          "start": 1047.5,
+          "end": 1188.47
+        }
+      ],
+      "reviewNote": "تفسير الآية 15: فاعبدوا ما شئتم من دونه قل إن الخاسرين الذين خسروا أنفسهم"
+    },
+    "39:16": {
+      "file": "039-الزمر-youtube-v1/016.mp3",
+      "durationMs": 285340,
+      "bytes": 3424712,
+      "sha256": "6d1f5e76d96f8b0a24b46fbbc48bd2a147792c394d5b4c3b0c58a10803683a4d",
+      "sharedAyahs": [
+        "39:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J-JmGzr5Y3E",
+          "start": 1188.47,
+          "end": 1473.78
+        }
+      ],
+      "reviewNote": "تفسير الآية 16: لهم من فوقهم ظلل من النار ومن تحتهم ظلل"
+    },
+    "39:17": {
+      "file": "039-الزمر-youtube-v1/017.mp3",
+      "durationMs": 1334060,
+      "bytes": 16009453,
+      "sha256": "cb8ea38fad09931cf2e1eb3abdf71e6e5ebeb3ace1377882f2af66591a2e6c39",
+      "sharedAyahs": [
+        "39:17",
+        "39:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nLZdZOzFe6Q",
+          "start": 10.29,
+          "end": 1344.32
+        }
+      ],
+      "reviewNote": "تفسير الآيات 17-18: والذين اجتنبوا الطاغوت أن يعبدوها وأنابوا إلى الله لهم البشرى * الذين يستمعون القول فيتبعون أحسنه"
+    },
+    "39:18": {
+      "file": "039-الزمر-youtube-v1/017.mp3",
+      "durationMs": 1334060,
+      "bytes": 16009453,
+      "sha256": "cb8ea38fad09931cf2e1eb3abdf71e6e5ebeb3ace1377882f2af66591a2e6c39",
+      "sharedAyahs": [
+        "39:17",
+        "39:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nLZdZOzFe6Q",
+          "start": 10.29,
+          "end": 1344.32
+        }
+      ],
+      "reviewNote": "تفسير الآيات 17-18: والذين اجتنبوا الطاغوت أن يعبدوها وأنابوا إلى الله لهم البشرى * الذين يستمعون القول فيتبعون أحسنه"
+    },
+    "39:19": {
+      "file": "039-الزمر-youtube-v1/019.mp3",
+      "durationMs": 243670,
+      "bytes": 2924744,
+      "sha256": "c67347fdf0e7cc5bdb356678a3860aa4f67bdf5e7ea561f618ae4cc297a1f7cb",
+      "sharedAyahs": [
+        "39:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nLZdZOzFe6Q",
+          "start": 1344.32,
+          "end": 1587.98
+        }
+      ],
+      "reviewNote": "تفسير الآية 19: أفمن حق عليه كلمة العذاب أفأنت تنقذ من في النار"
+    },
+    "39:20": {
+      "file": "039-الزمر-youtube-v1/020.mp3",
+      "durationMs": 181990,
+      "bytes": 2184327,
+      "sha256": "830b805319b45db335464291ab37417a1464a5490dfb6f7b2c82ae75d544591a",
+      "sharedAyahs": [
+        "39:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nLZdZOzFe6Q",
+          "start": 1587.98,
+          "end": 1740.65
+        },
+        {
+          "source": "sHZmws5zOE4",
+          "start": 1.74,
+          "end": 30.99
+        }
+      ],
+      "reviewNote": "تفسير الآية 20: لكن الذين اتقوا ربهم لهم غرف من فوقها غرف مبنية"
+    },
+    "39:21": {
+      "file": "039-الزمر-youtube-v1/021.mp3",
+      "durationMs": 1662890,
+      "bytes": 19955336,
+      "sha256": "934af55a6e2f2746cc760796275b74221162147eed8cee48b812abf239cfea5f",
+      "sharedAyahs": [
+        "39:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sHZmws5zOE4",
+          "start": 30.99,
+          "end": 1693.85
+        }
+      ],
+      "reviewNote": "تفسير الآية 21: ألم تر أن الله أنزل من السماء ماء فسلكه ينابيع في الأرض"
+    },
+    "39:22": {
+      "file": "039-الزمر-youtube-v1/022.mp3",
+      "durationMs": 834000,
+      "bytes": 10008680,
+      "sha256": "e793ef53f405db6145ba35b06678c336fb3924b8d44237585a95d0848912df06",
+      "sharedAyahs": [
+        "39:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q9HxQ9t8Xlw",
+          "start": 0.69,
+          "end": 834.66
+        }
+      ],
+      "reviewNote": "تفسير الآية 22: أفمن شرح الله صدره للإسلام فهو على نور من ربه"
+    },
+    "39:23": {
+      "file": "039-الزمر-youtube-v1/023.mp3",
+      "durationMs": 590300,
+      "bytes": 7084328,
+      "sha256": "d1e038ce7d1a3a50e2a4bfa7818a5e15d6861c1c8aa9758d9b0f0b1fb7220ba9",
+      "sharedAyahs": [
+        "39:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q9HxQ9t8Xlw",
+          "start": 834.66,
+          "end": 1424.94
+        }
+      ],
+      "reviewNote": "تفسير الآية 23: الله نزل أحسن الحديث كتابا متشابها مثاني"
+    },
+    "39:24": {
+      "file": "039-الزمر-youtube-v1/024.mp3",
+      "durationMs": 1332190,
+      "bytes": 15986727,
+      "sha256": "a71b071f29ed94838a87cb111bdd84f2b2946c41dee2e49700f8c9e8f8774f97",
+      "sharedAyahs": [
+        "39:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q9HxQ9t8Xlw",
+          "start": 1424.94,
+          "end": 1677.68
+        },
+        {
+          "source": "ai3ZldX5a2M",
+          "start": 3.06,
+          "end": 1082.46
+        }
+      ],
+      "reviewNote": "تفسير الآية 24: أفمن يتقي بوجهه سوء العذاب يوم القيامة"
+    },
+    "39:25": {
+      "file": "039-الزمر-youtube-v1/025.mp3",
+      "durationMs": 285050,
+      "bytes": 3421256,
+      "sha256": "60ca5a222c8adacf8d6317c928504b280517bee5e300ccf3839432da8bdd9680",
+      "sharedAyahs": [
+        "39:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ai3ZldX5a2M",
+          "start": 1082.46,
+          "end": 1367.48
+        }
+      ],
+      "reviewNote": "تفسير الآية 25: كذب الذين من قبلهم فأتاهم العذاب من حيث لا يشعرون"
+    },
+    "39:26": {
+      "file": "039-الزمر-youtube-v1/026.mp3",
+      "durationMs": 29950,
+      "bytes": 360104,
+      "sha256": "eddf323097a0cd00e6116bbf32f69b94eb0388a9a1a0b217ba03264cc1b4681b",
+      "sharedAyahs": [
+        "39:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ai3ZldX5a2M",
+          "start": 1367.48,
+          "end": 1397.42
+        }
+      ],
+      "reviewNote": "تفسير الآية 26: فأذاقهم الله الخزي في الحياة الدنيا ولعذاب الآخرة أكبر"
+    },
+    "39:27": {
+      "file": "039-الزمر-youtube-v1/027.mp3",
+      "durationMs": 834980,
+      "bytes": 10020231,
+      "sha256": "d1d16bc33dc8b514c01a52a8390bd1d304d300fead555c7c4170ffca32c672a5",
+      "sharedAyahs": [
+        "39:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ai3ZldX5a2M",
+          "start": 1397.42,
+          "end": 1595.54
+        },
+        {
+          "source": "uJ1yVqb7sU4",
+          "start": 0.34,
+          "end": 637.17
+        }
+      ],
+      "reviewNote": "تفسير الآية 27: ولقد ضربنا للناس في هذا القرآن من كل مثل لعلهم يتذكرون"
+    },
+    "39:28": {
+      "file": "039-الزمر-youtube-v1/028.mp3",
+      "durationMs": 516410,
+      "bytes": 6197581,
+      "sha256": "39cb55a7d36a69ef6b274f2e02f597630411b218cb5bd40a7f6fd91d1b49b0db",
+      "sharedAyahs": [
+        "39:28",
+        "39:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uJ1yVqb7sU4",
+          "start": 637.17,
+          "end": 1153.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 28-29: قرآنا عربيا غير ذي عوج * ضرب الله مثلا رجلا فيه شركاء متشاكسون"
+    },
+    "39:29": {
+      "file": "039-الزمر-youtube-v1/028.mp3",
+      "durationMs": 516410,
+      "bytes": 6197581,
+      "sha256": "39cb55a7d36a69ef6b274f2e02f597630411b218cb5bd40a7f6fd91d1b49b0db",
+      "sharedAyahs": [
+        "39:28",
+        "39:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uJ1yVqb7sU4",
+          "start": 637.17,
+          "end": 1153.54
+        }
+      ],
+      "reviewNote": "تفسير الآيات 28-29: قرآنا عربيا غير ذي عوج * ضرب الله مثلا رجلا فيه شركاء متشاكسون"
+    },
+    "39:30": {
+      "file": "039-الزمر-youtube-v1/030.mp3",
+      "durationMs": 514820,
+      "bytes": 6178568,
+      "sha256": "38c4323b69e0bac78c172c52c893ad59e7a088f51af93f5f0a8a5110131ae921",
+      "sharedAyahs": [
+        "39:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uJ1yVqb7sU4",
+          "start": 1153.54,
+          "end": 1668.35
+        }
+      ],
+      "reviewNote": "تفسير الآية 30: إنك ميت وإنهم ميتون"
+    },
+    "39:31": {
+      "file": "039-الزمر-youtube-v1/031.mp3",
+      "durationMs": 48430,
+      "bytes": 581864,
+      "sha256": "9de8c63b689210db4ea1da13a4045284c859642cb3f10278359dfeec715173dc",
+      "sharedAyahs": [
+        "39:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uJ1yVqb7sU4",
+          "start": 1668.35,
+          "end": 1716.76
+        }
+      ],
+      "reviewNote": "تفسير الآية 31: ثم إنكم يوم القيامة عند ربكم تختصمون"
+    },
+    "39:32": {
+      "file": "039-الزمر-youtube-v1/032.mp3",
+      "durationMs": 802560,
+      "bytes": 9631405,
+      "sha256": "de1f1e9e140f05d64c8290ae8e9bb9d621949ed4963fa7ef728dc9323c26da7c",
+      "sharedAyahs": [
+        "39:32",
+        "39:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "40LcaF0tvhU",
+          "start": 0.0,
+          "end": 802.52
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-33: فمن أظلم ممن كذب على الله وكذب بالصدق إذ جاءه * والذي جاء بالصدق وصدق به"
+    },
+    "39:33": {
+      "file": "039-الزمر-youtube-v1/032.mp3",
+      "durationMs": 802560,
+      "bytes": 9631405,
+      "sha256": "de1f1e9e140f05d64c8290ae8e9bb9d621949ed4963fa7ef728dc9323c26da7c",
+      "sharedAyahs": [
+        "39:32",
+        "39:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "40LcaF0tvhU",
+          "start": 0.0,
+          "end": 802.52
+        }
+      ],
+      "reviewNote": "تفسير الآيات 32-33: فمن أظلم ممن كذب على الله وكذب بالصدق إذ جاءه * والذي جاء بالصدق وصدق به"
+    },
+    "39:34": {
+      "file": "039-الزمر-youtube-v1/034.mp3",
+      "durationMs": 717980,
+      "bytes": 8616488,
+      "sha256": "3a2933382b3c5cc6b1f96c8913d033366ed7d9ab7c3b4139540d598610d584bf",
+      "sharedAyahs": [
+        "39:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "40LcaF0tvhU",
+          "start": 802.52,
+          "end": 1520.49
+        }
+      ],
+      "reviewNote": "تفسير الآية 34: لهم ما يشاءون عند ربهم ذلك جزاء المحسنين"
+    },
+    "39:35": {
+      "file": "039-الزمر-youtube-v1/035.mp3",
+      "durationMs": 214970,
+      "bytes": 2580296,
+      "sha256": "48d3cfa47a81c4beb50d7a93f3b69adad18e4ba19f558edff3ef5963d6df399a",
+      "sharedAyahs": [
+        "39:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "40LcaF0tvhU",
+          "start": 1520.49,
+          "end": 1735.42
+        }
+      ],
+      "reviewNote": "تفسير الآية 35: ليكفر الله عنهم أسوأ الذي عملوا ويجزيهم أجرهم بأحسن الذي كانوا يعملون"
+    },
+    "39:36": {
+      "file": "039-الزمر-youtube-v1/036.mp3",
+      "durationMs": 1045340,
+      "bytes": 12544551,
+      "sha256": "0dc3c8f9cfd5c5ac6d9ffdb011832b998d84330a7fd408290e66b97037d408de",
+      "sharedAyahs": [
+        "39:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "40LcaF0tvhU",
+          "start": 1735.42,
+          "end": 1949.46
+        },
+        {
+          "source": "ScdL0cwmyfU",
+          "start": 24.41,
+          "end": 855.69
+        }
+      ],
+      "reviewNote": "تفسير الآية 36: أليس الله بكاف عبده ويخوفونك بالذين من دونه"
+    },
+    "39:37": {
+      "file": "039-الزمر-youtube-v1/037.mp3",
+      "durationMs": 418130,
+      "bytes": 5017959,
+      "sha256": "20cd1c46606c075ec3e4898551b603869843eb32ab3b6f557c221c23a350a983",
+      "sharedAyahs": [
+        "39:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "40LcaF0tvhU",
+          "start": 1949.46,
+          "end": 2156.71
+        },
+        {
+          "source": "ScdL0cwmyfU",
+          "start": 855.69,
+          "end": 1066.55
+        }
+      ],
+      "reviewNote": "تفسير الآية 37: ومن يهد الله فما له من مضل أليس الله بعزيز ذي انتقام"
+    },
+    "39:38": {
+      "file": "039-الزمر-youtube-v1/038.mp3",
+      "durationMs": 1429130,
+      "bytes": 17150216,
+      "sha256": "6fb94ca58d59aa91adb064e514c5072bb4f631ac1a4f3ceb7ff0e724139dc70f",
+      "sharedAyahs": [
+        "39:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ScdL0cwmyfU",
+          "start": 1066.55,
+          "end": 2495.65
+        }
+      ],
+      "reviewNote": "تفسير الآية 38: ولئن سألتهم من خلق السماوات والأرض ليقولن الله"
+    },
+    "39:39": {
+      "file": "039-الزمر-youtube-v1/039.mp3",
+      "durationMs": 436420,
+      "bytes": 5237420,
+      "sha256": "1f8fdf7f5b86430615f559e4f963759a068b28d47c9b8871ddf433bceaa52027",
+      "sharedAyahs": [
+        "39:39",
+        "39:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ScdL0cwmyfU",
+          "start": 2495.65,
+          "end": 2611.15
+        },
+        {
+          "source": "Ke6HOdCIq-c",
+          "start": 2.48,
+          "end": 323.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 39-40: قل يا قوم اعملوا على مكانتكم إني عامل فسوف تعلمون * من يأتيه عذاب يخزيه"
+    },
+    "39:40": {
+      "file": "039-الزمر-youtube-v1/039.mp3",
+      "durationMs": 436420,
+      "bytes": 5237420,
+      "sha256": "1f8fdf7f5b86430615f559e4f963759a068b28d47c9b8871ddf433bceaa52027",
+      "sharedAyahs": [
+        "39:39",
+        "39:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ScdL0cwmyfU",
+          "start": 2495.65,
+          "end": 2611.15
+        },
+        {
+          "source": "Ke6HOdCIq-c",
+          "start": 2.48,
+          "end": 323.4
+        }
+      ],
+      "reviewNote": "تفسير الآيات 39-40: قل يا قوم اعملوا على مكانتكم إني عامل فسوف تعلمون * من يأتيه عذاب يخزيه"
+    },
+    "39:41": {
+      "file": "039-الزمر-youtube-v1/041.mp3",
+      "durationMs": 679820,
+      "bytes": 8158568,
+      "sha256": "7e248648c72c34d52893f29f96b4a95dc7c8f51bf412de0212536442bd423379",
+      "sharedAyahs": [
+        "39:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Ke6HOdCIq-c",
+          "start": 323.4,
+          "end": 1003.2
+        }
+      ],
+      "reviewNote": "تفسير الآية 41: إنا أنزلنا عليك الكتاب للناس بالحق"
+    },
+    "39:42": {
+      "file": "039-الزمر-youtube-v1/042.mp3",
+      "durationMs": 809060,
+      "bytes": 9709448,
+      "sha256": "e5bbe8cf0f0d1b9c90e5cb717f6b91ec725968e907fb98258c9c334d7e90eac1",
+      "sharedAyahs": [
+        "39:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Ke6HOdCIq-c",
+          "start": 1003.2,
+          "end": 1812.24
+        }
+      ],
+      "reviewNote": "تفسير الآية 42: الله يتوفى الأنفس حين موتها والتي لم تمت في منامها"
+    },
+    "39:43": {
+      "file": "039-الزمر-youtube-v1/043.mp3",
+      "durationMs": 647860,
+      "bytes": 7774952,
+      "sha256": "da08ccd85224dd49544e1a21502b167c7fc672cc72fe903208005e5074ae4f66",
+      "sharedAyahs": [
+        "39:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Ke6HOdCIq-c",
+          "start": 1812.24,
+          "end": 2460.05
+        }
+      ],
+      "reviewNote": "تفسير الآية 43: أم اتخذوا من دون الله شفعاء"
+    },
+    "39:44": {
+      "file": "039-الزمر-youtube-v1/044.mp3",
+      "durationMs": 899620,
+      "bytes": 10795815,
+      "sha256": "f96871caa66b1157d0bcffa5cbf6e9ab7b27f968f57e1f842b04fca1cba9f242",
+      "sharedAyahs": [
+        "39:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Ke6HOdCIq-c",
+          "start": 2460.05,
+          "end": 2628.54
+        },
+        {
+          "source": "mKO4WhCQy3s",
+          "start": 28.23,
+          "end": 759.33
+        }
+      ],
+      "reviewNote": "تفسير الآية 44: قل لله الشفاعة جميعا له ملك السماوات والأرض"
+    },
+    "39:45": {
+      "file": "039-الزمر-youtube-v1/045.mp3",
+      "durationMs": 75460,
+      "bytes": 906152,
+      "sha256": "79cc853f31da02e1c1ef21e5e6e17cc7ef0c0fe9a9848f33a95ff526d2a5faff",
+      "sharedAyahs": [
+        "39:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mKO4WhCQy3s",
+          "start": 759.33,
+          "end": 834.76
+        }
+      ],
+      "reviewNote": "تفسير الآية 45: وإذا ذكر الله وحده اشمأزت قلوب الذين لا يؤمنون بالآخرة"
+    },
+    "39:46": {
+      "file": "039-الزمر-youtube-v1/046.mp3",
+      "durationMs": 844180,
+      "bytes": 10130792,
+      "sha256": "e7696055373503e298e973085fa3ad709fa79d99e71cf31442208451610bcd7b",
+      "sharedAyahs": [
+        "39:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mKO4WhCQy3s",
+          "start": 834.76,
+          "end": 1678.9
+        }
+      ],
+      "reviewNote": "تفسير الآية 46: قل اللهم فاطر السماوات والأرض عالم الغيب والشهادة"
+    },
+    "39:47": {
+      "file": "039-الزمر-youtube-v1/047.mp3",
+      "durationMs": 226870,
+      "bytes": 2723144,
+      "sha256": "3c584d9e2444e936b2fe457baf30a05cd8bc2b31f2ae8f40bbc4869221b891a8",
+      "sharedAyahs": [
+        "39:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mKO4WhCQy3s",
+          "start": 1678.9,
+          "end": 1905.76
+        }
+      ],
+      "reviewNote": "تفسير الآية 47: ولو أن للذين ظلموا ما في الأرض جميعا ومثله معه لافتدوا به"
+    },
+    "39:48": {
+      "file": "039-الزمر-youtube-v1/048.mp3",
+      "durationMs": 471500,
+      "bytes": 5658728,
+      "sha256": "18f84b02a659566bda2249eb94d88bec84375034bcef31bceb23cfed48bd1c49",
+      "sharedAyahs": [
+        "39:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mKO4WhCQy3s",
+          "start": 1905.76,
+          "end": 2377.23
+        }
+      ],
+      "reviewNote": "تفسير الآية 48: وبدا لهم سيئات ما كسبوا وحاق بهم ما كانوا به يستهزئون"
+    },
+    "39:49": {
+      "file": "039-الزمر-youtube-v1/049.mp3",
+      "durationMs": 368860,
+      "bytes": 4426700,
+      "sha256": "5908747aa83d1d5c9b7c957304abb3668debd1b475eb0fa8aca8f87e6a119cbb",
+      "sharedAyahs": [
+        "39:49",
+        "39:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mKO4WhCQy3s",
+          "start": 2377.23,
+          "end": 2680.63
+        },
+        {
+          "source": "sGWyup45gNk",
+          "start": 24.8,
+          "end": 90.24
+        }
+      ],
+      "reviewNote": "تفسير الآيات 49-50: فإذا مس الإنسان ضر دعانا ثم إذا خولناه نعمة منا قال إنما أوتيته على علم * قد قالها الذين من قبلهم"
+    },
+    "39:50": {
+      "file": "039-الزمر-youtube-v1/049.mp3",
+      "durationMs": 368860,
+      "bytes": 4426700,
+      "sha256": "5908747aa83d1d5c9b7c957304abb3668debd1b475eb0fa8aca8f87e6a119cbb",
+      "sharedAyahs": [
+        "39:49",
+        "39:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mKO4WhCQy3s",
+          "start": 2377.23,
+          "end": 2680.63
+        },
+        {
+          "source": "sGWyup45gNk",
+          "start": 24.8,
+          "end": 90.24
+        }
+      ],
+      "reviewNote": "تفسير الآيات 49-50: فإذا مس الإنسان ضر دعانا ثم إذا خولناه نعمة منا قال إنما أوتيته على علم * قد قالها الذين من قبلهم"
+    },
+    "39:51": {
+      "file": "039-الزمر-youtube-v1/051.mp3",
+      "durationMs": 1154230,
+      "bytes": 13851464,
+      "sha256": "e4001fb90c098f54d407704e0ac673ee5a37497632c60471d2668f4bb488c685",
+      "sharedAyahs": [
+        "39:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sGWyup45gNk",
+          "start": 90.24,
+          "end": 1244.43
+        }
+      ],
+      "reviewNote": "تفسير الآية 51: فأصابهم سيئات ما كسبوا والذين ظلموا من هؤلاء سيصيبهم سيئات ما كسبوا"
+    },
+    "39:52": {
+      "file": "039-الزمر-youtube-v1/052.mp3",
+      "durationMs": 688320,
+      "bytes": 8260525,
+      "sha256": "5af79e8a91586002a7ae3e44903e058f60d90fbc1f49e4b45864192570e0452b",
+      "sharedAyahs": [
+        "39:52",
+        "39:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sGWyup45gNk",
+          "start": 1244.43,
+          "end": 1932.74
+        }
+      ],
+      "reviewNote": "تفسير الآيات 52-53: أولم يعلموا أن الله يبسط الرزق لمن يشاء ويقدر * قل يا عبادي الذين أسرفوا على أنفسهم لا تقنطوا من رحمة الله"
+    },
+    "39:53": {
+      "file": "039-الزمر-youtube-v1/052.mp3",
+      "durationMs": 688320,
+      "bytes": 8260525,
+      "sha256": "5af79e8a91586002a7ae3e44903e058f60d90fbc1f49e4b45864192570e0452b",
+      "sharedAyahs": [
+        "39:52",
+        "39:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sGWyup45gNk",
+          "start": 1244.43,
+          "end": 1932.74
+        }
+      ],
+      "reviewNote": "تفسير الآيات 52-53: أولم يعلموا أن الله يبسط الرزق لمن يشاء ويقدر * قل يا عبادي الذين أسرفوا على أنفسهم لا تقنطوا من رحمة الله"
+    },
+    "39:54": {
+      "file": "039-الزمر-youtube-v1/054.mp3",
+      "durationMs": 531910,
+      "bytes": 6383624,
+      "sha256": "413e725cf513eb3e6e00e13eabc5495b9d045c09be55e80899b812e449732ad0",
+      "sharedAyahs": [
+        "39:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sGWyup45gNk",
+          "start": 1932.74,
+          "end": 2464.62
+        }
+      ],
+      "reviewNote": "تفسير الآية 54: وأنيبوا إلى ربكم وأسلموا له من قبل أن يأتكم العذاب"
+    },
+    "39:55": {
+      "file": "039-الزمر-youtube-v1/055.mp3",
+      "durationMs": 1367300,
+      "bytes": 16408076,
+      "sha256": "af285d8ee4137de51588001285429646a98d3850d708947f561c89c02ce86b49",
+      "sharedAyahs": [
+        "39:55",
+        "39:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sGWyup45gNk",
+          "start": 2464.62,
+          "end": 2656.08
+        },
+        {
+          "source": "avdclpkTHRk",
+          "start": 18.35,
+          "end": 1194.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 55-56: واتبعوا أحسن ما أنزل إليكم من ربكم * أن تقول نفس يا حسرتا على ما فرطت في جنب الله"
+    },
+    "39:56": {
+      "file": "039-الزمر-youtube-v1/055.mp3",
+      "durationMs": 1367300,
+      "bytes": 16408076,
+      "sha256": "af285d8ee4137de51588001285429646a98d3850d708947f561c89c02ce86b49",
+      "sharedAyahs": [
+        "39:55",
+        "39:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sGWyup45gNk",
+          "start": 2464.62,
+          "end": 2656.08
+        },
+        {
+          "source": "avdclpkTHRk",
+          "start": 18.35,
+          "end": 1194.16
+        }
+      ],
+      "reviewNote": "تفسير الآيات 55-56: واتبعوا أحسن ما أنزل إليكم من ربكم * أن تقول نفس يا حسرتا على ما فرطت في جنب الله"
+    },
+    "39:57": {
+      "file": "039-الزمر-youtube-v1/057.mp3",
+      "durationMs": 83810,
+      "bytes": 1006381,
+      "sha256": "8f2eaab8eaf0a2372f205191a622dfaa01ebd7a263d295d5557fd22d6ce2045e",
+      "sharedAyahs": [
+        "39:57",
+        "39:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "avdclpkTHRk",
+          "start": 1194.16,
+          "end": 1277.93
+        }
+      ],
+      "reviewNote": "تفسير الآيات 57-58: أو تقول لو أن الله هداني لكنت من المتقين * أو تقول حين ترى العذاب لو أن لي كرة"
+    },
+    "39:58": {
+      "file": "039-الزمر-youtube-v1/057.mp3",
+      "durationMs": 83810,
+      "bytes": 1006381,
+      "sha256": "8f2eaab8eaf0a2372f205191a622dfaa01ebd7a263d295d5557fd22d6ce2045e",
+      "sharedAyahs": [
+        "39:57",
+        "39:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "avdclpkTHRk",
+          "start": 1194.16,
+          "end": 1277.93
+        }
+      ],
+      "reviewNote": "تفسير الآيات 57-58: أو تقول لو أن الله هداني لكنت من المتقين * أو تقول حين ترى العذاب لو أن لي كرة"
+    },
+    "39:59": {
+      "file": "039-الزمر-youtube-v1/059.mp3",
+      "durationMs": 691560,
+      "bytes": 8299405,
+      "sha256": "10ab047725497a79b0a4573810f677369cfaea12e25fe8ab8dbcc1a143661767",
+      "sharedAyahs": [
+        "39:59",
+        "39:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "avdclpkTHRk",
+          "start": 1277.93,
+          "end": 1969.47
+        }
+      ],
+      "reviewNote": "تفسير الآيات 59-60: بلى قد جاءتك آياتي فكذبت بها واستكبرت * ويوم القيامة ترى الذين كذبوا على الله وجوههم مسودة"
+    },
+    "39:60": {
+      "file": "039-الزمر-youtube-v1/059.mp3",
+      "durationMs": 691560,
+      "bytes": 8299405,
+      "sha256": "10ab047725497a79b0a4573810f677369cfaea12e25fe8ab8dbcc1a143661767",
+      "sharedAyahs": [
+        "39:59",
+        "39:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "avdclpkTHRk",
+          "start": 1277.93,
+          "end": 1969.47
+        }
+      ],
+      "reviewNote": "تفسير الآيات 59-60: بلى قد جاءتك آياتي فكذبت بها واستكبرت * ويوم القيامة ترى الذين كذبوا على الله وجوههم مسودة"
+    },
+    "39:61": {
+      "file": "039-الزمر-youtube-v1/061.mp3",
+      "durationMs": 2211140,
+      "bytes": 26534156,
+      "sha256": "1fc6324fec9f464729c5c67d3f4259d40b33139a0db4dbecc5335af2dee5cc69",
+      "sharedAyahs": [
+        "39:61",
+        "39:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "avdclpkTHRk",
+          "start": 1969.47,
+          "end": 2469.76
+        },
+        {
+          "source": "swUNqXywxs8",
+          "start": 33.29,
+          "end": 1744.12
+        }
+      ],
+      "reviewNote": "تفسير الآيات 61-62: وينجي الله الذين اتقوا بمفازتهم لا يمسهم السوء * الله خالق كل شيء وهو على كل شيء وكيل"
+    },
+    "39:62": {
+      "file": "039-الزمر-youtube-v1/061.mp3",
+      "durationMs": 2211140,
+      "bytes": 26534156,
+      "sha256": "1fc6324fec9f464729c5c67d3f4259d40b33139a0db4dbecc5335af2dee5cc69",
+      "sharedAyahs": [
+        "39:61",
+        "39:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "avdclpkTHRk",
+          "start": 1969.47,
+          "end": 2469.76
+        },
+        {
+          "source": "swUNqXywxs8",
+          "start": 33.29,
+          "end": 1744.12
+        }
+      ],
+      "reviewNote": "تفسير الآيات 61-62: وينجي الله الذين اتقوا بمفازتهم لا يمسهم السوء * الله خالق كل شيء وهو على كل شيء وكيل"
+    },
+    "39:63": {
+      "file": "039-الزمر-youtube-v1/063.mp3",
+      "durationMs": 210860,
+      "bytes": 2531048,
+      "sha256": "6ee9286b18db2a7b5a9df99549ae08e6c4145cbc07068052f1f1cbe121bf2589",
+      "sharedAyahs": [
+        "39:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "swUNqXywxs8",
+          "start": 1744.12,
+          "end": 1954.95
+        }
+      ],
+      "reviewNote": "تفسير الآية 63: له مقاليد السماوات والأرض والذين كفروا بآيات الله أولئك هم الخاسرون"
+    },
+    "39:64": {
+      "file": "039-الزمر-youtube-v1/064.mp3",
+      "durationMs": 206690,
+      "bytes": 2480941,
+      "sha256": "753c1902be4a8038764a69c598e9efa3dc1c6183f52c3c2208b2d8a77f18e597",
+      "sharedAyahs": [
+        "39:64",
+        "39:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "swUNqXywxs8",
+          "start": 1954.95,
+          "end": 2161.63
+        }
+      ],
+      "reviewNote": "تفسير الآيات 64-65: قل أفغير الله تأمروني أعبد أيها الجاهلون * ولقد أوحي إليك وإلى الذين من قبلك لئن أشركت ليحبطن عملك"
+    },
+    "39:65": {
+      "file": "039-الزمر-youtube-v1/064.mp3",
+      "durationMs": 206690,
+      "bytes": 2480941,
+      "sha256": "753c1902be4a8038764a69c598e9efa3dc1c6183f52c3c2208b2d8a77f18e597",
+      "sharedAyahs": [
+        "39:64",
+        "39:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "swUNqXywxs8",
+          "start": 1954.95,
+          "end": 2161.63
+        }
+      ],
+      "reviewNote": "تفسير الآيات 64-65: قل أفغير الله تأمروني أعبد أيها الجاهلون * ولقد أوحي إليك وإلى الذين من قبلك لئن أشركت ليحبطن عملك"
+    },
+    "39:66": {
+      "file": "039-الزمر-youtube-v1/066.mp3",
+      "durationMs": 108100,
+      "bytes": 1297832,
+      "sha256": "b6246265a41fb96dc55af872ec498d61d7e639c892acd957c9ecbe90b61d36d7",
+      "sharedAyahs": [
+        "39:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "swUNqXywxs8",
+          "start": 2161.63,
+          "end": 2269.7
+        }
+      ],
+      "reviewNote": "تفسير الآية 66: بل الله فاعبد وكن من الشاكرين"
+    },
+    "39:67": {
+      "file": "039-الزمر-youtube-v1/067.mp3",
+      "durationMs": 253030,
+      "bytes": 3037064,
+      "sha256": "d70e8a86d6acaaff7187227f47442a306bcad54df524a99aedfc9465178a4d26",
+      "sharedAyahs": [
+        "39:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "swUNqXywxs8",
+          "start": 2269.7,
+          "end": 2522.69
+        }
+      ],
+      "reviewNote": "تفسير الآية 67: وما قدروا الله حق قدره والأرض جميعا قبضته يوم القيامة والسماوات مطويات بيمينه"
+    },
+    "39:68": {
+      "file": "039-الزمر-youtube-v1/068.mp3",
+      "durationMs": 744700,
+      "bytes": 8936775,
+      "sha256": "2126cd8cefa870a98e9a62e31877c4c252845be6426fcac65e6c012dba6aafd6",
+      "sharedAyahs": [
+        "39:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "swUNqXywxs8",
+          "start": 2522.69,
+          "end": 2625.77
+        },
+        {
+          "source": "-iqWOOR5E50",
+          "start": 21.87,
+          "end": 663.45
+        }
+      ],
+      "reviewNote": "تفسير الآية 68: ونفخ في الصور فصعق من في السماوات ومن في الأرض"
+    },
+    "39:69": {
+      "file": "039-الزمر-youtube-v1/069.mp3",
+      "durationMs": 1008530,
+      "bytes": 12103016,
+      "sha256": "5ea5fddec6c8c92b71addbaba69052faee109eaed69fbf64b4d82a817f55c22a",
+      "sharedAyahs": [
+        "39:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-iqWOOR5E50",
+          "start": 663.45,
+          "end": 1671.94
+        }
+      ],
+      "reviewNote": "تفسير الآية 69: وأشرقت الأرض بنور ربها ووضع الكتاب وجيء بالنبيين والشهداء"
+    },
+    "39:70": {
+      "file": "039-الزمر-youtube-v1/070.mp3",
+      "durationMs": 445390,
+      "bytes": 5345384,
+      "sha256": "212199c7c5bca987ab080a372ded24b70a3ec35248d0b368376376fb65e9db89",
+      "sharedAyahs": [
+        "39:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-iqWOOR5E50",
+          "start": 1671.94,
+          "end": 2117.32
+        }
+      ],
+      "reviewNote": "تفسير الآية 70: ووفيت كل نفس ما عملت وهو أعلم بما يفعلون"
+    },
+    "39:71": {
+      "file": "039-الزمر-youtube-v1/071.mp3",
+      "durationMs": 435380,
+      "bytes": 5225288,
+      "sha256": "e0cc04276ea3cd0e702e80d480187de0de82f537881c23c2dab0a9c27f1ce137",
+      "sharedAyahs": [
+        "39:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-iqWOOR5E50",
+          "start": 2117.32,
+          "end": 2552.68
+        }
+      ],
+      "reviewNote": "تفسير الآية 71: وسيق الذين كفروا إلى جهنم زمرا حتى إذا جاءوها فتحت أبوابها"
+    },
+    "39:72": {
+      "file": "039-الزمر-youtube-v1/072.mp3",
+      "durationMs": 184970,
+      "bytes": 2220296,
+      "sha256": "27c467a32c4a619d03a3f13db52a73c36cbdadc4de63f8364ba463803b240a57",
+      "sharedAyahs": [
+        "39:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-iqWOOR5E50",
+          "start": 2552.68,
+          "end": 2737.63
+        }
+      ],
+      "reviewNote": "تفسير الآية 72: قيل ادخلوا أبواب جهنم خالدين فيها فبئس مثوى المتكبرين"
+    },
+    "39:73": {
+      "file": "039-الزمر-youtube-v1/073.mp3",
+      "durationMs": 102380,
+      "bytes": 1229288,
+      "sha256": "f3906ac43eee89a3707fcc40c1725c9afe580bed96381fb9ee1d80406be9909d",
+      "sharedAyahs": [
+        "39:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "huQl2HmzxLo",
+          "start": 20.53,
+          "end": 122.89
+        }
+      ],
+      "reviewNote": "تفسير الآية 73: وسيق الذين اتقوا ربهم إلى الجنة زمرا حتى إذا جاءوها وفتحت أبوابها"
+    },
+    "39:74": {
+      "file": "039-الزمر-youtube-v1/074.mp3",
+      "durationMs": 565750,
+      "bytes": 6789704,
+      "sha256": "25cc63f293f3fed081cf5390df61874b19b5573bf5e674327e872b82a873b400",
+      "sharedAyahs": [
+        "39:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "huQl2HmzxLo",
+          "start": 122.89,
+          "end": 688.63
+        }
+      ],
+      "reviewNote": "تفسير الآية 74: وقالوا الحمد لله الذي صدقنا وعده وأورثنا الأرض نتبوأ من الجنة حيث نشاء"
+    },
+    "39:75": {
+      "file": "039-الزمر-youtube-v1/075.mp3",
+      "durationMs": 117260,
+      "bytes": 1407848,
+      "sha256": "b4f300d09ebf8ec7d50cecec4623b08964016203a7f2fc5f8d5c9527d8cb4ce6",
+      "sharedAyahs": [
+        "39:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "huQl2HmzxLo",
+          "start": 688.63,
+          "end": 805.85
+        }
+      ],
+      "reviewNote": "تفسير الآية 75: وترى الملائكة حافين من حول العرش يسبحون بحمد ربهم"
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL19327255173C4FDF",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "zumar-sincerity-pure-worship",
+      "title": "حقيقة العبادة وتجريد الإخلاص لله وحده",
+      "file": "039-الزمر-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 711340
+    },
+    {
+      "id": "zumar-embryology-three-darknesses",
+      "title": "أطوار خلق الإنسان في بطون الأمهات وإعجاز الظلمات الثلاث",
+      "file": "039-الزمر-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 1330460
+    },
+    {
+      "id": "zumar-sleep-death-and-souls",
+      "title": "حقيقة توفي الأنفس بين النوم والموت الإعجازي",
+      "file": "039-الزمر-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 809040
+    },
+    {
+      "id": "zumar-divine-mercy-and-repentance",
+      "title": "أرجى آيات القرآن: سعة التوبة ونداء الرحمة للمسرفين",
+      "file": "039-الزمر-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 688310
+    },
+    {
+      "id": "zumar-divine-majesty-universe-folded",
+      "title": "عظمة الخالق وطي السماوات وقبض الأرض يوم القيامة",
+      "file": "039-الزمر-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 103079
+    },
+    {
+      "id": "zumar-paradise-and-hell-gates-secret",
+      "title": "سر البلاغة القرآنية في سوق أهل الجنة والنار وفروق فتح الأبواب",
+      "file": "039-الزمر-youtube-v1/073.mp3",
+      "startMs": 0,
+      "endMs": 102360
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "OthAp9lfd9o",
+      "e3uufPpClII",
+      "Xe4jqggjdFw",
+      "441dW-IZDhg",
+      "J-JmGzr5Y3E",
+      "nLZdZOzFe6Q",
+      "sHZmws5zOE4",
+      "q9HxQ9t8Xlw",
+      "ai3ZldX5a2M",
+      "uJ1yVqb7sU4",
+      "40LcaF0tvhU",
+      "ScdL0cwmyfU",
+      "Ke6HOdCIq-c",
+      "mKO4WhCQy3s",
+      "sGWyup45gNk",
+      "avdclpkTHRk",
+      "swUNqXywxs8",
+      "-iqWOOR5E50",
+      "huQl2HmzxLo"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "039-الزمر-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1068720,
+        "durationMs": 1068720,
+        "recordingDurationMs": 1068720,
+        "bytes": 12825318,
+        "sha256": "f5719f6e0689d4e2a81e614a72fb1d6bdb635799ec0f1e7badd8e1630dd7628b",
+        "sharedAyahs": [
+          "39:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OthAp9lfd9o",
+            "start": 28.27,
+            "end": 1096.95
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 662579,
+        "durationMs": 662579,
+        "recordingDurationMs": 711340,
+        "bytes": 8536453,
+        "sha256": "30121d0941c9057d483e2df351e1a8a5b33d2fcec3c1355b6452a5786c2a099d",
+        "sharedAyahs": [
+          "39:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OthAp9lfd9o",
+            "start": 1096.95,
+            "end": 1759.63
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/002.mp3",
+        "startMs": 662579,
+        "endMs": 711340,
+        "durationMs": 48761,
+        "recordingDurationMs": 711340,
+        "bytes": 8536453,
+        "sha256": "30121d0941c9057d483e2df351e1a8a5b33d2fcec3c1355b6452a5786c2a099d",
+        "sharedAyahs": [
+          "39:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "e3uufPpClII",
+            "start": 0.94,
+            "end": 49.6
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 436560,
+        "durationMs": 436560,
+        "recordingDurationMs": 436560,
+        "bytes": 5239398,
+        "sha256": "819769d14ca9e62b277fd4d248be40f53d5f80258eaff646a8687e9ad768afa0",
+        "sharedAyahs": [
+          "39:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "e3uufPpClII",
+            "start": 49.6,
+            "end": 486.14
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 320020,
+        "durationMs": 320020,
+        "recordingDurationMs": 320020,
+        "bytes": 3840870,
+        "sha256": "43b14ef4cc51c193c9f329e9c955661fb4856829f01b6f23dfd003e96034d638",
+        "sharedAyahs": [
+          "39:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "e3uufPpClII",
+            "start": 486.14,
+            "end": 806.13
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 778780,
+        "durationMs": 778780,
+        "recordingDurationMs": 778780,
+        "bytes": 9345990,
+        "sha256": "69d4a673c8ba1b9676c9e66a9e1a9255f5ddec959cef30d0329c8963412b365c",
+        "sharedAyahs": [
+          "39:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "e3uufPpClII",
+            "start": 806.13,
+            "end": 1584.88
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 1330490,
+        "durationMs": 1330490,
+        "recordingDurationMs": 1330490,
+        "bytes": 15966534,
+        "sha256": "dca70de148a80256567d6d4f59a0907c36759e206cf936814bc0ee7b9581cee9",
+        "sharedAyahs": [
+          "39:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xe4jqggjdFw",
+            "start": 7.6,
+            "end": 1338.06
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 339083,
+        "durationMs": 339083,
+        "recordingDurationMs": 675600,
+        "bytes": 8107621,
+        "sha256": "a0c4199b7e24e39970312780a26f8a3782be64504ec83f3d1c17ad129852e141",
+        "sharedAyahs": [
+          "39:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xe4jqggjdFw",
+            "start": 1338.06,
+            "end": 1677.24
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/007.mp3",
+        "startMs": 339083,
+        "endMs": 675600,
+        "durationMs": 336517,
+        "recordingDurationMs": 675600,
+        "bytes": 8107621,
+        "sha256": "a0c4199b7e24e39970312780a26f8a3782be64504ec83f3d1c17ad129852e141",
+        "sharedAyahs": [
+          "39:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "441dW-IZDhg",
+            "start": 5.26,
+            "end": 341.67
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 516790,
+        "durationMs": 516790,
+        "recordingDurationMs": 516790,
+        "bytes": 6202182,
+        "sha256": "558a9f361fe9fcb1c8b92a5a76c241516fec4309f1ed9eaf463eb22496cbff0f",
+        "sharedAyahs": [
+          "39:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "441dW-IZDhg",
+            "start": 341.67,
+            "end": 858.44
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 816070,
+        "durationMs": 816070,
+        "recordingDurationMs": 816070,
+        "bytes": 9793542,
+        "sha256": "fd83c9b0e4c34a7543b03b7423750f89060d86df8ec3964a4c1a8e6dcf585a48",
+        "sharedAyahs": [
+          "39:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "441dW-IZDhg",
+            "start": 858.44,
+            "end": 1674.53
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 568580,
+        "durationMs": 568580,
+        "recordingDurationMs": 568580,
+        "bytes": 6823688,
+        "sha256": "8462d8fcd846ab57dac7a7db8bb02feec0438a7532aaf75bba073ec4e6701e35",
+        "sharedAyahs": [
+          "39:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J-JmGzr5Y3E",
+            "start": 7.15,
+            "end": 575.7
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 373320,
+        "durationMs": 373320,
+        "recordingDurationMs": 373320,
+        "bytes": 4480525,
+        "sha256": "313207477bedc92dcb4de1e1c478392b871c1a18209eaf53647b710000d40e1c",
+        "sharedAyahs": [
+          "39:11",
+          "39:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J-JmGzr5Y3E",
+            "start": 575.7,
+            "end": 949.0
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 26110,
+        "durationMs": 26110,
+        "recordingDurationMs": 26110,
+        "bytes": 314024,
+        "sha256": "a803bbd1a91f1d8fe966d7b586c62c46f6d67717b6369f3311da6fbd93cc5fa0",
+        "sharedAyahs": [
+          "39:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J-JmGzr5Y3E",
+            "start": 949.0,
+            "end": 975.08
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 72430,
+        "durationMs": 72430,
+        "recordingDurationMs": 72430,
+        "bytes": 869864,
+        "sha256": "6aae908649b5fd3e1c4dae6e799f8d0d395e7a9a7743f1634c8d49ea072cfbf2",
+        "sharedAyahs": [
+          "39:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J-JmGzr5Y3E",
+            "start": 975.08,
+            "end": 1047.5
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 141000,
+        "durationMs": 141000,
+        "recordingDurationMs": 141000,
+        "bytes": 1692680,
+        "sha256": "f3904a8a5bae41671ff39b5bc0b64569c11ddd4a09d5b55b8a1a01198ab38ecf",
+        "sharedAyahs": [
+          "39:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J-JmGzr5Y3E",
+            "start": 1047.5,
+            "end": 1188.47
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 285340,
+        "durationMs": 285340,
+        "recordingDurationMs": 285340,
+        "bytes": 3424712,
+        "sha256": "6d1f5e76d96f8b0a24b46fbbc48bd2a147792c394d5b4c3b0c58a10803683a4d",
+        "sharedAyahs": [
+          "39:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "J-JmGzr5Y3E",
+            "start": 1188.47,
+            "end": 1473.78
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 1334060,
+        "durationMs": 1334060,
+        "recordingDurationMs": 1334060,
+        "bytes": 16009453,
+        "sha256": "cb8ea38fad09931cf2e1eb3abdf71e6e5ebeb3ace1377882f2af66591a2e6c39",
+        "sharedAyahs": [
+          "39:17",
+          "39:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nLZdZOzFe6Q",
+            "start": 10.29,
+            "end": 1344.32
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 243670,
+        "durationMs": 243670,
+        "recordingDurationMs": 243670,
+        "bytes": 2924744,
+        "sha256": "c67347fdf0e7cc5bdb356678a3860aa4f67bdf5e7ea561f618ae4cc297a1f7cb",
+        "sharedAyahs": [
+          "39:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nLZdZOzFe6Q",
+            "start": 1344.32,
+            "end": 1587.98
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 152701,
+        "durationMs": 152701,
+        "recordingDurationMs": 181990,
+        "bytes": 2184327,
+        "sha256": "830b805319b45db335464291ab37417a1464a5490dfb6f7b2c82ae75d544591a",
+        "sharedAyahs": [
+          "39:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nLZdZOzFe6Q",
+            "start": 1587.98,
+            "end": 1740.65
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/020.mp3",
+        "startMs": 152701,
+        "endMs": 181990,
+        "durationMs": 29289,
+        "recordingDurationMs": 181990,
+        "bytes": 2184327,
+        "sha256": "830b805319b45db335464291ab37417a1464a5490dfb6f7b2c82ae75d544591a",
+        "sharedAyahs": [
+          "39:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sHZmws5zOE4",
+            "start": 1.74,
+            "end": 30.99
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 1662890,
+        "durationMs": 1662890,
+        "recordingDurationMs": 1662890,
+        "bytes": 19955336,
+        "sha256": "934af55a6e2f2746cc760796275b74221162147eed8cee48b812abf239cfea5f",
+        "sharedAyahs": [
+          "39:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sHZmws5zOE4",
+            "start": 30.99,
+            "end": 1693.85
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 834000,
+        "durationMs": 834000,
+        "recordingDurationMs": 834000,
+        "bytes": 10008680,
+        "sha256": "e793ef53f405db6145ba35b06678c336fb3924b8d44237585a95d0848912df06",
+        "sharedAyahs": [
+          "39:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q9HxQ9t8Xlw",
+            "start": 0.69,
+            "end": 834.66
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 590300,
+        "durationMs": 590300,
+        "recordingDurationMs": 590300,
+        "bytes": 7084328,
+        "sha256": "d1e038ce7d1a3a50e2a4bfa7818a5e15d6861c1c8aa9758d9b0f0b1fb7220ba9",
+        "sharedAyahs": [
+          "39:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q9HxQ9t8Xlw",
+            "start": 834.66,
+            "end": 1424.94
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 252757,
+        "durationMs": 252757,
+        "recordingDurationMs": 1332190,
+        "bytes": 15986727,
+        "sha256": "a71b071f29ed94838a87cb111bdd84f2b2946c41dee2e49700f8c9e8f8774f97",
+        "sharedAyahs": [
+          "39:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q9HxQ9t8Xlw",
+            "start": 1424.94,
+            "end": 1677.68
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/024.mp3",
+        "startMs": 252757,
+        "endMs": 1332190,
+        "durationMs": 1079433,
+        "recordingDurationMs": 1332190,
+        "bytes": 15986727,
+        "sha256": "a71b071f29ed94838a87cb111bdd84f2b2946c41dee2e49700f8c9e8f8774f97",
+        "sharedAyahs": [
+          "39:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ai3ZldX5a2M",
+            "start": 3.06,
+            "end": 1082.46
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 285050,
+        "durationMs": 285050,
+        "recordingDurationMs": 285050,
+        "bytes": 3421256,
+        "sha256": "60ca5a222c8adacf8d6317c928504b280517bee5e300ccf3839432da8bdd9680",
+        "sharedAyahs": [
+          "39:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ai3ZldX5a2M",
+            "start": 1082.46,
+            "end": 1367.48
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 29950,
+        "durationMs": 29950,
+        "recordingDurationMs": 29950,
+        "bytes": 360104,
+        "sha256": "eddf323097a0cd00e6116bbf32f69b94eb0388a9a1a0b217ba03264cc1b4681b",
+        "sharedAyahs": [
+          "39:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ai3ZldX5a2M",
+            "start": 1367.48,
+            "end": 1397.42
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 198133,
+        "durationMs": 198133,
+        "recordingDurationMs": 834980,
+        "bytes": 10020231,
+        "sha256": "d1d16bc33dc8b514c01a52a8390bd1d304d300fead555c7c4170ffca32c672a5",
+        "sharedAyahs": [
+          "39:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ai3ZldX5a2M",
+            "start": 1397.42,
+            "end": 1595.54
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/027.mp3",
+        "startMs": 198133,
+        "endMs": 834980,
+        "durationMs": 636847,
+        "recordingDurationMs": 834980,
+        "bytes": 10020231,
+        "sha256": "d1d16bc33dc8b514c01a52a8390bd1d304d300fead555c7c4170ffca32c672a5",
+        "sharedAyahs": [
+          "39:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uJ1yVqb7sU4",
+            "start": 0.34,
+            "end": 637.17
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 516410,
+        "durationMs": 516410,
+        "recordingDurationMs": 516410,
+        "bytes": 6197581,
+        "sha256": "39cb55a7d36a69ef6b274f2e02f597630411b218cb5bd40a7f6fd91d1b49b0db",
+        "sharedAyahs": [
+          "39:28",
+          "39:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uJ1yVqb7sU4",
+            "start": 637.17,
+            "end": 1153.54
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 514820,
+        "durationMs": 514820,
+        "recordingDurationMs": 514820,
+        "bytes": 6178568,
+        "sha256": "38c4323b69e0bac78c172c52c893ad59e7a088f51af93f5f0a8a5110131ae921",
+        "sharedAyahs": [
+          "39:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uJ1yVqb7sU4",
+            "start": 1153.54,
+            "end": 1668.35
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 48430,
+        "durationMs": 48430,
+        "recordingDurationMs": 48430,
+        "bytes": 581864,
+        "sha256": "9de8c63b689210db4ea1da13a4045284c859642cb3f10278359dfeec715173dc",
+        "sharedAyahs": [
+          "39:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uJ1yVqb7sU4",
+            "start": 1668.35,
+            "end": 1716.76
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 802560,
+        "durationMs": 802560,
+        "recordingDurationMs": 802560,
+        "bytes": 9631405,
+        "sha256": "de1f1e9e140f05d64c8290ae8e9bb9d621949ed4963fa7ef728dc9323c26da7c",
+        "sharedAyahs": [
+          "39:32",
+          "39:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "40LcaF0tvhU",
+            "start": 0.0,
+            "end": 802.52
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 717980,
+        "durationMs": 717980,
+        "recordingDurationMs": 717980,
+        "bytes": 8616488,
+        "sha256": "3a2933382b3c5cc6b1f96c8913d033366ed7d9ab7c3b4139540d598610d584bf",
+        "sharedAyahs": [
+          "39:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "40LcaF0tvhU",
+            "start": 802.52,
+            "end": 1520.49
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 214970,
+        "durationMs": 214970,
+        "recordingDurationMs": 214970,
+        "bytes": 2580296,
+        "sha256": "48d3cfa47a81c4beb50d7a93f3b69adad18e4ba19f558edff3ef5963d6df399a",
+        "sharedAyahs": [
+          "39:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "40LcaF0tvhU",
+            "start": 1520.49,
+            "end": 1735.42
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 214045,
+        "durationMs": 214045,
+        "recordingDurationMs": 1045340,
+        "bytes": 12544551,
+        "sha256": "0dc3c8f9cfd5c5ac6d9ffdb011832b998d84330a7fd408290e66b97037d408de",
+        "sharedAyahs": [
+          "39:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "40LcaF0tvhU",
+            "start": 1735.42,
+            "end": 1949.46
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 207155,
+        "durationMs": 207155,
+        "recordingDurationMs": 418130,
+        "bytes": 5017959,
+        "sha256": "20cd1c46606c075ec3e4898551b603869843eb32ab3b6f557c221c23a350a983",
+        "sharedAyahs": [
+          "39:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "40LcaF0tvhU",
+            "start": 1949.46,
+            "end": 2156.71
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/036.mp3",
+        "startMs": 214045,
+        "endMs": 1045340,
+        "durationMs": 831295,
+        "recordingDurationMs": 1045340,
+        "bytes": 12544551,
+        "sha256": "0dc3c8f9cfd5c5ac6d9ffdb011832b998d84330a7fd408290e66b97037d408de",
+        "sharedAyahs": [
+          "39:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ScdL0cwmyfU",
+            "start": 24.41,
+            "end": 855.69
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/037.mp3",
+        "startMs": 207155,
+        "endMs": 418130,
+        "durationMs": 210975,
+        "recordingDurationMs": 418130,
+        "bytes": 5017959,
+        "sha256": "20cd1c46606c075ec3e4898551b603869843eb32ab3b6f557c221c23a350a983",
+        "sharedAyahs": [
+          "39:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ScdL0cwmyfU",
+            "start": 855.69,
+            "end": 1066.55
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 1429130,
+        "durationMs": 1429130,
+        "recordingDurationMs": 1429130,
+        "bytes": 17150216,
+        "sha256": "6fb94ca58d59aa91adb064e514c5072bb4f631ac1a4f3ceb7ff0e724139dc70f",
+        "sharedAyahs": [
+          "39:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ScdL0cwmyfU",
+            "start": 1066.55,
+            "end": 2495.65
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 115403,
+        "durationMs": 115403,
+        "recordingDurationMs": 436420,
+        "bytes": 5237420,
+        "sha256": "1f8fdf7f5b86430615f559e4f963759a068b28d47c9b8871ddf433bceaa52027",
+        "sharedAyahs": [
+          "39:39",
+          "39:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ScdL0cwmyfU",
+            "start": 2495.65,
+            "end": 2611.15
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/039.mp3",
+        "startMs": 115403,
+        "endMs": 436420,
+        "durationMs": 321017,
+        "recordingDurationMs": 436420,
+        "bytes": 5237420,
+        "sha256": "1f8fdf7f5b86430615f559e4f963759a068b28d47c9b8871ddf433bceaa52027",
+        "sharedAyahs": [
+          "39:39",
+          "39:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ke6HOdCIq-c",
+            "start": 2.48,
+            "end": 323.4
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 679820,
+        "durationMs": 679820,
+        "recordingDurationMs": 679820,
+        "bytes": 8158568,
+        "sha256": "7e248648c72c34d52893f29f96b4a95dc7c8f51bf412de0212536442bd423379",
+        "sharedAyahs": [
+          "39:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ke6HOdCIq-c",
+            "start": 323.4,
+            "end": 1003.2
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 809060,
+        "durationMs": 809060,
+        "recordingDurationMs": 809060,
+        "bytes": 9709448,
+        "sha256": "e5bbe8cf0f0d1b9c90e5cb717f6b91ec725968e907fb98258c9c334d7e90eac1",
+        "sharedAyahs": [
+          "39:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ke6HOdCIq-c",
+            "start": 1003.2,
+            "end": 1812.24
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 647860,
+        "durationMs": 647860,
+        "recordingDurationMs": 647860,
+        "bytes": 7774952,
+        "sha256": "da08ccd85224dd49544e1a21502b167c7fc672cc72fe903208005e5074ae4f66",
+        "sharedAyahs": [
+          "39:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ke6HOdCIq-c",
+            "start": 1812.24,
+            "end": 2460.05
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 168493,
+        "durationMs": 168493,
+        "recordingDurationMs": 899620,
+        "bytes": 10795815,
+        "sha256": "f96871caa66b1157d0bcffa5cbf6e9ab7b27f968f57e1f842b04fca1cba9f242",
+        "sharedAyahs": [
+          "39:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ke6HOdCIq-c",
+            "start": 2460.05,
+            "end": 2628.54
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/044.mp3",
+        "startMs": 168493,
+        "endMs": 899620,
+        "durationMs": 731127,
+        "recordingDurationMs": 899620,
+        "bytes": 10795815,
+        "sha256": "f96871caa66b1157d0bcffa5cbf6e9ab7b27f968f57e1f842b04fca1cba9f242",
+        "sharedAyahs": [
+          "39:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mKO4WhCQy3s",
+            "start": 28.23,
+            "end": 759.33
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 75460,
+        "durationMs": 75460,
+        "recordingDurationMs": 75460,
+        "bytes": 906152,
+        "sha256": "79cc853f31da02e1c1ef21e5e6e17cc7ef0c0fe9a9848f33a95ff526d2a5faff",
+        "sharedAyahs": [
+          "39:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mKO4WhCQy3s",
+            "start": 759.33,
+            "end": 834.76
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 844180,
+        "durationMs": 844180,
+        "recordingDurationMs": 844180,
+        "bytes": 10130792,
+        "sha256": "e7696055373503e298e973085fa3ad709fa79d99e71cf31442208451610bcd7b",
+        "sharedAyahs": [
+          "39:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mKO4WhCQy3s",
+            "start": 834.76,
+            "end": 1678.9
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 226870,
+        "durationMs": 226870,
+        "recordingDurationMs": 226870,
+        "bytes": 2723144,
+        "sha256": "3c584d9e2444e936b2fe457baf30a05cd8bc2b31f2ae8f40bbc4869221b891a8",
+        "sharedAyahs": [
+          "39:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mKO4WhCQy3s",
+            "start": 1678.9,
+            "end": 1905.76
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 471500,
+        "durationMs": 471500,
+        "recordingDurationMs": 471500,
+        "bytes": 5658728,
+        "sha256": "18f84b02a659566bda2249eb94d88bec84375034bcef31bceb23cfed48bd1c49",
+        "sharedAyahs": [
+          "39:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mKO4WhCQy3s",
+            "start": 1905.76,
+            "end": 2377.23
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 303397,
+        "durationMs": 303397,
+        "recordingDurationMs": 368860,
+        "bytes": 4426700,
+        "sha256": "5908747aa83d1d5c9b7c957304abb3668debd1b475eb0fa8aca8f87e6a119cbb",
+        "sharedAyahs": [
+          "39:49",
+          "39:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "mKO4WhCQy3s",
+            "start": 2377.23,
+            "end": 2680.63
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/049.mp3",
+        "startMs": 303397,
+        "endMs": 368860,
+        "durationMs": 65463,
+        "recordingDurationMs": 368860,
+        "bytes": 4426700,
+        "sha256": "5908747aa83d1d5c9b7c957304abb3668debd1b475eb0fa8aca8f87e6a119cbb",
+        "sharedAyahs": [
+          "39:49",
+          "39:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sGWyup45gNk",
+            "start": 24.8,
+            "end": 90.24
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 1154230,
+        "durationMs": 1154230,
+        "recordingDurationMs": 1154230,
+        "bytes": 13851464,
+        "sha256": "e4001fb90c098f54d407704e0ac673ee5a37497632c60471d2668f4bb488c685",
+        "sharedAyahs": [
+          "39:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sGWyup45gNk",
+            "start": 90.24,
+            "end": 1244.43
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 688320,
+        "durationMs": 688320,
+        "recordingDurationMs": 688320,
+        "bytes": 8260525,
+        "sha256": "5af79e8a91586002a7ae3e44903e058f60d90fbc1f49e4b45864192570e0452b",
+        "sharedAyahs": [
+          "39:52",
+          "39:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sGWyup45gNk",
+            "start": 1244.43,
+            "end": 1932.74
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 531910,
+        "durationMs": 531910,
+        "recordingDurationMs": 531910,
+        "bytes": 6383624,
+        "sha256": "413e725cf513eb3e6e00e13eabc5495b9d045c09be55e80899b812e449732ad0",
+        "sharedAyahs": [
+          "39:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sGWyup45gNk",
+            "start": 1932.74,
+            "end": 2464.62
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 191461,
+        "durationMs": 191461,
+        "recordingDurationMs": 1367300,
+        "bytes": 16408076,
+        "sha256": "af285d8ee4137de51588001285429646a98d3850d708947f561c89c02ce86b49",
+        "sharedAyahs": [
+          "39:55",
+          "39:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sGWyup45gNk",
+            "start": 2464.62,
+            "end": 2656.08
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/055.mp3",
+        "startMs": 191461,
+        "endMs": 1367300,
+        "durationMs": 1175839,
+        "recordingDurationMs": 1367300,
+        "bytes": 16408076,
+        "sha256": "af285d8ee4137de51588001285429646a98d3850d708947f561c89c02ce86b49",
+        "sharedAyahs": [
+          "39:55",
+          "39:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "avdclpkTHRk",
+            "start": 18.35,
+            "end": 1194.16
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 83810,
+        "durationMs": 83810,
+        "recordingDurationMs": 83810,
+        "bytes": 1006381,
+        "sha256": "8f2eaab8eaf0a2372f205191a622dfaa01ebd7a263d295d5557fd22d6ce2045e",
+        "sharedAyahs": [
+          "39:57",
+          "39:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "avdclpkTHRk",
+            "start": 1194.16,
+            "end": 1277.93
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 691560,
+        "durationMs": 691560,
+        "recordingDurationMs": 691560,
+        "bytes": 8299405,
+        "sha256": "10ab047725497a79b0a4573810f677369cfaea12e25fe8ab8dbcc1a143661767",
+        "sharedAyahs": [
+          "39:59",
+          "39:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "avdclpkTHRk",
+            "start": 1277.93,
+            "end": 1969.47
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 500293,
+        "durationMs": 500293,
+        "recordingDurationMs": 2211140,
+        "bytes": 26534156,
+        "sha256": "1fc6324fec9f464729c5c67d3f4259d40b33139a0db4dbecc5335af2dee5cc69",
+        "sharedAyahs": [
+          "39:61",
+          "39:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "avdclpkTHRk",
+            "start": 1969.47,
+            "end": 2469.76
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/061.mp3",
+        "startMs": 500293,
+        "endMs": 2211140,
+        "durationMs": 1710847,
+        "recordingDurationMs": 2211140,
+        "bytes": 26534156,
+        "sha256": "1fc6324fec9f464729c5c67d3f4259d40b33139a0db4dbecc5335af2dee5cc69",
+        "sharedAyahs": [
+          "39:61",
+          "39:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "swUNqXywxs8",
+            "start": 33.29,
+            "end": 1744.12
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 210860,
+        "durationMs": 210860,
+        "recordingDurationMs": 210860,
+        "bytes": 2531048,
+        "sha256": "6ee9286b18db2a7b5a9df99549ae08e6c4145cbc07068052f1f1cbe121bf2589",
+        "sharedAyahs": [
+          "39:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "swUNqXywxs8",
+            "start": 1744.12,
+            "end": 1954.95
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 206690,
+        "durationMs": 206690,
+        "recordingDurationMs": 206690,
+        "bytes": 2480941,
+        "sha256": "753c1902be4a8038764a69c598e9efa3dc1c6183f52c3c2208b2d8a77f18e597",
+        "sharedAyahs": [
+          "39:64",
+          "39:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "swUNqXywxs8",
+            "start": 1954.95,
+            "end": 2161.63
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 108100,
+        "durationMs": 108100,
+        "recordingDurationMs": 108100,
+        "bytes": 1297832,
+        "sha256": "b6246265a41fb96dc55af872ec498d61d7e639c892acd957c9ecbe90b61d36d7",
+        "sharedAyahs": [
+          "39:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "swUNqXywxs8",
+            "start": 2161.63,
+            "end": 2269.7
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 253030,
+        "durationMs": 253030,
+        "recordingDurationMs": 253030,
+        "bytes": 3037064,
+        "sha256": "d70e8a86d6acaaff7187227f47442a306bcad54df524a99aedfc9465178a4d26",
+        "sharedAyahs": [
+          "39:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "swUNqXywxs8",
+            "start": 2269.7,
+            "end": 2522.69
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 103093,
+        "durationMs": 103093,
+        "recordingDurationMs": 744700,
+        "bytes": 8936775,
+        "sha256": "2126cd8cefa870a98e9a62e31877c4c252845be6426fcac65e6c012dba6aafd6",
+        "sharedAyahs": [
+          "39:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "swUNqXywxs8",
+            "start": 2522.69,
+            "end": 2625.77
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/068.mp3",
+        "startMs": 103093,
+        "endMs": 744700,
+        "durationMs": 641607,
+        "recordingDurationMs": 744700,
+        "bytes": 8936775,
+        "sha256": "2126cd8cefa870a98e9a62e31877c4c252845be6426fcac65e6c012dba6aafd6",
+        "sharedAyahs": [
+          "39:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-iqWOOR5E50",
+            "start": 21.87,
+            "end": 663.45
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 1008530,
+        "durationMs": 1008530,
+        "recordingDurationMs": 1008530,
+        "bytes": 12103016,
+        "sha256": "5ea5fddec6c8c92b71addbaba69052faee109eaed69fbf64b4d82a817f55c22a",
+        "sharedAyahs": [
+          "39:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-iqWOOR5E50",
+            "start": 663.45,
+            "end": 1671.94
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 445390,
+        "durationMs": 445390,
+        "recordingDurationMs": 445390,
+        "bytes": 5345384,
+        "sha256": "212199c7c5bca987ab080a372ded24b70a3ec35248d0b368376376fb65e9db89",
+        "sharedAyahs": [
+          "39:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-iqWOOR5E50",
+            "start": 1671.94,
+            "end": 2117.32
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 435380,
+        "durationMs": 435380,
+        "recordingDurationMs": 435380,
+        "bytes": 5225288,
+        "sha256": "e0cc04276ea3cd0e702e80d480187de0de82f537881c23c2dab0a9c27f1ce137",
+        "sharedAyahs": [
+          "39:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-iqWOOR5E50",
+            "start": 2117.32,
+            "end": 2552.68
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 184970,
+        "durationMs": 184970,
+        "recordingDurationMs": 184970,
+        "bytes": 2220296,
+        "sha256": "27c467a32c4a619d03a3f13db52a73c36cbdadc4de63f8364ba463803b240a57",
+        "sharedAyahs": [
+          "39:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-iqWOOR5E50",
+            "start": 2552.68,
+            "end": 2737.63
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 102380,
+        "durationMs": 102380,
+        "recordingDurationMs": 102380,
+        "bytes": 1229288,
+        "sha256": "f3906ac43eee89a3707fcc40c1725c9afe580bed96381fb9ee1d80406be9909d",
+        "sharedAyahs": [
+          "39:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "huQl2HmzxLo",
+            "start": 20.53,
+            "end": 122.89
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 565750,
+        "durationMs": 565750,
+        "recordingDurationMs": 565750,
+        "bytes": 6789704,
+        "sha256": "25cc63f293f3fed081cf5390df61874b19b5573bf5e674327e872b82a873b400",
+        "sharedAyahs": [
+          "39:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "huQl2HmzxLo",
+            "start": 122.89,
+            "end": 688.63
+          }
+        ]
+      },
+      {
+        "file": "039-الزمر-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 117260,
+        "durationMs": 117260,
+        "recordingDurationMs": 117260,
+        "bytes": 1407848,
+        "sha256": "b4f300d09ebf8ec7d50cecec4623b08964016203a7f2fc5f8d5c9527d8cb4ce6",
+        "sharedAyahs": [
+          "39:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "huQl2HmzxLo",
+            "start": 688.63,
+            "end": 805.85
+          }
+        ]
+      }
+    ],
+    "durationMs": 37728960,
+    "additionalAudioBytes": 0
+  }
+}
