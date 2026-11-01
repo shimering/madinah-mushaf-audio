@@ -1,0 +1,2751 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 30,
+  "surahName": "الروم",
+  "ayahCount": 60,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 60,
+    "mappedAyahCount": 60,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "GKkJRDWQeFg": {
+      "durationSeconds": 2155.2,
+      "bytes": 25863097,
+      "sha256": "dd6a9d141effb70c98a5ff2958b327013f316c0419e8fba309dbac2df9ac61b0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-005_GKkJRDWQeFg.mp3"
+    },
+    "7XTh9P0ejVE": {
+      "durationSeconds": 2733.79,
+      "bytes": 32806201,
+      "sha256": "ee92e2a7b5bc7be54c345f1e6e121c67bb5688832601e74b6ac1321b6b5ba70d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_006-008_7XTh9P0ejVE.mp3"
+    },
+    "9cILsePl4d4": {
+      "durationSeconds": 2609.86,
+      "bytes": 31318970,
+      "sha256": "ecef5782cd1094dcb338d39a6cb4bed3896c7542c1dad9e5bea5fdc5c2dbad20",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_009-017_9cILsePl4d4.mp3"
+    },
+    "cIb29AaARNA": {
+      "durationSeconds": 2620.87,
+      "bytes": 31451164,
+      "sha256": "b4ab700c9962d01466c218d91dbf10cce265c651b6a588036d5897cee2ffb934",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_018-020_cIb29AaARNA.mp3"
+    },
+    "XrbzWy4AGSI": {
+      "durationSeconds": 2640.46,
+      "bytes": 31686173,
+      "sha256": "b90616b9fba7dc4512bab3b2702fc9aa63d71e3808fdd7891cbe865cfdfeb0ca",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_021-022_XrbzWy4AGSI.mp3"
+    },
+    "nwzKA_PqzFA": {
+      "durationSeconds": 2697.58,
+      "bytes": 32371611,
+      "sha256": "4f081747159beca55fb80b0fd4ed8461cf9592657f162e91c34e0b6d00eb6cc4",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_022-023_nwzKA_PqzFA.mp3"
+    },
+    "f_qVRoFEX5k": {
+      "durationSeconds": 2712.0,
+      "bytes": 32544699,
+      "sha256": "50bb5b8911c3b181e41e0692f50a75721fcdc9b6da3de9c1cde094c9caaa1bdc",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_023-027_f_qVRoFEX5k.mp3"
+    },
+    "A9mH4EjkJ2U": {
+      "durationSeconds": 2513.86,
+      "bytes": 30166966,
+      "sha256": "97fd1b635b5bf535ff93eda53833769447b22ba9fdf371c6fc5a3db28182a95b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_027-027_A9mH4EjkJ2U.mp3"
+    },
+    "sISOPVrnbzw": {
+      "durationSeconds": 2674.13,
+      "bytes": 32090237,
+      "sha256": "f70d9509f6387e70d0785a35a28e6c384f79962cd3abff9c71526ec87c0815ac",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_027-028_sISOPVrnbzw.mp3"
+    },
+    "KUURacC--HY": {
+      "durationSeconds": 2704.99,
+      "bytes": 32460603,
+      "sha256": "b1ece2ea85dfe98107d10e7edb8a5ede0a19efd486cbf965e2acd8688e7e521e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_028-030_KUURacC--HY.mp3"
+    },
+    "q6RW4ySMvJo": {
+      "durationSeconds": 2561.86,
+      "bytes": 30742973,
+      "sha256": "475711b5d7e9e13365ffc05b3e4e5759f12fc4c44586dc5a44e024b6f697e779",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_030-033_q6RW4ySMvJo.mp3"
+    },
+    "qWf0lzcfJ1I": {
+      "durationSeconds": 2632.39,
+      "bytes": 31589404,
+      "sha256": "22bc9f5e4f297b43754a43484a197666f25ce9e68c3d062553d0b0882d373f76",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_032-036_qWf0lzcfJ1I.mp3"
+    },
+    "kA1zLj1igYc": {
+      "durationSeconds": 2497.97,
+      "bytes": 29976317,
+      "sha256": "c1fcf95d8ef48d52250684781d79df065eaab5732e6900d6ab75c0fdd6da9667",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_036-038_kA1zLj1igYc.mp3"
+    },
+    "X9jOOmH6yZU": {
+      "durationSeconds": 2598.34,
+      "bytes": 31180732,
+      "sha256": "f7b088ae5cbb17c3976cc781b0f873b05093f00d7bbc23c44229a205e725a877",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_039-041_X9jOOmH6yZU.mp3"
+    },
+    "s15RFZil9eM": {
+      "durationSeconds": 2641.03,
+      "bytes": 31693084,
+      "sha256": "f42fa6a5cbbaa16fd6d5e71f52412e2ebcfebbdb1ee2576a88cf19524e68af1e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_041-044_s15RFZil9eM.mp3"
+    },
+    "eS2NtLL9JK8": {
+      "durationSeconds": 2608.87,
+      "bytes": 31307165,
+      "sha256": "467379a39b61ffc59b166f3c3f0df055b925b4f9a960c952ea61c534d74288e1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_044-046_eS2NtLL9JK8.mp3"
+    },
+    "xUNm15Qf7kw": {
+      "durationSeconds": 2753.23,
+      "bytes": 33039485,
+      "sha256": "fede12038da0ce09d484136080bf8a4acaa5b04b0900915a3c0d39099c1cfa27",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "017_046-050_xUNm15Qf7kw.mp3"
+    },
+    "NS06EcVi54M": {
+      "durationSeconds": 2567.09,
+      "bytes": 30805755,
+      "sha256": "63dd28daaff5d85feb055c694753f1ce558b4581f6adf8f34908448bb23f111f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "018_050-052_NS06EcVi54M.mp3"
+    },
+    "zpS10xa8r3A": {
+      "durationSeconds": 2548.87,
+      "bytes": 30587164,
+      "sha256": "8df6dc9165b0fa2bca75c0bd49e86b56d507cc915c02e84d02c9f7c134ddb171",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "019_052-055_zpS10xa8r3A.mp3"
+    },
+    "HcVB9dVc5Pc": {
+      "durationSeconds": 2557.51,
+      "bytes": 30690845,
+      "sha256": "68267a218c445be7e1bf81d052603b1d8f066d688acc5a501c96659431001eb3",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "020_055-058_HcVB9dVc5Pc.mp3"
+    },
+    "D_K40e55aZM": {
+      "durationSeconds": 2539.15,
+      "bytes": 30470525,
+      "sha256": "f7eb8e3eed537428f9e18ce0ee0970882d252811e041315aa3de2ebdfe750037",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "021_058-060_D_K40e55aZM.mp3"
+    }
+  },
+  "ayahs": {
+    "30:1": {
+      "file": "030-الروم-youtube-v1/001.mp3",
+      "durationMs": 1849130,
+      "bytes": 22190218,
+      "sha256": "ac1cfb1d1c9eac271f277cb7c7b0035c7a9244844f54bc7eab5f52ff387b244a",
+      "sharedAyahs": [
+        "30:1",
+        "30:2",
+        "30:3",
+        "30:4",
+        "30:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GKkJRDWQeFg",
+          "start": 297.31,
+          "end": 2146.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:2": {
+      "file": "030-الروم-youtube-v1/001.mp3",
+      "durationMs": 1849130,
+      "bytes": 22190218,
+      "sha256": "ac1cfb1d1c9eac271f277cb7c7b0035c7a9244844f54bc7eab5f52ff387b244a",
+      "sharedAyahs": [
+        "30:1",
+        "30:2",
+        "30:3",
+        "30:4",
+        "30:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GKkJRDWQeFg",
+          "start": 297.31,
+          "end": 2146.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:3": {
+      "file": "030-الروم-youtube-v1/001.mp3",
+      "durationMs": 1849130,
+      "bytes": 22190218,
+      "sha256": "ac1cfb1d1c9eac271f277cb7c7b0035c7a9244844f54bc7eab5f52ff387b244a",
+      "sharedAyahs": [
+        "30:1",
+        "30:2",
+        "30:3",
+        "30:4",
+        "30:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GKkJRDWQeFg",
+          "start": 297.31,
+          "end": 2146.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:4": {
+      "file": "030-الروم-youtube-v1/001.mp3",
+      "durationMs": 1849130,
+      "bytes": 22190218,
+      "sha256": "ac1cfb1d1c9eac271f277cb7c7b0035c7a9244844f54bc7eab5f52ff387b244a",
+      "sharedAyahs": [
+        "30:1",
+        "30:2",
+        "30:3",
+        "30:4",
+        "30:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GKkJRDWQeFg",
+          "start": 297.31,
+          "end": 2146.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:5": {
+      "file": "030-الروم-youtube-v1/001.mp3",
+      "durationMs": 1849130,
+      "bytes": 22190218,
+      "sha256": "ac1cfb1d1c9eac271f277cb7c7b0035c7a9244844f54bc7eab5f52ff387b244a",
+      "sharedAyahs": [
+        "30:1",
+        "30:2",
+        "30:3",
+        "30:4",
+        "30:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GKkJRDWQeFg",
+          "start": 297.31,
+          "end": 2146.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:6": {
+      "file": "030-الروم-youtube-v1/006.mp3",
+      "durationMs": 2235820,
+      "bytes": 26830474,
+      "sha256": "ad4c7b1d719ea572b69d18832f268d56cbe31439cedb70fdb9e208d40710cd1f",
+      "sharedAyahs": [
+        "30:6",
+        "30:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7XTh9P0ejVE",
+          "start": 27.2,
+          "end": 2263.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:7": {
+      "file": "030-الروم-youtube-v1/006.mp3",
+      "durationMs": 2235820,
+      "bytes": 26830474,
+      "sha256": "ad4c7b1d719ea572b69d18832f268d56cbe31439cedb70fdb9e208d40710cd1f",
+      "sharedAyahs": [
+        "30:6",
+        "30:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7XTh9P0ejVE",
+          "start": 27.2,
+          "end": 2263.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:8": {
+      "file": "030-الروم-youtube-v1/008.mp3",
+      "durationMs": 356420,
+      "bytes": 4277766,
+      "sha256": "60f1f0b0d5ee187918267ca467650ea627edb755c055eab1b325989090c5de18",
+      "sharedAyahs": [
+        "30:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7XTh9P0ejVE",
+          "start": 2263.0,
+          "end": 2619.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:9": {
+      "file": "030-الروم-youtube-v1/009.mp3",
+      "durationMs": 997920,
+      "bytes": 11975718,
+      "sha256": "434380dea0a03a625e6c828930bbebcbaaf95319fccf5ec4e77e1046d04245d9",
+      "sharedAyahs": [
+        "30:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 29.1,
+          "end": 1027.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:10": {
+      "file": "030-الروم-youtube-v1/010.mp3",
+      "durationMs": 936820,
+      "bytes": 11242472,
+      "sha256": "c171dda455ad7fada6d51c35c9a0854ce7ece11d0cf0f95821d2c5348ae4336e",
+      "sharedAyahs": [
+        "30:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 1027.0,
+          "end": 1963.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:11": {
+      "file": "030-الروم-youtube-v1/011.mp3",
+      "durationMs": 274630,
+      "bytes": 3296269,
+      "sha256": "c4bf7bd4469e02efb651dee84446fbf6839358897bf06e9ef6cc3256cd5d0d35",
+      "sharedAyahs": [
+        "30:11",
+        "30:12",
+        "30:13",
+        "30:14",
+        "30:15",
+        "30:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 1963.8,
+          "end": 2238.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:12": {
+      "file": "030-الروم-youtube-v1/011.mp3",
+      "durationMs": 274630,
+      "bytes": 3296269,
+      "sha256": "c4bf7bd4469e02efb651dee84446fbf6839358897bf06e9ef6cc3256cd5d0d35",
+      "sharedAyahs": [
+        "30:11",
+        "30:12",
+        "30:13",
+        "30:14",
+        "30:15",
+        "30:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 1963.8,
+          "end": 2238.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:13": {
+      "file": "030-الروم-youtube-v1/011.mp3",
+      "durationMs": 274630,
+      "bytes": 3296269,
+      "sha256": "c4bf7bd4469e02efb651dee84446fbf6839358897bf06e9ef6cc3256cd5d0d35",
+      "sharedAyahs": [
+        "30:11",
+        "30:12",
+        "30:13",
+        "30:14",
+        "30:15",
+        "30:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 1963.8,
+          "end": 2238.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:14": {
+      "file": "030-الروم-youtube-v1/011.mp3",
+      "durationMs": 274630,
+      "bytes": 3296269,
+      "sha256": "c4bf7bd4469e02efb651dee84446fbf6839358897bf06e9ef6cc3256cd5d0d35",
+      "sharedAyahs": [
+        "30:11",
+        "30:12",
+        "30:13",
+        "30:14",
+        "30:15",
+        "30:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 1963.8,
+          "end": 2238.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:15": {
+      "file": "030-الروم-youtube-v1/011.mp3",
+      "durationMs": 274630,
+      "bytes": 3296269,
+      "sha256": "c4bf7bd4469e02efb651dee84446fbf6839358897bf06e9ef6cc3256cd5d0d35",
+      "sharedAyahs": [
+        "30:11",
+        "30:12",
+        "30:13",
+        "30:14",
+        "30:15",
+        "30:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 1963.8,
+          "end": 2238.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:16": {
+      "file": "030-الروم-youtube-v1/011.mp3",
+      "durationMs": 274630,
+      "bytes": 3296269,
+      "sha256": "c4bf7bd4469e02efb651dee84446fbf6839358897bf06e9ef6cc3256cd5d0d35",
+      "sharedAyahs": [
+        "30:11",
+        "30:12",
+        "30:13",
+        "30:14",
+        "30:15",
+        "30:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 1963.8,
+          "end": 2238.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:17": {
+      "file": "030-الروم-youtube-v1/017.mp3",
+      "durationMs": 365520,
+      "bytes": 4386920,
+      "sha256": "370ad0aba644c1ba6599fbd105f6b4c065d144717248ded9effabe7fc7bf145c",
+      "sharedAyahs": [
+        "30:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9cILsePl4d4",
+          "start": 2238.4,
+          "end": 2603.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:18": {
+      "file": "030-الروم-youtube-v1/018.mp3",
+      "durationMs": 1529110,
+      "bytes": 18350024,
+      "sha256": "d4a34e929a8e6c7dcf919b8eea0d8903834fbf807b9e8c081ec7417d5d983a4c",
+      "sharedAyahs": [
+        "30:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cIb29AaARNA",
+          "start": 1.9,
+          "end": 1531.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:19": {
+      "file": "030-الروم-youtube-v1/019.mp3",
+      "durationMs": 470140,
+      "bytes": 5642312,
+      "sha256": "0cedd3850cdfedacb54cfcd5137a4ca120fd7cb3ace836f04095a33750a4b034",
+      "sharedAyahs": [
+        "30:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cIb29AaARNA",
+          "start": 1531.0,
+          "end": 2001.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:20": {
+      "file": "030-الروم-youtube-v1/020.mp3",
+      "durationMs": 618020,
+      "bytes": 7416968,
+      "sha256": "72f8b6a32d42acca6ec027022b70c2d5e77fb6c7f1346b1b3ebf9278dd4a1bda",
+      "sharedAyahs": [
+        "30:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cIb29AaARNA",
+          "start": 2001.1,
+          "end": 2619.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:21": {
+      "file": "030-الروم-youtube-v1/021.mp3",
+      "durationMs": 1521720,
+      "bytes": 18261320,
+      "sha256": "7aeb2435b35ee2064b44804edd6a5c0c188f0eb68b72e52eafe4d7cf2db4f3e0",
+      "sharedAyahs": [
+        "30:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XrbzWy4AGSI",
+          "start": 1082.2,
+          "end": 2603.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:22": {
+      "file": "030-الروم-youtube-v1/022.mp3",
+      "durationMs": 1786610,
+      "bytes": 21439976,
+      "sha256": "cc547641fc91c434246f0674736dc5df9f5e5e996b8f73cd919cb492a97c3f2b",
+      "sharedAyahs": [
+        "30:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nwzKA_PqzFA",
+          "start": 6.8,
+          "end": 1793.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:23": {
+      "file": "030-الروم-youtube-v1/023.mp3",
+      "durationMs": 899140,
+      "bytes": 10790312,
+      "sha256": "a7bd168abc1007317ab8ec2f2f6e54c635b240bc5bd6610b8658d96de9532b00",
+      "sharedAyahs": [
+        "30:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nwzKA_PqzFA",
+          "start": 1793.4,
+          "end": 2692.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:24": {
+      "file": "030-الروم-youtube-v1/024.mp3",
+      "durationMs": 529820,
+      "bytes": 6358568,
+      "sha256": "e2ecc45e062aa20ab55cc85392b8c1ffe06c57ee9ef4204f31665d32fe068129",
+      "sharedAyahs": [
+        "30:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f_qVRoFEX5k",
+          "start": 533.6,
+          "end": 1063.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:25": {
+      "file": "030-الروم-youtube-v1/025.mp3",
+      "durationMs": 869930,
+      "bytes": 10439816,
+      "sha256": "268362d47474a1dfd12bc34df75c73bd8a5295f64edf921fecc616d567cff6ce",
+      "sharedAyahs": [
+        "30:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f_qVRoFEX5k",
+          "start": 1063.4,
+          "end": 1933.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:26": {
+      "file": "030-الروم-youtube-v1/026.mp3",
+      "durationMs": 573910,
+      "bytes": 6887624,
+      "sha256": "a70e0588e0006c6ed4bd4bca1fa1f168d0136af01ac54b4d310aa5c5868d2a12",
+      "sharedAyahs": [
+        "30:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f_qVRoFEX5k",
+          "start": 1933.3,
+          "end": 2507.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:27": {
+      "file": "030-الروم-youtube-v1/027.mp3",
+      "durationMs": 2456420,
+      "bytes": 29477768,
+      "sha256": "531fd9c977ae7243201d3b4eb76df939cf5216073aaba65cac2579de91cd7aab",
+      "sharedAyahs": [
+        "30:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A9mH4EjkJ2U",
+          "start": 26.3,
+          "end": 2482.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:28": {
+      "file": "030-الروم-youtube-v1/028.mp3",
+      "durationMs": 1922620,
+      "bytes": 23072072,
+      "sha256": "4e7d5c54fb1f76d4069807043195214bb52d0d48758f0e082148f504837ae206",
+      "sharedAyahs": [
+        "30:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sISOPVrnbzw",
+          "start": 747.1,
+          "end": 2669.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:29": {
+      "file": "030-الروم-youtube-v1/029.mp3",
+      "durationMs": 839620,
+      "bytes": 10076072,
+      "sha256": "8df89c7545d7e36aab51343fab3505d5380066c8a9dbc80b93881c05744f69e3",
+      "sharedAyahs": [
+        "30:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KUURacC--HY",
+          "start": 1398.9,
+          "end": 2238.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:30": {
+      "file": "030-الروم-youtube-v1/030.mp3",
+      "durationMs": 1557340,
+      "bytes": 18688717,
+      "sha256": "5b8ada55c49b6697bb97fbc744595cbffe4b760742dc7a926bae08d05165adf8",
+      "sharedAyahs": [
+        "30:30",
+        "30:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q6RW4ySMvJo",
+          "start": 46.6,
+          "end": 1603.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:31": {
+      "file": "030-الروم-youtube-v1/030.mp3",
+      "durationMs": 1557340,
+      "bytes": 18688717,
+      "sha256": "5b8ada55c49b6697bb97fbc744595cbffe4b760742dc7a926bae08d05165adf8",
+      "sharedAyahs": [
+        "30:30",
+        "30:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q6RW4ySMvJo",
+          "start": 46.6,
+          "end": 1603.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:32": {
+      "file": "030-الروم-youtube-v1/032.mp3",
+      "durationMs": 351310,
+      "bytes": 4216424,
+      "sha256": "afe0a552d738a89e34777a108594bab2a200fced00a82e1f098e4fdd8ceeb172",
+      "sharedAyahs": [
+        "30:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q6RW4ySMvJo",
+          "start": 1603.9,
+          "end": 1955.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:33": {
+      "file": "030-الروم-youtube-v1/033.mp3",
+      "durationMs": 597940,
+      "bytes": 7175912,
+      "sha256": "ef072744726b62910411b1ce0245d00213fb0d271289b622bfd9b68789da07bc",
+      "sharedAyahs": [
+        "30:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q6RW4ySMvJo",
+          "start": 1955.2,
+          "end": 2553.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:34": {
+      "file": "030-الروم-youtube-v1/034.mp3",
+      "durationMs": 1015220,
+      "bytes": 12183368,
+      "sha256": "d7e96076e4705b8d8f4f767b22e9b4e6b56f0aab89cef187e8616156cad3f7bc",
+      "sharedAyahs": [
+        "30:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qWf0lzcfJ1I",
+          "start": 0.6,
+          "end": 1015.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:35": {
+      "file": "030-الروم-youtube-v1/035.mp3",
+      "durationMs": 612530,
+      "bytes": 7351016,
+      "sha256": "5f508690c2b9cedc541aab85a2c20a43aba40397aea8b07c99fd3307aa78bae0",
+      "sharedAyahs": [
+        "30:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qWf0lzcfJ1I",
+          "start": 1015.8,
+          "end": 1628.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:36": {
+      "file": "030-الروم-youtube-v1/036.mp3",
+      "durationMs": 1002620,
+      "bytes": 12032168,
+      "sha256": "6ea8d608dcaf082024479f093c47abe29994968e7ccfd7e1534ba8056553aae5",
+      "sharedAyahs": [
+        "30:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qWf0lzcfJ1I",
+          "start": 1628.3,
+          "end": 2630.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:37": {
+      "file": "030-الروم-youtube-v1/037.mp3",
+      "durationMs": 219820,
+      "bytes": 2638472,
+      "sha256": "00060dc7a33ef2b0916f698bf95802f04fffb3ae94eb33842c6d5da83238cfd5",
+      "sharedAyahs": [
+        "30:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kA1zLj1igYc",
+          "start": 995.2,
+          "end": 1215.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:38": {
+      "file": "030-الروم-youtube-v1/038.mp3",
+      "durationMs": 1280330,
+      "bytes": 15364616,
+      "sha256": "b7880a38728dc9775936d3963f70cae157c314292c4e757fa55e9b8cebc3057b",
+      "sharedAyahs": [
+        "30:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kA1zLj1igYc",
+          "start": 1215.0,
+          "end": 2495.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:39": {
+      "file": "030-الروم-youtube-v1/039.mp3",
+      "durationMs": 2216830,
+      "bytes": 26602669,
+      "sha256": "779885f9225a9c415b1457ed70b03deaa18d01308fb796182175c6894bd5a4a2",
+      "sharedAyahs": [
+        "30:39",
+        "30:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "X9jOOmH6yZU",
+          "start": 266.1,
+          "end": 2482.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:40": {
+      "file": "030-الروم-youtube-v1/039.mp3",
+      "durationMs": 2216830,
+      "bytes": 26602669,
+      "sha256": "779885f9225a9c415b1457ed70b03deaa18d01308fb796182175c6894bd5a4a2",
+      "sharedAyahs": [
+        "30:39",
+        "30:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "X9jOOmH6yZU",
+          "start": 266.1,
+          "end": 2482.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:41": {
+      "file": "030-الروم-youtube-v1/041.mp3",
+      "durationMs": 1301520,
+      "bytes": 15618920,
+      "sha256": "699a6cb0ece5edfba3597b987ac131f8bb2daa456e763bdbc91ad0f6cbe10d2b",
+      "sharedAyahs": [
+        "30:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s15RFZil9eM",
+          "start": 71.0,
+          "end": 1372.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:42": {
+      "file": "030-الروم-youtube-v1/042.mp3",
+      "durationMs": 914110,
+      "bytes": 10970024,
+      "sha256": "63194dcf2f822d7ce32e63543f637c82396e7b34de1583bea53f29b06fea5309",
+      "sharedAyahs": [
+        "30:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s15RFZil9eM",
+          "start": 1372.5,
+          "end": 2286.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:43": {
+      "file": "030-الروم-youtube-v1/043.mp3",
+      "durationMs": 335140,
+      "bytes": 4022312,
+      "sha256": "3a9a6f2dc574410a24d10ea274aa527599be494df62bb3cc26a9669b87532b54",
+      "sharedAyahs": [
+        "30:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "s15RFZil9eM",
+          "start": 2286.6,
+          "end": 2621.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:44": {
+      "file": "030-الروم-youtube-v1/044.mp3",
+      "durationMs": 1746020,
+      "bytes": 20952968,
+      "sha256": "75257faf6ba6f3f6d00c1314e277fc619ecf3f5f875486c5e41654ad331160e3",
+      "sharedAyahs": [
+        "30:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eS2NtLL9JK8",
+          "start": 0.8,
+          "end": 1746.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:45": {
+      "file": "030-الروم-youtube-v1/045.mp3",
+      "durationMs": 778130,
+      "bytes": 9338216,
+      "sha256": "5434c432a07fc3ca43b0bbb49ae880cb18051a23825d328a8268e0fd2b270237",
+      "sharedAyahs": [
+        "30:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eS2NtLL9JK8",
+          "start": 1746.8,
+          "end": 2524.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:46": {
+      "file": "030-الروم-youtube-v1/046.mp3",
+      "durationMs": 849500,
+      "bytes": 10194728,
+      "sha256": "48aaef8094c990472431ad81486e59eb1c08e7ec0757d2121e24cb4650214adb",
+      "sharedAyahs": [
+        "30:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xUNm15Qf7kw",
+          "start": 43.3,
+          "end": 892.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:47": {
+      "file": "030-الروم-youtube-v1/047.mp3",
+      "durationMs": 1543030,
+      "bytes": 18517069,
+      "sha256": "f7a0dd72da71ad81f6690cdeee93ed8e74733183ea581f3a48196669f7ab00eb",
+      "sharedAyahs": [
+        "30:47",
+        "30:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xUNm15Qf7kw",
+          "start": 892.8,
+          "end": 2435.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:48": {
+      "file": "030-الروم-youtube-v1/047.mp3",
+      "durationMs": 1543030,
+      "bytes": 18517069,
+      "sha256": "f7a0dd72da71ad81f6690cdeee93ed8e74733183ea581f3a48196669f7ab00eb",
+      "sharedAyahs": [
+        "30:47",
+        "30:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xUNm15Qf7kw",
+          "start": 892.8,
+          "end": 2435.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:49": {
+      "file": "030-الروم-youtube-v1/049.mp3",
+      "durationMs": 316420,
+      "bytes": 3797672,
+      "sha256": "bc542411f8a272be9a721b8f42f9d36e803fb03ee8318f16eca7e083553a75d8",
+      "sharedAyahs": [
+        "30:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xUNm15Qf7kw",
+          "start": 2435.8,
+          "end": 2752.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:50": {
+      "file": "030-الروم-youtube-v1/050.mp3",
+      "durationMs": 1496140,
+      "bytes": 17954312,
+      "sha256": "708fe4d9860c725412a38cd41e4988af62307ba9e4f8f9413ca9cf484f45c515",
+      "sharedAyahs": [
+        "30:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NS06EcVi54M",
+          "start": 0.0,
+          "end": 1496.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:51": {
+      "file": "030-الروم-youtube-v1/051.mp3",
+      "durationMs": 449930,
+      "bytes": 5399816,
+      "sha256": "3d5ab7536acfd6ee80df1201b1c20bc4d364fb96ccfc3c8dfdee68d9999e4c36",
+      "sharedAyahs": [
+        "30:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NS06EcVi54M",
+          "start": 1496.1,
+          "end": 1946.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:52": {
+      "file": "030-الروم-youtube-v1/052.mp3",
+      "durationMs": 617330,
+      "bytes": 7408616,
+      "sha256": "168e1a67e9d900d0f22298aa07b18a6f2344dbed3e30c3fba842309639173bdd",
+      "sharedAyahs": [
+        "30:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NS06EcVi54M",
+          "start": 1946.0,
+          "end": 2563.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:53": {
+      "file": "030-الروم-youtube-v1/053.mp3",
+      "durationMs": 433030,
+      "bytes": 5197064,
+      "sha256": "14029681c1c9029dcfc3d358544d0564df79107b8a1ef51295c2f9d9f327ce8f",
+      "sharedAyahs": [
+        "30:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zpS10xa8r3A",
+          "start": 2.2,
+          "end": 435.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:54": {
+      "file": "030-الروم-youtube-v1/054.mp3",
+      "durationMs": 1268330,
+      "bytes": 15220616,
+      "sha256": "cc8befa5cde16eb29bee404100ddeab2d7bb984b49cb9cb579b88eb5a3a7c527",
+      "sharedAyahs": [
+        "30:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zpS10xa8r3A",
+          "start": 435.2,
+          "end": 1703.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:55": {
+      "file": "030-الروم-youtube-v1/055.mp3",
+      "durationMs": 839710,
+      "bytes": 10077224,
+      "sha256": "4dedb2010a4d03bf6db24720bb48c92933bc4e6d651d286ec29baf5f54f25eec",
+      "sharedAyahs": [
+        "30:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zpS10xa8r3A",
+          "start": 1703.5,
+          "end": 2543.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:56": {
+      "file": "030-الروم-youtube-v1/056.mp3",
+      "durationMs": 440140,
+      "bytes": 5282312,
+      "sha256": "3a547a91f251842542a28890bef53bf67a3e1b50884a3a471bdbc28e76f4beb2",
+      "sharedAyahs": [
+        "30:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HcVB9dVc5Pc",
+          "start": 1429.1,
+          "end": 1869.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:57": {
+      "file": "030-الروم-youtube-v1/057.mp3",
+      "durationMs": 533620,
+      "bytes": 6404072,
+      "sha256": "a9877126d2d016ab241a448f9be73e2d6b20cec91afc3985b8117d1e59857d32",
+      "sharedAyahs": [
+        "30:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HcVB9dVc5Pc",
+          "start": 1869.2,
+          "end": 2402.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:58": {
+      "file": "030-الروم-youtube-v1/058.mp3",
+      "durationMs": 1552630,
+      "bytes": 18632264,
+      "sha256": "17f8c763e4000e6b9413507be0eac73d59d323ac8611c8fe3211a899f8c36f07",
+      "sharedAyahs": [
+        "30:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D_K40e55aZM",
+          "start": 2.4,
+          "end": 1555.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:59": {
+      "file": "030-الروم-youtube-v1/059.mp3",
+      "durationMs": 525720,
+      "bytes": 6309320,
+      "sha256": "2d9af44f6b72a4f5944732f83dc1f1cee9561e0f707bc9079d678a9ae8570ed8",
+      "sharedAyahs": [
+        "30:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D_K40e55aZM",
+          "start": 1555.0,
+          "end": 2080.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "30:60": {
+      "file": "030-الروم-youtube-v1/060.mp3",
+      "durationMs": 457030,
+      "bytes": 5485064,
+      "sha256": "855165c6e66bab85afffd4d3f61d038f68697c7e7fa552f015805f97fcb15936",
+      "sharedAyahs": [
+        "30:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D_K40e55aZM",
+          "start": 2080.7,
+          "end": 2537.7
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "030-الروم-youtube-v1/other-00.mp3",
+      "kind": "other",
+      "durationMs": 250130,
+      "bytes": 3002207,
+      "sha256": "7b02b5f9f6486c7529078a492070b11cca18a87d467ab1801a3574a0172ae377",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "GKkJRDWQeFg",
+          "start": 47.2,
+          "end": 297.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-11.mp3",
+      "kind": "other",
+      "durationMs": 1077120,
+      "bytes": 12926111,
+      "sha256": "dbd292a52ad3a5f8554275f750fe40c24c47ba0da6fd59786195c3a40f7f0b10",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "XrbzWy4AGSI",
+          "start": 5.1,
+          "end": 1082.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-15.mp3",
+      "kind": "other",
+      "durationMs": 495240,
+      "bytes": 5943551,
+      "sha256": "cce7604ac9e9d56430ead7ce6ca984437a7b466cae25b3564ddd33ebd2b0e677",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "f_qVRoFEX5k",
+          "start": 38.4,
+          "end": 533.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-19.mp3",
+      "kind": "other",
+      "durationMs": 197520,
+      "bytes": 2370911,
+      "sha256": "1835eed90c2114d550f00cf3f6912a79d2b4db60bdd83d8660ae6478c2abcc86",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "f_qVRoFEX5k",
+          "start": 2507.2,
+          "end": 2704.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-21.mp3",
+      "kind": "other",
+      "durationMs": 703730,
+      "bytes": 8445407,
+      "sha256": "2dfda8691e6acc0b6cef0f4d5ef7944a69a9842aa7baadcb1446dc47961b998f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "sISOPVrnbzw",
+          "start": 43.4,
+          "end": 747.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-23.mp3",
+      "kind": "other",
+      "durationMs": 1373230,
+      "bytes": 16479455,
+      "sha256": "6dfa2d7517ae1ae66b7502de30a6bae76528e8be750cb6903329b8783b3dbf4a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "KUURacC--HY",
+          "start": 25.7,
+          "end": 1398.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-25.mp3",
+      "kind": "other",
+      "durationMs": 314420,
+      "bytes": 3773759,
+      "sha256": "ab02b55d1ea6c015c7cf035b856ce85c3ab15269025310f1f92cfbdd468b6a2e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "KUURacC--HY",
+          "start": 2238.5,
+          "end": 2552.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-32.mp3",
+      "kind": "other",
+      "durationMs": 948720,
+      "bytes": 11385311,
+      "sha256": "9d6681dc4e12599543cda7fb4a67de793f0294887a281ba67fdbb1e034231c9c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kA1zLj1igYc",
+          "start": 46.5,
+          "end": 995.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-35.mp3",
+      "kind": "other",
+      "durationMs": 265030,
+      "bytes": 3181055,
+      "sha256": "939ed827d11b814e7512d6091388aa0716e1da1d988d74f9fc7ee19e24d76553",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "X9jOOmH6yZU",
+          "start": 1.1,
+          "end": 266.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-37.mp3",
+      "kind": "other",
+      "durationMs": 113900,
+      "bytes": 1367519,
+      "sha256": "6834bf26325fb6b2dab941c3e7dc0d20c8cc763e1d54fc21a1e9e25ac5d973f5",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "X9jOOmH6yZU",
+          "start": 2482.9,
+          "end": 2596.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-41.mp3",
+      "kind": "other",
+      "durationMs": 17420,
+      "bytes": 209759,
+      "sha256": "22857c9554c60736aa5dec11e961603030ee04889cd96a7776517f9c6b12af6a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "s15RFZil9eM",
+          "start": 2621.7,
+          "end": 2639.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-44.mp3",
+      "kind": "other",
+      "durationMs": 71210,
+      "bytes": 855167,
+      "sha256": "6ba499c5863437968721751a14f5bfdd466e2012d6ec5a1ad7d7bc067dc74129",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "eS2NtLL9JK8",
+          "start": 2524.9,
+          "end": 2596.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-54.mp3",
+      "kind": "other",
+      "durationMs": 1407820,
+      "bytes": 16894463,
+      "sha256": "c218a5a6bc2f1b7a66983afc4740f36dffaf6e4a652557b190a1b5548f72c025",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HcVB9dVc5Pc",
+          "start": 21.3,
+          "end": 1429.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "030-الروم-youtube-v1/other-57.mp3",
+      "kind": "other",
+      "durationMs": 152020,
+      "bytes": 1824863,
+      "sha256": "4930b81f8d91443b8f5e46db7d60fd79b0b82b685bc4a96f6a4427e546e3f6af",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HcVB9dVc5Pc",
+          "start": 2402.8,
+          "end": 2554.8
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL7A2DC1AE5A272A45",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "rum-huruf-hikmah",
+      "title": "سر الوقف على الحروف المقطعة ووصل آيات وسور القرآن الكريم",
+      "file": "030-الروم-youtube-v1/other-00.mp3",
+      "startMs": 0,
+      "endMs": 250130
+    },
+    {
+      "id": "rum-creation-dust",
+      "title": "أطوار خلق الإنسان من تراب وطين والرد على النظريات المادية",
+      "file": "030-الروم-youtube-v1/other-11.mp3",
+      "startMs": 0,
+      "endMs": 1077120
+    },
+    {
+      "id": "rum-cosmic-signs-prep",
+      "title": "الترابط البياني بين آيات النوم وابتغاء الفضل والآيات الكونية",
+      "file": "030-الروم-youtube-v1/other-15.mp3",
+      "startMs": 0,
+      "endMs": 495240
+    },
+    {
+      "id": "rum-resurrection-intro",
+      "title": "مقدمة البرهان العقلي على بدء الخلق وإعادته",
+      "file": "030-الروم-youtube-v1/other-19.mp3",
+      "startMs": 0,
+      "endMs": 197520
+    },
+    {
+      "id": "rum-mathal-ala",
+      "title": "معنى المثل الأعلى للحق سبحانه وتنزهه عن مماثلة المخلوقات",
+      "file": "030-الروم-youtube-v1/other-21.mp3",
+      "startMs": 0,
+      "endMs": 703730
+    },
+    {
+      "id": "rum-monotheism-parable",
+      "title": "بيان برهان نفي الشركاء واستدلال الفطرة بالمثل المضروب",
+      "file": "030-الروم-youtube-v1/other-23.mp3",
+      "startMs": 0,
+      "endMs": 1373230
+    },
+    {
+      "id": "rum-fitrah-hanif",
+      "title": "مفهوم الحنيفية وفطرة الله ومناعة النفس الإيمانية ضد الانحراف",
+      "file": "030-الروم-youtube-v1/other-25.mp3",
+      "startMs": 0,
+      "endMs": 314420
+    },
+    {
+      "id": "rum-bast-rizq",
+      "title": "حكمة بسط الرزق وقدره وأثر الابتلاء بالسراء والضراء",
+      "file": "030-الروم-youtube-v1/other-32.mp3",
+      "startMs": 0,
+      "endMs": 948720
+    },
+    {
+      "id": "rum-kin-rights",
+      "title": "حقوق ذوي القربى والمساكين وفضل ابتغاء وجه الله",
+      "file": "030-الروم-youtube-v1/other-35.mp3",
+      "startMs": 0,
+      "endMs": 265030
+    },
+    {
+      "id": "rum-fasad-intro",
+      "title": "مقدمة في سنن التدافع وأسباب ظهور الفساد في الأرض",
+      "file": "030-الروم-youtube-v1/other-37.mp3",
+      "startMs": 0,
+      "endMs": 113900
+    },
+    {
+      "id": "rum-day-inevitable",
+      "title": "الاستعداد لليوم الذي لا مرد له من الله",
+      "file": "030-الروم-youtube-v1/other-41.mp3",
+      "startMs": 0,
+      "endMs": 17420
+    },
+    {
+      "id": "rum-winds-mercy-intro",
+      "title": "مقدمة آيات إرسال الرياح مبشرات ودلالاتها الإيمانية",
+      "file": "030-الروم-youtube-v1/other-44.mp3",
+      "startMs": 0,
+      "endMs": 71210
+    },
+    {
+      "id": "rum-judgment-hour-oath",
+      "title": "قسم المجرمين يوم تقوم الساعة وحسرة ضياع العمر في الباطل",
+      "file": "030-الروم-youtube-v1/other-54.mp3",
+      "startMs": 0,
+      "endMs": 1407820
+    },
+    {
+      "id": "rum-parables-quran",
+      "title": "حكمة ضرب الأمثال في القرآن الكريم لتقريب الحقائق للناس",
+      "file": "030-الروم-youtube-v1/other-57.mp3",
+      "startMs": 0,
+      "endMs": 152020
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "GKkJRDWQeFg",
+      "7XTh9P0ejVE",
+      "9cILsePl4d4",
+      "cIb29AaARNA",
+      "XrbzWy4AGSI",
+      "nwzKA_PqzFA",
+      "f_qVRoFEX5k",
+      "A9mH4EjkJ2U",
+      "sISOPVrnbzw",
+      "KUURacC--HY",
+      "q6RW4ySMvJo",
+      "qWf0lzcfJ1I",
+      "kA1zLj1igYc",
+      "X9jOOmH6yZU",
+      "s15RFZil9eM",
+      "eS2NtLL9JK8",
+      "xUNm15Qf7kw",
+      "NS06EcVi54M",
+      "zpS10xa8r3A",
+      "HcVB9dVc5Pc",
+      "D_K40e55aZM"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "030-الروم-youtube-v1/other-00.mp3",
+        "startMs": 0,
+        "endMs": 250130,
+        "durationMs": 250130,
+        "recordingDurationMs": 250130,
+        "bytes": 3002207,
+        "sha256": "7b02b5f9f6486c7529078a492070b11cca18a87d467ab1801a3574a0172ae377",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "GKkJRDWQeFg",
+            "start": 47.2,
+            "end": 297.31
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1849130,
+        "durationMs": 1849130,
+        "recordingDurationMs": 1849130,
+        "bytes": 22190218,
+        "sha256": "ac1cfb1d1c9eac271f277cb7c7b0035c7a9244844f54bc7eab5f52ff387b244a",
+        "sharedAyahs": [
+          "30:1",
+          "30:2",
+          "30:3",
+          "30:4",
+          "30:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GKkJRDWQeFg",
+            "start": 297.31,
+            "end": 2146.4
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 2235820,
+        "durationMs": 2235820,
+        "recordingDurationMs": 2235820,
+        "bytes": 26830474,
+        "sha256": "ad4c7b1d719ea572b69d18832f268d56cbe31439cedb70fdb9e208d40710cd1f",
+        "sharedAyahs": [
+          "30:6",
+          "30:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7XTh9P0ejVE",
+            "start": 27.2,
+            "end": 2263.0
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 356420,
+        "durationMs": 356420,
+        "recordingDurationMs": 356420,
+        "bytes": 4277766,
+        "sha256": "60f1f0b0d5ee187918267ca467650ea627edb755c055eab1b325989090c5de18",
+        "sharedAyahs": [
+          "30:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7XTh9P0ejVE",
+            "start": 2263.0,
+            "end": 2619.4
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 997920,
+        "durationMs": 997920,
+        "recordingDurationMs": 997920,
+        "bytes": 11975718,
+        "sha256": "434380dea0a03a625e6c828930bbebcbaaf95319fccf5ec4e77e1046d04245d9",
+        "sharedAyahs": [
+          "30:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9cILsePl4d4",
+            "start": 29.1,
+            "end": 1027.0
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 936820,
+        "durationMs": 936820,
+        "recordingDurationMs": 936820,
+        "bytes": 11242472,
+        "sha256": "c171dda455ad7fada6d51c35c9a0854ce7ece11d0cf0f95821d2c5348ae4336e",
+        "sharedAyahs": [
+          "30:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9cILsePl4d4",
+            "start": 1027.0,
+            "end": 1963.8
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 274630,
+        "durationMs": 274630,
+        "recordingDurationMs": 274630,
+        "bytes": 3296269,
+        "sha256": "c4bf7bd4469e02efb651dee84446fbf6839358897bf06e9ef6cc3256cd5d0d35",
+        "sharedAyahs": [
+          "30:11",
+          "30:12",
+          "30:13",
+          "30:14",
+          "30:15",
+          "30:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9cILsePl4d4",
+            "start": 1963.8,
+            "end": 2238.4
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 365520,
+        "durationMs": 365520,
+        "recordingDurationMs": 365520,
+        "bytes": 4386920,
+        "sha256": "370ad0aba644c1ba6599fbd105f6b4c065d144717248ded9effabe7fc7bf145c",
+        "sharedAyahs": [
+          "30:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9cILsePl4d4",
+            "start": 2238.4,
+            "end": 2603.9
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 1529110,
+        "durationMs": 1529110,
+        "recordingDurationMs": 1529110,
+        "bytes": 18350024,
+        "sha256": "d4a34e929a8e6c7dcf919b8eea0d8903834fbf807b9e8c081ec7417d5d983a4c",
+        "sharedAyahs": [
+          "30:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cIb29AaARNA",
+            "start": 1.9,
+            "end": 1531.0
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 470140,
+        "durationMs": 470140,
+        "recordingDurationMs": 470140,
+        "bytes": 5642312,
+        "sha256": "0cedd3850cdfedacb54cfcd5137a4ca120fd7cb3ace836f04095a33750a4b034",
+        "sharedAyahs": [
+          "30:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cIb29AaARNA",
+            "start": 1531.0,
+            "end": 2001.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 618020,
+        "durationMs": 618020,
+        "recordingDurationMs": 618020,
+        "bytes": 7416968,
+        "sha256": "72f8b6a32d42acca6ec027022b70c2d5e77fb6c7f1346b1b3ebf9278dd4a1bda",
+        "sharedAyahs": [
+          "30:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cIb29AaARNA",
+            "start": 2001.1,
+            "end": 2619.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-11.mp3",
+        "startMs": 0,
+        "endMs": 1077120,
+        "durationMs": 1077120,
+        "recordingDurationMs": 1077120,
+        "bytes": 12926111,
+        "sha256": "dbd292a52ad3a5f8554275f750fe40c24c47ba0da6fd59786195c3a40f7f0b10",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "XrbzWy4AGSI",
+            "start": 5.1,
+            "end": 1082.2
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 1521720,
+        "durationMs": 1521720,
+        "recordingDurationMs": 1521720,
+        "bytes": 18261320,
+        "sha256": "7aeb2435b35ee2064b44804edd6a5c0c188f0eb68b72e52eafe4d7cf2db4f3e0",
+        "sharedAyahs": [
+          "30:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XrbzWy4AGSI",
+            "start": 1082.2,
+            "end": 2603.9
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 1786610,
+        "durationMs": 1786610,
+        "recordingDurationMs": 1786610,
+        "bytes": 21439976,
+        "sha256": "cc547641fc91c434246f0674736dc5df9f5e5e996b8f73cd919cb492a97c3f2b",
+        "sharedAyahs": [
+          "30:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nwzKA_PqzFA",
+            "start": 6.8,
+            "end": 1793.4
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 899140,
+        "durationMs": 899140,
+        "recordingDurationMs": 899140,
+        "bytes": 10790312,
+        "sha256": "a7bd168abc1007317ab8ec2f2f6e54c635b240bc5bd6610b8658d96de9532b00",
+        "sharedAyahs": [
+          "30:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nwzKA_PqzFA",
+            "start": 1793.4,
+            "end": 2692.5
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-15.mp3",
+        "startMs": 0,
+        "endMs": 495240,
+        "durationMs": 495240,
+        "recordingDurationMs": 495240,
+        "bytes": 5943551,
+        "sha256": "cce7604ac9e9d56430ead7ce6ca984437a7b466cae25b3564ddd33ebd2b0e677",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "f_qVRoFEX5k",
+            "start": 38.4,
+            "end": 533.6
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 529820,
+        "durationMs": 529820,
+        "recordingDurationMs": 529820,
+        "bytes": 6358568,
+        "sha256": "e2ecc45e062aa20ab55cc85392b8c1ffe06c57ee9ef4204f31665d32fe068129",
+        "sharedAyahs": [
+          "30:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f_qVRoFEX5k",
+            "start": 533.6,
+            "end": 1063.4
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 869930,
+        "durationMs": 869930,
+        "recordingDurationMs": 869930,
+        "bytes": 10439816,
+        "sha256": "268362d47474a1dfd12bc34df75c73bd8a5295f64edf921fecc616d567cff6ce",
+        "sharedAyahs": [
+          "30:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f_qVRoFEX5k",
+            "start": 1063.4,
+            "end": 1933.3
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 573910,
+        "durationMs": 573910,
+        "recordingDurationMs": 573910,
+        "bytes": 6887624,
+        "sha256": "a70e0588e0006c6ed4bd4bca1fa1f168d0136af01ac54b4d310aa5c5868d2a12",
+        "sharedAyahs": [
+          "30:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f_qVRoFEX5k",
+            "start": 1933.3,
+            "end": 2507.2
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-19.mp3",
+        "startMs": 0,
+        "endMs": 197520,
+        "durationMs": 197520,
+        "recordingDurationMs": 197520,
+        "bytes": 2370911,
+        "sha256": "1835eed90c2114d550f00cf3f6912a79d2b4db60bdd83d8660ae6478c2abcc86",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "f_qVRoFEX5k",
+            "start": 2507.2,
+            "end": 2704.7
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 2456420,
+        "durationMs": 2456420,
+        "recordingDurationMs": 2456420,
+        "bytes": 29477768,
+        "sha256": "531fd9c977ae7243201d3b4eb76df939cf5216073aaba65cac2579de91cd7aab",
+        "sharedAyahs": [
+          "30:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A9mH4EjkJ2U",
+            "start": 26.3,
+            "end": 2482.7
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-21.mp3",
+        "startMs": 0,
+        "endMs": 703730,
+        "durationMs": 703730,
+        "recordingDurationMs": 703730,
+        "bytes": 8445407,
+        "sha256": "2dfda8691e6acc0b6cef0f4d5ef7944a69a9842aa7baadcb1446dc47961b998f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "sISOPVrnbzw",
+            "start": 43.4,
+            "end": 747.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 1922620,
+        "durationMs": 1922620,
+        "recordingDurationMs": 1922620,
+        "bytes": 23072072,
+        "sha256": "4e7d5c54fb1f76d4069807043195214bb52d0d48758f0e082148f504837ae206",
+        "sharedAyahs": [
+          "30:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sISOPVrnbzw",
+            "start": 747.1,
+            "end": 2669.7
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-23.mp3",
+        "startMs": 0,
+        "endMs": 1373230,
+        "durationMs": 1373230,
+        "recordingDurationMs": 1373230,
+        "bytes": 16479455,
+        "sha256": "6dfa2d7517ae1ae66b7502de30a6bae76528e8be750cb6903329b8783b3dbf4a",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "KUURacC--HY",
+            "start": 25.7,
+            "end": 1398.9
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 839620,
+        "durationMs": 839620,
+        "recordingDurationMs": 839620,
+        "bytes": 10076072,
+        "sha256": "8df89c7545d7e36aab51343fab3505d5380066c8a9dbc80b93881c05744f69e3",
+        "sharedAyahs": [
+          "30:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KUURacC--HY",
+            "start": 1398.9,
+            "end": 2238.5
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-25.mp3",
+        "startMs": 0,
+        "endMs": 314420,
+        "durationMs": 314420,
+        "recordingDurationMs": 314420,
+        "bytes": 3773759,
+        "sha256": "ab02b55d1ea6c015c7cf035b856ce85c3ab15269025310f1f92cfbdd468b6a2e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "KUURacC--HY",
+            "start": 2238.5,
+            "end": 2552.9
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 1557340,
+        "durationMs": 1557340,
+        "recordingDurationMs": 1557340,
+        "bytes": 18688717,
+        "sha256": "5b8ada55c49b6697bb97fbc744595cbffe4b760742dc7a926bae08d05165adf8",
+        "sharedAyahs": [
+          "30:30",
+          "30:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q6RW4ySMvJo",
+            "start": 46.6,
+            "end": 1603.9
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 351310,
+        "durationMs": 351310,
+        "recordingDurationMs": 351310,
+        "bytes": 4216424,
+        "sha256": "afe0a552d738a89e34777a108594bab2a200fced00a82e1f098e4fdd8ceeb172",
+        "sharedAyahs": [
+          "30:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q6RW4ySMvJo",
+            "start": 1603.9,
+            "end": 1955.2
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 597940,
+        "durationMs": 597940,
+        "recordingDurationMs": 597940,
+        "bytes": 7175912,
+        "sha256": "ef072744726b62910411b1ce0245d00213fb0d271289b622bfd9b68789da07bc",
+        "sharedAyahs": [
+          "30:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q6RW4ySMvJo",
+            "start": 1955.2,
+            "end": 2553.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 1015220,
+        "durationMs": 1015220,
+        "recordingDurationMs": 1015220,
+        "bytes": 12183368,
+        "sha256": "d7e96076e4705b8d8f4f767b22e9b4e6b56f0aab89cef187e8616156cad3f7bc",
+        "sharedAyahs": [
+          "30:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qWf0lzcfJ1I",
+            "start": 0.6,
+            "end": 1015.8
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 612530,
+        "durationMs": 612530,
+        "recordingDurationMs": 612530,
+        "bytes": 7351016,
+        "sha256": "5f508690c2b9cedc541aab85a2c20a43aba40397aea8b07c99fd3307aa78bae0",
+        "sharedAyahs": [
+          "30:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qWf0lzcfJ1I",
+            "start": 1015.8,
+            "end": 1628.3
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 1002620,
+        "durationMs": 1002620,
+        "recordingDurationMs": 1002620,
+        "bytes": 12032168,
+        "sha256": "6ea8d608dcaf082024479f093c47abe29994968e7ccfd7e1534ba8056553aae5",
+        "sharedAyahs": [
+          "30:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qWf0lzcfJ1I",
+            "start": 1628.3,
+            "end": 2630.9
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-32.mp3",
+        "startMs": 0,
+        "endMs": 948720,
+        "durationMs": 948720,
+        "recordingDurationMs": 948720,
+        "bytes": 11385311,
+        "sha256": "9d6681dc4e12599543cda7fb4a67de793f0294887a281ba67fdbb1e034231c9c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "kA1zLj1igYc",
+            "start": 46.5,
+            "end": 995.2
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 219820,
+        "durationMs": 219820,
+        "recordingDurationMs": 219820,
+        "bytes": 2638472,
+        "sha256": "00060dc7a33ef2b0916f698bf95802f04fffb3ae94eb33842c6d5da83238cfd5",
+        "sharedAyahs": [
+          "30:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kA1zLj1igYc",
+            "start": 995.2,
+            "end": 1215.0
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 1280330,
+        "durationMs": 1280330,
+        "recordingDurationMs": 1280330,
+        "bytes": 15364616,
+        "sha256": "b7880a38728dc9775936d3963f70cae157c314292c4e757fa55e9b8cebc3057b",
+        "sharedAyahs": [
+          "30:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kA1zLj1igYc",
+            "start": 1215.0,
+            "end": 2495.3
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-35.mp3",
+        "startMs": 0,
+        "endMs": 265030,
+        "durationMs": 265030,
+        "recordingDurationMs": 265030,
+        "bytes": 3181055,
+        "sha256": "939ed827d11b814e7512d6091388aa0716e1da1d988d74f9fc7ee19e24d76553",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "X9jOOmH6yZU",
+            "start": 1.1,
+            "end": 266.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 2216830,
+        "durationMs": 2216830,
+        "recordingDurationMs": 2216830,
+        "bytes": 26602669,
+        "sha256": "779885f9225a9c415b1457ed70b03deaa18d01308fb796182175c6894bd5a4a2",
+        "sharedAyahs": [
+          "30:39",
+          "30:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "X9jOOmH6yZU",
+            "start": 266.1,
+            "end": 2482.9
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-37.mp3",
+        "startMs": 0,
+        "endMs": 113900,
+        "durationMs": 113900,
+        "recordingDurationMs": 113900,
+        "bytes": 1367519,
+        "sha256": "6834bf26325fb6b2dab941c3e7dc0d20c8cc763e1d54fc21a1e9e25ac5d973f5",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "X9jOOmH6yZU",
+            "start": 2482.9,
+            "end": 2596.8
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 1301520,
+        "durationMs": 1301520,
+        "recordingDurationMs": 1301520,
+        "bytes": 15618920,
+        "sha256": "699a6cb0ece5edfba3597b987ac131f8bb2daa456e763bdbc91ad0f6cbe10d2b",
+        "sharedAyahs": [
+          "30:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s15RFZil9eM",
+            "start": 71.0,
+            "end": 1372.5
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 914110,
+        "durationMs": 914110,
+        "recordingDurationMs": 914110,
+        "bytes": 10970024,
+        "sha256": "63194dcf2f822d7ce32e63543f637c82396e7b34de1583bea53f29b06fea5309",
+        "sharedAyahs": [
+          "30:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s15RFZil9eM",
+            "start": 1372.5,
+            "end": 2286.6
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 335140,
+        "durationMs": 335140,
+        "recordingDurationMs": 335140,
+        "bytes": 4022312,
+        "sha256": "3a9a6f2dc574410a24d10ea274aa527599be494df62bb3cc26a9669b87532b54",
+        "sharedAyahs": [
+          "30:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "s15RFZil9eM",
+            "start": 2286.6,
+            "end": 2621.7
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-41.mp3",
+        "startMs": 0,
+        "endMs": 17420,
+        "durationMs": 17420,
+        "recordingDurationMs": 17420,
+        "bytes": 209759,
+        "sha256": "22857c9554c60736aa5dec11e961603030ee04889cd96a7776517f9c6b12af6a",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "s15RFZil9eM",
+            "start": 2621.7,
+            "end": 2639.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 1746020,
+        "durationMs": 1746020,
+        "recordingDurationMs": 1746020,
+        "bytes": 20952968,
+        "sha256": "75257faf6ba6f3f6d00c1314e277fc619ecf3f5f875486c5e41654ad331160e3",
+        "sharedAyahs": [
+          "30:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eS2NtLL9JK8",
+            "start": 0.8,
+            "end": 1746.8
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 778130,
+        "durationMs": 778130,
+        "recordingDurationMs": 778130,
+        "bytes": 9338216,
+        "sha256": "5434c432a07fc3ca43b0bbb49ae880cb18051a23825d328a8268e0fd2b270237",
+        "sharedAyahs": [
+          "30:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eS2NtLL9JK8",
+            "start": 1746.8,
+            "end": 2524.9
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-44.mp3",
+        "startMs": 0,
+        "endMs": 71210,
+        "durationMs": 71210,
+        "recordingDurationMs": 71210,
+        "bytes": 855167,
+        "sha256": "6ba499c5863437968721751a14f5bfdd466e2012d6ec5a1ad7d7bc067dc74129",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "eS2NtLL9JK8",
+            "start": 2524.9,
+            "end": 2596.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 849500,
+        "durationMs": 849500,
+        "recordingDurationMs": 849500,
+        "bytes": 10194728,
+        "sha256": "48aaef8094c990472431ad81486e59eb1c08e7ec0757d2121e24cb4650214adb",
+        "sharedAyahs": [
+          "30:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xUNm15Qf7kw",
+            "start": 43.3,
+            "end": 892.8
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 1543030,
+        "durationMs": 1543030,
+        "recordingDurationMs": 1543030,
+        "bytes": 18517069,
+        "sha256": "f7a0dd72da71ad81f6690cdeee93ed8e74733183ea581f3a48196669f7ab00eb",
+        "sharedAyahs": [
+          "30:47",
+          "30:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xUNm15Qf7kw",
+            "start": 892.8,
+            "end": 2435.8
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 316420,
+        "durationMs": 316420,
+        "recordingDurationMs": 316420,
+        "bytes": 3797672,
+        "sha256": "bc542411f8a272be9a721b8f42f9d36e803fb03ee8318f16eca7e083553a75d8",
+        "sharedAyahs": [
+          "30:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xUNm15Qf7kw",
+            "start": 2435.8,
+            "end": 2752.2
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 1496140,
+        "durationMs": 1496140,
+        "recordingDurationMs": 1496140,
+        "bytes": 17954312,
+        "sha256": "708fe4d9860c725412a38cd41e4988af62307ba9e4f8f9413ca9cf484f45c515",
+        "sharedAyahs": [
+          "30:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NS06EcVi54M",
+            "start": 0.0,
+            "end": 1496.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 449930,
+        "durationMs": 449930,
+        "recordingDurationMs": 449930,
+        "bytes": 5399816,
+        "sha256": "3d5ab7536acfd6ee80df1201b1c20bc4d364fb96ccfc3c8dfdee68d9999e4c36",
+        "sharedAyahs": [
+          "30:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NS06EcVi54M",
+            "start": 1496.1,
+            "end": 1946.0
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 617330,
+        "durationMs": 617330,
+        "recordingDurationMs": 617330,
+        "bytes": 7408616,
+        "sha256": "168e1a67e9d900d0f22298aa07b18a6f2344dbed3e30c3fba842309639173bdd",
+        "sharedAyahs": [
+          "30:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NS06EcVi54M",
+            "start": 1946.0,
+            "end": 2563.3
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 433030,
+        "durationMs": 433030,
+        "recordingDurationMs": 433030,
+        "bytes": 5197064,
+        "sha256": "14029681c1c9029dcfc3d358544d0564df79107b8a1ef51295c2f9d9f327ce8f",
+        "sharedAyahs": [
+          "30:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zpS10xa8r3A",
+            "start": 2.2,
+            "end": 435.2
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 1268330,
+        "durationMs": 1268330,
+        "recordingDurationMs": 1268330,
+        "bytes": 15220616,
+        "sha256": "cc8befa5cde16eb29bee404100ddeab2d7bb984b49cb9cb579b88eb5a3a7c527",
+        "sharedAyahs": [
+          "30:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zpS10xa8r3A",
+            "start": 435.2,
+            "end": 1703.5
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 839710,
+        "durationMs": 839710,
+        "recordingDurationMs": 839710,
+        "bytes": 10077224,
+        "sha256": "4dedb2010a4d03bf6db24720bb48c92933bc4e6d651d286ec29baf5f54f25eec",
+        "sharedAyahs": [
+          "30:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zpS10xa8r3A",
+            "start": 1703.5,
+            "end": 2543.2
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-54.mp3",
+        "startMs": 0,
+        "endMs": 1407820,
+        "durationMs": 1407820,
+        "recordingDurationMs": 1407820,
+        "bytes": 16894463,
+        "sha256": "c218a5a6bc2f1b7a66983afc4740f36dffaf6e4a652557b190a1b5548f72c025",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "HcVB9dVc5Pc",
+            "start": 21.3,
+            "end": 1429.1
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 440140,
+        "durationMs": 440140,
+        "recordingDurationMs": 440140,
+        "bytes": 5282312,
+        "sha256": "3a547a91f251842542a28890bef53bf67a3e1b50884a3a471bdbc28e76f4beb2",
+        "sharedAyahs": [
+          "30:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HcVB9dVc5Pc",
+            "start": 1429.1,
+            "end": 1869.2
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 533620,
+        "durationMs": 533620,
+        "recordingDurationMs": 533620,
+        "bytes": 6404072,
+        "sha256": "a9877126d2d016ab241a448f9be73e2d6b20cec91afc3985b8117d1e59857d32",
+        "sharedAyahs": [
+          "30:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HcVB9dVc5Pc",
+            "start": 1869.2,
+            "end": 2402.8
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/other-57.mp3",
+        "startMs": 0,
+        "endMs": 152020,
+        "durationMs": 152020,
+        "recordingDurationMs": 152020,
+        "bytes": 1824863,
+        "sha256": "4930b81f8d91443b8f5e46db7d60fd79b0b82b685bc4a96f6a4427e546e3f6af",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "HcVB9dVc5Pc",
+            "start": 2402.8,
+            "end": 2554.8
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 1552630,
+        "durationMs": 1552630,
+        "recordingDurationMs": 1552630,
+        "bytes": 18632264,
+        "sha256": "17f8c763e4000e6b9413507be0eac73d59d323ac8611c8fe3211a899f8c36f07",
+        "sharedAyahs": [
+          "30:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D_K40e55aZM",
+            "start": 2.4,
+            "end": 1555.0
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 525720,
+        "durationMs": 525720,
+        "recordingDurationMs": 525720,
+        "bytes": 6309320,
+        "sha256": "2d9af44f6b72a4f5944732f83dc1f1cee9561e0f707bc9079d678a9ae8570ed8",
+        "sharedAyahs": [
+          "30:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D_K40e55aZM",
+            "start": 1555.0,
+            "end": 2080.7
+          }
+        ]
+      },
+      {
+        "file": "030-الروم-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 457030,
+        "durationMs": 457030,
+        "recordingDurationMs": 457030,
+        "bytes": 5485064,
+        "sha256": "855165c6e66bab85afffd4d3f61d038f68697c7e7fa552f015805f97fcb15936",
+        "sharedAyahs": [
+          "30:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D_K40e55aZM",
+            "start": 2080.7,
+            "end": 2537.7
+          }
+        ]
+      }
+    ],
+    "durationMs": 53672250,
+    "additionalAudioBytes": 0
+  }
+}
