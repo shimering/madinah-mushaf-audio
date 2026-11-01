@@ -1,0 +1,3453 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "تسجيلات إذاعية وتلفزيونية أرشيفية موثقة - YouTube",
+  "surah": 27,
+  "surahName": "النمل",
+  "ayahCount": 93,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 93,
+    "mappedAyahCount": 93,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "1WGITpfYKLs": {
+      "durationSeconds": 1627.39,
+      "bytes": 19529417,
+      "sha256": "0e10ea6f6e8b96e50d209b85f3977c841e398b693354c5b7b5dbb2d36ac9f309",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-002_1WGITpfYKLs.mp3"
+    },
+    "xp60RkckmxE": {
+      "durationSeconds": 1636.61,
+      "bytes": 19640009,
+      "sha256": "8d79c8bbaf7378575f6361bc94054b997293cb83114c7fa3d8e8d5d667d9c915",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_002-008_xp60RkckmxE.mp3"
+    },
+    "eKU8JqeuExw": {
+      "durationSeconds": 1689.1,
+      "bytes": 20269860,
+      "sha256": "607aebabc2ac1a27d4cd5f606bfac20eb44b7553b607beaaada1faf472c3d36e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_008-016_eKU8JqeuExw.mp3"
+    },
+    "w6qq_WjeEUg": {
+      "durationSeconds": 1738.78,
+      "bytes": 20866021,
+      "sha256": "ae23e7d5f8259052a6c6ec048cc822967adab22b0ed43fbebc8b5d5eab2979df",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_016-019_w6qq_WjeEUg.mp3"
+    },
+    "okgnSEwDJ_M": {
+      "durationSeconds": 1636.97,
+      "bytes": 19644325,
+      "sha256": "1c694d08959e68351e04329ebea24f89e7fe7795cf4bd2f8669ab30f075a674a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_019-025_okgnSEwDJ_M.mp3"
+    },
+    "ClqyUCokkOI": {
+      "durationSeconds": 1628.38,
+      "bytes": 19541218,
+      "sha256": "f5f2847bc3b88b039ff7b9b98a8407b8c03953eb1a263b0b23ee337029fd8b47",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_025-040_ClqyUCokkOI.mp3"
+    },
+    "uL3G7bLev-A": {
+      "durationSeconds": 1686.02,
+      "bytes": 20232978,
+      "sha256": "cc4350c4d70e43115e350bbe84874ee06305f69a30224d3b62fc45f2ae30147c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_040-045_uL3G7bLev-A.mp3"
+    },
+    "BYN3uOrdoOM": {
+      "durationSeconds": 1720.27,
+      "bytes": 20643973,
+      "sha256": "c1f37c3e8c9d124c3fc9ccb9d811cdf4b52cdc5367d1aefc2b1c8ceef03f0509",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_045-053_BYN3uOrdoOM.mp3"
+    },
+    "HYCUvWXVCWc": {
+      "durationSeconds": 1643.14,
+      "bytes": 19718341,
+      "sha256": "a4be10790ce805034bee206415cb287dca80802fab79e431dec897ef84df2526",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_053-060_HYCUvWXVCWc.mp3"
+    },
+    "jAQNOwo_izs": {
+      "durationSeconds": 1485.96,
+      "bytes": 17832230,
+      "sha256": "cb7c3eb09089ec6efbb28eb76f4f0e34efa39a31c73cffbb4baa633c7be81ec5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_060-062_jAQNOwo_izs.mp3"
+    },
+    "sh4Thl7KOtw": {
+      "durationSeconds": 1670.23,
+      "bytes": 20043494,
+      "sha256": "a74ad13323c902a52b47e0c6f4bbe9475754406199062a7ed781ce22d8e49bd0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_062-064_sh4Thl7KOtw.mp3"
+    },
+    "ltj4NSzIS9s": {
+      "durationSeconds": 1670.64,
+      "bytes": 20048390,
+      "sha256": "c2ff0548a922b4e41d7f13be7b1b8bd806e4c682072256d0eecc9eeadfcc0f66",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_064-075_ltj4NSzIS9s.mp3"
+    },
+    "pRlunyR1GVw": {
+      "durationSeconds": 1635.55,
+      "bytes": 19627334,
+      "sha256": "6737c2451fe137324f378e6eac5b224882abb19a91cba8da99dfa6c62a40b573",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_075-083_pRlunyR1GVw.mp3"
+    },
+    "ZWLC4b3G9fM": {
+      "durationSeconds": 1637.18,
+      "bytes": 19646918,
+      "sha256": "2a602b83ce960ec46c0806b5a5cbd1454ed8d821628ba1a68e1446b21430c65d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_083-091_ZWLC4b3G9fM.mp3"
+    },
+    "vpH1oy3w8LY": {
+      "durationSeconds": 1473.55,
+      "bytes": 17683334,
+      "sha256": "c279fe52c111d9e86eb3939ffffd9c5c83a66d9c78c9376575c54f42d185fb9a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_091-093_vpH1oy3w8LY.mp3"
+    }
+  },
+  "ayahs": {
+    "27:1": {
+      "file": "027-النمل-youtube-v1/001.mp3",
+      "durationMs": 1186150,
+      "bytes": 14234502,
+      "sha256": "7220286a79fe19eb0a74b855d2b7730359cb48bf87e556f92a09c44146cac301",
+      "sharedAyahs": [
+        "27:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1WGITpfYKLs",
+          "start": 0.0,
+          "end": 1186.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:2": {
+      "file": "027-النمل-youtube-v1/002.mp3",
+      "durationMs": 441260,
+      "bytes": 5295846,
+      "sha256": "e849295f03a3726abeaa41297006fe6fdd347c6a0dcacb8da9eb2d5d2dea5d53",
+      "sharedAyahs": [
+        "27:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1WGITpfYKLs",
+          "start": 1186.12,
+          "end": 1627.39
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:3": {
+      "file": "027-النمل-youtube-v1/003.mp3",
+      "durationMs": 260180,
+      "bytes": 3122886,
+      "sha256": "19d265fbe2ae824194babeca3d0256071b906cea79d0f69a123af3d65de6443d",
+      "sharedAyahs": [
+        "27:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xp60RkckmxE",
+          "start": 0.0,
+          "end": 260.15
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:4": {
+      "file": "027-النمل-youtube-v1/004.mp3",
+      "durationMs": 295990,
+      "bytes": 3552582,
+      "sha256": "35732e6232902356f2147824dfeb95cc3f809ffb9a3c9b43e93491104b58103e",
+      "sharedAyahs": [
+        "27:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xp60RkckmxE",
+          "start": 260.15,
+          "end": 556.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:5": {
+      "file": "027-النمل-youtube-v1/005.mp3",
+      "durationMs": 94390,
+      "bytes": 1133382,
+      "sha256": "aa50a6275e8308e78d345ca05d00fe479134c6d8b8e01477a4bc0f544f9a602f",
+      "sharedAyahs": [
+        "27:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xp60RkckmxE",
+          "start": 556.11,
+          "end": 650.49
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:6": {
+      "file": "027-النمل-youtube-v1/006.mp3",
+      "durationMs": 36170,
+      "bytes": 434694,
+      "sha256": "661cfcd861faeed2b3c08626f131d8b47b4d9b1f80d4a7bb0637df3c5aa61946",
+      "sharedAyahs": [
+        "27:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xp60RkckmxE",
+          "start": 650.49,
+          "end": 686.62
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:7": {
+      "file": "027-النمل-youtube-v1/007.mp3",
+      "durationMs": 921220,
+      "bytes": 11055270,
+      "sha256": "121498a55d848806e97a780c43f69d4f581ad3a9be6845874ec1d3aa7b05d065",
+      "sharedAyahs": [
+        "27:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xp60RkckmxE",
+          "start": 686.62,
+          "end": 1607.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:8": {
+      "file": "027-النمل-youtube-v1/008.mp3",
+      "durationMs": 28780,
+      "bytes": 345990,
+      "sha256": "fce1e5fae50f141888aa647b5502a0de6baec81c4fd2625be21cdbd95fe5fe2e",
+      "sharedAyahs": [
+        "27:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xp60RkckmxE",
+          "start": 1607.81,
+          "end": 1636.61
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:9": {
+      "file": "027-النمل-youtube-v1/009.mp3",
+      "durationMs": 592940,
+      "bytes": 7116011,
+      "sha256": "e8f762e8788df5775b1506daba153bd4fc723cb9980bfba06367250d511e21d9",
+      "sharedAyahs": [
+        "27:9",
+        "27:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eKU8JqeuExw",
+          "start": 1.26,
+          "end": 594.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:10": {
+      "file": "027-النمل-youtube-v1/009.mp3",
+      "durationMs": 592940,
+      "bytes": 7116011,
+      "sha256": "e8f762e8788df5775b1506daba153bd4fc723cb9980bfba06367250d511e21d9",
+      "sharedAyahs": [
+        "27:9",
+        "27:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eKU8JqeuExw",
+          "start": 1.26,
+          "end": 594.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:11": {
+      "file": "027-النمل-youtube-v1/011.mp3",
+      "durationMs": 62590,
+      "bytes": 751784,
+      "sha256": "0d260b981244a7c177c4419f09ab1634fe171c2a9c14d932fa5390963f2431ec",
+      "sharedAyahs": [
+        "27:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eKU8JqeuExw",
+          "start": 594.19,
+          "end": 656.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:12": {
+      "file": "027-النمل-youtube-v1/012.mp3",
+      "durationMs": 377090,
+      "bytes": 4525736,
+      "sha256": "ffe91fcb8c59bd9830873d27c5c742b346b25ef19eee422f8df5b47a9598245b",
+      "sharedAyahs": [
+        "27:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eKU8JqeuExw",
+          "start": 656.74,
+          "end": 1033.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:13": {
+      "file": "027-النمل-youtube-v1/013.mp3",
+      "durationMs": 113110,
+      "bytes": 1358024,
+      "sha256": "bb0fd494c20b8a8500bb6a336da8d03dd0575f769a9661d4234d05a7fce3d928",
+      "sharedAyahs": [
+        "27:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eKU8JqeuExw",
+          "start": 1033.82,
+          "end": 1146.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:14": {
+      "file": "027-النمل-youtube-v1/014.mp3",
+      "durationMs": 542180,
+      "bytes": 6506888,
+      "sha256": "0653aaf7103679fd83daa1d53e23b2dc94e7df09d1bb49fea1eb4bca665ac268",
+      "sharedAyahs": [
+        "27:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eKU8JqeuExw",
+          "start": 1146.9,
+          "end": 1689.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:15": {
+      "file": "027-النمل-youtube-v1/015.mp3",
+      "durationMs": 248900,
+      "bytes": 2987528,
+      "sha256": "8c9518a25193bea5b77b96a3d1ebe46f0fe4f57f46b2b4038c50ccc0b8944845",
+      "sharedAyahs": [
+        "27:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "w6qq_WjeEUg",
+          "start": 0.0,
+          "end": 248.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:16": {
+      "file": "027-النمل-youtube-v1/016.mp3",
+      "durationMs": 343900,
+      "bytes": 4127432,
+      "sha256": "ad4948a3131248726d1151d9351e5279fc007b266285808c56e0447fc269a42f",
+      "sharedAyahs": [
+        "27:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "w6qq_WjeEUg",
+          "start": 248.86,
+          "end": 592.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:17": {
+      "file": "027-النمل-youtube-v1/017.mp3",
+      "durationMs": 345190,
+      "bytes": 4142984,
+      "sha256": "945c4da4c82507e09fc119f5e72a8c879c34774e6bb92e75d546e843c3553d36",
+      "sharedAyahs": [
+        "27:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "w6qq_WjeEUg",
+          "start": 592.73,
+          "end": 937.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:18": {
+      "file": "027-النمل-youtube-v1/018.mp3",
+      "durationMs": 331900,
+      "bytes": 3983432,
+      "sha256": "fa177f2c566ab7d65f958d1bdd74b92f19c1a1ea1e784e8f42b7a2d17b06e6df",
+      "sharedAyahs": [
+        "27:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "w6qq_WjeEUg",
+          "start": 937.92,
+          "end": 1269.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:19": {
+      "file": "027-النمل-youtube-v1/019.mp3",
+      "durationMs": 466250,
+      "bytes": 5595656,
+      "sha256": "1469f1e5ee1b8ec2bd4f10ad53613f48b6ed5dcd37e8ce724f62813207625fa5",
+      "sharedAyahs": [
+        "27:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "w6qq_WjeEUg",
+          "start": 1269.78,
+          "end": 1736.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:20": {
+      "file": "027-النمل-youtube-v1/020.mp3",
+      "durationMs": 293830,
+      "bytes": 3526664,
+      "sha256": "6334e846f30fa7d0a0b5fc1b26d562f3e6049233e8d34f8562f78bd277e2b943",
+      "sharedAyahs": [
+        "27:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "okgnSEwDJ_M",
+          "start": 358.41,
+          "end": 652.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:21": {
+      "file": "027-النمل-youtube-v1/021.mp3",
+      "durationMs": 719740,
+      "bytes": 8637512,
+      "sha256": "2a627004baa27b5b2d9869e0a0b819ad2f3f60a75ab1628e8d869b77fd25cb0b",
+      "sharedAyahs": [
+        "27:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "okgnSEwDJ_M",
+          "start": 652.21,
+          "end": 1371.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:22": {
+      "file": "027-النمل-youtube-v1/022.mp3",
+      "durationMs": 25420,
+      "bytes": 305672,
+      "sha256": "a8a48fb80de821d061fdd7a78469d4d0d4a6576109affe269441308f47868235",
+      "sharedAyahs": [
+        "27:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "okgnSEwDJ_M",
+          "start": 1371.93,
+          "end": 1397.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:23": {
+      "file": "027-النمل-youtube-v1/023.mp3",
+      "durationMs": 142250,
+      "bytes": 1707656,
+      "sha256": "d8779973ef16351d12ae9bd86545b19c2556ba97eaa0c1d5a5410f679b3dfc80",
+      "sharedAyahs": [
+        "27:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "okgnSEwDJ_M",
+          "start": 1397.31,
+          "end": 1539.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:24": {
+      "file": "027-النمل-youtube-v1/024.mp3",
+      "durationMs": 71140,
+      "bytes": 854312,
+      "sha256": "41a1e1aeefe1a5d8200a786679161a4d752d8074c3959ac29f1dfc6020fc0290",
+      "sharedAyahs": [
+        "27:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "okgnSEwDJ_M",
+          "start": 1539.53,
+          "end": 1610.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:25": {
+      "file": "027-النمل-youtube-v1/025.mp3",
+      "durationMs": 26300,
+      "bytes": 316328,
+      "sha256": "55bc7f5e092129687be5583ff6ac691644abbbbf8c88a81f4e185eb0b245c701",
+      "sharedAyahs": [
+        "27:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "okgnSEwDJ_M",
+          "start": 1610.66,
+          "end": 1636.97
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:26": {
+      "file": "027-النمل-youtube-v1/026.mp3",
+      "durationMs": 218350,
+      "bytes": 2620904,
+      "sha256": "e6f143632c08972a8ad82c05ce745ffce8fb9d434e37c4d6197301234112e12c",
+      "sharedAyahs": [
+        "27:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 0.0,
+          "end": 218.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:27": {
+      "file": "027-النمل-youtube-v1/027.mp3",
+      "durationMs": 89810,
+      "bytes": 1078376,
+      "sha256": "647c367b9181a315f70bb4154d215d357401c1ddbda3f6ab5a0273bf807f1303",
+      "sharedAyahs": [
+        "27:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 218.31,
+          "end": 308.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:28": {
+      "file": "027-النمل-youtube-v1/028.mp3",
+      "durationMs": 148870,
+      "bytes": 1787144,
+      "sha256": "d4caeb14883d34c68f27666e57e5fcd91ceb8afee301ec5733940f1a285180fc",
+      "sharedAyahs": [
+        "27:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 308.1,
+          "end": 456.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:29": {
+      "file": "027-النمل-youtube-v1/029.mp3",
+      "durationMs": 46320,
+      "bytes": 556520,
+      "sha256": "3f15c58ccd421282ea94fdc142f36055a6d6c4491f110849433888900e750a05",
+      "sharedAyahs": [
+        "27:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 456.94,
+          "end": 503.24
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:30": {
+      "file": "027-النمل-youtube-v1/030.mp3",
+      "durationMs": 195960,
+      "bytes": 2352205,
+      "sha256": "b5eeb2fe4150d9fa7ff6de6b128889d814e1dae9531249e6eab0a44d3bca966f",
+      "sharedAyahs": [
+        "27:30",
+        "27:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 503.24,
+          "end": 699.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:31": {
+      "file": "027-النمل-youtube-v1/030.mp3",
+      "durationMs": 195960,
+      "bytes": 2352205,
+      "sha256": "b5eeb2fe4150d9fa7ff6de6b128889d814e1dae9531249e6eab0a44d3bca966f",
+      "sharedAyahs": [
+        "27:30",
+        "27:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 503.24,
+          "end": 699.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:32": {
+      "file": "027-النمل-youtube-v1/032.mp3",
+      "durationMs": 91080,
+      "bytes": 1093645,
+      "sha256": "7d75ef03d338e3bf452c33864b61585c080731ca2a33949d3e6a0802f24b6380",
+      "sharedAyahs": [
+        "27:32",
+        "27:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 699.17,
+          "end": 790.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:33": {
+      "file": "027-النمل-youtube-v1/032.mp3",
+      "durationMs": 91080,
+      "bytes": 1093645,
+      "sha256": "7d75ef03d338e3bf452c33864b61585c080731ca2a33949d3e6a0802f24b6380",
+      "sharedAyahs": [
+        "27:32",
+        "27:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 699.17,
+          "end": 790.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:34": {
+      "file": "027-النمل-youtube-v1/034.mp3",
+      "durationMs": 140230,
+      "bytes": 1683464,
+      "sha256": "eb2f08d67b0161a406f8e71f4d8cc91b5d21a32b0f8f3b4597b6529d10523e8b",
+      "sharedAyahs": [
+        "27:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 790.23,
+          "end": 930.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:35": {
+      "file": "027-النمل-youtube-v1/035.mp3",
+      "durationMs": 143740,
+      "bytes": 1725512,
+      "sha256": "72ea85e64f33c584f7a242549b50590112692636e2cef3aa33b9834298fd2768",
+      "sharedAyahs": [
+        "27:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 930.44,
+          "end": 1074.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:36": {
+      "file": "027-النمل-youtube-v1/036.mp3",
+      "durationMs": 54860,
+      "bytes": 659048,
+      "sha256": "ee23411d46708d8d280dc507a1b5992923027ee019066afbbd71a4998947b829",
+      "sharedAyahs": [
+        "27:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 1074.16,
+          "end": 1129.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:37": {
+      "file": "027-النمل-youtube-v1/037.mp3",
+      "durationMs": 94370,
+      "bytes": 1133096,
+      "sha256": "e576b30b50aa56b5af137df2390b8d42439b571539f84976f40c4ef1af9145f8",
+      "sharedAyahs": [
+        "27:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 1129.0,
+          "end": 1223.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:38": {
+      "file": "027-النمل-youtube-v1/038.mp3",
+      "durationMs": 112390,
+      "bytes": 1349384,
+      "sha256": "72ced5b49cfd6249ce046cd7b86cf42aea233e298ab4ef49869e186d3db8941e",
+      "sharedAyahs": [
+        "27:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 1223.34,
+          "end": 1335.71
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:39": {
+      "file": "027-النمل-youtube-v1/039.mp3",
+      "durationMs": 114720,
+      "bytes": 1377320,
+      "sha256": "b0eca05eca166e3c75ad27a44c342b3b75d6ca98d12f3204ff3c6e76506ba6c2",
+      "sharedAyahs": [
+        "27:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 1335.71,
+          "end": 1450.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:40": {
+      "file": "027-النمل-youtube-v1/040.mp3",
+      "durationMs": 659300,
+      "bytes": 7912328,
+      "sha256": "f124f729216e0c38e136c205f80da57e55670b6aa0b0d4adda9d3b2c10761dac",
+      "sharedAyahs": [
+        "27:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uL3G7bLev-A",
+          "start": 0.0,
+          "end": 659.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:41": {
+      "file": "027-النمل-youtube-v1/041.mp3",
+      "durationMs": 322900,
+      "bytes": 3875432,
+      "sha256": "b643afd58ab85afde0d168a0833b6581142c1b51322519cd1dd6297f57905233",
+      "sharedAyahs": [
+        "27:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uL3G7bLev-A",
+          "start": 659.26,
+          "end": 982.15
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:42": {
+      "file": "027-النمل-youtube-v1/042.mp3",
+      "durationMs": 67850,
+      "bytes": 814856,
+      "sha256": "ba82ee99e19fa7da8024f5671560e50555bdabe747d9805af6d96c92171b5298",
+      "sharedAyahs": [
+        "27:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uL3G7bLev-A",
+          "start": 982.15,
+          "end": 1049.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:43": {
+      "file": "027-النمل-youtube-v1/043.mp3",
+      "durationMs": 54530,
+      "bytes": 655016,
+      "sha256": "1cb9c419b1ffb8c9b32ac899cf02a52339de606d772c28b5892f5a405a2fc68a",
+      "sharedAyahs": [
+        "27:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uL3G7bLev-A",
+          "start": 1049.96,
+          "end": 1104.46
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:44": {
+      "file": "027-النمل-youtube-v1/044.mp3",
+      "durationMs": 581540,
+      "bytes": 6979208,
+      "sha256": "8d91d7ede906b35e29a9238b09513b5179be12085df1021470d1630046f3afa5",
+      "sharedAyahs": [
+        "27:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uL3G7bLev-A",
+          "start": 1104.46,
+          "end": 1686.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:45": {
+      "file": "027-النمل-youtube-v1/045.mp3",
+      "durationMs": 1051220,
+      "bytes": 12615373,
+      "sha256": "6c1a4a50abb2fe865104fce5271ee05328412913c58a2a27ce5b7d902c4d2cc8",
+      "sharedAyahs": [
+        "27:45",
+        "27:46",
+        "27:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 23.68,
+          "end": 1074.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:46": {
+      "file": "027-النمل-youtube-v1/045.mp3",
+      "durationMs": 1051220,
+      "bytes": 12615373,
+      "sha256": "6c1a4a50abb2fe865104fce5271ee05328412913c58a2a27ce5b7d902c4d2cc8",
+      "sharedAyahs": [
+        "27:45",
+        "27:46",
+        "27:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 23.68,
+          "end": 1074.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:47": {
+      "file": "027-النمل-youtube-v1/045.mp3",
+      "durationMs": 1051220,
+      "bytes": 12615373,
+      "sha256": "6c1a4a50abb2fe865104fce5271ee05328412913c58a2a27ce5b7d902c4d2cc8",
+      "sharedAyahs": [
+        "27:45",
+        "27:46",
+        "27:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 23.68,
+          "end": 1074.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:48": {
+      "file": "027-النمل-youtube-v1/048.mp3",
+      "durationMs": 310010,
+      "bytes": 3720781,
+      "sha256": "72f381bb4e40962cd07925bcc9488ccd069040303cf90ccad5c43275478a6da0",
+      "sharedAyahs": [
+        "27:48",
+        "27:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 1074.87,
+          "end": 1384.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:49": {
+      "file": "027-النمل-youtube-v1/048.mp3",
+      "durationMs": 310010,
+      "bytes": 3720781,
+      "sha256": "72f381bb4e40962cd07925bcc9488ccd069040303cf90ccad5c43275478a6da0",
+      "sharedAyahs": [
+        "27:48",
+        "27:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 1074.87,
+          "end": 1384.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:50": {
+      "file": "027-النمل-youtube-v1/050.mp3",
+      "durationMs": 195980,
+      "bytes": 2352488,
+      "sha256": "805aa6e7414bf58f2ba26a178ea45dcd209df6bf3eabe56c780ecb8227bbb91a",
+      "sharedAyahs": [
+        "27:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 1384.85,
+          "end": 1580.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:51": {
+      "file": "027-النمل-youtube-v1/051.mp3",
+      "durationMs": 97780,
+      "bytes": 1173992,
+      "sha256": "95f7d6d73ed93c5b777a6d5a0251be3965c3ff86109c21fa28ddda5558d2a808",
+      "sharedAyahs": [
+        "27:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 1580.81,
+          "end": 1678.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:52": {
+      "file": "027-النمل-youtube-v1/052.mp3",
+      "durationMs": 41690,
+      "bytes": 500941,
+      "sha256": "02e7ffa2165ebe0ae2d69d60d9324dd610c165f0e6baf4c33c3afbe0d5d0b2cf",
+      "sharedAyahs": [
+        "27:52",
+        "27:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 1678.58,
+          "end": 1720.27
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:53": {
+      "file": "027-النمل-youtube-v1/052.mp3",
+      "durationMs": 41690,
+      "bytes": 500941,
+      "sha256": "02e7ffa2165ebe0ae2d69d60d9324dd610c165f0e6baf4c33c3afbe0d5d0b2cf",
+      "sharedAyahs": [
+        "27:52",
+        "27:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BYN3uOrdoOM",
+          "start": 1678.58,
+          "end": 1720.27
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:54": {
+      "file": "027-النمل-youtube-v1/054.mp3",
+      "durationMs": 87380,
+      "bytes": 1049288,
+      "sha256": "00c1422f18460b1d7437612e04e0db4a85cb59acf1dabc1f22fe6abc53cabbef",
+      "sharedAyahs": [
+        "27:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HYCUvWXVCWc",
+          "start": 1.82,
+          "end": 89.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:55": {
+      "file": "027-النمل-youtube-v1/055.mp3",
+      "durationMs": 79440,
+      "bytes": 953960,
+      "sha256": "94dd1fdb126be0e640bc2cf16f36a7a544dd5cfbaeb06b7a321527ece01ec01e",
+      "sharedAyahs": [
+        "27:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HYCUvWXVCWc",
+          "start": 89.17,
+          "end": 168.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:56": {
+      "file": "027-النمل-youtube-v1/056.mp3",
+      "durationMs": 53540,
+      "bytes": 643208,
+      "sha256": "9f02fde978d8820efa018d68eb1848d629d6c3ef425ad479842cb6ef20c2a4b5",
+      "sharedAyahs": [
+        "27:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HYCUvWXVCWc",
+          "start": 168.6,
+          "end": 222.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:57": {
+      "file": "027-النمل-youtube-v1/057.mp3",
+      "durationMs": 58460,
+      "bytes": 702248,
+      "sha256": "fda92c90d8b74b565a61805e21155deff3dd6592570f66e89a41c337cf3f34e5",
+      "sharedAyahs": [
+        "27:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HYCUvWXVCWc",
+          "start": 222.12,
+          "end": 280.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:58": {
+      "file": "027-النمل-youtube-v1/058.mp3",
+      "durationMs": 449330,
+      "bytes": 5392616,
+      "sha256": "8d26dec61d85a987ae6e2f3438841ff8ba0a00897889cd61e02c9b6f6cc70bce",
+      "sharedAyahs": [
+        "27:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HYCUvWXVCWc",
+          "start": 280.55,
+          "end": 729.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:59": {
+      "file": "027-النمل-youtube-v1/059.mp3",
+      "durationMs": 913270,
+      "bytes": 10959944,
+      "sha256": "7a616dc93225239b4613c9ce85de7dfde580fd54e37d7ad3f33eb4eecbbe8b3e",
+      "sharedAyahs": [
+        "27:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HYCUvWXVCWc",
+          "start": 729.86,
+          "end": 1643.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:60": {
+      "file": "027-النمل-youtube-v1/060.mp3",
+      "durationMs": 146740,
+      "bytes": 1761512,
+      "sha256": "d74e53cefbfd1d88e5d56ccb560eb4c672fbd91456dd9930499cc444feeccce2",
+      "sharedAyahs": [
+        "27:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jAQNOwo_izs",
+          "start": 2.96,
+          "end": 149.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:61": {
+      "file": "027-النمل-youtube-v1/061.mp3",
+      "durationMs": 1336270,
+      "bytes": 16035944,
+      "sha256": "ac67e540d5de36d448d34d09b5bdc22a46d1e435543cece86877de914745b012",
+      "sharedAyahs": [
+        "27:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jAQNOwo_izs",
+          "start": 149.68,
+          "end": 1485.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:62": {
+      "file": "027-النمل-youtube-v1/062.mp3",
+      "durationMs": 572160,
+      "bytes": 6866600,
+      "sha256": "c35da84849c29bb853be44b7a8a2ccf5fbc1136203881d429451bdeb5c2b654e",
+      "sharedAyahs": [
+        "27:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sh4Thl7KOtw",
+          "start": 0.0,
+          "end": 572.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:63": {
+      "file": "027-النمل-youtube-v1/063.mp3",
+      "durationMs": 432410,
+      "bytes": 5189576,
+      "sha256": "daf3d96bbbbaabe2e2fd3b8ca3b61a5ed6fb9f147d601d926b9db7834b430c53",
+      "sharedAyahs": [
+        "27:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sh4Thl7KOtw",
+          "start": 572.12,
+          "end": 1004.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:64": {
+      "file": "027-النمل-youtube-v1/064.mp3",
+      "durationMs": 665710,
+      "bytes": 7989224,
+      "sha256": "6eda494f92f018c02ca34e2ec3dea161f8a3b184f543703b2f99ce1d80a8aa68",
+      "sharedAyahs": [
+        "27:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sh4Thl7KOtw",
+          "start": 1004.51,
+          "end": 1670.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:65": {
+      "file": "027-النمل-youtube-v1/065.mp3",
+      "durationMs": 628850,
+      "bytes": 7546856,
+      "sha256": "338738357fa3b55897cfc8bd9ac462df19e868ff39caa7ed6ba7c13bfe8a0b9a",
+      "sharedAyahs": [
+        "27:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 307.47,
+          "end": 936.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:66": {
+      "file": "027-النمل-youtube-v1/066.mp3",
+      "durationMs": 130250,
+      "bytes": 1563661,
+      "sha256": "7cedc093759817fc1a29e7bcd3634c0683afaf0c10b7b542aa8d7613704a7e01",
+      "sharedAyahs": [
+        "27:66",
+        "27:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 936.29,
+          "end": 1066.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:67": {
+      "file": "027-النمل-youtube-v1/066.mp3",
+      "durationMs": 130250,
+      "bytes": 1563661,
+      "sha256": "7cedc093759817fc1a29e7bcd3634c0683afaf0c10b7b542aa8d7613704a7e01",
+      "sharedAyahs": [
+        "27:66",
+        "27:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 936.29,
+          "end": 1066.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:68": {
+      "file": "027-النمل-youtube-v1/068.mp3",
+      "durationMs": 89020,
+      "bytes": 1068872,
+      "sha256": "c88508f74ef627c78edb85808bb9361369ce3e2e7d23cd10227dfa84c2c5b9eb",
+      "sharedAyahs": [
+        "27:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 1066.52,
+          "end": 1155.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:69": {
+      "file": "027-النمل-youtube-v1/069.mp3",
+      "durationMs": 99410,
+      "bytes": 1193576,
+      "sha256": "75eaf53bb332794065fa5fb3648a4078e1c083a518964a269e1a35070b352f42",
+      "sharedAyahs": [
+        "27:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 1155.52,
+          "end": 1254.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:70": {
+      "file": "027-النمل-youtube-v1/070.mp3",
+      "durationMs": 7850,
+      "bytes": 94856,
+      "sha256": "16790dc2011dc3c5de55e27e4c6e0d07b8ade0a38956a296dfb970fba62c0fa1",
+      "sharedAyahs": [
+        "27:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 1254.9,
+          "end": 1262.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:71": {
+      "file": "027-النمل-youtube-v1/071.mp3",
+      "durationMs": 100250,
+      "bytes": 1203661,
+      "sha256": "606fa99e8600b7a8c5454317ed3542aa59c95c66df94cc5f3fac524e998cb68d",
+      "sharedAyahs": [
+        "27:71",
+        "27:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 1262.72,
+          "end": 1362.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:72": {
+      "file": "027-النمل-youtube-v1/071.mp3",
+      "durationMs": 100250,
+      "bytes": 1203661,
+      "sha256": "606fa99e8600b7a8c5454317ed3542aa59c95c66df94cc5f3fac524e998cb68d",
+      "sharedAyahs": [
+        "27:71",
+        "27:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 1262.72,
+          "end": 1362.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:73": {
+      "file": "027-النمل-youtube-v1/073.mp3",
+      "durationMs": 236570,
+      "bytes": 2839496,
+      "sha256": "165ffdcbb737c8c3f17c787c704ef090229633a917c7acb7455df533587458c9",
+      "sharedAyahs": [
+        "27:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 1362.94,
+          "end": 1599.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:74": {
+      "file": "027-النمل-youtube-v1/074.mp3",
+      "durationMs": 71140,
+      "bytes": 854312,
+      "sha256": "e8e1fef5914f4dc085fadf18a875d80f4714ad3b8e362a342aafb275f7b30748",
+      "sharedAyahs": [
+        "27:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 1599.5,
+          "end": 1670.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:75": {
+      "file": "027-النمل-youtube-v1/075.mp3",
+      "durationMs": 475750,
+      "bytes": 5709709,
+      "sha256": "7fc7515fd7b9fb4d3bae7522a86ba9a2a9884af6df194d782731cca383f6bfb6",
+      "sharedAyahs": [
+        "27:75",
+        "27:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pRlunyR1GVw",
+          "start": 3.56,
+          "end": 479.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:76": {
+      "file": "027-النمل-youtube-v1/075.mp3",
+      "durationMs": 475750,
+      "bytes": 5709709,
+      "sha256": "7fc7515fd7b9fb4d3bae7522a86ba9a2a9884af6df194d782731cca383f6bfb6",
+      "sharedAyahs": [
+        "27:75",
+        "27:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pRlunyR1GVw",
+          "start": 3.56,
+          "end": 479.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:77": {
+      "file": "027-النمل-youtube-v1/077.mp3",
+      "durationMs": 178060,
+      "bytes": 2137352,
+      "sha256": "a997ff07884f42e5e527b8ec440688f42228eb2a83d5a1a71fb9ef09ccc36141",
+      "sharedAyahs": [
+        "27:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pRlunyR1GVw",
+          "start": 479.29,
+          "end": 657.32
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:78": {
+      "file": "027-النمل-youtube-v1/078.mp3",
+      "durationMs": 124850,
+      "bytes": 1498856,
+      "sha256": "b9f893432d27518982ff3a9e6d8b1ce3902187c6fb325205492bad29dad8936a",
+      "sharedAyahs": [
+        "27:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pRlunyR1GVw",
+          "start": 657.32,
+          "end": 782.15
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:79": {
+      "file": "027-النمل-youtube-v1/079.mp3",
+      "durationMs": 97660,
+      "bytes": 1172552,
+      "sha256": "c94034ea72e4b8c3b695a93bb0c88222bd8561040217ecfa275086bdea718713",
+      "sharedAyahs": [
+        "27:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pRlunyR1GVw",
+          "start": 782.15,
+          "end": 879.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:80": {
+      "file": "027-النمل-youtube-v1/080.mp3",
+      "durationMs": 414580,
+      "bytes": 4975597,
+      "sha256": "5e82104d676da5aa64e7cb18ff4bc1808d0368bf53b192d4e1e2ff5795ed5216",
+      "sharedAyahs": [
+        "27:80",
+        "27:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pRlunyR1GVw",
+          "start": 879.77,
+          "end": 1294.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:81": {
+      "file": "027-النمل-youtube-v1/080.mp3",
+      "durationMs": 414580,
+      "bytes": 4975597,
+      "sha256": "5e82104d676da5aa64e7cb18ff4bc1808d0368bf53b192d4e1e2ff5795ed5216",
+      "sharedAyahs": [
+        "27:80",
+        "27:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pRlunyR1GVw",
+          "start": 879.77,
+          "end": 1294.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:82": {
+      "file": "027-النمل-youtube-v1/082.mp3",
+      "durationMs": 341210,
+      "bytes": 4095176,
+      "sha256": "01aa600bf91a2976def0e580e0a584f7dd5cccd2af3552658c4f3c11d3a425dd",
+      "sharedAyahs": [
+        "27:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pRlunyR1GVw",
+          "start": 1294.34,
+          "end": 1635.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:83": {
+      "file": "027-النمل-youtube-v1/083.mp3",
+      "durationMs": 7460,
+      "bytes": 90248,
+      "sha256": "3e7a0fd48d28ce96f7709ec96d1f19de90245b4289c6dd3422c50e2d425c08b9",
+      "sharedAyahs": [
+        "27:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZWLC4b3G9fM",
+          "start": 3.09,
+          "end": 10.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:84": {
+      "file": "027-النمل-youtube-v1/084.mp3",
+      "durationMs": 8450,
+      "bytes": 102056,
+      "sha256": "c1fab192581cccaa4f6408715ca9b31a1e78c8ed07c8c7dbbfb2ba4b4e1f353e",
+      "sharedAyahs": [
+        "27:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZWLC4b3G9fM",
+          "start": 10.53,
+          "end": 18.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:85": {
+      "file": "027-النمل-youtube-v1/085.mp3",
+      "durationMs": 192770,
+      "bytes": 2313896,
+      "sha256": "cda86b9579db073292337deda63d6ab1fe8a610657cebda529799903df3f5d10",
+      "sharedAyahs": [
+        "27:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZWLC4b3G9fM",
+          "start": 18.95,
+          "end": 211.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:86": {
+      "file": "027-النمل-youtube-v1/086.mp3",
+      "durationMs": 512160,
+      "bytes": 6146600,
+      "sha256": "1f4f40aea47e08cfbfdcdfc164887ea602378a21bb41bd0ffa110a5745aab1bb",
+      "sharedAyahs": [
+        "27:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZWLC4b3G9fM",
+          "start": 211.7,
+          "end": 723.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:87": {
+      "file": "027-النمل-youtube-v1/087.mp3",
+      "durationMs": 317330,
+      "bytes": 3808616,
+      "sha256": "5106fae7d4d459927fa2a71166c47400ea449a870df8ebfd69ae8341d602e015",
+      "sharedAyahs": [
+        "27:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZWLC4b3G9fM",
+          "start": 723.84,
+          "end": 1041.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:88": {
+      "file": "027-النمل-youtube-v1/088.mp3",
+      "durationMs": 31800,
+      "bytes": 382280,
+      "sha256": "0877b9eb683c8708ea3c170843e6cfe3780064c25327c98662a3df290adea8ae",
+      "sharedAyahs": [
+        "27:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZWLC4b3G9fM",
+          "start": 1041.14,
+          "end": 1072.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:89": {
+      "file": "027-النمل-youtube-v1/089.mp3",
+      "durationMs": 164620,
+      "bytes": 1976072,
+      "sha256": "e87230381fc1b922dcd6e5c0973cd6e4262dc778ea5a6fe28495a2dbd8f9f704",
+      "sharedAyahs": [
+        "27:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZWLC4b3G9fM",
+          "start": 1072.9,
+          "end": 1237.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:90": {
+      "file": "027-النمل-youtube-v1/090.mp3",
+      "durationMs": 399670,
+      "bytes": 4796744,
+      "sha256": "bce5c8c6e97b51c0a54206b4d21103bde54951dcdab91415e7da3636aa2b749d",
+      "sharedAyahs": [
+        "27:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZWLC4b3G9fM",
+          "start": 1237.51,
+          "end": 1637.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:91": {
+      "file": "027-النمل-youtube-v1/091.mp3",
+      "durationMs": 224570,
+      "bytes": 2695496,
+      "sha256": "54d6546de5aee81713ad38ae706930e799a2f9a64f072531d046a5507cd3c49f",
+      "sharedAyahs": [
+        "27:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vpH1oy3w8LY",
+          "start": 0.0,
+          "end": 224.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:92": {
+      "file": "027-النمل-youtube-v1/092.mp3",
+      "durationMs": 575500,
+      "bytes": 6906632,
+      "sha256": "a7423ff139e54ded17ad0a4d52dba32d7dd25a64cdbbaaf62c73d5416fee26f5",
+      "sharedAyahs": [
+        "27:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vpH1oy3w8LY",
+          "start": 224.53,
+          "end": 800.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "27:93": {
+      "file": "027-النمل-youtube-v1/093.mp3",
+      "durationMs": 673540,
+      "bytes": 8083112,
+      "sha256": "8293ac451da7da9d03e11a0d40e79d059ba3d5b7d25e342e6ef6b7ac9d41ea52",
+      "sharedAyahs": [
+        "27:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vpH1oy3w8LY",
+          "start": 800.0,
+          "end": 1473.55
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "027-النمل-youtube-v1/other-18.mp3",
+      "kind": "other",
+      "durationMs": 358440,
+      "bytes": 4301951,
+      "sha256": "6899a6f1da5b5d620af5e7ac08c48f681db184dc66106c0b260a427e83883204",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "okgnSEwDJ_M",
+          "start": 0.0,
+          "end": 358.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "027-النمل-youtube-v1/other-37.mp3",
+      "kind": "other",
+      "durationMs": 177960,
+      "bytes": 2136191,
+      "sha256": "4853e8d7068cf18ed023808458c886ccf90df550ea40eab0fe05441ee7c15a6a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "ClqyUCokkOI",
+          "start": 1450.41,
+          "end": 1628.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "027-النمل-youtube-v1/other-59.mp3",
+      "kind": "other",
+      "durationMs": 303650,
+      "bytes": 3644447,
+      "sha256": "615664f9932ba7c76df6eee543b03de4ab6a2690993edbf4b22c1a8bc4b74c48",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "ltj4NSzIS9s",
+          "start": 3.85,
+          "end": 307.47
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/watch?v=1WGITpfYKLs",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "naml-sulayman-hudhud-intro",
+      "title": "مقدمة قصة سليمان عليه السلام وتفقده للطير ومقام الهدهد",
+      "file": "027-النمل-youtube-v1/other-18.mp3",
+      "startMs": 0,
+      "endMs": 358440
+    },
+    {
+      "id": "naml-throne-bringer",
+      "title": "إحضار عرش بلقيس وقدرة من عنده علم من الكتاب وسر الإعجاز",
+      "file": "027-النمل-youtube-v1/other-37.mp3",
+      "startMs": 0,
+      "endMs": 177960
+    },
+    {
+      "id": "naml-unseen-knowledge",
+      "title": "اختصاص الله تعالى بعلم الغيب في السماوات والأرض",
+      "file": "027-النمل-youtube-v1/other-59.mp3",
+      "startMs": 0,
+      "endMs": 303650
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "1WGITpfYKLs",
+      "xp60RkckmxE",
+      "eKU8JqeuExw",
+      "w6qq_WjeEUg",
+      "okgnSEwDJ_M",
+      "ClqyUCokkOI",
+      "uL3G7bLev-A",
+      "BYN3uOrdoOM",
+      "HYCUvWXVCWc",
+      "jAQNOwo_izs",
+      "sh4Thl7KOtw",
+      "ltj4NSzIS9s",
+      "pRlunyR1GVw",
+      "ZWLC4b3G9fM",
+      "vpH1oy3w8LY"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "027-النمل-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1186150,
+        "durationMs": 1186150,
+        "recordingDurationMs": 1186150,
+        "bytes": 14234502,
+        "sha256": "7220286a79fe19eb0a74b855d2b7730359cb48bf87e556f92a09c44146cac301",
+        "sharedAyahs": [
+          "27:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1WGITpfYKLs",
+            "start": 0.0,
+            "end": 1186.12
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 441260,
+        "durationMs": 441260,
+        "recordingDurationMs": 441260,
+        "bytes": 5295846,
+        "sha256": "e849295f03a3726abeaa41297006fe6fdd347c6a0dcacb8da9eb2d5d2dea5d53",
+        "sharedAyahs": [
+          "27:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1WGITpfYKLs",
+            "start": 1186.12,
+            "end": 1627.39
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 260180,
+        "durationMs": 260180,
+        "recordingDurationMs": 260180,
+        "bytes": 3122886,
+        "sha256": "19d265fbe2ae824194babeca3d0256071b906cea79d0f69a123af3d65de6443d",
+        "sharedAyahs": [
+          "27:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xp60RkckmxE",
+            "start": 0.0,
+            "end": 260.15
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 295990,
+        "durationMs": 295990,
+        "recordingDurationMs": 295990,
+        "bytes": 3552582,
+        "sha256": "35732e6232902356f2147824dfeb95cc3f809ffb9a3c9b43e93491104b58103e",
+        "sharedAyahs": [
+          "27:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xp60RkckmxE",
+            "start": 260.15,
+            "end": 556.11
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 94390,
+        "durationMs": 94390,
+        "recordingDurationMs": 94390,
+        "bytes": 1133382,
+        "sha256": "aa50a6275e8308e78d345ca05d00fe479134c6d8b8e01477a4bc0f544f9a602f",
+        "sharedAyahs": [
+          "27:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xp60RkckmxE",
+            "start": 556.11,
+            "end": 650.49
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 36170,
+        "durationMs": 36170,
+        "recordingDurationMs": 36170,
+        "bytes": 434694,
+        "sha256": "661cfcd861faeed2b3c08626f131d8b47b4d9b1f80d4a7bb0637df3c5aa61946",
+        "sharedAyahs": [
+          "27:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xp60RkckmxE",
+            "start": 650.49,
+            "end": 686.62
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 921220,
+        "durationMs": 921220,
+        "recordingDurationMs": 921220,
+        "bytes": 11055270,
+        "sha256": "121498a55d848806e97a780c43f69d4f581ad3a9be6845874ec1d3aa7b05d065",
+        "sharedAyahs": [
+          "27:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xp60RkckmxE",
+            "start": 686.62,
+            "end": 1607.81
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 28780,
+        "durationMs": 28780,
+        "recordingDurationMs": 28780,
+        "bytes": 345990,
+        "sha256": "fce1e5fae50f141888aa647b5502a0de6baec81c4fd2625be21cdbd95fe5fe2e",
+        "sharedAyahs": [
+          "27:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xp60RkckmxE",
+            "start": 1607.81,
+            "end": 1636.61
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 592940,
+        "durationMs": 592940,
+        "recordingDurationMs": 592940,
+        "bytes": 7116011,
+        "sha256": "e8f762e8788df5775b1506daba153bd4fc723cb9980bfba06367250d511e21d9",
+        "sharedAyahs": [
+          "27:9",
+          "27:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eKU8JqeuExw",
+            "start": 1.26,
+            "end": 594.19
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 62590,
+        "durationMs": 62590,
+        "recordingDurationMs": 62590,
+        "bytes": 751784,
+        "sha256": "0d260b981244a7c177c4419f09ab1634fe171c2a9c14d932fa5390963f2431ec",
+        "sharedAyahs": [
+          "27:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eKU8JqeuExw",
+            "start": 594.19,
+            "end": 656.74
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 377090,
+        "durationMs": 377090,
+        "recordingDurationMs": 377090,
+        "bytes": 4525736,
+        "sha256": "ffe91fcb8c59bd9830873d27c5c742b346b25ef19eee422f8df5b47a9598245b",
+        "sharedAyahs": [
+          "27:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eKU8JqeuExw",
+            "start": 656.74,
+            "end": 1033.82
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 113110,
+        "durationMs": 113110,
+        "recordingDurationMs": 113110,
+        "bytes": 1358024,
+        "sha256": "bb0fd494c20b8a8500bb6a336da8d03dd0575f769a9661d4234d05a7fce3d928",
+        "sharedAyahs": [
+          "27:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eKU8JqeuExw",
+            "start": 1033.82,
+            "end": 1146.9
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 542180,
+        "durationMs": 542180,
+        "recordingDurationMs": 542180,
+        "bytes": 6506888,
+        "sha256": "0653aaf7103679fd83daa1d53e23b2dc94e7df09d1bb49fea1eb4bca665ac268",
+        "sharedAyahs": [
+          "27:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eKU8JqeuExw",
+            "start": 1146.9,
+            "end": 1689.1
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 248900,
+        "durationMs": 248900,
+        "recordingDurationMs": 248900,
+        "bytes": 2987528,
+        "sha256": "8c9518a25193bea5b77b96a3d1ebe46f0fe4f57f46b2b4038c50ccc0b8944845",
+        "sharedAyahs": [
+          "27:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "w6qq_WjeEUg",
+            "start": 0.0,
+            "end": 248.86
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 343900,
+        "durationMs": 343900,
+        "recordingDurationMs": 343900,
+        "bytes": 4127432,
+        "sha256": "ad4948a3131248726d1151d9351e5279fc007b266285808c56e0447fc269a42f",
+        "sharedAyahs": [
+          "27:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "w6qq_WjeEUg",
+            "start": 248.86,
+            "end": 592.73
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 345190,
+        "durationMs": 345190,
+        "recordingDurationMs": 345190,
+        "bytes": 4142984,
+        "sha256": "945c4da4c82507e09fc119f5e72a8c879c34774e6bb92e75d546e843c3553d36",
+        "sharedAyahs": [
+          "27:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "w6qq_WjeEUg",
+            "start": 592.73,
+            "end": 937.92
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 331900,
+        "durationMs": 331900,
+        "recordingDurationMs": 331900,
+        "bytes": 3983432,
+        "sha256": "fa177f2c566ab7d65f958d1bdd74b92f19c1a1ea1e784e8f42b7a2d17b06e6df",
+        "sharedAyahs": [
+          "27:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "w6qq_WjeEUg",
+            "start": 937.92,
+            "end": 1269.78
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 466250,
+        "durationMs": 466250,
+        "recordingDurationMs": 466250,
+        "bytes": 5595656,
+        "sha256": "1469f1e5ee1b8ec2bd4f10ad53613f48b6ed5dcd37e8ce724f62813207625fa5",
+        "sharedAyahs": [
+          "27:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "w6qq_WjeEUg",
+            "start": 1269.78,
+            "end": 1736.0
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/other-18.mp3",
+        "startMs": 0,
+        "endMs": 358440,
+        "durationMs": 358440,
+        "recordingDurationMs": 358440,
+        "bytes": 4301951,
+        "sha256": "6899a6f1da5b5d620af5e7ac08c48f681db184dc66106c0b260a427e83883204",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "okgnSEwDJ_M",
+            "start": 0.0,
+            "end": 358.41
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 293830,
+        "durationMs": 293830,
+        "recordingDurationMs": 293830,
+        "bytes": 3526664,
+        "sha256": "6334e846f30fa7d0a0b5fc1b26d562f3e6049233e8d34f8562f78bd277e2b943",
+        "sharedAyahs": [
+          "27:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "okgnSEwDJ_M",
+            "start": 358.41,
+            "end": 652.21
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 719740,
+        "durationMs": 719740,
+        "recordingDurationMs": 719740,
+        "bytes": 8637512,
+        "sha256": "2a627004baa27b5b2d9869e0a0b819ad2f3f60a75ab1628e8d869b77fd25cb0b",
+        "sharedAyahs": [
+          "27:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "okgnSEwDJ_M",
+            "start": 652.21,
+            "end": 1371.93
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 25420,
+        "durationMs": 25420,
+        "recordingDurationMs": 25420,
+        "bytes": 305672,
+        "sha256": "a8a48fb80de821d061fdd7a78469d4d0d4a6576109affe269441308f47868235",
+        "sharedAyahs": [
+          "27:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "okgnSEwDJ_M",
+            "start": 1371.93,
+            "end": 1397.31
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 142250,
+        "durationMs": 142250,
+        "recordingDurationMs": 142250,
+        "bytes": 1707656,
+        "sha256": "d8779973ef16351d12ae9bd86545b19c2556ba97eaa0c1d5a5410f679b3dfc80",
+        "sharedAyahs": [
+          "27:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "okgnSEwDJ_M",
+            "start": 1397.31,
+            "end": 1539.53
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 71140,
+        "durationMs": 71140,
+        "recordingDurationMs": 71140,
+        "bytes": 854312,
+        "sha256": "41a1e1aeefe1a5d8200a786679161a4d752d8074c3959ac29f1dfc6020fc0290",
+        "sharedAyahs": [
+          "27:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "okgnSEwDJ_M",
+            "start": 1539.53,
+            "end": 1610.66
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 26300,
+        "durationMs": 26300,
+        "recordingDurationMs": 26300,
+        "bytes": 316328,
+        "sha256": "55bc7f5e092129687be5583ff6ac691644abbbbf8c88a81f4e185eb0b245c701",
+        "sharedAyahs": [
+          "27:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "okgnSEwDJ_M",
+            "start": 1610.66,
+            "end": 1636.97
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 218350,
+        "durationMs": 218350,
+        "recordingDurationMs": 218350,
+        "bytes": 2620904,
+        "sha256": "e6f143632c08972a8ad82c05ce745ffce8fb9d434e37c4d6197301234112e12c",
+        "sharedAyahs": [
+          "27:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 0.0,
+            "end": 218.31
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 89810,
+        "durationMs": 89810,
+        "recordingDurationMs": 89810,
+        "bytes": 1078376,
+        "sha256": "647c367b9181a315f70bb4154d215d357401c1ddbda3f6ab5a0273bf807f1303",
+        "sharedAyahs": [
+          "27:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 218.31,
+            "end": 308.1
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 148870,
+        "durationMs": 148870,
+        "recordingDurationMs": 148870,
+        "bytes": 1787144,
+        "sha256": "d4caeb14883d34c68f27666e57e5fcd91ceb8afee301ec5733940f1a285180fc",
+        "sharedAyahs": [
+          "27:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 308.1,
+            "end": 456.94
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 46320,
+        "durationMs": 46320,
+        "recordingDurationMs": 46320,
+        "bytes": 556520,
+        "sha256": "3f15c58ccd421282ea94fdc142f36055a6d6c4491f110849433888900e750a05",
+        "sharedAyahs": [
+          "27:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 456.94,
+            "end": 503.24
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 195960,
+        "durationMs": 195960,
+        "recordingDurationMs": 195960,
+        "bytes": 2352205,
+        "sha256": "b5eeb2fe4150d9fa7ff6de6b128889d814e1dae9531249e6eab0a44d3bca966f",
+        "sharedAyahs": [
+          "27:30",
+          "27:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 503.24,
+            "end": 699.17
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 91080,
+        "durationMs": 91080,
+        "recordingDurationMs": 91080,
+        "bytes": 1093645,
+        "sha256": "7d75ef03d338e3bf452c33864b61585c080731ca2a33949d3e6a0802f24b6380",
+        "sharedAyahs": [
+          "27:32",
+          "27:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 699.17,
+            "end": 790.23
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 140230,
+        "durationMs": 140230,
+        "recordingDurationMs": 140230,
+        "bytes": 1683464,
+        "sha256": "eb2f08d67b0161a406f8e71f4d8cc91b5d21a32b0f8f3b4597b6529d10523e8b",
+        "sharedAyahs": [
+          "27:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 790.23,
+            "end": 930.44
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 143740,
+        "durationMs": 143740,
+        "recordingDurationMs": 143740,
+        "bytes": 1725512,
+        "sha256": "72ea85e64f33c584f7a242549b50590112692636e2cef3aa33b9834298fd2768",
+        "sharedAyahs": [
+          "27:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 930.44,
+            "end": 1074.16
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 54860,
+        "durationMs": 54860,
+        "recordingDurationMs": 54860,
+        "bytes": 659048,
+        "sha256": "ee23411d46708d8d280dc507a1b5992923027ee019066afbbd71a4998947b829",
+        "sharedAyahs": [
+          "27:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 1074.16,
+            "end": 1129.0
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 94370,
+        "durationMs": 94370,
+        "recordingDurationMs": 94370,
+        "bytes": 1133096,
+        "sha256": "e576b30b50aa56b5af137df2390b8d42439b571539f84976f40c4ef1af9145f8",
+        "sharedAyahs": [
+          "27:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 1129.0,
+            "end": 1223.34
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 112390,
+        "durationMs": 112390,
+        "recordingDurationMs": 112390,
+        "bytes": 1349384,
+        "sha256": "72ced5b49cfd6249ce046cd7b86cf42aea233e298ab4ef49869e186d3db8941e",
+        "sharedAyahs": [
+          "27:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 1223.34,
+            "end": 1335.71
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 114720,
+        "durationMs": 114720,
+        "recordingDurationMs": 114720,
+        "bytes": 1377320,
+        "sha256": "b0eca05eca166e3c75ad27a44c342b3b75d6ca98d12f3204ff3c6e76506ba6c2",
+        "sharedAyahs": [
+          "27:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 1335.71,
+            "end": 1450.41
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/other-37.mp3",
+        "startMs": 0,
+        "endMs": 177960,
+        "durationMs": 177960,
+        "recordingDurationMs": 177960,
+        "bytes": 2136191,
+        "sha256": "4853e8d7068cf18ed023808458c886ccf90df550ea40eab0fe05441ee7c15a6a",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "ClqyUCokkOI",
+            "start": 1450.41,
+            "end": 1628.38
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 659300,
+        "durationMs": 659300,
+        "recordingDurationMs": 659300,
+        "bytes": 7912328,
+        "sha256": "f124f729216e0c38e136c205f80da57e55670b6aa0b0d4adda9d3b2c10761dac",
+        "sharedAyahs": [
+          "27:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uL3G7bLev-A",
+            "start": 0.0,
+            "end": 659.26
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 322900,
+        "durationMs": 322900,
+        "recordingDurationMs": 322900,
+        "bytes": 3875432,
+        "sha256": "b643afd58ab85afde0d168a0833b6581142c1b51322519cd1dd6297f57905233",
+        "sharedAyahs": [
+          "27:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uL3G7bLev-A",
+            "start": 659.26,
+            "end": 982.15
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 67850,
+        "durationMs": 67850,
+        "recordingDurationMs": 67850,
+        "bytes": 814856,
+        "sha256": "ba82ee99e19fa7da8024f5671560e50555bdabe747d9805af6d96c92171b5298",
+        "sharedAyahs": [
+          "27:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uL3G7bLev-A",
+            "start": 982.15,
+            "end": 1049.96
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 54530,
+        "durationMs": 54530,
+        "recordingDurationMs": 54530,
+        "bytes": 655016,
+        "sha256": "1cb9c419b1ffb8c9b32ac899cf02a52339de606d772c28b5892f5a405a2fc68a",
+        "sharedAyahs": [
+          "27:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uL3G7bLev-A",
+            "start": 1049.96,
+            "end": 1104.46
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 581540,
+        "durationMs": 581540,
+        "recordingDurationMs": 581540,
+        "bytes": 6979208,
+        "sha256": "8d91d7ede906b35e29a9238b09513b5179be12085df1021470d1630046f3afa5",
+        "sharedAyahs": [
+          "27:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "uL3G7bLev-A",
+            "start": 1104.46,
+            "end": 1686.02
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 1051220,
+        "durationMs": 1051220,
+        "recordingDurationMs": 1051220,
+        "bytes": 12615373,
+        "sha256": "6c1a4a50abb2fe865104fce5271ee05328412913c58a2a27ce5b7d902c4d2cc8",
+        "sharedAyahs": [
+          "27:45",
+          "27:46",
+          "27:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BYN3uOrdoOM",
+            "start": 23.68,
+            "end": 1074.87
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 310010,
+        "durationMs": 310010,
+        "recordingDurationMs": 310010,
+        "bytes": 3720781,
+        "sha256": "72f381bb4e40962cd07925bcc9488ccd069040303cf90ccad5c43275478a6da0",
+        "sharedAyahs": [
+          "27:48",
+          "27:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BYN3uOrdoOM",
+            "start": 1074.87,
+            "end": 1384.85
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 195980,
+        "durationMs": 195980,
+        "recordingDurationMs": 195980,
+        "bytes": 2352488,
+        "sha256": "805aa6e7414bf58f2ba26a178ea45dcd209df6bf3eabe56c780ecb8227bbb91a",
+        "sharedAyahs": [
+          "27:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BYN3uOrdoOM",
+            "start": 1384.85,
+            "end": 1580.81
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 97780,
+        "durationMs": 97780,
+        "recordingDurationMs": 97780,
+        "bytes": 1173992,
+        "sha256": "95f7d6d73ed93c5b777a6d5a0251be3965c3ff86109c21fa28ddda5558d2a808",
+        "sharedAyahs": [
+          "27:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BYN3uOrdoOM",
+            "start": 1580.81,
+            "end": 1678.58
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 41690,
+        "durationMs": 41690,
+        "recordingDurationMs": 41690,
+        "bytes": 500941,
+        "sha256": "02e7ffa2165ebe0ae2d69d60d9324dd610c165f0e6baf4c33c3afbe0d5d0b2cf",
+        "sharedAyahs": [
+          "27:52",
+          "27:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BYN3uOrdoOM",
+            "start": 1678.58,
+            "end": 1720.27
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 87380,
+        "durationMs": 87380,
+        "recordingDurationMs": 87380,
+        "bytes": 1049288,
+        "sha256": "00c1422f18460b1d7437612e04e0db4a85cb59acf1dabc1f22fe6abc53cabbef",
+        "sharedAyahs": [
+          "27:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HYCUvWXVCWc",
+            "start": 1.82,
+            "end": 89.17
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 79440,
+        "durationMs": 79440,
+        "recordingDurationMs": 79440,
+        "bytes": 953960,
+        "sha256": "94dd1fdb126be0e640bc2cf16f36a7a544dd5cfbaeb06b7a321527ece01ec01e",
+        "sharedAyahs": [
+          "27:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HYCUvWXVCWc",
+            "start": 89.17,
+            "end": 168.6
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 53540,
+        "durationMs": 53540,
+        "recordingDurationMs": 53540,
+        "bytes": 643208,
+        "sha256": "9f02fde978d8820efa018d68eb1848d629d6c3ef425ad479842cb6ef20c2a4b5",
+        "sharedAyahs": [
+          "27:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HYCUvWXVCWc",
+            "start": 168.6,
+            "end": 222.12
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 58460,
+        "durationMs": 58460,
+        "recordingDurationMs": 58460,
+        "bytes": 702248,
+        "sha256": "fda92c90d8b74b565a61805e21155deff3dd6592570f66e89a41c337cf3f34e5",
+        "sharedAyahs": [
+          "27:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HYCUvWXVCWc",
+            "start": 222.12,
+            "end": 280.55
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 449330,
+        "durationMs": 449330,
+        "recordingDurationMs": 449330,
+        "bytes": 5392616,
+        "sha256": "8d26dec61d85a987ae6e2f3438841ff8ba0a00897889cd61e02c9b6f6cc70bce",
+        "sharedAyahs": [
+          "27:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HYCUvWXVCWc",
+            "start": 280.55,
+            "end": 729.86
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 913270,
+        "durationMs": 913270,
+        "recordingDurationMs": 913270,
+        "bytes": 10959944,
+        "sha256": "7a616dc93225239b4613c9ce85de7dfde580fd54e37d7ad3f33eb4eecbbe8b3e",
+        "sharedAyahs": [
+          "27:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HYCUvWXVCWc",
+            "start": 729.86,
+            "end": 1643.14
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 146740,
+        "durationMs": 146740,
+        "recordingDurationMs": 146740,
+        "bytes": 1761512,
+        "sha256": "d74e53cefbfd1d88e5d56ccb560eb4c672fbd91456dd9930499cc444feeccce2",
+        "sharedAyahs": [
+          "27:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jAQNOwo_izs",
+            "start": 2.96,
+            "end": 149.68
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 1336270,
+        "durationMs": 1336270,
+        "recordingDurationMs": 1336270,
+        "bytes": 16035944,
+        "sha256": "ac67e540d5de36d448d34d09b5bdc22a46d1e435543cece86877de914745b012",
+        "sharedAyahs": [
+          "27:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jAQNOwo_izs",
+            "start": 149.68,
+            "end": 1485.96
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 572160,
+        "durationMs": 572160,
+        "recordingDurationMs": 572160,
+        "bytes": 6866600,
+        "sha256": "c35da84849c29bb853be44b7a8a2ccf5fbc1136203881d429451bdeb5c2b654e",
+        "sharedAyahs": [
+          "27:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sh4Thl7KOtw",
+            "start": 0.0,
+            "end": 572.12
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 432410,
+        "durationMs": 432410,
+        "recordingDurationMs": 432410,
+        "bytes": 5189576,
+        "sha256": "daf3d96bbbbaabe2e2fd3b8ca3b61a5ed6fb9f147d601d926b9db7834b430c53",
+        "sharedAyahs": [
+          "27:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sh4Thl7KOtw",
+            "start": 572.12,
+            "end": 1004.51
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 665710,
+        "durationMs": 665710,
+        "recordingDurationMs": 665710,
+        "bytes": 7989224,
+        "sha256": "6eda494f92f018c02ca34e2ec3dea161f8a3b184f543703b2f99ce1d80a8aa68",
+        "sharedAyahs": [
+          "27:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sh4Thl7KOtw",
+            "start": 1004.51,
+            "end": 1670.23
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/other-59.mp3",
+        "startMs": 0,
+        "endMs": 303650,
+        "durationMs": 303650,
+        "recordingDurationMs": 303650,
+        "bytes": 3644447,
+        "sha256": "615664f9932ba7c76df6eee543b03de4ab6a2690993edbf4b22c1a8bc4b74c48",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 3.85,
+            "end": 307.47
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 628850,
+        "durationMs": 628850,
+        "recordingDurationMs": 628850,
+        "bytes": 7546856,
+        "sha256": "338738357fa3b55897cfc8bd9ac462df19e868ff39caa7ed6ba7c13bfe8a0b9a",
+        "sharedAyahs": [
+          "27:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 307.47,
+            "end": 936.29
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 130250,
+        "durationMs": 130250,
+        "recordingDurationMs": 130250,
+        "bytes": 1563661,
+        "sha256": "7cedc093759817fc1a29e7bcd3634c0683afaf0c10b7b542aa8d7613704a7e01",
+        "sharedAyahs": [
+          "27:66",
+          "27:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 936.29,
+            "end": 1066.52
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 89020,
+        "durationMs": 89020,
+        "recordingDurationMs": 89020,
+        "bytes": 1068872,
+        "sha256": "c88508f74ef627c78edb85808bb9361369ce3e2e7d23cd10227dfa84c2c5b9eb",
+        "sharedAyahs": [
+          "27:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 1066.52,
+            "end": 1155.52
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 99410,
+        "durationMs": 99410,
+        "recordingDurationMs": 99410,
+        "bytes": 1193576,
+        "sha256": "75eaf53bb332794065fa5fb3648a4078e1c083a518964a269e1a35070b352f42",
+        "sharedAyahs": [
+          "27:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 1155.52,
+            "end": 1254.9
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 7850,
+        "durationMs": 7850,
+        "recordingDurationMs": 7850,
+        "bytes": 94856,
+        "sha256": "16790dc2011dc3c5de55e27e4c6e0d07b8ade0a38956a296dfb970fba62c0fa1",
+        "sharedAyahs": [
+          "27:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 1254.9,
+            "end": 1262.72
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 100250,
+        "durationMs": 100250,
+        "recordingDurationMs": 100250,
+        "bytes": 1203661,
+        "sha256": "606fa99e8600b7a8c5454317ed3542aa59c95c66df94cc5f3fac524e998cb68d",
+        "sharedAyahs": [
+          "27:71",
+          "27:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 1262.72,
+            "end": 1362.94
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 236570,
+        "durationMs": 236570,
+        "recordingDurationMs": 236570,
+        "bytes": 2839496,
+        "sha256": "165ffdcbb737c8c3f17c787c704ef090229633a917c7acb7455df533587458c9",
+        "sharedAyahs": [
+          "27:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 1362.94,
+            "end": 1599.5
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 71140,
+        "durationMs": 71140,
+        "recordingDurationMs": 71140,
+        "bytes": 854312,
+        "sha256": "e8e1fef5914f4dc085fadf18a875d80f4714ad3b8e362a342aafb275f7b30748",
+        "sharedAyahs": [
+          "27:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ltj4NSzIS9s",
+            "start": 1599.5,
+            "end": 1670.64
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 475750,
+        "durationMs": 475750,
+        "recordingDurationMs": 475750,
+        "bytes": 5709709,
+        "sha256": "7fc7515fd7b9fb4d3bae7522a86ba9a2a9884af6df194d782731cca383f6bfb6",
+        "sharedAyahs": [
+          "27:75",
+          "27:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pRlunyR1GVw",
+            "start": 3.56,
+            "end": 479.29
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 178060,
+        "durationMs": 178060,
+        "recordingDurationMs": 178060,
+        "bytes": 2137352,
+        "sha256": "a997ff07884f42e5e527b8ec440688f42228eb2a83d5a1a71fb9ef09ccc36141",
+        "sharedAyahs": [
+          "27:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pRlunyR1GVw",
+            "start": 479.29,
+            "end": 657.32
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 124850,
+        "durationMs": 124850,
+        "recordingDurationMs": 124850,
+        "bytes": 1498856,
+        "sha256": "b9f893432d27518982ff3a9e6d8b1ce3902187c6fb325205492bad29dad8936a",
+        "sharedAyahs": [
+          "27:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pRlunyR1GVw",
+            "start": 657.32,
+            "end": 782.15
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 97660,
+        "durationMs": 97660,
+        "recordingDurationMs": 97660,
+        "bytes": 1172552,
+        "sha256": "c94034ea72e4b8c3b695a93bb0c88222bd8561040217ecfa275086bdea718713",
+        "sharedAyahs": [
+          "27:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pRlunyR1GVw",
+            "start": 782.15,
+            "end": 879.77
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 414580,
+        "durationMs": 414580,
+        "recordingDurationMs": 414580,
+        "bytes": 4975597,
+        "sha256": "5e82104d676da5aa64e7cb18ff4bc1808d0368bf53b192d4e1e2ff5795ed5216",
+        "sharedAyahs": [
+          "27:80",
+          "27:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pRlunyR1GVw",
+            "start": 879.77,
+            "end": 1294.34
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 341210,
+        "durationMs": 341210,
+        "recordingDurationMs": 341210,
+        "bytes": 4095176,
+        "sha256": "01aa600bf91a2976def0e580e0a584f7dd5cccd2af3552658c4f3c11d3a425dd",
+        "sharedAyahs": [
+          "27:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pRlunyR1GVw",
+            "start": 1294.34,
+            "end": 1635.55
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 7460,
+        "durationMs": 7460,
+        "recordingDurationMs": 7460,
+        "bytes": 90248,
+        "sha256": "3e7a0fd48d28ce96f7709ec96d1f19de90245b4289c6dd3422c50e2d425c08b9",
+        "sharedAyahs": [
+          "27:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZWLC4b3G9fM",
+            "start": 3.09,
+            "end": 10.53
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 8450,
+        "durationMs": 8450,
+        "recordingDurationMs": 8450,
+        "bytes": 102056,
+        "sha256": "c1fab192581cccaa4f6408715ca9b31a1e78c8ed07c8c7dbbfb2ba4b4e1f353e",
+        "sharedAyahs": [
+          "27:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZWLC4b3G9fM",
+            "start": 10.53,
+            "end": 18.95
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 192770,
+        "durationMs": 192770,
+        "recordingDurationMs": 192770,
+        "bytes": 2313896,
+        "sha256": "cda86b9579db073292337deda63d6ab1fe8a610657cebda529799903df3f5d10",
+        "sharedAyahs": [
+          "27:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZWLC4b3G9fM",
+            "start": 18.95,
+            "end": 211.7
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 512160,
+        "durationMs": 512160,
+        "recordingDurationMs": 512160,
+        "bytes": 6146600,
+        "sha256": "1f4f40aea47e08cfbfdcdfc164887ea602378a21bb41bd0ffa110a5745aab1bb",
+        "sharedAyahs": [
+          "27:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZWLC4b3G9fM",
+            "start": 211.7,
+            "end": 723.84
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 317330,
+        "durationMs": 317330,
+        "recordingDurationMs": 317330,
+        "bytes": 3808616,
+        "sha256": "5106fae7d4d459927fa2a71166c47400ea449a870df8ebfd69ae8341d602e015",
+        "sharedAyahs": [
+          "27:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZWLC4b3G9fM",
+            "start": 723.84,
+            "end": 1041.14
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 31800,
+        "durationMs": 31800,
+        "recordingDurationMs": 31800,
+        "bytes": 382280,
+        "sha256": "0877b9eb683c8708ea3c170843e6cfe3780064c25327c98662a3df290adea8ae",
+        "sharedAyahs": [
+          "27:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZWLC4b3G9fM",
+            "start": 1041.14,
+            "end": 1072.9
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 164620,
+        "durationMs": 164620,
+        "recordingDurationMs": 164620,
+        "bytes": 1976072,
+        "sha256": "e87230381fc1b922dcd6e5c0973cd6e4262dc778ea5a6fe28495a2dbd8f9f704",
+        "sharedAyahs": [
+          "27:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZWLC4b3G9fM",
+            "start": 1072.9,
+            "end": 1237.51
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/090.mp3",
+        "startMs": 0,
+        "endMs": 399670,
+        "durationMs": 399670,
+        "recordingDurationMs": 399670,
+        "bytes": 4796744,
+        "sha256": "bce5c8c6e97b51c0a54206b4d21103bde54951dcdab91415e7da3636aa2b749d",
+        "sharedAyahs": [
+          "27:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZWLC4b3G9fM",
+            "start": 1237.51,
+            "end": 1637.18
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/091.mp3",
+        "startMs": 0,
+        "endMs": 224570,
+        "durationMs": 224570,
+        "recordingDurationMs": 224570,
+        "bytes": 2695496,
+        "sha256": "54d6546de5aee81713ad38ae706930e799a2f9a64f072531d046a5507cd3c49f",
+        "sharedAyahs": [
+          "27:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vpH1oy3w8LY",
+            "start": 0.0,
+            "end": 224.53
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 575500,
+        "durationMs": 575500,
+        "recordingDurationMs": 575500,
+        "bytes": 6906632,
+        "sha256": "a7423ff139e54ded17ad0a4d52dba32d7dd25a64cdbbaaf62c73d5416fee26f5",
+        "sharedAyahs": [
+          "27:92"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vpH1oy3w8LY",
+            "start": 224.53,
+            "end": 800.0
+          }
+        ]
+      },
+      {
+        "file": "027-النمل-youtube-v1/093.mp3",
+        "startMs": 0,
+        "endMs": 673540,
+        "durationMs": 673540,
+        "recordingDurationMs": 673540,
+        "bytes": 8083112,
+        "sha256": "8293ac451da7da9d03e11a0d40e79d059ba3d5b7d25e342e6ef6b7ac9d41ea52",
+        "sharedAyahs": [
+          "27:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vpH1oy3w8LY",
+            "start": 800.0,
+            "end": 1473.55
+          }
+        ]
+      }
+    ],
+    "durationMs": 24538450,
+    "additionalAudioBytes": 0
+  }
+}
