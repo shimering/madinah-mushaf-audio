@@ -1,0 +1,2811 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 29,
+  "surahName": "العنكبوت",
+  "ayahCount": 69,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 69,
+    "mappedAyahCount": 69,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "Noj1a0it8GA": {
+      "durationSeconds": 1836.34,
+      "bytes": 22036749,
+      "sha256": "ac65f581db3835c63043938dfec8efbd3cf9ca16a2a346104d420eb40932a820",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-006_Noj1a0it8GA.mp3"
+    },
+    "_uK6YmRPJfE": {
+      "durationSeconds": 2643.41,
+      "bytes": 31721607,
+      "sha256": "c11e20d6224591aac21ca8d6f30bef00be899963eae6a46a91bf512ad461d362",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_006-014__uK6YmRPJfE.mp3"
+    },
+    "6wVYKtKsGZQ": {
+      "durationSeconds": 2595.79,
+      "bytes": 31150216,
+      "sha256": "bbbb0c74e1297726ebf867dfb2404af119d7437e6ad4ef38fef32ba7357a0c10",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_014-017_6wVYKtKsGZQ.mp3"
+    },
+    "cb_Dw-7gmRs": {
+      "durationSeconds": 2612.42,
+      "bytes": 31349806,
+      "sha256": "5b9ab314ed34062d7d5a3f87ad49d0c97edc0840bb811b2422ba245a6d4581cc",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_017-023_cb_Dw-7gmRs.mp3"
+    },
+    "ipWKGXUGGdM": {
+      "durationSeconds": 2588.59,
+      "bytes": 31063815,
+      "sha256": "6eb94f68643ebe0a153ff64912a5751a7d8d7942ad4daa97c40818b523957cd6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_023-028_ipWKGXUGGdM.mp3"
+    },
+    "N-LysphjRNQ": {
+      "durationSeconds": 2570.26,
+      "bytes": 30843784,
+      "sha256": "1dff6a22638e365c2a583ff209e3228e44ce6d11ac0d4a834e67fcac31236b4d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_028-037_N-LysphjRNQ.mp3"
+    },
+    "SzPcBSGUiyE": {
+      "durationSeconds": 2615.02,
+      "bytes": 31380904,
+      "sha256": "e3bceaca16def6aea69d38e0ecd60d3604c99c4f5ff3192beb69cd0bc22b575e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_037-040_SzPcBSGUiyE.mp3"
+    },
+    "O58ySoBqfqY": {
+      "durationSeconds": 2627.74,
+      "bytes": 31533544,
+      "sha256": "25c4ffbd29f1aed4aa94bcb30754f8975ecb02f7889560df90d771b3eb8bb838",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_040-041_O58ySoBqfqY.mp3"
+    },
+    "teYZESDtNRM": {
+      "durationSeconds": 2517.7,
+      "bytes": 30213064,
+      "sha256": "a562479fd672121c1145c2a2bcd10ab50b68dbdad80c0b21daca80b5899a9cac",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_041-044_teYZESDtNRM.mp3"
+    },
+    "qR6l4g6s8uY": {
+      "durationSeconds": 2549.64,
+      "bytes": 30596393,
+      "sha256": "f1a4e1e092b667224e824e207cdeb9a7d2db9892cc20e5089e0362016ee190c3",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_044-045_qR6l4g6s8uY.mp3"
+    },
+    "xWvP0Abvo-E": {
+      "durationSeconds": 2673.55,
+      "bytes": 32083336,
+      "sha256": "9cd033d3a50e19c0ed1c2a3cccfc2285f071f60f1be066fd8fa3a6bcae2b93a3",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_045-047_xWvP0Abvo-E.mp3"
+    },
+    "sqG__hmLfIE": {
+      "durationSeconds": 2623.39,
+      "bytes": 31481417,
+      "sha256": "92bea18cca9858b22a90f70257944c7ba3700de2503b56878ee42e6c1022fbe7",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_047-052_sqG__hmLfIE.mp3"
+    },
+    "Of441al9Ipc": {
+      "durationSeconds": 2597.47,
+      "bytes": 31170377,
+      "sha256": "992968c48803d45517ae6a5a228941e10ea444a3cb9cfbc984e636f37dfa1739",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_051-058_Of441al9Ipc.mp3"
+    },
+    "NkIte20Boss": {
+      "durationSeconds": 2651.23,
+      "bytes": 31815506,
+      "sha256": "ff99cb2e9bb8e4306b7bff7b775eba4d3e0172fabbee6efa4729a974cc945c5b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_058-063_NkIte20Boss.mp3"
+    },
+    "oVQXcvNW2tI": {
+      "durationSeconds": 2622.34,
+      "bytes": 31468744,
+      "sha256": "b775110cd834b13e4d36164ed54c2acf1fabf1c9c2b210dafbc20fdbba2babf5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_064-066_oVQXcvNW2tI.mp3"
+    },
+    "5JRv8Zfry0o": {
+      "durationSeconds": 2595.53,
+      "bytes": 31147049,
+      "sha256": "45a0fe2a3c833373739d28635e4a5dc0c66dd6e234f2f1fd359379efc615abc7",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_065-069_5JRv8Zfry0o.mp3"
+    }
+  },
+  "ayahs": {
+    "29:1": {
+      "file": "029-العنكبوت-youtube-v1/001.mp3",
+      "durationMs": 161260,
+      "bytes": 1935762,
+      "sha256": "54363d0bc5bab325a86cfe336b06b0f561d8d5520d058eff28a10c7fbbb29032",
+      "sharedAyahs": [
+        "29:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Noj1a0it8GA",
+          "start": 264.47,
+          "end": 425.71
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:2": {
+      "file": "029-العنكبوت-youtube-v1/002.mp3",
+      "durationMs": 736080,
+      "bytes": 8833650,
+      "sha256": "9815c269ed114b1003feaab9e184aeba41943ffbd5f8faf7af039ea41d6cf1fb",
+      "sharedAyahs": [
+        "29:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Noj1a0it8GA",
+          "start": 425.71,
+          "end": 1161.76
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:3": {
+      "file": "029-العنكبوت-youtube-v1/003.mp3",
+      "durationMs": 150770,
+      "bytes": 1809906,
+      "sha256": "b9128c075ae69190dd0decc6184c5bcf37a4a1ad33c410185923c7f94c68d920",
+      "sharedAyahs": [
+        "29:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Noj1a0it8GA",
+          "start": 1161.76,
+          "end": 1312.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:4": {
+      "file": "029-العنكبوت-youtube-v1/004.mp3",
+      "durationMs": 83060,
+      "bytes": 997458,
+      "sha256": "ff4cc717220228151f27415e0091c21f609a3b141ef8d6c30750ac2aad52812b",
+      "sharedAyahs": [
+        "29:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Noj1a0it8GA",
+          "start": 1312.51,
+          "end": 1395.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:5": {
+      "file": "029-العنكبوت-youtube-v1/005.mp3",
+      "durationMs": 440780,
+      "bytes": 5290098,
+      "sha256": "b0b89f6eb9c7cb3a0b0b40b95d0770332d5cb427bfec65e7e93e687f7121951e",
+      "sharedAyahs": [
+        "29:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Noj1a0it8GA",
+          "start": 1395.55,
+          "end": 1836.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:6": {
+      "file": "029-العنكبوت-youtube-v1/006.mp3",
+      "durationMs": 1101100,
+      "bytes": 13213846,
+      "sha256": "6df6669de7590fd7fc7b28a26b66970907697c5b945dcdb92f2fe1ea2055ed08",
+      "sharedAyahs": [
+        "29:6",
+        "29:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_uK6YmRPJfE",
+          "start": 25.92,
+          "end": 1126.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:7": {
+      "file": "029-العنكبوت-youtube-v1/006.mp3",
+      "durationMs": 1101100,
+      "bytes": 13213846,
+      "sha256": "6df6669de7590fd7fc7b28a26b66970907697c5b945dcdb92f2fe1ea2055ed08",
+      "sharedAyahs": [
+        "29:6",
+        "29:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_uK6YmRPJfE",
+          "start": 25.92,
+          "end": 1126.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:8": {
+      "file": "029-العنكبوت-youtube-v1/008.mp3",
+      "durationMs": 549790,
+      "bytes": 6598198,
+      "sha256": "04cf05cfbcf1b1e8cab025f462d63d91c20923d2f3eb2436826c1b83f171e688",
+      "sharedAyahs": [
+        "29:8",
+        "29:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_uK6YmRPJfE",
+          "start": 1126.98,
+          "end": 1676.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:9": {
+      "file": "029-العنكبوت-youtube-v1/008.mp3",
+      "durationMs": 549790,
+      "bytes": 6598198,
+      "sha256": "04cf05cfbcf1b1e8cab025f462d63d91c20923d2f3eb2436826c1b83f171e688",
+      "sharedAyahs": [
+        "29:8",
+        "29:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_uK6YmRPJfE",
+          "start": 1126.98,
+          "end": 1676.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:10": {
+      "file": "029-العنكبوت-youtube-v1/010.mp3",
+      "durationMs": 462620,
+      "bytes": 5552180,
+      "sha256": "3c659473f9171c7760d26e66d8c23564897357f8476aba3d1f845f6fa4e99e42",
+      "sharedAyahs": [
+        "29:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_uK6YmRPJfE",
+          "start": 1676.75,
+          "end": 2139.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:11": {
+      "file": "029-العنكبوت-youtube-v1/011.mp3",
+      "durationMs": 30530,
+      "bytes": 367028,
+      "sha256": "520711aeb4dcf4fd81235f0895c3c7c7bab1bed1e451d01b2e61a957d8884e0c",
+      "sharedAyahs": [
+        "29:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_uK6YmRPJfE",
+          "start": 2139.34,
+          "end": 2169.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:12": {
+      "file": "029-العنكبوت-youtube-v1/012.mp3",
+      "durationMs": 300290,
+      "bytes": 3604148,
+      "sha256": "22b6573155ac2d95225f06cc2fd5e813a0e1779bd93c2e2af3dd06baf04cab47",
+      "sharedAyahs": [
+        "29:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_uK6YmRPJfE",
+          "start": 2169.85,
+          "end": 2470.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:13": {
+      "file": "029-العنكبوت-youtube-v1/013.mp3",
+      "durationMs": 167900,
+      "bytes": 2015540,
+      "sha256": "dd0ae1dc88cebded67b4695487a9ec3be867b03f014c8ddf52e890eaffbf5b41",
+      "sharedAyahs": [
+        "29:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_uK6YmRPJfE",
+          "start": 2470.12,
+          "end": 2638.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:14": {
+      "file": "029-العنكبوت-youtube-v1/014.mp3",
+      "durationMs": 1583950,
+      "bytes": 19008121,
+      "sha256": "20e44ac217fa7ecd3eeaf64c7cbdff17ea186dc8ab3b322cf1d32d6642cab13c",
+      "sharedAyahs": [
+        "29:14",
+        "29:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6wVYKtKsGZQ",
+          "start": 0.0,
+          "end": 1583.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:15": {
+      "file": "029-العنكبوت-youtube-v1/014.mp3",
+      "durationMs": 1583950,
+      "bytes": 19008121,
+      "sha256": "20e44ac217fa7ecd3eeaf64c7cbdff17ea186dc8ab3b322cf1d32d6642cab13c",
+      "sharedAyahs": [
+        "29:14",
+        "29:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6wVYKtKsGZQ",
+          "start": 0.0,
+          "end": 1583.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:16": {
+      "file": "029-العنكبوت-youtube-v1/016.mp3",
+      "durationMs": 746300,
+      "bytes": 8956340,
+      "sha256": "7fd2b2cf9ccf8ddd80b3189f47a025b7a6e15c3857f4801e9082e4aac3c3f96d",
+      "sharedAyahs": [
+        "29:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6wVYKtKsGZQ",
+          "start": 1583.92,
+          "end": 2330.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:17": {
+      "file": "029-العنكبوت-youtube-v1/017.mp3",
+      "durationMs": 842260,
+      "bytes": 10107764,
+      "sha256": "d34d5cf8878936a8f3f1a77ffcda0a294c0c52b5aae4e1509d4b74cc9b792628",
+      "sharedAyahs": [
+        "29:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cb_Dw-7gmRs",
+          "start": 0.0,
+          "end": 842.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:18": {
+      "file": "029-العنكبوت-youtube-v1/018.mp3",
+      "durationMs": 825430,
+      "bytes": 9905876,
+      "sha256": "ab3e7a86031ee5e7f9ea10330a7308d993077b0150d471543749455cdd57ff6d",
+      "sharedAyahs": [
+        "29:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cb_Dw-7gmRs",
+          "start": 842.22,
+          "end": 1667.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:19": {
+      "file": "029-العنكبوت-youtube-v1/019.mp3",
+      "durationMs": 55990,
+      "bytes": 672596,
+      "sha256": "b703083fec89a7c7bafa5da9c6bf4bfee95cc4e4a8bf79fe3c9191651733a64b",
+      "sharedAyahs": [
+        "29:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cb_Dw-7gmRs",
+          "start": 1667.63,
+          "end": 1723.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:20": {
+      "file": "029-العنكبوت-youtube-v1/020.mp3",
+      "durationMs": 394610,
+      "bytes": 4735988,
+      "sha256": "1f25fa6aff6f172cd8d9e0cb25332ec865295c811349196ba8db58daa8dacb89",
+      "sharedAyahs": [
+        "29:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cb_Dw-7gmRs",
+          "start": 1723.59,
+          "end": 2118.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:21": {
+      "file": "029-العنكبوت-youtube-v1/021.mp3",
+      "durationMs": 107660,
+      "bytes": 1292660,
+      "sha256": "f8bb46059840076e21880d450cf2b6b7421ea397fd3b191e39f6aed5b73d0dd8",
+      "sharedAyahs": [
+        "29:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cb_Dw-7gmRs",
+          "start": 2118.19,
+          "end": 2225.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:22": {
+      "file": "029-العنكبوت-youtube-v1/022.mp3",
+      "durationMs": 386590,
+      "bytes": 4639796,
+      "sha256": "54eac41cd607da84832ea9c5e125fa4da1652bd6821849c99342251c41aab481",
+      "sharedAyahs": [
+        "29:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cb_Dw-7gmRs",
+          "start": 2225.81,
+          "end": 2612.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:23": {
+      "file": "029-العنكبوت-youtube-v1/023.mp3",
+      "durationMs": 102000,
+      "bytes": 1224692,
+      "sha256": "c46b642b28971180fbdd49169e59349236f0523fdd209a0c28b096b0dbd4c377",
+      "sharedAyahs": [
+        "29:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ipWKGXUGGdM",
+          "start": 6.32,
+          "end": 108.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:24": {
+      "file": "029-العنكبوت-youtube-v1/024.mp3",
+      "durationMs": 791420,
+      "bytes": 9497780,
+      "sha256": "35104ad4cbf038999373a0af95a249e98985faec150dbec0a521145c3810046a",
+      "sharedAyahs": [
+        "29:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ipWKGXUGGdM",
+          "start": 108.31,
+          "end": 899.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:25": {
+      "file": "029-العنكبوت-youtube-v1/025.mp3",
+      "durationMs": 245830,
+      "bytes": 2950676,
+      "sha256": "1e0883e20c955672c2cb2a92b8706bceb5f393cca80d7896da1f06bdfd5ada10",
+      "sharedAyahs": [
+        "29:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ipWKGXUGGdM",
+          "start": 899.69,
+          "end": 1145.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:26": {
+      "file": "029-العنكبوت-youtube-v1/026.mp3",
+      "durationMs": 984340,
+      "bytes": 11812724,
+      "sha256": "f491bb528cf8c99412f379866ef8c5c9d1d3a059c8b727b78b797b7deb5a71a3",
+      "sharedAyahs": [
+        "29:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ipWKGXUGGdM",
+          "start": 1145.5,
+          "end": 2129.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:27": {
+      "file": "029-العنكبوت-youtube-v1/027.mp3",
+      "durationMs": 456910,
+      "bytes": 5483636,
+      "sha256": "d1d26945f3f9ac87ec66ad13fc635a160e9b0babe5969d5c66a91f6e431d5ed2",
+      "sharedAyahs": [
+        "29:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ipWKGXUGGdM",
+          "start": 2129.81,
+          "end": 2586.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:28": {
+      "file": "029-العنكبوت-youtube-v1/028.mp3",
+      "durationMs": 83930,
+      "bytes": 1007828,
+      "sha256": "cd69553b2e63d0f9e18c42677b71cd396e52f80c8426405f0f712019667ed3b6",
+      "sharedAyahs": [
+        "29:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 6.22,
+          "end": 90.13
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:29": {
+      "file": "029-العنكبوت-youtube-v1/029.mp3",
+      "durationMs": 1238950,
+      "bytes": 14868116,
+      "sha256": "6b59dbe910a8fac77252ae5c11198a5bbe2bdafc469116ae64706221cd45be25",
+      "sharedAyahs": [
+        "29:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 90.13,
+          "end": 1329.05
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:30": {
+      "file": "029-العنكبوت-youtube-v1/030.mp3",
+      "durationMs": 19850,
+      "bytes": 238868,
+      "sha256": "5df49d71a6769c0511b2a89a0744aa9aa783d7b33552f7d7e9988a6787183424",
+      "sharedAyahs": [
+        "29:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 1329.05,
+          "end": 1348.89
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:31": {
+      "file": "029-العنكبوت-youtube-v1/031.mp3",
+      "durationMs": 208180,
+      "bytes": 2498804,
+      "sha256": "fa7103611e3d8609b2f592f298e05f6202e072b3ee5cbfd8881d00c8e8f2f274",
+      "sharedAyahs": [
+        "29:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 1348.89,
+          "end": 1557.03
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:32": {
+      "file": "029-العنكبوت-youtube-v1/032.mp3",
+      "durationMs": 100460,
+      "bytes": 1206260,
+      "sha256": "b0b80b3cdf0ffb321b18af07a3435780aec00dfb3a339c79538935492cd50455",
+      "sharedAyahs": [
+        "29:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 1557.03,
+          "end": 1657.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:33": {
+      "file": "029-العنكبوت-youtube-v1/033.mp3",
+      "durationMs": 238940,
+      "bytes": 2868020,
+      "sha256": "7401112470d58cd2f4f75d80a7ef6aa9317a6a40a13813a7d6741b8cca63186e",
+      "sharedAyahs": [
+        "29:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 1657.48,
+          "end": 1896.39
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:34": {
+      "file": "029-العنكبوت-youtube-v1/034.mp3",
+      "durationMs": 24820,
+      "bytes": 298484,
+      "sha256": "44d63ea618aed7bf107227aadf5f047929718f25fd3ec5a1cd2624d3ee6a6bb8",
+      "sharedAyahs": [
+        "29:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 1896.39,
+          "end": 1921.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:35": {
+      "file": "029-العنكبوت-youtube-v1/035.mp3",
+      "durationMs": 36020,
+      "bytes": 432980,
+      "sha256": "6a6b17b6c40ea7ff05303c435982520cfd00722dd03ba3838a54f868e0bf2101",
+      "sharedAyahs": [
+        "29:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 1921.2,
+          "end": 1957.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:36": {
+      "file": "029-العنكبوت-youtube-v1/036.mp3",
+      "durationMs": 609840,
+      "bytes": 7318772,
+      "sha256": "4d69fb666ba5bee687d4befd27f93a32f122e89ec648057c550a329ff15167fa",
+      "sharedAyahs": [
+        "29:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-LysphjRNQ",
+          "start": 1957.2,
+          "end": 2567.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:37": {
+      "file": "029-العنكبوت-youtube-v1/037.mp3",
+      "durationMs": 2041220,
+      "bytes": 24495385,
+      "sha256": "bce3fbb832d7bc0b2dc0857c98028d0a36e46de8f808aaa8b572bcd7637fc197",
+      "sharedAyahs": [
+        "29:37",
+        "29:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SzPcBSGUiyE",
+          "start": 53.56,
+          "end": 2094.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:38": {
+      "file": "029-العنكبوت-youtube-v1/037.mp3",
+      "durationMs": 2041220,
+      "bytes": 24495385,
+      "sha256": "bce3fbb832d7bc0b2dc0857c98028d0a36e46de8f808aaa8b572bcd7637fc197",
+      "sharedAyahs": [
+        "29:37",
+        "29:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SzPcBSGUiyE",
+          "start": 53.56,
+          "end": 2094.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:39": {
+      "file": "029-العنكبوت-youtube-v1/039.mp3",
+      "durationMs": 83300,
+      "bytes": 1000340,
+      "sha256": "b663e09e7500e2f95c982b58e0b8ebd890e7531733e80c2ec9a1c5aa2c8d9125",
+      "sharedAyahs": [
+        "29:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SzPcBSGUiyE",
+          "start": 2094.75,
+          "end": 2178.04
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:40": {
+      "file": "029-العنكبوت-youtube-v1/040.mp3",
+      "durationMs": 430300,
+      "bytes": 5164244,
+      "sha256": "bf9aa898cf3cffedb0a681c5bb14bfaff00155e8fe94d7ce1a7dd629840d4f2e",
+      "sharedAyahs": [
+        "29:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SzPcBSGUiyE",
+          "start": 2178.04,
+          "end": 2608.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:41": {
+      "file": "029-العنكبوت-youtube-v1/041.mp3",
+      "durationMs": 2438470,
+      "bytes": 29262356,
+      "sha256": "fe28a9c80928bcdc1ce263d2030d028df653e9651111e6bded433aa196fab750",
+      "sharedAyahs": [
+        "29:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "O58ySoBqfqY",
+          "start": 187.73,
+          "end": 2626.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:42": {
+      "file": "029-العنكبوت-youtube-v1/042.mp3",
+      "durationMs": 1173940,
+      "bytes": 14087924,
+      "sha256": "0922a1f493c91b69064cdbe2981a7c39e1ca850eaccd96c9ac9fc695db9fc4ee",
+      "sharedAyahs": [
+        "29:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "teYZESDtNRM",
+          "start": 6.99,
+          "end": 1180.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:43": {
+      "file": "029-العنكبوت-youtube-v1/043.mp3",
+      "durationMs": 475080,
+      "bytes": 5701652,
+      "sha256": "e3cfe068e9a00f3cce28bb7ae92128335f2eef259f3dd26c3f571aaa7e4107ed",
+      "sharedAyahs": [
+        "29:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "teYZESDtNRM",
+          "start": 1180.91,
+          "end": 1655.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:44": {
+      "file": "029-العنكبوت-youtube-v1/044.mp3",
+      "durationMs": 859970,
+      "bytes": 10320308,
+      "sha256": "2f61b0408d02872a24cc5469f34c46c47b85b9c9735b175c5ecbf3cc3de50f3a",
+      "sharedAyahs": [
+        "29:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "teYZESDtNRM",
+          "start": 1655.96,
+          "end": 2515.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:45": {
+      "file": "029-العنكبوت-youtube-v1/045.mp3",
+      "durationMs": 2541260,
+      "bytes": 30495860,
+      "sha256": "e0234b48cfeef705cbbddea1dcac92b24b0824147e887acf27a5d28a7f4fd141",
+      "sharedAyahs": [
+        "29:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qR6l4g6s8uY",
+          "start": 3.76,
+          "end": 2545.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:46": {
+      "file": "029-العنكبوت-youtube-v1/046.mp3",
+      "durationMs": 623590,
+      "bytes": 7483796,
+      "sha256": "631fbd9cc99309ade8ccbe7f8f5e2ab933c6956145c9f54885ec67152486b865",
+      "sharedAyahs": [
+        "29:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xWvP0Abvo-E",
+          "start": 1768.98,
+          "end": 2392.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:47": {
+      "file": "029-العنكبوت-youtube-v1/047.mp3",
+      "durationMs": 280990,
+      "bytes": 3372596,
+      "sha256": "106f2395439776706e962602b920ae132e85c71cd0c3b2d4f27c23614ada8168",
+      "sharedAyahs": [
+        "29:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xWvP0Abvo-E",
+          "start": 2392.56,
+          "end": 2673.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:48": {
+      "file": "029-العنكبوت-youtube-v1/048.mp3",
+      "durationMs": 971780,
+      "bytes": 11662100,
+      "sha256": "924881e7a999fa41c5a6c0db4cfc6ca20cc10f5e993907b9ced389d2f6832d2a",
+      "sharedAyahs": [
+        "29:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sqG__hmLfIE",
+          "start": 598.74,
+          "end": 1570.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:49": {
+      "file": "029-العنكبوت-youtube-v1/049.mp3",
+      "durationMs": 41710,
+      "bytes": 501236,
+      "sha256": "52a6c173c79b7937860b3ce1f898b9cc8cc82fbbb1481682102ce543b8aa0903",
+      "sharedAyahs": [
+        "29:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sqG__hmLfIE",
+          "start": 1570.51,
+          "end": 1612.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:50": {
+      "file": "029-العنكبوت-youtube-v1/050.mp3",
+      "durationMs": 496560,
+      "bytes": 5959412,
+      "sha256": "d5ff85428efded7af46a93601181531f6161659fb068ef48601a3d7c77479a0c",
+      "sharedAyahs": [
+        "29:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sqG__hmLfIE",
+          "start": 1612.2,
+          "end": 2108.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:51": {
+      "file": "029-العنكبوت-youtube-v1/051.mp3",
+      "durationMs": 507500,
+      "bytes": 6090740,
+      "sha256": "80671016e229da05440b19abee43ebc4a4d05471f3e4346d9567e18791e0bc0e",
+      "sharedAyahs": [
+        "29:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sqG__hmLfIE",
+          "start": 2108.72,
+          "end": 2616.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:52": {
+      "file": "029-العنكبوت-youtube-v1/052.mp3",
+      "durationMs": 576650,
+      "bytes": 6920468,
+      "sha256": "c7c92089e53c943d6c7f8e659ded4d567b8e11f91a682d4d10aa81bb2cc605d1",
+      "sharedAyahs": [
+        "29:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Of441al9Ipc",
+          "start": 6.03,
+          "end": 582.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:53": {
+      "file": "029-العنكبوت-youtube-v1/053.mp3",
+      "durationMs": 449230,
+      "bytes": 5391476,
+      "sha256": "c932585c6ac12607571a18e683b2d142d82583d9e1f62ecf425fc02d85922846",
+      "sharedAyahs": [
+        "29:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Of441al9Ipc",
+          "start": 582.65,
+          "end": 1031.88
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:54": {
+      "file": "029-العنكبوت-youtube-v1/054.mp3",
+      "durationMs": 287520,
+      "bytes": 3450932,
+      "sha256": "1ae147646d01f22e8e70ffa8fc2e7e6cb1ee3373a31f42bbf9bab6ea837f1f3c",
+      "sharedAyahs": [
+        "29:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Of441al9Ipc",
+          "start": 1031.88,
+          "end": 1319.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:55": {
+      "file": "029-العنكبوت-youtube-v1/055.mp3",
+      "durationMs": 152810,
+      "bytes": 1834388,
+      "sha256": "7babcfe393947842f7a8139872e19f21c313e81831762efaea062eaf7c1e4794",
+      "sharedAyahs": [
+        "29:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Of441al9Ipc",
+          "start": 1319.37,
+          "end": 1472.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:56": {
+      "file": "029-العنكبوت-youtube-v1/056.mp3",
+      "durationMs": 917810,
+      "bytes": 11014388,
+      "sha256": "35f2eb7f1ca5ae9ed20cd8124c14cc96ba5454f667509f71868a4c61eda2d882",
+      "sharedAyahs": [
+        "29:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Of441al9Ipc",
+          "start": 1472.14,
+          "end": 2389.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:57": {
+      "file": "029-العنكبوت-youtube-v1/057.mp3",
+      "durationMs": 203180,
+      "bytes": 2438900,
+      "sha256": "a9accfffdccea00233bf5ecef36d3c34bd548802f1747d184141b7bcd78f06b0",
+      "sharedAyahs": [
+        "29:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Of441al9Ipc",
+          "start": 2389.93,
+          "end": 2593.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:58": {
+      "file": "029-العنكبوت-youtube-v1/058.mp3",
+      "durationMs": 879260,
+      "bytes": 10551860,
+      "sha256": "8b92aa3aa05eda3e15c0a85572bd54c15c85971a2dc2d06552aea0a3f4d51565",
+      "sharedAyahs": [
+        "29:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NkIte20Boss",
+          "start": 0.0,
+          "end": 879.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:59": {
+      "file": "029-العنكبوت-youtube-v1/059.mp3",
+      "durationMs": 375720,
+      "bytes": 4509332,
+      "sha256": "93faca6b1c2e87fa994e734cfa3f4e0eabf46da09434fe3387c9cf2923cfd9b6",
+      "sharedAyahs": [
+        "29:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NkIte20Boss",
+          "start": 879.22,
+          "end": 1254.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:60": {
+      "file": "029-العنكبوت-youtube-v1/060.mp3",
+      "durationMs": 978070,
+      "bytes": 11737556,
+      "sha256": "53395214c6c67b2b163805eb19e40a40273950ed08b0c62f5e1a07e3be980603",
+      "sharedAyahs": [
+        "29:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NkIte20Boss",
+          "start": 1254.93,
+          "end": 2232.97
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:61": {
+      "file": "029-العنكبوت-youtube-v1/061.mp3",
+      "durationMs": 45410,
+      "bytes": 545588,
+      "sha256": "954f62749964b2593f0fce7707edac8586b3cded2c2a99d77a103e95c93edee5",
+      "sharedAyahs": [
+        "29:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NkIte20Boss",
+          "start": 2232.97,
+          "end": 2278.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:62": {
+      "file": "029-العنكبوت-youtube-v1/062.mp3",
+      "durationMs": 8210,
+      "bytes": 99188,
+      "sha256": "a1f3c2dd03ea8a1cc96736698b88015652dce1b7f49af513e24ec23abae300db",
+      "sharedAyahs": [
+        "29:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NkIte20Boss",
+          "start": 2278.35,
+          "end": 2286.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:63": {
+      "file": "029-العنكبوت-youtube-v1/063.mp3",
+      "durationMs": 364680,
+      "bytes": 4376852,
+      "sha256": "497552fdc53e618c318959e29fe6e0ee5f4192d5039a7d4c21ca07db74669580",
+      "sharedAyahs": [
+        "29:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NkIte20Boss",
+          "start": 2286.53,
+          "end": 2651.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:64": {
+      "file": "029-العنكبوت-youtube-v1/064.mp3",
+      "durationMs": 740500,
+      "bytes": 8886644,
+      "sha256": "d51b3d83cc6b08d65a10f81db67210ae4f6663e502de269e413a064bfd1f880d",
+      "sharedAyahs": [
+        "29:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oVQXcvNW2tI",
+          "start": 2.64,
+          "end": 743.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:65": {
+      "file": "029-العنكبوت-youtube-v1/065.mp3",
+      "durationMs": 1879220,
+      "bytes": 22551380,
+      "sha256": "91f8dc97d91fb270acd2329312c221afe4d7a4940ec530c0d08ba3b32961164b",
+      "sharedAyahs": [
+        "29:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oVQXcvNW2tI",
+          "start": 743.11,
+          "end": 2622.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:66": {
+      "file": "029-العنكبوت-youtube-v1/066.mp3",
+      "durationMs": 412510,
+      "bytes": 4950841,
+      "sha256": "281bfede66f0b3b05107e63de7c0119fdd19e8e74012758e9bbc86aeac6ae0e4",
+      "sharedAyahs": [
+        "29:66",
+        "29:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5JRv8Zfry0o",
+          "start": 3.73,
+          "end": 416.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:67": {
+      "file": "029-العنكبوت-youtube-v1/066.mp3",
+      "durationMs": 412510,
+      "bytes": 4950841,
+      "sha256": "281bfede66f0b3b05107e63de7c0119fdd19e8e74012758e9bbc86aeac6ae0e4",
+      "sharedAyahs": [
+        "29:66",
+        "29:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5JRv8Zfry0o",
+          "start": 3.73,
+          "end": 416.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:68": {
+      "file": "029-العنكبوت-youtube-v1/068.mp3",
+      "durationMs": 1280260,
+      "bytes": 15363764,
+      "sha256": "2b88de55c1526f95f574907dbee3a29840c9dd0a9c97424698c7baa6bfd470bc",
+      "sharedAyahs": [
+        "29:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5JRv8Zfry0o",
+          "start": 416.22,
+          "end": 1696.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    "29:69": {
+      "file": "029-العنكبوت-youtube-v1/069.mp3",
+      "durationMs": 895870,
+      "bytes": 10751156,
+      "sha256": "202b9350bc628840b35737f0f38968b1643e0196a49e3603faa32eec82a86b6d",
+      "sharedAyahs": [
+        "29:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5JRv8Zfry0o",
+          "start": 1696.45,
+          "end": 2592.3
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "029-العنكبوت-youtube-v1/other-00.mp3",
+      "kind": "other",
+      "durationMs": 264500,
+      "bytes": 3174731,
+      "sha256": "aa75a568bd95ba064dbe802391465b06d25ccc555b38d11232542fb59e722627",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Noj1a0it8GA",
+          "start": 0.0,
+          "end": 264.47
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "029-العنكبوت-youtube-v1/other-14.mp3",
+      "kind": "other",
+      "durationMs": 259820,
+      "bytes": 3118571,
+      "sha256": "602c6369720ade184df2d5b0ac31b0cb642dd9113114c718e047f8a4d0d524ec",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "6wVYKtKsGZQ",
+          "start": 2330.2,
+          "end": 2590.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "029-العنكبوت-youtube-v1/other-35.mp3",
+      "kind": "other",
+      "durationMs": 53590,
+      "bytes": 643787,
+      "sha256": "5e74708139abd5dface831b0606552925ee691286bf9cfdd5ca3f5887b3d0f59",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "SzPcBSGUiyE",
+          "start": 0.0,
+          "end": 53.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "029-العنكبوت-youtube-v1/other-39.mp3",
+      "kind": "other",
+      "durationMs": 187780,
+      "bytes": 2253995,
+      "sha256": "219991a5d13d1fe7e0f2be263ac68da6163b4dbcff4af2f66f3994e87b2eceb4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "O58ySoBqfqY",
+          "start": 0.0,
+          "end": 187.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "029-العنكبوت-youtube-v1/other-45.mp3",
+      "kind": "other",
+      "durationMs": 1761310,
+      "bytes": 21136427,
+      "sha256": "c43194c50ba1025bb937f5d0a65cf7925c2c7f481b66e53f586a2e675bc418a6",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "xWvP0Abvo-E",
+          "start": 7.7,
+          "end": 1768.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "029-العنكبوت-youtube-v1/other-48.mp3",
+      "kind": "other",
+      "durationMs": 598780,
+      "bytes": 7185995,
+      "sha256": "6e01ef7cbb3bb141210b9f76b16ea16aff9362874d0280c75c5cd1524c76d2c7",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "sqG__hmLfIE",
+          "start": 0.0,
+          "end": 598.74
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL49165BE5545A412E",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "ankabut-letters-intro",
+      "title": "فواتح السور بالحروف المقطعة وحكمة الوقف عليها",
+      "file": "029-العنكبوت-youtube-v1/other-00.mp3",
+      "startMs": 0,
+      "endMs": 264500
+    },
+    {
+      "id": "ankabut-ibrahim-intro",
+      "title": "مقدمة دعوة خليل الله إبراهيم لقومه وبيان حقيقة الأوثان",
+      "file": "029-العنكبوت-youtube-v1/other-14.mp3",
+      "startMs": 0,
+      "endMs": 259820
+    },
+    {
+      "id": "ankabut-ruin-of-nations",
+      "title": "مصير المكذبين من الأمم الخالية وعاقبة الجحود",
+      "file": "029-العنكبوت-youtube-v1/other-35.mp3",
+      "startMs": 0,
+      "endMs": 53590
+    },
+    {
+      "id": "ankabut-spider-web",
+      "title": "مثل العنكبوت واتخاذ الأولياء من دون الله وحقيقة الوهن",
+      "file": "029-العنكبوت-youtube-v1/other-39.mp3",
+      "startMs": 0,
+      "endMs": 187780
+    },
+    {
+      "id": "ankabut-salah-dhikr",
+      "title": "فضل الصلاة ومقام ذكر الله الأكبر وأثره في السلوك",
+      "file": "029-العنكبوت-youtube-v1/other-45.mp3",
+      "startMs": 0,
+      "endMs": 1761310
+    },
+    {
+      "id": "ankabut-ummi-prophet",
+      "title": "أمية النبي صلى الله عليه وسلم كأعظم دليل على إعجاز القرآن",
+      "file": "029-العنكبوت-youtube-v1/other-48.mp3",
+      "startMs": 0,
+      "endMs": 598780
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "Noj1a0it8GA",
+      "_uK6YmRPJfE",
+      "6wVYKtKsGZQ",
+      "cb_Dw-7gmRs",
+      "ipWKGXUGGdM",
+      "N-LysphjRNQ",
+      "SzPcBSGUiyE",
+      "O58ySoBqfqY",
+      "teYZESDtNRM",
+      "qR6l4g6s8uY",
+      "xWvP0Abvo-E",
+      "sqG__hmLfIE",
+      "Of441al9Ipc",
+      "NkIte20Boss",
+      "oVQXcvNW2tI",
+      "5JRv8Zfry0o"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "029-العنكبوت-youtube-v1/other-00.mp3",
+        "startMs": 0,
+        "endMs": 264500,
+        "durationMs": 264500,
+        "recordingDurationMs": 264500,
+        "bytes": 3174731,
+        "sha256": "aa75a568bd95ba064dbe802391465b06d25ccc555b38d11232542fb59e722627",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "Noj1a0it8GA",
+            "start": 0.0,
+            "end": 264.47
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 161260,
+        "durationMs": 161260,
+        "recordingDurationMs": 161260,
+        "bytes": 1935762,
+        "sha256": "54363d0bc5bab325a86cfe336b06b0f561d8d5520d058eff28a10c7fbbb29032",
+        "sharedAyahs": [
+          "29:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Noj1a0it8GA",
+            "start": 264.47,
+            "end": 425.71
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 736080,
+        "durationMs": 736080,
+        "recordingDurationMs": 736080,
+        "bytes": 8833650,
+        "sha256": "9815c269ed114b1003feaab9e184aeba41943ffbd5f8faf7af039ea41d6cf1fb",
+        "sharedAyahs": [
+          "29:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Noj1a0it8GA",
+            "start": 425.71,
+            "end": 1161.76
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 150770,
+        "durationMs": 150770,
+        "recordingDurationMs": 150770,
+        "bytes": 1809906,
+        "sha256": "b9128c075ae69190dd0decc6184c5bcf37a4a1ad33c410185923c7f94c68d920",
+        "sharedAyahs": [
+          "29:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Noj1a0it8GA",
+            "start": 1161.76,
+            "end": 1312.51
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 83060,
+        "durationMs": 83060,
+        "recordingDurationMs": 83060,
+        "bytes": 997458,
+        "sha256": "ff4cc717220228151f27415e0091c21f609a3b141ef8d6c30750ac2aad52812b",
+        "sharedAyahs": [
+          "29:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Noj1a0it8GA",
+            "start": 1312.51,
+            "end": 1395.55
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 440780,
+        "durationMs": 440780,
+        "recordingDurationMs": 440780,
+        "bytes": 5290098,
+        "sha256": "b0b89f6eb9c7cb3a0b0b40b95d0770332d5cb427bfec65e7e93e687f7121951e",
+        "sharedAyahs": [
+          "29:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Noj1a0it8GA",
+            "start": 1395.55,
+            "end": 1836.34
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 1101100,
+        "durationMs": 1101100,
+        "recordingDurationMs": 1101100,
+        "bytes": 13213846,
+        "sha256": "6df6669de7590fd7fc7b28a26b66970907697c5b945dcdb92f2fe1ea2055ed08",
+        "sharedAyahs": [
+          "29:6",
+          "29:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_uK6YmRPJfE",
+            "start": 25.92,
+            "end": 1126.98
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 549790,
+        "durationMs": 549790,
+        "recordingDurationMs": 549790,
+        "bytes": 6598198,
+        "sha256": "04cf05cfbcf1b1e8cab025f462d63d91c20923d2f3eb2436826c1b83f171e688",
+        "sharedAyahs": [
+          "29:8",
+          "29:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_uK6YmRPJfE",
+            "start": 1126.98,
+            "end": 1676.75
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 462620,
+        "durationMs": 462620,
+        "recordingDurationMs": 462620,
+        "bytes": 5552180,
+        "sha256": "3c659473f9171c7760d26e66d8c23564897357f8476aba3d1f845f6fa4e99e42",
+        "sharedAyahs": [
+          "29:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_uK6YmRPJfE",
+            "start": 1676.75,
+            "end": 2139.34
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 30530,
+        "durationMs": 30530,
+        "recordingDurationMs": 30530,
+        "bytes": 367028,
+        "sha256": "520711aeb4dcf4fd81235f0895c3c7c7bab1bed1e451d01b2e61a957d8884e0c",
+        "sharedAyahs": [
+          "29:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_uK6YmRPJfE",
+            "start": 2139.34,
+            "end": 2169.85
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 300290,
+        "durationMs": 300290,
+        "recordingDurationMs": 300290,
+        "bytes": 3604148,
+        "sha256": "22b6573155ac2d95225f06cc2fd5e813a0e1779bd93c2e2af3dd06baf04cab47",
+        "sharedAyahs": [
+          "29:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_uK6YmRPJfE",
+            "start": 2169.85,
+            "end": 2470.12
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 167900,
+        "durationMs": 167900,
+        "recordingDurationMs": 167900,
+        "bytes": 2015540,
+        "sha256": "dd0ae1dc88cebded67b4695487a9ec3be867b03f014c8ddf52e890eaffbf5b41",
+        "sharedAyahs": [
+          "29:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_uK6YmRPJfE",
+            "start": 2470.12,
+            "end": 2638.0
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 1583950,
+        "durationMs": 1583950,
+        "recordingDurationMs": 1583950,
+        "bytes": 19008121,
+        "sha256": "20e44ac217fa7ecd3eeaf64c7cbdff17ea186dc8ab3b322cf1d32d6642cab13c",
+        "sharedAyahs": [
+          "29:14",
+          "29:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6wVYKtKsGZQ",
+            "start": 0.0,
+            "end": 1583.92
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 746300,
+        "durationMs": 746300,
+        "recordingDurationMs": 746300,
+        "bytes": 8956340,
+        "sha256": "7fd2b2cf9ccf8ddd80b3189f47a025b7a6e15c3857f4801e9082e4aac3c3f96d",
+        "sharedAyahs": [
+          "29:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6wVYKtKsGZQ",
+            "start": 1583.92,
+            "end": 2330.2
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/other-14.mp3",
+        "startMs": 0,
+        "endMs": 259820,
+        "durationMs": 259820,
+        "recordingDurationMs": 259820,
+        "bytes": 3118571,
+        "sha256": "602c6369720ade184df2d5b0ac31b0cb642dd9113114c718e047f8a4d0d524ec",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "6wVYKtKsGZQ",
+            "start": 2330.2,
+            "end": 2590.0
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 842260,
+        "durationMs": 842260,
+        "recordingDurationMs": 842260,
+        "bytes": 10107764,
+        "sha256": "d34d5cf8878936a8f3f1a77ffcda0a294c0c52b5aae4e1509d4b74cc9b792628",
+        "sharedAyahs": [
+          "29:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cb_Dw-7gmRs",
+            "start": 0.0,
+            "end": 842.22
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 825430,
+        "durationMs": 825430,
+        "recordingDurationMs": 825430,
+        "bytes": 9905876,
+        "sha256": "ab3e7a86031ee5e7f9ea10330a7308d993077b0150d471543749455cdd57ff6d",
+        "sharedAyahs": [
+          "29:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cb_Dw-7gmRs",
+            "start": 842.22,
+            "end": 1667.63
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 55990,
+        "durationMs": 55990,
+        "recordingDurationMs": 55990,
+        "bytes": 672596,
+        "sha256": "b703083fec89a7c7bafa5da9c6bf4bfee95cc4e4a8bf79fe3c9191651733a64b",
+        "sharedAyahs": [
+          "29:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cb_Dw-7gmRs",
+            "start": 1667.63,
+            "end": 1723.59
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 394610,
+        "durationMs": 394610,
+        "recordingDurationMs": 394610,
+        "bytes": 4735988,
+        "sha256": "1f25fa6aff6f172cd8d9e0cb25332ec865295c811349196ba8db58daa8dacb89",
+        "sharedAyahs": [
+          "29:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cb_Dw-7gmRs",
+            "start": 1723.59,
+            "end": 2118.19
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 107660,
+        "durationMs": 107660,
+        "recordingDurationMs": 107660,
+        "bytes": 1292660,
+        "sha256": "f8bb46059840076e21880d450cf2b6b7421ea397fd3b191e39f6aed5b73d0dd8",
+        "sharedAyahs": [
+          "29:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cb_Dw-7gmRs",
+            "start": 2118.19,
+            "end": 2225.81
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 386590,
+        "durationMs": 386590,
+        "recordingDurationMs": 386590,
+        "bytes": 4639796,
+        "sha256": "54eac41cd607da84832ea9c5e125fa4da1652bd6821849c99342251c41aab481",
+        "sharedAyahs": [
+          "29:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cb_Dw-7gmRs",
+            "start": 2225.81,
+            "end": 2612.42
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 102000,
+        "durationMs": 102000,
+        "recordingDurationMs": 102000,
+        "bytes": 1224692,
+        "sha256": "c46b642b28971180fbdd49169e59349236f0523fdd209a0c28b096b0dbd4c377",
+        "sharedAyahs": [
+          "29:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ipWKGXUGGdM",
+            "start": 6.32,
+            "end": 108.31
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 791420,
+        "durationMs": 791420,
+        "recordingDurationMs": 791420,
+        "bytes": 9497780,
+        "sha256": "35104ad4cbf038999373a0af95a249e98985faec150dbec0a521145c3810046a",
+        "sharedAyahs": [
+          "29:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ipWKGXUGGdM",
+            "start": 108.31,
+            "end": 899.69
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 245830,
+        "durationMs": 245830,
+        "recordingDurationMs": 245830,
+        "bytes": 2950676,
+        "sha256": "1e0883e20c955672c2cb2a92b8706bceb5f393cca80d7896da1f06bdfd5ada10",
+        "sharedAyahs": [
+          "29:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ipWKGXUGGdM",
+            "start": 899.69,
+            "end": 1145.5
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 984340,
+        "durationMs": 984340,
+        "recordingDurationMs": 984340,
+        "bytes": 11812724,
+        "sha256": "f491bb528cf8c99412f379866ef8c5c9d1d3a059c8b727b78b797b7deb5a71a3",
+        "sharedAyahs": [
+          "29:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ipWKGXUGGdM",
+            "start": 1145.5,
+            "end": 2129.81
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 456910,
+        "durationMs": 456910,
+        "recordingDurationMs": 456910,
+        "bytes": 5483636,
+        "sha256": "d1d26945f3f9ac87ec66ad13fc635a160e9b0babe5969d5c66a91f6e431d5ed2",
+        "sharedAyahs": [
+          "29:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ipWKGXUGGdM",
+            "start": 2129.81,
+            "end": 2586.7
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 83930,
+        "durationMs": 83930,
+        "recordingDurationMs": 83930,
+        "bytes": 1007828,
+        "sha256": "cd69553b2e63d0f9e18c42677b71cd396e52f80c8426405f0f712019667ed3b6",
+        "sharedAyahs": [
+          "29:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 6.22,
+            "end": 90.13
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 1238950,
+        "durationMs": 1238950,
+        "recordingDurationMs": 1238950,
+        "bytes": 14868116,
+        "sha256": "6b59dbe910a8fac77252ae5c11198a5bbe2bdafc469116ae64706221cd45be25",
+        "sharedAyahs": [
+          "29:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 90.13,
+            "end": 1329.05
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 19850,
+        "durationMs": 19850,
+        "recordingDurationMs": 19850,
+        "bytes": 238868,
+        "sha256": "5df49d71a6769c0511b2a89a0744aa9aa783d7b33552f7d7e9988a6787183424",
+        "sharedAyahs": [
+          "29:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 1329.05,
+            "end": 1348.89
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 208180,
+        "durationMs": 208180,
+        "recordingDurationMs": 208180,
+        "bytes": 2498804,
+        "sha256": "fa7103611e3d8609b2f592f298e05f6202e072b3ee5cbfd8881d00c8e8f2f274",
+        "sharedAyahs": [
+          "29:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 1348.89,
+            "end": 1557.03
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 100460,
+        "durationMs": 100460,
+        "recordingDurationMs": 100460,
+        "bytes": 1206260,
+        "sha256": "b0b80b3cdf0ffb321b18af07a3435780aec00dfb3a339c79538935492cd50455",
+        "sharedAyahs": [
+          "29:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 1557.03,
+            "end": 1657.48
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 238940,
+        "durationMs": 238940,
+        "recordingDurationMs": 238940,
+        "bytes": 2868020,
+        "sha256": "7401112470d58cd2f4f75d80a7ef6aa9317a6a40a13813a7d6741b8cca63186e",
+        "sharedAyahs": [
+          "29:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 1657.48,
+            "end": 1896.39
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 24820,
+        "durationMs": 24820,
+        "recordingDurationMs": 24820,
+        "bytes": 298484,
+        "sha256": "44d63ea618aed7bf107227aadf5f047929718f25fd3ec5a1cd2624d3ee6a6bb8",
+        "sharedAyahs": [
+          "29:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 1896.39,
+            "end": 1921.2
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 36020,
+        "durationMs": 36020,
+        "recordingDurationMs": 36020,
+        "bytes": 432980,
+        "sha256": "6a6b17b6c40ea7ff05303c435982520cfd00722dd03ba3838a54f868e0bf2101",
+        "sharedAyahs": [
+          "29:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 1921.2,
+            "end": 1957.2
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 609840,
+        "durationMs": 609840,
+        "recordingDurationMs": 609840,
+        "bytes": 7318772,
+        "sha256": "4d69fb666ba5bee687d4befd27f93a32f122e89ec648057c550a329ff15167fa",
+        "sharedAyahs": [
+          "29:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-LysphjRNQ",
+            "start": 1957.2,
+            "end": 2567.0
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/other-35.mp3",
+        "startMs": 0,
+        "endMs": 53590,
+        "durationMs": 53590,
+        "recordingDurationMs": 53590,
+        "bytes": 643787,
+        "sha256": "5e74708139abd5dface831b0606552925ee691286bf9cfdd5ca3f5887b3d0f59",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "SzPcBSGUiyE",
+            "start": 0.0,
+            "end": 53.56
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 2041220,
+        "durationMs": 2041220,
+        "recordingDurationMs": 2041220,
+        "bytes": 24495385,
+        "sha256": "bce3fbb832d7bc0b2dc0857c98028d0a36e46de8f808aaa8b572bcd7637fc197",
+        "sharedAyahs": [
+          "29:37",
+          "29:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "SzPcBSGUiyE",
+            "start": 53.56,
+            "end": 2094.75
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 83300,
+        "durationMs": 83300,
+        "recordingDurationMs": 83300,
+        "bytes": 1000340,
+        "sha256": "b663e09e7500e2f95c982b58e0b8ebd890e7531733e80c2ec9a1c5aa2c8d9125",
+        "sharedAyahs": [
+          "29:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "SzPcBSGUiyE",
+            "start": 2094.75,
+            "end": 2178.04
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 430300,
+        "durationMs": 430300,
+        "recordingDurationMs": 430300,
+        "bytes": 5164244,
+        "sha256": "bf9aa898cf3cffedb0a681c5bb14bfaff00155e8fe94d7ce1a7dd629840d4f2e",
+        "sharedAyahs": [
+          "29:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "SzPcBSGUiyE",
+            "start": 2178.04,
+            "end": 2608.3
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/other-39.mp3",
+        "startMs": 0,
+        "endMs": 187780,
+        "durationMs": 187780,
+        "recordingDurationMs": 187780,
+        "bytes": 2253995,
+        "sha256": "219991a5d13d1fe7e0f2be263ac68da6163b4dbcff4af2f66f3994e87b2eceb4",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "O58ySoBqfqY",
+            "start": 0.0,
+            "end": 187.73
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 2438470,
+        "durationMs": 2438470,
+        "recordingDurationMs": 2438470,
+        "bytes": 29262356,
+        "sha256": "fe28a9c80928bcdc1ce263d2030d028df653e9651111e6bded433aa196fab750",
+        "sharedAyahs": [
+          "29:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "O58ySoBqfqY",
+            "start": 187.73,
+            "end": 2626.2
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 1173940,
+        "durationMs": 1173940,
+        "recordingDurationMs": 1173940,
+        "bytes": 14087924,
+        "sha256": "0922a1f493c91b69064cdbe2981a7c39e1ca850eaccd96c9ac9fc695db9fc4ee",
+        "sharedAyahs": [
+          "29:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "teYZESDtNRM",
+            "start": 6.99,
+            "end": 1180.91
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 475080,
+        "durationMs": 475080,
+        "recordingDurationMs": 475080,
+        "bytes": 5701652,
+        "sha256": "e3cfe068e9a00f3cce28bb7ae92128335f2eef259f3dd26c3f571aaa7e4107ed",
+        "sharedAyahs": [
+          "29:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "teYZESDtNRM",
+            "start": 1180.91,
+            "end": 1655.96
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 859970,
+        "durationMs": 859970,
+        "recordingDurationMs": 859970,
+        "bytes": 10320308,
+        "sha256": "2f61b0408d02872a24cc5469f34c46c47b85b9c9735b175c5ecbf3cc3de50f3a",
+        "sharedAyahs": [
+          "29:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "teYZESDtNRM",
+            "start": 1655.96,
+            "end": 2515.9
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 2541260,
+        "durationMs": 2541260,
+        "recordingDurationMs": 2541260,
+        "bytes": 30495860,
+        "sha256": "e0234b48cfeef705cbbddea1dcac92b24b0824147e887acf27a5d28a7f4fd141",
+        "sharedAyahs": [
+          "29:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qR6l4g6s8uY",
+            "start": 3.76,
+            "end": 2545.0
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/other-45.mp3",
+        "startMs": 0,
+        "endMs": 1761310,
+        "durationMs": 1761310,
+        "recordingDurationMs": 1761310,
+        "bytes": 21136427,
+        "sha256": "c43194c50ba1025bb937f5d0a65cf7925c2c7f481b66e53f586a2e675bc418a6",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "xWvP0Abvo-E",
+            "start": 7.7,
+            "end": 1768.98
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 623590,
+        "durationMs": 623590,
+        "recordingDurationMs": 623590,
+        "bytes": 7483796,
+        "sha256": "631fbd9cc99309ade8ccbe7f8f5e2ab933c6956145c9f54885ec67152486b865",
+        "sharedAyahs": [
+          "29:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xWvP0Abvo-E",
+            "start": 1768.98,
+            "end": 2392.56
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 280990,
+        "durationMs": 280990,
+        "recordingDurationMs": 280990,
+        "bytes": 3372596,
+        "sha256": "106f2395439776706e962602b920ae132e85c71cd0c3b2d4f27c23614ada8168",
+        "sharedAyahs": [
+          "29:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xWvP0Abvo-E",
+            "start": 2392.56,
+            "end": 2673.55
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/other-48.mp3",
+        "startMs": 0,
+        "endMs": 598780,
+        "durationMs": 598780,
+        "recordingDurationMs": 598780,
+        "bytes": 7185995,
+        "sha256": "6e01ef7cbb3bb141210b9f76b16ea16aff9362874d0280c75c5cd1524c76d2c7",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "sqG__hmLfIE",
+            "start": 0.0,
+            "end": 598.74
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 971780,
+        "durationMs": 971780,
+        "recordingDurationMs": 971780,
+        "bytes": 11662100,
+        "sha256": "924881e7a999fa41c5a6c0db4cfc6ca20cc10f5e993907b9ced389d2f6832d2a",
+        "sharedAyahs": [
+          "29:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sqG__hmLfIE",
+            "start": 598.74,
+            "end": 1570.51
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 41710,
+        "durationMs": 41710,
+        "recordingDurationMs": 41710,
+        "bytes": 501236,
+        "sha256": "52a6c173c79b7937860b3ce1f898b9cc8cc82fbbb1481682102ce543b8aa0903",
+        "sharedAyahs": [
+          "29:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sqG__hmLfIE",
+            "start": 1570.51,
+            "end": 1612.2
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 496560,
+        "durationMs": 496560,
+        "recordingDurationMs": 496560,
+        "bytes": 5959412,
+        "sha256": "d5ff85428efded7af46a93601181531f6161659fb068ef48601a3d7c77479a0c",
+        "sharedAyahs": [
+          "29:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sqG__hmLfIE",
+            "start": 1612.2,
+            "end": 2108.72
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 507500,
+        "durationMs": 507500,
+        "recordingDurationMs": 507500,
+        "bytes": 6090740,
+        "sha256": "80671016e229da05440b19abee43ebc4a4d05471f3e4346d9567e18791e0bc0e",
+        "sharedAyahs": [
+          "29:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sqG__hmLfIE",
+            "start": 2108.72,
+            "end": 2616.2
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 576650,
+        "durationMs": 576650,
+        "recordingDurationMs": 576650,
+        "bytes": 6920468,
+        "sha256": "c7c92089e53c943d6c7f8e659ded4d567b8e11f91a682d4d10aa81bb2cc605d1",
+        "sharedAyahs": [
+          "29:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Of441al9Ipc",
+            "start": 6.03,
+            "end": 582.65
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 449230,
+        "durationMs": 449230,
+        "recordingDurationMs": 449230,
+        "bytes": 5391476,
+        "sha256": "c932585c6ac12607571a18e683b2d142d82583d9e1f62ecf425fc02d85922846",
+        "sharedAyahs": [
+          "29:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Of441al9Ipc",
+            "start": 582.65,
+            "end": 1031.88
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 287520,
+        "durationMs": 287520,
+        "recordingDurationMs": 287520,
+        "bytes": 3450932,
+        "sha256": "1ae147646d01f22e8e70ffa8fc2e7e6cb1ee3373a31f42bbf9bab6ea837f1f3c",
+        "sharedAyahs": [
+          "29:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Of441al9Ipc",
+            "start": 1031.88,
+            "end": 1319.37
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 152810,
+        "durationMs": 152810,
+        "recordingDurationMs": 152810,
+        "bytes": 1834388,
+        "sha256": "7babcfe393947842f7a8139872e19f21c313e81831762efaea062eaf7c1e4794",
+        "sharedAyahs": [
+          "29:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Of441al9Ipc",
+            "start": 1319.37,
+            "end": 1472.14
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 917810,
+        "durationMs": 917810,
+        "recordingDurationMs": 917810,
+        "bytes": 11014388,
+        "sha256": "35f2eb7f1ca5ae9ed20cd8124c14cc96ba5454f667509f71868a4c61eda2d882",
+        "sharedAyahs": [
+          "29:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Of441al9Ipc",
+            "start": 1472.14,
+            "end": 2389.93
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 203180,
+        "durationMs": 203180,
+        "recordingDurationMs": 203180,
+        "bytes": 2438900,
+        "sha256": "a9accfffdccea00233bf5ecef36d3c34bd548802f1747d184141b7bcd78f06b0",
+        "sharedAyahs": [
+          "29:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Of441al9Ipc",
+            "start": 2389.93,
+            "end": 2593.1
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 879260,
+        "durationMs": 879260,
+        "recordingDurationMs": 879260,
+        "bytes": 10551860,
+        "sha256": "8b92aa3aa05eda3e15c0a85572bd54c15c85971a2dc2d06552aea0a3f4d51565",
+        "sharedAyahs": [
+          "29:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NkIte20Boss",
+            "start": 0.0,
+            "end": 879.22
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 375720,
+        "durationMs": 375720,
+        "recordingDurationMs": 375720,
+        "bytes": 4509332,
+        "sha256": "93faca6b1c2e87fa994e734cfa3f4e0eabf46da09434fe3387c9cf2923cfd9b6",
+        "sharedAyahs": [
+          "29:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NkIte20Boss",
+            "start": 879.22,
+            "end": 1254.93
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 978070,
+        "durationMs": 978070,
+        "recordingDurationMs": 978070,
+        "bytes": 11737556,
+        "sha256": "53395214c6c67b2b163805eb19e40a40273950ed08b0c62f5e1a07e3be980603",
+        "sharedAyahs": [
+          "29:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NkIte20Boss",
+            "start": 1254.93,
+            "end": 2232.97
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 45410,
+        "durationMs": 45410,
+        "recordingDurationMs": 45410,
+        "bytes": 545588,
+        "sha256": "954f62749964b2593f0fce7707edac8586b3cded2c2a99d77a103e95c93edee5",
+        "sharedAyahs": [
+          "29:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NkIte20Boss",
+            "start": 2232.97,
+            "end": 2278.35
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 8210,
+        "durationMs": 8210,
+        "recordingDurationMs": 8210,
+        "bytes": 99188,
+        "sha256": "a1f3c2dd03ea8a1cc96736698b88015652dce1b7f49af513e24ec23abae300db",
+        "sharedAyahs": [
+          "29:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NkIte20Boss",
+            "start": 2278.35,
+            "end": 2286.53
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 364680,
+        "durationMs": 364680,
+        "recordingDurationMs": 364680,
+        "bytes": 4376852,
+        "sha256": "497552fdc53e618c318959e29fe6e0ee5f4192d5039a7d4c21ca07db74669580",
+        "sharedAyahs": [
+          "29:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NkIte20Boss",
+            "start": 2286.53,
+            "end": 2651.23
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 740500,
+        "durationMs": 740500,
+        "recordingDurationMs": 740500,
+        "bytes": 8886644,
+        "sha256": "d51b3d83cc6b08d65a10f81db67210ae4f6663e502de269e413a064bfd1f880d",
+        "sharedAyahs": [
+          "29:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oVQXcvNW2tI",
+            "start": 2.64,
+            "end": 743.11
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 1879220,
+        "durationMs": 1879220,
+        "recordingDurationMs": 1879220,
+        "bytes": 22551380,
+        "sha256": "91f8dc97d91fb270acd2329312c221afe4d7a4940ec530c0d08ba3b32961164b",
+        "sharedAyahs": [
+          "29:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oVQXcvNW2tI",
+            "start": 743.11,
+            "end": 2622.34
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 412510,
+        "durationMs": 412510,
+        "recordingDurationMs": 412510,
+        "bytes": 4950841,
+        "sha256": "281bfede66f0b3b05107e63de7c0119fdd19e8e74012758e9bbc86aeac6ae0e4",
+        "sharedAyahs": [
+          "29:66",
+          "29:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5JRv8Zfry0o",
+            "start": 3.73,
+            "end": 416.22
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 1280260,
+        "durationMs": 1280260,
+        "recordingDurationMs": 1280260,
+        "bytes": 15363764,
+        "sha256": "2b88de55c1526f95f574907dbee3a29840c9dd0a9c97424698c7baa6bfd470bc",
+        "sharedAyahs": [
+          "29:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5JRv8Zfry0o",
+            "start": 416.22,
+            "end": 1696.45
+          }
+        ]
+      },
+      {
+        "file": "029-العنكبوت-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 895870,
+        "durationMs": 895870,
+        "recordingDurationMs": 895870,
+        "bytes": 10751156,
+        "sha256": "202b9350bc628840b35737f0f38968b1643e0196a49e3603faa32eec82a86b6d",
+        "sharedAyahs": [
+          "29:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5JRv8Zfry0o",
+            "start": 1696.45,
+            "end": 2592.3
+          }
+        ]
+      }
+    ],
+    "durationMs": 40806820,
+    "additionalAudioBytes": 0
+  }
+}
