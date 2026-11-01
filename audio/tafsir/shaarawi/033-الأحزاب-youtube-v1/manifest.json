@@ -1,0 +1,4707 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 33,
+  "surahName": "الأحزاب",
+  "ayahCount": 73,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 73,
+    "mappedAyahCount": 73,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "HyfgYIcJm0o": {
+      "durationSeconds": 2705.4,
+      "bytes": 32465499,
+      "sha256": "5b423a6fe0389e8cde7b696c19e5563fecc2c899503507ab076e163e9fd1b0e3",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-001_HyfgYIcJm0o.mp3"
+    },
+    "-DddKDneO2o": {
+      "durationSeconds": 2626.58,
+      "bytes": 31519711,
+      "sha256": "0da802956156fc21a81ce33947e61fe010972dd3ec1236adc9fd7af3e63fa82c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_001-002_-DddKDneO2o.mp3"
+    },
+    "5-9bDf_1aAs": {
+      "durationSeconds": 2631.0,
+      "bytes": 31572702,
+      "sha256": "11b6216bef608586de53062bd184828a27c48ca1ec5dc0262401de66e10bcb16",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_002-004_5-9bDf_1aAs.mp3"
+    },
+    "-X3MuLgaZj0": {
+      "durationSeconds": 2623.3,
+      "bytes": 31480255,
+      "sha256": "4de00d659cc515a475bed7f7fb5d84f59272bd1cf28a8c2dafeb46d69d125502",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_004-007_-X3MuLgaZj0.mp3"
+    },
+    "kNyE1d9Hmao": {
+      "durationSeconds": 2566.73,
+      "bytes": 30801439,
+      "sha256": "76c2320d4d89c125c275515af2d2a30a8fcfef3736763c90b1ec19c1e0e333fa",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_007-009_kNyE1d9Hmao.mp3"
+    },
+    "7HwtdyA_kNg": {
+      "durationSeconds": 2634.86,
+      "bytes": 31619073,
+      "sha256": "e63c11a3077dc11b4a81259e51d875586cba7af3c5245480809d6970546bf7a1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_009-016_7HwtdyA_kNg.mp3"
+    },
+    "lmgZ5Oy5wME": {
+      "durationSeconds": 2598.84,
+      "bytes": 31186787,
+      "sha256": "fe5d446073f42dfea0b9402723c5b1a45251fb1c58077145b844df8faf5dca61",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_016-023_lmgZ5Oy5wME.mp3"
+    },
+    "-PGapTA-SiI": {
+      "durationSeconds": 2668.49,
+      "bytes": 32022563,
+      "sha256": "bfaae4c9c0453ffa53f764a4017fe5b1610227ae246e8c5748d9b62ca3e04590",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_023-028_-PGapTA-SiI.mp3"
+    },
+    "KjbJ5PhxEuU": {
+      "durationSeconds": 2584.82,
+      "bytes": 31018595,
+      "sha256": "0858d14e736b78b95f4e263d9a542085e9ccb13982fe3874bfae97718a726234",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_028-031_KjbJ5PhxEuU.mp3"
+    },
+    "XlsHbMXYbb0": {
+      "durationSeconds": 2770.3,
+      "bytes": 33244260,
+      "sha256": "7ee46a1951032ff715ad3224f24ba8ac7520d0eca81dd67090d68198a4c78278",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_031-035_XlsHbMXYbb0.mp3"
+    },
+    "-uMmGxAMjUw": {
+      "durationSeconds": 2667.91,
+      "bytes": 32015652,
+      "sha256": "7337ef10032be83627dfd3c99f85bc82c6c3d929372f6eea8f2e14bb126c9a40",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_035-036_-uMmGxAMjUw.mp3"
+    },
+    "Xj5WXnPlUTo": {
+      "durationSeconds": 2621.86,
+      "bytes": 31462980,
+      "sha256": "650681779889fd6637f8ccba76b2a3dc8997c55f654404e36f143f01227ca439",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_036-042_Xj5WXnPlUTo.mp3"
+    },
+    "qK-3LwesqEg": {
+      "durationSeconds": 2727.91,
+      "bytes": 32735651,
+      "sha256": "3356584c06847963c4ee41ed8f518045522bef7ad4bde33d327d18784d167eae",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_042-045_qK-3LwesqEg.mp3"
+    },
+    "ENPxPz6DkrE": {
+      "durationSeconds": 2676.53,
+      "bytes": 32119044,
+      "sha256": "32ed772cad9afe9e4b98f2210d06fd425476bcb26c545d778972aac896420ced",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_045-049_ENPxPz6DkrE.mp3"
+    },
+    "LN8Hrnn-7kI": {
+      "durationSeconds": 2636.26,
+      "bytes": 31635780,
+      "sha256": "ea7d1e42abe9ce7d5159eab225494d3074c1bcb0f4b1344fee87283e8734054d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_049-050_LN8Hrnn-7kI.mp3"
+    },
+    "lBOLy3d7xGQ": {
+      "durationSeconds": 2753.06,
+      "bytes": 33037476,
+      "sha256": "de577a7d2c6b36e08c25b411909ee6d942d7bcb2807ae355e3a480fd52f06d92",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_050-051_lBOLy3d7xGQ.mp3"
+    },
+    "QTQqYUP1n9E": {
+      "durationSeconds": 2567.66,
+      "bytes": 30812672,
+      "sha256": "0400dac0fed5934753761aa0e276d59c27a192acee6ede7c94a217c437ce2c22",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "017_052-052_QTQqYUP1n9E.mp3"
+    },
+    "GsSs1SCAshY": {
+      "durationSeconds": 2659.39,
+      "bytes": 31913412,
+      "sha256": "3ce57796de4558bec6be903ef84fef52afc181af4953cc0ebce7d5b616a285ed",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "018_052-057_GsSs1SCAshY.mp3"
+    },
+    "vQKNKIoR5GE": {
+      "durationSeconds": 2586.34,
+      "bytes": 31036740,
+      "sha256": "a557d675e2adfc6bc4a210107a1b3770dba36f5e672b087d23fc93377020f78b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "019_057-059_vQKNKIoR5GE.mp3"
+    },
+    "D1hqjs0d3kg": {
+      "durationSeconds": 2499.07,
+      "bytes": 29989572,
+      "sha256": "aad6b3c26499a72dcdb32e056c7dcbd1329f6fd52bf78c9240d21fae5503e1ef",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "020_059-063_D1hqjs0d3kg.mp3"
+    },
+    "Xrca592jGGk": {
+      "durationSeconds": 2621.38,
+      "bytes": 31457219,
+      "sha256": "adc1867a34ac61035216feeb6574348d976f105d38eeb888b07ce84ab5de90fe",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "021_063-065_Xrca592jGGk.mp3"
+    },
+    "a2XKIg6bkOc": {
+      "durationSeconds": 2557.63,
+      "bytes": 30692293,
+      "sha256": "ca6251d9ac5389771eda8dc8719d25623dc3264d1a6b5dad255e0d93e9c4f541",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "022_065-072_a2XKIg6bkOc.mp3"
+    },
+    "tcjR2w1baTw": {
+      "durationSeconds": 1368.1,
+      "bytes": 16417859,
+      "sha256": "7faec874faa6592f56c6124b6c02e1cbb54cb4e5351ac8d5eda66208b0df9eb0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "023_072-073_tcjR2w1baTw.mp3"
+    }
+  },
+  "ayahs": {
+    "33:1": {
+      "file": "033-الأحزاب-youtube-v1/001.mp3",
+      "durationMs": 2686750,
+      "bytes": 32241710,
+      "sha256": "3acd277795d1986ad6bca8aeea7a219bf29d4f4cc678dc3f7a70930ac04f961a",
+      "sharedAyahs": [
+        "33:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HyfgYIcJm0o",
+          "start": 13.94,
+          "end": 2700.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:2": {
+      "file": "033-الأحزاب-youtube-v1/002.mp3",
+      "durationMs": 736560,
+      "bytes": 8839406,
+      "sha256": "9d0213dd8a8f53c7e994794adacc7de6663a3260da23d8303f368d1257f4d560",
+      "sharedAyahs": [
+        "33:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5-9bDf_1aAs",
+          "start": 11.98,
+          "end": 748.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:3": {
+      "file": "033-الأحزاب-youtube-v1/003.mp3",
+      "durationMs": 142010,
+      "bytes": 1704782,
+      "sha256": "468e3476824028e8e644db430a388721804d9f607bf730adb58e3e7f62679a5d",
+      "sharedAyahs": [
+        "33:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5-9bDf_1aAs",
+          "start": 748.53,
+          "end": 890.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:4": {
+      "file": "033-الأحزاب-youtube-v1/004.mp3",
+      "durationMs": 1716190,
+      "bytes": 20594729,
+      "sha256": "de41bd705738640f1f35a5b994921a312df5c41f67e94cb266d7dc1f44099102",
+      "sharedAyahs": [
+        "33:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5-9bDf_1aAs",
+          "start": 890.51,
+          "end": 1925.69
+        },
+        {
+          "source": "5-9bDf_1aAs",
+          "start": 1947.59,
+          "end": 2628.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:5": {
+      "file": "033-الأحزاب-youtube-v1/005.mp3",
+      "durationMs": 730580,
+      "bytes": 8767694,
+      "sha256": "282d82e2f2c5c3b16449e3b02c7ad79d153a5eafade5c19513ccc058387eec33",
+      "sharedAyahs": [
+        "33:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X3MuLgaZj0",
+          "start": 330.23,
+          "end": 1060.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:6": {
+      "file": "033-الأحزاب-youtube-v1/006.mp3",
+      "durationMs": 1035000,
+      "bytes": 12420425,
+      "sha256": "3b72e2ce47d0a25cee5aa6303ac9ff48747ff2165bab4c1ab7170c5d477a9f30",
+      "sharedAyahs": [
+        "33:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X3MuLgaZj0",
+          "start": 1060.78,
+          "end": 1545.77
+        },
+        {
+          "source": "-X3MuLgaZj0",
+          "start": 1565.82,
+          "end": 2115.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:7": {
+      "file": "033-الأحزاب-youtube-v1/007.mp3",
+      "durationMs": 501340,
+      "bytes": 6016718,
+      "sha256": "56cff4d8aade0f0b43f59dd880a0f58c468972e1d99c3131f7bd5e55baa55542",
+      "sharedAyahs": [
+        "33:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X3MuLgaZj0",
+          "start": 2115.78,
+          "end": 2617.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:8": {
+      "file": "033-الأحزاب-youtube-v1/008.mp3",
+      "durationMs": 560060,
+      "bytes": 6721454,
+      "sha256": "510ffbf848ab74423af62c4350b761983e090e5a68f09a5232ffb29120ef0db4",
+      "sharedAyahs": [
+        "33:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kNyE1d9Hmao",
+          "start": 2003.88,
+          "end": 2563.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:9": {
+      "file": "033-الأحزاب-youtube-v1/009.mp3",
+      "durationMs": 55580,
+      "bytes": 667694,
+      "sha256": "9742dbb6fa3d7acd9d2d65ed5404659cca48d0a5c1c17a79ff1add7c9bf88530",
+      "sharedAyahs": [
+        "33:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 1373.64,
+          "end": 1429.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:10": {
+      "file": "033-الأحزاب-youtube-v1/010.mp3",
+      "durationMs": 13270,
+      "bytes": 159952,
+      "sha256": "9acd127f2c168a808d3194fd8daa80679ca03d212dfdf802b1019b6132e12308",
+      "sharedAyahs": [
+        "33:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 1429.19,
+          "end": 1442.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:11": {
+      "file": "033-الأحزاب-youtube-v1/011.mp3",
+      "durationMs": 500040,
+      "bytes": 6001168,
+      "sha256": "1f4ef87032267cb775980a5fae856abd5385fddbc07c397fae13fc7940605f60",
+      "sharedAyahs": [
+        "33:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 1442.44,
+          "end": 1942.46
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:12": {
+      "file": "033-الأحزاب-youtube-v1/012.mp3",
+      "durationMs": 131230,
+      "bytes": 1575472,
+      "sha256": "8e9e16e2ef2969de3cf0a92962aca992aecfe08be4bfb7d143ceb491bcbf7fda",
+      "sharedAyahs": [
+        "33:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 1942.46,
+          "end": 2073.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:13": {
+      "file": "033-الأحزاب-youtube-v1/013.mp3",
+      "durationMs": 53660,
+      "bytes": 644656,
+      "sha256": "d869bbe02ebe7adaafb8d6b18baffee79c47be38e4441421a02db6599f34cc84",
+      "sharedAyahs": [
+        "33:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 2073.67,
+          "end": 2127.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:14": {
+      "file": "033-الأحزاب-youtube-v1/014.mp3",
+      "durationMs": 116160,
+      "bytes": 1394608,
+      "sha256": "714514d8c152f64e02e8aec034cee1ff3f805d968462c660994af593a2b7240b",
+      "sharedAyahs": [
+        "33:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 2127.31,
+          "end": 2243.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:15": {
+      "file": "033-الأحزاب-youtube-v1/015.mp3",
+      "durationMs": 307220,
+      "bytes": 3687376,
+      "sha256": "3e0fff8b76e2ef89e31fc46bbfdbda92fb08647db622622e5770dd53172bfb1c",
+      "sharedAyahs": [
+        "33:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 2243.43,
+          "end": 2550.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:16": {
+      "file": "033-الأحزاب-youtube-v1/016.mp3",
+      "durationMs": 65860,
+      "bytes": 790960,
+      "sha256": "d857ad7affef6cb977aa0b2167e8b235e631b85c8c4cbd6ae50e420b7df497df",
+      "sharedAyahs": [
+        "33:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 2550.64,
+          "end": 2616.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:17": {
+      "file": "033-الأحزاب-youtube-v1/017.mp3",
+      "durationMs": 246550,
+      "bytes": 2959312,
+      "sha256": "9d7c0db8557e50345e61b06ed1db92e1bbec3c6bce4b9428f746d288c38124d4",
+      "sharedAyahs": [
+        "33:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 96.83,
+          "end": 343.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:18": {
+      "file": "033-الأحزاب-youtube-v1/018.mp3",
+      "durationMs": 1158310,
+      "bytes": 13900432,
+      "sha256": "ab5d4c3809b40c6afe8fc47bb653b9676ccb8ab187033b632e960d257c262413",
+      "sharedAyahs": [
+        "33:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 343.35,
+          "end": 1501.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:19": {
+      "file": "033-الأحزاب-youtube-v1/019.mp3",
+      "durationMs": 481270,
+      "bytes": 5775691,
+      "sha256": "f6ae46955fc6c6c2f37a871e29745e29943d77dfb43ea5f9524747fa0bd0b57e",
+      "sharedAyahs": [
+        "33:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 1501.65,
+          "end": 1614.01
+        },
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 1636.13,
+          "end": 2005.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:20": {
+      "file": "033-الأحزاب-youtube-v1/020.mp3",
+      "durationMs": 119380,
+      "bytes": 1433200,
+      "sha256": "84afb7ffaf670d3c3d67fa825743115f2e15fc022914ce17016b0704bcc2c8e9",
+      "sharedAyahs": [
+        "33:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 2005.0,
+          "end": 2124.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:21": {
+      "file": "033-الأحزاب-youtube-v1/021.mp3",
+      "durationMs": 302350,
+      "bytes": 3628912,
+      "sha256": "b3fbde6423dcad583df4e9370525924619577f74f160c1d1988841146072de04",
+      "sharedAyahs": [
+        "33:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 2124.35,
+          "end": 2426.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:22": {
+      "file": "033-الأحزاب-youtube-v1/022.mp3",
+      "durationMs": 62040,
+      "bytes": 745168,
+      "sha256": "c48a427b53907cf7397ff93dc87487c469f2be7b489b5ed9031ceba8e535fd67",
+      "sharedAyahs": [
+        "33:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 2426.68,
+          "end": 2488.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:23": {
+      "file": "033-الأحزاب-youtube-v1/023.mp3",
+      "durationMs": 109270,
+      "bytes": 1311952,
+      "sha256": "6325a026f0fc4d6774b5a5cd11f6095f51ec0a935a02b82a5d17a99dbbb87baa",
+      "sharedAyahs": [
+        "33:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 2488.69,
+          "end": 2597.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:24": {
+      "file": "033-الأحزاب-youtube-v1/024.mp3",
+      "durationMs": 133970,
+      "bytes": 1608304,
+      "sha256": "01a6def3a053e375cac60cb140dda027f5864f21f0f209e63180ed84ca08cdfd",
+      "sharedAyahs": [
+        "33:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PGapTA-SiI",
+          "start": 371.07,
+          "end": 505.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:25": {
+      "file": "033-الأحزاب-youtube-v1/025.mp3",
+      "durationMs": 172560,
+      "bytes": 2071408,
+      "sha256": "9df4837a7e5c57edea35841db66549d3a0f3a9c0a6dda44ee2914a5f6b98549f",
+      "sharedAyahs": [
+        "33:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PGapTA-SiI",
+          "start": 505.02,
+          "end": 677.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:26": {
+      "file": "033-الأحزاب-youtube-v1/026.mp3",
+      "durationMs": 21170,
+      "bytes": 254704,
+      "sha256": "27db84da6fab8e51bf9c29a33a3034ee44fd017707aedddc8f3870072ec44e24",
+      "sharedAyahs": [
+        "33:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PGapTA-SiI",
+          "start": 677.55,
+          "end": 698.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:27": {
+      "file": "033-الأحزاب-youtube-v1/027.mp3",
+      "durationMs": 1770720,
+      "bytes": 21249328,
+      "sha256": "494e577ba3d3b7f71659b04142018ba1467c31dbd578ed48798f09a85a65ae40",
+      "sharedAyahs": [
+        "33:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-PGapTA-SiI",
+          "start": 698.7,
+          "end": 2469.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:28": {
+      "file": "033-الأحزاب-youtube-v1/028.mp3",
+      "durationMs": 1348010,
+      "bytes": 16176523,
+      "sha256": "a0b75632fb4925fb79257a71d74574a671cf96cbed7911a4b86b8a27dc6d1b94",
+      "sharedAyahs": [
+        "33:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KjbJ5PhxEuU",
+          "start": 70.0,
+          "end": 1235.09
+        },
+        {
+          "source": "KjbJ5PhxEuU",
+          "start": 1264.86,
+          "end": 1447.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:29": {
+      "file": "033-الأحزاب-youtube-v1/029.mp3",
+      "durationMs": 588960,
+      "bytes": 7068208,
+      "sha256": "f717a09a0fcdee2015f9ef8bec7a81ff7504e68922c5c451f820cd07aeba7b11",
+      "sharedAyahs": [
+        "33:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KjbJ5PhxEuU",
+          "start": 1447.72,
+          "end": 2036.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:30": {
+      "file": "033-الأحزاب-youtube-v1/030.mp3",
+      "durationMs": 540960,
+      "bytes": 6492208,
+      "sha256": "a34220fd5f627ff8eb80c5cca8462cd6aa4a6b3867b25ede7b1dc60f8e67a23e",
+      "sharedAyahs": [
+        "33:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KjbJ5PhxEuU",
+          "start": 2036.66,
+          "end": 2577.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:31": {
+      "file": "033-الأحزاب-youtube-v1/031.mp3",
+      "durationMs": 757850,
+      "bytes": 9094864,
+      "sha256": "ec162a79691e48ab0080a63165292faf6d31d0cb2e1519bb77da5679578ca283",
+      "sharedAyahs": [
+        "33:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XlsHbMXYbb0",
+          "start": 40.6,
+          "end": 798.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:32": {
+      "file": "033-الأحزاب-youtube-v1/032.mp3",
+      "durationMs": 604270,
+      "bytes": 7251952,
+      "sha256": "d4970df8fafb49ca5fd94994f6b80bd5712584e9458e843b95265d3c75053459",
+      "sharedAyahs": [
+        "33:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XlsHbMXYbb0",
+          "start": 798.43,
+          "end": 1402.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:33": {
+      "file": "033-الأحزاب-youtube-v1/033.mp3",
+      "durationMs": 749900,
+      "bytes": 8999275,
+      "sha256": "b34c0c9de428ac943423c3eddf6c7e653284e79cfc61fea8b92fc318610f39c7",
+      "sharedAyahs": [
+        "33:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XlsHbMXYbb0",
+          "start": 1402.67,
+          "end": 1567.42
+        },
+        {
+          "source": "XlsHbMXYbb0",
+          "start": 1591.36,
+          "end": 2176.46
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:34": {
+      "file": "033-الأحزاب-youtube-v1/034.mp3",
+      "durationMs": 477220,
+      "bytes": 5727280,
+      "sha256": "15cc0a7b1f59b9104a19aedc66e8bd2c6be90482b74707cabf0dc74523f18868",
+      "sharedAyahs": [
+        "33:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XlsHbMXYbb0",
+          "start": 2176.46,
+          "end": 2653.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:35": {
+      "file": "033-الأحزاب-youtube-v1/035.mp3",
+      "durationMs": 972100,
+      "bytes": 11665579,
+      "sha256": "1d8b464fe56291d1d94177906984ba37839492bd898ef546f58bf40cc606cc5a",
+      "sharedAyahs": [
+        "33:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-uMmGxAMjUw",
+          "start": 0.0,
+          "end": 285.68
+        },
+        {
+          "source": "-uMmGxAMjUw",
+          "start": 305.99,
+          "end": 549.09
+        },
+        {
+          "source": "-uMmGxAMjUw",
+          "start": 577.09,
+          "end": 1020.33
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:36": {
+      "file": "033-الأحزاب-youtube-v1/036.mp3",
+      "durationMs": 1614100,
+      "bytes": 19369579,
+      "sha256": "64a63a03c679153ef1e73b10e085597497306b065bff9767af63cbbfcdee867f",
+      "sharedAyahs": [
+        "33:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-uMmGxAMjUw",
+          "start": 1020.33,
+          "end": 2504.73
+        },
+        {
+          "source": "-uMmGxAMjUw",
+          "start": 2535.47,
+          "end": 2665.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:37": {
+      "file": "033-الأحزاب-youtube-v1/037.mp3",
+      "durationMs": 105980,
+      "bytes": 1272496,
+      "sha256": "3674a33b9bf1bf72d51b705ef9aa51aff52df1a163a152a17cdbca70ae9af31e",
+      "sharedAyahs": [
+        "33:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xj5WXnPlUTo",
+          "start": 674.94,
+          "end": 780.89
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:38": {
+      "file": "033-الأحزاب-youtube-v1/038.mp3",
+      "durationMs": 460730,
+      "bytes": 5529424,
+      "sha256": "54809913d3485e09210eb7dfbd4edae19576180b641b3d7948a876b61feff04b",
+      "sharedAyahs": [
+        "33:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xj5WXnPlUTo",
+          "start": 780.89,
+          "end": 1241.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:39": {
+      "file": "033-الأحزاب-youtube-v1/039.mp3",
+      "durationMs": 387190,
+      "bytes": 4646992,
+      "sha256": "144f92a17557ac7364d59095f0c5bfbb43746ed8c64cc7dfbc633fd36b87d906",
+      "sharedAyahs": [
+        "33:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xj5WXnPlUTo",
+          "start": 1241.6,
+          "end": 1628.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:40": {
+      "file": "033-الأحزاب-youtube-v1/040.mp3",
+      "durationMs": 327580,
+      "bytes": 3931600,
+      "sha256": "2fdce8aabafef1bd352e3737c02127cd250e31608c8ba2398f0bbe0466e5c09a",
+      "sharedAyahs": [
+        "33:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xj5WXnPlUTo",
+          "start": 1628.77,
+          "end": 1956.32
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:41": {
+      "file": "033-الأحزاب-youtube-v1/041.mp3",
+      "durationMs": 283010,
+      "bytes": 3396784,
+      "sha256": "3f4a8fd6bde026736a7269081321a7ce8fc1e1650f3184a4706e5e8fed6bb627",
+      "sharedAyahs": [
+        "33:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xj5WXnPlUTo",
+          "start": 1956.32,
+          "end": 2239.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:42": {
+      "file": "033-الأحزاب-youtube-v1/042.mp3",
+      "durationMs": 266060,
+      "bytes": 3193456,
+      "sha256": "f39a3274620492e75664b2e65bad41b608a57914bd6d1b2fd65a5129f0a324ee",
+      "sharedAyahs": [
+        "33:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xj5WXnPlUTo",
+          "start": 2239.3,
+          "end": 2505.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:43": {
+      "file": "033-الأحزاب-youtube-v1/043.mp3",
+      "durationMs": 908860,
+      "bytes": 10906960,
+      "sha256": "32301081a29bde6fcb5788f3c720eb046d6407a2360e0955934dd53fd586fa08",
+      "sharedAyahs": [
+        "33:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qK-3LwesqEg",
+          "start": 1062.65,
+          "end": 1971.49
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:44": {
+      "file": "033-الأحزاب-youtube-v1/044.mp3",
+      "durationMs": 702460,
+      "bytes": 8429899,
+      "sha256": "71766440122be83b5ce2ddbc6d4766d5f83ebaed60307ae5bdacbc887a9a26f0",
+      "sharedAyahs": [
+        "33:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qK-3LwesqEg",
+          "start": 1971.49,
+          "end": 2092.05
+        },
+        {
+          "source": "qK-3LwesqEg",
+          "start": 2117.43,
+          "end": 2264.59
+        },
+        {
+          "source": "qK-3LwesqEg",
+          "start": 2291.53,
+          "end": 2726.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:45": {
+      "file": "033-الأحزاب-youtube-v1/045.mp3",
+      "durationMs": 108240,
+      "bytes": 1299568,
+      "sha256": "e28f933eb2459cc66b1013e6fc5c0d599e31d98da2b3ad5ca0c24751eae34e67",
+      "sharedAyahs": [
+        "33:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ENPxPz6DkrE",
+          "start": 0.78,
+          "end": 108.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:46": {
+      "file": "033-الأحزاب-youtube-v1/046.mp3",
+      "durationMs": 443980,
+      "bytes": 5328400,
+      "sha256": "0074c5beea20f25427495b11835bc56678fa6d55d816e1aaafb81ba9d5edc8b5",
+      "sharedAyahs": [
+        "33:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ENPxPz6DkrE",
+          "start": 108.99,
+          "end": 552.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:47": {
+      "file": "033-الأحزاب-youtube-v1/047.mp3",
+      "durationMs": 355180,
+      "bytes": 4262800,
+      "sha256": "280f9fb12330485336a41fc440843e42f1706a510bf8a68a4ed88c4a4fc80e73",
+      "sharedAyahs": [
+        "33:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ENPxPz6DkrE",
+          "start": 552.95,
+          "end": 908.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:48": {
+      "file": "033-الأحزاب-youtube-v1/048.mp3",
+      "durationMs": 206350,
+      "bytes": 2476912,
+      "sha256": "495a60b1f657dbcf4af48047d90b0577340f71d41320bb6610d8bd90a90779cf",
+      "sharedAyahs": [
+        "33:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ENPxPz6DkrE",
+          "start": 908.11,
+          "end": 1114.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:49": {
+      "file": "033-الأحزاب-youtube-v1/049.mp3",
+      "durationMs": 1399990,
+      "bytes": 16800331,
+      "sha256": "2277431b5e1bfd4214c7d67ff5b455c783bb193822b66a7bc33db677764ef964",
+      "sharedAyahs": [
+        "33:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ENPxPz6DkrE",
+          "start": 1114.44,
+          "end": 1368.19
+        },
+        {
+          "source": "ENPxPz6DkrE",
+          "start": 1390.32,
+          "end": 1448.97
+        },
+        {
+          "source": "ENPxPz6DkrE",
+          "start": 1469.75,
+          "end": 2557.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:50": {
+      "file": "033-الأحزاب-youtube-v1/050.mp3",
+      "durationMs": 257930,
+      "bytes": 3095824,
+      "sha256": "872eb41c7566574f6a5b6648bdf6f94c8e1d7da7b9934836ebe8c1c590d9fa62",
+      "sharedAyahs": [
+        "33:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LN8Hrnn-7kI",
+          "start": 1965.3,
+          "end": 2223.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:51": {
+      "file": "033-الأحزاب-youtube-v1/051.mp3",
+      "durationMs": 814990,
+      "bytes": 9780592,
+      "sha256": "33f998e06f0a9a5f4dc5f4f42f5eaf62912862266f8a29a8b8155ac9c242246a",
+      "sharedAyahs": [
+        "33:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lBOLy3d7xGQ",
+          "start": 1899.17,
+          "end": 2714.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:52": {
+      "file": "033-الأحزاب-youtube-v1/052.mp3",
+      "durationMs": 1933320,
+      "bytes": 23200267,
+      "sha256": "36cb5ef9a1932e6d2ff0696ac849dfcb535f023a495101cf7ca093811bf39c95",
+      "sharedAyahs": [
+        "33:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 5.68,
+          "end": 1739.06
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 1761.34,
+          "end": 1802.73
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 1826.65,
+          "end": 1913.68
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 1935.91,
+          "end": 2003.45
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 2008.03,
+          "end": 2011.89
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:53": {
+      "file": "033-الأحزاب-youtube-v1/053.mp3",
+      "durationMs": 446860,
+      "bytes": 5362699,
+      "sha256": "d62fca239d4713b787484a4451ed77dabc0e3cd51e630315b65c5c11d858b586",
+      "sharedAyahs": [
+        "33:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 2011.89,
+          "end": 2036.19
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 2058.41,
+          "end": 2102.73
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 2115.6,
+          "end": 2138.0
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 2146.14,
+          "end": 2158.74
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 2185.55,
+          "end": 2400.89
+        },
+        {
+          "source": "QTQqYUP1n9E",
+          "start": 2430.65,
+          "end": 2558.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:54": {
+      "file": "033-الأحزاب-youtube-v1/054.mp3",
+      "durationMs": 182710,
+      "bytes": 2193232,
+      "sha256": "57226278779684972fa8bf6a8b3eb42310654a79eef67fed2728cb43890f72e4",
+      "sharedAyahs": [
+        "33:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GsSs1SCAshY",
+          "start": 848.18,
+          "end": 1030.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:55": {
+      "file": "033-الأحزاب-youtube-v1/055.mp3",
+      "durationMs": 632740,
+      "bytes": 7593259,
+      "sha256": "b1757c39ae8b7996e8d51993a2753ef3545dac8877767f87bdadf7f9876adbd5",
+      "sharedAyahs": [
+        "33:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GsSs1SCAshY",
+          "start": 1030.87,
+          "end": 1376.03
+        },
+        {
+          "source": "GsSs1SCAshY",
+          "start": 1405.65,
+          "end": 1693.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:56": {
+      "file": "033-الأحزاب-youtube-v1/056.mp3",
+      "durationMs": 724660,
+      "bytes": 8696560,
+      "sha256": "3d23fd9e061f1f05559626cd6a0df8d23ccd18ef4b32c8f553b1c7a071031122",
+      "sharedAyahs": [
+        "33:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GsSs1SCAshY",
+          "start": 1693.17,
+          "end": 2417.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:57": {
+      "file": "033-الأحزاب-youtube-v1/057.mp3",
+      "durationMs": 207220,
+      "bytes": 2487280,
+      "sha256": "0c62b0211c14d95ddae5289a5cc806b9889dbd73c654ebd09242f62aaacd4ba7",
+      "sharedAyahs": [
+        "33:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GsSs1SCAshY",
+          "start": 2417.79,
+          "end": 2624.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:58": {
+      "file": "033-الأحزاب-youtube-v1/058.mp3",
+      "durationMs": 1199830,
+      "bytes": 14398411,
+      "sha256": "564c0bba676b94bd7bf8c56a06e79649dbcdf29c34ffa47c44299e1f2c902be9",
+      "sharedAyahs": [
+        "33:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vQKNKIoR5GE",
+          "start": 1291.95,
+          "end": 2114.11
+        },
+        {
+          "source": "vQKNKIoR5GE",
+          "start": 2143.23,
+          "end": 2255.34
+        },
+        {
+          "source": "vQKNKIoR5GE",
+          "start": 2270.7,
+          "end": 2337.93
+        },
+        {
+          "source": "vQKNKIoR5GE",
+          "start": 2371.4,
+          "end": 2416.43
+        },
+        {
+          "source": "vQKNKIoR5GE",
+          "start": 2432.06,
+          "end": 2585.28
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:59": {
+      "file": "033-الأحزاب-youtube-v1/059.mp3",
+      "durationMs": 1162730,
+      "bytes": 13953163,
+      "sha256": "9a3d3416bff21401fb7b35402623b9c23ac81479f02484585fcf8225aeedf2d1",
+      "sharedAyahs": [
+        "33:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 5.39,
+          "end": 941.36
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 958.52,
+          "end": 1010.33
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1020.62,
+          "end": 1090.21
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1119.78,
+          "end": 1225.03
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:60": {
+      "file": "033-الأحزاب-youtube-v1/060.mp3",
+      "durationMs": 512570,
+      "bytes": 6151243,
+      "sha256": "27b846c094470a116dba163fe217bf1dbd1f99fffc125de33aab795e1b4e55ea",
+      "sharedAyahs": [
+        "33:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1225.03,
+          "end": 1301.46
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1326.61,
+          "end": 1446.0
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1502.21,
+          "end": 1513.65
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1522.57,
+          "end": 1564.87
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1593.48,
+          "end": 1648.98
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1677.49,
+          "end": 1790.68
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1832.26,
+          "end": 1926.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:61": {
+      "file": "033-الأحزاب-youtube-v1/061.mp3",
+      "durationMs": 148320,
+      "bytes": 1780267,
+      "sha256": "937844406b316dd3ede1cfaa50e45abf82ffdee5f1603d114dd189cc7b313400",
+      "sharedAyahs": [
+        "33:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 1926.44,
+          "end": 2010.39
+        },
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 2036.91,
+          "end": 2101.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:62": {
+      "file": "033-الأحزاب-youtube-v1/062.mp3",
+      "durationMs": 369170,
+      "bytes": 4430704,
+      "sha256": "d2926e08c47cb5da570c8aca424f323a169ef685f259b2d94a8e542b1dda53f6",
+      "sharedAyahs": [
+        "33:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D1hqjs0d3kg",
+          "start": 2101.23,
+          "end": 2470.39
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:63": {
+      "file": "033-الأحزاب-youtube-v1/063.mp3",
+      "durationMs": 2459060,
+      "bytes": 29509195,
+      "sha256": "6df9820728ccd4611af7f0099e51f32092fbed9734c2117af7e13b9401c58ad1",
+      "sharedAyahs": [
+        "33:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xrca592jGGk",
+          "start": 5.74,
+          "end": 809.49
+        },
+        {
+          "source": "Xrca592jGGk",
+          "start": 815.83,
+          "end": 1205.75
+        },
+        {
+          "source": "Xrca592jGGk",
+          "start": 1224.06,
+          "end": 1640.01
+        },
+        {
+          "source": "Xrca592jGGk",
+          "start": 1658.41,
+          "end": 2181.62
+        },
+        {
+          "source": "Xrca592jGGk",
+          "start": 2189.84,
+          "end": 2515.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:64": {
+      "file": "033-الأحزاب-youtube-v1/064.mp3",
+      "durationMs": 34010,
+      "bytes": 408784,
+      "sha256": "f9d4482a48f36f849e1cee3025521f1e146ddc2ce263f45a99ca05ff8f94897e",
+      "sharedAyahs": [
+        "33:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xrca592jGGk",
+          "start": 2515.98,
+          "end": 2549.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:65": {
+      "file": "033-الأحزاب-youtube-v1/065.mp3",
+      "durationMs": 68260,
+      "bytes": 819760,
+      "sha256": "d6d54b2a2d82db26f9dc1e68c60edfa4948eff3a58fedf0a163a1d116b2c7567",
+      "sharedAyahs": [
+        "33:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xrca592jGGk",
+          "start": 2549.96,
+          "end": 2618.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:66": {
+      "file": "033-الأحزاب-youtube-v1/066.mp3",
+      "durationMs": 576170,
+      "bytes": 6914704,
+      "sha256": "0205a226a31aa4aa332600f280779761bf02c3fd1a6b350fd176a7f0c3a39cb4",
+      "sharedAyahs": [
+        "33:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a2XKIg6bkOc",
+          "start": 167.82,
+          "end": 743.97
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:67": {
+      "file": "033-الأحزاب-youtube-v1/067.mp3",
+      "durationMs": 7610,
+      "bytes": 91984,
+      "sha256": "ba5615e6797ff45ad344fc8895d500fcf710f1c1f17dd48388ffe6f77f4ddaf5",
+      "sharedAyahs": [
+        "33:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a2XKIg6bkOc",
+          "start": 743.97,
+          "end": 751.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:68": {
+      "file": "033-الأحزاب-youtube-v1/068.mp3",
+      "durationMs": 452640,
+      "bytes": 5432368,
+      "sha256": "35d84121f25bb545c255edf0cf537865b40c7042628abfe885024943e74bb822",
+      "sharedAyahs": [
+        "33:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a2XKIg6bkOc",
+          "start": 751.54,
+          "end": 1204.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:69": {
+      "file": "033-الأحزاب-youtube-v1/069.mp3",
+      "durationMs": 618620,
+      "bytes": 7424176,
+      "sha256": "4b327b99f1500da8f76ee5b6d7ce1853f02583d5227695ce3c689a5668ee2940",
+      "sharedAyahs": [
+        "33:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a2XKIg6bkOc",
+          "start": 1204.16,
+          "end": 1822.76
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:70": {
+      "file": "033-الأحزاب-youtube-v1/070.mp3",
+      "durationMs": 56570,
+      "bytes": 679504,
+      "sha256": "acbabf4d525a39daba7866ddb90d1ce08a7eb919aaf0af8ce4db60f16db608da",
+      "sharedAyahs": [
+        "33:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a2XKIg6bkOc",
+          "start": 1822.76,
+          "end": 1879.32
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:71": {
+      "file": "033-الأحزاب-youtube-v1/071.mp3",
+      "durationMs": 35380,
+      "bytes": 425200,
+      "sha256": "26f79912aa6708ac4b9281a48ccbf3302a15c72b792ec58bf837a33bcd171a2e",
+      "sharedAyahs": [
+        "33:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a2XKIg6bkOc",
+          "start": 1879.32,
+          "end": 1914.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:72": {
+      "file": "033-الأحزاب-youtube-v1/072.mp3",
+      "durationMs": 640820,
+      "bytes": 7690576,
+      "sha256": "d14ca00ef74e04dc23d40adb8cb85f80e68f86672364f4730c145db00745f9f5",
+      "sharedAyahs": [
+        "33:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a2XKIg6bkOc",
+          "start": 1914.66,
+          "end": 2555.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    "33:73": {
+      "file": "033-الأحزاب-youtube-v1/073.mp3",
+      "durationMs": 172750,
+      "bytes": 2073712,
+      "sha256": "2b039ac45d7984ffb0f5fbb1060c569561b2c14817df313439e562474765a386",
+      "sharedAyahs": [
+        "33:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tcjR2w1baTw",
+          "start": 1104.6,
+          "end": 1277.31
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "033-الأحزاب-youtube-v1/other-01.mp3",
+      "kind": "other",
+      "durationMs": 812880,
+      "bytes": 9755239,
+      "sha256": "78592b0287b1a5260a6e386e38ba77dcdda84f16322745c465a125148efe7a87",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-DddKDneO2o",
+          "start": 1.33,
+          "end": 814.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-02.mp3",
+      "kind": "other",
+      "durationMs": 663720,
+      "bytes": 7965319,
+      "sha256": "e5e2d10a79698a9773944e85ade2c722eb62413f61e0b0886a5b7ca7278d318f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-DddKDneO2o",
+          "start": 836.35,
+          "end": 1500.03
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-03.mp3",
+      "kind": "other",
+      "durationMs": 1025780,
+      "bytes": 12310087,
+      "sha256": "64b37b96c0891f338994230bf6722c8920840121544436c09c6dab26f378c5a9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-DddKDneO2o",
+          "start": 1517.61,
+          "end": 2543.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-07.mp3",
+      "kind": "other",
+      "durationMs": 287900,
+      "bytes": 3455527,
+      "sha256": "fb503883fad2e06c22de13294826ebe6afdfe837397b4f52fd012cfea0dc79a0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-X3MuLgaZj0",
+          "start": 0.53,
+          "end": 288.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-11.mp3",
+      "kind": "other",
+      "durationMs": 1977700,
+      "bytes": 23733031,
+      "sha256": "5398a06834760d7ff168e18d06be71c12e8f76e04729348fe596a56a192c2bdb",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kNyE1d9Hmao",
+          "start": 26.19,
+          "end": 2003.88
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-13.mp3",
+      "kind": "other",
+      "durationMs": 1370280,
+      "bytes": 16444039,
+      "sha256": "634ff2521ba79f6e6e8e97f8758ec2d73a0031adbeeba1c6086e82c783d779dc",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "7HwtdyA_kNg",
+          "start": 3.38,
+          "end": 1373.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-22.mp3",
+      "kind": "other",
+      "durationMs": 68900,
+      "bytes": 827527,
+      "sha256": "aa27442ccb63fd6545bc0013735812de3b23f26e5834b53b5c29d7803e927253",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "lmgZ5Oy5wME",
+          "start": 27.94,
+          "end": 96.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-30.mp3",
+      "kind": "other",
+      "durationMs": 342720,
+      "bytes": 4113058,
+      "sha256": "4c9e81467548f8edac1a224ee431782935ce45ad8f6a9b8f91a668d1ea7b6103",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-PGapTA-SiI",
+          "start": 4.4,
+          "end": 307.62
+        },
+        {
+          "source": "-PGapTA-SiI",
+          "start": 331.63,
+          "end": 371.07
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-35.mp3",
+      "kind": "other",
+      "durationMs": 183290,
+      "bytes": 2200135,
+      "sha256": "34067784e3964daf6ec585b5a4b532fc4900cfbbe3af6b582d88c64199587b08",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-PGapTA-SiI",
+          "start": 2469.4,
+          "end": 2652.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-45.mp3",
+      "kind": "other",
+      "durationMs": 673100,
+      "bytes": 8077927,
+      "sha256": "7944a00315d6f6b65abf164222511234753e7143f6e2990c47350ffe13741baa",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Xj5WXnPlUTo",
+          "start": 1.87,
+          "end": 674.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-52.mp3",
+      "kind": "other",
+      "durationMs": 991440,
+      "bytes": 11897959,
+      "sha256": "0f29d5d4dfb105e8b9abfc4af93fd16c1165e37c44f7bfeddae7f596a34e94d4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "qK-3LwesqEg",
+          "start": 71.25,
+          "end": 1062.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-60.mp3",
+      "kind": "other",
+      "durationMs": 1920820,
+      "bytes": 23050210,
+      "sha256": "bd853beb4e76a257711f227b8113cbc0ba8448486a85e7ddab64b62448efe551",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "LN8Hrnn-7kI",
+          "start": 1.88,
+          "end": 717.37
+        },
+        {
+          "source": "LN8Hrnn-7kI",
+          "start": 738.98,
+          "end": 801.35
+        },
+        {
+          "source": "LN8Hrnn-7kI",
+          "start": 822.42,
+          "end": 1965.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-62.mp3",
+      "kind": "other",
+      "durationMs": 412610,
+      "bytes": 4951975,
+      "sha256": "3fbfcfa213a3a9e94998c0c7e5574b695b7ddfc23a78a390e3148b565bffc96d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "LN8Hrnn-7kI",
+          "start": 2223.21,
+          "end": 2635.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-63.mp3",
+      "kind": "other",
+      "durationMs": 1853740,
+      "bytes": 22245250,
+      "sha256": "765100923175f09ea5f54c0f47092dfc010b0077437998aac91f07b6fbf4391d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "lBOLy3d7xGQ",
+          "start": 1.26,
+          "end": 1020.1
+        },
+        {
+          "source": "lBOLy3d7xGQ",
+          "start": 1042.48,
+          "end": 1103.88
+        },
+        {
+          "source": "lBOLy3d7xGQ",
+          "start": 1125.75,
+          "end": 1899.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-67.mp3",
+      "kind": "other",
+      "durationMs": 827570,
+      "bytes": 9931495,
+      "sha256": "7bf4b5d45adaad79e114075c2604d82f2090792de4c350fdfb2a98baca45c645",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "GsSs1SCAshY",
+          "start": 20.64,
+          "end": 848.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-72.mp3",
+      "kind": "other",
+      "durationMs": 1285870,
+      "bytes": 15431143,
+      "sha256": "02f8274baa95f452932c5db55fdf87a6d7d656d63f5623f3935c9f8211540916",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "vQKNKIoR5GE",
+          "start": 6.1,
+          "end": 1291.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-81.mp3",
+      "kind": "other",
+      "durationMs": 165310,
+      "bytes": 1984423,
+      "sha256": "47ed7d3a75b6b647430bbbb1b84b6d9ffc552b7fbe91fcf8733531bf6bbe46f9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "a2XKIg6bkOc",
+          "start": 2.54,
+          "end": 167.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "033-الأحزاب-youtube-v1/other-89.mp3",
+      "kind": "other",
+      "durationMs": 1044140,
+      "bytes": 12530146,
+      "sha256": "08356b050d82679f9db74b8ead166b829e4d7f426af27a25973c908a281dedda",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "tcjR2w1baTw",
+          "start": 0.85,
+          "end": 386.74
+        },
+        {
+          "source": "tcjR2w1baTw",
+          "start": 414.0,
+          "end": 992.17
+        },
+        {
+          "source": "tcjR2w1baTw",
+          "start": 1003.43,
+          "end": 1060.36
+        },
+        {
+          "source": "tcjR2w1baTw",
+          "start": 1081.56,
+          "end": 1104.6
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL73024CF8ED1D1CD8",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "ahzab-heart-reform-and-resistance",
+      "title": "حكمة تغيير المنكر بالقلب ومقاطعة أهل المعاصي وعلاج النفس اللوامة",
+      "file": "033-الأحزاب-youtube-v1/other-01.mp3",
+      "startMs": 0,
+      "endMs": 812880
+    },
+    {
+      "id": "ahzab-boycott-kaab-ibn-malik",
+      "title": "سجن المجتمع عن المجرم ودرس كعب بن مالك في مقاطعة المخالفين",
+      "file": "033-الأحزاب-youtube-v1/other-02.mp3",
+      "startMs": 0,
+      "endMs": 663720
+    },
+    {
+      "id": "ahzab-faith-hypocrisy-nature",
+      "title": "حقيقة الإيمان والكفر والنفاق والجحود ودوافع كفار قريش",
+      "file": "033-الأحزاب-youtube-v1/other-03.mp3",
+      "startMs": 0,
+      "endMs": 1025780
+    },
+    {
+      "id": "ahzab-adoption-and-lineage",
+      "title": "إبطال التبني والظهار وحكمة تشريع الأنساب وحفظ الحقوق",
+      "file": "033-الأحزاب-youtube-v1/other-07.mp3",
+      "startMs": 0,
+      "endMs": 287900
+    },
+    {
+      "id": "ahzab-prophets-covenant",
+      "title": "عظمة ميثاق النبيين الغليظ ومسؤولية حمل أمانة البلاغ",
+      "file": "033-الأحزاب-youtube-v1/other-11.mp3",
+      "startMs": 0,
+      "endMs": 1977700
+    },
+    {
+      "id": "ahzab-battle-confederates-intro",
+      "title": "مقدمة غزوة الأحزاب (الخندق) وتجمع قوى الشرك وحصار المدينة",
+      "file": "033-الأحزاب-youtube-v1/other-13.mp3",
+      "startMs": 0,
+      "endMs": 1370280
+    },
+    {
+      "id": "ahzab-flight-from-death-futility",
+      "title": "بيان بطلان الفرار من قدر الله وسنة الأجل المحتوم",
+      "file": "033-الأحزاب-youtube-v1/other-22.mp3",
+      "startMs": 0,
+      "endMs": 68900
+    },
+    {
+      "id": "ahzab-believers-loyalty-and-martyrdom",
+      "title": "صدق عهد المؤمنين مع الله وفضل الشهادة والثبات في الميدان",
+      "file": "033-الأحزاب-youtube-v1/other-30.mp3",
+      "startMs": 0,
+      "endMs": 342720
+    },
+    {
+      "id": "ahzab-prophet-wives-choice-intro",
+      "title": "مقدمة تخيير أمهات المؤمنين ومكانة بيت النبوة",
+      "file": "033-الأحزاب-youtube-v1/other-35.mp3",
+      "startMs": 0,
+      "endMs": 183290
+    },
+    {
+      "id": "ahzab-submission-and-contentment",
+      "title": "حكمة الامتثال لأمر الله وقضاء رسوله وبيان الرضا التشريعي",
+      "file": "033-الأحزاب-youtube-v1/other-45.mp3",
+      "startMs": 0,
+      "endMs": 673100
+    },
+    {
+      "id": "ahzab-dhikr-glory-and-virtue",
+      "title": "عظمة فضل ذكر الله وتسبيحه في الغدو والآصال",
+      "file": "033-الأحزاب-youtube-v1/other-52.mp3",
+      "startMs": 0,
+      "endMs": 991440
+    },
+    {
+      "id": "ahzab-divorce-before-touch-etiquette",
+      "title": "أحكام الطلاق قبل المساس وحكمة تشريع المتعة للمطلقة",
+      "file": "033-الأحزاب-youtube-v1/other-60.mp3",
+      "startMs": 0,
+      "endMs": 1920820
+    },
+    {
+      "id": "ahzab-prophet-marriage-legislation",
+      "title": "خصوصية التشريع لرسول الله صلى الله عليه وسلم في أزواجه",
+      "file": "033-الأحزاب-youtube-v1/other-62.mp3",
+      "startMs": 0,
+      "endMs": 412610
+    },
+    {
+      "id": "ahzab-mothers-of-believers-status",
+      "title": "حكمة إحلال أزواج النبي وتكريم أمهات المؤمنين في القرآن",
+      "file": "033-الأحزاب-youtube-v1/other-63.mp3",
+      "startMs": 0,
+      "endMs": 1853740
+    },
+    {
+      "id": "ahzab-prophet-house-etiquette",
+      "title": "آداب دخول بيوت النبي وحجاب أمهات المؤمنين وتحريم نكاحهن من بعده",
+      "file": "033-الأحزاب-youtube-v1/other-67.mp3",
+      "startMs": 0,
+      "endMs": 827570
+    },
+    {
+      "id": "ahzab-harming-prophet-warning",
+      "title": "حرمة إيذاء الله ورسوله وعظيم جزاء المعتدين",
+      "file": "033-الأحزاب-youtube-v1/other-72.mp3",
+      "startMs": 0,
+      "endMs": 1285870
+    },
+    {
+      "id": "ahzab-hell-eternity-remorse",
+      "title": "مشهد تخليد الكافرين في السعير وتقليب وجوههم في النار والندامة",
+      "file": "033-الأحزاب-youtube-v1/other-81.mp3",
+      "startMs": 0,
+      "endMs": 165310
+    },
+    {
+      "id": "ahzab-trust-amanah-choice",
+      "title": "حمل الإنسان للأمانة الكبرى بين التكليف والاختيار والظلم والجهل",
+      "file": "033-الأحزاب-youtube-v1/other-89.mp3",
+      "startMs": 0,
+      "endMs": 1044140
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "HyfgYIcJm0o",
+      "-DddKDneO2o",
+      "5-9bDf_1aAs",
+      "-X3MuLgaZj0",
+      "kNyE1d9Hmao",
+      "7HwtdyA_kNg",
+      "lmgZ5Oy5wME",
+      "-PGapTA-SiI",
+      "KjbJ5PhxEuU",
+      "XlsHbMXYbb0",
+      "-uMmGxAMjUw",
+      "Xj5WXnPlUTo",
+      "qK-3LwesqEg",
+      "ENPxPz6DkrE",
+      "LN8Hrnn-7kI",
+      "lBOLy3d7xGQ",
+      "QTQqYUP1n9E",
+      "GsSs1SCAshY",
+      "vQKNKIoR5GE",
+      "D1hqjs0d3kg",
+      "Xrca592jGGk",
+      "a2XKIg6bkOc",
+      "tcjR2w1baTw"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "033-الأحزاب-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 2686750,
+        "durationMs": 2686750,
+        "recordingDurationMs": 2686750,
+        "bytes": 32241710,
+        "sha256": "3acd277795d1986ad6bca8aeea7a219bf29d4f4cc678dc3f7a70930ac04f961a",
+        "sharedAyahs": [
+          "33:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HyfgYIcJm0o",
+            "start": 13.94,
+            "end": 2700.67
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-01.mp3",
+        "startMs": 0,
+        "endMs": 812880,
+        "durationMs": 812880,
+        "recordingDurationMs": 812880,
+        "bytes": 9755239,
+        "sha256": "78592b0287b1a5260a6e386e38ba77dcdda84f16322745c465a125148efe7a87",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-DddKDneO2o",
+            "start": 1.33,
+            "end": 814.19
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-02.mp3",
+        "startMs": 0,
+        "endMs": 663720,
+        "durationMs": 663720,
+        "recordingDurationMs": 663720,
+        "bytes": 7965319,
+        "sha256": "e5e2d10a79698a9773944e85ade2c722eb62413f61e0b0886a5b7ca7278d318f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-DddKDneO2o",
+            "start": 836.35,
+            "end": 1500.03
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-03.mp3",
+        "startMs": 0,
+        "endMs": 1025780,
+        "durationMs": 1025780,
+        "recordingDurationMs": 1025780,
+        "bytes": 12310087,
+        "sha256": "64b37b96c0891f338994230bf6722c8920840121544436c09c6dab26f378c5a9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-DddKDneO2o",
+            "start": 1517.61,
+            "end": 2543.37
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 736560,
+        "durationMs": 736560,
+        "recordingDurationMs": 736560,
+        "bytes": 8839406,
+        "sha256": "9d0213dd8a8f53c7e994794adacc7de6663a3260da23d8303f368d1257f4d560",
+        "sharedAyahs": [
+          "33:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5-9bDf_1aAs",
+            "start": 11.98,
+            "end": 748.53
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 142010,
+        "durationMs": 142010,
+        "recordingDurationMs": 142010,
+        "bytes": 1704782,
+        "sha256": "468e3476824028e8e644db430a388721804d9f607bf730adb58e3e7f62679a5d",
+        "sharedAyahs": [
+          "33:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5-9bDf_1aAs",
+            "start": 748.53,
+            "end": 890.51
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 1035205,
+        "durationMs": 1035205,
+        "recordingDurationMs": 1716190,
+        "bytes": 20594729,
+        "sha256": "de41bd705738640f1f35a5b994921a312df5c41f67e94cb266d7dc1f44099102",
+        "sharedAyahs": [
+          "33:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5-9bDf_1aAs",
+            "start": 890.51,
+            "end": 1925.69
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/004.mp3",
+        "startMs": 1035205,
+        "endMs": 1716190,
+        "durationMs": 680985,
+        "recordingDurationMs": 1716190,
+        "bytes": 20594729,
+        "sha256": "de41bd705738640f1f35a5b994921a312df5c41f67e94cb266d7dc1f44099102",
+        "sharedAyahs": [
+          "33:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5-9bDf_1aAs",
+            "start": 1947.59,
+            "end": 2628.55
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-07.mp3",
+        "startMs": 0,
+        "endMs": 287900,
+        "durationMs": 287900,
+        "recordingDurationMs": 287900,
+        "bytes": 3455527,
+        "sha256": "fb503883fad2e06c22de13294826ebe6afdfe837397b4f52fd012cfea0dc79a0",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-X3MuLgaZj0",
+            "start": 0.53,
+            "end": 288.42
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 730580,
+        "durationMs": 730580,
+        "recordingDurationMs": 730580,
+        "bytes": 8767694,
+        "sha256": "282d82e2f2c5c3b16449e3b02c7ad79d153a5eafade5c19513ccc058387eec33",
+        "sharedAyahs": [
+          "33:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X3MuLgaZj0",
+            "start": 330.23,
+            "end": 1060.78
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 485005,
+        "durationMs": 485005,
+        "recordingDurationMs": 1035000,
+        "bytes": 12420425,
+        "sha256": "3b72e2ce47d0a25cee5aa6303ac9ff48747ff2165bab4c1ab7170c5d477a9f30",
+        "sharedAyahs": [
+          "33:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X3MuLgaZj0",
+            "start": 1060.78,
+            "end": 1545.77
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/006.mp3",
+        "startMs": 485005,
+        "endMs": 1035000,
+        "durationMs": 549995,
+        "recordingDurationMs": 1035000,
+        "bytes": 12420425,
+        "sha256": "3b72e2ce47d0a25cee5aa6303ac9ff48747ff2165bab4c1ab7170c5d477a9f30",
+        "sharedAyahs": [
+          "33:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X3MuLgaZj0",
+            "start": 1565.82,
+            "end": 2115.78
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 501340,
+        "durationMs": 501340,
+        "recordingDurationMs": 501340,
+        "bytes": 6016718,
+        "sha256": "56cff4d8aade0f0b43f59dd880a0f58c468972e1d99c3131f7bd5e55baa55542",
+        "sharedAyahs": [
+          "33:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X3MuLgaZj0",
+            "start": 2115.78,
+            "end": 2617.09
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-11.mp3",
+        "startMs": 0,
+        "endMs": 1977700,
+        "durationMs": 1977700,
+        "recordingDurationMs": 1977700,
+        "bytes": 23733031,
+        "sha256": "5398a06834760d7ff168e18d06be71c12e8f76e04729348fe596a56a192c2bdb",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "kNyE1d9Hmao",
+            "start": 26.19,
+            "end": 2003.88
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 560060,
+        "durationMs": 560060,
+        "recordingDurationMs": 560060,
+        "bytes": 6721454,
+        "sha256": "510ffbf848ab74423af62c4350b761983e090e5a68f09a5232ffb29120ef0db4",
+        "sharedAyahs": [
+          "33:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kNyE1d9Hmao",
+            "start": 2003.88,
+            "end": 2563.92
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-13.mp3",
+        "startMs": 0,
+        "endMs": 1370280,
+        "durationMs": 1370280,
+        "recordingDurationMs": 1370280,
+        "bytes": 16444039,
+        "sha256": "634ff2521ba79f6e6e8e97f8758ec2d73a0031adbeeba1c6086e82c783d779dc",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 3.38,
+            "end": 1373.64
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 55580,
+        "durationMs": 55580,
+        "recordingDurationMs": 55580,
+        "bytes": 667694,
+        "sha256": "9742dbb6fa3d7acd9d2d65ed5404659cca48d0a5c1c17a79ff1add7c9bf88530",
+        "sharedAyahs": [
+          "33:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 1373.64,
+            "end": 1429.19
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 13270,
+        "durationMs": 13270,
+        "recordingDurationMs": 13270,
+        "bytes": 159952,
+        "sha256": "9acd127f2c168a808d3194fd8daa80679ca03d212dfdf802b1019b6132e12308",
+        "sharedAyahs": [
+          "33:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 1429.19,
+            "end": 1442.44
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 500040,
+        "durationMs": 500040,
+        "recordingDurationMs": 500040,
+        "bytes": 6001168,
+        "sha256": "1f4ef87032267cb775980a5fae856abd5385fddbc07c397fae13fc7940605f60",
+        "sharedAyahs": [
+          "33:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 1442.44,
+            "end": 1942.46
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 131230,
+        "durationMs": 131230,
+        "recordingDurationMs": 131230,
+        "bytes": 1575472,
+        "sha256": "8e9e16e2ef2969de3cf0a92962aca992aecfe08be4bfb7d143ceb491bcbf7fda",
+        "sharedAyahs": [
+          "33:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 1942.46,
+            "end": 2073.67
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 53660,
+        "durationMs": 53660,
+        "recordingDurationMs": 53660,
+        "bytes": 644656,
+        "sha256": "d869bbe02ebe7adaafb8d6b18baffee79c47be38e4441421a02db6599f34cc84",
+        "sharedAyahs": [
+          "33:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 2073.67,
+            "end": 2127.31
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 116160,
+        "durationMs": 116160,
+        "recordingDurationMs": 116160,
+        "bytes": 1394608,
+        "sha256": "714514d8c152f64e02e8aec034cee1ff3f805d968462c660994af593a2b7240b",
+        "sharedAyahs": [
+          "33:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 2127.31,
+            "end": 2243.43
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 307220,
+        "durationMs": 307220,
+        "recordingDurationMs": 307220,
+        "bytes": 3687376,
+        "sha256": "3e0fff8b76e2ef89e31fc46bbfdbda92fb08647db622622e5770dd53172bfb1c",
+        "sharedAyahs": [
+          "33:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 2243.43,
+            "end": 2550.64
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 65860,
+        "durationMs": 65860,
+        "recordingDurationMs": 65860,
+        "bytes": 790960,
+        "sha256": "d857ad7affef6cb977aa0b2167e8b235e631b85c8c4cbd6ae50e420b7df497df",
+        "sharedAyahs": [
+          "33:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7HwtdyA_kNg",
+            "start": 2550.64,
+            "end": 2616.48
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-22.mp3",
+        "startMs": 0,
+        "endMs": 68900,
+        "durationMs": 68900,
+        "recordingDurationMs": 68900,
+        "bytes": 827527,
+        "sha256": "aa27442ccb63fd6545bc0013735812de3b23f26e5834b53b5c29d7803e927253",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 27.94,
+            "end": 96.83
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 246550,
+        "durationMs": 246550,
+        "recordingDurationMs": 246550,
+        "bytes": 2959312,
+        "sha256": "9d7c0db8557e50345e61b06ed1db92e1bbec3c6bce4b9428f746d288c38124d4",
+        "sharedAyahs": [
+          "33:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 96.83,
+            "end": 343.35
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 1158310,
+        "durationMs": 1158310,
+        "recordingDurationMs": 1158310,
+        "bytes": 13900432,
+        "sha256": "ab5d4c3809b40c6afe8fc47bb653b9676ccb8ab187033b632e960d257c262413",
+        "sharedAyahs": [
+          "33:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 343.35,
+            "end": 1501.65
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 112381,
+        "durationMs": 112381,
+        "recordingDurationMs": 481270,
+        "bytes": 5775691,
+        "sha256": "f6ae46955fc6c6c2f37a871e29745e29943d77dfb43ea5f9524747fa0bd0b57e",
+        "sharedAyahs": [
+          "33:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 1501.65,
+            "end": 1614.01
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/019.mp3",
+        "startMs": 112381,
+        "endMs": 481270,
+        "durationMs": 368889,
+        "recordingDurationMs": 481270,
+        "bytes": 5775691,
+        "sha256": "f6ae46955fc6c6c2f37a871e29745e29943d77dfb43ea5f9524747fa0bd0b57e",
+        "sharedAyahs": [
+          "33:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 1636.13,
+            "end": 2005.0
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 119380,
+        "durationMs": 119380,
+        "recordingDurationMs": 119380,
+        "bytes": 1433200,
+        "sha256": "84afb7ffaf670d3c3d67fa825743115f2e15fc022914ce17016b0704bcc2c8e9",
+        "sharedAyahs": [
+          "33:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 2005.0,
+            "end": 2124.35
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 302350,
+        "durationMs": 302350,
+        "recordingDurationMs": 302350,
+        "bytes": 3628912,
+        "sha256": "b3fbde6423dcad583df4e9370525924619577f74f160c1d1988841146072de04",
+        "sharedAyahs": [
+          "33:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 2124.35,
+            "end": 2426.68
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 62040,
+        "durationMs": 62040,
+        "recordingDurationMs": 62040,
+        "bytes": 745168,
+        "sha256": "c48a427b53907cf7397ff93dc87487c469f2be7b489b5ed9031ceba8e535fd67",
+        "sharedAyahs": [
+          "33:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 2426.68,
+            "end": 2488.69
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 109270,
+        "durationMs": 109270,
+        "recordingDurationMs": 109270,
+        "bytes": 1311952,
+        "sha256": "6325a026f0fc4d6774b5a5cd11f6095f51ec0a935a02b82a5d17a99dbbb87baa",
+        "sharedAyahs": [
+          "33:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lmgZ5Oy5wME",
+            "start": 2488.69,
+            "end": 2597.95
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-30.mp3",
+        "startMs": 0,
+        "endMs": 303229,
+        "durationMs": 303229,
+        "recordingDurationMs": 342720,
+        "bytes": 4113058,
+        "sha256": "4c9e81467548f8edac1a224ee431782935ce45ad8f6a9b8f91a668d1ea7b6103",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-PGapTA-SiI",
+            "start": 4.4,
+            "end": 307.62
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-30.mp3",
+        "startMs": 303229,
+        "endMs": 342720,
+        "durationMs": 39491,
+        "recordingDurationMs": 342720,
+        "bytes": 4113058,
+        "sha256": "4c9e81467548f8edac1a224ee431782935ce45ad8f6a9b8f91a668d1ea7b6103",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-PGapTA-SiI",
+            "start": 331.63,
+            "end": 371.07
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 133970,
+        "durationMs": 133970,
+        "recordingDurationMs": 133970,
+        "bytes": 1608304,
+        "sha256": "01a6def3a053e375cac60cb140dda027f5864f21f0f209e63180ed84ca08cdfd",
+        "sharedAyahs": [
+          "33:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PGapTA-SiI",
+            "start": 371.07,
+            "end": 505.02
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 172560,
+        "durationMs": 172560,
+        "recordingDurationMs": 172560,
+        "bytes": 2071408,
+        "sha256": "9df4837a7e5c57edea35841db66549d3a0f3a9c0a6dda44ee2914a5f6b98549f",
+        "sharedAyahs": [
+          "33:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PGapTA-SiI",
+            "start": 505.02,
+            "end": 677.55
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 21170,
+        "durationMs": 21170,
+        "recordingDurationMs": 21170,
+        "bytes": 254704,
+        "sha256": "27db84da6fab8e51bf9c29a33a3034ee44fd017707aedddc8f3870072ec44e24",
+        "sharedAyahs": [
+          "33:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PGapTA-SiI",
+            "start": 677.55,
+            "end": 698.7
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 1770720,
+        "durationMs": 1770720,
+        "recordingDurationMs": 1770720,
+        "bytes": 21249328,
+        "sha256": "494e577ba3d3b7f71659b04142018ba1467c31dbd578ed48798f09a85a65ae40",
+        "sharedAyahs": [
+          "33:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-PGapTA-SiI",
+            "start": 698.7,
+            "end": 2469.4
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-35.mp3",
+        "startMs": 0,
+        "endMs": 183290,
+        "durationMs": 183290,
+        "recordingDurationMs": 183290,
+        "bytes": 2200135,
+        "sha256": "34067784e3964daf6ec585b5a4b532fc4900cfbbe3af6b582d88c64199587b08",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-PGapTA-SiI",
+            "start": 2469.4,
+            "end": 2652.67
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 1165117,
+        "durationMs": 1165117,
+        "recordingDurationMs": 1348010,
+        "bytes": 16176523,
+        "sha256": "a0b75632fb4925fb79257a71d74574a671cf96cbed7911a4b86b8a27dc6d1b94",
+        "sharedAyahs": [
+          "33:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KjbJ5PhxEuU",
+            "start": 70.0,
+            "end": 1235.09
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/028.mp3",
+        "startMs": 1165117,
+        "endMs": 1348010,
+        "durationMs": 182893,
+        "recordingDurationMs": 1348010,
+        "bytes": 16176523,
+        "sha256": "a0b75632fb4925fb79257a71d74574a671cf96cbed7911a4b86b8a27dc6d1b94",
+        "sharedAyahs": [
+          "33:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KjbJ5PhxEuU",
+            "start": 1264.86,
+            "end": 1447.72
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 588960,
+        "durationMs": 588960,
+        "recordingDurationMs": 588960,
+        "bytes": 7068208,
+        "sha256": "f717a09a0fcdee2015f9ef8bec7a81ff7504e68922c5c451f820cd07aeba7b11",
+        "sharedAyahs": [
+          "33:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KjbJ5PhxEuU",
+            "start": 1447.72,
+            "end": 2036.66
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 540960,
+        "durationMs": 540960,
+        "recordingDurationMs": 540960,
+        "bytes": 6492208,
+        "sha256": "a34220fd5f627ff8eb80c5cca8462cd6aa4a6b3867b25ede7b1dc60f8e67a23e",
+        "sharedAyahs": [
+          "33:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KjbJ5PhxEuU",
+            "start": 2036.66,
+            "end": 2577.58
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 757850,
+        "durationMs": 757850,
+        "recordingDurationMs": 757850,
+        "bytes": 9094864,
+        "sha256": "ec162a79691e48ab0080a63165292faf6d31d0cb2e1519bb77da5679578ca283",
+        "sharedAyahs": [
+          "33:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XlsHbMXYbb0",
+            "start": 40.6,
+            "end": 798.43
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 604270,
+        "durationMs": 604270,
+        "recordingDurationMs": 604270,
+        "bytes": 7251952,
+        "sha256": "d4970df8fafb49ca5fd94994f6b80bd5712584e9458e843b95265d3c75053459",
+        "sharedAyahs": [
+          "33:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XlsHbMXYbb0",
+            "start": 798.43,
+            "end": 1402.67
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 164773,
+        "durationMs": 164773,
+        "recordingDurationMs": 749900,
+        "bytes": 8999275,
+        "sha256": "b34c0c9de428ac943423c3eddf6c7e653284e79cfc61fea8b92fc318610f39c7",
+        "sharedAyahs": [
+          "33:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XlsHbMXYbb0",
+            "start": 1402.67,
+            "end": 1567.42
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/033.mp3",
+        "startMs": 164773,
+        "endMs": 749900,
+        "durationMs": 585127,
+        "recordingDurationMs": 749900,
+        "bytes": 8999275,
+        "sha256": "b34c0c9de428ac943423c3eddf6c7e653284e79cfc61fea8b92fc318610f39c7",
+        "sharedAyahs": [
+          "33:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XlsHbMXYbb0",
+            "start": 1591.36,
+            "end": 2176.46
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 477220,
+        "durationMs": 477220,
+        "recordingDurationMs": 477220,
+        "bytes": 5727280,
+        "sha256": "15cc0a7b1f59b9104a19aedc66e8bd2c6be90482b74707cabf0dc74523f18868",
+        "sharedAyahs": [
+          "33:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XlsHbMXYbb0",
+            "start": 2176.46,
+            "end": 2653.65
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 285697,
+        "durationMs": 285697,
+        "recordingDurationMs": 972100,
+        "bytes": 11665579,
+        "sha256": "1d8b464fe56291d1d94177906984ba37839492bd898ef546f58bf40cc606cc5a",
+        "sharedAyahs": [
+          "33:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-uMmGxAMjUw",
+            "start": 0.0,
+            "end": 285.68
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/035.mp3",
+        "startMs": 285697,
+        "endMs": 528817,
+        "durationMs": 243120,
+        "recordingDurationMs": 972100,
+        "bytes": 11665579,
+        "sha256": "1d8b464fe56291d1d94177906984ba37839492bd898ef546f58bf40cc606cc5a",
+        "sharedAyahs": [
+          "33:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-uMmGxAMjUw",
+            "start": 305.99,
+            "end": 549.09
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/035.mp3",
+        "startMs": 528817,
+        "endMs": 972100,
+        "durationMs": 443283,
+        "recordingDurationMs": 972100,
+        "bytes": 11665579,
+        "sha256": "1d8b464fe56291d1d94177906984ba37839492bd898ef546f58bf40cc606cc5a",
+        "sharedAyahs": [
+          "33:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-uMmGxAMjUw",
+            "start": 577.09,
+            "end": 1020.33
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 1484413,
+        "durationMs": 1484413,
+        "recordingDurationMs": 1614100,
+        "bytes": 19369579,
+        "sha256": "64a63a03c679153ef1e73b10e085597497306b065bff9767af63cbbfcdee867f",
+        "sharedAyahs": [
+          "33:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-uMmGxAMjUw",
+            "start": 1020.33,
+            "end": 2504.73
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/036.mp3",
+        "startMs": 1484413,
+        "endMs": 1614100,
+        "durationMs": 129687,
+        "recordingDurationMs": 1614100,
+        "bytes": 19369579,
+        "sha256": "64a63a03c679153ef1e73b10e085597497306b065bff9767af63cbbfcdee867f",
+        "sharedAyahs": [
+          "33:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-uMmGxAMjUw",
+            "start": 2535.47,
+            "end": 2665.11
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-45.mp3",
+        "startMs": 0,
+        "endMs": 673100,
+        "durationMs": 673100,
+        "recordingDurationMs": 673100,
+        "bytes": 8077927,
+        "sha256": "7944a00315d6f6b65abf164222511234753e7143f6e2990c47350ffe13741baa",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "Xj5WXnPlUTo",
+            "start": 1.87,
+            "end": 674.94
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 105980,
+        "durationMs": 105980,
+        "recordingDurationMs": 105980,
+        "bytes": 1272496,
+        "sha256": "3674a33b9bf1bf72d51b705ef9aa51aff52df1a163a152a17cdbca70ae9af31e",
+        "sharedAyahs": [
+          "33:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xj5WXnPlUTo",
+            "start": 674.94,
+            "end": 780.89
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 460730,
+        "durationMs": 460730,
+        "recordingDurationMs": 460730,
+        "bytes": 5529424,
+        "sha256": "54809913d3485e09210eb7dfbd4edae19576180b641b3d7948a876b61feff04b",
+        "sharedAyahs": [
+          "33:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xj5WXnPlUTo",
+            "start": 780.89,
+            "end": 1241.6
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 387190,
+        "durationMs": 387190,
+        "recordingDurationMs": 387190,
+        "bytes": 4646992,
+        "sha256": "144f92a17557ac7364d59095f0c5bfbb43746ed8c64cc7dfbc633fd36b87d906",
+        "sharedAyahs": [
+          "33:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xj5WXnPlUTo",
+            "start": 1241.6,
+            "end": 1628.77
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 327580,
+        "durationMs": 327580,
+        "recordingDurationMs": 327580,
+        "bytes": 3931600,
+        "sha256": "2fdce8aabafef1bd352e3737c02127cd250e31608c8ba2398f0bbe0466e5c09a",
+        "sharedAyahs": [
+          "33:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xj5WXnPlUTo",
+            "start": 1628.77,
+            "end": 1956.32
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 283010,
+        "durationMs": 283010,
+        "recordingDurationMs": 283010,
+        "bytes": 3396784,
+        "sha256": "3f4a8fd6bde026736a7269081321a7ce8fc1e1650f3184a4706e5e8fed6bb627",
+        "sharedAyahs": [
+          "33:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xj5WXnPlUTo",
+            "start": 1956.32,
+            "end": 2239.3
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 266060,
+        "durationMs": 266060,
+        "recordingDurationMs": 266060,
+        "bytes": 3193456,
+        "sha256": "f39a3274620492e75664b2e65bad41b608a57914bd6d1b2fd65a5129f0a324ee",
+        "sharedAyahs": [
+          "33:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xj5WXnPlUTo",
+            "start": 2239.3,
+            "end": 2505.34
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-52.mp3",
+        "startMs": 0,
+        "endMs": 991440,
+        "durationMs": 991440,
+        "recordingDurationMs": 991440,
+        "bytes": 11897959,
+        "sha256": "0f29d5d4dfb105e8b9abfc4af93fd16c1165e37c44f7bfeddae7f596a34e94d4",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "qK-3LwesqEg",
+            "start": 71.25,
+            "end": 1062.65
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 908860,
+        "durationMs": 908860,
+        "recordingDurationMs": 908860,
+        "bytes": 10906960,
+        "sha256": "32301081a29bde6fcb5788f3c720eb046d6407a2360e0955934dd53fd586fa08",
+        "sharedAyahs": [
+          "33:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qK-3LwesqEg",
+            "start": 1062.65,
+            "end": 1971.49
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 120565,
+        "durationMs": 120565,
+        "recordingDurationMs": 702460,
+        "bytes": 8429899,
+        "sha256": "71766440122be83b5ce2ddbc6d4766d5f83ebaed60307ae5bdacbc887a9a26f0",
+        "sharedAyahs": [
+          "33:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qK-3LwesqEg",
+            "start": 1971.49,
+            "end": 2092.05
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/044.mp3",
+        "startMs": 120565,
+        "endMs": 267733,
+        "durationMs": 147168,
+        "recordingDurationMs": 702460,
+        "bytes": 8429899,
+        "sha256": "71766440122be83b5ce2ddbc6d4766d5f83ebaed60307ae5bdacbc887a9a26f0",
+        "sharedAyahs": [
+          "33:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qK-3LwesqEg",
+            "start": 2117.43,
+            "end": 2264.59
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/044.mp3",
+        "startMs": 267733,
+        "endMs": 702460,
+        "durationMs": 434727,
+        "recordingDurationMs": 702460,
+        "bytes": 8429899,
+        "sha256": "71766440122be83b5ce2ddbc6d4766d5f83ebaed60307ae5bdacbc887a9a26f0",
+        "sharedAyahs": [
+          "33:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qK-3LwesqEg",
+            "start": 2291.53,
+            "end": 2726.21
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 108240,
+        "durationMs": 108240,
+        "recordingDurationMs": 108240,
+        "bytes": 1299568,
+        "sha256": "e28f933eb2459cc66b1013e6fc5c0d599e31d98da2b3ad5ca0c24751eae34e67",
+        "sharedAyahs": [
+          "33:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ENPxPz6DkrE",
+            "start": 0.78,
+            "end": 108.99
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 443980,
+        "durationMs": 443980,
+        "recordingDurationMs": 443980,
+        "bytes": 5328400,
+        "sha256": "0074c5beea20f25427495b11835bc56678fa6d55d816e1aaafb81ba9d5edc8b5",
+        "sharedAyahs": [
+          "33:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ENPxPz6DkrE",
+            "start": 108.99,
+            "end": 552.95
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 355180,
+        "durationMs": 355180,
+        "recordingDurationMs": 355180,
+        "bytes": 4262800,
+        "sha256": "280f9fb12330485336a41fc440843e42f1706a510bf8a68a4ed88c4a4fc80e73",
+        "sharedAyahs": [
+          "33:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ENPxPz6DkrE",
+            "start": 552.95,
+            "end": 908.11
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 206350,
+        "durationMs": 206350,
+        "recordingDurationMs": 206350,
+        "bytes": 2476912,
+        "sha256": "495a60b1f657dbcf4af48047d90b0577340f71d41320bb6610d8bd90a90779cf",
+        "sharedAyahs": [
+          "33:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ENPxPz6DkrE",
+            "start": 908.11,
+            "end": 1114.44
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 253765,
+        "durationMs": 253765,
+        "recordingDurationMs": 1399990,
+        "bytes": 16800331,
+        "sha256": "2277431b5e1bfd4214c7d67ff5b455c783bb193822b66a7bc33db677764ef964",
+        "sharedAyahs": [
+          "33:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ENPxPz6DkrE",
+            "start": 1114.44,
+            "end": 1368.19
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/049.mp3",
+        "startMs": 253765,
+        "endMs": 312445,
+        "durationMs": 58680,
+        "recordingDurationMs": 1399990,
+        "bytes": 16800331,
+        "sha256": "2277431b5e1bfd4214c7d67ff5b455c783bb193822b66a7bc33db677764ef964",
+        "sharedAyahs": [
+          "33:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ENPxPz6DkrE",
+            "start": 1390.32,
+            "end": 1448.97
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/049.mp3",
+        "startMs": 312445,
+        "endMs": 1399990,
+        "durationMs": 1087545,
+        "recordingDurationMs": 1399990,
+        "bytes": 16800331,
+        "sha256": "2277431b5e1bfd4214c7d67ff5b455c783bb193822b66a7bc33db677764ef964",
+        "sharedAyahs": [
+          "33:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ENPxPz6DkrE",
+            "start": 1469.75,
+            "end": 2557.26
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-60.mp3",
+        "startMs": 0,
+        "endMs": 715501,
+        "durationMs": 715501,
+        "recordingDurationMs": 1920820,
+        "bytes": 23050210,
+        "sha256": "bd853beb4e76a257711f227b8113cbc0ba8448486a85e7ddab64b62448efe551",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "LN8Hrnn-7kI",
+            "start": 1.88,
+            "end": 717.37
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-60.mp3",
+        "startMs": 715501,
+        "endMs": 777901,
+        "durationMs": 62400,
+        "recordingDurationMs": 1920820,
+        "bytes": 23050210,
+        "sha256": "bd853beb4e76a257711f227b8113cbc0ba8448486a85e7ddab64b62448efe551",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "LN8Hrnn-7kI",
+            "start": 738.98,
+            "end": 801.35
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-60.mp3",
+        "startMs": 777901,
+        "endMs": 1920820,
+        "durationMs": 1142919,
+        "recordingDurationMs": 1920820,
+        "bytes": 23050210,
+        "sha256": "bd853beb4e76a257711f227b8113cbc0ba8448486a85e7ddab64b62448efe551",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "LN8Hrnn-7kI",
+            "start": 822.42,
+            "end": 1965.3
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 257930,
+        "durationMs": 257930,
+        "recordingDurationMs": 257930,
+        "bytes": 3095824,
+        "sha256": "872eb41c7566574f6a5b6648bdf6f94c8e1d7da7b9934836ebe8c1c590d9fa62",
+        "sharedAyahs": [
+          "33:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "LN8Hrnn-7kI",
+            "start": 1965.3,
+            "end": 2223.21
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-62.mp3",
+        "startMs": 0,
+        "endMs": 412610,
+        "durationMs": 412610,
+        "recordingDurationMs": 412610,
+        "bytes": 4951975,
+        "sha256": "3fbfcfa213a3a9e94998c0c7e5574b695b7ddfc23a78a390e3148b565bffc96d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "LN8Hrnn-7kI",
+            "start": 2223.21,
+            "end": 2635.78
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-63.mp3",
+        "startMs": 0,
+        "endMs": 1018861,
+        "durationMs": 1018861,
+        "recordingDurationMs": 1853740,
+        "bytes": 22245250,
+        "sha256": "765100923175f09ea5f54c0f47092dfc010b0077437998aac91f07b6fbf4391d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "lBOLy3d7xGQ",
+            "start": 1.26,
+            "end": 1020.1
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-63.mp3",
+        "startMs": 1018861,
+        "endMs": 1080277,
+        "durationMs": 61416,
+        "recordingDurationMs": 1853740,
+        "bytes": 22245250,
+        "sha256": "765100923175f09ea5f54c0f47092dfc010b0077437998aac91f07b6fbf4391d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "lBOLy3d7xGQ",
+            "start": 1042.48,
+            "end": 1103.88
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-63.mp3",
+        "startMs": 1080277,
+        "endMs": 1853740,
+        "durationMs": 773463,
+        "recordingDurationMs": 1853740,
+        "bytes": 22245250,
+        "sha256": "765100923175f09ea5f54c0f47092dfc010b0077437998aac91f07b6fbf4391d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "lBOLy3d7xGQ",
+            "start": 1125.75,
+            "end": 1899.17
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 814990,
+        "durationMs": 814990,
+        "recordingDurationMs": 814990,
+        "bytes": 9780592,
+        "sha256": "33f998e06f0a9a5f4dc5f4f42f5eaf62912862266f8a29a8b8155ac9c242246a",
+        "sharedAyahs": [
+          "33:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lBOLy3d7xGQ",
+            "start": 1899.17,
+            "end": 2714.16
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 1733389,
+        "durationMs": 1733389,
+        "recordingDurationMs": 1933320,
+        "bytes": 23200267,
+        "sha256": "36cb5ef9a1932e6d2ff0696ac849dfcb535f023a495101cf7ca093811bf39c95",
+        "sharedAyahs": [
+          "33:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 5.68,
+            "end": 1739.06
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/052.mp3",
+        "startMs": 1733389,
+        "endMs": 1774789,
+        "durationMs": 41400,
+        "recordingDurationMs": 1933320,
+        "bytes": 23200267,
+        "sha256": "36cb5ef9a1932e6d2ff0696ac849dfcb535f023a495101cf7ca093811bf39c95",
+        "sharedAyahs": [
+          "33:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 1761.34,
+            "end": 1802.73
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/052.mp3",
+        "startMs": 1774789,
+        "endMs": 1861837,
+        "durationMs": 87048,
+        "recordingDurationMs": 1933320,
+        "bytes": 23200267,
+        "sha256": "36cb5ef9a1932e6d2ff0696ac849dfcb535f023a495101cf7ca093811bf39c95",
+        "sharedAyahs": [
+          "33:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 1826.65,
+            "end": 1913.68
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/052.mp3",
+        "startMs": 1861837,
+        "endMs": 1929421,
+        "durationMs": 67584,
+        "recordingDurationMs": 1933320,
+        "bytes": 23200267,
+        "sha256": "36cb5ef9a1932e6d2ff0696ac849dfcb535f023a495101cf7ca093811bf39c95",
+        "sharedAyahs": [
+          "33:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 1935.91,
+            "end": 2003.45
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/052.mp3",
+        "startMs": 1929421,
+        "endMs": 1933320,
+        "durationMs": 3899,
+        "recordingDurationMs": 1933320,
+        "bytes": 23200267,
+        "sha256": "36cb5ef9a1932e6d2ff0696ac849dfcb535f023a495101cf7ca093811bf39c95",
+        "sharedAyahs": [
+          "33:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 2008.03,
+            "end": 2011.89
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 24325,
+        "durationMs": 24325,
+        "recordingDurationMs": 446860,
+        "bytes": 5362699,
+        "sha256": "d62fca239d4713b787484a4451ed77dabc0e3cd51e630315b65c5c11d858b586",
+        "sharedAyahs": [
+          "33:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 2011.89,
+            "end": 2036.19
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/053.mp3",
+        "startMs": 24325,
+        "endMs": 68653,
+        "durationMs": 44328,
+        "recordingDurationMs": 446860,
+        "bytes": 5362699,
+        "sha256": "d62fca239d4713b787484a4451ed77dabc0e3cd51e630315b65c5c11d858b586",
+        "sharedAyahs": [
+          "33:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 2058.41,
+            "end": 2102.73
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/053.mp3",
+        "startMs": 68653,
+        "endMs": 91093,
+        "durationMs": 22440,
+        "recordingDurationMs": 446860,
+        "bytes": 5362699,
+        "sha256": "d62fca239d4713b787484a4451ed77dabc0e3cd51e630315b65c5c11d858b586",
+        "sharedAyahs": [
+          "33:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 2115.6,
+            "end": 2138.0
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/053.mp3",
+        "startMs": 91093,
+        "endMs": 103717,
+        "durationMs": 12624,
+        "recordingDurationMs": 446860,
+        "bytes": 5362699,
+        "sha256": "d62fca239d4713b787484a4451ed77dabc0e3cd51e630315b65c5c11d858b586",
+        "sharedAyahs": [
+          "33:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 2146.14,
+            "end": 2158.74
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/053.mp3",
+        "startMs": 103717,
+        "endMs": 319093,
+        "durationMs": 215376,
+        "recordingDurationMs": 446860,
+        "bytes": 5362699,
+        "sha256": "d62fca239d4713b787484a4451ed77dabc0e3cd51e630315b65c5c11d858b586",
+        "sharedAyahs": [
+          "33:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 2185.55,
+            "end": 2400.89
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/053.mp3",
+        "startMs": 319093,
+        "endMs": 446860,
+        "durationMs": 127767,
+        "recordingDurationMs": 446860,
+        "bytes": 5362699,
+        "sha256": "d62fca239d4713b787484a4451ed77dabc0e3cd51e630315b65c5c11d858b586",
+        "sharedAyahs": [
+          "33:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QTQqYUP1n9E",
+            "start": 2430.65,
+            "end": 2558.38
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-67.mp3",
+        "startMs": 0,
+        "endMs": 827570,
+        "durationMs": 827570,
+        "recordingDurationMs": 827570,
+        "bytes": 9931495,
+        "sha256": "7bf4b5d45adaad79e114075c2604d82f2090792de4c350fdfb2a98baca45c645",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "GsSs1SCAshY",
+            "start": 20.64,
+            "end": 848.18
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 182710,
+        "durationMs": 182710,
+        "recordingDurationMs": 182710,
+        "bytes": 2193232,
+        "sha256": "57226278779684972fa8bf6a8b3eb42310654a79eef67fed2728cb43890f72e4",
+        "sharedAyahs": [
+          "33:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GsSs1SCAshY",
+            "start": 848.18,
+            "end": 1030.87
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 345181,
+        "durationMs": 345181,
+        "recordingDurationMs": 632740,
+        "bytes": 7593259,
+        "sha256": "b1757c39ae8b7996e8d51993a2753ef3545dac8877767f87bdadf7f9876adbd5",
+        "sharedAyahs": [
+          "33:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GsSs1SCAshY",
+            "start": 1030.87,
+            "end": 1376.03
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/055.mp3",
+        "startMs": 345181,
+        "endMs": 632740,
+        "durationMs": 287559,
+        "recordingDurationMs": 632740,
+        "bytes": 7593259,
+        "sha256": "b1757c39ae8b7996e8d51993a2753ef3545dac8877767f87bdadf7f9876adbd5",
+        "sharedAyahs": [
+          "33:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GsSs1SCAshY",
+            "start": 1405.65,
+            "end": 1693.17
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 724660,
+        "durationMs": 724660,
+        "recordingDurationMs": 724660,
+        "bytes": 8696560,
+        "sha256": "3d23fd9e061f1f05559626cd6a0df8d23ccd18ef4b32c8f553b1c7a071031122",
+        "sharedAyahs": [
+          "33:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GsSs1SCAshY",
+            "start": 1693.17,
+            "end": 2417.79
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 207220,
+        "durationMs": 207220,
+        "recordingDurationMs": 207220,
+        "bytes": 2487280,
+        "sha256": "0c62b0211c14d95ddae5289a5cc806b9889dbd73c654ebd09242f62aaacd4ba7",
+        "sharedAyahs": [
+          "33:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GsSs1SCAshY",
+            "start": 2417.79,
+            "end": 2624.99
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-72.mp3",
+        "startMs": 0,
+        "endMs": 1285870,
+        "durationMs": 1285870,
+        "recordingDurationMs": 1285870,
+        "bytes": 15431143,
+        "sha256": "02f8274baa95f452932c5db55fdf87a6d7d656d63f5623f3935c9f8211540916",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "vQKNKIoR5GE",
+            "start": 6.1,
+            "end": 1291.95
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 822157,
+        "durationMs": 822157,
+        "recordingDurationMs": 1199830,
+        "bytes": 14398411,
+        "sha256": "564c0bba676b94bd7bf8c56a06e79649dbcdf29c34ffa47c44299e1f2c902be9",
+        "sharedAyahs": [
+          "33:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vQKNKIoR5GE",
+            "start": 1291.95,
+            "end": 2114.11
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/058.mp3",
+        "startMs": 822157,
+        "endMs": 934285,
+        "durationMs": 112128,
+        "recordingDurationMs": 1199830,
+        "bytes": 14398411,
+        "sha256": "564c0bba676b94bd7bf8c56a06e79649dbcdf29c34ffa47c44299e1f2c902be9",
+        "sharedAyahs": [
+          "33:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vQKNKIoR5GE",
+            "start": 2143.23,
+            "end": 2255.34
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/058.mp3",
+        "startMs": 934285,
+        "endMs": 1001533,
+        "durationMs": 67248,
+        "recordingDurationMs": 1199830,
+        "bytes": 14398411,
+        "sha256": "564c0bba676b94bd7bf8c56a06e79649dbcdf29c34ffa47c44299e1f2c902be9",
+        "sharedAyahs": [
+          "33:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vQKNKIoR5GE",
+            "start": 2270.7,
+            "end": 2337.93
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/058.mp3",
+        "startMs": 1001533,
+        "endMs": 1046581,
+        "durationMs": 45048,
+        "recordingDurationMs": 1199830,
+        "bytes": 14398411,
+        "sha256": "564c0bba676b94bd7bf8c56a06e79649dbcdf29c34ffa47c44299e1f2c902be9",
+        "sharedAyahs": [
+          "33:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vQKNKIoR5GE",
+            "start": 2371.4,
+            "end": 2416.43
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/058.mp3",
+        "startMs": 1046581,
+        "endMs": 1199830,
+        "durationMs": 153249,
+        "recordingDurationMs": 1199830,
+        "bytes": 14398411,
+        "sha256": "564c0bba676b94bd7bf8c56a06e79649dbcdf29c34ffa47c44299e1f2c902be9",
+        "sharedAyahs": [
+          "33:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vQKNKIoR5GE",
+            "start": 2432.06,
+            "end": 2585.28
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 935989,
+        "durationMs": 935989,
+        "recordingDurationMs": 1162730,
+        "bytes": 13953163,
+        "sha256": "9a3d3416bff21401fb7b35402623b9c23ac81479f02484585fcf8225aeedf2d1",
+        "sharedAyahs": [
+          "33:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 5.39,
+            "end": 941.36
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/059.mp3",
+        "startMs": 935989,
+        "endMs": 987829,
+        "durationMs": 51840,
+        "recordingDurationMs": 1162730,
+        "bytes": 13953163,
+        "sha256": "9a3d3416bff21401fb7b35402623b9c23ac81479f02484585fcf8225aeedf2d1",
+        "sharedAyahs": [
+          "33:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 958.52,
+            "end": 1010.33
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/059.mp3",
+        "startMs": 987829,
+        "endMs": 1057453,
+        "durationMs": 69624,
+        "recordingDurationMs": 1162730,
+        "bytes": 13953163,
+        "sha256": "9a3d3416bff21401fb7b35402623b9c23ac81479f02484585fcf8225aeedf2d1",
+        "sharedAyahs": [
+          "33:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1020.62,
+            "end": 1090.21
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/059.mp3",
+        "startMs": 1057453,
+        "endMs": 1162730,
+        "durationMs": 105277,
+        "recordingDurationMs": 1162730,
+        "bytes": 13953163,
+        "sha256": "9a3d3416bff21401fb7b35402623b9c23ac81479f02484585fcf8225aeedf2d1",
+        "sharedAyahs": [
+          "33:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1119.78,
+            "end": 1225.03
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 76453,
+        "durationMs": 76453,
+        "recordingDurationMs": 512570,
+        "bytes": 6151243,
+        "sha256": "27b846c094470a116dba163fe217bf1dbd1f99fffc125de33aab795e1b4e55ea",
+        "sharedAyahs": [
+          "33:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1225.03,
+            "end": 1301.46
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/060.mp3",
+        "startMs": 76453,
+        "endMs": 195853,
+        "durationMs": 119400,
+        "recordingDurationMs": 512570,
+        "bytes": 6151243,
+        "sha256": "27b846c094470a116dba163fe217bf1dbd1f99fffc125de33aab795e1b4e55ea",
+        "sharedAyahs": [
+          "33:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1326.61,
+            "end": 1446.0
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/060.mp3",
+        "startMs": 195853,
+        "endMs": 207301,
+        "durationMs": 11448,
+        "recordingDurationMs": 512570,
+        "bytes": 6151243,
+        "sha256": "27b846c094470a116dba163fe217bf1dbd1f99fffc125de33aab795e1b4e55ea",
+        "sharedAyahs": [
+          "33:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1502.21,
+            "end": 1513.65
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/060.mp3",
+        "startMs": 207301,
+        "endMs": 249613,
+        "durationMs": 42312,
+        "recordingDurationMs": 512570,
+        "bytes": 6151243,
+        "sha256": "27b846c094470a116dba163fe217bf1dbd1f99fffc125de33aab795e1b4e55ea",
+        "sharedAyahs": [
+          "33:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1522.57,
+            "end": 1564.87
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/060.mp3",
+        "startMs": 249613,
+        "endMs": 305149,
+        "durationMs": 55536,
+        "recordingDurationMs": 512570,
+        "bytes": 6151243,
+        "sha256": "27b846c094470a116dba163fe217bf1dbd1f99fffc125de33aab795e1b4e55ea",
+        "sharedAyahs": [
+          "33:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1593.48,
+            "end": 1648.98
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/060.mp3",
+        "startMs": 305149,
+        "endMs": 418357,
+        "durationMs": 113208,
+        "recordingDurationMs": 512570,
+        "bytes": 6151243,
+        "sha256": "27b846c094470a116dba163fe217bf1dbd1f99fffc125de33aab795e1b4e55ea",
+        "sharedAyahs": [
+          "33:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1677.49,
+            "end": 1790.68
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/060.mp3",
+        "startMs": 418357,
+        "endMs": 512570,
+        "durationMs": 94213,
+        "recordingDurationMs": 512570,
+        "bytes": 6151243,
+        "sha256": "27b846c094470a116dba163fe217bf1dbd1f99fffc125de33aab795e1b4e55ea",
+        "sharedAyahs": [
+          "33:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1832.26,
+            "end": 1926.44
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 83965,
+        "durationMs": 83965,
+        "recordingDurationMs": 148320,
+        "bytes": 1780267,
+        "sha256": "937844406b316dd3ede1cfaa50e45abf82ffdee5f1603d114dd189cc7b313400",
+        "sharedAyahs": [
+          "33:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 1926.44,
+            "end": 2010.39
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/061.mp3",
+        "startMs": 83965,
+        "endMs": 148320,
+        "durationMs": 64355,
+        "recordingDurationMs": 148320,
+        "bytes": 1780267,
+        "sha256": "937844406b316dd3ede1cfaa50e45abf82ffdee5f1603d114dd189cc7b313400",
+        "sharedAyahs": [
+          "33:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 2036.91,
+            "end": 2101.23
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 369170,
+        "durationMs": 369170,
+        "recordingDurationMs": 369170,
+        "bytes": 4430704,
+        "sha256": "d2926e08c47cb5da570c8aca424f323a169ef685f259b2d94a8e542b1dda53f6",
+        "sharedAyahs": [
+          "33:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D1hqjs0d3kg",
+            "start": 2101.23,
+            "end": 2470.39
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 803749,
+        "durationMs": 803749,
+        "recordingDurationMs": 2459060,
+        "bytes": 29509195,
+        "sha256": "6df9820728ccd4611af7f0099e51f32092fbed9734c2117af7e13b9401c58ad1",
+        "sharedAyahs": [
+          "33:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xrca592jGGk",
+            "start": 5.74,
+            "end": 809.49
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/063.mp3",
+        "startMs": 803749,
+        "endMs": 1193701,
+        "durationMs": 389952,
+        "recordingDurationMs": 2459060,
+        "bytes": 29509195,
+        "sha256": "6df9820728ccd4611af7f0099e51f32092fbed9734c2117af7e13b9401c58ad1",
+        "sharedAyahs": [
+          "33:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xrca592jGGk",
+            "start": 815.83,
+            "end": 1205.75
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/063.mp3",
+        "startMs": 1193701,
+        "endMs": 1609669,
+        "durationMs": 415968,
+        "recordingDurationMs": 2459060,
+        "bytes": 29509195,
+        "sha256": "6df9820728ccd4611af7f0099e51f32092fbed9734c2117af7e13b9401c58ad1",
+        "sharedAyahs": [
+          "33:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xrca592jGGk",
+            "start": 1224.06,
+            "end": 1640.01
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/063.mp3",
+        "startMs": 1609669,
+        "endMs": 2132893,
+        "durationMs": 523224,
+        "recordingDurationMs": 2459060,
+        "bytes": 29509195,
+        "sha256": "6df9820728ccd4611af7f0099e51f32092fbed9734c2117af7e13b9401c58ad1",
+        "sharedAyahs": [
+          "33:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xrca592jGGk",
+            "start": 1658.41,
+            "end": 2181.62
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/063.mp3",
+        "startMs": 2132893,
+        "endMs": 2459060,
+        "durationMs": 326167,
+        "recordingDurationMs": 2459060,
+        "bytes": 29509195,
+        "sha256": "6df9820728ccd4611af7f0099e51f32092fbed9734c2117af7e13b9401c58ad1",
+        "sharedAyahs": [
+          "33:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xrca592jGGk",
+            "start": 2189.84,
+            "end": 2515.98
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 34010,
+        "durationMs": 34010,
+        "recordingDurationMs": 34010,
+        "bytes": 408784,
+        "sha256": "f9d4482a48f36f849e1cee3025521f1e146ddc2ce263f45a99ca05ff8f94897e",
+        "sharedAyahs": [
+          "33:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xrca592jGGk",
+            "start": 2515.98,
+            "end": 2549.96
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 68260,
+        "durationMs": 68260,
+        "recordingDurationMs": 68260,
+        "bytes": 819760,
+        "sha256": "d6d54b2a2d82db26f9dc1e68c60edfa4948eff3a58fedf0a163a1d116b2c7567",
+        "sharedAyahs": [
+          "33:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xrca592jGGk",
+            "start": 2549.96,
+            "end": 2618.19
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-81.mp3",
+        "startMs": 0,
+        "endMs": 165310,
+        "durationMs": 165310,
+        "recordingDurationMs": 165310,
+        "bytes": 1984423,
+        "sha256": "47ed7d3a75b6b647430bbbb1b84b6d9ffc552b7fbe91fcf8733531bf6bbe46f9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "a2XKIg6bkOc",
+            "start": 2.54,
+            "end": 167.82
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 576170,
+        "durationMs": 576170,
+        "recordingDurationMs": 576170,
+        "bytes": 6914704,
+        "sha256": "0205a226a31aa4aa332600f280779761bf02c3fd1a6b350fd176a7f0c3a39cb4",
+        "sharedAyahs": [
+          "33:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a2XKIg6bkOc",
+            "start": 167.82,
+            "end": 743.97
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 7610,
+        "durationMs": 7610,
+        "recordingDurationMs": 7610,
+        "bytes": 91984,
+        "sha256": "ba5615e6797ff45ad344fc8895d500fcf710f1c1f17dd48388ffe6f77f4ddaf5",
+        "sharedAyahs": [
+          "33:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a2XKIg6bkOc",
+            "start": 743.97,
+            "end": 751.54
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 452640,
+        "durationMs": 452640,
+        "recordingDurationMs": 452640,
+        "bytes": 5432368,
+        "sha256": "35d84121f25bb545c255edf0cf537865b40c7042628abfe885024943e74bb822",
+        "sharedAyahs": [
+          "33:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a2XKIg6bkOc",
+            "start": 751.54,
+            "end": 1204.16
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 618620,
+        "durationMs": 618620,
+        "recordingDurationMs": 618620,
+        "bytes": 7424176,
+        "sha256": "4b327b99f1500da8f76ee5b6d7ce1853f02583d5227695ce3c689a5668ee2940",
+        "sharedAyahs": [
+          "33:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a2XKIg6bkOc",
+            "start": 1204.16,
+            "end": 1822.76
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 56570,
+        "durationMs": 56570,
+        "recordingDurationMs": 56570,
+        "bytes": 679504,
+        "sha256": "acbabf4d525a39daba7866ddb90d1ce08a7eb919aaf0af8ce4db60f16db608da",
+        "sharedAyahs": [
+          "33:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a2XKIg6bkOc",
+            "start": 1822.76,
+            "end": 1879.32
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 35380,
+        "durationMs": 35380,
+        "recordingDurationMs": 35380,
+        "bytes": 425200,
+        "sha256": "26f79912aa6708ac4b9281a48ccbf3302a15c72b792ec58bf837a33bcd171a2e",
+        "sharedAyahs": [
+          "33:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a2XKIg6bkOc",
+            "start": 1879.32,
+            "end": 1914.66
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 640820,
+        "durationMs": 640820,
+        "recordingDurationMs": 640820,
+        "bytes": 7690576,
+        "sha256": "d14ca00ef74e04dc23d40adb8cb85f80e68f86672364f4730c145db00745f9f5",
+        "sharedAyahs": [
+          "33:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a2XKIg6bkOc",
+            "start": 1914.66,
+            "end": 2555.45
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-89.mp3",
+        "startMs": 0,
+        "endMs": 385909,
+        "durationMs": 385909,
+        "recordingDurationMs": 1044140,
+        "bytes": 12530146,
+        "sha256": "08356b050d82679f9db74b8ead166b829e4d7f426af27a25973c908a281dedda",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "tcjR2w1baTw",
+            "start": 0.85,
+            "end": 386.74
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-89.mp3",
+        "startMs": 385909,
+        "endMs": 964117,
+        "durationMs": 578208,
+        "recordingDurationMs": 1044140,
+        "bytes": 12530146,
+        "sha256": "08356b050d82679f9db74b8ead166b829e4d7f426af27a25973c908a281dedda",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "tcjR2w1baTw",
+            "start": 414.0,
+            "end": 992.17
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-89.mp3",
+        "startMs": 964117,
+        "endMs": 1021069,
+        "durationMs": 56952,
+        "recordingDurationMs": 1044140,
+        "bytes": 12530146,
+        "sha256": "08356b050d82679f9db74b8ead166b829e4d7f426af27a25973c908a281dedda",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "tcjR2w1baTw",
+            "start": 1003.43,
+            "end": 1060.36
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/other-89.mp3",
+        "startMs": 1021069,
+        "endMs": 1044140,
+        "durationMs": 23071,
+        "recordingDurationMs": 1044140,
+        "bytes": 12530146,
+        "sha256": "08356b050d82679f9db74b8ead166b829e4d7f426af27a25973c908a281dedda",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "tcjR2w1baTw",
+            "start": 1081.56,
+            "end": 1104.6
+          }
+        ]
+      },
+      {
+        "file": "033-الأحزاب-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 172750,
+        "durationMs": 172750,
+        "recordingDurationMs": 172750,
+        "bytes": 2073712,
+        "sha256": "2b039ac45d7984ffb0f5fbb1060c569561b2c14817df313439e562474765a386",
+        "sharedAyahs": [
+          "33:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tcjR2w1baTw",
+            "start": 1104.6,
+            "end": 1277.31
+          }
+        ]
+      }
+    ],
+    "durationMs": 57160790,
+    "additionalAudioBytes": 0
+  }
+}
