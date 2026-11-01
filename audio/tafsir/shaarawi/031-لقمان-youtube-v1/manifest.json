@@ -1,0 +1,1823 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 31,
+  "surahName": "لقمان",
+  "ayahCount": 34,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 34,
+    "mappedAyahCount": 34,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "-kKh3iMyhU0": {
+      "durationSeconds": 854.83,
+      "bytes": 10258678,
+      "sha256": "65580397dee8f571c1aa16ec1aa794042d6372836e4df022095235dfbaaab616",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-003_-kKh3iMyhU0.mp3"
+    },
+    "xR6T7iuFXDY": {
+      "durationSeconds": 1839.67,
+      "bytes": 22076758,
+      "sha256": "81be8ddc77bbdb233fbce90fced11b983091340dd629e341fb129484d48b849c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_005-006_xR6T7iuFXDY.mp3"
+    },
+    "Ulb6mzKLN54": {
+      "durationSeconds": 1764.14,
+      "bytes": 21170424,
+      "sha256": "7c8b652a240a41de4d95774d83978141d300e3d91dd82af2d0a2463d75908cae",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_006-010_Ulb6mzKLN54.mp3"
+    },
+    "wm_9qU2zwoQ": {
+      "durationSeconds": 1700.74,
+      "bytes": 20409531,
+      "sha256": "542bc6f3331d94272d495ed592c5d75ea7c56dadb5eb8222f4d8aaefe6698bdb",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_010-011_wm_9qU2zwoQ.mp3"
+    },
+    "pYd71_ImJSE": {
+      "durationSeconds": 1760.28,
+      "bytes": 21124053,
+      "sha256": "e0ba0ac17ac1ec550ca492d43dec38105299f84b47c3726408e1c2332fa8cb7d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_012-012_pYd71_ImJSE.mp3"
+    },
+    "HVv7on13ItM": {
+      "durationSeconds": 1700.9,
+      "bytes": 20411547,
+      "sha256": "3e065517c377438886d90670b8e344741e9b058133dcb694467cb6038a969e8c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_012-014_HVv7on13ItM.mp3"
+    },
+    "aLk7GmWaU8M": {
+      "durationSeconds": 1748.09,
+      "bytes": 20977755,
+      "sha256": "d2acbd354afa64abe8986ca30c94c0f6d061c94ce29c1a155b189595b92de83d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_014-016_aLk7GmWaU8M.mp3"
+    },
+    "_aWbdUIEqJM": {
+      "durationSeconds": 1733.4,
+      "bytes": 20801498,
+      "sha256": "7633740b4787892fb8c5ec9955a4bf92b2cd71a6f2299b931fc785f39fc76201",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_016-017__aWbdUIEqJM.mp3"
+    },
+    "bCGWEVirqE0": {
+      "durationSeconds": 1707.19,
+      "bytes": 20487003,
+      "sha256": "fb7b7e56ceddedae2da86c3484b9c18f0a9ebee30a02991c4d177e4d17d38b51",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_017-018_bCGWEVirqE0.mp3"
+    },
+    "ZUGpvTUXe0k": {
+      "durationSeconds": 1711.58,
+      "bytes": 20539708,
+      "sha256": "9b0503ddce5483168df3ab3b3e1033fc6a9c34bed56547438fbd786a42d921b5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_018-020_ZUGpvTUXe0k.mp3"
+    },
+    "fIC-wK5w-Us": {
+      "durationSeconds": 1716.58,
+      "bytes": 20599622,
+      "sha256": "4ce04b10615b64e29ae37cde4f5ce22bc186d536e9ce9e343ed06852829001d9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_020-020_fIC-wK5w-Us.mp3"
+    },
+    "-RIu0dz1X-s": {
+      "durationSeconds": 1757.06,
+      "bytes": 21085477,
+      "sha256": "04158d58cffb41b568885614fde9edd34585aae960fc6199c8212262b7ebad8f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_020-020_-RIu0dz1X-s.mp3"
+    },
+    "WsjHxEllmpI": {
+      "durationSeconds": 1670.71,
+      "bytes": 20049244,
+      "sha256": "d8837ece68e1ac33c4dc40ef73771044d1738a6c71277776a51774903376dcca",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_020-022_WsjHxEllmpI.mp3"
+    },
+    "NHZVqYinwaY": {
+      "durationSeconds": 1750.99,
+      "bytes": 21012604,
+      "sha256": "6ec694205d27263ab2a7463ef6e4920d460508f155f219f118fc3eee8f9b8762",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_022-026_NHZVqYinwaY.mp3"
+    },
+    "V6YyTiPEGmc": {
+      "durationSeconds": 1680.67,
+      "bytes": 20168764,
+      "sha256": "48bb77202e7f6d4734c134ee5c732078dd45d6064f322796cd1a07b1685fe18e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_026-028_V6YyTiPEGmc.mp3"
+    },
+    "WN53zMdioRc": {
+      "durationSeconds": 1721.62,
+      "bytes": 20660092,
+      "sha256": "20b6061e5cb1dff9d06e2122ceabe4cc664cc57a9e200f17f65f67f11a752eef",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_028-029_WN53zMdioRc.mp3"
+    },
+    "WYUaQiPig58": {
+      "durationSeconds": 1700.14,
+      "bytes": 20402332,
+      "sha256": "285a2bc20a637962cfe4b03f9d0727f3a7443bbe759a1c206d8717b46e51f558",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "017_029-030_WYUaQiPig58.mp3"
+    },
+    "QFraINWqJ8c": {
+      "durationSeconds": 1726.42,
+      "bytes": 20717692,
+      "sha256": "e1ebe145a391ec88b04dae8521f54ba50a32e97d7b97da923c8632fdce1d7bfe",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "018_030-033_QFraINWqJ8c.mp3"
+    },
+    "USwxP4G7x0A": {
+      "durationSeconds": 1699.39,
+      "bytes": 20393404,
+      "sha256": "e6b1f10036668e6a56e9e52fb65658ecb54424afdfb997327cad91dba683fcbc",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "019_033-034_USwxP4G7x0A.mp3"
+    }
+  },
+  "ayahs": {
+    "31:1": {
+      "file": "031-لقمان-youtube-v1/001.mp3",
+      "durationMs": 387840,
+      "bytes": 4654758,
+      "sha256": "7fd62621114e2970a36f3e274d80a2d2489def612971c5e669817304aa93b664",
+      "sharedAyahs": [
+        "31:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-kKh3iMyhU0",
+          "start": 2.9,
+          "end": 390.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:2": {
+      "file": "031-لقمان-youtube-v1/002.mp3",
+      "durationMs": 464110,
+      "bytes": 5570026,
+      "sha256": "7f374b7213996bdcb16f821ec5b1120d0f8fd70bc719b5e02e171ab06fe19c68",
+      "sharedAyahs": [
+        "31:2",
+        "31:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-kKh3iMyhU0",
+          "start": 390.7,
+          "end": 854.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:3": {
+      "file": "031-لقمان-youtube-v1/002.mp3",
+      "durationMs": 464110,
+      "bytes": 5570026,
+      "sha256": "7f374b7213996bdcb16f821ec5b1120d0f8fd70bc719b5e02e171ab06fe19c68",
+      "sharedAyahs": [
+        "31:2",
+        "31:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-kKh3iMyhU0",
+          "start": 390.7,
+          "end": 854.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:4": {
+      "file": "031-لقمان-youtube-v1/004.mp3",
+      "durationMs": 51310,
+      "bytes": 616426,
+      "sha256": "06e137deee5f2c8aab7627b72d1e1905d6610e6573b2cebeb5e3c3154a01a137",
+      "sharedAyahs": [
+        "31:4",
+        "31:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xR6T7iuFXDY",
+          "start": 0.7,
+          "end": 52.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:5": {
+      "file": "031-لقمان-youtube-v1/004.mp3",
+      "durationMs": 51310,
+      "bytes": 616426,
+      "sha256": "06e137deee5f2c8aab7627b72d1e1905d6610e6573b2cebeb5e3c3154a01a137",
+      "sharedAyahs": [
+        "31:4",
+        "31:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xR6T7iuFXDY",
+          "start": 0.7,
+          "end": 52.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:6": {
+      "file": "031-لقمان-youtube-v1/006.mp3",
+      "durationMs": 1783320,
+      "bytes": 21400518,
+      "sha256": "a8036ce8e43cdc066823fe9acc18588beb5a2ddf1a1e167382c892f23a41f3e0",
+      "sharedAyahs": [
+        "31:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xR6T7iuFXDY",
+          "start": 52.0,
+          "end": 1835.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:7": {
+      "file": "031-لقمان-youtube-v1/007.mp3",
+      "durationMs": 353900,
+      "bytes": 4247526,
+      "sha256": "c5069835c93e31e9bc4da46f67a20fa8dbb1670c168aaace4e4a6764bc9e4915",
+      "sharedAyahs": [
+        "31:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Ulb6mzKLN54",
+          "start": 306.7,
+          "end": 660.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:8": {
+      "file": "031-لقمان-youtube-v1/008.mp3",
+      "durationMs": 128930,
+      "bytes": 1547814,
+      "sha256": "1824f79aa541bb301694b54b0be777e49fb5f2bae7c2a8b651552d6d60acf606",
+      "sharedAyahs": [
+        "31:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Ulb6mzKLN54",
+          "start": 660.6,
+          "end": 789.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:9": {
+      "file": "031-لقمان-youtube-v1/009.mp3",
+      "durationMs": 540840,
+      "bytes": 6490758,
+      "sha256": "f066d218bad7cf5f05b195a3ec8841129209ff4c36ba4885f0bcf59d0148bafd",
+      "sharedAyahs": [
+        "31:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Ulb6mzKLN54",
+          "start": 789.5,
+          "end": 1330.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:10": {
+      "file": "031-لقمان-youtube-v1/010.mp3",
+      "durationMs": 427010,
+      "bytes": 5124776,
+      "sha256": "f322357cc2b316513dbaae14054103ae85db4afca8e570172949dafee9ad849b",
+      "sharedAyahs": [
+        "31:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Ulb6mzKLN54",
+          "start": 1330.3,
+          "end": 1757.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:11": {
+      "file": "031-لقمان-youtube-v1/011.mp3",
+      "durationMs": 282410,
+      "bytes": 3389576,
+      "sha256": "b84d4bd3261e56bf388d771ca056f873d8e26f18ecbb298d4548de4391f17f84",
+      "sharedAyahs": [
+        "31:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "wm_9qU2zwoQ",
+          "start": 1415.6,
+          "end": 1698.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:12": {
+      "file": "031-لقمان-youtube-v1/012.mp3",
+      "durationMs": 1751520,
+      "bytes": 21018920,
+      "sha256": "41f58105c42c6fb6b0c87fe847764a89cbf15731f5f551adab0abbfa19d93fa4",
+      "sharedAyahs": [
+        "31:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pYd71_ImJSE",
+          "start": 5.8,
+          "end": 1757.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:13": {
+      "file": "031-لقمان-youtube-v1/013.mp3",
+      "durationMs": 518520,
+      "bytes": 6222920,
+      "sha256": "7e2f2abd54363dddfe29d377ef5ce34ce4cac0283d94b0bacfc5c54ee3366c68",
+      "sharedAyahs": [
+        "31:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HVv7on13ItM",
+          "start": 769.9,
+          "end": 1288.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:14": {
+      "file": "031-لقمان-youtube-v1/014.mp3",
+      "durationMs": 409610,
+      "bytes": 4915976,
+      "sha256": "e8b718ed040461d54636583ccf44b2fb5bb5866093e4ac3e3edfb74a21ae3f5e",
+      "sharedAyahs": [
+        "31:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HVv7on13ItM",
+          "start": 1288.4,
+          "end": 1698.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:15": {
+      "file": "031-لقمان-youtube-v1/015.mp3",
+      "durationMs": 1159730,
+      "bytes": 13917416,
+      "sha256": "baa12c94e6013d06777e3770f5649016706213ab498806bd550d8e4f5de8b03c",
+      "sharedAyahs": [
+        "31:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aLk7GmWaU8M",
+          "start": 562.5,
+          "end": 1722.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:16": {
+      "file": "031-لقمان-youtube-v1/016.mp3",
+      "durationMs": 310220,
+      "bytes": 3723368,
+      "sha256": "7103df832ff92da80fecaba772b00e7e94320c70e68d93279ff643a799a0b9c9",
+      "sharedAyahs": [
+        "31:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_aWbdUIEqJM",
+          "start": 5.9,
+          "end": 316.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:17": {
+      "file": "031-لقمان-youtube-v1/017.mp3",
+      "durationMs": 1396540,
+      "bytes": 16759112,
+      "sha256": "d6941ff07eec37c4c25545a486ae23e87a6690a366f73d1b509296c04f6174d5",
+      "sharedAyahs": [
+        "31:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_aWbdUIEqJM",
+          "start": 316.1,
+          "end": 1712.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:18": {
+      "file": "031-لقمان-youtube-v1/018.mp3",
+      "durationMs": 226420,
+      "bytes": 2717672,
+      "sha256": "a9bc30c1d441e08a6601e26343586322cce5f3af1faebcf1a09d56f482aa005e",
+      "sharedAyahs": [
+        "31:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bCGWEVirqE0",
+          "start": 1451.5,
+          "end": 1677.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:19": {
+      "file": "031-لقمان-youtube-v1/019.mp3",
+      "durationMs": 604130,
+      "bytes": 7250216,
+      "sha256": "da177241047a3e672701653ac44db75645299f4fc0f918723ae97d74cab6758e",
+      "sharedAyahs": [
+        "31:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZUGpvTUXe0k",
+          "start": 629.8,
+          "end": 1233.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:20": {
+      "file": "031-لقمان-youtube-v1/020.mp3",
+      "durationMs": 455020,
+      "bytes": 5460872,
+      "sha256": "58c618fc5ef8797ff63ed50768eae27681333ffb3984bd2ce860b9dd8fa79eed",
+      "sharedAyahs": [
+        "31:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZUGpvTUXe0k",
+          "start": 1233.9,
+          "end": 1688.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:21": {
+      "file": "031-لقمان-youtube-v1/021.mp3",
+      "durationMs": 279940,
+      "bytes": 3359912,
+      "sha256": "b040bc3a21fa6f7443a761aaf5d0d733228ff556cef338188f712bc31912cf28",
+      "sharedAyahs": [
+        "31:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WsjHxEllmpI",
+          "start": 0.4,
+          "end": 280.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:22": {
+      "file": "031-لقمان-youtube-v1/022.mp3",
+      "durationMs": 1071720,
+      "bytes": 12861320,
+      "sha256": "abc173254a967151210fab647220d203835a63ee1cdffe2e99b02186f2f7d607",
+      "sharedAyahs": [
+        "31:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WsjHxEllmpI",
+          "start": 280.3,
+          "end": 1352.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:23": {
+      "file": "031-لقمان-youtube-v1/023.mp3",
+      "durationMs": 459720,
+      "bytes": 5517320,
+      "sha256": "14ab6327620ca3133d7736e13304dd10886cd39b5a9dbac01ee3b6faf9444a5e",
+      "sharedAyahs": [
+        "31:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NHZVqYinwaY",
+          "start": 1.9,
+          "end": 461.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:24": {
+      "file": "031-لقمان-youtube-v1/024.mp3",
+      "durationMs": 489020,
+      "bytes": 5868968,
+      "sha256": "b4598d182657c3bbf005841e0d6e38c4e4190267cf95ba7cb2f5fbb76d3311d5",
+      "sharedAyahs": [
+        "31:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NHZVqYinwaY",
+          "start": 461.6,
+          "end": 950.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:25": {
+      "file": "031-لقمان-youtube-v1/025.mp3",
+      "durationMs": 75410,
+      "bytes": 905576,
+      "sha256": "14fd95958c2e27f819fc85b3b3325e641559ab918fd6fe5bdaaa6facc0072b22",
+      "sharedAyahs": [
+        "31:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NHZVqYinwaY",
+          "start": 950.6,
+          "end": 1026.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:26": {
+      "file": "031-لقمان-youtube-v1/026.mp3",
+      "durationMs": 692830,
+      "bytes": 8314664,
+      "sha256": "11fc2a6817650345fb40b3b8059b554a1df5620a8ac52a394fb0762527fcfeb6",
+      "sharedAyahs": [
+        "31:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NHZVqYinwaY",
+          "start": 1026.0,
+          "end": 1718.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:27": {
+      "file": "031-لقمان-youtube-v1/027.mp3",
+      "durationMs": 1505830,
+      "bytes": 18070664,
+      "sha256": "377eb106a064d465273ab1b089d71908fcd28abdbcbf395f87028e3570f007d0",
+      "sharedAyahs": [
+        "31:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "V6YyTiPEGmc",
+          "start": 155.7,
+          "end": 1661.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:28": {
+      "file": "031-لقمان-youtube-v1/028.mp3",
+      "durationMs": 1307930,
+      "bytes": 15695816,
+      "sha256": "bf14ca308699698f75e3838bdc5a674fa99b930c1b09967155d5666653db49c3",
+      "sharedAyahs": [
+        "31:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WN53zMdioRc",
+          "start": 0.0,
+          "end": 1307.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:29": {
+      "file": "031-لقمان-youtube-v1/029.mp3",
+      "durationMs": 380930,
+      "bytes": 4571816,
+      "sha256": "8ea2342ed3462f18c621345846a9e1c8a145f917e53dda3d79b2f8a7e7f46c75",
+      "sharedAyahs": [
+        "31:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WN53zMdioRc",
+          "start": 1307.9,
+          "end": 1688.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:30": {
+      "file": "031-لقمان-youtube-v1/030.mp3",
+      "durationMs": 453340,
+      "bytes": 5440712,
+      "sha256": "e8bd26614efb6131eb11971baca4cdcb8d3d27cedb649735658e903897336bfd",
+      "sharedAyahs": [
+        "31:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WYUaQiPig58",
+          "start": 1231.1,
+          "end": 1684.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:31": {
+      "file": "031-لقمان-youtube-v1/031.mp3",
+      "durationMs": 795910,
+      "bytes": 9551624,
+      "sha256": "66a80f51c4dac36ec5bdbefa975599ab190c4d550addf19bdd65cd5bdfa3adbe",
+      "sharedAyahs": [
+        "31:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QFraINWqJ8c",
+          "start": 2.6,
+          "end": 798.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:32": {
+      "file": "031-لقمان-youtube-v1/032.mp3",
+      "durationMs": 912530,
+      "bytes": 10951016,
+      "sha256": "cbb9399c4c8dcc49e2a601cf27ee18efae7fb8f1f0cba83dbadcc674d3c2c25c",
+      "sharedAyahs": [
+        "31:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QFraINWqJ8c",
+          "start": 798.5,
+          "end": 1711.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:33": {
+      "file": "031-لقمان-youtube-v1/033.mp3",
+      "durationMs": 1152720,
+      "bytes": 13833320,
+      "sha256": "5e34bb0c6a7f5c8769fbdd93c51e4c71514616ef107563cda7d9e4817389dce8",
+      "sharedAyahs": [
+        "31:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "USwxP4G7x0A",
+          "start": 1.3,
+          "end": 1154.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "31:34": {
+      "file": "031-لقمان-youtube-v1/034.mp3",
+      "durationMs": 532220,
+      "bytes": 6387368,
+      "sha256": "5e1524067426ac815a8ac9dc9eed15d82421f9a7d2fe23f5f4c1d03cbb58c011",
+      "sharedAyahs": [
+        "31:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "USwxP4G7x0A",
+          "start": 1154.0,
+          "end": 1686.2
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "031-لقمان-youtube-v1/other-04.mp3",
+      "kind": "other",
+      "durationMs": 304440,
+      "bytes": 3653951,
+      "sha256": "fe8ad21f771cc114ab511e5695954a9db321b57b84340fd6962360d42ccf1b49",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Ulb6mzKLN54",
+          "start": 2.3,
+          "end": 306.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-09.mp3",
+      "kind": "other",
+      "durationMs": 1385330,
+      "bytes": 16624607,
+      "sha256": "cf4bde472f46002dd395e6d852da8d562331343b908aba3e197e009f60780600",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "wm_9qU2zwoQ",
+          "start": 30.3,
+          "end": 1415.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-12.mp3",
+      "kind": "other",
+      "durationMs": 741140,
+      "bytes": 8894399,
+      "sha256": "36b7c707a06c8551d9f9ffd38a7d9b291f00d96e98e0a5633b2d6a55b8222402",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HVv7on13ItM",
+          "start": 28.8,
+          "end": 769.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-15.mp3",
+      "kind": "other",
+      "durationMs": 558940,
+      "bytes": 6707903,
+      "sha256": "5feff859e46d583bbca4ce9a156e5df0f77f63590b43ea052989daf5ee286fba",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "aLk7GmWaU8M",
+          "start": 3.6,
+          "end": 562.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-19.mp3",
+      "kind": "other",
+      "durationMs": 1450030,
+      "bytes": 17401055,
+      "sha256": "63bb918d5f9932b18df989ab6c953a5ab2360d3f3914d41e2bdaff24d63db27b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "bCGWEVirqE0",
+          "start": 1.5,
+          "end": 1451.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-21.mp3",
+      "kind": "other",
+      "durationMs": 608420,
+      "bytes": 7301759,
+      "sha256": "2b6294f557578b25ee0ff3b40237f753ad43b730a7604883499308df5b214361",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "ZUGpvTUXe0k",
+          "start": 21.4,
+          "end": 629.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-24.mp3",
+      "kind": "other",
+      "durationMs": 1700830,
+      "bytes": 20410655,
+      "sha256": "f4e487e2bdd41c40e346128212e36662d0dcb83595d696a2c745b140af762f6d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "fIC-wK5w-Us",
+          "start": 5.7,
+          "end": 1706.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-25.mp3",
+      "kind": "other",
+      "durationMs": 1722240,
+      "bytes": 20667551,
+      "sha256": "ea46476da08c03510443ca5e51bb8c8fee28ee81e399a149409a0a12a3bbc201",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-RIu0dz1X-s",
+          "start": 1.2,
+          "end": 1723.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-28.mp3",
+      "kind": "other",
+      "durationMs": 307920,
+      "bytes": 3695711,
+      "sha256": "1e3a8cca9d409eaa5d213fcf24c8f24468977d68ccc0031b59c2019ede29902d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "WsjHxEllmpI",
+          "start": 1352.0,
+          "end": 1659.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-33.mp3",
+      "kind": "other",
+      "durationMs": 152330,
+      "bytes": 1828607,
+      "sha256": "9c60093d28bd81c8701b1b65d3a53e2eb8ee001e7745f2cebcf0799531a478d3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "V6YyTiPEGmc",
+          "start": 3.4,
+          "end": 155.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "031-لقمان-youtube-v1/other-37.mp3",
+      "kind": "other",
+      "durationMs": 1224310,
+      "bytes": 14692415,
+      "sha256": "4782994bba47296c821d2d6913fb2932e3c5020f78ee2a3d5e1f6d0e69a24223",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "WYUaQiPig58",
+          "start": 6.8,
+          "end": 1231.1
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL43E0CFD1F77C38B0",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "luqman-lahw-al-hadith",
+      "title": "حقيقة لهو الحديث وأثره في الصد عن سبيل الله",
+      "file": "031-لقمان-youtube-v1/other-04.mp3",
+      "startMs": 0,
+      "endMs": 304440
+    },
+    {
+      "id": "luqman-heavens-mountains",
+      "title": "إعجاز خلق السماوات بغير عمد وإرساء الجبال وبث الدواب في الأرض",
+      "file": "031-لقمان-youtube-v1/other-09.mp3",
+      "startMs": 0,
+      "endMs": 1385330
+    },
+    {
+      "id": "luqman-wisdom-essence",
+      "title": "حقيقة الحكمة وتكامل الفضائل في النفس البشرية",
+      "file": "031-لقمان-youtube-v1/other-12.mp3",
+      "startMs": 0,
+      "endMs": 741140
+    },
+    {
+      "id": "luqman-parents-rights",
+      "title": "عظيم حق الوالدين ومقام بر الأم وأطوار المشقة في الحمل والفصال",
+      "file": "031-لقمان-youtube-v1/other-15.mp3",
+      "startMs": 0,
+      "endMs": 558940
+    },
+    {
+      "id": "luqman-moral-commandments",
+      "title": "منهاج لقمان في بناء الشخصية المؤمنة بالصلاة والأمر بالمعروف والصبر",
+      "file": "031-لقمان-youtube-v1/other-19.mp3",
+      "startMs": 0,
+      "endMs": 1450030
+    },
+    {
+      "id": "luqman-humility-manners",
+      "title": "أدب التواضع مع الناس وعلاج الكبر والخيلاء في السلوك",
+      "file": "031-لقمان-youtube-v1/other-21.mp3",
+      "startMs": 0,
+      "endMs": 608420
+    },
+    {
+      "id": "luqman-divine-bounties",
+      "title": "تسخير ما في السماوات والأرض للإنسان وبيان النعم الظاهرة والباطنة",
+      "file": "031-لقمان-youtube-v1/other-24.mp3",
+      "startMs": 0,
+      "endMs": 1700830
+    },
+    {
+      "id": "luqman-debate-guidance",
+      "title": "آفات الجدال في الله بغير علم وموقف العقل من الوحي والنور المبين",
+      "file": "031-لقمان-youtube-v1/other-25.mp3",
+      "startMs": 0,
+      "endMs": 1722240
+    },
+    {
+      "id": "luqman-urwa-wuthqa",
+      "title": "حقيقة إسلام الوجه لله والإحسان والاعتصام بالعروة الوثقى",
+      "file": "031-لقمان-youtube-v1/other-28.mp3",
+      "startMs": 0,
+      "endMs": 307920
+    },
+    {
+      "id": "luqman-ghani-hamid",
+      "title": "كمال غنى الحق سبحانه واستحقاقه للمحامد كلها في خلقه",
+      "file": "031-لقمان-youtube-v1/other-33.mp3",
+      "startMs": 0,
+      "endMs": 152330
+    },
+    {
+      "id": "luqman-night-day-cycle",
+      "title": "إيلاج الليل في النهار وتسخير الشمس والقمر وأسرار النظام الكوني",
+      "file": "031-لقمان-youtube-v1/other-37.mp3",
+      "startMs": 0,
+      "endMs": 1224310
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "-kKh3iMyhU0",
+      "xR6T7iuFXDY",
+      "Ulb6mzKLN54",
+      "wm_9qU2zwoQ",
+      "pYd71_ImJSE",
+      "HVv7on13ItM",
+      "aLk7GmWaU8M",
+      "_aWbdUIEqJM",
+      "bCGWEVirqE0",
+      "ZUGpvTUXe0k",
+      "fIC-wK5w-Us",
+      "-RIu0dz1X-s",
+      "WsjHxEllmpI",
+      "NHZVqYinwaY",
+      "V6YyTiPEGmc",
+      "WN53zMdioRc",
+      "WYUaQiPig58",
+      "QFraINWqJ8c",
+      "USwxP4G7x0A"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "031-لقمان-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 387840,
+        "durationMs": 387840,
+        "recordingDurationMs": 387840,
+        "bytes": 4654758,
+        "sha256": "7fd62621114e2970a36f3e274d80a2d2489def612971c5e669817304aa93b664",
+        "sharedAyahs": [
+          "31:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-kKh3iMyhU0",
+            "start": 2.9,
+            "end": 390.7
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 464110,
+        "durationMs": 464110,
+        "recordingDurationMs": 464110,
+        "bytes": 5570026,
+        "sha256": "7f374b7213996bdcb16f821ec5b1120d0f8fd70bc719b5e02e171ab06fe19c68",
+        "sharedAyahs": [
+          "31:2",
+          "31:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-kKh3iMyhU0",
+            "start": 390.7,
+            "end": 854.83
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 51310,
+        "durationMs": 51310,
+        "recordingDurationMs": 51310,
+        "bytes": 616426,
+        "sha256": "06e137deee5f2c8aab7627b72d1e1905d6610e6573b2cebeb5e3c3154a01a137",
+        "sharedAyahs": [
+          "31:4",
+          "31:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xR6T7iuFXDY",
+            "start": 0.7,
+            "end": 52.0
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 1783320,
+        "durationMs": 1783320,
+        "recordingDurationMs": 1783320,
+        "bytes": 21400518,
+        "sha256": "a8036ce8e43cdc066823fe9acc18588beb5a2ddf1a1e167382c892f23a41f3e0",
+        "sharedAyahs": [
+          "31:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xR6T7iuFXDY",
+            "start": 52.0,
+            "end": 1835.3
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-04.mp3",
+        "startMs": 0,
+        "endMs": 304440,
+        "durationMs": 304440,
+        "recordingDurationMs": 304440,
+        "bytes": 3653951,
+        "sha256": "fe8ad21f771cc114ab511e5695954a9db321b57b84340fd6962360d42ccf1b49",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "Ulb6mzKLN54",
+            "start": 2.3,
+            "end": 306.7
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 353900,
+        "durationMs": 353900,
+        "recordingDurationMs": 353900,
+        "bytes": 4247526,
+        "sha256": "c5069835c93e31e9bc4da46f67a20fa8dbb1670c168aaace4e4a6764bc9e4915",
+        "sharedAyahs": [
+          "31:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ulb6mzKLN54",
+            "start": 306.7,
+            "end": 660.6
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 128930,
+        "durationMs": 128930,
+        "recordingDurationMs": 128930,
+        "bytes": 1547814,
+        "sha256": "1824f79aa541bb301694b54b0be777e49fb5f2bae7c2a8b651552d6d60acf606",
+        "sharedAyahs": [
+          "31:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ulb6mzKLN54",
+            "start": 660.6,
+            "end": 789.5
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 540840,
+        "durationMs": 540840,
+        "recordingDurationMs": 540840,
+        "bytes": 6490758,
+        "sha256": "f066d218bad7cf5f05b195a3ec8841129209ff4c36ba4885f0bcf59d0148bafd",
+        "sharedAyahs": [
+          "31:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ulb6mzKLN54",
+            "start": 789.5,
+            "end": 1330.3
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 427010,
+        "durationMs": 427010,
+        "recordingDurationMs": 427010,
+        "bytes": 5124776,
+        "sha256": "f322357cc2b316513dbaae14054103ae85db4afca8e570172949dafee9ad849b",
+        "sharedAyahs": [
+          "31:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Ulb6mzKLN54",
+            "start": 1330.3,
+            "end": 1757.3
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-09.mp3",
+        "startMs": 0,
+        "endMs": 1385330,
+        "durationMs": 1385330,
+        "recordingDurationMs": 1385330,
+        "bytes": 16624607,
+        "sha256": "cf4bde472f46002dd395e6d852da8d562331343b908aba3e197e009f60780600",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "wm_9qU2zwoQ",
+            "start": 30.3,
+            "end": 1415.6
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 282410,
+        "durationMs": 282410,
+        "recordingDurationMs": 282410,
+        "bytes": 3389576,
+        "sha256": "b84d4bd3261e56bf388d771ca056f873d8e26f18ecbb298d4548de4391f17f84",
+        "sharedAyahs": [
+          "31:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "wm_9qU2zwoQ",
+            "start": 1415.6,
+            "end": 1698.0
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 1751520,
+        "durationMs": 1751520,
+        "recordingDurationMs": 1751520,
+        "bytes": 21018920,
+        "sha256": "41f58105c42c6fb6b0c87fe847764a89cbf15731f5f551adab0abbfa19d93fa4",
+        "sharedAyahs": [
+          "31:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pYd71_ImJSE",
+            "start": 5.8,
+            "end": 1757.3
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-12.mp3",
+        "startMs": 0,
+        "endMs": 741140,
+        "durationMs": 741140,
+        "recordingDurationMs": 741140,
+        "bytes": 8894399,
+        "sha256": "36b7c707a06c8551d9f9ffd38a7d9b291f00d96e98e0a5633b2d6a55b8222402",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "HVv7on13ItM",
+            "start": 28.8,
+            "end": 769.9
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 518520,
+        "durationMs": 518520,
+        "recordingDurationMs": 518520,
+        "bytes": 6222920,
+        "sha256": "7e2f2abd54363dddfe29d377ef5ce34ce4cac0283d94b0bacfc5c54ee3366c68",
+        "sharedAyahs": [
+          "31:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HVv7on13ItM",
+            "start": 769.9,
+            "end": 1288.4
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 409610,
+        "durationMs": 409610,
+        "recordingDurationMs": 409610,
+        "bytes": 4915976,
+        "sha256": "e8b718ed040461d54636583ccf44b2fb5bb5866093e4ac3e3edfb74a21ae3f5e",
+        "sharedAyahs": [
+          "31:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HVv7on13ItM",
+            "start": 1288.4,
+            "end": 1698.0
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-15.mp3",
+        "startMs": 0,
+        "endMs": 558940,
+        "durationMs": 558940,
+        "recordingDurationMs": 558940,
+        "bytes": 6707903,
+        "sha256": "5feff859e46d583bbca4ce9a156e5df0f77f63590b43ea052989daf5ee286fba",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "aLk7GmWaU8M",
+            "start": 3.6,
+            "end": 562.5
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 1159730,
+        "durationMs": 1159730,
+        "recordingDurationMs": 1159730,
+        "bytes": 13917416,
+        "sha256": "baa12c94e6013d06777e3770f5649016706213ab498806bd550d8e4f5de8b03c",
+        "sharedAyahs": [
+          "31:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aLk7GmWaU8M",
+            "start": 562.5,
+            "end": 1722.2
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 310220,
+        "durationMs": 310220,
+        "recordingDurationMs": 310220,
+        "bytes": 3723368,
+        "sha256": "7103df832ff92da80fecaba772b00e7e94320c70e68d93279ff643a799a0b9c9",
+        "sharedAyahs": [
+          "31:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_aWbdUIEqJM",
+            "start": 5.9,
+            "end": 316.1
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 1396540,
+        "durationMs": 1396540,
+        "recordingDurationMs": 1396540,
+        "bytes": 16759112,
+        "sha256": "d6941ff07eec37c4c25545a486ae23e87a6690a366f73d1b509296c04f6174d5",
+        "sharedAyahs": [
+          "31:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_aWbdUIEqJM",
+            "start": 316.1,
+            "end": 1712.6
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-19.mp3",
+        "startMs": 0,
+        "endMs": 1450030,
+        "durationMs": 1450030,
+        "recordingDurationMs": 1450030,
+        "bytes": 17401055,
+        "sha256": "63bb918d5f9932b18df989ab6c953a5ab2360d3f3914d41e2bdaff24d63db27b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "bCGWEVirqE0",
+            "start": 1.5,
+            "end": 1451.5
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 226420,
+        "durationMs": 226420,
+        "recordingDurationMs": 226420,
+        "bytes": 2717672,
+        "sha256": "a9bc30c1d441e08a6601e26343586322cce5f3af1faebcf1a09d56f482aa005e",
+        "sharedAyahs": [
+          "31:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bCGWEVirqE0",
+            "start": 1451.5,
+            "end": 1677.9
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-21.mp3",
+        "startMs": 0,
+        "endMs": 608420,
+        "durationMs": 608420,
+        "recordingDurationMs": 608420,
+        "bytes": 7301759,
+        "sha256": "2b6294f557578b25ee0ff3b40237f753ad43b730a7604883499308df5b214361",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "ZUGpvTUXe0k",
+            "start": 21.4,
+            "end": 629.8
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 604130,
+        "durationMs": 604130,
+        "recordingDurationMs": 604130,
+        "bytes": 7250216,
+        "sha256": "da177241047a3e672701653ac44db75645299f4fc0f918723ae97d74cab6758e",
+        "sharedAyahs": [
+          "31:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZUGpvTUXe0k",
+            "start": 629.8,
+            "end": 1233.9
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 455020,
+        "durationMs": 455020,
+        "recordingDurationMs": 455020,
+        "bytes": 5460872,
+        "sha256": "58c618fc5ef8797ff63ed50768eae27681333ffb3984bd2ce860b9dd8fa79eed",
+        "sharedAyahs": [
+          "31:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZUGpvTUXe0k",
+            "start": 1233.9,
+            "end": 1688.9
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-24.mp3",
+        "startMs": 0,
+        "endMs": 1700830,
+        "durationMs": 1700830,
+        "recordingDurationMs": 1700830,
+        "bytes": 20410655,
+        "sha256": "f4e487e2bdd41c40e346128212e36662d0dcb83595d696a2c745b140af762f6d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "fIC-wK5w-Us",
+            "start": 5.7,
+            "end": 1706.5
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-25.mp3",
+        "startMs": 0,
+        "endMs": 1722240,
+        "durationMs": 1722240,
+        "recordingDurationMs": 1722240,
+        "bytes": 20667551,
+        "sha256": "ea46476da08c03510443ca5e51bb8c8fee28ee81e399a149409a0a12a3bbc201",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-RIu0dz1X-s",
+            "start": 1.2,
+            "end": 1723.4
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 279940,
+        "durationMs": 279940,
+        "recordingDurationMs": 279940,
+        "bytes": 3359912,
+        "sha256": "b040bc3a21fa6f7443a761aaf5d0d733228ff556cef338188f712bc31912cf28",
+        "sharedAyahs": [
+          "31:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WsjHxEllmpI",
+            "start": 0.4,
+            "end": 280.3
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 1071720,
+        "durationMs": 1071720,
+        "recordingDurationMs": 1071720,
+        "bytes": 12861320,
+        "sha256": "abc173254a967151210fab647220d203835a63ee1cdffe2e99b02186f2f7d607",
+        "sharedAyahs": [
+          "31:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WsjHxEllmpI",
+            "start": 280.3,
+            "end": 1352.0
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-28.mp3",
+        "startMs": 0,
+        "endMs": 307920,
+        "durationMs": 307920,
+        "recordingDurationMs": 307920,
+        "bytes": 3695711,
+        "sha256": "1e3a8cca9d409eaa5d213fcf24c8f24468977d68ccc0031b59c2019ede29902d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "WsjHxEllmpI",
+            "start": 1352.0,
+            "end": 1659.9
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 459720,
+        "durationMs": 459720,
+        "recordingDurationMs": 459720,
+        "bytes": 5517320,
+        "sha256": "14ab6327620ca3133d7736e13304dd10886cd39b5a9dbac01ee3b6faf9444a5e",
+        "sharedAyahs": [
+          "31:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NHZVqYinwaY",
+            "start": 1.9,
+            "end": 461.6
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 489020,
+        "durationMs": 489020,
+        "recordingDurationMs": 489020,
+        "bytes": 5868968,
+        "sha256": "b4598d182657c3bbf005841e0d6e38c4e4190267cf95ba7cb2f5fbb76d3311d5",
+        "sharedAyahs": [
+          "31:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NHZVqYinwaY",
+            "start": 461.6,
+            "end": 950.6
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 75410,
+        "durationMs": 75410,
+        "recordingDurationMs": 75410,
+        "bytes": 905576,
+        "sha256": "14fd95958c2e27f819fc85b3b3325e641559ab918fd6fe5bdaaa6facc0072b22",
+        "sharedAyahs": [
+          "31:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NHZVqYinwaY",
+            "start": 950.6,
+            "end": 1026.0
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 692830,
+        "durationMs": 692830,
+        "recordingDurationMs": 692830,
+        "bytes": 8314664,
+        "sha256": "11fc2a6817650345fb40b3b8059b554a1df5620a8ac52a394fb0762527fcfeb6",
+        "sharedAyahs": [
+          "31:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NHZVqYinwaY",
+            "start": 1026.0,
+            "end": 1718.8
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-33.mp3",
+        "startMs": 0,
+        "endMs": 152330,
+        "durationMs": 152330,
+        "recordingDurationMs": 152330,
+        "bytes": 1828607,
+        "sha256": "9c60093d28bd81c8701b1b65d3a53e2eb8ee001e7745f2cebcf0799531a478d3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "V6YyTiPEGmc",
+            "start": 3.4,
+            "end": 155.7
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 1505830,
+        "durationMs": 1505830,
+        "recordingDurationMs": 1505830,
+        "bytes": 18070664,
+        "sha256": "377eb106a064d465273ab1b089d71908fcd28abdbcbf395f87028e3570f007d0",
+        "sharedAyahs": [
+          "31:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "V6YyTiPEGmc",
+            "start": 155.7,
+            "end": 1661.5
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 1307930,
+        "durationMs": 1307930,
+        "recordingDurationMs": 1307930,
+        "bytes": 15695816,
+        "sha256": "bf14ca308699698f75e3838bdc5a674fa99b930c1b09967155d5666653db49c3",
+        "sharedAyahs": [
+          "31:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WN53zMdioRc",
+            "start": 0.0,
+            "end": 1307.9
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 380930,
+        "durationMs": 380930,
+        "recordingDurationMs": 380930,
+        "bytes": 4571816,
+        "sha256": "8ea2342ed3462f18c621345846a9e1c8a145f917e53dda3d79b2f8a7e7f46c75",
+        "sharedAyahs": [
+          "31:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WN53zMdioRc",
+            "start": 1307.9,
+            "end": 1688.8
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/other-37.mp3",
+        "startMs": 0,
+        "endMs": 1224310,
+        "durationMs": 1224310,
+        "recordingDurationMs": 1224310,
+        "bytes": 14692415,
+        "sha256": "4782994bba47296c821d2d6913fb2932e3c5020f78ee2a3d5e1f6d0e69a24223",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "WYUaQiPig58",
+            "start": 6.8,
+            "end": 1231.1
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 453340,
+        "durationMs": 453340,
+        "recordingDurationMs": 453340,
+        "bytes": 5440712,
+        "sha256": "e8bd26614efb6131eb11971baca4cdcb8d3d27cedb649735658e903897336bfd",
+        "sharedAyahs": [
+          "31:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WYUaQiPig58",
+            "start": 1231.1,
+            "end": 1684.4
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 795910,
+        "durationMs": 795910,
+        "recordingDurationMs": 795910,
+        "bytes": 9551624,
+        "sha256": "66a80f51c4dac36ec5bdbefa975599ab190c4d550addf19bdd65cd5bdfa3adbe",
+        "sharedAyahs": [
+          "31:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QFraINWqJ8c",
+            "start": 2.6,
+            "end": 798.5
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 912530,
+        "durationMs": 912530,
+        "recordingDurationMs": 912530,
+        "bytes": 10951016,
+        "sha256": "cbb9399c4c8dcc49e2a601cf27ee18efae7fb8f1f0cba83dbadcc674d3c2c25c",
+        "sharedAyahs": [
+          "31:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QFraINWqJ8c",
+            "start": 798.5,
+            "end": 1711.0
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 1152720,
+        "durationMs": 1152720,
+        "recordingDurationMs": 1152720,
+        "bytes": 13833320,
+        "sha256": "5e34bb0c6a7f5c8769fbdd93c51e4c71514616ef107563cda7d9e4817389dce8",
+        "sharedAyahs": [
+          "31:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "USwxP4G7x0A",
+            "start": 1.3,
+            "end": 1154.0
+          }
+        ]
+      },
+      {
+        "file": "031-لقمان-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 532220,
+        "durationMs": 532220,
+        "recordingDurationMs": 532220,
+        "bytes": 6387368,
+        "sha256": "5e1524067426ac815a8ac9dc9eed15d82421f9a7d2fe23f5f4c1d03cbb58c011",
+        "sharedAyahs": [
+          "31:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "USwxP4G7x0A",
+            "start": 1154.0,
+            "end": 1686.2
+          }
+        ]
+      }
+    ],
+    "durationMs": 31517360,
+    "additionalAudioBytes": 0
+  }
+}
