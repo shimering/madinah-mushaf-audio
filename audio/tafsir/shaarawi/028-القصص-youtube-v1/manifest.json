@@ -1,0 +1,3575 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي - YouTube",
+  "surah": 28,
+  "surahName": "القصص",
+  "ayahCount": 88,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 88,
+    "mappedAyahCount": 88,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "wdCfHe-3icM": {
+      "durationSeconds": 1051.49,
+      "bytes": 12618551,
+      "sha256": "fcda046cae5762454fdd3462a584b6f43c050c34457320f264191b06858a1503",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-005_wdCfHe-3icM.mp3"
+    },
+    "0E-UZ74RPqY": {
+      "durationSeconds": 1630.18,
+      "bytes": 19562801,
+      "sha256": "bfd916a2f7586e96829c369736323ce0ee5f24d5cccee8cfd7b4e8eadb712480",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_004-007_0E-UZ74RPqY.mp3"
+    },
+    "chKO9eQjay0": {
+      "durationSeconds": 1738.22,
+      "bytes": 20859386,
+      "sha256": "e6516af5bc4cf24beede56a160b230e2dc13066369244149800ab0f3fc733422",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_007-011_chKO9eQjay0.mp3"
+    },
+    "EhyOQnO_v3c": {
+      "durationSeconds": 1595.16,
+      "bytes": 19142620,
+      "sha256": "a10c6c9c016510a5a34837db553db4964edd71dedc18a034bfab68babe5299f8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_011-024_EhyOQnO_v3c.mp3"
+    },
+    "IaT0zYzMITk": {
+      "durationSeconds": 1701.43,
+      "bytes": 20417884,
+      "sha256": "6b781b5a7e71196c280a5bf4a1ba7aebfa24b2d0ae85ceadcf6d47830795bbad",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_023-031_IaT0zYzMITk.mp3"
+    },
+    "j7YG5euyWAM": {
+      "durationSeconds": 1745.93,
+      "bytes": 20951836,
+      "sha256": "bea76a7e40e70698df29748bc2604f2012148f4235f431ae5817d0bd11f3e6f1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_031-038_j7YG5euyWAM.mp3"
+    },
+    "cJ0h0iRurtk": {
+      "durationSeconds": 1717.63,
+      "bytes": 20612284,
+      "sha256": "992f1170da3f9641eb3ff0131354782f12510c730e45688ea01c528ba638ad9c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_038-043_cJ0h0iRurtk.mp3"
+    },
+    "ma2XOnZvSNk": {
+      "durationSeconds": 1719.55,
+      "bytes": 20635324,
+      "sha256": "9defa5fec56c5827de467b605ac0e893bf4df5b8069a5950fb98ffd272ed4dd9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_043-047_ma2XOnZvSNk.mp3"
+    },
+    "VUrhxdxbrhg": {
+      "durationSeconds": 1613.95,
+      "bytes": 19368123,
+      "sha256": "8a63b299646d40579c37f67c9a3d57f61489b7de8fb986ffe9169312aa64e156",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_047-054_VUrhxdxbrhg.mp3"
+    },
+    "16XnQ47pyJs": {
+      "durationSeconds": 2149.22,
+      "bytes": 25791398,
+      "sha256": "db1f4241ba5079930a1c9f3322591ba3ffe26c29d702ea8125c706e972033150",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_054-057_16XnQ47pyJs.mp3"
+    },
+    "C_8WzWjAd8w": {
+      "durationSeconds": 2644.03,
+      "bytes": 31729084,
+      "sha256": "c0d4471d3e62f488b7c31a34e6aeb260b265b47e1f912627774af7bdbf0eae0a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_057-062_C_8WzWjAd8w.mp3"
+    },
+    "WReT3w78KhA": {
+      "durationSeconds": 2572.61,
+      "bytes": 30872006,
+      "sha256": "fda989d6de97030e10a8bb20f720bdfef47e6983d7b8df3dfda66f53935f2d3b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_062-067_WReT3w78KhA.mp3"
+    },
+    "KDTyvU9R6e4": {
+      "durationSeconds": 2569.08,
+      "bytes": 30829670,
+      "sha256": "244f515edcfe04fe0afc87426b4c8c9bd5660cbf06a58964affb2694c7f6d6fd",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_067-073_KDTyvU9R6e4.mp3"
+    },
+    "d98EmO97Ces": {
+      "durationSeconds": 2578.25,
+      "bytes": 30939686,
+      "sha256": "c6e57d40fd98616e6e22db017e0585842c07d59e6f6a41b4bdb50d3c2dcacec8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_074-077_d98EmO97Ces.mp3"
+    },
+    "I79PuGz3e_w": {
+      "durationSeconds": 2537.64,
+      "bytes": 30452387,
+      "sha256": "a01d54ec2ac560c09b087e9dba71e6b3b7171b7220283e42be1d48bfd3a21a91",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_077-084_I79PuGz3e_w.mp3"
+    },
+    "es0wZYF5CRc": {
+      "durationSeconds": 2645.66,
+      "bytes": 31748678,
+      "sha256": "ec8ed7de0da7826c9711d5f8ae75753d938790834ecac9b2ad0b6d2192bcb329",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_084-088_es0wZYF5CRc.mp3"
+    }
+  },
+  "ayahs": {
+    "28:1": {
+      "file": "028-القصص-youtube-v1/001.mp3",
+      "durationMs": 51500,
+      "bytes": 618726,
+      "sha256": "9a28616beae3416bdd3635c2eaa78a9e9586ec6a41286540bdb37056cb558c0f",
+      "sharedAyahs": [
+        "28:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "wdCfHe-3icM",
+          "start": 0.3,
+          "end": 51.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:2": {
+      "file": "028-القصص-youtube-v1/002.mp3",
+      "durationMs": 8950,
+      "bytes": 108102,
+      "sha256": "50e76e8a718f271d6910aabf189531393efd62e11ca1085def9cda63fd730013",
+      "sharedAyahs": [
+        "28:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "wdCfHe-3icM",
+          "start": 51.77,
+          "end": 60.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:3": {
+      "file": "028-القصص-youtube-v1/003.mp3",
+      "durationMs": 228310,
+      "bytes": 2740422,
+      "sha256": "fcf990f9d59b6fc59ec93c75153ff5c899408023caafc88791a7ee796844c7fd",
+      "sharedAyahs": [
+        "28:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "wdCfHe-3icM",
+          "start": 60.72,
+          "end": 288.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:4": {
+      "file": "028-القصص-youtube-v1/004.mp3",
+      "durationMs": 361030,
+      "bytes": 4333062,
+      "sha256": "34f5a1961cf959b30d8197371b4effa68be53910963ef7af40a82723bb3cd2d7",
+      "sharedAyahs": [
+        "28:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "wdCfHe-3icM",
+          "start": 288.99,
+          "end": 650.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:5": {
+      "file": "028-القصص-youtube-v1/005.mp3",
+      "durationMs": 399050,
+      "bytes": 4789254,
+      "sha256": "a6b48798a274dcbf9f737058570cf2951c8513c94e2e3f3ec63391830aac96bd",
+      "sharedAyahs": [
+        "28:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "wdCfHe-3icM",
+          "start": 650.0,
+          "end": 1049.04
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:6": {
+      "file": "028-القصص-youtube-v1/006.mp3",
+      "durationMs": 612720,
+      "bytes": 7353318,
+      "sha256": "19b06b9f17a754883949855cbd475c582a21dc0dd5d7cb04f5d98a29d6a0f986",
+      "sharedAyahs": [
+        "28:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0E-UZ74RPqY",
+          "start": 143.67,
+          "end": 756.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:7": {
+      "file": "028-القصص-youtube-v1/007.mp3",
+      "durationMs": 870290,
+      "bytes": 10444134,
+      "sha256": "8cb4f8830fc4ad9189c152bc036fa1ed681d02b45d6046c3109bb3e986aa3163",
+      "sharedAyahs": [
+        "28:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0E-UZ74RPqY",
+          "start": 756.38,
+          "end": 1626.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:8": {
+      "file": "028-القصص-youtube-v1/008.mp3",
+      "durationMs": 338830,
+      "bytes": 4066662,
+      "sha256": "fa5f6830596cdd7a0f5d7eb03c3e6e71ebb303e17e369d57320dabd5d9946f70",
+      "sharedAyahs": [
+        "28:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "chKO9eQjay0",
+          "start": 350.0,
+          "end": 688.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:9": {
+      "file": "028-القصص-youtube-v1/009.mp3",
+      "durationMs": 880990,
+      "bytes": 10572582,
+      "sha256": "9f684c437a193fcff2f75b37174421349a59559c023609f8e7721ebc3bbc2610",
+      "sharedAyahs": [
+        "28:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "chKO9eQjay0",
+          "start": 688.81,
+          "end": 1569.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:10": {
+      "file": "028-القصص-youtube-v1/010.mp3",
+      "durationMs": 56780,
+      "bytes": 682088,
+      "sha256": "a8f72da3d855a0c6bfd842509bc1eea66ab7f64cbffa978ca0f60de84074e1e9",
+      "sharedAyahs": [
+        "28:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "chKO9eQjay0",
+          "start": 1569.77,
+          "end": 1626.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:11": {
+      "file": "028-القصص-youtube-v1/011.mp3",
+      "durationMs": 108480,
+      "bytes": 1302440,
+      "sha256": "906911f6a37867989eb11dd42ebdcc063f1da789fe1fcac815650323139affed",
+      "sharedAyahs": [
+        "28:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "chKO9eQjay0",
+          "start": 1626.53,
+          "end": 1735.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:12": {
+      "file": "028-القصص-youtube-v1/012.mp3",
+      "durationMs": 299760,
+      "bytes": 3597800,
+      "sha256": "3f4f75bdfb7d4b232d36802090b14d03a56e1efef6e1d20953fcff41094c8648",
+      "sharedAyahs": [
+        "28:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 2.5,
+          "end": 302.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:13": {
+      "file": "028-القصص-youtube-v1/013.mp3",
+      "durationMs": 63430,
+      "bytes": 761864,
+      "sha256": "9c3369dc4baf4d1b852a6b4d887ed00b1dcfbbae1c1e1ab49983d1ff8649fec8",
+      "sharedAyahs": [
+        "28:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 302.25,
+          "end": 365.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:14": {
+      "file": "028-القصص-youtube-v1/014.mp3",
+      "durationMs": 79220,
+      "bytes": 951368,
+      "sha256": "5092a305384f16dfec4925ead34cfbeb58cc5a4c3202657cb9de78841aebe160",
+      "sharedAyahs": [
+        "28:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 365.66,
+          "end": 444.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:15": {
+      "file": "028-القصص-youtube-v1/015.mp3",
+      "durationMs": 55540,
+      "bytes": 667112,
+      "sha256": "1a48dabc16b00fbf05abba08e3af33ec752f1ef5156e79ddfb87d821a76b7f38",
+      "sharedAyahs": [
+        "28:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 444.85,
+          "end": 500.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:16": {
+      "file": "028-القصص-youtube-v1/016.mp3",
+      "durationMs": 194350,
+      "bytes": 2332904,
+      "sha256": "7b8b5e4741b9272095ad9cfdf8e956d5e91e829a58870ce9bdd40bccee6c1950",
+      "sharedAyahs": [
+        "28:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 500.37,
+          "end": 694.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:17": {
+      "file": "028-القصص-youtube-v1/017.mp3",
+      "durationMs": 215350,
+      "bytes": 2584904,
+      "sha256": "aaa47d4806be9e77b32d17c2557d8a37cd19d4a426ae59a6cab1c05ea46b3c5c",
+      "sharedAyahs": [
+        "28:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 694.69,
+          "end": 910.03
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:18": {
+      "file": "028-القصص-youtube-v1/018.mp3",
+      "durationMs": 18960,
+      "bytes": 228200,
+      "sha256": "15e3b478efdd89ee734126582839c6197fc231262e4cb18cf47eaa6639b0047e",
+      "sharedAyahs": [
+        "28:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 910.03,
+          "end": 928.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:19": {
+      "file": "028-القصص-youtube-v1/019.mp3",
+      "durationMs": 175560,
+      "bytes": 2107400,
+      "sha256": "dac50779f4846f67539c34dfa600d359855bd2cc71695107a10ea2a960b6150e",
+      "sharedAyahs": [
+        "28:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 928.95,
+          "end": 1104.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:20": {
+      "file": "028-القصص-youtube-v1/020.mp3",
+      "durationMs": 68330,
+      "bytes": 820616,
+      "sha256": "1d91932c357ca1d0915320675b9583a2ff86b684c3f9baf481d5b8eb907acbe3",
+      "sharedAyahs": [
+        "28:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 1104.5,
+          "end": 1172.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:21": {
+      "file": "028-القصص-youtube-v1/021.mp3",
+      "durationMs": 18480,
+      "bytes": 222440,
+      "sha256": "6da790edcbfa66f22fa5e92266161e0061fdd84632709c94cf8dd70d98be5104",
+      "sharedAyahs": [
+        "28:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 1172.8,
+          "end": 1191.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:22": {
+      "file": "028-القصص-youtube-v1/022.mp3",
+      "durationMs": 64680,
+      "bytes": 776840,
+      "sha256": "87b3d2169cc6d656cbcb0cabecacb0d5224ea2490fd96388970424aa3eca5f93",
+      "sharedAyahs": [
+        "28:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 1191.25,
+          "end": 1255.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:23": {
+      "file": "028-القصص-youtube-v1/023.mp3",
+      "durationMs": 337100,
+      "bytes": 4045928,
+      "sha256": "171703ca719e8e26a2f1351614ca0d9a1ed07f894cc342b71f04c5427307bfd9",
+      "sharedAyahs": [
+        "28:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EhyOQnO_v3c",
+          "start": 1255.91,
+          "end": 1593.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:24": {
+      "file": "028-القصص-youtube-v1/024.mp3",
+      "durationMs": 237380,
+      "bytes": 2849288,
+      "sha256": "7bed7c630dd8001dff319e072539f1a9f65c055b26f7853d624636f7d6bc2f11",
+      "sharedAyahs": [
+        "28:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 72.85,
+          "end": 310.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:25": {
+      "file": "028-القصص-youtube-v1/025.mp3",
+      "durationMs": 239810,
+      "bytes": 2878376,
+      "sha256": "4136bcac976c99aa22e9772320bbadc87358b78e7978382fa1175d297296cace",
+      "sharedAyahs": [
+        "28:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 310.21,
+          "end": 550.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:26": {
+      "file": "028-القصص-youtube-v1/026.mp3",
+      "durationMs": 195480,
+      "bytes": 2346440,
+      "sha256": "4c406bea61bbef325735edba2a6ef7e77ef041e6aec0c95c9bce60b88c09238f",
+      "sharedAyahs": [
+        "28:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 550.0,
+          "end": 745.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:27": {
+      "file": "028-القصص-youtube-v1/027.mp3",
+      "durationMs": 64370,
+      "bytes": 773096,
+      "sha256": "a5d9fc4c9a9824344d317dbb5d87ab2a226f29c15a984e56427d8191920bef4c",
+      "sharedAyahs": [
+        "28:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 745.45,
+          "end": 809.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:28": {
+      "file": "028-القصص-youtube-v1/028.mp3",
+      "durationMs": 180480,
+      "bytes": 2166440,
+      "sha256": "be7b5cb052951e5b85102593cb2584463e5a34cfa6a045d5f28377e15dc1d3b9",
+      "sharedAyahs": [
+        "28:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 809.8,
+          "end": 990.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:29": {
+      "file": "028-القصص-youtube-v1/029.mp3",
+      "durationMs": 290450,
+      "bytes": 3486056,
+      "sha256": "46d78f1b6553e348f937517f979e5df880dd183cd43f98b7a36d53f27ebb02cc",
+      "sharedAyahs": [
+        "28:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 990.26,
+          "end": 1280.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:30": {
+      "file": "028-القصص-youtube-v1/030.mp3",
+      "durationMs": 351940,
+      "bytes": 4223912,
+      "sha256": "fdbe8c11e570c58f7154cb347ca8d0b0c191da7099bc1b3588019ad2def9423b",
+      "sharedAyahs": [
+        "28:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 1280.67,
+          "end": 1632.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:31": {
+      "file": "028-القصص-youtube-v1/031.mp3",
+      "durationMs": 66430,
+      "bytes": 797864,
+      "sha256": "244b858bce9842c12317c06aa82498f7da9bc80088bc523cd5038786bc1fcfb6",
+      "sharedAyahs": [
+        "28:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 1632.58,
+          "end": 1699.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:32": {
+      "file": "028-القصص-youtube-v1/032.mp3",
+      "durationMs": 420100,
+      "bytes": 5041832,
+      "sha256": "e790ed43d11cfb98b226e7161c8535d12f84ed142faae3d6dfd4af187f7b5cc9",
+      "sharedAyahs": [
+        "28:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j7YG5euyWAM",
+          "start": 2.2,
+          "end": 422.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:33": {
+      "file": "028-القصص-youtube-v1/033.mp3",
+      "durationMs": 274440,
+      "bytes": 3293960,
+      "sha256": "e52acf377c09c248136cdbbd1faa296707bf9fb623ff222674e84865f3bd55b3",
+      "sharedAyahs": [
+        "28:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j7YG5euyWAM",
+          "start": 422.26,
+          "end": 696.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:34": {
+      "file": "028-القصص-youtube-v1/034.mp3",
+      "durationMs": 235660,
+      "bytes": 2828552,
+      "sha256": "7f84041b4312f06ab8b8e74408c627ff485da8037f38f520f7dfa734fa268c7c",
+      "sharedAyahs": [
+        "28:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j7YG5euyWAM",
+          "start": 696.69,
+          "end": 932.32
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:35": {
+      "file": "028-القصص-youtube-v1/035.mp3",
+      "durationMs": 267360,
+      "bytes": 3209000,
+      "sha256": "869875fe0abc3dd4fc6307de22de28b04190e811b9da9a6727b0e84b2b53edd4",
+      "sharedAyahs": [
+        "28:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j7YG5euyWAM",
+          "start": 932.32,
+          "end": 1199.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:36": {
+      "file": "028-القصص-youtube-v1/036.mp3",
+      "durationMs": 435480,
+      "bytes": 5226440,
+      "sha256": "38e42675547cb92e93af9ad815eb4fb02e1b0424b577cbfdcf8cce7da9f6bff0",
+      "sharedAyahs": [
+        "28:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j7YG5euyWAM",
+          "start": 1199.65,
+          "end": 1635.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:37": {
+      "file": "028-القصص-youtube-v1/037.mp3",
+      "durationMs": 28580,
+      "bytes": 343688,
+      "sha256": "f04de2d98f55fe38247792eb7c7ac98fc646631b21646146760c1b9356c99fb2",
+      "sharedAyahs": [
+        "28:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j7YG5euyWAM",
+          "start": 1635.12,
+          "end": 1663.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:38": {
+      "file": "028-القصص-youtube-v1/038.mp3",
+      "durationMs": 80350,
+      "bytes": 964904,
+      "sha256": "2159143d91ac65f434d8afa4f06a27d5db8a94f395bef541f9df11ae102bc632",
+      "sharedAyahs": [
+        "28:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j7YG5euyWAM",
+          "start": 1663.68,
+          "end": 1744.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:39": {
+      "file": "028-القصص-youtube-v1/039.mp3",
+      "durationMs": 300380,
+      "bytes": 3605288,
+      "sha256": "b7dbdbc2b4c294033c09b4bfb23d0a0c9e274f2cb93e0acf02f596489e9405af",
+      "sharedAyahs": [
+        "28:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cJ0h0iRurtk",
+          "start": 2.0,
+          "end": 302.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:40": {
+      "file": "028-القصص-youtube-v1/040.mp3",
+      "durationMs": 506260,
+      "bytes": 6075752,
+      "sha256": "7f1e42b02359a729558cfcfb8a6416ecdc228f9ab75f85920092e605cba91fd2",
+      "sharedAyahs": [
+        "28:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cJ0h0iRurtk",
+          "start": 302.37,
+          "end": 808.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:41": {
+      "file": "028-القصص-youtube-v1/041.mp3",
+      "durationMs": 439320,
+      "bytes": 5272520,
+      "sha256": "b6d17ee23b5d05b612e7281b94c9e78944c837a00f0f342cb2b84b8de1d2514c",
+      "sharedAyahs": [
+        "28:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cJ0h0iRurtk",
+          "start": 808.6,
+          "end": 1247.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:42": {
+      "file": "028-القصص-youtube-v1/042.mp3",
+      "durationMs": 18670,
+      "bytes": 224744,
+      "sha256": "06cb1cde5cb6e715a89b740ed334d69388bbcfe80a5417eebb345609899a3606",
+      "sharedAyahs": [
+        "28:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cJ0h0iRurtk",
+          "start": 1247.9,
+          "end": 1266.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:43": {
+      "file": "028-القصص-youtube-v1/043.mp3",
+      "durationMs": 449470,
+      "bytes": 5394344,
+      "sha256": "b1fa32bfc45a8da8d3c65a4b5d15633a5dd59b63f942c574cdf564976abab2ba",
+      "sharedAyahs": [
+        "28:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cJ0h0iRurtk",
+          "start": 1266.54,
+          "end": 1716.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:44": {
+      "file": "028-القصص-youtube-v1/044.mp3",
+      "durationMs": 28080,
+      "bytes": 337640,
+      "sha256": "dac69e19b00af23d5ed724e6f7f9d614dd96f9e35ffd5087828c35f4cd3598e3",
+      "sharedAyahs": [
+        "28:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ma2XOnZvSNk",
+          "start": 2.0,
+          "end": 30.06
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:45": {
+      "file": "028-القصص-youtube-v1/045.mp3",
+      "durationMs": 59760,
+      "bytes": 717800,
+      "sha256": "28023fabcd3103a1c79369541b4394d69c9b70684bde0ac453ce36d5119bd37d",
+      "sharedAyahs": [
+        "28:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ma2XOnZvSNk",
+          "start": 30.06,
+          "end": 89.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:46": {
+      "file": "028-القصص-youtube-v1/046.mp3",
+      "durationMs": 586970,
+      "bytes": 7044296,
+      "sha256": "856078b53d42ee7093508cced9e1442efa117688122bcaeac8c735dd77bc22bf",
+      "sharedAyahs": [
+        "28:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ma2XOnZvSNk",
+          "start": 89.8,
+          "end": 676.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:47": {
+      "file": "028-القصص-youtube-v1/047.mp3",
+      "durationMs": 1041290,
+      "bytes": 12496136,
+      "sha256": "e086531eba9bc796a37738ab8d8321beb5a917cb82ad8d16c6429f58ae9b0fc1",
+      "sharedAyahs": [
+        "28:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ma2XOnZvSNk",
+          "start": 676.73,
+          "end": 1718.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:48": {
+      "file": "028-القصص-youtube-v1/048.mp3",
+      "durationMs": 476520,
+      "bytes": 5718920,
+      "sha256": "1a7efc9c395f0c01040ff6b4839e6e2b2339dfd3eee8aa0e7af1b7b2446c1ebc",
+      "sharedAyahs": [
+        "28:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VUrhxdxbrhg",
+          "start": 2.0,
+          "end": 478.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:49": {
+      "file": "028-القصص-youtube-v1/049.mp3",
+      "durationMs": 271510,
+      "bytes": 3258824,
+      "sha256": "ddbbd99bd025554b4eb2bd1b76db38844fde6864d0ce9caf99c0c4b600422adb",
+      "sharedAyahs": [
+        "28:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VUrhxdxbrhg",
+          "start": 478.51,
+          "end": 750.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:50": {
+      "file": "028-القصص-youtube-v1/050.mp3",
+      "durationMs": 300020,
+      "bytes": 3600968,
+      "sha256": "1b8adb4d48b13ba04a5386c0eeabff0fcea0c1a0268e8c060535cac382526638",
+      "sharedAyahs": [
+        "28:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VUrhxdxbrhg",
+          "start": 750.0,
+          "end": 1050.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:51": {
+      "file": "028-القصص-youtube-v1/051.mp3",
+      "durationMs": 309170,
+      "bytes": 3710696,
+      "sha256": "55258c27524b402d88d7da9da7df13524fb2ab5f00dbba7e1d7babf0f9ee823f",
+      "sharedAyahs": [
+        "28:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VUrhxdxbrhg",
+          "start": 1050.0,
+          "end": 1359.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:52": {
+      "file": "028-القصص-youtube-v1/052.mp3",
+      "durationMs": 90890,
+      "bytes": 1091336,
+      "sha256": "cd8b0a2b7c82e3d8a0d0758a4799d98216f01fdfb11ee139768062f0454d9162",
+      "sharedAyahs": [
+        "28:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VUrhxdxbrhg",
+          "start": 1359.14,
+          "end": 1450.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:53": {
+      "file": "028-القصص-youtube-v1/053.mp3",
+      "durationMs": 162020,
+      "bytes": 1944968,
+      "sha256": "63ad48e8558be6624c23e85de6fa8e869b8fb9db676da583944f002f6302c61c",
+      "sharedAyahs": [
+        "28:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VUrhxdxbrhg",
+          "start": 1450.0,
+          "end": 1612.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:54": {
+      "file": "028-القصص-youtube-v1/054.mp3",
+      "durationMs": 342530,
+      "bytes": 4111016,
+      "sha256": "3644468dceb66184877542d5a365a7cac2895a314a598681a38fcc6abd93d480",
+      "sharedAyahs": [
+        "28:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "16XnQ47pyJs",
+          "start": 2.16,
+          "end": 344.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:55": {
+      "file": "028-القصص-youtube-v1/055.mp3",
+      "durationMs": 259780,
+      "bytes": 3117992,
+      "sha256": "52e907902e2f3d8810a7232a3a81716d466bd42892a7da31c526e2dfd702c17c",
+      "sharedAyahs": [
+        "28:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "16XnQ47pyJs",
+          "start": 344.65,
+          "end": 604.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:56": {
+      "file": "028-القصص-youtube-v1/056.mp3",
+      "durationMs": 1324800,
+      "bytes": 15898280,
+      "sha256": "bac7e36369e2aac4104f17b9e420bc644e7b48e1353b182e65d8af5ae329729e",
+      "sharedAyahs": [
+        "28:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "16XnQ47pyJs",
+          "start": 604.4,
+          "end": 1929.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:57": {
+      "file": "028-القصص-youtube-v1/057.mp3",
+      "durationMs": 216840,
+      "bytes": 2602760,
+      "sha256": "d0f88899fde080303c42eef1b4587f216ac29ef3add87705631b5eaebffcd190",
+      "sharedAyahs": [
+        "28:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "16XnQ47pyJs",
+          "start": 1929.17,
+          "end": 2146.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:58": {
+      "file": "028-القصص-youtube-v1/058.mp3",
+      "durationMs": 785880,
+      "bytes": 9431240,
+      "sha256": "469bfcc300b5922ce5fb0e721192c506020d77084b721cfb578fde73b005f49a",
+      "sharedAyahs": [
+        "28:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C_8WzWjAd8w",
+          "start": 1088.48,
+          "end": 1874.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:59": {
+      "file": "028-القصص-youtube-v1/059.mp3",
+      "durationMs": 125620,
+      "bytes": 1508072,
+      "sha256": "0d244cb5f464bd15a038742c031343fb40e650197a15551a482bc5f3e42187d4",
+      "sharedAyahs": [
+        "28:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C_8WzWjAd8w",
+          "start": 1874.34,
+          "end": 1999.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:60": {
+      "file": "028-القصص-youtube-v1/060.mp3",
+      "durationMs": 335710,
+      "bytes": 4029224,
+      "sha256": "41c96e629cdcf62bfb5c4c441fa015afce5920c605ba94c73b437f3565d0fab0",
+      "sharedAyahs": [
+        "28:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C_8WzWjAd8w",
+          "start": 1999.93,
+          "end": 2335.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:61": {
+      "file": "028-القصص-youtube-v1/061.mp3",
+      "durationMs": 226870,
+      "bytes": 2723144,
+      "sha256": "fae03c6be29c11fe59b169114199e878ada1857dd9fceb8b1554a8b30dff9548",
+      "sharedAyahs": [
+        "28:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C_8WzWjAd8w",
+          "start": 2335.63,
+          "end": 2562.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:62": {
+      "file": "028-القصص-youtube-v1/062.mp3",
+      "durationMs": 79560,
+      "bytes": 955400,
+      "sha256": "e359497d04695e2f9e3e573d37b85c9abb4233034f035823d995422cdb665d09",
+      "sharedAyahs": [
+        "28:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C_8WzWjAd8w",
+          "start": 2562.48,
+          "end": 2642.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:63": {
+      "file": "028-القصص-youtube-v1/063.mp3",
+      "durationMs": 435430,
+      "bytes": 5225864,
+      "sha256": "aef48209416a3c5464c44871e4094bf68ca7b375331add78eb5bddf081f4957d",
+      "sharedAyahs": [
+        "28:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WReT3w78KhA",
+          "start": 2.2,
+          "end": 437.61
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:64": {
+      "file": "028-القصص-youtube-v1/064.mp3",
+      "durationMs": 1297180,
+      "bytes": 15566792,
+      "sha256": "114671c378897edb489fef0351a1b9e6b9677dfb47249b4dde935d7530899afd",
+      "sharedAyahs": [
+        "28:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WReT3w78KhA",
+          "start": 437.61,
+          "end": 1734.76
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:65": {
+      "file": "028-القصص-youtube-v1/065.mp3",
+      "durationMs": 158900,
+      "bytes": 1907528,
+      "sha256": "7b38f2c59269028bf205ffe00feb8a4a368c39ccb0095f66b11ecd8e8da23ea0",
+      "sharedAyahs": [
+        "28:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WReT3w78KhA",
+          "start": 1734.76,
+          "end": 1893.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:66": {
+      "file": "028-القصص-youtube-v1/066.mp3",
+      "durationMs": 457610,
+      "bytes": 5491976,
+      "sha256": "a00cb5ab307ba29c374e4dfbb5996a25b9158d6cfba096322956865466f050ff",
+      "sharedAyahs": [
+        "28:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WReT3w78KhA",
+          "start": 1893.63,
+          "end": 2351.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:67": {
+      "file": "028-القصص-youtube-v1/067.mp3",
+      "durationMs": 218810,
+      "bytes": 2626376,
+      "sha256": "7560a380fb900e2578806cebdf9da7d97b06546806d8a57cf142859adbee8af8",
+      "sharedAyahs": [
+        "28:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WReT3w78KhA",
+          "start": 2351.21,
+          "end": 2570.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:68": {
+      "file": "028-القصص-youtube-v1/068.mp3",
+      "durationMs": 216840,
+      "bytes": 2602760,
+      "sha256": "0c61d8f1c8f45e0215662edd972356821e37127fa7504c24b2f096772c5364ba",
+      "sharedAyahs": [
+        "28:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KDTyvU9R6e4",
+          "start": 2.0,
+          "end": 218.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:69": {
+      "file": "028-القصص-youtube-v1/069.mp3",
+      "durationMs": 214390,
+      "bytes": 2573384,
+      "sha256": "8051d97ce0e280ca639142d06334ac27f2f3a57036f9058c8cc7e598bec5d08b",
+      "sharedAyahs": [
+        "28:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KDTyvU9R6e4",
+          "start": 218.82,
+          "end": 433.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:70": {
+      "file": "028-القصص-youtube-v1/070.mp3",
+      "durationMs": 620380,
+      "bytes": 7445192,
+      "sha256": "cde99ddd70cbe3db3bcb8014b5bfac1e5df30872f0128a87ff5adc3cab7ef549",
+      "sharedAyahs": [
+        "28:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KDTyvU9R6e4",
+          "start": 433.18,
+          "end": 1053.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:71": {
+      "file": "028-القصص-youtube-v1/071.mp3",
+      "durationMs": 623110,
+      "bytes": 7478024,
+      "sha256": "eff91cb823b06401f812c3c508f6b53a5dc7716c17a15d7d6b4af004174b439a",
+      "sharedAyahs": [
+        "28:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KDTyvU9R6e4",
+          "start": 1053.54,
+          "end": 1676.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:72": {
+      "file": "028-القصص-youtube-v1/072.mp3",
+      "durationMs": 671110,
+      "bytes": 8054024,
+      "sha256": "9b316294fadf1169efc30e3b0dd4b65fc787ae62f82a09bb97bb9527dd61dbbb",
+      "sharedAyahs": [
+        "28:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KDTyvU9R6e4",
+          "start": 1676.64,
+          "end": 2347.71
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:73": {
+      "file": "028-القصص-youtube-v1/073.mp3",
+      "durationMs": 219310,
+      "bytes": 2632424,
+      "sha256": "639b1aaec0546bd24f02a6d547591e829aa09b765b5ab8da57d2ca4ea81879b3",
+      "sharedAyahs": [
+        "28:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KDTyvU9R6e4",
+          "start": 2347.71,
+          "end": 2567.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:74": {
+      "file": "028-القصص-youtube-v1/074.mp3",
+      "durationMs": 117550,
+      "bytes": 1411304,
+      "sha256": "161fa2ccb7a597d7397fcba72850938880e3d62c67222ffa9acf897937774efc",
+      "sharedAyahs": [
+        "28:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d98EmO97Ces",
+          "start": 2.0,
+          "end": 119.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:75": {
+      "file": "028-القصص-youtube-v1/075.mp3",
+      "durationMs": 903480,
+      "bytes": 10842440,
+      "sha256": "f600eb8576c105edf3e2782b9f905776d4730a79504032d03fa3dc109fee08e7",
+      "sharedAyahs": [
+        "28:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d98EmO97Ces",
+          "start": 119.53,
+          "end": 1022.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:76": {
+      "file": "028-القصص-youtube-v1/076.mp3",
+      "durationMs": 777020,
+      "bytes": 9324968,
+      "sha256": "10a1891d8b84149832b3d332668b1139425a42d03334b841d32244a9187f4aae",
+      "sharedAyahs": [
+        "28:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d98EmO97Ces",
+          "start": 1022.98,
+          "end": 1800.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:77": {
+      "file": "028-القصص-youtube-v1/077.mp3",
+      "durationMs": 776040,
+      "bytes": 9313160,
+      "sha256": "ac89dbb5fdcb3c806fd00d9b420bbf77703d6feaadb74f6ab1990375febdd706",
+      "sharedAyahs": [
+        "28:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d98EmO97Ces",
+          "start": 1800.0,
+          "end": 2576.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:78": {
+      "file": "028-القصص-youtube-v1/078.mp3",
+      "durationMs": 157250,
+      "bytes": 1887656,
+      "sha256": "d1ac14108de8fc729896f54743cc9135c66519dd48c36c79cdf404f84a8b1a1c",
+      "sharedAyahs": [
+        "28:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I79PuGz3e_w",
+          "start": 141.63,
+          "end": 298.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:79": {
+      "file": "028-القصص-youtube-v1/079.mp3",
+      "durationMs": 456670,
+      "bytes": 5480744,
+      "sha256": "c3f60a149b844e92640a47fd0c2e4d2a796948213830ec0fc8ece49c90bed92b",
+      "sharedAyahs": [
+        "28:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I79PuGz3e_w",
+          "start": 298.86,
+          "end": 755.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:80": {
+      "file": "028-القصص-youtube-v1/080.mp3",
+      "durationMs": 820970,
+      "bytes": 9852296,
+      "sha256": "f8c54dbbd0c31617fac08ac222019870f4586aade2efcf30bd8758bffa9adafc",
+      "sharedAyahs": [
+        "28:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I79PuGz3e_w",
+          "start": 755.52,
+          "end": 1576.46
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:81": {
+      "file": "028-القصص-youtube-v1/081.mp3",
+      "durationMs": 76010,
+      "bytes": 912776,
+      "sha256": "823b165fd1726c7ff2c05a88f0944f1ac912f199bdcc798e5e4d360517f8718d",
+      "sharedAyahs": [
+        "28:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I79PuGz3e_w",
+          "start": 1576.46,
+          "end": 1652.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:82": {
+      "file": "028-القصص-youtube-v1/082.mp3",
+      "durationMs": 377860,
+      "bytes": 4534952,
+      "sha256": "277823b58d40c7f13747a8b96331d9f01d0454c81e68951b6bb49295d98d9772",
+      "sharedAyahs": [
+        "28:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I79PuGz3e_w",
+          "start": 1652.43,
+          "end": 2030.28
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:83": {
+      "file": "028-القصص-youtube-v1/083.mp3",
+      "durationMs": 339620,
+      "bytes": 4076168,
+      "sha256": "f7d971167778bbcf704e75c80bc65e179ce8badb3790aa5f151d5261fccaa135",
+      "sharedAyahs": [
+        "28:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I79PuGz3e_w",
+          "start": 2030.28,
+          "end": 2369.88
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:84": {
+      "file": "028-القصص-youtube-v1/084.mp3",
+      "durationMs": 166150,
+      "bytes": 1994504,
+      "sha256": "daa9346ddb6e62526774ec8a5ed81546237b85e844560099edf46919286a03bb",
+      "sharedAyahs": [
+        "28:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I79PuGz3e_w",
+          "start": 2369.88,
+          "end": 2536.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:85": {
+      "file": "028-القصص-youtube-v1/085.mp3",
+      "durationMs": 1179910,
+      "bytes": 14159624,
+      "sha256": "bd94212de24c48bd83e96e6da8fa3da367dc931938853563c5d76997458b80a6",
+      "sharedAyahs": [
+        "28:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "es0wZYF5CRc",
+          "start": 733.64,
+          "end": 1913.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:86": {
+      "file": "028-القصص-youtube-v1/086.mp3",
+      "durationMs": 298630,
+      "bytes": 3584264,
+      "sha256": "1b277a55716e2dcf1684b1faaaa75413e7d53c0d002178a51fda98b4e7d22a84",
+      "sharedAyahs": [
+        "28:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "es0wZYF5CRc",
+          "start": 1913.53,
+          "end": 2212.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:87": {
+      "file": "028-القصص-youtube-v1/087.mp3",
+      "durationMs": 134780,
+      "bytes": 1618088,
+      "sha256": "2cef72bd61d525aa3959cc6cfab0a1ce088d36f59b75c9cabf346647e6f51521",
+      "sharedAyahs": [
+        "28:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "es0wZYF5CRc",
+          "start": 2212.14,
+          "end": 2346.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "28:88": {
+      "file": "028-القصص-youtube-v1/088.mp3",
+      "durationMs": 298270,
+      "bytes": 3579944,
+      "sha256": "0e8a7207e5651f7ccbdbda69c667278894291c4a45610ac1d9517ef32cb0f365",
+      "sharedAyahs": [
+        "28:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "es0wZYF5CRc",
+          "start": 2346.91,
+          "end": 2645.15
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "028-القصص-youtube-v1/other-05.mp3",
+      "kind": "other",
+      "durationMs": 143710,
+      "bytes": 1725215,
+      "sha256": "8f888ea80b205d2b01989c44f2a4bb065ad3f6e684779e3d0fa236d2ac75364b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "0E-UZ74RPqY",
+          "start": 0.0,
+          "end": 143.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "028-القصص-youtube-v1/other-08.mp3",
+      "kind": "other",
+      "durationMs": 335520,
+      "bytes": 4026911,
+      "sha256": "6109096d76bf245164db8e0f3eb5a270bacde6f9993f477d0173e9e7fe90ae50",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "chKO9eQjay0",
+          "start": 14.5,
+          "end": 350.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "028-القصص-youtube-v1/other-25.mp3",
+      "kind": "other",
+      "durationMs": 70870,
+      "bytes": 851135,
+      "sha256": "2db5de96b243a2918273c21dbc3da3cea6476dc09bc64233534fab7123c21572",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "IaT0zYzMITk",
+          "start": 2.0,
+          "end": 72.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "028-القصص-youtube-v1/other-60.mp3",
+      "kind": "other",
+      "durationMs": 1086000,
+      "bytes": 13032671,
+      "sha256": "5957ed27dfd0116c68eaad1b5c1146b5e94841e80460842fe9bcf4cffefc3165",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "C_8WzWjAd8w",
+          "start": 2.5,
+          "end": 1088.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "028-القصص-youtube-v1/other-81.mp3",
+      "kind": "other",
+      "durationMs": 139660,
+      "bytes": 1676543,
+      "sha256": "c988a39dc81b7e38c01c0601ad1bf55ae38e691dc946b37e5f8855cd9125a4f5",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "I79PuGz3e_w",
+          "start": 2.0,
+          "end": 141.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "028-القصص-youtube-v1/other-89.mp3",
+      "kind": "other",
+      "durationMs": 733680,
+      "bytes": 8804831,
+      "sha256": "ee83916978651cf2bb673290444620a7513b281081ac3c1f90f5f234260326be",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "es0wZYF5CRc",
+          "start": 0.0,
+          "end": 733.64
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL49A14134AA53BE62",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "qasas-firawn-oppression",
+      "title": "علو فرعون في الأرض واستضعاف بني إسرائيل وسنن التغيير",
+      "file": "028-القصص-youtube-v1/other-05.mp3",
+      "startMs": 0,
+      "endMs": 143710
+    },
+    {
+      "id": "qasas-moses-birth-chest",
+      "title": "إلقاء موسى في اليم ولطف التدبير الإلهي بأم موسى",
+      "file": "028-القصص-youtube-v1/other-08.mp3",
+      "startMs": 0,
+      "endMs": 335520
+    },
+    {
+      "id": "qasas-moses-egypt-exile",
+      "title": "خروج موسى إلى مدين والنجاة من بطش فرعون",
+      "file": "028-القصص-youtube-v1/other-25.mp3",
+      "startMs": 0,
+      "endMs": 70870
+    },
+    {
+      "id": "qasas-guidance-blessings",
+      "title": "الهداية بيد الله تعالى وإنكار نعم الرزق والأمن",
+      "file": "028-القصص-youtube-v1/other-60.mp3",
+      "startMs": 0,
+      "endMs": 1086000
+    },
+    {
+      "id": "qasas-qarun-wealth-pride",
+      "title": "فتنة قارون والغرور بالمال وعاقبة البغي",
+      "file": "028-القصص-youtube-v1/other-81.mp3",
+      "startMs": 0,
+      "endMs": 139660
+    },
+    {
+      "id": "qasas-quran-destination",
+      "title": "فرض القرآن ووعد الرجوع إلى ميعاد وحقيقة الجزاء",
+      "file": "028-القصص-youtube-v1/other-89.mp3",
+      "startMs": 0,
+      "endMs": 733680
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "wdCfHe-3icM",
+      "0E-UZ74RPqY",
+      "chKO9eQjay0",
+      "EhyOQnO_v3c",
+      "IaT0zYzMITk",
+      "j7YG5euyWAM",
+      "cJ0h0iRurtk",
+      "ma2XOnZvSNk",
+      "VUrhxdxbrhg",
+      "16XnQ47pyJs",
+      "C_8WzWjAd8w",
+      "WReT3w78KhA",
+      "KDTyvU9R6e4",
+      "d98EmO97Ces",
+      "I79PuGz3e_w",
+      "es0wZYF5CRc"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "028-القصص-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 51500,
+        "durationMs": 51500,
+        "recordingDurationMs": 51500,
+        "bytes": 618726,
+        "sha256": "9a28616beae3416bdd3635c2eaa78a9e9586ec6a41286540bdb37056cb558c0f",
+        "sharedAyahs": [
+          "28:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "wdCfHe-3icM",
+            "start": 0.3,
+            "end": 51.77
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 8950,
+        "durationMs": 8950,
+        "recordingDurationMs": 8950,
+        "bytes": 108102,
+        "sha256": "50e76e8a718f271d6910aabf189531393efd62e11ca1085def9cda63fd730013",
+        "sharedAyahs": [
+          "28:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "wdCfHe-3icM",
+            "start": 51.77,
+            "end": 60.72
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 228310,
+        "durationMs": 228310,
+        "recordingDurationMs": 228310,
+        "bytes": 2740422,
+        "sha256": "fcf990f9d59b6fc59ec93c75153ff5c899408023caafc88791a7ee796844c7fd",
+        "sharedAyahs": [
+          "28:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "wdCfHe-3icM",
+            "start": 60.72,
+            "end": 288.99
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 361030,
+        "durationMs": 361030,
+        "recordingDurationMs": 361030,
+        "bytes": 4333062,
+        "sha256": "34f5a1961cf959b30d8197371b4effa68be53910963ef7af40a82723bb3cd2d7",
+        "sharedAyahs": [
+          "28:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "wdCfHe-3icM",
+            "start": 288.99,
+            "end": 650.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 399050,
+        "durationMs": 399050,
+        "recordingDurationMs": 399050,
+        "bytes": 4789254,
+        "sha256": "a6b48798a274dcbf9f737058570cf2951c8513c94e2e3f3ec63391830aac96bd",
+        "sharedAyahs": [
+          "28:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "wdCfHe-3icM",
+            "start": 650.0,
+            "end": 1049.04
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/other-05.mp3",
+        "startMs": 0,
+        "endMs": 143710,
+        "durationMs": 143710,
+        "recordingDurationMs": 143710,
+        "bytes": 1725215,
+        "sha256": "8f888ea80b205d2b01989c44f2a4bb065ad3f6e684779e3d0fa236d2ac75364b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "0E-UZ74RPqY",
+            "start": 0.0,
+            "end": 143.67
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 612720,
+        "durationMs": 612720,
+        "recordingDurationMs": 612720,
+        "bytes": 7353318,
+        "sha256": "19b06b9f17a754883949855cbd475c582a21dc0dd5d7cb04f5d98a29d6a0f986",
+        "sharedAyahs": [
+          "28:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0E-UZ74RPqY",
+            "start": 143.67,
+            "end": 756.38
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 870290,
+        "durationMs": 870290,
+        "recordingDurationMs": 870290,
+        "bytes": 10444134,
+        "sha256": "8cb4f8830fc4ad9189c152bc036fa1ed681d02b45d6046c3109bb3e986aa3163",
+        "sharedAyahs": [
+          "28:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0E-UZ74RPqY",
+            "start": 756.38,
+            "end": 1626.63
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/other-08.mp3",
+        "startMs": 0,
+        "endMs": 335520,
+        "durationMs": 335520,
+        "recordingDurationMs": 335520,
+        "bytes": 4026911,
+        "sha256": "6109096d76bf245164db8e0f3eb5a270bacde6f9993f477d0173e9e7fe90ae50",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "chKO9eQjay0",
+            "start": 14.5,
+            "end": 350.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 338830,
+        "durationMs": 338830,
+        "recordingDurationMs": 338830,
+        "bytes": 4066662,
+        "sha256": "fa5f6830596cdd7a0f5d7eb03c3e6e71ebb303e17e369d57320dabd5d9946f70",
+        "sharedAyahs": [
+          "28:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "chKO9eQjay0",
+            "start": 350.0,
+            "end": 688.81
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 880990,
+        "durationMs": 880990,
+        "recordingDurationMs": 880990,
+        "bytes": 10572582,
+        "sha256": "9f684c437a193fcff2f75b37174421349a59559c023609f8e7721ebc3bbc2610",
+        "sharedAyahs": [
+          "28:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "chKO9eQjay0",
+            "start": 688.81,
+            "end": 1569.77
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 56780,
+        "durationMs": 56780,
+        "recordingDurationMs": 56780,
+        "bytes": 682088,
+        "sha256": "a8f72da3d855a0c6bfd842509bc1eea66ab7f64cbffa978ca0f60de84074e1e9",
+        "sharedAyahs": [
+          "28:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "chKO9eQjay0",
+            "start": 1569.77,
+            "end": 1626.53
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 108480,
+        "durationMs": 108480,
+        "recordingDurationMs": 108480,
+        "bytes": 1302440,
+        "sha256": "906911f6a37867989eb11dd42ebdcc063f1da789fe1fcac815650323139affed",
+        "sharedAyahs": [
+          "28:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "chKO9eQjay0",
+            "start": 1626.53,
+            "end": 1735.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 299760,
+        "durationMs": 299760,
+        "recordingDurationMs": 299760,
+        "bytes": 3597800,
+        "sha256": "3f4f75bdfb7d4b232d36802090b14d03a56e1efef6e1d20953fcff41094c8648",
+        "sharedAyahs": [
+          "28:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 2.5,
+            "end": 302.25
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 63430,
+        "durationMs": 63430,
+        "recordingDurationMs": 63430,
+        "bytes": 761864,
+        "sha256": "9c3369dc4baf4d1b852a6b4d887ed00b1dcfbbae1c1e1ab49983d1ff8649fec8",
+        "sharedAyahs": [
+          "28:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 302.25,
+            "end": 365.66
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 79220,
+        "durationMs": 79220,
+        "recordingDurationMs": 79220,
+        "bytes": 951368,
+        "sha256": "5092a305384f16dfec4925ead34cfbeb58cc5a4c3202657cb9de78841aebe160",
+        "sharedAyahs": [
+          "28:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 365.66,
+            "end": 444.85
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 55540,
+        "durationMs": 55540,
+        "recordingDurationMs": 55540,
+        "bytes": 667112,
+        "sha256": "1a48dabc16b00fbf05abba08e3af33ec752f1ef5156e79ddfb87d821a76b7f38",
+        "sharedAyahs": [
+          "28:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 444.85,
+            "end": 500.37
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 194350,
+        "durationMs": 194350,
+        "recordingDurationMs": 194350,
+        "bytes": 2332904,
+        "sha256": "7b8b5e4741b9272095ad9cfdf8e956d5e91e829a58870ce9bdd40bccee6c1950",
+        "sharedAyahs": [
+          "28:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 500.37,
+            "end": 694.69
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 215350,
+        "durationMs": 215350,
+        "recordingDurationMs": 215350,
+        "bytes": 2584904,
+        "sha256": "aaa47d4806be9e77b32d17c2557d8a37cd19d4a426ae59a6cab1c05ea46b3c5c",
+        "sharedAyahs": [
+          "28:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 694.69,
+            "end": 910.03
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 18960,
+        "durationMs": 18960,
+        "recordingDurationMs": 18960,
+        "bytes": 228200,
+        "sha256": "15e3b478efdd89ee734126582839c6197fc231262e4cb18cf47eaa6639b0047e",
+        "sharedAyahs": [
+          "28:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 910.03,
+            "end": 928.95
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 175560,
+        "durationMs": 175560,
+        "recordingDurationMs": 175560,
+        "bytes": 2107400,
+        "sha256": "dac50779f4846f67539c34dfa600d359855bd2cc71695107a10ea2a960b6150e",
+        "sharedAyahs": [
+          "28:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 928.95,
+            "end": 1104.5
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 68330,
+        "durationMs": 68330,
+        "recordingDurationMs": 68330,
+        "bytes": 820616,
+        "sha256": "1d91932c357ca1d0915320675b9583a2ff86b684c3f9baf481d5b8eb907acbe3",
+        "sharedAyahs": [
+          "28:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 1104.5,
+            "end": 1172.8
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 18480,
+        "durationMs": 18480,
+        "recordingDurationMs": 18480,
+        "bytes": 222440,
+        "sha256": "6da790edcbfa66f22fa5e92266161e0061fdd84632709c94cf8dd70d98be5104",
+        "sharedAyahs": [
+          "28:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 1172.8,
+            "end": 1191.25
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 64680,
+        "durationMs": 64680,
+        "recordingDurationMs": 64680,
+        "bytes": 776840,
+        "sha256": "87b3d2169cc6d656cbcb0cabecacb0d5224ea2490fd96388970424aa3eca5f93",
+        "sharedAyahs": [
+          "28:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 1191.25,
+            "end": 1255.91
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 337100,
+        "durationMs": 337100,
+        "recordingDurationMs": 337100,
+        "bytes": 4045928,
+        "sha256": "171703ca719e8e26a2f1351614ca0d9a1ed07f894cc342b71f04c5427307bfd9",
+        "sharedAyahs": [
+          "28:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "EhyOQnO_v3c",
+            "start": 1255.91,
+            "end": 1593.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/other-25.mp3",
+        "startMs": 0,
+        "endMs": 70870,
+        "durationMs": 70870,
+        "recordingDurationMs": 70870,
+        "bytes": 851135,
+        "sha256": "2db5de96b243a2918273c21dbc3da3cea6476dc09bc64233534fab7123c21572",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 2.0,
+            "end": 72.85
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 237380,
+        "durationMs": 237380,
+        "recordingDurationMs": 237380,
+        "bytes": 2849288,
+        "sha256": "7bed7c630dd8001dff319e072539f1a9f65c055b26f7853d624636f7d6bc2f11",
+        "sharedAyahs": [
+          "28:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 72.85,
+            "end": 310.21
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 239810,
+        "durationMs": 239810,
+        "recordingDurationMs": 239810,
+        "bytes": 2878376,
+        "sha256": "4136bcac976c99aa22e9772320bbadc87358b78e7978382fa1175d297296cace",
+        "sharedAyahs": [
+          "28:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 310.21,
+            "end": 550.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 195480,
+        "durationMs": 195480,
+        "recordingDurationMs": 195480,
+        "bytes": 2346440,
+        "sha256": "4c406bea61bbef325735edba2a6ef7e77ef041e6aec0c95c9bce60b88c09238f",
+        "sharedAyahs": [
+          "28:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 550.0,
+            "end": 745.45
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 64370,
+        "durationMs": 64370,
+        "recordingDurationMs": 64370,
+        "bytes": 773096,
+        "sha256": "a5d9fc4c9a9824344d317dbb5d87ab2a226f29c15a984e56427d8191920bef4c",
+        "sharedAyahs": [
+          "28:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 745.45,
+            "end": 809.8
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 180480,
+        "durationMs": 180480,
+        "recordingDurationMs": 180480,
+        "bytes": 2166440,
+        "sha256": "be7b5cb052951e5b85102593cb2584463e5a34cfa6a045d5f28377e15dc1d3b9",
+        "sharedAyahs": [
+          "28:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 809.8,
+            "end": 990.26
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 290450,
+        "durationMs": 290450,
+        "recordingDurationMs": 290450,
+        "bytes": 3486056,
+        "sha256": "46d78f1b6553e348f937517f979e5df880dd183cd43f98b7a36d53f27ebb02cc",
+        "sharedAyahs": [
+          "28:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 990.26,
+            "end": 1280.67
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 351940,
+        "durationMs": 351940,
+        "recordingDurationMs": 351940,
+        "bytes": 4223912,
+        "sha256": "fdbe8c11e570c58f7154cb347ca8d0b0c191da7099bc1b3588019ad2def9423b",
+        "sharedAyahs": [
+          "28:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 1280.67,
+            "end": 1632.58
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 66430,
+        "durationMs": 66430,
+        "recordingDurationMs": 66430,
+        "bytes": 797864,
+        "sha256": "244b858bce9842c12317c06aa82498f7da9bc80088bc523cd5038786bc1fcfb6",
+        "sharedAyahs": [
+          "28:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "IaT0zYzMITk",
+            "start": 1632.58,
+            "end": 1699.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 420100,
+        "durationMs": 420100,
+        "recordingDurationMs": 420100,
+        "bytes": 5041832,
+        "sha256": "e790ed43d11cfb98b226e7161c8535d12f84ed142faae3d6dfd4af187f7b5cc9",
+        "sharedAyahs": [
+          "28:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j7YG5euyWAM",
+            "start": 2.2,
+            "end": 422.26
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 274440,
+        "durationMs": 274440,
+        "recordingDurationMs": 274440,
+        "bytes": 3293960,
+        "sha256": "e52acf377c09c248136cdbbd1faa296707bf9fb623ff222674e84865f3bd55b3",
+        "sharedAyahs": [
+          "28:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j7YG5euyWAM",
+            "start": 422.26,
+            "end": 696.69
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 235660,
+        "durationMs": 235660,
+        "recordingDurationMs": 235660,
+        "bytes": 2828552,
+        "sha256": "7f84041b4312f06ab8b8e74408c627ff485da8037f38f520f7dfa734fa268c7c",
+        "sharedAyahs": [
+          "28:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j7YG5euyWAM",
+            "start": 696.69,
+            "end": 932.32
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 267360,
+        "durationMs": 267360,
+        "recordingDurationMs": 267360,
+        "bytes": 3209000,
+        "sha256": "869875fe0abc3dd4fc6307de22de28b04190e811b9da9a6727b0e84b2b53edd4",
+        "sharedAyahs": [
+          "28:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j7YG5euyWAM",
+            "start": 932.32,
+            "end": 1199.65
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 435480,
+        "durationMs": 435480,
+        "recordingDurationMs": 435480,
+        "bytes": 5226440,
+        "sha256": "38e42675547cb92e93af9ad815eb4fb02e1b0424b577cbfdcf8cce7da9f6bff0",
+        "sharedAyahs": [
+          "28:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j7YG5euyWAM",
+            "start": 1199.65,
+            "end": 1635.12
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 28580,
+        "durationMs": 28580,
+        "recordingDurationMs": 28580,
+        "bytes": 343688,
+        "sha256": "f04de2d98f55fe38247792eb7c7ac98fc646631b21646146760c1b9356c99fb2",
+        "sharedAyahs": [
+          "28:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j7YG5euyWAM",
+            "start": 1635.12,
+            "end": 1663.68
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 80350,
+        "durationMs": 80350,
+        "recordingDurationMs": 80350,
+        "bytes": 964904,
+        "sha256": "2159143d91ac65f434d8afa4f06a27d5db8a94f395bef541f9df11ae102bc632",
+        "sharedAyahs": [
+          "28:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j7YG5euyWAM",
+            "start": 1663.68,
+            "end": 1744.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 300380,
+        "durationMs": 300380,
+        "recordingDurationMs": 300380,
+        "bytes": 3605288,
+        "sha256": "b7dbdbc2b4c294033c09b4bfb23d0a0c9e274f2cb93e0acf02f596489e9405af",
+        "sharedAyahs": [
+          "28:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cJ0h0iRurtk",
+            "start": 2.0,
+            "end": 302.37
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 506260,
+        "durationMs": 506260,
+        "recordingDurationMs": 506260,
+        "bytes": 6075752,
+        "sha256": "7f1e42b02359a729558cfcfb8a6416ecdc228f9ab75f85920092e605cba91fd2",
+        "sharedAyahs": [
+          "28:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cJ0h0iRurtk",
+            "start": 302.37,
+            "end": 808.6
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 439320,
+        "durationMs": 439320,
+        "recordingDurationMs": 439320,
+        "bytes": 5272520,
+        "sha256": "b6d17ee23b5d05b612e7281b94c9e78944c837a00f0f342cb2b84b8de1d2514c",
+        "sharedAyahs": [
+          "28:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cJ0h0iRurtk",
+            "start": 808.6,
+            "end": 1247.9
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 18670,
+        "durationMs": 18670,
+        "recordingDurationMs": 18670,
+        "bytes": 224744,
+        "sha256": "06cb1cde5cb6e715a89b740ed334d69388bbcfe80a5417eebb345609899a3606",
+        "sharedAyahs": [
+          "28:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cJ0h0iRurtk",
+            "start": 1247.9,
+            "end": 1266.54
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 449470,
+        "durationMs": 449470,
+        "recordingDurationMs": 449470,
+        "bytes": 5394344,
+        "sha256": "b1fa32bfc45a8da8d3c65a4b5d15633a5dd59b63f942c574cdf564976abab2ba",
+        "sharedAyahs": [
+          "28:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cJ0h0iRurtk",
+            "start": 1266.54,
+            "end": 1716.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 28080,
+        "durationMs": 28080,
+        "recordingDurationMs": 28080,
+        "bytes": 337640,
+        "sha256": "dac69e19b00af23d5ed724e6f7f9d614dd96f9e35ffd5087828c35f4cd3598e3",
+        "sharedAyahs": [
+          "28:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ma2XOnZvSNk",
+            "start": 2.0,
+            "end": 30.06
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 59760,
+        "durationMs": 59760,
+        "recordingDurationMs": 59760,
+        "bytes": 717800,
+        "sha256": "28023fabcd3103a1c79369541b4394d69c9b70684bde0ac453ce36d5119bd37d",
+        "sharedAyahs": [
+          "28:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ma2XOnZvSNk",
+            "start": 30.06,
+            "end": 89.8
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 586970,
+        "durationMs": 586970,
+        "recordingDurationMs": 586970,
+        "bytes": 7044296,
+        "sha256": "856078b53d42ee7093508cced9e1442efa117688122bcaeac8c735dd77bc22bf",
+        "sharedAyahs": [
+          "28:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ma2XOnZvSNk",
+            "start": 89.8,
+            "end": 676.73
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 1041290,
+        "durationMs": 1041290,
+        "recordingDurationMs": 1041290,
+        "bytes": 12496136,
+        "sha256": "e086531eba9bc796a37738ab8d8321beb5a917cb82ad8d16c6429f58ae9b0fc1",
+        "sharedAyahs": [
+          "28:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ma2XOnZvSNk",
+            "start": 676.73,
+            "end": 1718.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 476520,
+        "durationMs": 476520,
+        "recordingDurationMs": 476520,
+        "bytes": 5718920,
+        "sha256": "1a7efc9c395f0c01040ff6b4839e6e2b2339dfd3eee8aa0e7af1b7b2446c1ebc",
+        "sharedAyahs": [
+          "28:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VUrhxdxbrhg",
+            "start": 2.0,
+            "end": 478.51
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 271510,
+        "durationMs": 271510,
+        "recordingDurationMs": 271510,
+        "bytes": 3258824,
+        "sha256": "ddbbd99bd025554b4eb2bd1b76db38844fde6864d0ce9caf99c0c4b600422adb",
+        "sharedAyahs": [
+          "28:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VUrhxdxbrhg",
+            "start": 478.51,
+            "end": 750.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 300020,
+        "durationMs": 300020,
+        "recordingDurationMs": 300020,
+        "bytes": 3600968,
+        "sha256": "1b8adb4d48b13ba04a5386c0eeabff0fcea0c1a0268e8c060535cac382526638",
+        "sharedAyahs": [
+          "28:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VUrhxdxbrhg",
+            "start": 750.0,
+            "end": 1050.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 309170,
+        "durationMs": 309170,
+        "recordingDurationMs": 309170,
+        "bytes": 3710696,
+        "sha256": "55258c27524b402d88d7da9da7df13524fb2ab5f00dbba7e1d7babf0f9ee823f",
+        "sharedAyahs": [
+          "28:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VUrhxdxbrhg",
+            "start": 1050.0,
+            "end": 1359.14
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 90890,
+        "durationMs": 90890,
+        "recordingDurationMs": 90890,
+        "bytes": 1091336,
+        "sha256": "cd8b0a2b7c82e3d8a0d0758a4799d98216f01fdfb11ee139768062f0454d9162",
+        "sharedAyahs": [
+          "28:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VUrhxdxbrhg",
+            "start": 1359.14,
+            "end": 1450.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 162020,
+        "durationMs": 162020,
+        "recordingDurationMs": 162020,
+        "bytes": 1944968,
+        "sha256": "63ad48e8558be6624c23e85de6fa8e869b8fb9db676da583944f002f6302c61c",
+        "sharedAyahs": [
+          "28:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VUrhxdxbrhg",
+            "start": 1450.0,
+            "end": 1612.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 342530,
+        "durationMs": 342530,
+        "recordingDurationMs": 342530,
+        "bytes": 4111016,
+        "sha256": "3644468dceb66184877542d5a365a7cac2895a314a598681a38fcc6abd93d480",
+        "sharedAyahs": [
+          "28:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "16XnQ47pyJs",
+            "start": 2.16,
+            "end": 344.65
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 259780,
+        "durationMs": 259780,
+        "recordingDurationMs": 259780,
+        "bytes": 3117992,
+        "sha256": "52e907902e2f3d8810a7232a3a81716d466bd42892a7da31c526e2dfd702c17c",
+        "sharedAyahs": [
+          "28:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "16XnQ47pyJs",
+            "start": 344.65,
+            "end": 604.4
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 1324800,
+        "durationMs": 1324800,
+        "recordingDurationMs": 1324800,
+        "bytes": 15898280,
+        "sha256": "bac7e36369e2aac4104f17b9e420bc644e7b48e1353b182e65d8af5ae329729e",
+        "sharedAyahs": [
+          "28:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "16XnQ47pyJs",
+            "start": 604.4,
+            "end": 1929.17
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 216840,
+        "durationMs": 216840,
+        "recordingDurationMs": 216840,
+        "bytes": 2602760,
+        "sha256": "d0f88899fde080303c42eef1b4587f216ac29ef3add87705631b5eaebffcd190",
+        "sharedAyahs": [
+          "28:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "16XnQ47pyJs",
+            "start": 1929.17,
+            "end": 2146.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/other-60.mp3",
+        "startMs": 0,
+        "endMs": 1086000,
+        "durationMs": 1086000,
+        "recordingDurationMs": 1086000,
+        "bytes": 13032671,
+        "sha256": "5957ed27dfd0116c68eaad1b5c1146b5e94841e80460842fe9bcf4cffefc3165",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "C_8WzWjAd8w",
+            "start": 2.5,
+            "end": 1088.48
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 785880,
+        "durationMs": 785880,
+        "recordingDurationMs": 785880,
+        "bytes": 9431240,
+        "sha256": "469bfcc300b5922ce5fb0e721192c506020d77084b721cfb578fde73b005f49a",
+        "sharedAyahs": [
+          "28:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "C_8WzWjAd8w",
+            "start": 1088.48,
+            "end": 1874.34
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 125620,
+        "durationMs": 125620,
+        "recordingDurationMs": 125620,
+        "bytes": 1508072,
+        "sha256": "0d244cb5f464bd15a038742c031343fb40e650197a15551a482bc5f3e42187d4",
+        "sharedAyahs": [
+          "28:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "C_8WzWjAd8w",
+            "start": 1874.34,
+            "end": 1999.93
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 335710,
+        "durationMs": 335710,
+        "recordingDurationMs": 335710,
+        "bytes": 4029224,
+        "sha256": "41c96e629cdcf62bfb5c4c441fa015afce5920c605ba94c73b437f3565d0fab0",
+        "sharedAyahs": [
+          "28:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "C_8WzWjAd8w",
+            "start": 1999.93,
+            "end": 2335.63
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 226870,
+        "durationMs": 226870,
+        "recordingDurationMs": 226870,
+        "bytes": 2723144,
+        "sha256": "fae03c6be29c11fe59b169114199e878ada1857dd9fceb8b1554a8b30dff9548",
+        "sharedAyahs": [
+          "28:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "C_8WzWjAd8w",
+            "start": 2335.63,
+            "end": 2562.48
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 79560,
+        "durationMs": 79560,
+        "recordingDurationMs": 79560,
+        "bytes": 955400,
+        "sha256": "e359497d04695e2f9e3e573d37b85c9abb4233034f035823d995422cdb665d09",
+        "sharedAyahs": [
+          "28:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "C_8WzWjAd8w",
+            "start": 2562.48,
+            "end": 2642.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 435430,
+        "durationMs": 435430,
+        "recordingDurationMs": 435430,
+        "bytes": 5225864,
+        "sha256": "aef48209416a3c5464c44871e4094bf68ca7b375331add78eb5bddf081f4957d",
+        "sharedAyahs": [
+          "28:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WReT3w78KhA",
+            "start": 2.2,
+            "end": 437.61
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 1297180,
+        "durationMs": 1297180,
+        "recordingDurationMs": 1297180,
+        "bytes": 15566792,
+        "sha256": "114671c378897edb489fef0351a1b9e6b9677dfb47249b4dde935d7530899afd",
+        "sharedAyahs": [
+          "28:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WReT3w78KhA",
+            "start": 437.61,
+            "end": 1734.76
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 158900,
+        "durationMs": 158900,
+        "recordingDurationMs": 158900,
+        "bytes": 1907528,
+        "sha256": "7b38f2c59269028bf205ffe00feb8a4a368c39ccb0095f66b11ecd8e8da23ea0",
+        "sharedAyahs": [
+          "28:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WReT3w78KhA",
+            "start": 1734.76,
+            "end": 1893.63
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 457610,
+        "durationMs": 457610,
+        "recordingDurationMs": 457610,
+        "bytes": 5491976,
+        "sha256": "a00cb5ab307ba29c374e4dfbb5996a25b9158d6cfba096322956865466f050ff",
+        "sharedAyahs": [
+          "28:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WReT3w78KhA",
+            "start": 1893.63,
+            "end": 2351.21
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 218810,
+        "durationMs": 218810,
+        "recordingDurationMs": 218810,
+        "bytes": 2626376,
+        "sha256": "7560a380fb900e2578806cebdf9da7d97b06546806d8a57cf142859adbee8af8",
+        "sharedAyahs": [
+          "28:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WReT3w78KhA",
+            "start": 2351.21,
+            "end": 2570.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 216840,
+        "durationMs": 216840,
+        "recordingDurationMs": 216840,
+        "bytes": 2602760,
+        "sha256": "0c61d8f1c8f45e0215662edd972356821e37127fa7504c24b2f096772c5364ba",
+        "sharedAyahs": [
+          "28:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KDTyvU9R6e4",
+            "start": 2.0,
+            "end": 218.82
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 214390,
+        "durationMs": 214390,
+        "recordingDurationMs": 214390,
+        "bytes": 2573384,
+        "sha256": "8051d97ce0e280ca639142d06334ac27f2f3a57036f9058c8cc7e598bec5d08b",
+        "sharedAyahs": [
+          "28:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KDTyvU9R6e4",
+            "start": 218.82,
+            "end": 433.18
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 620380,
+        "durationMs": 620380,
+        "recordingDurationMs": 620380,
+        "bytes": 7445192,
+        "sha256": "cde99ddd70cbe3db3bcb8014b5bfac1e5df30872f0128a87ff5adc3cab7ef549",
+        "sharedAyahs": [
+          "28:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KDTyvU9R6e4",
+            "start": 433.18,
+            "end": 1053.54
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 623110,
+        "durationMs": 623110,
+        "recordingDurationMs": 623110,
+        "bytes": 7478024,
+        "sha256": "eff91cb823b06401f812c3c508f6b53a5dc7716c17a15d7d6b4af004174b439a",
+        "sharedAyahs": [
+          "28:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KDTyvU9R6e4",
+            "start": 1053.54,
+            "end": 1676.64
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 671110,
+        "durationMs": 671110,
+        "recordingDurationMs": 671110,
+        "bytes": 8054024,
+        "sha256": "9b316294fadf1169efc30e3b0dd4b65fc787ae62f82a09bb97bb9527dd61dbbb",
+        "sharedAyahs": [
+          "28:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KDTyvU9R6e4",
+            "start": 1676.64,
+            "end": 2347.71
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 219310,
+        "durationMs": 219310,
+        "recordingDurationMs": 219310,
+        "bytes": 2632424,
+        "sha256": "639b1aaec0546bd24f02a6d547591e829aa09b765b5ab8da57d2ca4ea81879b3",
+        "sharedAyahs": [
+          "28:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KDTyvU9R6e4",
+            "start": 2347.71,
+            "end": 2567.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 117550,
+        "durationMs": 117550,
+        "recordingDurationMs": 117550,
+        "bytes": 1411304,
+        "sha256": "161fa2ccb7a597d7397fcba72850938880e3d62c67222ffa9acf897937774efc",
+        "sharedAyahs": [
+          "28:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d98EmO97Ces",
+            "start": 2.0,
+            "end": 119.53
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 903480,
+        "durationMs": 903480,
+        "recordingDurationMs": 903480,
+        "bytes": 10842440,
+        "sha256": "f600eb8576c105edf3e2782b9f905776d4730a79504032d03fa3dc109fee08e7",
+        "sharedAyahs": [
+          "28:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d98EmO97Ces",
+            "start": 119.53,
+            "end": 1022.98
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 777020,
+        "durationMs": 777020,
+        "recordingDurationMs": 777020,
+        "bytes": 9324968,
+        "sha256": "10a1891d8b84149832b3d332668b1139425a42d03334b841d32244a9187f4aae",
+        "sharedAyahs": [
+          "28:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d98EmO97Ces",
+            "start": 1022.98,
+            "end": 1800.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 776040,
+        "durationMs": 776040,
+        "recordingDurationMs": 776040,
+        "bytes": 9313160,
+        "sha256": "ac89dbb5fdcb3c806fd00d9b420bbf77703d6feaadb74f6ab1990375febdd706",
+        "sharedAyahs": [
+          "28:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d98EmO97Ces",
+            "start": 1800.0,
+            "end": 2576.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/other-81.mp3",
+        "startMs": 0,
+        "endMs": 139660,
+        "durationMs": 139660,
+        "recordingDurationMs": 139660,
+        "bytes": 1676543,
+        "sha256": "c988a39dc81b7e38c01c0601ad1bf55ae38e691dc946b37e5f8855cd9125a4f5",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "I79PuGz3e_w",
+            "start": 2.0,
+            "end": 141.63
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 157250,
+        "durationMs": 157250,
+        "recordingDurationMs": 157250,
+        "bytes": 1887656,
+        "sha256": "d1ac14108de8fc729896f54743cc9135c66519dd48c36c79cdf404f84a8b1a1c",
+        "sharedAyahs": [
+          "28:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "I79PuGz3e_w",
+            "start": 141.63,
+            "end": 298.86
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 456670,
+        "durationMs": 456670,
+        "recordingDurationMs": 456670,
+        "bytes": 5480744,
+        "sha256": "c3f60a149b844e92640a47fd0c2e4d2a796948213830ec0fc8ece49c90bed92b",
+        "sharedAyahs": [
+          "28:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "I79PuGz3e_w",
+            "start": 298.86,
+            "end": 755.52
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 820970,
+        "durationMs": 820970,
+        "recordingDurationMs": 820970,
+        "bytes": 9852296,
+        "sha256": "f8c54dbbd0c31617fac08ac222019870f4586aade2efcf30bd8758bffa9adafc",
+        "sharedAyahs": [
+          "28:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "I79PuGz3e_w",
+            "start": 755.52,
+            "end": 1576.46
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 76010,
+        "durationMs": 76010,
+        "recordingDurationMs": 76010,
+        "bytes": 912776,
+        "sha256": "823b165fd1726c7ff2c05a88f0944f1ac912f199bdcc798e5e4d360517f8718d",
+        "sharedAyahs": [
+          "28:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "I79PuGz3e_w",
+            "start": 1576.46,
+            "end": 1652.43
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 377860,
+        "durationMs": 377860,
+        "recordingDurationMs": 377860,
+        "bytes": 4534952,
+        "sha256": "277823b58d40c7f13747a8b96331d9f01d0454c81e68951b6bb49295d98d9772",
+        "sharedAyahs": [
+          "28:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "I79PuGz3e_w",
+            "start": 1652.43,
+            "end": 2030.28
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 339620,
+        "durationMs": 339620,
+        "recordingDurationMs": 339620,
+        "bytes": 4076168,
+        "sha256": "f7d971167778bbcf704e75c80bc65e179ce8badb3790aa5f151d5261fccaa135",
+        "sharedAyahs": [
+          "28:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "I79PuGz3e_w",
+            "start": 2030.28,
+            "end": 2369.88
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 166150,
+        "durationMs": 166150,
+        "recordingDurationMs": 166150,
+        "bytes": 1994504,
+        "sha256": "daa9346ddb6e62526774ec8a5ed81546237b85e844560099edf46919286a03bb",
+        "sharedAyahs": [
+          "28:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "I79PuGz3e_w",
+            "start": 2369.88,
+            "end": 2536.0
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/other-89.mp3",
+        "startMs": 0,
+        "endMs": 733680,
+        "durationMs": 733680,
+        "recordingDurationMs": 733680,
+        "bytes": 8804831,
+        "sha256": "ee83916978651cf2bb673290444620a7513b281081ac3c1f90f5f234260326be",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "es0wZYF5CRc",
+            "start": 0.0,
+            "end": 733.64
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 1179910,
+        "durationMs": 1179910,
+        "recordingDurationMs": 1179910,
+        "bytes": 14159624,
+        "sha256": "bd94212de24c48bd83e96e6da8fa3da367dc931938853563c5d76997458b80a6",
+        "sharedAyahs": [
+          "28:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "es0wZYF5CRc",
+            "start": 733.64,
+            "end": 1913.53
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 298630,
+        "durationMs": 298630,
+        "recordingDurationMs": 298630,
+        "bytes": 3584264,
+        "sha256": "1b277a55716e2dcf1684b1faaaa75413e7d53c0d002178a51fda98b4e7d22a84",
+        "sharedAyahs": [
+          "28:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "es0wZYF5CRc",
+            "start": 1913.53,
+            "end": 2212.14
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 134780,
+        "durationMs": 134780,
+        "recordingDurationMs": 134780,
+        "bytes": 1618088,
+        "sha256": "2cef72bd61d525aa3959cc6cfab0a1ce088d36f59b75c9cabf346647e6f51521",
+        "sharedAyahs": [
+          "28:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "es0wZYF5CRc",
+            "start": 2212.14,
+            "end": 2346.91
+          }
+        ]
+      },
+      {
+        "file": "028-القصص-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 298270,
+        "durationMs": 298270,
+        "recordingDurationMs": 298270,
+        "bytes": 3579944,
+        "sha256": "0e8a7207e5651f7ccbdbda69c667278894291c4a45610ac1d9517ef32cb0f365",
+        "sharedAyahs": [
+          "28:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "es0wZYF5CRc",
+            "start": 2346.91,
+            "end": 2645.15
+          }
+        ]
+      }
+    ],
+    "durationMs": 32136640,
+    "additionalAudioBytes": 0
+  }
+}
