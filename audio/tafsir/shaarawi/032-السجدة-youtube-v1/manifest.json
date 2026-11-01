@@ -1,0 +1,1479 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 32,
+  "surahName": "السجدة",
+  "ayahCount": 30,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 30,
+    "mappedAyahCount": 30,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "AHNTbjNq26M": {
+      "durationSeconds": 489.29,
+      "bytes": 5872156,
+      "sha256": "cb8ab08966572eae1b90e817a47eba0350ef5b5d9b0b8fbe17478e6ebe5a6fc0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-002_AHNTbjNq26M.mp3"
+    },
+    "kAX2TLEMqlU": {
+      "durationSeconds": 1670.52,
+      "bytes": 20046940,
+      "sha256": "06bc43c538d71de6bfcbc6e770c7b9142e231ac5f52da9793d41c942aa2aefac",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_002-004_kAX2TLEMqlU.mp3"
+    },
+    "x-dBvYrOXDQ": {
+      "durationSeconds": 1723.87,
+      "bytes": 20687161,
+      "sha256": "2ab44d3614e72d4e506a7a8e54b744d9378605e4d23170337a14e91d5cc20a3a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_004-007_x-dBvYrOXDQ.mp3"
+    },
+    "NdXQq-YplKY": {
+      "durationSeconds": 1692.05,
+      "bytes": 20305276,
+      "sha256": "35f12ac3b72a7a93716375af19b6770c673181acc63f66027f09316fccbc9105",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_007-009_NdXQq-YplKY.mp3"
+    },
+    "Wz5us4Zvgmw": {
+      "durationSeconds": 1710.94,
+      "bytes": 20531933,
+      "sha256": "2b8166a6f7fd4124497bc6e43a472dbdaa12d473f019e30b3b9c91125f0f743e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_009-012_Wz5us4Zvgmw.mp3"
+    },
+    "_nJzz9szGe4": {
+      "durationSeconds": 1723.85,
+      "bytes": 20686878,
+      "sha256": "f94b1985407bd6e72d32f0975f50ed50629ce485a5264e20713318709e1c381e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_012-015__nJzz9szGe4.mp3"
+    },
+    "KYHtBwvsa_Q": {
+      "durationSeconds": 1804.01,
+      "bytes": 21648799,
+      "sha256": "13e5c4b48c2f84f6b068faad2cdead78481ec1a09332cb6b7764fa457db63454",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_015-018_KYHtBwvsa_Q.mp3"
+    },
+    "OvpkIWuMRW0": {
+      "durationSeconds": 2248.3,
+      "bytes": 26980255,
+      "sha256": "b5931c9ad47014543f16e6de763185d0f6fae64f997064e4a5cb81a39d40df92",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_018-026_OvpkIWuMRW0.mp3"
+    },
+    "SHCvTTI5xK8": {
+      "durationSeconds": 2504.45,
+      "bytes": 30054078,
+      "sha256": "05cb411ac6249b4e40899adac8a0c3c7222430acb7d01a1a68c1c6dbaeaeb5c1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_026-027_SHCvTTI5xK8.mp3"
+    },
+    "RZ9DNnqEebY": {
+      "durationSeconds": 2467.39,
+      "bytes": 29609407,
+      "sha256": "ea45f081f0f4da988a152310700f947bc82056e0090f75ae866e0fbf56be3c95",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_027-030_RZ9DNnqEebY.mp3"
+    }
+  },
+  "ayahs": {
+    "32:1": {
+      "file": "032-السجدة-youtube-v1/001.mp3",
+      "durationMs": 356420,
+      "bytes": 4277770,
+      "sha256": "e871e25dcda422c6aeb3c3abf4ac829efd5fd09e4ee57186a5062372a0530bbe",
+      "sharedAyahs": [
+        "32:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AHNTbjNq26M",
+          "start": 5.3,
+          "end": 361.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:2": {
+      "file": "032-السجدة-youtube-v1/002.mp3",
+      "durationMs": 118630,
+      "bytes": 1424266,
+      "sha256": "dbfddfb3b2743a315360d3266b139201f6bdfe93b0699b7e3d926cb9061bdda0",
+      "sharedAyahs": [
+        "32:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AHNTbjNq26M",
+          "start": 361.7,
+          "end": 480.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:3": {
+      "file": "032-السجدة-youtube-v1/003.mp3",
+      "durationMs": 861220,
+      "bytes": 10335274,
+      "sha256": "c31fe54e9d61b2113d3503ff516359735b2c827e9e6561044062275ad7e6beca",
+      "sharedAyahs": [
+        "32:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kAX2TLEMqlU",
+          "start": 809.3,
+          "end": 1670.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:4": {
+      "file": "032-السجدة-youtube-v1/004.mp3",
+      "durationMs": 1251500,
+      "bytes": 15018730,
+      "sha256": "61779666cd459a57a6b211450c3570c71ef104cee958bd06eaab2f7586f071a6",
+      "sharedAyahs": [
+        "32:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x-dBvYrOXDQ",
+          "start": 11.5,
+          "end": 1263.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:5": {
+      "file": "032-السجدة-youtube-v1/005.mp3",
+      "durationMs": 315840,
+      "bytes": 3790762,
+      "sha256": "86f075c0cf836218617abdc77ec5634acb50530188c898cb98a2c60f11ecaf5c",
+      "sharedAyahs": [
+        "32:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x-dBvYrOXDQ",
+          "start": 1263.0,
+          "end": 1578.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:6": {
+      "file": "032-السجدة-youtube-v1/006.mp3",
+      "durationMs": 119020,
+      "bytes": 1428874,
+      "sha256": "de344dbed97225b24c7724c9cead92d78609342084a9c055455f5de2ef92fa48",
+      "sharedAyahs": [
+        "32:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x-dBvYrOXDQ",
+          "start": 1578.8,
+          "end": 1697.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:7": {
+      "file": "032-السجدة-youtube-v1/007.mp3",
+      "durationMs": 1056530,
+      "bytes": 12679018,
+      "sha256": "3a37f17eb748343fb4df3a7084a6c03e9b50aad8908265cf000aaca173017d58",
+      "sharedAyahs": [
+        "32:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NdXQq-YplKY",
+          "start": 9.5,
+          "end": 1066.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:8": {
+      "file": "032-السجدة-youtube-v1/008.mp3",
+      "durationMs": 122020,
+      "bytes": 1464874,
+      "sha256": "cc77ef4adc6c39934e13b3905fe1df97e0621f2b05db6ba2ca6ff59c2c4924fe",
+      "sharedAyahs": [
+        "32:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NdXQq-YplKY",
+          "start": 1066.0,
+          "end": 1188.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:9": {
+      "file": "032-السجدة-youtube-v1/009.mp3",
+      "durationMs": 500830,
+      "bytes": 6010666,
+      "sha256": "3ac959ae26246d687ff720a462f5f21677d797f496aa126f8b4c642ec877207b",
+      "sharedAyahs": [
+        "32:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NdXQq-YplKY",
+          "start": 1188.0,
+          "end": 1688.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:10": {
+      "file": "032-السجدة-youtube-v1/010.mp3",
+      "durationMs": 387120,
+      "bytes": 4646124,
+      "sha256": "49741d63ae078d5b29fbf27c7b4b7f6ee1f98eb98821299aa97f50c7a2f9f767",
+      "sharedAyahs": [
+        "32:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Wz5us4Zvgmw",
+          "start": 698.2,
+          "end": 1085.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:11": {
+      "file": "032-السجدة-youtube-v1/011.mp3",
+      "durationMs": 108120,
+      "bytes": 1298124,
+      "sha256": "4bc04dd096b1fef05e024e6da5b4645793c2d74d0c37d20529d705b54be1cb3d",
+      "sharedAyahs": [
+        "32:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Wz5us4Zvgmw",
+          "start": 1085.3,
+          "end": 1193.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:12": {
+      "file": "032-السجدة-youtube-v1/012.mp3",
+      "durationMs": 513530,
+      "bytes": 6163020,
+      "sha256": "d2d5d92e54f0a8a00c3f9c4922947a40ef32993ba3d584f16a1c1f134298d3ba",
+      "sharedAyahs": [
+        "32:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Wz5us4Zvgmw",
+          "start": 1193.4,
+          "end": 1706.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:13": {
+      "file": "032-السجدة-youtube-v1/013.mp3",
+      "durationMs": 476520,
+      "bytes": 5718924,
+      "sha256": "d82dc7530c9a57b2fffd368e78bb1b3f8573c7b6ac16206554339e0d746111f5",
+      "sharedAyahs": [
+        "32:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_nJzz9szGe4",
+          "start": 709.7,
+          "end": 1186.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:14": {
+      "file": "032-السجدة-youtube-v1/014.mp3",
+      "durationMs": 483020,
+      "bytes": 5796972,
+      "sha256": "6cf4fa6e2facdfbe428335926e104f209327835b709a8cab7dd6d19dd310a17c",
+      "sharedAyahs": [
+        "32:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_nJzz9szGe4",
+          "start": 1186.2,
+          "end": 1669.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:15": {
+      "file": "032-السجدة-youtube-v1/015.mp3",
+      "durationMs": 117720,
+      "bytes": 1413324,
+      "sha256": "7a894d9c14414cb12476a43d18aa3ff28b84b5c2c2b3a1529a8795459cf4b750",
+      "sharedAyahs": [
+        "32:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KYHtBwvsa_Q",
+          "start": 23.2,
+          "end": 140.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:16": {
+      "file": "032-السجدة-youtube-v1/016.mp3",
+      "durationMs": 592730,
+      "bytes": 7113420,
+      "sha256": "d0a97f671f7528c687e6947906a3da16b8155c0b44249b8fbddec9aa6283a1c8",
+      "sharedAyahs": [
+        "32:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KYHtBwvsa_Q",
+          "start": 140.9,
+          "end": 733.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:17": {
+      "file": "032-السجدة-youtube-v1/017.mp3",
+      "durationMs": 1022520,
+      "bytes": 12270924,
+      "sha256": "08b20dee4800178931299248a480e16fb2dba8254e87d01125aa9efec553c565",
+      "sharedAyahs": [
+        "32:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "KYHtBwvsa_Q",
+          "start": 733.6,
+          "end": 1756.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:18": {
+      "file": "032-السجدة-youtube-v1/018.mp3",
+      "durationMs": 320640,
+      "bytes": 3848364,
+      "sha256": "6151c3856e15bf54623256d996a686dab01a300e4d119d600e0218f45da8f481",
+      "sharedAyahs": [
+        "32:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 3.5,
+          "end": 324.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:19": {
+      "file": "032-السجدة-youtube-v1/019.mp3",
+      "durationMs": 504220,
+      "bytes": 6051276,
+      "sha256": "746f968644f1f1f847d15645f0dd50790de00fd06c534e2663f3612be93aec8f",
+      "sharedAyahs": [
+        "32:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 324.1,
+          "end": 828.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:20": {
+      "file": "032-السجدة-youtube-v1/020.mp3",
+      "durationMs": 297020,
+      "bytes": 3564972,
+      "sha256": "ccc3a24e67c26b14c87e435b4428f7e307dbdc7ffa8d98118cf882bca01d8b8b",
+      "sharedAyahs": [
+        "32:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 828.3,
+          "end": 1125.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:21": {
+      "file": "032-السجدة-youtube-v1/021.mp3",
+      "durationMs": 162720,
+      "bytes": 1953324,
+      "sha256": "52562facb5169a8fb857e7c80f46550c90718f05a9f8a6d2a21dbf2efd179ffc",
+      "sharedAyahs": [
+        "32:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 1125.3,
+          "end": 1288.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:22": {
+      "file": "032-السجدة-youtube-v1/022.mp3",
+      "durationMs": 155020,
+      "bytes": 1860876,
+      "sha256": "94b913e0a6706d247d4ca2bbf359304d10860810781f180fbecd0bcc86d23fb0",
+      "sharedAyahs": [
+        "32:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 1288.0,
+          "end": 1443.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:23": {
+      "file": "032-السجدة-youtube-v1/023.mp3",
+      "durationMs": 378740,
+      "bytes": 4545612,
+      "sha256": "d16c33f4fb34bd8a07a2c0394d157c7bc0caaf88f497240db3f836710f4d5b9a",
+      "sharedAyahs": [
+        "32:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 1443.0,
+          "end": 1821.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:24": {
+      "file": "032-السجدة-youtube-v1/024.mp3",
+      "durationMs": 20110,
+      "bytes": 242028,
+      "sha256": "cd67b1e6588e2488f8c5fc48b2b831abbaa07099c45a7782c1275281ac3fa1ee",
+      "sharedAyahs": [
+        "32:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 1821.7,
+          "end": 1841.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:25": {
+      "file": "032-السجدة-youtube-v1/025.mp3",
+      "durationMs": 267530,
+      "bytes": 3211020,
+      "sha256": "21c2533abda2fd2bce1b186e0c87236fe14797ebcb260f5ee1005b81380b4db2",
+      "sharedAyahs": [
+        "32:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 1841.8,
+          "end": 2109.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:26": {
+      "file": "032-السجدة-youtube-v1/026.mp3",
+      "durationMs": 2498330,
+      "bytes": 29980620,
+      "sha256": "5df1200766e180123c14be8b9ed4a600ef009cb7ad4d118cbe8c400388ac5436",
+      "sharedAyahs": [
+        "32:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SHCvTTI5xK8",
+          "start": 1.4,
+          "end": 2499.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:27": {
+      "file": "032-السجدة-youtube-v1/027.mp3",
+      "durationMs": 717120,
+      "bytes": 8606124,
+      "sha256": "3307168651bed39d3351db256d95e1f7d2a7ab254844caf33d8b70222ab49e59",
+      "sharedAyahs": [
+        "32:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RZ9DNnqEebY",
+          "start": 1.5,
+          "end": 718.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:28": {
+      "file": "032-السجدة-youtube-v1/028.mp3",
+      "durationMs": 829320,
+      "bytes": 9952524,
+      "sha256": "3b2ab02bf973ce173f9929906cc3f8e35c49c9097013d96c4faa1bc0572c76fc",
+      "sharedAyahs": [
+        "32:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RZ9DNnqEebY",
+          "start": 718.6,
+          "end": 1547.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:29": {
+      "file": "032-السجدة-youtube-v1/029.mp3",
+      "durationMs": 411620,
+      "bytes": 4940172,
+      "sha256": "e8597b9e0932d53b533d0b3ec322f100e1c40c27800d239cf3c840e3d1883984",
+      "sharedAyahs": [
+        "32:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RZ9DNnqEebY",
+          "start": 1547.9,
+          "end": 1959.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "32:30": {
+      "file": "032-السجدة-youtube-v1/030.mp3",
+      "durationMs": 500330,
+      "bytes": 6004620,
+      "sha256": "07986668eea5fb42d16a598b0ed15cde6d4989b1e2e32d447111701cf509495d",
+      "sharedAyahs": [
+        "32:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RZ9DNnqEebY",
+          "start": 1959.5,
+          "end": 2459.8
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "032-السجدة-youtube-v1/other-02.mp3",
+      "kind": "other",
+      "durationMs": 809020,
+      "bytes": 9708867,
+      "sha256": "2dbc557390b7c35cecf0174c9a7e06dafb53e2b7c2f108834a0a45a1f256ed6c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kAX2TLEMqlU",
+          "start": 0.3,
+          "end": 809.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "032-السجدة-youtube-v1/other-07.mp3",
+      "kind": "other",
+      "durationMs": 21120,
+      "bytes": 254115,
+      "sha256": "5d3fd7ea8e4f32e853945043138c156708a019dd1f3aa934ad2ae42277faf57c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "x-dBvYrOXDQ",
+          "start": 1697.8,
+          "end": 1718.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "032-السجدة-youtube-v1/other-11.mp3",
+      "kind": "other",
+      "durationMs": 691630,
+      "bytes": 8300259,
+      "sha256": "61607bd66b9ede3172614bc0c4dbe21e2f9cae2d811f59a10a60e5570aebf8c9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Wz5us4Zvgmw",
+          "start": 6.6,
+          "end": 698.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "032-السجدة-youtube-v1/other-15.mp3",
+      "kind": "other",
+      "durationMs": 705410,
+      "bytes": 8465571,
+      "sha256": "ca18528a70ce1ab4c8f60d69d02eb1ff68f47ccc5e0d4578cc30ee6ad2db02b1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "_nJzz9szGe4",
+          "start": 4.3,
+          "end": 709.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "032-السجدة-youtube-v1/other-18.mp3",
+      "kind": "other",
+      "durationMs": 48020,
+      "bytes": 576963,
+      "sha256": "c1c287604abf2fc1073fded5c8c19e13cc9f98e9f9ab17602b2d7a94065c89f3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "_nJzz9szGe4",
+          "start": 1669.2,
+          "end": 1717.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "032-السجدة-youtube-v1/other-22.mp3",
+      "kind": "other",
+      "durationMs": 43440,
+      "bytes": 521955,
+      "sha256": "27b286f7b966f470019d6d8a40ef724872cc33dc3c5e73104dc5a21a4c8b1469",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "KYHtBwvsa_Q",
+          "start": 1756.1,
+          "end": 1799.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "032-السجدة-youtube-v1/other-31.mp3",
+      "kind": "other",
+      "durationMs": 138620,
+      "bytes": 1664163,
+      "sha256": "aaf1c1885a7b9e90b7ee8832c238c86494d4ec3ef375078a2f9ee96770a4788b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "OvpkIWuMRW0",
+          "start": 2109.3,
+          "end": 2247.9
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL73024CF8ED1D1CD8",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "sajdah-tanzil-quran",
+      "title": "إعجاز تنزيل القرآن ونفي الريب عنه وبيان صدق الرسالة",
+      "file": "032-السجدة-youtube-v1/other-02.mp3",
+      "startMs": 0,
+      "endMs": 809020
+    },
+    {
+      "id": "sajdah-creation-perfection",
+      "title": "إتقان الصنع الإلهي ومقدمة آيات خلق الإنسان",
+      "file": "032-السجدة-youtube-v1/other-07.mp3",
+      "startMs": 0,
+      "endMs": 21120
+    },
+    {
+      "id": "sajdah-faculties-gratitude",
+      "title": "حكمة خلق السمع والأبصار والأفئدة وعظيم حق شكر النعم",
+      "file": "032-السجدة-youtube-v1/other-11.mp3",
+      "startMs": 0,
+      "endMs": 691630
+    },
+    {
+      "id": "sajdah-sinners-repentance-late",
+      "title": "مشهد نكس رؤوس المجرمين عند ربهم وفوات أوان التوبة والرجوع",
+      "file": "032-السجدة-youtube-v1/other-15.mp3",
+      "startMs": 0,
+      "endMs": 705410
+    },
+    {
+      "id": "sajdah-believers-prostration-intro",
+      "title": "مقدمة صفات المؤمنين وخرورهم سجدا لربهم",
+      "file": "032-السجدة-youtube-v1/other-18.mp3",
+      "startMs": 0,
+      "endMs": 48020
+    },
+    {
+      "id": "sajdah-mumin-fasiq-intro",
+      "title": "بيان تباين مآل المؤمن والفاسق ومقدمة سنن الجزاء",
+      "file": "032-السجدة-youtube-v1/other-22.mp3",
+      "startMs": 0,
+      "endMs": 43440
+    },
+    {
+      "id": "sajdah-past-nations-lessons",
+      "title": "الاعتبار بمصارع القرون الخالية والمشي في مساكنهم",
+      "file": "032-السجدة-youtube-v1/other-31.mp3",
+      "startMs": 0,
+      "endMs": 138620
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "AHNTbjNq26M",
+      "kAX2TLEMqlU",
+      "x-dBvYrOXDQ",
+      "NdXQq-YplKY",
+      "Wz5us4Zvgmw",
+      "_nJzz9szGe4",
+      "KYHtBwvsa_Q",
+      "OvpkIWuMRW0",
+      "SHCvTTI5xK8",
+      "RZ9DNnqEebY"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "032-السجدة-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 356420,
+        "durationMs": 356420,
+        "recordingDurationMs": 356420,
+        "bytes": 4277770,
+        "sha256": "e871e25dcda422c6aeb3c3abf4ac829efd5fd09e4ee57186a5062372a0530bbe",
+        "sharedAyahs": [
+          "32:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AHNTbjNq26M",
+            "start": 5.3,
+            "end": 361.7
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 118630,
+        "durationMs": 118630,
+        "recordingDurationMs": 118630,
+        "bytes": 1424266,
+        "sha256": "dbfddfb3b2743a315360d3266b139201f6bdfe93b0699b7e3d926cb9061bdda0",
+        "sharedAyahs": [
+          "32:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AHNTbjNq26M",
+            "start": 361.7,
+            "end": 480.3
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/other-02.mp3",
+        "startMs": 0,
+        "endMs": 809020,
+        "durationMs": 809020,
+        "recordingDurationMs": 809020,
+        "bytes": 9708867,
+        "sha256": "2dbc557390b7c35cecf0174c9a7e06dafb53e2b7c2f108834a0a45a1f256ed6c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "kAX2TLEMqlU",
+            "start": 0.3,
+            "end": 809.3
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 861220,
+        "durationMs": 861220,
+        "recordingDurationMs": 861220,
+        "bytes": 10335274,
+        "sha256": "c31fe54e9d61b2113d3503ff516359735b2c827e9e6561044062275ad7e6beca",
+        "sharedAyahs": [
+          "32:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kAX2TLEMqlU",
+            "start": 809.3,
+            "end": 1670.52
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 1251500,
+        "durationMs": 1251500,
+        "recordingDurationMs": 1251500,
+        "bytes": 15018730,
+        "sha256": "61779666cd459a57a6b211450c3570c71ef104cee958bd06eaab2f7586f071a6",
+        "sharedAyahs": [
+          "32:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x-dBvYrOXDQ",
+            "start": 11.5,
+            "end": 1263.0
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 315840,
+        "durationMs": 315840,
+        "recordingDurationMs": 315840,
+        "bytes": 3790762,
+        "sha256": "86f075c0cf836218617abdc77ec5634acb50530188c898cb98a2c60f11ecaf5c",
+        "sharedAyahs": [
+          "32:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x-dBvYrOXDQ",
+            "start": 1263.0,
+            "end": 1578.8
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 119020,
+        "durationMs": 119020,
+        "recordingDurationMs": 119020,
+        "bytes": 1428874,
+        "sha256": "de344dbed97225b24c7724c9cead92d78609342084a9c055455f5de2ef92fa48",
+        "sharedAyahs": [
+          "32:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x-dBvYrOXDQ",
+            "start": 1578.8,
+            "end": 1697.8
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/other-07.mp3",
+        "startMs": 0,
+        "endMs": 21120,
+        "durationMs": 21120,
+        "recordingDurationMs": 21120,
+        "bytes": 254115,
+        "sha256": "5d3fd7ea8e4f32e853945043138c156708a019dd1f3aa934ad2ae42277faf57c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "x-dBvYrOXDQ",
+            "start": 1697.8,
+            "end": 1718.9
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 1056530,
+        "durationMs": 1056530,
+        "recordingDurationMs": 1056530,
+        "bytes": 12679018,
+        "sha256": "3a37f17eb748343fb4df3a7084a6c03e9b50aad8908265cf000aaca173017d58",
+        "sharedAyahs": [
+          "32:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NdXQq-YplKY",
+            "start": 9.5,
+            "end": 1066.0
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 122020,
+        "durationMs": 122020,
+        "recordingDurationMs": 122020,
+        "bytes": 1464874,
+        "sha256": "cc77ef4adc6c39934e13b3905fe1df97e0621f2b05db6ba2ca6ff59c2c4924fe",
+        "sharedAyahs": [
+          "32:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NdXQq-YplKY",
+            "start": 1066.0,
+            "end": 1188.0
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 500830,
+        "durationMs": 500830,
+        "recordingDurationMs": 500830,
+        "bytes": 6010666,
+        "sha256": "3ac959ae26246d687ff720a462f5f21677d797f496aa126f8b4c642ec877207b",
+        "sharedAyahs": [
+          "32:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "NdXQq-YplKY",
+            "start": 1188.0,
+            "end": 1688.8
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/other-11.mp3",
+        "startMs": 0,
+        "endMs": 691630,
+        "durationMs": 691630,
+        "recordingDurationMs": 691630,
+        "bytes": 8300259,
+        "sha256": "61607bd66b9ede3172614bc0c4dbe21e2f9cae2d811f59a10a60e5570aebf8c9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "Wz5us4Zvgmw",
+            "start": 6.6,
+            "end": 698.2
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 387120,
+        "durationMs": 387120,
+        "recordingDurationMs": 387120,
+        "bytes": 4646124,
+        "sha256": "49741d63ae078d5b29fbf27c7b4b7f6ee1f98eb98821299aa97f50c7a2f9f767",
+        "sharedAyahs": [
+          "32:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Wz5us4Zvgmw",
+            "start": 698.2,
+            "end": 1085.3
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 108120,
+        "durationMs": 108120,
+        "recordingDurationMs": 108120,
+        "bytes": 1298124,
+        "sha256": "4bc04dd096b1fef05e024e6da5b4645793c2d74d0c37d20529d705b54be1cb3d",
+        "sharedAyahs": [
+          "32:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Wz5us4Zvgmw",
+            "start": 1085.3,
+            "end": 1193.4
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 513530,
+        "durationMs": 513530,
+        "recordingDurationMs": 513530,
+        "bytes": 6163020,
+        "sha256": "d2d5d92e54f0a8a00c3f9c4922947a40ef32993ba3d584f16a1c1f134298d3ba",
+        "sharedAyahs": [
+          "32:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Wz5us4Zvgmw",
+            "start": 1193.4,
+            "end": 1706.9
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/other-15.mp3",
+        "startMs": 0,
+        "endMs": 705410,
+        "durationMs": 705410,
+        "recordingDurationMs": 705410,
+        "bytes": 8465571,
+        "sha256": "ca18528a70ce1ab4c8f60d69d02eb1ff68f47ccc5e0d4578cc30ee6ad2db02b1",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "_nJzz9szGe4",
+            "start": 4.3,
+            "end": 709.7
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 476520,
+        "durationMs": 476520,
+        "recordingDurationMs": 476520,
+        "bytes": 5718924,
+        "sha256": "d82dc7530c9a57b2fffd368e78bb1b3f8573c7b6ac16206554339e0d746111f5",
+        "sharedAyahs": [
+          "32:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_nJzz9szGe4",
+            "start": 709.7,
+            "end": 1186.2
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 483020,
+        "durationMs": 483020,
+        "recordingDurationMs": 483020,
+        "bytes": 5796972,
+        "sha256": "6cf4fa6e2facdfbe428335926e104f209327835b709a8cab7dd6d19dd310a17c",
+        "sharedAyahs": [
+          "32:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_nJzz9szGe4",
+            "start": 1186.2,
+            "end": 1669.2
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/other-18.mp3",
+        "startMs": 0,
+        "endMs": 48020,
+        "durationMs": 48020,
+        "recordingDurationMs": 48020,
+        "bytes": 576963,
+        "sha256": "c1c287604abf2fc1073fded5c8c19e13cc9f98e9f9ab17602b2d7a94065c89f3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "_nJzz9szGe4",
+            "start": 1669.2,
+            "end": 1717.2
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 117720,
+        "durationMs": 117720,
+        "recordingDurationMs": 117720,
+        "bytes": 1413324,
+        "sha256": "7a894d9c14414cb12476a43d18aa3ff28b84b5c2c2b3a1529a8795459cf4b750",
+        "sharedAyahs": [
+          "32:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KYHtBwvsa_Q",
+            "start": 23.2,
+            "end": 140.9
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 592730,
+        "durationMs": 592730,
+        "recordingDurationMs": 592730,
+        "bytes": 7113420,
+        "sha256": "d0a97f671f7528c687e6947906a3da16b8155c0b44249b8fbddec9aa6283a1c8",
+        "sharedAyahs": [
+          "32:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KYHtBwvsa_Q",
+            "start": 140.9,
+            "end": 733.6
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 1022520,
+        "durationMs": 1022520,
+        "recordingDurationMs": 1022520,
+        "bytes": 12270924,
+        "sha256": "08b20dee4800178931299248a480e16fb2dba8254e87d01125aa9efec553c565",
+        "sharedAyahs": [
+          "32:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "KYHtBwvsa_Q",
+            "start": 733.6,
+            "end": 1756.1
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/other-22.mp3",
+        "startMs": 0,
+        "endMs": 43440,
+        "durationMs": 43440,
+        "recordingDurationMs": 43440,
+        "bytes": 521955,
+        "sha256": "27b286f7b966f470019d6d8a40ef724872cc33dc3c5e73104dc5a21a4c8b1469",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "KYHtBwvsa_Q",
+            "start": 1756.1,
+            "end": 1799.5
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 320640,
+        "durationMs": 320640,
+        "recordingDurationMs": 320640,
+        "bytes": 3848364,
+        "sha256": "6151c3856e15bf54623256d996a686dab01a300e4d119d600e0218f45da8f481",
+        "sharedAyahs": [
+          "32:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 3.5,
+            "end": 324.1
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 504220,
+        "durationMs": 504220,
+        "recordingDurationMs": 504220,
+        "bytes": 6051276,
+        "sha256": "746f968644f1f1f847d15645f0dd50790de00fd06c534e2663f3612be93aec8f",
+        "sharedAyahs": [
+          "32:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 324.1,
+            "end": 828.3
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 297020,
+        "durationMs": 297020,
+        "recordingDurationMs": 297020,
+        "bytes": 3564972,
+        "sha256": "ccc3a24e67c26b14c87e435b4428f7e307dbdc7ffa8d98118cf882bca01d8b8b",
+        "sharedAyahs": [
+          "32:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 828.3,
+            "end": 1125.3
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 162720,
+        "durationMs": 162720,
+        "recordingDurationMs": 162720,
+        "bytes": 1953324,
+        "sha256": "52562facb5169a8fb857e7c80f46550c90718f05a9f8a6d2a21dbf2efd179ffc",
+        "sharedAyahs": [
+          "32:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 1125.3,
+            "end": 1288.0
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 155020,
+        "durationMs": 155020,
+        "recordingDurationMs": 155020,
+        "bytes": 1860876,
+        "sha256": "94b913e0a6706d247d4ca2bbf359304d10860810781f180fbecd0bcc86d23fb0",
+        "sharedAyahs": [
+          "32:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 1288.0,
+            "end": 1443.0
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 378740,
+        "durationMs": 378740,
+        "recordingDurationMs": 378740,
+        "bytes": 4545612,
+        "sha256": "d16c33f4fb34bd8a07a2c0394d157c7bc0caaf88f497240db3f836710f4d5b9a",
+        "sharedAyahs": [
+          "32:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 1443.0,
+            "end": 1821.7
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 20110,
+        "durationMs": 20110,
+        "recordingDurationMs": 20110,
+        "bytes": 242028,
+        "sha256": "cd67b1e6588e2488f8c5fc48b2b831abbaa07099c45a7782c1275281ac3fa1ee",
+        "sharedAyahs": [
+          "32:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 1821.7,
+            "end": 1841.8
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 267530,
+        "durationMs": 267530,
+        "recordingDurationMs": 267530,
+        "bytes": 3211020,
+        "sha256": "21c2533abda2fd2bce1b186e0c87236fe14797ebcb260f5ee1005b81380b4db2",
+        "sharedAyahs": [
+          "32:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 1841.8,
+            "end": 2109.3
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/other-31.mp3",
+        "startMs": 0,
+        "endMs": 138620,
+        "durationMs": 138620,
+        "recordingDurationMs": 138620,
+        "bytes": 1664163,
+        "sha256": "aaf1c1885a7b9e90b7ee8832c238c86494d4ec3ef375078a2f9ee96770a4788b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "OvpkIWuMRW0",
+            "start": 2109.3,
+            "end": 2247.9
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 2498330,
+        "durationMs": 2498330,
+        "recordingDurationMs": 2498330,
+        "bytes": 29980620,
+        "sha256": "5df1200766e180123c14be8b9ed4a600ef009cb7ad4d118cbe8c400388ac5436",
+        "sharedAyahs": [
+          "32:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "SHCvTTI5xK8",
+            "start": 1.4,
+            "end": 2499.7
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 717120,
+        "durationMs": 717120,
+        "recordingDurationMs": 717120,
+        "bytes": 8606124,
+        "sha256": "3307168651bed39d3351db256d95e1f7d2a7ab254844caf33d8b70222ab49e59",
+        "sharedAyahs": [
+          "32:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RZ9DNnqEebY",
+            "start": 1.5,
+            "end": 718.6
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 829320,
+        "durationMs": 829320,
+        "recordingDurationMs": 829320,
+        "bytes": 9952524,
+        "sha256": "3b2ab02bf973ce173f9929906cc3f8e35c49c9097013d96c4faa1bc0572c76fc",
+        "sharedAyahs": [
+          "32:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RZ9DNnqEebY",
+            "start": 718.6,
+            "end": 1547.9
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 411620,
+        "durationMs": 411620,
+        "recordingDurationMs": 411620,
+        "bytes": 4940172,
+        "sha256": "e8597b9e0932d53b533d0b3ec322f100e1c40c27800d239cf3c840e3d1883984",
+        "sharedAyahs": [
+          "32:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RZ9DNnqEebY",
+            "start": 1547.9,
+            "end": 1959.5
+          }
+        ]
+      },
+      {
+        "file": "032-السجدة-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 500330,
+        "durationMs": 500330,
+        "recordingDurationMs": 500330,
+        "bytes": 6004620,
+        "sha256": "07986668eea5fb42d16a598b0ed15cde6d4989b1e2e32d447111701cf509495d",
+        "sharedAyahs": [
+          "32:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RZ9DNnqEebY",
+            "start": 1959.5,
+            "end": 2459.8
+          }
+        ]
+      }
+    ],
+    "durationMs": 17923270,
+    "additionalAudioBytes": 0
+  }
+}
