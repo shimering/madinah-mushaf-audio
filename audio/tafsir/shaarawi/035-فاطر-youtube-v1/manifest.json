@@ -1,0 +1,2092 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 35,
+  "surahName": "فاطر",
+  "ayahCount": 45,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 45,
+    "mappedAyahCount": 45,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "f0n8xXYPadE": {
+      "durationSeconds": 3370.54,
+      "bytes": 40447122,
+      "sha256": "bc0375099137033742b936d3cdc9edcd8a1ddb1b91aff52eb89030d783f34a94",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-005_f0n8xXYPadE.mp3"
+    },
+    "bYaED84n79w": {
+      "durationSeconds": 2610.29,
+      "bytes": 31324147,
+      "sha256": "4bd9fcb6d22f276aef2da07f55f0678618be165676f5cceb3c1b26f94f83ac9d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_005-011_bYaED84n79w.mp3"
+    },
+    "JnjBKKHjHy0": {
+      "durationSeconds": 2546.86,
+      "bytes": 30562966,
+      "sha256": "8b2e7b9a78ea25b820608a94b99535ba1f17d7a88af46b11fbb465e9c042b60a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_011-012_JnjBKKHjHy0.mp3"
+    },
+    "kyztpA7lzWc": {
+      "durationSeconds": 2629.01,
+      "bytes": 31548790,
+      "sha256": "780905fdfc701c27b5c0bc40ce557e831d1d180c0d7eb8162235342ce50a22fc",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_012-019_kyztpA7lzWc.mp3"
+    },
+    "tJ6ZjcsZoYs": {
+      "durationSeconds": 2510.38,
+      "bytes": 30125207,
+      "sha256": "8cc7abf233c520ac922e788e623c82f295805aa1e73ce7fa9d3874656883cd17",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_018-027_tJ6ZjcsZoYs.mp3"
+    },
+    "vUeUioKHPvE": {
+      "durationSeconds": 2685.29,
+      "bytes": 32224151,
+      "sha256": "d8ca0907d55e2f9030e2a02a43ef08129158d4fda75aa7f2102babcb33372036",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_027-032_vUeUioKHPvE.mp3"
+    },
+    "gV7rJV1GJj8": {
+      "durationSeconds": 2566.99,
+      "bytes": 30804597,
+      "sha256": "d894ebcf55ca64d8f26f73c3f72b577c946157da194616f4702c8c7b9688f6d2",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_028-036_gV7rJV1GJj8.mp3"
+    },
+    "RYL7wAZV6IU": {
+      "durationSeconds": 2606.59,
+      "bytes": 31279798,
+      "sha256": "1b22a78cb874b798a23f4d85789cda7aae0f28fd286f3f6467a638e6b9c6b342",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_036-044_RYL7wAZV6IU.mp3"
+    },
+    "kzQHf6QV0VQ": {
+      "durationSeconds": 2678.9,
+      "bytes": 32147448,
+      "sha256": "41925cebaa8a8251787fbfc7c0b2ee7e32e7e67bb21524412b96889057cde138",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_044-045_kzQHf6QV0VQ.mp3"
+    }
+  },
+  "ayahs": {
+    "35:1": {
+      "file": "035-فاطر-youtube-v1/001.mp3",
+      "durationMs": 2520840,
+      "bytes": 30250754,
+      "sha256": "36fff6f24e737e9ba9d6803dffbdfcb723ad23a1dfbbdb9a589e9978eeb94951",
+      "sharedAyahs": [
+        "35:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f0n8xXYPadE",
+          "start": 15.02,
+          "end": 2535.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:2": {
+      "file": "035-فاطر-youtube-v1/002.mp3",
+      "durationMs": 492050,
+      "bytes": 5905250,
+      "sha256": "54f6776df16d625416972581ce4959c161d49436edd3fd882ef104d1c223227a",
+      "sharedAyahs": [
+        "35:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f0n8xXYPadE",
+          "start": 2535.84,
+          "end": 3027.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:3": {
+      "file": "035-فاطر-youtube-v1/003.mp3",
+      "durationMs": 142180,
+      "bytes": 1706786,
+      "sha256": "22cfe7679515ac4cc8116e02f9307f9e8d23d75d4293d93ae20bb2d99551a48e",
+      "sharedAyahs": [
+        "35:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f0n8xXYPadE",
+          "start": 3027.85,
+          "end": 3170.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:4": {
+      "file": "035-فاطر-youtube-v1/004.mp3",
+      "durationMs": 198170,
+      "bytes": 2378690,
+      "sha256": "0664fa0302cb2b26777174d05cc50339213178506b787e7360f73ad5f4c25dab",
+      "sharedAyahs": [
+        "35:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f0n8xXYPadE",
+          "start": 3170.0,
+          "end": 3368.15
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:5": {
+      "file": "035-فاطر-youtube-v1/005.mp3",
+      "durationMs": 638740,
+      "bytes": 7665506,
+      "sha256": "5d1052ad2c9f4502b04f2c04e9c8abaaf6bf20a27132d615a94589aa517b5ab2",
+      "sharedAyahs": [
+        "35:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bYaED84n79w",
+          "start": 0.66,
+          "end": 639.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:6": {
+      "file": "035-فاطر-youtube-v1/006.mp3",
+      "durationMs": 216480,
+      "bytes": 2598434,
+      "sha256": "ab2aebf9a102b58039ca57996b3b99f0e5416ac2e7a7dfc308412a982d21824e",
+      "sharedAyahs": [
+        "35:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bYaED84n79w",
+          "start": 639.37,
+          "end": 855.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:7": {
+      "file": "035-فاطر-youtube-v1/007.mp3",
+      "durationMs": 28220,
+      "bytes": 339362,
+      "sha256": "8c8d20397768cae56c0e9ee6baad101a234af73ba1a3d0a6522deae9f529f37a",
+      "sharedAyahs": [
+        "35:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bYaED84n79w",
+          "start": 855.82,
+          "end": 884.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:8": {
+      "file": "035-فاطر-youtube-v1/008.mp3",
+      "durationMs": 510980,
+      "bytes": 6132482,
+      "sha256": "53edaa1227b6480bc0b9be8fa11e2d35ef897605020e51d2d05a34baf0320955",
+      "sharedAyahs": [
+        "35:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bYaED84n79w",
+          "start": 884.02,
+          "end": 1395.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:9": {
+      "file": "035-فاطر-youtube-v1/009.mp3",
+      "durationMs": 582380,
+      "bytes": 6989282,
+      "sha256": "978330e9733fb990bdad37b4a70f6e98a190340a0ff5d1a73cf65eca1403ef8d",
+      "sharedAyahs": [
+        "35:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bYaED84n79w",
+          "start": 1395.0,
+          "end": 1977.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:10": {
+      "file": "035-فاطر-youtube-v1/010.mp3",
+      "durationMs": 577820,
+      "bytes": 6934564,
+      "sha256": "8baa278bce3975d84982f0938dccd2736fd6e5f628b47b7435efdebb4326d8ff",
+      "sharedAyahs": [
+        "35:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bYaED84n79w",
+          "start": 1977.35,
+          "end": 2555.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:11": {
+      "file": "035-فاطر-youtube-v1/011.mp3",
+      "durationMs": 2253790,
+      "bytes": 27046180,
+      "sha256": "6068bc966a238b547e64c3f81349d91c7fc43dff2fe9494fe16a5eae2333be0f",
+      "sharedAyahs": [
+        "35:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JnjBKKHjHy0",
+          "start": 5.49,
+          "end": 2259.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:12": {
+      "file": "035-فاطر-youtube-v1/012.mp3",
+      "durationMs": 681380,
+      "bytes": 8177284,
+      "sha256": "109c804fe39aa65452b0d943ae90db9db2542d285e391439453ca342885e027c",
+      "sharedAyahs": [
+        "35:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kyztpA7lzWc",
+          "start": 1.97,
+          "end": 683.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:13": {
+      "file": "035-فاطر-youtube-v1/013.mp3",
+      "durationMs": 739220,
+      "bytes": 8871364,
+      "sha256": "0b704d9e7c4b7bf29cdfd75859f35f49fd7d6e18d541426e6cbcb20bb3c77fa2",
+      "sharedAyahs": [
+        "35:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kyztpA7lzWc",
+          "start": 683.34,
+          "end": 1422.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:14": {
+      "file": "035-فاطر-youtube-v1/014.mp3",
+      "durationMs": 338160,
+      "bytes": 4058596,
+      "sha256": "8db5cffc94f405434bf9f23e06f9076280a304d771aeb67af8c025421b02786d",
+      "sharedAyahs": [
+        "35:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kyztpA7lzWc",
+          "start": 1422.54,
+          "end": 1760.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:15": {
+      "file": "035-فاطر-youtube-v1/015.mp3",
+      "durationMs": 35880,
+      "bytes": 431236,
+      "sha256": "e95000a58bfd0f37509bc97443868abcd00a0f5a83895572201f6e16e453579c",
+      "sharedAyahs": [
+        "35:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kyztpA7lzWc",
+          "start": 1760.68,
+          "end": 1796.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:16": {
+      "file": "035-فاطر-youtube-v1/016.mp3",
+      "durationMs": 151080,
+      "bytes": 1813636,
+      "sha256": "c4517829e5164954b61728a1f2d94255dd72478a30d17a0b0dfd39ee29010c5a",
+      "sharedAyahs": [
+        "35:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kyztpA7lzWc",
+          "start": 1796.54,
+          "end": 1947.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:17": {
+      "file": "035-فاطر-youtube-v1/017.mp3",
+      "durationMs": 52220,
+      "bytes": 627364,
+      "sha256": "d8149ad89ba5e403dc92dcd1f8a6b038af973f60674f028ac1c835a565598fd0",
+      "sharedAyahs": [
+        "35:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kyztpA7lzWc",
+          "start": 1947.59,
+          "end": 1999.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:18": {
+      "file": "035-فاطر-youtube-v1/018.mp3",
+      "durationMs": 716950,
+      "bytes": 8604100,
+      "sha256": "be4bbfb80b315507f8013f8ac0810511daa2dc9a0c173dd5ffecf5687d2e9bd5",
+      "sharedAyahs": [
+        "35:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 6.22,
+          "end": 723.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:19": {
+      "file": "035-فاطر-youtube-v1/019.mp3",
+      "durationMs": 11760,
+      "bytes": 141796,
+      "sha256": "5490e9b1db50f70b33a7aec5dbe4efd98fd158b21b4a9006de510b3dc9c884d2",
+      "sharedAyahs": [
+        "35:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 723.16,
+          "end": 734.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:20": {
+      "file": "035-فاطر-youtube-v1/020.mp3",
+      "durationMs": 38520,
+      "bytes": 462916,
+      "sha256": "a83fe295ee156263f1f776623d07e413040c36638c7a8518793df5c081ba7a4e",
+      "sharedAyahs": [
+        "35:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 734.9,
+          "end": 773.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:21": {
+      "file": "035-فاطر-youtube-v1/021.mp3",
+      "durationMs": 2230,
+      "bytes": 27460,
+      "sha256": "2fef6dc0520989251129c29b8a79f3f0db1994c83495355c8afd4c968145d0fa",
+      "sharedAyahs": [
+        "35:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 773.38,
+          "end": 775.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:22": {
+      "file": "035-فاطر-youtube-v1/022.mp3",
+      "durationMs": 507410,
+      "bytes": 6089572,
+      "sha256": "78de345474f5c205fed8aa9790ed00a4af1f28bcb81591b4c8641c961e2c5eed",
+      "sharedAyahs": [
+        "35:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 775.6,
+          "end": 1282.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:23": {
+      "file": "035-فاطر-youtube-v1/023.mp3",
+      "durationMs": 3740,
+      "bytes": 45604,
+      "sha256": "69d6a522ba12048c3ae6a5b2202ad9678a5c10dea4e2e9a3053f1a1c28b00c18",
+      "sharedAyahs": [
+        "35:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 1282.98,
+          "end": 1286.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:24": {
+      "file": "035-فاطر-youtube-v1/024.mp3",
+      "durationMs": 430150,
+      "bytes": 5162500,
+      "sha256": "d49eb6fdfcc2b677578b02d9825fec13619681329f0b54a13b27785cc56c0e53",
+      "sharedAyahs": [
+        "35:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 1286.7,
+          "end": 1716.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:25": {
+      "file": "035-فاطر-youtube-v1/025.mp3",
+      "durationMs": 154800,
+      "bytes": 1858276,
+      "sha256": "d9101956dc6719967820c7977c42f1aa0867a0e6160610083b70a3588b7462d8",
+      "sharedAyahs": [
+        "35:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 1716.84,
+          "end": 1871.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:26": {
+      "file": "035-فاطر-youtube-v1/026.mp3",
+      "durationMs": 429360,
+      "bytes": 5152996,
+      "sha256": "e1460f1150265738b266b5403af75383a2e97a94157beffce4941fd57969a12d",
+      "sharedAyahs": [
+        "35:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 1871.6,
+          "end": 2300.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:27": {
+      "file": "035-فاطر-youtube-v1/027.mp3",
+      "durationMs": 755090,
+      "bytes": 9061732,
+      "sha256": "acf58f17b69a068d1e56d527abd9a3ff847c38b4728400c690d5114457936afc",
+      "sharedAyahs": [
+        "35:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vUeUioKHPvE",
+          "start": 2.16,
+          "end": 757.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:28": {
+      "file": "035-فاطر-youtube-v1/028.mp3",
+      "durationMs": 539330,
+      "bytes": 6472612,
+      "sha256": "0c3339348c05306aae03394c9456c708dd310699920326e9f3448b89bd2768d4",
+      "sharedAyahs": [
+        "35:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vUeUioKHPvE",
+          "start": 757.22,
+          "end": 1296.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:29": {
+      "file": "035-فاطر-youtube-v1/029.mp3",
+      "durationMs": 503500,
+      "bytes": 6042628,
+      "sha256": "b075885e1681a03ae6a0118554630120792c364f005563ac8882f39362cb285b",
+      "sharedAyahs": [
+        "35:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vUeUioKHPvE",
+          "start": 1296.51,
+          "end": 1800.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:30": {
+      "file": "035-فاطر-youtube-v1/030.mp3",
+      "durationMs": 563640,
+      "bytes": 6764356,
+      "sha256": "8378333ec165c209f12027c51c943bb57cc0dccf77408c7d752790fee0b7f59a",
+      "sharedAyahs": [
+        "35:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vUeUioKHPvE",
+          "start": 1800.0,
+          "end": 2363.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:31": {
+      "file": "035-فاطر-youtube-v1/031.mp3",
+      "durationMs": 304340,
+      "bytes": 3652804,
+      "sha256": "59dd6f957cc69bc7946dc2e6c24d9d251b342ed74e25ecf8e4d2d74d1029396f",
+      "sharedAyahs": [
+        "35:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gV7rJV1GJj8",
+          "start": 835.66,
+          "end": 1140.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:32": {
+      "file": "035-فاطر-youtube-v1/032.mp3",
+      "durationMs": 673850,
+      "bytes": 8086852,
+      "sha256": "1253ce7feb5f3c2ed7c17381ed52ec3d3a5f40b799d86395eca65f0082e478e3",
+      "sharedAyahs": [
+        "35:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gV7rJV1GJj8",
+          "start": 1140.0,
+          "end": 1813.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:33": {
+      "file": "035-فاطر-youtube-v1/033.mp3",
+      "durationMs": 278860,
+      "bytes": 3346948,
+      "sha256": "3397dda2dbbb163346444f95142e1e3086e6cff43089ede63ebc6776ec8ca734",
+      "sharedAyahs": [
+        "35:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gV7rJV1GJj8",
+          "start": 1813.81,
+          "end": 2092.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:34": {
+      "file": "035-فاطر-youtube-v1/034.mp3",
+      "durationMs": 189190,
+      "bytes": 2270980,
+      "sha256": "ccbff54737116dcd6ccd07e659e7fbf3c1c38bdc5db4db9d4205cc7a8dcb6708",
+      "sharedAyahs": [
+        "35:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gV7rJV1GJj8",
+          "start": 2092.65,
+          "end": 2281.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:35": {
+      "file": "035-فاطر-youtube-v1/035.mp3",
+      "durationMs": 220390,
+      "bytes": 2645380,
+      "sha256": "84e4628543e8fdfb4c61c5932571574f5ec62b45d808b896b7b9317fde033557",
+      "sharedAyahs": [
+        "35:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gV7rJV1GJj8",
+          "start": 2281.82,
+          "end": 2502.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:36": {
+      "file": "035-فاطر-youtube-v1/036.mp3",
+      "durationMs": 312790,
+      "bytes": 3754180,
+      "sha256": "a01e3d075af2d6fc7b6beb04a6722bc27e15781c3a1d9f642905922a136c4a1a",
+      "sharedAyahs": [
+        "35:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 5.3,
+          "end": 318.05
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:37": {
+      "file": "035-فاطر-youtube-v1/037.mp3",
+      "durationMs": 241030,
+      "bytes": 2893060,
+      "sha256": "54e09bc55d1af6e28277534fb884b8b075b18f8ecd45d96fdf12b5fec4b1ee4d",
+      "sharedAyahs": [
+        "35:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 318.05,
+          "end": 559.06
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:38": {
+      "file": "035-فاطر-youtube-v1/038.mp3",
+      "durationMs": 72140,
+      "bytes": 866404,
+      "sha256": "dbd7859e4869c8291e517e8dcecafc00ba17967898f000988b291f1407667b5b",
+      "sharedAyahs": [
+        "35:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 559.06,
+          "end": 631.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:39": {
+      "file": "035-فاطر-youtube-v1/039.mp3",
+      "durationMs": 583970,
+      "bytes": 7008292,
+      "sha256": "34ac5a5a6dfd267c28752efeca59ca5825eeb936255ba330f7936d1ed1e4aa81",
+      "sharedAyahs": [
+        "35:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 631.18,
+          "end": 1215.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:40": {
+      "file": "035-فاطر-youtube-v1/040.mp3",
+      "durationMs": 159240,
+      "bytes": 1911556,
+      "sha256": "4e1561c74a95e2c8a0eb9af2b218b6030a5e6ca7d8bc3947a77acb62af75c111",
+      "sharedAyahs": [
+        "35:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 1215.14,
+          "end": 1374.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:41": {
+      "file": "035-فاطر-youtube-v1/041.mp3",
+      "durationMs": 296400,
+      "bytes": 3557476,
+      "sha256": "bead517582cd3c9ff6234ce28ae142d8f4574e53c55fcd9611fcdf7da8bf95bf",
+      "sharedAyahs": [
+        "35:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 1374.35,
+          "end": 1670.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:42": {
+      "file": "035-فاطر-youtube-v1/042.mp3",
+      "durationMs": 152640,
+      "bytes": 1832356,
+      "sha256": "48d308aaf31088f0944ae63d205bbee6f2aa6f56681df47ce5ced8a71ef9eb98",
+      "sharedAyahs": [
+        "35:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 1670.73,
+          "end": 1823.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:43": {
+      "file": "035-فاطر-youtube-v1/043.mp3",
+      "durationMs": 371230,
+      "bytes": 4455460,
+      "sha256": "997409ad6c438113964961af83de4d6f3eedf90cbde59e3ffe07c2a6b9c71318",
+      "sharedAyahs": [
+        "35:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 1823.35,
+          "end": 2194.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:44": {
+      "file": "035-فاطر-youtube-v1/044.mp3",
+      "durationMs": 518710,
+      "bytes": 6225127,
+      "sha256": "1dc45adf7c6d06aa341bd00c0d20be5bb0d5b01fd0e5f361bb3b8d717e7d7bc1",
+      "sharedAyahs": [
+        "35:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kzQHf6QV0VQ",
+          "start": 5.42,
+          "end": 524.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "35:45": {
+      "file": "035-فاطر-youtube-v1/045.mp3",
+      "durationMs": 2149180,
+      "bytes": 25790695,
+      "sha256": "19c492181f06ee6ecdf4f089f98c53e1a0f624503a8f3608a05c25742d11c115",
+      "sharedAyahs": [
+        "35:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kzQHf6QV0VQ",
+          "start": 524.11,
+          "end": 2673.26
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "035-فاطر-youtube-v1/other-10.mp3",
+      "kind": "other",
+      "durationMs": 43990,
+      "bytes": 528571,
+      "sha256": "985864436c5b6eea3f5c499a946679d76ef3d04e7f08d38244de28bc42cfa512",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "bYaED84n79w",
+          "start": 2555.16,
+          "end": 2599.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "035-فاطر-youtube-v1/other-12.mp3",
+      "kind": "other",
+      "durationMs": 286200,
+      "bytes": 3435067,
+      "sha256": "d00e8470031c9caa1a4a3123b58f81889bbe5dfbf22c35a4278c10f19f8a311d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "JnjBKKHjHy0",
+          "start": 2259.26,
+          "end": 2545.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "035-فاطر-youtube-v1/other-19.mp3",
+      "kind": "other",
+      "durationMs": 462890,
+      "bytes": 5555323,
+      "sha256": "eb3fc16069c64873279db54ef00dfa9db3d339ca3754b369f8e3f818641b8382",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kyztpA7lzWc",
+          "start": 1999.8,
+          "end": 2462.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "035-فاطر-youtube-v1/other-20.mp3",
+      "kind": "other",
+      "durationMs": 159140,
+      "bytes": 1910395,
+      "sha256": "d8a6363576d053721d54c83c59f1da7de03be23aa1eb6294cc84c8300c478d8e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kyztpA7lzWc",
+          "start": 2462.65,
+          "end": 2621.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "035-فاطر-youtube-v1/other-30.mp3",
+      "kind": "other",
+      "durationMs": 208820,
+      "bytes": 2506555,
+      "sha256": "ac4ead12c6176ed90c4ee47f4c794a7c3724f6cb3666f97808da6fd57259fb9b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "tJ6ZjcsZoYs",
+          "start": 2300.94,
+          "end": 2509.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "035-فاطر-youtube-v1/other-35.mp3",
+      "kind": "other",
+      "durationMs": 227420,
+      "bytes": 2729755,
+      "sha256": "c498c4da6b51e9df36b9563df8d3598b0c55680989cc41b596deef6b018ba9a0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "vUeUioKHPvE",
+          "start": 2363.6,
+          "end": 2591.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "035-فاطر-youtube-v1/other-36.mp3",
+      "kind": "other",
+      "durationMs": 829370,
+      "bytes": 9953083,
+      "sha256": "5186f62182e543cc7d74e04f9232acf5cbf0c0c5ed1584dae11e9b3148f5665f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "gV7rJV1GJj8",
+          "start": 6.32,
+          "end": 835.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "035-فاطر-youtube-v1/other-42.mp3",
+      "kind": "other",
+      "durationMs": 62020,
+      "bytes": 744859,
+      "sha256": "ba09d8536696b40afb514cb46e6adf6ee7bcfdae5ed8a373e8f28087ea384061",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "gV7rJV1GJj8",
+          "start": 2502.17,
+          "end": 2564.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "035-فاطر-youtube-v1/other-51.mp3",
+      "kind": "other",
+      "durationMs": 407300,
+      "bytes": 4888315,
+      "sha256": "3cb39b9dac5016a582a830f52dde6d25f8e5047c6c9354538f0bc2b2c3a412ea",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "RYL7wAZV6IU",
+          "start": 2194.54,
+          "end": 2601.84
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL73024CF8ED1D1CD8",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "fatir-creation-from-dust-intro",
+      "title": "مقدمة في أطوار خلق الإنسان من تراب ونطفة وتكامل الأزواج",
+      "file": "035-فاطر-youtube-v1/other-10.mp3",
+      "startMs": 0,
+      "endMs": 43990
+    },
+    {
+      "id": "fatir-seas-metaphor-intro",
+      "title": "حكمة اختلاف مياه البحار والأنهار وعجائب تسخير الفلك",
+      "file": "035-فاطر-youtube-v1/other-12.mp3",
+      "startMs": 0,
+      "endMs": 286200
+    },
+    {
+      "id": "fatir-individual-responsibility-concept",
+      "title": "قانون المسؤولية الفردية وحمل الأوزار في ميزان العدالة الإلهية",
+      "file": "035-فاطر-youtube-v1/other-19.mp3",
+      "startMs": 0,
+      "endMs": 462890
+    },
+    {
+      "id": "fatir-blind-and-seeing-intro",
+      "title": "مقارنة النور والظلمات في تقريب الحقائق الإيمانية للإنسان",
+      "file": "035-فاطر-youtube-v1/other-20.mp3",
+      "startMs": 0,
+      "endMs": 159140
+    },
+    {
+      "id": "fatir-natural-diversity-intro",
+      "title": "آيات التنوع والقدرة الإلهية في الثمار والجبال والخلائق",
+      "file": "035-فاطر-youtube-v1/other-30.mp3",
+      "startMs": 0,
+      "endMs": 208820
+    },
+    {
+      "id": "fatir-inheritors-of-scripture-intro",
+      "title": "مفهوم وراثة الكتاب واصطفاء أمة القرآن ودرجات المؤمنين",
+      "file": "035-فاطر-youtube-v1/other-35.mp3",
+      "startMs": 0,
+      "endMs": 227420
+    },
+    {
+      "id": "fatir-scholars-fear-and-trade-recap",
+      "title": "مكانة الخشية الإلهية وثمرات التجارة الرابحة مع الله",
+      "file": "035-فاطر-youtube-v1/other-36.mp3",
+      "startMs": 0,
+      "endMs": 829370
+    },
+    {
+      "id": "fatir-hellfire-torment-intro",
+      "title": "تصوير عذاب الكفار في نار جهنم وخلود الجزاء",
+      "file": "035-فاطر-youtube-v1/other-42.mp3",
+      "startMs": 0,
+      "endMs": 62020
+    },
+    {
+      "id": "fatir-journeying-earth-lessons-intro",
+      "title": "الحث على السير في الأرض والاعتبار بمصائر الأمم السابقة",
+      "file": "035-فاطر-youtube-v1/other-51.mp3",
+      "startMs": 0,
+      "endMs": 407300
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "f0n8xXYPadE",
+      "bYaED84n79w",
+      "JnjBKKHjHy0",
+      "kyztpA7lzWc",
+      "tJ6ZjcsZoYs",
+      "vUeUioKHPvE",
+      "gV7rJV1GJj8",
+      "RYL7wAZV6IU",
+      "kzQHf6QV0VQ"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "035-فاطر-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 2520840,
+        "durationMs": 2520840,
+        "recordingDurationMs": 2520840,
+        "bytes": 30250754,
+        "sha256": "36fff6f24e737e9ba9d6803dffbdfcb723ad23a1dfbbdb9a589e9978eeb94951",
+        "sharedAyahs": [
+          "35:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f0n8xXYPadE",
+            "start": 15.02,
+            "end": 2535.84
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 492050,
+        "durationMs": 492050,
+        "recordingDurationMs": 492050,
+        "bytes": 5905250,
+        "sha256": "54f6776df16d625416972581ce4959c161d49436edd3fd882ef104d1c223227a",
+        "sharedAyahs": [
+          "35:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f0n8xXYPadE",
+            "start": 2535.84,
+            "end": 3027.85
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 142180,
+        "durationMs": 142180,
+        "recordingDurationMs": 142180,
+        "bytes": 1706786,
+        "sha256": "22cfe7679515ac4cc8116e02f9307f9e8d23d75d4293d93ae20bb2d99551a48e",
+        "sharedAyahs": [
+          "35:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f0n8xXYPadE",
+            "start": 3027.85,
+            "end": 3170.0
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 198170,
+        "durationMs": 198170,
+        "recordingDurationMs": 198170,
+        "bytes": 2378690,
+        "sha256": "0664fa0302cb2b26777174d05cc50339213178506b787e7360f73ad5f4c25dab",
+        "sharedAyahs": [
+          "35:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f0n8xXYPadE",
+            "start": 3170.0,
+            "end": 3368.15
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 638740,
+        "durationMs": 638740,
+        "recordingDurationMs": 638740,
+        "bytes": 7665506,
+        "sha256": "5d1052ad2c9f4502b04f2c04e9c8abaaf6bf20a27132d615a94589aa517b5ab2",
+        "sharedAyahs": [
+          "35:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bYaED84n79w",
+            "start": 0.66,
+            "end": 639.37
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 216480,
+        "durationMs": 216480,
+        "recordingDurationMs": 216480,
+        "bytes": 2598434,
+        "sha256": "ab2aebf9a102b58039ca57996b3b99f0e5416ac2e7a7dfc308412a982d21824e",
+        "sharedAyahs": [
+          "35:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bYaED84n79w",
+            "start": 639.37,
+            "end": 855.82
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 28220,
+        "durationMs": 28220,
+        "recordingDurationMs": 28220,
+        "bytes": 339362,
+        "sha256": "8c8d20397768cae56c0e9ee6baad101a234af73ba1a3d0a6522deae9f529f37a",
+        "sharedAyahs": [
+          "35:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bYaED84n79w",
+            "start": 855.82,
+            "end": 884.02
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 510980,
+        "durationMs": 510980,
+        "recordingDurationMs": 510980,
+        "bytes": 6132482,
+        "sha256": "53edaa1227b6480bc0b9be8fa11e2d35ef897605020e51d2d05a34baf0320955",
+        "sharedAyahs": [
+          "35:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bYaED84n79w",
+            "start": 884.02,
+            "end": 1395.0
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 582380,
+        "durationMs": 582380,
+        "recordingDurationMs": 582380,
+        "bytes": 6989282,
+        "sha256": "978330e9733fb990bdad37b4a70f6e98a190340a0ff5d1a73cf65eca1403ef8d",
+        "sharedAyahs": [
+          "35:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bYaED84n79w",
+            "start": 1395.0,
+            "end": 1977.35
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 577820,
+        "durationMs": 577820,
+        "recordingDurationMs": 577820,
+        "bytes": 6934564,
+        "sha256": "8baa278bce3975d84982f0938dccd2736fd6e5f628b47b7435efdebb4326d8ff",
+        "sharedAyahs": [
+          "35:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bYaED84n79w",
+            "start": 1977.35,
+            "end": 2555.16
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-10.mp3",
+        "startMs": 0,
+        "endMs": 43990,
+        "durationMs": 43990,
+        "recordingDurationMs": 43990,
+        "bytes": 528571,
+        "sha256": "985864436c5b6eea3f5c499a946679d76ef3d04e7f08d38244de28bc42cfa512",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "bYaED84n79w",
+            "start": 2555.16,
+            "end": 2599.12
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 2253790,
+        "durationMs": 2253790,
+        "recordingDurationMs": 2253790,
+        "bytes": 27046180,
+        "sha256": "6068bc966a238b547e64c3f81349d91c7fc43dff2fe9494fe16a5eae2333be0f",
+        "sharedAyahs": [
+          "35:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JnjBKKHjHy0",
+            "start": 5.49,
+            "end": 2259.26
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-12.mp3",
+        "startMs": 0,
+        "endMs": 286200,
+        "durationMs": 286200,
+        "recordingDurationMs": 286200,
+        "bytes": 3435067,
+        "sha256": "d00e8470031c9caa1a4a3123b58f81889bbe5dfbf22c35a4278c10f19f8a311d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "JnjBKKHjHy0",
+            "start": 2259.26,
+            "end": 2545.43
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 681380,
+        "durationMs": 681380,
+        "recordingDurationMs": 681380,
+        "bytes": 8177284,
+        "sha256": "109c804fe39aa65452b0d943ae90db9db2542d285e391439453ca342885e027c",
+        "sharedAyahs": [
+          "35:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kyztpA7lzWc",
+            "start": 1.97,
+            "end": 683.34
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 739220,
+        "durationMs": 739220,
+        "recordingDurationMs": 739220,
+        "bytes": 8871364,
+        "sha256": "0b704d9e7c4b7bf29cdfd75859f35f49fd7d6e18d541426e6cbcb20bb3c77fa2",
+        "sharedAyahs": [
+          "35:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kyztpA7lzWc",
+            "start": 683.34,
+            "end": 1422.54
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 338160,
+        "durationMs": 338160,
+        "recordingDurationMs": 338160,
+        "bytes": 4058596,
+        "sha256": "8db5cffc94f405434bf9f23e06f9076280a304d771aeb67af8c025421b02786d",
+        "sharedAyahs": [
+          "35:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kyztpA7lzWc",
+            "start": 1422.54,
+            "end": 1760.68
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 35880,
+        "durationMs": 35880,
+        "recordingDurationMs": 35880,
+        "bytes": 431236,
+        "sha256": "e95000a58bfd0f37509bc97443868abcd00a0f5a83895572201f6e16e453579c",
+        "sharedAyahs": [
+          "35:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kyztpA7lzWc",
+            "start": 1760.68,
+            "end": 1796.54
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 151080,
+        "durationMs": 151080,
+        "recordingDurationMs": 151080,
+        "bytes": 1813636,
+        "sha256": "c4517829e5164954b61728a1f2d94255dd72478a30d17a0b0dfd39ee29010c5a",
+        "sharedAyahs": [
+          "35:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kyztpA7lzWc",
+            "start": 1796.54,
+            "end": 1947.59
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 52220,
+        "durationMs": 52220,
+        "recordingDurationMs": 52220,
+        "bytes": 627364,
+        "sha256": "d8149ad89ba5e403dc92dcd1f8a6b038af973f60674f028ac1c835a565598fd0",
+        "sharedAyahs": [
+          "35:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kyztpA7lzWc",
+            "start": 1947.59,
+            "end": 1999.8
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-19.mp3",
+        "startMs": 0,
+        "endMs": 462890,
+        "durationMs": 462890,
+        "recordingDurationMs": 462890,
+        "bytes": 5555323,
+        "sha256": "eb3fc16069c64873279db54ef00dfa9db3d339ca3754b369f8e3f818641b8382",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "kyztpA7lzWc",
+            "start": 1999.8,
+            "end": 2462.65
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-20.mp3",
+        "startMs": 0,
+        "endMs": 159140,
+        "durationMs": 159140,
+        "recordingDurationMs": 159140,
+        "bytes": 1910395,
+        "sha256": "d8a6363576d053721d54c83c59f1da7de03be23aa1eb6294cc84c8300c478d8e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "kyztpA7lzWc",
+            "start": 2462.65,
+            "end": 2621.78
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 716950,
+        "durationMs": 716950,
+        "recordingDurationMs": 716950,
+        "bytes": 8604100,
+        "sha256": "be4bbfb80b315507f8013f8ac0810511daa2dc9a0c173dd5ffecf5687d2e9bd5",
+        "sharedAyahs": [
+          "35:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 6.22,
+            "end": 723.16
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 11760,
+        "durationMs": 11760,
+        "recordingDurationMs": 11760,
+        "bytes": 141796,
+        "sha256": "5490e9b1db50f70b33a7aec5dbe4efd98fd158b21b4a9006de510b3dc9c884d2",
+        "sharedAyahs": [
+          "35:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 723.16,
+            "end": 734.9
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 38520,
+        "durationMs": 38520,
+        "recordingDurationMs": 38520,
+        "bytes": 462916,
+        "sha256": "a83fe295ee156263f1f776623d07e413040c36638c7a8518793df5c081ba7a4e",
+        "sharedAyahs": [
+          "35:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 734.9,
+            "end": 773.38
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 2230,
+        "durationMs": 2230,
+        "recordingDurationMs": 2230,
+        "bytes": 27460,
+        "sha256": "2fef6dc0520989251129c29b8a79f3f0db1994c83495355c8afd4c968145d0fa",
+        "sharedAyahs": [
+          "35:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 773.38,
+            "end": 775.6
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 507410,
+        "durationMs": 507410,
+        "recordingDurationMs": 507410,
+        "bytes": 6089572,
+        "sha256": "78de345474f5c205fed8aa9790ed00a4af1f28bcb81591b4c8641c961e2c5eed",
+        "sharedAyahs": [
+          "35:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 775.6,
+            "end": 1282.98
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 3740,
+        "durationMs": 3740,
+        "recordingDurationMs": 3740,
+        "bytes": 45604,
+        "sha256": "69d6a522ba12048c3ae6a5b2202ad9678a5c10dea4e2e9a3053f1a1c28b00c18",
+        "sharedAyahs": [
+          "35:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 1282.98,
+            "end": 1286.7
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 430150,
+        "durationMs": 430150,
+        "recordingDurationMs": 430150,
+        "bytes": 5162500,
+        "sha256": "d49eb6fdfcc2b677578b02d9825fec13619681329f0b54a13b27785cc56c0e53",
+        "sharedAyahs": [
+          "35:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 1286.7,
+            "end": 1716.84
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 154800,
+        "durationMs": 154800,
+        "recordingDurationMs": 154800,
+        "bytes": 1858276,
+        "sha256": "d9101956dc6719967820c7977c42f1aa0867a0e6160610083b70a3588b7462d8",
+        "sharedAyahs": [
+          "35:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 1716.84,
+            "end": 1871.6
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 429360,
+        "durationMs": 429360,
+        "recordingDurationMs": 429360,
+        "bytes": 5152996,
+        "sha256": "e1460f1150265738b266b5403af75383a2e97a94157beffce4941fd57969a12d",
+        "sharedAyahs": [
+          "35:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 1871.6,
+            "end": 2300.94
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-30.mp3",
+        "startMs": 0,
+        "endMs": 208820,
+        "durationMs": 208820,
+        "recordingDurationMs": 208820,
+        "bytes": 2506555,
+        "sha256": "ac4ead12c6176ed90c4ee47f4c794a7c3724f6cb3666f97808da6fd57259fb9b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "tJ6ZjcsZoYs",
+            "start": 2300.94,
+            "end": 2509.74
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 755090,
+        "durationMs": 755090,
+        "recordingDurationMs": 755090,
+        "bytes": 9061732,
+        "sha256": "acf58f17b69a068d1e56d527abd9a3ff847c38b4728400c690d5114457936afc",
+        "sharedAyahs": [
+          "35:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vUeUioKHPvE",
+            "start": 2.16,
+            "end": 757.22
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 539330,
+        "durationMs": 539330,
+        "recordingDurationMs": 539330,
+        "bytes": 6472612,
+        "sha256": "0c3339348c05306aae03394c9456c708dd310699920326e9f3448b89bd2768d4",
+        "sharedAyahs": [
+          "35:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vUeUioKHPvE",
+            "start": 757.22,
+            "end": 1296.51
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 503500,
+        "durationMs": 503500,
+        "recordingDurationMs": 503500,
+        "bytes": 6042628,
+        "sha256": "b075885e1681a03ae6a0118554630120792c364f005563ac8882f39362cb285b",
+        "sharedAyahs": [
+          "35:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vUeUioKHPvE",
+            "start": 1296.51,
+            "end": 1800.0
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 563640,
+        "durationMs": 563640,
+        "recordingDurationMs": 563640,
+        "bytes": 6764356,
+        "sha256": "8378333ec165c209f12027c51c943bb57cc0dccf77408c7d752790fee0b7f59a",
+        "sharedAyahs": [
+          "35:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "vUeUioKHPvE",
+            "start": 1800.0,
+            "end": 2363.6
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-35.mp3",
+        "startMs": 0,
+        "endMs": 227420,
+        "durationMs": 227420,
+        "recordingDurationMs": 227420,
+        "bytes": 2729755,
+        "sha256": "c498c4da6b51e9df36b9563df8d3598b0c55680989cc41b596deef6b018ba9a0",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "vUeUioKHPvE",
+            "start": 2363.6,
+            "end": 2591.0
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-36.mp3",
+        "startMs": 0,
+        "endMs": 829370,
+        "durationMs": 829370,
+        "recordingDurationMs": 829370,
+        "bytes": 9953083,
+        "sha256": "5186f62182e543cc7d74e04f9232acf5cbf0c0c5ed1584dae11e9b3148f5665f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "gV7rJV1GJj8",
+            "start": 6.32,
+            "end": 835.66
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 304340,
+        "durationMs": 304340,
+        "recordingDurationMs": 304340,
+        "bytes": 3652804,
+        "sha256": "59dd6f957cc69bc7946dc2e6c24d9d251b342ed74e25ecf8e4d2d74d1029396f",
+        "sharedAyahs": [
+          "35:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "gV7rJV1GJj8",
+            "start": 835.66,
+            "end": 1140.0
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 673850,
+        "durationMs": 673850,
+        "recordingDurationMs": 673850,
+        "bytes": 8086852,
+        "sha256": "1253ce7feb5f3c2ed7c17381ed52ec3d3a5f40b799d86395eca65f0082e478e3",
+        "sharedAyahs": [
+          "35:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "gV7rJV1GJj8",
+            "start": 1140.0,
+            "end": 1813.81
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 278860,
+        "durationMs": 278860,
+        "recordingDurationMs": 278860,
+        "bytes": 3346948,
+        "sha256": "3397dda2dbbb163346444f95142e1e3086e6cff43089ede63ebc6776ec8ca734",
+        "sharedAyahs": [
+          "35:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "gV7rJV1GJj8",
+            "start": 1813.81,
+            "end": 2092.65
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 189190,
+        "durationMs": 189190,
+        "recordingDurationMs": 189190,
+        "bytes": 2270980,
+        "sha256": "ccbff54737116dcd6ccd07e659e7fbf3c1c38bdc5db4db9d4205cc7a8dcb6708",
+        "sharedAyahs": [
+          "35:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "gV7rJV1GJj8",
+            "start": 2092.65,
+            "end": 2281.82
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 220390,
+        "durationMs": 220390,
+        "recordingDurationMs": 220390,
+        "bytes": 2645380,
+        "sha256": "84e4628543e8fdfb4c61c5932571574f5ec62b45d808b896b7b9317fde033557",
+        "sharedAyahs": [
+          "35:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "gV7rJV1GJj8",
+            "start": 2281.82,
+            "end": 2502.17
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-42.mp3",
+        "startMs": 0,
+        "endMs": 62020,
+        "durationMs": 62020,
+        "recordingDurationMs": 62020,
+        "bytes": 744859,
+        "sha256": "ba09d8536696b40afb514cb46e6adf6ee7bcfdae5ed8a373e8f28087ea384061",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "gV7rJV1GJj8",
+            "start": 2502.17,
+            "end": 2564.18
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 312790,
+        "durationMs": 312790,
+        "recordingDurationMs": 312790,
+        "bytes": 3754180,
+        "sha256": "a01e3d075af2d6fc7b6beb04a6722bc27e15781c3a1d9f642905922a136c4a1a",
+        "sharedAyahs": [
+          "35:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 5.3,
+            "end": 318.05
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 241030,
+        "durationMs": 241030,
+        "recordingDurationMs": 241030,
+        "bytes": 2893060,
+        "sha256": "54e09bc55d1af6e28277534fb884b8b075b18f8ecd45d96fdf12b5fec4b1ee4d",
+        "sharedAyahs": [
+          "35:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 318.05,
+            "end": 559.06
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 72140,
+        "durationMs": 72140,
+        "recordingDurationMs": 72140,
+        "bytes": 866404,
+        "sha256": "dbd7859e4869c8291e517e8dcecafc00ba17967898f000988b291f1407667b5b",
+        "sharedAyahs": [
+          "35:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 559.06,
+            "end": 631.18
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 583970,
+        "durationMs": 583970,
+        "recordingDurationMs": 583970,
+        "bytes": 7008292,
+        "sha256": "34ac5a5a6dfd267c28752efeca59ca5825eeb936255ba330f7936d1ed1e4aa81",
+        "sharedAyahs": [
+          "35:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 631.18,
+            "end": 1215.14
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 159240,
+        "durationMs": 159240,
+        "recordingDurationMs": 159240,
+        "bytes": 1911556,
+        "sha256": "4e1561c74a95e2c8a0eb9af2b218b6030a5e6ca7d8bc3947a77acb62af75c111",
+        "sharedAyahs": [
+          "35:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 1215.14,
+            "end": 1374.35
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 296400,
+        "durationMs": 296400,
+        "recordingDurationMs": 296400,
+        "bytes": 3557476,
+        "sha256": "bead517582cd3c9ff6234ce28ae142d8f4574e53c55fcd9611fcdf7da8bf95bf",
+        "sharedAyahs": [
+          "35:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 1374.35,
+            "end": 1670.73
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 152640,
+        "durationMs": 152640,
+        "recordingDurationMs": 152640,
+        "bytes": 1832356,
+        "sha256": "48d308aaf31088f0944ae63d205bbee6f2aa6f56681df47ce5ced8a71ef9eb98",
+        "sharedAyahs": [
+          "35:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 1670.73,
+            "end": 1823.35
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 371230,
+        "durationMs": 371230,
+        "recordingDurationMs": 371230,
+        "bytes": 4455460,
+        "sha256": "997409ad6c438113964961af83de4d6f3eedf90cbde59e3ffe07c2a6b9c71318",
+        "sharedAyahs": [
+          "35:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 1823.35,
+            "end": 2194.54
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/other-51.mp3",
+        "startMs": 0,
+        "endMs": 407300,
+        "durationMs": 407300,
+        "recordingDurationMs": 407300,
+        "bytes": 4888315,
+        "sha256": "3cb39b9dac5016a582a830f52dde6d25f8e5047c6c9354538f0bc2b2c3a412ea",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "RYL7wAZV6IU",
+            "start": 2194.54,
+            "end": 2601.84
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 518710,
+        "durationMs": 518710,
+        "recordingDurationMs": 518710,
+        "bytes": 6225127,
+        "sha256": "1dc45adf7c6d06aa341bd00c0d20be5bb0d5b01fd0e5f361bb3b8d717e7d7bc1",
+        "sharedAyahs": [
+          "35:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kzQHf6QV0VQ",
+            "start": 5.42,
+            "end": 524.11
+          }
+        ]
+      },
+      {
+        "file": "035-فاطر-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 2149180,
+        "durationMs": 2149180,
+        "recordingDurationMs": 2149180,
+        "bytes": 25790695,
+        "sha256": "19c492181f06ee6ecdf4f089f98c53e1a0f624503a8f3608a05c25742d11c115",
+        "sharedAyahs": [
+          "35:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "kzQHf6QV0VQ",
+            "start": 524.11,
+            "end": 2673.26
+          }
+        ]
+      }
+    ],
+    "durationMs": 24027180,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
