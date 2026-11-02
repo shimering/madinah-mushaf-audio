@@ -1,0 +1,3468 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 36,
+  "surahName": "يس",
+  "ayahCount": 83,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 83,
+    "mappedAyahCount": 83,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "pAO8GtMeOgs": {
+      "durationSeconds": 2612.66,
+      "bytes": 31352558,
+      "sha256": "b1d5edccaaebfc97c5c9ee6f7e05673b0610932d3b703904e39923d5a93417ba",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-006_pAO8GtMeOgs.mp3"
+    },
+    "XRXcZRusjlY": {
+      "durationSeconds": 2454.84,
+      "bytes": 29458672,
+      "sha256": "8669b1c6b0d6d6245c2998edf595f7cca5fd085e601b77f83f506ebd6037540c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_006-011_XRXcZRusjlY.mp3"
+    },
+    "AzHgYGUjQnU": {
+      "durationSeconds": 2505.0,
+      "bytes": 30060594,
+      "sha256": "bd709e591a71e475bed25d970f93dfa97396bd2c7a582e3e3bdf716bd2b1db2a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_011-013_AzHgYGUjQnU.mp3"
+    },
+    "F8NAMTrwyr8": {
+      "durationSeconds": 2637.36,
+      "bytes": 31648914,
+      "sha256": "fc137097f9d5c28e967b1bfba378f25b377f1254be13ad40c08171e06996c5f3",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_013-025_F8NAMTrwyr8.mp3"
+    },
+    "rMwVLSnlDtA": {
+      "durationSeconds": 2488.2,
+      "bytes": 29858994,
+      "sha256": "aa9cb61b7cf4310e5474ebd0ca8af425386de2b7730b254cdcfc01744e3f815d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_020-031_rMwVLSnlDtA.mp3"
+    },
+    "62E5BMVbWdI": {
+      "durationSeconds": 2699.69,
+      "bytes": 32396850,
+      "sha256": "05b996d8147b3a8dc26eeb58c14241e71999f4eb546c872fcdc62e447d04c098",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_031-036_62E5BMVbWdI.mp3"
+    },
+    "j4WDkA8lnoA": {
+      "durationSeconds": 2491.13,
+      "bytes": 29894130,
+      "sha256": "a79cfb09224c7f02415f886ab620f797d2559a8976379f720a471995dae168c9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_036-040_j4WDkA8lnoA.mp3"
+    },
+    "PJu1SrADt68": {
+      "durationSeconds": 2605.44,
+      "bytes": 31265874,
+      "sha256": "6951765b99126a37c77a8e11737bf2523e155d13e533664fe4e5332ae0c5ded1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_040-052_PJu1SrADt68.mp3"
+    },
+    "4SXa3actwQM": {
+      "durationSeconds": 2654.95,
+      "bytes": 31860018,
+      "sha256": "2dc60b63ef69cb80548d4bd472011070ae89dd20fcbe46ceaa944df4e35659db",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_051-065_4SXa3actwQM.mp3"
+    },
+    "AdSz9wFEcoQ": {
+      "durationSeconds": 2532.98,
+      "bytes": 30396403,
+      "sha256": "2eb0027cec380160616fe75a1ffa7c418a1667bf6f8891616983bf678d9aa14c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_065-073_AdSz9wFEcoQ.mp3"
+    },
+    "fHsHeGzz_Og": {
+      "durationSeconds": 2358.62,
+      "bytes": 28304083,
+      "sha256": "3b4703285a6e2151ea256f0ff8624d0a2c987faeae7a7dba4c197a80e34a50d0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_073-081_fHsHeGzz_Og.mp3"
+    },
+    "qepJ6ITUCL0": {
+      "durationSeconds": 608.69,
+      "bytes": 7304851,
+      "sha256": "89dcd60895da3ff0c31f3051aa17e3b72ba03299454d382fac95f2512763fd7b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_081-083_qepJ6ITUCL0.mp3"
+    }
+  },
+  "ayahs": {
+    "36:1": {
+      "file": "036-يس-youtube-v1/001.mp3",
+      "durationMs": 1044190,
+      "bytes": 12530881,
+      "sha256": "62334c728a1144f55f082153baf4694b8b630e5c965e50ec24a202528bbe8f07",
+      "sharedAyahs": [
+        "36:1",
+        "36:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pAO8GtMeOgs",
+          "start": 6.29,
+          "end": 1050.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:2": {
+      "file": "036-يس-youtube-v1/001.mp3",
+      "durationMs": 1044190,
+      "bytes": 12530881,
+      "sha256": "62334c728a1144f55f082153baf4694b8b630e5c965e50ec24a202528bbe8f07",
+      "sharedAyahs": [
+        "36:1",
+        "36:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pAO8GtMeOgs",
+          "start": 6.29,
+          "end": 1050.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:3": {
+      "file": "036-يس-youtube-v1/003.mp3",
+      "durationMs": 1070640,
+      "bytes": 12848253,
+      "sha256": "9b46427395a4e348c2e7a066adb6cb4d6a45eceaa8153fe3032360e7b866a853",
+      "sharedAyahs": [
+        "36:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pAO8GtMeOgs",
+          "start": 1050.48,
+          "end": 2121.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:4": {
+      "file": "036-يس-youtube-v1/004.mp3",
+      "durationMs": 296280,
+      "bytes": 3555933,
+      "sha256": "0f287d9682f576b730c2a8e0d2c46fe71d0ea3e0a5eb9f78d5e7335a238f38c1",
+      "sharedAyahs": [
+        "36:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pAO8GtMeOgs",
+          "start": 2121.08,
+          "end": 2417.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:5": {
+      "file": "036-يس-youtube-v1/005.mp3",
+      "durationMs": 55340,
+      "bytes": 664701,
+      "sha256": "6baf0b63b43eaecd258ada97425df7dc68160846c56062e81b7086f723d15e7f",
+      "sharedAyahs": [
+        "36:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pAO8GtMeOgs",
+          "start": 2417.34,
+          "end": 2472.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:6": {
+      "file": "036-يس-youtube-v1/006.mp3",
+      "durationMs": 1125290,
+      "bytes": 13504029,
+      "sha256": "d27e3dd456e87ef8e00dc4c5c98cccf7facaddb5331c224110ae56db45e83363",
+      "sharedAyahs": [
+        "36:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XRXcZRusjlY",
+          "start": 79.14,
+          "end": 1204.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:7": {
+      "file": "036-يس-youtube-v1/007.mp3",
+      "durationMs": 9170,
+      "bytes": 110589,
+      "sha256": "d9b903df907a188496b14746f2c528e96258ec4f9ffcc84bc0ae267d96c1d4c3",
+      "sharedAyahs": [
+        "36:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XRXcZRusjlY",
+          "start": 1204.41,
+          "end": 1213.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:8": {
+      "file": "036-يس-youtube-v1/008.mp3",
+      "durationMs": 542570,
+      "bytes": 6511389,
+      "sha256": "bbeb41ea09ce946608b2b777568a90c9c8e47eef1baf563cd23b889a04598597",
+      "sharedAyahs": [
+        "36:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XRXcZRusjlY",
+          "start": 1213.56,
+          "end": 1756.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:9": {
+      "file": "036-يس-youtube-v1/009.mp3",
+      "durationMs": 53140,
+      "bytes": 638205,
+      "sha256": "806659d6d8ef4165af91702af241a3efcf2c8dccddd865b291cd18e9a3fc0752",
+      "sharedAyahs": [
+        "36:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XRXcZRusjlY",
+          "start": 1756.09,
+          "end": 1809.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:10": {
+      "file": "036-يس-youtube-v1/010.mp3",
+      "durationMs": 190820,
+      "bytes": 2290463,
+      "sha256": "88164e6591371605aae9205d6e3a385756c94fb9a8feb1f5101fe3cfb18e9f3c",
+      "sharedAyahs": [
+        "36:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XRXcZRusjlY",
+          "start": 1809.2,
+          "end": 2000.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:11": {
+      "file": "036-يس-youtube-v1/011.mp3",
+      "durationMs": 451250,
+      "bytes": 5415551,
+      "sha256": "a766de608778659c89fdfed6a58a8f2713b031e5aa22d12e5950a9e1e9e761d6",
+      "sharedAyahs": [
+        "36:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XRXcZRusjlY",
+          "start": 2000.0,
+          "end": 2451.24
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:12": {
+      "file": "036-يس-youtube-v1/012.mp3",
+      "durationMs": 727320,
+      "bytes": 8728415,
+      "sha256": "66facebeed510864b8fba15ef4a4906c2d12d5d4603e43a8f7d16f6ac1a7f6ec",
+      "sharedAyahs": [
+        "36:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AzHgYGUjQnU",
+          "start": 1544.81,
+          "end": 2272.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:13": {
+      "file": "036-يس-youtube-v1/013.mp3",
+      "durationMs": 270500,
+      "bytes": 3246623,
+      "sha256": "c5522fd555c4eae075c9c9565380bb894be364a4d1c66125a5d99d04b17edb46",
+      "sharedAyahs": [
+        "36:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 22.68,
+          "end": 293.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:14": {
+      "file": "036-يس-youtube-v1/014.mp3",
+      "durationMs": 309890,
+      "bytes": 3719231,
+      "sha256": "bd3b5124e3e4f473126d31e2845dcd193bdf089e12e37b8a7f9db21611d85e2f",
+      "sharedAyahs": [
+        "36:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 293.16,
+          "end": 603.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:15": {
+      "file": "036-يس-youtube-v1/015.mp3",
+      "durationMs": 139750,
+      "bytes": 1677599,
+      "sha256": "18ea7be43e90f2cfef9e4ba6427c41a617a2dca570a6bbd6a42ac4c4b2929c9d",
+      "sharedAyahs": [
+        "36:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 603.02,
+          "end": 742.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:16": {
+      "file": "036-يس-youtube-v1/016.mp3",
+      "durationMs": 130660,
+      "bytes": 1568447,
+      "sha256": "050ac01e9eb0fec89d3085a4115871dfff44bee77510f43ce45bee58e9b82c28",
+      "sharedAyahs": [
+        "36:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 742.73,
+          "end": 873.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:17": {
+      "file": "036-يس-youtube-v1/017.mp3",
+      "durationMs": 126650,
+      "bytes": 1520351,
+      "sha256": "327c056e351fe648887466958c765d695fac5e3dbdd956d1217614e7f322b41e",
+      "sharedAyahs": [
+        "36:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 873.38,
+          "end": 1000.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:18": {
+      "file": "036-يس-youtube-v1/018.mp3",
+      "durationMs": 366890,
+      "bytes": 4403231,
+      "sha256": "63ae8879de94905ede052d5c893711bb86f89687c69946651803befdbcb7d4f2",
+      "sharedAyahs": [
+        "36:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 1000.0,
+          "end": 1366.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:19": {
+      "file": "036-يس-youtube-v1/019.mp3",
+      "durationMs": 212260,
+      "bytes": 2547647,
+      "sha256": "5c88f6e1681734e40ee7b17d65fd87ee2c5ad555b1238fa3b5687444b271b83e",
+      "sharedAyahs": [
+        "36:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 1366.86,
+          "end": 1579.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:20": {
+      "file": "036-يس-youtube-v1/020.mp3",
+      "durationMs": 286940,
+      "bytes": 3443903,
+      "sha256": "8075e1fcd98bb5ebc694d2b391c207c9a1f6e23a1d5a5540442ef3bbfadd7432",
+      "sharedAyahs": [
+        "36:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 1579.1,
+          "end": 1866.01
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:21": {
+      "file": "036-يس-youtube-v1/021.mp3",
+      "durationMs": 186000,
+      "bytes": 2232575,
+      "sha256": "415866d29e6f387ec710a8cd6162db899df1482163da739904cbfe33c7b70e3d",
+      "sharedAyahs": [
+        "36:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 1866.01,
+          "end": 2052.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:22": {
+      "file": "036-يس-youtube-v1/022.mp3",
+      "durationMs": 522500,
+      "bytes": 6270623,
+      "sha256": "b2398c4fc6d066b18d67e7e34bb49a9caa97694fe3d82f5078e45ca7e62eaac2",
+      "sharedAyahs": [
+        "36:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 2052.0,
+          "end": 2574.46
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:23": {
+      "file": "036-يس-youtube-v1/023.mp3",
+      "durationMs": 10630,
+      "bytes": 128159,
+      "sha256": "d34229d39f787b8888da80e844c8abe29381bb7c4fcd843ca7af757181771548",
+      "sharedAyahs": [
+        "36:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 2574.46,
+          "end": 2585.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:24": {
+      "file": "036-يس-youtube-v1/024.mp3",
+      "durationMs": 2330,
+      "bytes": 28511,
+      "sha256": "dfcb2721095f22679a4026353e4a54fd9ac1bd48f8b2916c04ae707edf5dba9c",
+      "sharedAyahs": [
+        "36:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 2585.08,
+          "end": 2587.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:25": {
+      "file": "036-يس-youtube-v1/025.mp3",
+      "durationMs": 36670,
+      "bytes": 440639,
+      "sha256": "216d4baf95e8644ed670e9162d6d03e9eae21ef2ded2171c4ea6688bf1c754ab",
+      "sharedAyahs": [
+        "36:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "F8NAMTrwyr8",
+          "start": 2587.38,
+          "end": 2624.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:26": {
+      "file": "036-يس-youtube-v1/026.mp3",
+      "durationMs": 25440,
+      "bytes": 305855,
+      "sha256": "3aa41850c95496cb94927d20ad74cdf7604af77a03bc592ec79001e3b0ae9147",
+      "sharedAyahs": [
+        "36:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rMwVLSnlDtA",
+          "start": 1411.23,
+          "end": 1436.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:27": {
+      "file": "036-يس-youtube-v1/027.mp3",
+      "durationMs": 100030,
+      "bytes": 1200959,
+      "sha256": "ca5e058ccb2eea6fd68f329a929d5bc58f8d09437a9819791d069752790c067d",
+      "sharedAyahs": [
+        "36:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rMwVLSnlDtA",
+          "start": 1436.65,
+          "end": 1536.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:28": {
+      "file": "036-يس-youtube-v1/028.mp3",
+      "durationMs": 51220,
+      "bytes": 615167,
+      "sha256": "cc33471f66de535757cf99fd7821cce532dc55c16cc9ff5ff851cb4e760dfb72",
+      "sharedAyahs": [
+        "36:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rMwVLSnlDtA",
+          "start": 1536.66,
+          "end": 1587.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:29": {
+      "file": "036-يس-youtube-v1/029.mp3",
+      "durationMs": 524740,
+      "bytes": 6297407,
+      "sha256": "4fb24446e5043524c9ad0fc059d61042f069c1d026908b71c02ddf0ff0c95d27",
+      "sharedAyahs": [
+        "36:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rMwVLSnlDtA",
+          "start": 1587.86,
+          "end": 2112.57
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:30": {
+      "file": "036-يس-youtube-v1/030.mp3",
+      "durationMs": 15310,
+      "bytes": 184319,
+      "sha256": "bd8edaf4e5999a0032a0a3a247dd68be8bca1e4314256d272cb77ac47b8e6801",
+      "sharedAyahs": [
+        "36:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rMwVLSnlDtA",
+          "start": 2112.57,
+          "end": 2127.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:31": {
+      "file": "036-يس-youtube-v1/031.mp3",
+      "durationMs": 359860,
+      "bytes": 4318847,
+      "sha256": "e838e51e885f989c6f55e940ffd3d1089273bf79b2cf24847734bc4038161e0a",
+      "sharedAyahs": [
+        "36:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rMwVLSnlDtA",
+          "start": 2127.86,
+          "end": 2487.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:32": {
+      "file": "036-يس-youtube-v1/032.mp3",
+      "durationMs": 535680,
+      "bytes": 6428735,
+      "sha256": "dccbd55c95e9c7defde21ef73179628d27b13d15fc297da22e8cd32663ecae46",
+      "sharedAyahs": [
+        "36:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "62E5BMVbWdI",
+          "start": 116.41,
+          "end": 652.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:33": {
+      "file": "036-يس-youtube-v1/033.mp3",
+      "durationMs": 730850,
+      "bytes": 8770751,
+      "sha256": "dd99bfc51c400cc0de40bedaa5378594c08f7e4e6460779a55cee277989b2789",
+      "sharedAyahs": [
+        "36:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "62E5BMVbWdI",
+          "start": 652.08,
+          "end": 1382.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:34": {
+      "file": "036-يس-youtube-v1/034.mp3",
+      "durationMs": 707660,
+      "bytes": 8492543,
+      "sha256": "fc282ad88a1457c8bb9debedf1e075b47f5de0fb982f3480428642f08e9892ea",
+      "sharedAyahs": [
+        "36:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "62E5BMVbWdI",
+          "start": 1382.9,
+          "end": 2090.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:35": {
+      "file": "036-يس-youtube-v1/035.mp3",
+      "durationMs": 309480,
+      "bytes": 3714335,
+      "sha256": "f65f4df5fd917373abb06217db92aacca35abc98bb0a0fa91046b09ebc37c456",
+      "sharedAyahs": [
+        "36:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "62E5BMVbWdI",
+          "start": 2090.54,
+          "end": 2400.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:36": {
+      "file": "036-يس-youtube-v1/036.mp3",
+      "durationMs": 295390,
+      "bytes": 3545279,
+      "sha256": "289ab14ed188a31ac35c15614dd9d71dc172301b453a85d6ebb7a9dd8ea7805a",
+      "sharedAyahs": [
+        "36:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "62E5BMVbWdI",
+          "start": 2400.0,
+          "end": 2695.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:37": {
+      "file": "036-يس-youtube-v1/037.mp3",
+      "durationMs": 81940,
+      "bytes": 983807,
+      "sha256": "e6fb73efb31327111389a3c894435d4fdf01f7bedbcdc8c47039d989efb8ef7c",
+      "sharedAyahs": [
+        "36:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j4WDkA8lnoA",
+          "start": 1335.1,
+          "end": 1417.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:38": {
+      "file": "036-يس-youtube-v1/038.mp3",
+      "durationMs": 382990,
+      "bytes": 4596479,
+      "sha256": "ae26eff1420f35fcbd57fac14a97191f6eec15308a78c1a96581089c1bd1d371",
+      "sharedAyahs": [
+        "36:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j4WDkA8lnoA",
+          "start": 1417.02,
+          "end": 1800.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:39": {
+      "file": "036-يس-youtube-v1/039.mp3",
+      "durationMs": 542110,
+      "bytes": 6505919,
+      "sha256": "884232a60c4c9b54b20712eb2d39ea95fe763814756939b950b71f4aeba8e531",
+      "sharedAyahs": [
+        "36:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j4WDkA8lnoA",
+          "start": 1800.0,
+          "end": 2342.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:40": {
+      "file": "036-يس-youtube-v1/040.mp3",
+      "durationMs": 148920,
+      "bytes": 1787615,
+      "sha256": "745340fc7ed1a5f86700bf3d4a2b6a8e1c21d9cc4da605659c09f45d7d8f0021",
+      "sharedAyahs": [
+        "36:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j4WDkA8lnoA",
+          "start": 2342.08,
+          "end": 2490.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:41": {
+      "file": "036-يس-youtube-v1/041.mp3",
+      "durationMs": 306120,
+      "bytes": 3674015,
+      "sha256": "83dd6d3333361fa10f3f87dd61f9ab813b7377a7caa6dd29dee7ba66a2b4cf57",
+      "sharedAyahs": [
+        "36:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 952.74,
+          "end": 1258.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:42": {
+      "file": "036-يس-youtube-v1/042.mp3",
+      "durationMs": 80060,
+      "bytes": 961343,
+      "sha256": "d8f68cd7d92e4b9fbf1309ecc820be1b48507b1080a2bad078db809eb908c422",
+      "sharedAyahs": [
+        "36:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 1258.84,
+          "end": 1338.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:43": {
+      "file": "036-يس-youtube-v1/043.mp3",
+      "durationMs": 345580,
+      "bytes": 4147487,
+      "sha256": "376a18c01eb5a1317f5191a5b2eb6a7c06c05715e8473d5173f21e9557ebde1a",
+      "sharedAyahs": [
+        "36:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 1338.87,
+          "end": 1684.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:44": {
+      "file": "036-يس-youtube-v1/044.mp3",
+      "durationMs": 4680,
+      "bytes": 56735,
+      "sha256": "026bf6181253b95db937b052e9e26c2480df502f02e6176df1b6e5eb08b6c860",
+      "sharedAyahs": [
+        "36:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 1684.42,
+          "end": 1689.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:45": {
+      "file": "036-يس-youtube-v1/045.mp3",
+      "durationMs": 177820,
+      "bytes": 2134367,
+      "sha256": "a7079557ec60b46dea9f2caf735b3aa788eae77465cec35af594d3189288a4af",
+      "sharedAyahs": [
+        "36:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 1689.08,
+          "end": 1866.88
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:46": {
+      "file": "036-يس-youtube-v1/046.mp3",
+      "durationMs": 137300,
+      "bytes": 1648223,
+      "sha256": "1054fb7ab281e93831132eb5a7b8041cd6fcca0513b58b9401dbea0affa5bd92",
+      "sharedAyahs": [
+        "36:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 1866.88,
+          "end": 2004.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:47": {
+      "file": "036-يس-youtube-v1/047.mp3",
+      "durationMs": 166370,
+      "bytes": 1996991,
+      "sha256": "9c856067363b9798ca17b7e4b749ad4a4824ebdc26b1cb5d81635842c746cfd3",
+      "sharedAyahs": [
+        "36:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 2004.16,
+          "end": 2170.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:48": {
+      "file": "036-يس-youtube-v1/048.mp3",
+      "durationMs": 7460,
+      "bytes": 90143,
+      "sha256": "19c7add9035730231d50adc086d04685e94102349024a22e85c3cca7c625f8dd",
+      "sharedAyahs": [
+        "36:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 2170.5,
+          "end": 2177.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:49": {
+      "file": "036-يس-youtube-v1/049.mp3",
+      "durationMs": 216100,
+      "bytes": 2593727,
+      "sha256": "a9e2065a112057067265d9bb47f583bbd2c2dc7e69f06ef411d642866eddebdb",
+      "sharedAyahs": [
+        "36:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 2177.93,
+          "end": 2394.01
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:50": {
+      "file": "036-يس-youtube-v1/050.mp3",
+      "durationMs": 5900,
+      "bytes": 71423,
+      "sha256": "7e2068b3394cd1a480d63ea098dd01c2833e360326286d95f576a8572a72d6b9",
+      "sharedAyahs": [
+        "36:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 2394.01,
+          "end": 2399.89
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:51": {
+      "file": "036-يس-youtube-v1/051.mp3",
+      "durationMs": 38810,
+      "bytes": 466271,
+      "sha256": "f2512072abc2f8673f2c6f83b7dbcfbb39b9fb1e3dc47c1d5ddeafe1bef2d605",
+      "sharedAyahs": [
+        "36:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 6.1,
+          "end": 44.89
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:52": {
+      "file": "036-يس-youtube-v1/052.mp3",
+      "durationMs": 329180,
+      "bytes": 3950783,
+      "sha256": "d4838c2295151a51bb785e63530522b74a62fb6ad8f09851a1f169a7791aaf9e",
+      "sharedAyahs": [
+        "36:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 44.89,
+          "end": 374.06
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:53": {
+      "file": "036-يس-youtube-v1/053.mp3",
+      "durationMs": 69790,
+      "bytes": 838079,
+      "sha256": "5b6d9e11b025de0ccbc93de9b40f5f608d55731fa528d00fdeb3cb2378d8fbe5",
+      "sharedAyahs": [
+        "36:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 374.06,
+          "end": 443.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:54": {
+      "file": "036-يس-youtube-v1/054.mp3",
+      "durationMs": 68040,
+      "bytes": 817055,
+      "sha256": "74e3bc2eb1b797f9005cef06c0a4655f5f8c67c9816c721133072fed7422b529",
+      "sharedAyahs": [
+        "36:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 443.83,
+          "end": 511.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:55": {
+      "file": "036-يس-youtube-v1/055.mp3",
+      "durationMs": 183700,
+      "bytes": 2204927,
+      "sha256": "db685a8ca2044db1de9e194e449b0a8f2b24ff7c6003eb8f80165745c29249f0",
+      "sharedAyahs": [
+        "36:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 511.83,
+          "end": 695.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:56": {
+      "file": "036-يس-youtube-v1/056.mp3",
+      "durationMs": 272740,
+      "bytes": 3273407,
+      "sha256": "9dc41de7a0c8d6cb7b923bd8ac13efdaca73267df11e41efc0f7407bfe04c06f",
+      "sharedAyahs": [
+        "36:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 695.5,
+          "end": 968.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:57": {
+      "file": "036-يس-youtube-v1/057.mp3",
+      "durationMs": 128540,
+      "bytes": 1543103,
+      "sha256": "2154cceb8628406954075cfed9296c5af7f29eae8d2f5a40458f24aa56ef80e7",
+      "sharedAyahs": [
+        "36:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 968.21,
+          "end": 1096.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:58": {
+      "file": "036-يس-youtube-v1/058.mp3",
+      "durationMs": 338780,
+      "bytes": 4065983,
+      "sha256": "003f471bb1acdb0e460ebc74826dd56ddfe628eac7ec3e9b61a0e7be242ee51d",
+      "sharedAyahs": [
+        "36:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 1096.74,
+          "end": 1435.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:59": {
+      "file": "036-يس-youtube-v1/059.mp3",
+      "durationMs": 242540,
+      "bytes": 2911103,
+      "sha256": "643777fec3dcfde347f0f6aeb39034d4fcea6d0e911cfb774d378a2d68e3082a",
+      "sharedAyahs": [
+        "36:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 1435.51,
+          "end": 1678.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:60": {
+      "file": "036-يس-youtube-v1/060.mp3",
+      "durationMs": 417260,
+      "bytes": 5007743,
+      "sha256": "f82b5e09256a818dc4b64700d7989ffc7d379715aed22d3f70338a5a56144463",
+      "sharedAyahs": [
+        "36:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 1678.02,
+          "end": 2095.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:61": {
+      "file": "036-يس-youtube-v1/061.mp3",
+      "durationMs": 207050,
+      "bytes": 2485151,
+      "sha256": "8b2fa7a222096c34d4e066200f0df31c76e0214d927338aa9bb19f3eb088fcd7",
+      "sharedAyahs": [
+        "36:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 2095.26,
+          "end": 2302.28
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:62": {
+      "file": "036-يس-youtube-v1/062.mp3",
+      "durationMs": 182400,
+      "bytes": 2189375,
+      "sha256": "e6d880a33cf0d8fd93ae0ea90142a76cc6b88f0f08ac4babd8cf3f0b7d674309",
+      "sharedAyahs": [
+        "36:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 2302.28,
+          "end": 2484.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:63": {
+      "file": "036-يس-youtube-v1/063.mp3",
+      "durationMs": 65350,
+      "bytes": 784799,
+      "sha256": "048572197ac1a0689a534997267842813d769e2108513dfdf28231067050aeb7",
+      "sharedAyahs": [
+        "36:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 2484.66,
+          "end": 2550.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:64": {
+      "file": "036-يس-youtube-v1/064.mp3",
+      "durationMs": 90740,
+      "bytes": 1089503,
+      "sha256": "8103ee2400951f0ebc3404976ddd955ecb37fa54b17a3252559266b854d98587",
+      "sharedAyahs": [
+        "36:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4SXa3actwQM",
+          "start": 2550.0,
+          "end": 2640.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:65": {
+      "file": "036-يس-youtube-v1/065.mp3",
+      "durationMs": 361610,
+      "bytes": 4339871,
+      "sha256": "c5aa695f856461c12fea28f7b1910467e97aa9dc04f910b59a4e825150accfac",
+      "sharedAyahs": [
+        "36:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 1.1,
+          "end": 362.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:66": {
+      "file": "036-يس-youtube-v1/066.mp3",
+      "durationMs": 54170,
+      "bytes": 650591,
+      "sha256": "1fb0fe89b3e0af6f2a29e92f4a694f3f2a093fc268c0b4516f5eacc9d724b5f5",
+      "sharedAyahs": [
+        "36:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 362.68,
+          "end": 416.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:67": {
+      "file": "036-يس-youtube-v1/067.mp3",
+      "durationMs": 224980,
+      "bytes": 2700287,
+      "sha256": "2fdccffdd8b2c81ba908f1741ca4d6299a37d8f35450db6f83ca71c65feca380",
+      "sharedAyahs": [
+        "36:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 416.83,
+          "end": 641.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:68": {
+      "file": "036-يس-youtube-v1/068.mp3",
+      "durationMs": 696600,
+      "bytes": 8359775,
+      "sha256": "3531fb1661dd0526048997298afa74313bf7b0980b9cc34d3f45c7cf8669d80d",
+      "sharedAyahs": [
+        "36:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 641.77,
+          "end": 1338.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:69": {
+      "file": "036-يس-youtube-v1/069.mp3",
+      "durationMs": 568870,
+      "bytes": 6827039,
+      "sha256": "bc11164ae535dd33aab789af966ef2cd7bee20c418de8b42c70c555102675443",
+      "sharedAyahs": [
+        "36:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 1338.36,
+          "end": 1907.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:70": {
+      "file": "036-يس-youtube-v1/070.mp3",
+      "durationMs": 290160,
+      "bytes": 3482495,
+      "sha256": "aa66c9ece716894237fc73d85f429e955ab45fb52c9ebe1a6038f0edb12dca2e",
+      "sharedAyahs": [
+        "36:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 1907.19,
+          "end": 2197.33
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:71": {
+      "file": "036-يس-youtube-v1/071.mp3",
+      "durationMs": 218900,
+      "bytes": 2627423,
+      "sha256": "f8e9763976ca576fc90607d437e574e6b623fa980e2fb1d929a76839ed1939e6",
+      "sharedAyahs": [
+        "36:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 2197.33,
+          "end": 2416.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:72": {
+      "file": "036-يس-youtube-v1/072.mp3",
+      "durationMs": 88420,
+      "bytes": 1061567,
+      "sha256": "391f1f236e4e5795377288cc536b92f1f1c6f469bea0d39c21062ef468a37727",
+      "sharedAyahs": [
+        "36:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 2416.21,
+          "end": 2504.61
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:73": {
+      "file": "036-يس-youtube-v1/073.mp3",
+      "durationMs": 25200,
+      "bytes": 302975,
+      "sha256": "825ddf5da291622dfc3e0206252f52a4f3ff835fc77e1f88c56e226ce726dbd6",
+      "sharedAyahs": [
+        "36:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AdSz9wFEcoQ",
+          "start": 2504.61,
+          "end": 2529.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:74": {
+      "file": "036-يس-youtube-v1/074.mp3",
+      "durationMs": 262270,
+      "bytes": 3147839,
+      "sha256": "cbb206ee2383a35357539fae82b7835928227742397708e7d0702258fcce64d8",
+      "sharedAyahs": [
+        "36:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fHsHeGzz_Og",
+          "start": 7.76,
+          "end": 270.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:75": {
+      "file": "036-يس-youtube-v1/075.mp3",
+      "durationMs": 253490,
+      "bytes": 3042431,
+      "sha256": "cda1963ca93eb116410c69a68de824681b7b4572e87ac7560a3d2cc4e62df52a",
+      "sharedAyahs": [
+        "36:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fHsHeGzz_Og",
+          "start": 270.02,
+          "end": 523.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:76": {
+      "file": "036-يس-youtube-v1/076.mp3",
+      "durationMs": 364940,
+      "bytes": 4379903,
+      "sha256": "f0d5b7ec56b7cb8444951f645a84b3724b34f363e0730f8580540cffab9439f9",
+      "sharedAyahs": [
+        "36:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fHsHeGzz_Og",
+          "start": 523.48,
+          "end": 888.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:77": {
+      "file": "036-يس-youtube-v1/077.mp3",
+      "durationMs": 552050,
+      "bytes": 6625151,
+      "sha256": "e27877ebfd47a1b68e66397bf0fc015d1f3daa9c7ad5a1ecb1930da4f91cc5f4",
+      "sharedAyahs": [
+        "36:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fHsHeGzz_Og",
+          "start": 888.4,
+          "end": 1440.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:78": {
+      "file": "036-يس-youtube-v1/078.mp3",
+      "durationMs": 428830,
+      "bytes": 5146559,
+      "sha256": "0df532368ed69ad2381997465de5ecca0e14ed14172cf787e88a9d9726291f9e",
+      "sharedAyahs": [
+        "36:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fHsHeGzz_Og",
+          "start": 1440.42,
+          "end": 1869.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:79": {
+      "file": "036-يس-youtube-v1/079.mp3",
+      "durationMs": 163060,
+      "bytes": 1957247,
+      "sha256": "e6935624510d80ba912604467dec6138b3af3c2ca72a5d72f7caa9094d1a8293",
+      "sharedAyahs": [
+        "36:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fHsHeGzz_Og",
+          "start": 1869.22,
+          "end": 2032.27
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:80": {
+      "file": "036-يس-youtube-v1/080.mp3",
+      "durationMs": 27380,
+      "bytes": 329183,
+      "sha256": "c65905e58ae10f70b888e994a6d6c559ade62bc327327790ea2b38c03ec8c1a8",
+      "sharedAyahs": [
+        "36:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fHsHeGzz_Og",
+          "start": 2032.27,
+          "end": 2059.62
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:81": {
+      "file": "036-يس-youtube-v1/081.mp3",
+      "durationMs": 294910,
+      "bytes": 3539519,
+      "sha256": "683c8c4cc416b0cddfdc1543b9892ffe9c26bc7c8134dd811a5f94e55ac11acd",
+      "sharedAyahs": [
+        "36:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fHsHeGzz_Og",
+          "start": 2059.62,
+          "end": 2354.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:82": {
+      "file": "036-يس-youtube-v1/082.mp3",
+      "durationMs": 296950,
+      "bytes": 3563999,
+      "sha256": "ed1eabc6c441e9971bcca0867256e2a3615c057fbd68a86a7eba3ea618543e47",
+      "sharedAyahs": [
+        "36:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qepJ6ITUCL0",
+          "start": 3.06,
+          "end": 300.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "36:83": {
+      "file": "036-يس-youtube-v1/083.mp3",
+      "durationMs": 302810,
+      "bytes": 3634271,
+      "sha256": "a0b76238a6e0fc39eea7361912d7d719622da52d11be9b4f33c2c6f2ecebf978",
+      "sharedAyahs": [
+        "36:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qepJ6ITUCL0",
+          "start": 300.0,
+          "end": 602.77
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "036-يس-youtube-v1/other-04.mp3",
+      "kind": "other",
+      "durationMs": 138620,
+      "bytes": 1664054,
+      "sha256": "882de0762640b9ecf66544dd46c0d0953fbabfc2195ee728e3fd4beb5546b4dd",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "pAO8GtMeOgs",
+          "start": 2472.65,
+          "end": 2611.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "036-يس-youtube-v1/other-05.mp3",
+      "kind": "other",
+      "durationMs": 78860,
+      "bytes": 946934,
+      "sha256": "8d9d2b3e195956276ca0da791a3b551151d8352c92a3b977a919de00e9d4da47",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "XRXcZRusjlY",
+          "start": 0.3,
+          "end": 79.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "036-يس-youtube-v1/other-12.mp3",
+      "kind": "other",
+      "durationMs": 1518500,
+      "bytes": 18222614,
+      "sha256": "87a39fa13f3a82c93eda40f7be58738188362fbb95a2d21ace5991380cb0ed49",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "AzHgYGUjQnU",
+          "start": 26.33,
+          "end": 1544.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "036-يس-youtube-v1/other-14.mp3",
+      "kind": "other",
+      "durationMs": 232660,
+      "bytes": 2792438,
+      "sha256": "8a59a9a0063b5f13c8eb82af1a3333ed852b247f8f2a1bda048fd6dfcd995d6f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "AzHgYGUjQnU",
+          "start": 2272.12,
+          "end": 2504.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "036-يس-youtube-v1/other-28.mp3",
+      "kind": "other",
+      "durationMs": 1405420,
+      "bytes": 16865558,
+      "sha256": "f8f21c478ce541c41b5e67fc28f8e66f4803b724f1d17feb64c17afb6b2239bb",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "rMwVLSnlDtA",
+          "start": 5.84,
+          "end": 1411.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "036-يس-youtube-v1/other-35.mp3",
+      "kind": "other",
+      "durationMs": 107900,
+      "bytes": 1295414,
+      "sha256": "4cfe91ff4b5793ddbeb7f8e3601f3b8bff80c95691eda0068ff0737af32cc093",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "62E5BMVbWdI",
+          "start": 8.53,
+          "end": 116.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "036-يس-youtube-v1/other-41.mp3",
+      "kind": "other",
+      "durationMs": 1333200,
+      "bytes": 15998966,
+      "sha256": "b2cb90e7b489bd451933d5565a6857686912904179f9645742c3b0bdb4e7f832",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "j4WDkA8lnoA",
+          "start": 1.94,
+          "end": 1335.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "036-يس-youtube-v1/other-46.mp3",
+      "kind": "other",
+      "durationMs": 951720,
+      "bytes": 11421206,
+      "sha256": "dedee1508fcadd32bf48a84668719445c2cefbfac32292ec0f5755bd121ba80c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 1.04,
+          "end": 952.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "036-يس-youtube-v1/other-57.mp3",
+      "kind": "other",
+      "durationMs": 202010,
+      "bytes": 2424662,
+      "sha256": "8db0d31b522009c3ef514c8ddb002f5861b1e6b6906346511f7146679ef9df4f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "PJu1SrADt68",
+          "start": 2399.89,
+          "end": 2601.88
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL73024CF8ED1D1CD8",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "yasin-warning-heedless-intro",
+      "title": "الحكمة من بعثة الرسل وإنذار الغافلين",
+      "file": "036-يس-youtube-v1/other-04.mp3",
+      "startMs": 0,
+      "endMs": 138620
+    },
+    {
+      "id": "yasin-warning-ancestors-recap",
+      "title": "بيان سنة الله في إنذار من سبقت عليهم كلمة العذاب",
+      "file": "036-يس-youtube-v1/other-05.mp3",
+      "startMs": 0,
+      "endMs": 78860
+    },
+    {
+      "id": "yasin-following-reminder-in-depth",
+      "title": "أثر اتباع الذكر والخشية بالغيب في نيل المغفرة والأجر الكريم",
+      "file": "036-يس-youtube-v1/other-12.mp3",
+      "startMs": 0,
+      "endMs": 1518500
+    },
+    {
+      "id": "yasin-city-messengers-intro",
+      "title": "ضرب المثل بأصحاب القرية ومجيء المرسلين بالدعوة",
+      "file": "036-يس-youtube-v1/other-14.mp3",
+      "startMs": 0,
+      "endMs": 232660
+    },
+    {
+      "id": "yasin-believer-courage-and-martyrdom",
+      "title": "شجاعة مؤمن آل ياسين في الصدع بالحق وثباته أمام قومه",
+      "file": "036-يس-youtube-v1/other-28.mp3",
+      "startMs": 0,
+      "endMs": 1405420
+    },
+    {
+      "id": "yasin-destroyed-nations-recap",
+      "title": "العبرة بمصائر الأمم المكذبة وحتمية الرجوع إلى الله",
+      "file": "036-يس-youtube-v1/other-35.mp3",
+      "startMs": 0,
+      "endMs": 107900
+    },
+    {
+      "id": "yasin-universal-pairs-deep-dive",
+      "title": "عظمة خلق الأزواج في النبات والأنفس وما لا يعلمه البشر",
+      "file": "036-يس-youtube-v1/other-41.mp3",
+      "startMs": 0,
+      "endMs": 1333200
+    },
+    {
+      "id": "yasin-cosmic-order-and-orbits",
+      "title": "إعجاز النظام الكوني في حركة الشمس والقمر وتعاقب الليل والنهار",
+      "file": "036-يس-youtube-v1/other-46.mp3",
+      "startMs": 0,
+      "endMs": 951720
+    },
+    {
+      "id": "yasin-horn-blowing-intro",
+      "title": "مشاهد النفخ في الصور وخروج الخلائق من الأجداث إلى ربهم",
+      "file": "036-يس-youtube-v1/other-57.mp3",
+      "startMs": 0,
+      "endMs": 202010
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "pAO8GtMeOgs",
+      "XRXcZRusjlY",
+      "AzHgYGUjQnU",
+      "F8NAMTrwyr8",
+      "rMwVLSnlDtA",
+      "62E5BMVbWdI",
+      "j4WDkA8lnoA",
+      "PJu1SrADt68",
+      "4SXa3actwQM",
+      "AdSz9wFEcoQ",
+      "fHsHeGzz_Og",
+      "qepJ6ITUCL0"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "036-يس-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1044190,
+        "durationMs": 1044190,
+        "recordingDurationMs": 1044190,
+        "bytes": 12530881,
+        "sha256": "62334c728a1144f55f082153baf4694b8b630e5c965e50ec24a202528bbe8f07",
+        "sharedAyahs": [
+          "36:1",
+          "36:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pAO8GtMeOgs",
+            "start": 6.29,
+            "end": 1050.48
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 1070640,
+        "durationMs": 1070640,
+        "recordingDurationMs": 1070640,
+        "bytes": 12848253,
+        "sha256": "9b46427395a4e348c2e7a066adb6cb4d6a45eceaa8153fe3032360e7b866a853",
+        "sharedAyahs": [
+          "36:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pAO8GtMeOgs",
+            "start": 1050.48,
+            "end": 2121.08
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 296280,
+        "durationMs": 296280,
+        "recordingDurationMs": 296280,
+        "bytes": 3555933,
+        "sha256": "0f287d9682f576b730c2a8e0d2c46fe71d0ea3e0a5eb9f78d5e7335a238f38c1",
+        "sharedAyahs": [
+          "36:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pAO8GtMeOgs",
+            "start": 2121.08,
+            "end": 2417.34
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 55340,
+        "durationMs": 55340,
+        "recordingDurationMs": 55340,
+        "bytes": 664701,
+        "sha256": "6baf0b63b43eaecd258ada97425df7dc68160846c56062e81b7086f723d15e7f",
+        "sharedAyahs": [
+          "36:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pAO8GtMeOgs",
+            "start": 2417.34,
+            "end": 2472.65
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-04.mp3",
+        "startMs": 0,
+        "endMs": 138620,
+        "durationMs": 138620,
+        "recordingDurationMs": 138620,
+        "bytes": 1664054,
+        "sha256": "882de0762640b9ecf66544dd46c0d0953fbabfc2195ee728e3fd4beb5546b4dd",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "pAO8GtMeOgs",
+            "start": 2472.65,
+            "end": 2611.25
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-05.mp3",
+        "startMs": 0,
+        "endMs": 78860,
+        "durationMs": 78860,
+        "recordingDurationMs": 78860,
+        "bytes": 946934,
+        "sha256": "8d9d2b3e195956276ca0da791a3b551151d8352c92a3b977a919de00e9d4da47",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "XRXcZRusjlY",
+            "start": 0.3,
+            "end": 79.14
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 1125290,
+        "durationMs": 1125290,
+        "recordingDurationMs": 1125290,
+        "bytes": 13504029,
+        "sha256": "d27e3dd456e87ef8e00dc4c5c98cccf7facaddb5331c224110ae56db45e83363",
+        "sharedAyahs": [
+          "36:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XRXcZRusjlY",
+            "start": 79.14,
+            "end": 1204.41
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 9170,
+        "durationMs": 9170,
+        "recordingDurationMs": 9170,
+        "bytes": 110589,
+        "sha256": "d9b903df907a188496b14746f2c528e96258ec4f9ffcc84bc0ae267d96c1d4c3",
+        "sharedAyahs": [
+          "36:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XRXcZRusjlY",
+            "start": 1204.41,
+            "end": 1213.56
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 542570,
+        "durationMs": 542570,
+        "recordingDurationMs": 542570,
+        "bytes": 6511389,
+        "sha256": "bbeb41ea09ce946608b2b777568a90c9c8e47eef1baf563cd23b889a04598597",
+        "sharedAyahs": [
+          "36:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XRXcZRusjlY",
+            "start": 1213.56,
+            "end": 1756.09
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 53140,
+        "durationMs": 53140,
+        "recordingDurationMs": 53140,
+        "bytes": 638205,
+        "sha256": "806659d6d8ef4165af91702af241a3efcf2c8dccddd865b291cd18e9a3fc0752",
+        "sharedAyahs": [
+          "36:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XRXcZRusjlY",
+            "start": 1756.09,
+            "end": 1809.2
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 190820,
+        "durationMs": 190820,
+        "recordingDurationMs": 190820,
+        "bytes": 2290463,
+        "sha256": "88164e6591371605aae9205d6e3a385756c94fb9a8feb1f5101fe3cfb18e9f3c",
+        "sharedAyahs": [
+          "36:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XRXcZRusjlY",
+            "start": 1809.2,
+            "end": 2000.0
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 451250,
+        "durationMs": 451250,
+        "recordingDurationMs": 451250,
+        "bytes": 5415551,
+        "sha256": "a766de608778659c89fdfed6a58a8f2713b031e5aa22d12e5950a9e1e9e761d6",
+        "sharedAyahs": [
+          "36:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XRXcZRusjlY",
+            "start": 2000.0,
+            "end": 2451.24
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-12.mp3",
+        "startMs": 0,
+        "endMs": 1518500,
+        "durationMs": 1518500,
+        "recordingDurationMs": 1518500,
+        "bytes": 18222614,
+        "sha256": "87a39fa13f3a82c93eda40f7be58738188362fbb95a2d21ace5991380cb0ed49",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "AzHgYGUjQnU",
+            "start": 26.33,
+            "end": 1544.81
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 727320,
+        "durationMs": 727320,
+        "recordingDurationMs": 727320,
+        "bytes": 8728415,
+        "sha256": "66facebeed510864b8fba15ef4a4906c2d12d5d4603e43a8f7d16f6ac1a7f6ec",
+        "sharedAyahs": [
+          "36:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AzHgYGUjQnU",
+            "start": 1544.81,
+            "end": 2272.12
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-14.mp3",
+        "startMs": 0,
+        "endMs": 232660,
+        "durationMs": 232660,
+        "recordingDurationMs": 232660,
+        "bytes": 2792438,
+        "sha256": "8a59a9a0063b5f13c8eb82af1a3333ed852b247f8f2a1bda048fd6dfcd995d6f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "AzHgYGUjQnU",
+            "start": 2272.12,
+            "end": 2504.74
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 270500,
+        "durationMs": 270500,
+        "recordingDurationMs": 270500,
+        "bytes": 3246623,
+        "sha256": "c5522fd555c4eae075c9c9565380bb894be364a4d1c66125a5d99d04b17edb46",
+        "sharedAyahs": [
+          "36:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 22.68,
+            "end": 293.16
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 309890,
+        "durationMs": 309890,
+        "recordingDurationMs": 309890,
+        "bytes": 3719231,
+        "sha256": "bd3b5124e3e4f473126d31e2845dcd193bdf089e12e37b8a7f9db21611d85e2f",
+        "sharedAyahs": [
+          "36:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 293.16,
+            "end": 603.02
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 139750,
+        "durationMs": 139750,
+        "recordingDurationMs": 139750,
+        "bytes": 1677599,
+        "sha256": "18ea7be43e90f2cfef9e4ba6427c41a617a2dca570a6bbd6a42ac4c4b2929c9d",
+        "sharedAyahs": [
+          "36:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 603.02,
+            "end": 742.73
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 130660,
+        "durationMs": 130660,
+        "recordingDurationMs": 130660,
+        "bytes": 1568447,
+        "sha256": "050ac01e9eb0fec89d3085a4115871dfff44bee77510f43ce45bee58e9b82c28",
+        "sharedAyahs": [
+          "36:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 742.73,
+            "end": 873.38
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 126650,
+        "durationMs": 126650,
+        "recordingDurationMs": 126650,
+        "bytes": 1520351,
+        "sha256": "327c056e351fe648887466958c765d695fac5e3dbdd956d1217614e7f322b41e",
+        "sharedAyahs": [
+          "36:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 873.38,
+            "end": 1000.0
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 366890,
+        "durationMs": 366890,
+        "recordingDurationMs": 366890,
+        "bytes": 4403231,
+        "sha256": "63ae8879de94905ede052d5c893711bb86f89687c69946651803befdbcb7d4f2",
+        "sharedAyahs": [
+          "36:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 1000.0,
+            "end": 1366.86
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 212260,
+        "durationMs": 212260,
+        "recordingDurationMs": 212260,
+        "bytes": 2547647,
+        "sha256": "5c88f6e1681734e40ee7b17d65fd87ee2c5ad555b1238fa3b5687444b271b83e",
+        "sharedAyahs": [
+          "36:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 1366.86,
+            "end": 1579.1
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 286940,
+        "durationMs": 286940,
+        "recordingDurationMs": 286940,
+        "bytes": 3443903,
+        "sha256": "8075e1fcd98bb5ebc694d2b391c207c9a1f6e23a1d5a5540442ef3bbfadd7432",
+        "sharedAyahs": [
+          "36:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 1579.1,
+            "end": 1866.01
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 186000,
+        "durationMs": 186000,
+        "recordingDurationMs": 186000,
+        "bytes": 2232575,
+        "sha256": "415866d29e6f387ec710a8cd6162db899df1482163da739904cbfe33c7b70e3d",
+        "sharedAyahs": [
+          "36:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 1866.01,
+            "end": 2052.0
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 522500,
+        "durationMs": 522500,
+        "recordingDurationMs": 522500,
+        "bytes": 6270623,
+        "sha256": "b2398c4fc6d066b18d67e7e34bb49a9caa97694fe3d82f5078e45ca7e62eaac2",
+        "sharedAyahs": [
+          "36:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 2052.0,
+            "end": 2574.46
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 10630,
+        "durationMs": 10630,
+        "recordingDurationMs": 10630,
+        "bytes": 128159,
+        "sha256": "d34229d39f787b8888da80e844c8abe29381bb7c4fcd843ca7af757181771548",
+        "sharedAyahs": [
+          "36:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 2574.46,
+            "end": 2585.08
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 2330,
+        "durationMs": 2330,
+        "recordingDurationMs": 2330,
+        "bytes": 28511,
+        "sha256": "dfcb2721095f22679a4026353e4a54fd9ac1bd48f8b2916c04ae707edf5dba9c",
+        "sharedAyahs": [
+          "36:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 2585.08,
+            "end": 2587.38
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 36670,
+        "durationMs": 36670,
+        "recordingDurationMs": 36670,
+        "bytes": 440639,
+        "sha256": "216d4baf95e8644ed670e9162d6d03e9eae21ef2ded2171c4ea6688bf1c754ab",
+        "sharedAyahs": [
+          "36:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "F8NAMTrwyr8",
+            "start": 2587.38,
+            "end": 2624.02
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-28.mp3",
+        "startMs": 0,
+        "endMs": 1405420,
+        "durationMs": 1405420,
+        "recordingDurationMs": 1405420,
+        "bytes": 16865558,
+        "sha256": "f8f21c478ce541c41b5e67fc28f8e66f4803b724f1d17feb64c17afb6b2239bb",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "rMwVLSnlDtA",
+            "start": 5.84,
+            "end": 1411.23
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 25440,
+        "durationMs": 25440,
+        "recordingDurationMs": 25440,
+        "bytes": 305855,
+        "sha256": "3aa41850c95496cb94927d20ad74cdf7604af77a03bc592ec79001e3b0ae9147",
+        "sharedAyahs": [
+          "36:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rMwVLSnlDtA",
+            "start": 1411.23,
+            "end": 1436.65
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 100030,
+        "durationMs": 100030,
+        "recordingDurationMs": 100030,
+        "bytes": 1200959,
+        "sha256": "ca5e058ccb2eea6fd68f329a929d5bc58f8d09437a9819791d069752790c067d",
+        "sharedAyahs": [
+          "36:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rMwVLSnlDtA",
+            "start": 1436.65,
+            "end": 1536.66
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 51220,
+        "durationMs": 51220,
+        "recordingDurationMs": 51220,
+        "bytes": 615167,
+        "sha256": "cc33471f66de535757cf99fd7821cce532dc55c16cc9ff5ff851cb4e760dfb72",
+        "sharedAyahs": [
+          "36:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rMwVLSnlDtA",
+            "start": 1536.66,
+            "end": 1587.86
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 524740,
+        "durationMs": 524740,
+        "recordingDurationMs": 524740,
+        "bytes": 6297407,
+        "sha256": "4fb24446e5043524c9ad0fc059d61042f069c1d026908b71c02ddf0ff0c95d27",
+        "sharedAyahs": [
+          "36:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rMwVLSnlDtA",
+            "start": 1587.86,
+            "end": 2112.57
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 15310,
+        "durationMs": 15310,
+        "recordingDurationMs": 15310,
+        "bytes": 184319,
+        "sha256": "bd8edaf4e5999a0032a0a3a247dd68be8bca1e4314256d272cb77ac47b8e6801",
+        "sharedAyahs": [
+          "36:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rMwVLSnlDtA",
+            "start": 2112.57,
+            "end": 2127.86
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 359860,
+        "durationMs": 359860,
+        "recordingDurationMs": 359860,
+        "bytes": 4318847,
+        "sha256": "e838e51e885f989c6f55e940ffd3d1089273bf79b2cf24847734bc4038161e0a",
+        "sharedAyahs": [
+          "36:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rMwVLSnlDtA",
+            "start": 2127.86,
+            "end": 2487.68
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-35.mp3",
+        "startMs": 0,
+        "endMs": 107900,
+        "durationMs": 107900,
+        "recordingDurationMs": 107900,
+        "bytes": 1295414,
+        "sha256": "4cfe91ff4b5793ddbeb7f8e3601f3b8bff80c95691eda0068ff0737af32cc093",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "62E5BMVbWdI",
+            "start": 8.53,
+            "end": 116.41
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 535680,
+        "durationMs": 535680,
+        "recordingDurationMs": 535680,
+        "bytes": 6428735,
+        "sha256": "dccbd55c95e9c7defde21ef73179628d27b13d15fc297da22e8cd32663ecae46",
+        "sharedAyahs": [
+          "36:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "62E5BMVbWdI",
+            "start": 116.41,
+            "end": 652.08
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 730850,
+        "durationMs": 730850,
+        "recordingDurationMs": 730850,
+        "bytes": 8770751,
+        "sha256": "dd99bfc51c400cc0de40bedaa5378594c08f7e4e6460779a55cee277989b2789",
+        "sharedAyahs": [
+          "36:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "62E5BMVbWdI",
+            "start": 652.08,
+            "end": 1382.9
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 707660,
+        "durationMs": 707660,
+        "recordingDurationMs": 707660,
+        "bytes": 8492543,
+        "sha256": "fc282ad88a1457c8bb9debedf1e075b47f5de0fb982f3480428642f08e9892ea",
+        "sharedAyahs": [
+          "36:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "62E5BMVbWdI",
+            "start": 1382.9,
+            "end": 2090.54
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 309480,
+        "durationMs": 309480,
+        "recordingDurationMs": 309480,
+        "bytes": 3714335,
+        "sha256": "f65f4df5fd917373abb06217db92aacca35abc98bb0a0fa91046b09ebc37c456",
+        "sharedAyahs": [
+          "36:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "62E5BMVbWdI",
+            "start": 2090.54,
+            "end": 2400.0
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 295390,
+        "durationMs": 295390,
+        "recordingDurationMs": 295390,
+        "bytes": 3545279,
+        "sha256": "289ab14ed188a31ac35c15614dd9d71dc172301b453a85d6ebb7a9dd8ea7805a",
+        "sharedAyahs": [
+          "36:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "62E5BMVbWdI",
+            "start": 2400.0,
+            "end": 2695.36
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-41.mp3",
+        "startMs": 0,
+        "endMs": 1333200,
+        "durationMs": 1333200,
+        "recordingDurationMs": 1333200,
+        "bytes": 15998966,
+        "sha256": "b2cb90e7b489bd451933d5565a6857686912904179f9645742c3b0bdb4e7f832",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "j4WDkA8lnoA",
+            "start": 1.94,
+            "end": 1335.1
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 81940,
+        "durationMs": 81940,
+        "recordingDurationMs": 81940,
+        "bytes": 983807,
+        "sha256": "e6fb73efb31327111389a3c894435d4fdf01f7bedbcdc8c47039d989efb8ef7c",
+        "sharedAyahs": [
+          "36:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j4WDkA8lnoA",
+            "start": 1335.1,
+            "end": 1417.02
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 382990,
+        "durationMs": 382990,
+        "recordingDurationMs": 382990,
+        "bytes": 4596479,
+        "sha256": "ae26eff1420f35fcbd57fac14a97191f6eec15308a78c1a96581089c1bd1d371",
+        "sharedAyahs": [
+          "36:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j4WDkA8lnoA",
+            "start": 1417.02,
+            "end": 1800.0
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 542110,
+        "durationMs": 542110,
+        "recordingDurationMs": 542110,
+        "bytes": 6505919,
+        "sha256": "884232a60c4c9b54b20712eb2d39ea95fe763814756939b950b71f4aeba8e531",
+        "sharedAyahs": [
+          "36:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j4WDkA8lnoA",
+            "start": 1800.0,
+            "end": 2342.08
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 148920,
+        "durationMs": 148920,
+        "recordingDurationMs": 148920,
+        "bytes": 1787615,
+        "sha256": "745340fc7ed1a5f86700bf3d4a2b6a8e1c21d9cc4da605659c09f45d7d8f0021",
+        "sharedAyahs": [
+          "36:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j4WDkA8lnoA",
+            "start": 2342.08,
+            "end": 2490.98
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-46.mp3",
+        "startMs": 0,
+        "endMs": 951720,
+        "durationMs": 951720,
+        "recordingDurationMs": 951720,
+        "bytes": 11421206,
+        "sha256": "dedee1508fcadd32bf48a84668719445c2cefbfac32292ec0f5755bd121ba80c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 1.04,
+            "end": 952.74
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 306120,
+        "durationMs": 306120,
+        "recordingDurationMs": 306120,
+        "bytes": 3674015,
+        "sha256": "83dd6d3333361fa10f3f87dd61f9ab813b7377a7caa6dd29dee7ba66a2b4cf57",
+        "sharedAyahs": [
+          "36:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 952.74,
+            "end": 1258.84
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 80060,
+        "durationMs": 80060,
+        "recordingDurationMs": 80060,
+        "bytes": 961343,
+        "sha256": "d8f68cd7d92e4b9fbf1309ecc820be1b48507b1080a2bad078db809eb908c422",
+        "sharedAyahs": [
+          "36:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 1258.84,
+            "end": 1338.87
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 345580,
+        "durationMs": 345580,
+        "recordingDurationMs": 345580,
+        "bytes": 4147487,
+        "sha256": "376a18c01eb5a1317f5191a5b2eb6a7c06c05715e8473d5173f21e9557ebde1a",
+        "sharedAyahs": [
+          "36:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 1338.87,
+            "end": 1684.42
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 4680,
+        "durationMs": 4680,
+        "recordingDurationMs": 4680,
+        "bytes": 56735,
+        "sha256": "026bf6181253b95db937b052e9e26c2480df502f02e6176df1b6e5eb08b6c860",
+        "sharedAyahs": [
+          "36:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 1684.42,
+            "end": 1689.08
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 177820,
+        "durationMs": 177820,
+        "recordingDurationMs": 177820,
+        "bytes": 2134367,
+        "sha256": "a7079557ec60b46dea9f2caf735b3aa788eae77465cec35af594d3189288a4af",
+        "sharedAyahs": [
+          "36:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 1689.08,
+            "end": 1866.88
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 137300,
+        "durationMs": 137300,
+        "recordingDurationMs": 137300,
+        "bytes": 1648223,
+        "sha256": "1054fb7ab281e93831132eb5a7b8041cd6fcca0513b58b9401dbea0affa5bd92",
+        "sharedAyahs": [
+          "36:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 1866.88,
+            "end": 2004.16
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 166370,
+        "durationMs": 166370,
+        "recordingDurationMs": 166370,
+        "bytes": 1996991,
+        "sha256": "9c856067363b9798ca17b7e4b749ad4a4824ebdc26b1cb5d81635842c746cfd3",
+        "sharedAyahs": [
+          "36:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 2004.16,
+            "end": 2170.5
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 7460,
+        "durationMs": 7460,
+        "recordingDurationMs": 7460,
+        "bytes": 90143,
+        "sha256": "19c7add9035730231d50adc086d04685e94102349024a22e85c3cca7c625f8dd",
+        "sharedAyahs": [
+          "36:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 2170.5,
+            "end": 2177.93
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 216100,
+        "durationMs": 216100,
+        "recordingDurationMs": 216100,
+        "bytes": 2593727,
+        "sha256": "a9e2065a112057067265d9bb47f583bbd2c2dc7e69f06ef411d642866eddebdb",
+        "sharedAyahs": [
+          "36:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 2177.93,
+            "end": 2394.01
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 5900,
+        "durationMs": 5900,
+        "recordingDurationMs": 5900,
+        "bytes": 71423,
+        "sha256": "7e2068b3394cd1a480d63ea098dd01c2833e360326286d95f576a8572a72d6b9",
+        "sharedAyahs": [
+          "36:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 2394.01,
+            "end": 2399.89
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/other-57.mp3",
+        "startMs": 0,
+        "endMs": 202010,
+        "durationMs": 202010,
+        "recordingDurationMs": 202010,
+        "bytes": 2424662,
+        "sha256": "8db0d31b522009c3ef514c8ddb002f5861b1e6b6906346511f7146679ef9df4f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "PJu1SrADt68",
+            "start": 2399.89,
+            "end": 2601.88
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 38810,
+        "durationMs": 38810,
+        "recordingDurationMs": 38810,
+        "bytes": 466271,
+        "sha256": "f2512072abc2f8673f2c6f83b7dbcfbb39b9fb1e3dc47c1d5ddeafe1bef2d605",
+        "sharedAyahs": [
+          "36:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 6.1,
+            "end": 44.89
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 329180,
+        "durationMs": 329180,
+        "recordingDurationMs": 329180,
+        "bytes": 3950783,
+        "sha256": "d4838c2295151a51bb785e63530522b74a62fb6ad8f09851a1f169a7791aaf9e",
+        "sharedAyahs": [
+          "36:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 44.89,
+            "end": 374.06
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 69790,
+        "durationMs": 69790,
+        "recordingDurationMs": 69790,
+        "bytes": 838079,
+        "sha256": "5b6d9e11b025de0ccbc93de9b40f5f608d55731fa528d00fdeb3cb2378d8fbe5",
+        "sharedAyahs": [
+          "36:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 374.06,
+            "end": 443.83
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 68040,
+        "durationMs": 68040,
+        "recordingDurationMs": 68040,
+        "bytes": 817055,
+        "sha256": "74e3bc2eb1b797f9005cef06c0a4655f5f8c67c9816c721133072fed7422b529",
+        "sharedAyahs": [
+          "36:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 443.83,
+            "end": 511.83
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 183700,
+        "durationMs": 183700,
+        "recordingDurationMs": 183700,
+        "bytes": 2204927,
+        "sha256": "db685a8ca2044db1de9e194e449b0a8f2b24ff7c6003eb8f80165745c29249f0",
+        "sharedAyahs": [
+          "36:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 511.83,
+            "end": 695.5
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 272740,
+        "durationMs": 272740,
+        "recordingDurationMs": 272740,
+        "bytes": 3273407,
+        "sha256": "9dc41de7a0c8d6cb7b923bd8ac13efdaca73267df11e41efc0f7407bfe04c06f",
+        "sharedAyahs": [
+          "36:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 695.5,
+            "end": 968.21
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 128540,
+        "durationMs": 128540,
+        "recordingDurationMs": 128540,
+        "bytes": 1543103,
+        "sha256": "2154cceb8628406954075cfed9296c5af7f29eae8d2f5a40458f24aa56ef80e7",
+        "sharedAyahs": [
+          "36:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 968.21,
+            "end": 1096.74
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 338780,
+        "durationMs": 338780,
+        "recordingDurationMs": 338780,
+        "bytes": 4065983,
+        "sha256": "003f471bb1acdb0e460ebc74826dd56ddfe628eac7ec3e9b61a0e7be242ee51d",
+        "sharedAyahs": [
+          "36:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 1096.74,
+            "end": 1435.51
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 242540,
+        "durationMs": 242540,
+        "recordingDurationMs": 242540,
+        "bytes": 2911103,
+        "sha256": "643777fec3dcfde347f0f6aeb39034d4fcea6d0e911cfb774d378a2d68e3082a",
+        "sharedAyahs": [
+          "36:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 1435.51,
+            "end": 1678.02
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 417260,
+        "durationMs": 417260,
+        "recordingDurationMs": 417260,
+        "bytes": 5007743,
+        "sha256": "f82b5e09256a818dc4b64700d7989ffc7d379715aed22d3f70338a5a56144463",
+        "sharedAyahs": [
+          "36:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 1678.02,
+            "end": 2095.26
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 207050,
+        "durationMs": 207050,
+        "recordingDurationMs": 207050,
+        "bytes": 2485151,
+        "sha256": "8b2fa7a222096c34d4e066200f0df31c76e0214d927338aa9bb19f3eb088fcd7",
+        "sharedAyahs": [
+          "36:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 2095.26,
+            "end": 2302.28
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 182400,
+        "durationMs": 182400,
+        "recordingDurationMs": 182400,
+        "bytes": 2189375,
+        "sha256": "e6d880a33cf0d8fd93ae0ea90142a76cc6b88f0f08ac4babd8cf3f0b7d674309",
+        "sharedAyahs": [
+          "36:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 2302.28,
+            "end": 2484.66
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 65350,
+        "durationMs": 65350,
+        "recordingDurationMs": 65350,
+        "bytes": 784799,
+        "sha256": "048572197ac1a0689a534997267842813d769e2108513dfdf28231067050aeb7",
+        "sharedAyahs": [
+          "36:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 2484.66,
+            "end": 2550.0
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 90740,
+        "durationMs": 90740,
+        "recordingDurationMs": 90740,
+        "bytes": 1089503,
+        "sha256": "8103ee2400951f0ebc3404976ddd955ecb37fa54b17a3252559266b854d98587",
+        "sharedAyahs": [
+          "36:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4SXa3actwQM",
+            "start": 2550.0,
+            "end": 2640.72
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 361610,
+        "durationMs": 361610,
+        "recordingDurationMs": 361610,
+        "bytes": 4339871,
+        "sha256": "c5aa695f856461c12fea28f7b1910467e97aa9dc04f910b59a4e825150accfac",
+        "sharedAyahs": [
+          "36:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 1.1,
+            "end": 362.68
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 54170,
+        "durationMs": 54170,
+        "recordingDurationMs": 54170,
+        "bytes": 650591,
+        "sha256": "1fb0fe89b3e0af6f2a29e92f4a694f3f2a093fc268c0b4516f5eacc9d724b5f5",
+        "sharedAyahs": [
+          "36:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 362.68,
+            "end": 416.83
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 224980,
+        "durationMs": 224980,
+        "recordingDurationMs": 224980,
+        "bytes": 2700287,
+        "sha256": "2fdccffdd8b2c81ba908f1741ca4d6299a37d8f35450db6f83ca71c65feca380",
+        "sharedAyahs": [
+          "36:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 416.83,
+            "end": 641.77
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 696600,
+        "durationMs": 696600,
+        "recordingDurationMs": 696600,
+        "bytes": 8359775,
+        "sha256": "3531fb1661dd0526048997298afa74313bf7b0980b9cc34d3f45c7cf8669d80d",
+        "sharedAyahs": [
+          "36:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 641.77,
+            "end": 1338.36
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 568870,
+        "durationMs": 568870,
+        "recordingDurationMs": 568870,
+        "bytes": 6827039,
+        "sha256": "bc11164ae535dd33aab789af966ef2cd7bee20c418de8b42c70c555102675443",
+        "sharedAyahs": [
+          "36:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 1338.36,
+            "end": 1907.19
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 290160,
+        "durationMs": 290160,
+        "recordingDurationMs": 290160,
+        "bytes": 3482495,
+        "sha256": "aa66c9ece716894237fc73d85f429e955ab45fb52c9ebe1a6038f0edb12dca2e",
+        "sharedAyahs": [
+          "36:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 1907.19,
+            "end": 2197.33
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 218900,
+        "durationMs": 218900,
+        "recordingDurationMs": 218900,
+        "bytes": 2627423,
+        "sha256": "f8e9763976ca576fc90607d437e574e6b623fa980e2fb1d929a76839ed1939e6",
+        "sharedAyahs": [
+          "36:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 2197.33,
+            "end": 2416.21
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 88420,
+        "durationMs": 88420,
+        "recordingDurationMs": 88420,
+        "bytes": 1061567,
+        "sha256": "391f1f236e4e5795377288cc536b92f1f1c6f469bea0d39c21062ef468a37727",
+        "sharedAyahs": [
+          "36:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 2416.21,
+            "end": 2504.61
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 25200,
+        "durationMs": 25200,
+        "recordingDurationMs": 25200,
+        "bytes": 302975,
+        "sha256": "825ddf5da291622dfc3e0206252f52a4f3ff835fc77e1f88c56e226ce726dbd6",
+        "sharedAyahs": [
+          "36:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AdSz9wFEcoQ",
+            "start": 2504.61,
+            "end": 2529.77
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 262270,
+        "durationMs": 262270,
+        "recordingDurationMs": 262270,
+        "bytes": 3147839,
+        "sha256": "cbb206ee2383a35357539fae82b7835928227742397708e7d0702258fcce64d8",
+        "sharedAyahs": [
+          "36:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fHsHeGzz_Og",
+            "start": 7.76,
+            "end": 270.02
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 253490,
+        "durationMs": 253490,
+        "recordingDurationMs": 253490,
+        "bytes": 3042431,
+        "sha256": "cda1963ca93eb116410c69a68de824681b7b4572e87ac7560a3d2cc4e62df52a",
+        "sharedAyahs": [
+          "36:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fHsHeGzz_Og",
+            "start": 270.02,
+            "end": 523.48
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 364940,
+        "durationMs": 364940,
+        "recordingDurationMs": 364940,
+        "bytes": 4379903,
+        "sha256": "f0d5b7ec56b7cb8444951f645a84b3724b34f363e0730f8580540cffab9439f9",
+        "sharedAyahs": [
+          "36:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fHsHeGzz_Og",
+            "start": 523.48,
+            "end": 888.4
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 552050,
+        "durationMs": 552050,
+        "recordingDurationMs": 552050,
+        "bytes": 6625151,
+        "sha256": "e27877ebfd47a1b68e66397bf0fc015d1f3daa9c7ad5a1ecb1930da4f91cc5f4",
+        "sharedAyahs": [
+          "36:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fHsHeGzz_Og",
+            "start": 888.4,
+            "end": 1440.42
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 428830,
+        "durationMs": 428830,
+        "recordingDurationMs": 428830,
+        "bytes": 5146559,
+        "sha256": "0df532368ed69ad2381997465de5ecca0e14ed14172cf787e88a9d9726291f9e",
+        "sharedAyahs": [
+          "36:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fHsHeGzz_Og",
+            "start": 1440.42,
+            "end": 1869.22
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 163060,
+        "durationMs": 163060,
+        "recordingDurationMs": 163060,
+        "bytes": 1957247,
+        "sha256": "e6935624510d80ba912604467dec6138b3af3c2ca72a5d72f7caa9094d1a8293",
+        "sharedAyahs": [
+          "36:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fHsHeGzz_Og",
+            "start": 1869.22,
+            "end": 2032.27
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 27380,
+        "durationMs": 27380,
+        "recordingDurationMs": 27380,
+        "bytes": 329183,
+        "sha256": "c65905e58ae10f70b888e994a6d6c559ade62bc327327790ea2b38c03ec8c1a8",
+        "sharedAyahs": [
+          "36:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fHsHeGzz_Og",
+            "start": 2032.27,
+            "end": 2059.62
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 294910,
+        "durationMs": 294910,
+        "recordingDurationMs": 294910,
+        "bytes": 3539519,
+        "sha256": "683c8c4cc416b0cddfdc1543b9892ffe9c26bc7c8134dd811a5f94e55ac11acd",
+        "sharedAyahs": [
+          "36:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fHsHeGzz_Og",
+            "start": 2059.62,
+            "end": 2354.51
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 296950,
+        "durationMs": 296950,
+        "recordingDurationMs": 296950,
+        "bytes": 3563999,
+        "sha256": "ed1eabc6c441e9971bcca0867256e2a3615c057fbd68a86a7eba3ea618543e47",
+        "sharedAyahs": [
+          "36:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qepJ6ITUCL0",
+            "start": 3.06,
+            "end": 300.0
+          }
+        ]
+      },
+      {
+        "file": "036-يس-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 302810,
+        "durationMs": 302810,
+        "recordingDurationMs": 302810,
+        "bytes": 3634271,
+        "sha256": "a0b76238a6e0fc39eea7361912d7d719622da52d11be9b4f33c2c6f2ecebf978",
+        "sharedAyahs": [
+          "36:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qepJ6ITUCL0",
+            "start": 300.0,
+            "end": 602.77
+          }
+        ]
+      }
+    ],
+    "durationMs": 28506100,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
