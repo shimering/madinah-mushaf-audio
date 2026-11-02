@@ -1,0 +1,3340 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 8,
+  "surahName": "الأنفال",
+  "ayahCount": 75,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 75,
+    "mappedAyahCount": 75,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "i4m3gxxHS5g": {
+      "durationSeconds": 1682.52,
+      "bytes": 20190849,
+      "sha256": "cb107bd338cbd1a07a541a0b04d716f0dd1897a0dc570c51995a9574ec3fe7fb",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-002_i4m3gxxHS5g.mp3"
+    },
+    "-cWcj4qacNE": {
+      "durationSeconds": 2652.98,
+      "bytes": 31836417,
+      "sha256": "60363a9d0179a4168938635c5ba166c380db5331e68ab51fe9ada5e71a6b0dad",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_002-009_-cWcj4qacNE.mp3"
+    },
+    "qYdyYydwxls": {
+      "durationSeconds": 2681.78,
+      "bytes": 32182019,
+      "sha256": "8fed2bf4ba78c674bda23da845b050efa171c9e14cea0f6f60bbf17ca0e5292d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_009-015_qYdyYydwxls.mp3"
+    },
+    "G2ZKyBcaOe8": {
+      "durationSeconds": 2696.02,
+      "bytes": 32352824,
+      "sha256": "64811e364c3109726437b7c891fcdf2ec311ee4e526e85ff3ae93f9f8f891a43",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_015-019_G2ZKyBcaOe8.mp3"
+    },
+    "da8YF08FfkY": {
+      "durationSeconds": 2665.9,
+      "bytes": 31991365,
+      "sha256": "5c6374636b5e72bd8665c5997d2a7d2be013648f839a1236af41993c3954b9ec",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_019-024_da8YF08FfkY.mp3"
+    },
+    "QYinHaUet2U": {
+      "durationSeconds": 2594.81,
+      "bytes": 31138309,
+      "sha256": "7f3a27f887f1d41aba0816afaf29961f54720088ba2d18fb6e72c2654e48f2fe",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_024-027_QYinHaUet2U.mp3"
+    },
+    "WOeLk0FH0Go": {
+      "durationSeconds": 2605.01,
+      "bytes": 31260709,
+      "sha256": "e61a67f15cec73fbd6f526c9670dc57e15ac17b18e2d16b1c5c76eb8b99234aa",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_027-030_WOeLk0FH0Go.mp3"
+    },
+    "d2oKuHm9nDM": {
+      "durationSeconds": 2666.86,
+      "bytes": 32002885,
+      "sha256": "2635dee213271537a991ce04a89938be4ac68c21047f9fa516c63144a188207b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_030-037_d2oKuHm9nDM.mp3"
+    },
+    "4jhcADpDdow": {
+      "durationSeconds": 2517.62,
+      "bytes": 30212101,
+      "sha256": "97d7944c431e55f928e4d11dda91d5a412589dff24fa9dd238d545c7c0e18718",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_037-044_4jhcADpDdow.mp3"
+    },
+    "oxWWRq9Fbmg": {
+      "durationSeconds": 2675.04,
+      "bytes": 32101094,
+      "sha256": "d13508b7a57777a9c704481564ab9027e4943d1a832c0ed3af4579532dfaeaf6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_044-050_oxWWRq9Fbmg.mp3"
+    },
+    "HXxfIN1wqnY": {
+      "durationSeconds": 2633.78,
+      "bytes": 31606022,
+      "sha256": "27de9d82b3457975ee676b2642b506bdafd0a1991522c77796ae0de4de621aff",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_049-054_HXxfIN1wqnY.mp3"
+    },
+    "xTH7FhW5N90": {
+      "durationSeconds": 2659.8,
+      "bytes": 31918214,
+      "sha256": "1d714d4411a8f5301a7987ca66e4673d93e0e3a0b75c46cf8f464460313bba5e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_054-062_xTH7FhW5N90.mp3"
+    },
+    "f8b07fslHHY": {
+      "durationSeconds": 2628.02,
+      "bytes": 31536902,
+      "sha256": "9eb782018d4d80ca4f7e45a8cae6f477d3f4cdc0f724fd08f61fe6e5110c9b5a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_061-067_f8b07fslHHY.mp3"
+    },
+    "TYdb8IMzbt8": {
+      "durationSeconds": 2745.14,
+      "bytes": 32942342,
+      "sha256": "bb9ada1ae5b1c5862094b89a21080f83bd47931afd02067ce05484e880f830ed",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_067-074_TYdb8IMzbt8.mp3"
+    },
+    "qa9KZNZlVwQ": {
+      "durationSeconds": 1714.27,
+      "bytes": 20571878,
+      "sha256": "020224532c52602a3b0f3e5c065bbef438d1a1d7811a6d20a69383deb6352cbd",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_072-075_qa9KZNZlVwQ.mp3"
+    }
+  },
+  "ayahs": {
+    "8:1": {
+      "file": "008-الأنفال-youtube-v1/001.mp3",
+      "durationMs": 497710,
+      "bytes": 5973137,
+      "sha256": "d24eb972ba977c7df4bc77c9b02f55fcb9f5e20b29b769f5297f2fd16d783d9e",
+      "sharedAyahs": [
+        "8:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "i4m3gxxHS5g",
+          "start": 668.1,
+          "end": 1165.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:2": {
+      "file": "008-الأنفال-youtube-v1/002.mp3",
+      "durationMs": 513940,
+      "bytes": 6167825,
+      "sha256": "b5dbaa97adac02cb803f3b65a186ee17e24ea186fca956adccca6d3e8def3bf0",
+      "sharedAyahs": [
+        "8:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "i4m3gxxHS5g",
+          "start": 1165.78,
+          "end": 1679.71
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:3": {
+      "file": "008-الأنفال-youtube-v1/003.mp3",
+      "durationMs": 123620,
+      "bytes": 1484081,
+      "sha256": "e4822c9b132a46b9cb447d414d872fb0728274a47e4d1646bca96094ad9578a7",
+      "sharedAyahs": [
+        "8:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-cWcj4qacNE",
+          "start": 463.18,
+          "end": 586.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:4": {
+      "file": "008-الأنفال-youtube-v1/004.mp3",
+      "durationMs": 972050,
+      "bytes": 11665169,
+      "sha256": "1b11d302f7a2293000a00337a06e6e3ece2e73db0a12d0321ae6f359070ab28c",
+      "sharedAyahs": [
+        "8:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-cWcj4qacNE",
+          "start": 586.78,
+          "end": 1558.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:5": {
+      "file": "008-الأنفال-youtube-v1/005.mp3",
+      "durationMs": 226700,
+      "bytes": 2721041,
+      "sha256": "bd20c57b2c6994ef7f76d378390ad3645eac67af43e23d8c72fafed7659b0777",
+      "sharedAyahs": [
+        "8:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-cWcj4qacNE",
+          "start": 1558.81,
+          "end": 1785.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:6": {
+      "file": "008-الأنفال-youtube-v1/006.mp3",
+      "durationMs": 245500,
+      "bytes": 2946545,
+      "sha256": "4ffa9f52aabebda81463796e1a1a027857cd0ddd1eb5ba1219298f73bb8ba25d",
+      "sharedAyahs": [
+        "8:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-cWcj4qacNE",
+          "start": 1785.5,
+          "end": 2030.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:7": {
+      "file": "008-الأنفال-youtube-v1/007.mp3",
+      "durationMs": 177770,
+      "bytes": 2133809,
+      "sha256": "185ffdfb93c2dcf462f0f764e24fa7a653ac83cb8da39cab841d4303c56180de",
+      "sharedAyahs": [
+        "8:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-cWcj4qacNE",
+          "start": 2030.96,
+          "end": 2208.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:8": {
+      "file": "008-الأنفال-youtube-v1/008.mp3",
+      "durationMs": 10440,
+      "bytes": 125873,
+      "sha256": "33c54bf9a0e07efa6eff0b505287144aff7f6f7678b2a4370c28d5d640b048cb",
+      "sharedAyahs": [
+        "8:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-cWcj4qacNE",
+          "start": 2208.7,
+          "end": 2219.13
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:9": {
+      "file": "008-الأنفال-youtube-v1/009.mp3",
+      "durationMs": 539830,
+      "bytes": 6478577,
+      "sha256": "5ee4f43339a8f865842837ab86386a9f5c35eaa09efde55fbb3180aec3acbd2b",
+      "sharedAyahs": [
+        "8:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qYdyYydwxls",
+          "start": 5.23,
+          "end": 545.04
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:10": {
+      "file": "008-الأنفال-youtube-v1/010.mp3",
+      "durationMs": 885360,
+      "bytes": 10624915,
+      "sha256": "4dbbf5d1f7611583d32eea9657eaa6bd26111b9e3785542fa4170807f530a103",
+      "sharedAyahs": [
+        "8:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qYdyYydwxls",
+          "start": 545.04,
+          "end": 1430.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:11": {
+      "file": "008-الأنفال-youtube-v1/011.mp3",
+      "durationMs": 495980,
+      "bytes": 5952403,
+      "sha256": "20a6da9a38e24dd0c56d4a851f146b3185d658cfd2858a324e2380f2b054b89a",
+      "sharedAyahs": [
+        "8:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qYdyYydwxls",
+          "start": 1430.37,
+          "end": 1926.32
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:12": {
+      "file": "008-الأنفال-youtube-v1/012.mp3",
+      "durationMs": 263930,
+      "bytes": 3167731,
+      "sha256": "c0c4fffac408e19b003d8bf6a02f5572f4decd34ed2594399dfc1a540dfe395d",
+      "sharedAyahs": [
+        "8:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qYdyYydwxls",
+          "start": 1926.32,
+          "end": 2190.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:13": {
+      "file": "008-الأنفال-youtube-v1/013.mp3",
+      "durationMs": 343660,
+      "bytes": 4124467,
+      "sha256": "9701356815adec6e9cd9614137fff43456533863ad50d9f440c6713498c96cf4",
+      "sharedAyahs": [
+        "8:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qYdyYydwxls",
+          "start": 2190.22,
+          "end": 2533.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:14": {
+      "file": "008-الأنفال-youtube-v1/014.mp3",
+      "durationMs": 141650,
+      "bytes": 1700371,
+      "sha256": "49fc8ed8a86e5c912499eb39f341e45d9db2459f55b81ca7736d3c4e29ba3dca",
+      "sharedAyahs": [
+        "8:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qYdyYydwxls",
+          "start": 2533.87,
+          "end": 2675.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:15": {
+      "file": "008-الأنفال-youtube-v1/015.mp3",
+      "durationMs": 1029260,
+      "bytes": 12351763,
+      "sha256": "89e1a55ccacb3c2eebe87b93a0e6ca9dc652838363fc8732598f4d2b6e05b537",
+      "sharedAyahs": [
+        "8:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G2ZKyBcaOe8",
+          "start": 0.0,
+          "end": 1029.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:16": {
+      "file": "008-الأنفال-youtube-v1/016.mp3",
+      "durationMs": 273770,
+      "bytes": 3285811,
+      "sha256": "73aab2cc1542d76066b45fc9ae1532479e10b4aa6aa678695cbf3cf3203dd240",
+      "sharedAyahs": [
+        "8:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G2ZKyBcaOe8",
+          "start": 1029.22,
+          "end": 1302.97
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:17": {
+      "file": "008-الأنفال-youtube-v1/017.mp3",
+      "durationMs": 277060,
+      "bytes": 3325267,
+      "sha256": "e863ea05c3f35b1075631cffc6c1b90bd0ea82a8a3c472e5da4b907dd39241fb",
+      "sharedAyahs": [
+        "8:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G2ZKyBcaOe8",
+          "start": 1302.97,
+          "end": 1580.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:18": {
+      "file": "008-الأنفال-youtube-v1/018.mp3",
+      "durationMs": 4220,
+      "bytes": 51283,
+      "sha256": "711db8bb26d12b6924b17be564f3ac01f449681baeb97fb21639e172fb5608e3",
+      "sharedAyahs": [
+        "8:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G2ZKyBcaOe8",
+          "start": 1881.2,
+          "end": 1885.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:19": {
+      "file": "008-الأنفال-youtube-v1/019.mp3",
+      "durationMs": 810600,
+      "bytes": 9727795,
+      "sha256": "fa54c1e31907dccc0ce6b6557df80b0b521e5b8c28c88f72d2a4e422ca6802e0",
+      "sharedAyahs": [
+        "8:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G2ZKyBcaOe8",
+          "start": 1885.4,
+          "end": 2696.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:20": {
+      "file": "008-الأنفال-youtube-v1/020.mp3",
+      "durationMs": 595780,
+      "bytes": 7149907,
+      "sha256": "7f509076639de4c1c05c319c2a4763ea697174f707ea9b08eedb3c113ca23ac6",
+      "sharedAyahs": [
+        "8:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "da8YF08FfkY",
+          "start": 456.93,
+          "end": 1052.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:21": {
+      "file": "008-الأنفال-youtube-v1/021.mp3",
+      "durationMs": 30020,
+      "bytes": 360883,
+      "sha256": "d1db7be607c36ed5b49b9ab21976cd0439dd54dcade2e30c50f131ba3e3b5ae4",
+      "sharedAyahs": [
+        "8:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "da8YF08FfkY",
+          "start": 1052.67,
+          "end": 1082.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:22": {
+      "file": "008-الأنفال-youtube-v1/022.mp3",
+      "durationMs": 688540,
+      "bytes": 8263027,
+      "sha256": "b606660b745d0173019175c7ccb96c6e66c71b28ae8b7e3c1bcb9ed08fb99213",
+      "sharedAyahs": [
+        "8:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "da8YF08FfkY",
+          "start": 1082.67,
+          "end": 1771.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:23": {
+      "file": "008-الأنفال-youtube-v1/023.mp3",
+      "durationMs": 889370,
+      "bytes": 10673011,
+      "sha256": "aa0347d6d3958a0770688233a366bc863b71257832cd5926976f22fef57ea08b",
+      "sharedAyahs": [
+        "8:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "da8YF08FfkY",
+          "start": 1771.18,
+          "end": 2660.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:24": {
+      "file": "008-الأنفال-youtube-v1/024.mp3",
+      "durationMs": 944860,
+      "bytes": 11338867,
+      "sha256": "c75d055d7f37aed963bd7943e2b7e7ae541676d7e99f94f8e259376825bc7f38",
+      "sharedAyahs": [
+        "8:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QYinHaUet2U",
+          "start": 5.17,
+          "end": 950.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:25": {
+      "file": "008-الأنفال-youtube-v1/025.mp3",
+      "durationMs": 40700,
+      "bytes": 489043,
+      "sha256": "eba55a136ad84580a2a7d65e8f4095f5f986ac6d2c143e4d75bdf798d9db4654",
+      "sharedAyahs": [
+        "8:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QYinHaUet2U",
+          "start": 1645.7,
+          "end": 1686.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:26": {
+      "file": "008-الأنفال-youtube-v1/026.mp3",
+      "durationMs": 513650,
+      "bytes": 6164371,
+      "sha256": "9be8c93b7cd23c5f56c13b95a52110166f0a2d755c2bc89e15caabc6e8be383c",
+      "sharedAyahs": [
+        "8:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QYinHaUet2U",
+          "start": 1686.38,
+          "end": 2200.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:27": {
+      "file": "008-الأنفال-youtube-v1/027.mp3",
+      "durationMs": 392330,
+      "bytes": 4708531,
+      "sha256": "4d50fd380dbf0487e754e1b4384bd83e048d93b38ab4f76dc14c9067d4c81e3b",
+      "sharedAyahs": [
+        "8:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "QYinHaUet2U",
+          "start": 2200.0,
+          "end": 2592.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:28": {
+      "file": "008-الأنفال-youtube-v1/028.mp3",
+      "durationMs": 1034380,
+      "bytes": 12413107,
+      "sha256": "4380616f9300dcfaac9a1674bd7e059183892c53cb6e3f317a28225465719fe8",
+      "sharedAyahs": [
+        "8:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WOeLk0FH0Go",
+          "start": 0.0,
+          "end": 1034.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:29": {
+      "file": "008-الأنفال-youtube-v1/029.mp3",
+      "durationMs": 805030,
+      "bytes": 9660979,
+      "sha256": "2d84ee03aecceb3f31daa47a1d96bc2086d255fc1ff521449b6d0d230bd61289",
+      "sharedAyahs": [
+        "8:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WOeLk0FH0Go",
+          "start": 1500.0,
+          "end": 2305.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:30": {
+      "file": "008-الأنفال-youtube-v1/030.mp3",
+      "durationMs": 295870,
+      "bytes": 3551059,
+      "sha256": "21b7f2d2a3bda01f65fb1cb50ee6cc573d4768c7944aecfe3017c064d32e4c19",
+      "sharedAyahs": [
+        "8:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WOeLk0FH0Go",
+          "start": 2305.0,
+          "end": 2600.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:31": {
+      "file": "008-الأنفال-youtube-v1/031.mp3",
+      "durationMs": 962710,
+      "bytes": 11553139,
+      "sha256": "102f516935e55dd0670ca308eb2411f6b15f9622c1ddb53fb23544bec6048bed",
+      "sharedAyahs": [
+        "8:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d2oKuHm9nDM",
+          "start": 3.89,
+          "end": 966.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:32": {
+      "file": "008-الأنفال-youtube-v1/032.mp3",
+      "durationMs": 346420,
+      "bytes": 4157587,
+      "sha256": "8d1bfb4662b471c94c943eb18f7bb93b0a07ae217c30b55ea61abe5f6c538c82",
+      "sharedAyahs": [
+        "8:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d2oKuHm9nDM",
+          "start": 966.6,
+          "end": 1312.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:33": {
+      "file": "008-الأنفال-youtube-v1/033.mp3",
+      "durationMs": 287040,
+      "bytes": 3445075,
+      "sha256": "3e4d7d73cefdbb9dd21b03605c93a2a8838c7002c85e1d4207e0feed4a870de9",
+      "sharedAyahs": [
+        "8:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d2oKuHm9nDM",
+          "start": 1312.99,
+          "end": 1600.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:34": {
+      "file": "008-الأنفال-youtube-v1/034.mp3",
+      "durationMs": 357980,
+      "bytes": 4296403,
+      "sha256": "d3cd87108c03b588f018318ee0a4cee7cd9488ce980674fd4a74405d0449b758",
+      "sharedAyahs": [
+        "8:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d2oKuHm9nDM",
+          "start": 1963.54,
+          "end": 2321.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:35": {
+      "file": "008-الأنفال-youtube-v1/035.mp3",
+      "durationMs": 11280,
+      "bytes": 135955,
+      "sha256": "8b095a59c494ec05e8d4de6efd80a9ef49f226e14d0b82a15d2c340aea40f5d0",
+      "sharedAyahs": [
+        "8:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d2oKuHm9nDM",
+          "start": 2321.52,
+          "end": 2332.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:36": {
+      "file": "008-الأنفال-youtube-v1/036.mp3",
+      "durationMs": 331660,
+      "bytes": 3980467,
+      "sha256": "7b028ace5116abcd436adefd0fed3a95d37659f471040f47da0a4bdc02cc817c",
+      "sharedAyahs": [
+        "8:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "d2oKuHm9nDM",
+          "start": 2332.77,
+          "end": 2664.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:37": {
+      "file": "008-الأنفال-youtube-v1/037.mp3",
+      "durationMs": 229610,
+      "bytes": 2755891,
+      "sha256": "41ef67ee76cac0126404e7864d25479ad33133c4969983648fdd2dcb06ce4ae2",
+      "sharedAyahs": [
+        "8:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jhcADpDdow",
+          "start": 23.85,
+          "end": 253.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:38": {
+      "file": "008-الأنفال-youtube-v1/038.mp3",
+      "durationMs": 363860,
+      "bytes": 4366963,
+      "sha256": "57c2edfe23c485687739e9587c8a28753e18a65bf9231d7c93eb2053e3da0a53",
+      "sharedAyahs": [
+        "8:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jhcADpDdow",
+          "start": 253.44,
+          "end": 617.27
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:39": {
+      "file": "008-الأنفال-youtube-v1/039.mp3",
+      "durationMs": 372940,
+      "bytes": 4475827,
+      "sha256": "7a77dea247645cb92e97f983b8b7214d6c3b82e599181b6e5fe98322cccdc30e",
+      "sharedAyahs": [
+        "8:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jhcADpDdow",
+          "start": 617.27,
+          "end": 990.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:40": {
+      "file": "008-الأنفال-youtube-v1/040.mp3",
+      "durationMs": 191570,
+      "bytes": 2299411,
+      "sha256": "0f84354637d594a19b9d8055881a5a8702679dd2ecae6c8d59f981ce87aab02f",
+      "sharedAyahs": [
+        "8:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jhcADpDdow",
+          "start": 990.17,
+          "end": 1181.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:41": {
+      "file": "008-الأنفال-youtube-v1/041.mp3",
+      "durationMs": 720310,
+      "bytes": 8644339,
+      "sha256": "61c98f4614c0d5a2ce6ea48be3f150b33ce85a0c9827f67c0e6e198bfe3d9c3f",
+      "sharedAyahs": [
+        "8:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jhcADpDdow",
+          "start": 1181.73,
+          "end": 1902.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:42": {
+      "file": "008-الأنفال-youtube-v1/042.mp3",
+      "durationMs": 431780,
+      "bytes": 5182003,
+      "sha256": "350ce58fcd661d9b174757dd49cf0d4e91c8ac3d10a02f06b5da10e709a472db",
+      "sharedAyahs": [
+        "8:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jhcADpDdow",
+          "start": 1902.02,
+          "end": 2333.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:43": {
+      "file": "008-الأنفال-youtube-v1/043.mp3",
+      "durationMs": 152780,
+      "bytes": 1834003,
+      "sha256": "f288f9771265406f9a94154f3a8262a21dd76bafe167f48c8a5ebeb564df6dd2",
+      "sharedAyahs": [
+        "8:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jhcADpDdow",
+          "start": 2333.78,
+          "end": 2486.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:44": {
+      "file": "008-الأنفال-youtube-v1/044.mp3",
+      "durationMs": 26500,
+      "bytes": 318547,
+      "sha256": "33721151da718c6cd5eb726e65c8fb89b753ff2ea05207d8b861aaaba5388a1d",
+      "sharedAyahs": [
+        "8:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4jhcADpDdow",
+          "start": 2486.53,
+          "end": 2513.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:45": {
+      "file": "008-الأنفال-youtube-v1/045.mp3",
+      "durationMs": 584690,
+      "bytes": 7016851,
+      "sha256": "ddc197a137f44fecf9dfe57637e124c4091bd67fb8cb02d8bf1af124dfaf4c57",
+      "sharedAyahs": [
+        "8:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxWWRq9Fbmg",
+          "start": 3.98,
+          "end": 588.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:46": {
+      "file": "008-الأنفال-youtube-v1/046.mp3",
+      "durationMs": 1057610,
+      "bytes": 12691891,
+      "sha256": "e788c3671f0fb9b4e59bbef62d99d978fa195e04e8faa27d6b31b5542f95cd6b",
+      "sharedAyahs": [
+        "8:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxWWRq9Fbmg",
+          "start": 588.63,
+          "end": 1646.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:47": {
+      "file": "008-الأنفال-youtube-v1/047.mp3",
+      "durationMs": 46390,
+      "bytes": 557299,
+      "sha256": "4ecb926be1df8a6c2ab3449b5a8f285074090c9ea713a8ac373cab5a0c1cf951",
+      "sharedAyahs": [
+        "8:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxWWRq9Fbmg",
+          "start": 1646.23,
+          "end": 1692.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:48": {
+      "file": "008-الأنفال-youtube-v1/048.mp3",
+      "durationMs": 240140,
+      "bytes": 2882323,
+      "sha256": "dc35d0d2009a0cfccc01eea05692b781d3be8f246470d4e2afc09734ca89fed1",
+      "sharedAyahs": [
+        "8:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxWWRq9Fbmg",
+          "start": 1692.6,
+          "end": 1932.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:49": {
+      "file": "008-الأنفال-youtube-v1/049.mp3",
+      "durationMs": 550970,
+      "bytes": 6612211,
+      "sha256": "88922c391443d4aef4880cca07cfbdc5484d91bfdd7783ced360039a810a1559",
+      "sharedAyahs": [
+        "8:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxWWRq9Fbmg",
+          "start": 1932.72,
+          "end": 2483.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:50": {
+      "file": "008-الأنفال-youtube-v1/050.mp3",
+      "durationMs": 188620,
+      "bytes": 2263987,
+      "sha256": "e86d869890cc3ec607a03a46cdcf0c4e84dea82016127a0b5247066cf3f83a0f",
+      "sharedAyahs": [
+        "8:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oxWWRq9Fbmg",
+          "start": 2483.65,
+          "end": 2672.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:51": {
+      "file": "008-الأنفال-youtube-v1/051.mp3",
+      "durationMs": 1072800,
+      "bytes": 12874195,
+      "sha256": "0668c2b7ac754b7d89170e3dddfd2f4a5792fb9eafc7810b6d297c047d36f0e7",
+      "sharedAyahs": [
+        "8:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HXxfIN1wqnY",
+          "start": 1062.02,
+          "end": 2134.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:52": {
+      "file": "008-الأنفال-youtube-v1/052.mp3",
+      "durationMs": 256340,
+      "bytes": 3076723,
+      "sha256": "479f70839050a077b70946ea2acc3dad589acb2b92a6678027dc33a406e15641",
+      "sharedAyahs": [
+        "8:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HXxfIN1wqnY",
+          "start": 2134.79,
+          "end": 2391.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:53": {
+      "file": "008-الأنفال-youtube-v1/053.mp3",
+      "durationMs": 79560,
+      "bytes": 955315,
+      "sha256": "d4af549363f597eaabd48ce4c9f6b638dbf495f1981415296867d0e3eb8f705f",
+      "sharedAyahs": [
+        "8:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HXxfIN1wqnY",
+          "start": 2391.11,
+          "end": 2470.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:54": {
+      "file": "008-الأنفال-youtube-v1/054.mp3",
+      "durationMs": 155260,
+      "bytes": 1863667,
+      "sha256": "abefb2c14a0400c2aec2b8f9938901cfca9c4b6a33492ed65bfdd9ed7eb00305",
+      "sharedAyahs": [
+        "8:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HXxfIN1wqnY",
+          "start": 2470.65,
+          "end": 2625.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:55": {
+      "file": "008-الأنفال-youtube-v1/055.mp3",
+      "durationMs": 735720,
+      "bytes": 8829235,
+      "sha256": "f1d1fc928bfbd882cc0fed19ef875332156be42bda916c6fbdf396a091fb1729",
+      "sharedAyahs": [
+        "8:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xTH7FhW5N90",
+          "start": 0.0,
+          "end": 735.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:56": {
+      "file": "008-الأنفال-youtube-v1/056.mp3",
+      "durationMs": 74180,
+      "bytes": 890803,
+      "sha256": "3bc116e7ef5d18d3bd203932aa71bf708fde920cc8a7e89753e854ed791fccea",
+      "sharedAyahs": [
+        "8:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xTH7FhW5N90",
+          "start": 735.69,
+          "end": 809.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:57": {
+      "file": "008-الأنفال-youtube-v1/057.mp3",
+      "durationMs": 114650,
+      "bytes": 1376371,
+      "sha256": "44b2a306a292c696154863f3ff2a941e6d2adc6d71bc0413fd6cf738c3ff5d97",
+      "sharedAyahs": [
+        "8:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xTH7FhW5N90",
+          "start": 809.85,
+          "end": 924.46
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:58": {
+      "file": "008-الأنفال-youtube-v1/058.mp3",
+      "durationMs": 655800,
+      "bytes": 7870195,
+      "sha256": "806e7acceeb6b8d47a3371964fb72fb962077c635a2919a6de5ab5eaa947b1ac",
+      "sharedAyahs": [
+        "8:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xTH7FhW5N90",
+          "start": 924.46,
+          "end": 1580.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:59": {
+      "file": "008-الأنفال-youtube-v1/059.mp3",
+      "durationMs": 55630,
+      "bytes": 668179,
+      "sha256": "9b5963b96599524084f420738747fb4dccd48340eb9eea44233ac5c926e3da00",
+      "sharedAyahs": [
+        "8:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xTH7FhW5N90",
+          "start": 1580.25,
+          "end": 1635.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:60": {
+      "file": "008-الأنفال-youtube-v1/060.mp3",
+      "durationMs": 1021750,
+      "bytes": 12261619,
+      "sha256": "b93712f8bd4e0a00cbd3ad460d4abec0402e9ab43d547cdc0a42b77326121fe0",
+      "sharedAyahs": [
+        "8:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xTH7FhW5N90",
+          "start": 1635.86,
+          "end": 2657.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:61": {
+      "file": "008-الأنفال-youtube-v1/061.mp3",
+      "durationMs": 182020,
+      "bytes": 2184787,
+      "sha256": "80e8efb4dd30bcb8d0e3481aeb52f3c75586cbf41a1c4938001e6afd7cdd0e55",
+      "sharedAyahs": [
+        "8:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f8b07fslHHY",
+          "start": 4.34,
+          "end": 186.33
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:62": {
+      "file": "008-الأنفال-youtube-v1/062.mp3",
+      "durationMs": 153770,
+      "bytes": 1845811,
+      "sha256": "4aea198bc3f8cf23fcd4251c0831e910e854ee62888e3bb5697001b02617ba9f",
+      "sharedAyahs": [
+        "8:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f8b07fslHHY",
+          "start": 186.33,
+          "end": 340.07
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:63": {
+      "file": "008-الأنفال-youtube-v1/063.mp3",
+      "durationMs": 60290,
+      "bytes": 724051,
+      "sha256": "770e5278e1dd0839ca08ccdd63be54f4e284701257508aff8982eebb180c9c18",
+      "sharedAyahs": [
+        "8:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f8b07fslHHY",
+          "start": 340.07,
+          "end": 400.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:64": {
+      "file": "008-الأنفال-youtube-v1/064.mp3",
+      "durationMs": 219480,
+      "bytes": 2634355,
+      "sha256": "c353127d7fa9e748b2e4a18f7994fd98e1fb58e39df289dc27e1b9993796be18",
+      "sharedAyahs": [
+        "8:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f8b07fslHHY",
+          "start": 400.34,
+          "end": 619.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:65": {
+      "file": "008-الأنفال-youtube-v1/065.mp3",
+      "durationMs": 927600,
+      "bytes": 11131795,
+      "sha256": "54c804cd6d5831cbc7ae4ab94909ae89be52dbf91a752276cb5ac834d88b221a",
+      "sharedAyahs": [
+        "8:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f8b07fslHHY",
+          "start": 619.8,
+          "end": 1547.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:66": {
+      "file": "008-الأنفال-youtube-v1/066.mp3",
+      "durationMs": 1074220,
+      "bytes": 12891187,
+      "sha256": "b8d0d490dc66038dc3d93175dc3a9e1cf66cfd3bd9135564f23091dc5818607b",
+      "sharedAyahs": [
+        "8:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "f8b07fslHHY",
+          "start": 1547.36,
+          "end": 2621.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:67": {
+      "file": "008-الأنفال-youtube-v1/067.mp3",
+      "durationMs": 706320,
+      "bytes": 8476435,
+      "sha256": "2d8d96beed57c5b315486736b38a7baa61c88340b6cf49ce45ecf59ec5917df1",
+      "sharedAyahs": [
+        "8:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TYdb8IMzbt8",
+          "start": 27.72,
+          "end": 734.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:68": {
+      "file": "008-الأنفال-youtube-v1/068.mp3",
+      "durationMs": 17860,
+      "bytes": 214867,
+      "sha256": "357fe4c49c4f22dbd032ca6c5b40c936fc259a2d187db922745ebe2004930364",
+      "sharedAyahs": [
+        "8:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TYdb8IMzbt8",
+          "start": 1013.75,
+          "end": 1031.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:69": {
+      "file": "008-الأنفال-youtube-v1/069.mp3",
+      "durationMs": 152900,
+      "bytes": 1835443,
+      "sha256": "9d5e133cb09927c7df01f4d44ee03a98b021c489564e9514c2d486e4c0ef915d",
+      "sharedAyahs": [
+        "8:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TYdb8IMzbt8",
+          "start": 1031.59,
+          "end": 1184.46
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:70": {
+      "file": "008-الأنفال-youtube-v1/070.mp3",
+      "durationMs": 67150,
+      "bytes": 806419,
+      "sha256": "0facf535cbc2dc394704eb412a92e300f76b77edd521a8dc8e61aadfb6e6c5f7",
+      "sharedAyahs": [
+        "8:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TYdb8IMzbt8",
+          "start": 1184.46,
+          "end": 1251.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:71": {
+      "file": "008-الأنفال-youtube-v1/071.mp3",
+      "durationMs": 284690,
+      "bytes": 3416851,
+      "sha256": "59cbe362c1a056c48d2cd41b4e75a1c5686bca8dec394b0bd79aa77b6aec2aa2",
+      "sharedAyahs": [
+        "8:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TYdb8IMzbt8",
+          "start": 1251.58,
+          "end": 1536.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:72": {
+      "file": "008-الأنفال-youtube-v1/072.mp3",
+      "durationMs": 545620,
+      "bytes": 6547987,
+      "sha256": "66ae60a46af65eb7fb1aafa71c31165ace014225b64c7a77260a64d28b6216df",
+      "sharedAyahs": [
+        "8:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TYdb8IMzbt8",
+          "start": 1536.25,
+          "end": 2081.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:73": {
+      "file": "008-الأنفال-youtube-v1/073.mp3",
+      "durationMs": 656520,
+      "bytes": 7878835,
+      "sha256": "dc77bd457bba4ba8184d5665f1e00467de30bab441a8ffd0f4288a3c1c49c5d9",
+      "sharedAyahs": [
+        "8:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TYdb8IMzbt8",
+          "start": 2081.85,
+          "end": 2738.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:74": {
+      "file": "008-الأنفال-youtube-v1/074.mp3",
+      "durationMs": 483500,
+      "bytes": 5802643,
+      "sha256": "edb33f069b3a05d2e928181b9788e3c6ed63b23c2cd6f87449c0078c2646ce3d",
+      "sharedAyahs": [
+        "8:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qa9KZNZlVwQ",
+          "start": 521.26,
+          "end": 1004.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "8:75": {
+      "file": "008-الأنفال-youtube-v1/075.mp3",
+      "durationMs": 709510,
+      "bytes": 8514739,
+      "sha256": "c9d9524d3e043f3f3842167aed7d35eef0cf882738cbf225b26e23d0dca77a72",
+      "sharedAyahs": [
+        "8:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qa9KZNZlVwQ",
+          "start": 1004.75,
+          "end": 1714.27
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "008-الأنفال-youtube-v1/other-00.mp3",
+      "kind": "other",
+      "durationMs": 240960,
+      "bytes": 2892106,
+      "sha256": "036741ca2f1b5ff29ebebe366311a7706093bcf7785720b452de2494aa8d8520",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "i4m3gxxHS5g",
+          "start": 0.0,
+          "end": 240.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-01.mp3",
+      "kind": "other",
+      "durationMs": 427200,
+      "bytes": 5126986,
+      "sha256": "669e6603c101e85234a2454a4b0619d1075a75bbd0a58a6bcde5d8319aa7fba2",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "i4m3gxxHS5g",
+          "start": 240.92,
+          "end": 668.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-04.mp3",
+      "kind": "other",
+      "durationMs": 436010,
+      "bytes": 5232682,
+      "sha256": "b587a777c25f7140616716e27fb92a2033508b415ff51e255e4f9d9bbce63d57",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-cWcj4qacNE",
+          "start": 27.21,
+          "end": 463.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-11.mp3",
+      "kind": "other",
+      "durationMs": 429890,
+      "bytes": 5159242,
+      "sha256": "caa9c998b575e3e809642c2d034f5d58187884e4b7dc50890279aa1865553a4f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-cWcj4qacNE",
+          "start": 2219.13,
+          "end": 2648.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-21.mp3",
+      "kind": "other",
+      "durationMs": 301220,
+      "bytes": 3615274,
+      "sha256": "c19087e2744ed6a41a9cec36472ce0934342f929d512ce22830b4484c212ae5f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "G2ZKyBcaOe8",
+          "start": 1580.0,
+          "end": 1881.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-24.mp3",
+      "kind": "other",
+      "durationMs": 454250,
+      "bytes": 5451562,
+      "sha256": "f6d78452bae08993afd6f73e5ab64ee478d2bdd706f893e1a0b61b59a33600d1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "da8YF08FfkY",
+          "start": 2.7,
+          "end": 456.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-30.mp3",
+      "kind": "other",
+      "durationMs": 695710,
+      "bytes": 8349130,
+      "sha256": "b94e2aa9a78e0646cd46ab3e17ab5d4bfb1ea971c18dc1cb862138b471669c52",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "QYinHaUet2U",
+          "start": 950.0,
+          "end": 1645.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-35.mp3",
+      "kind": "other",
+      "durationMs": 465670,
+      "bytes": 5588650,
+      "sha256": "fa33223d8072b4313e0baf82c067b15a7a317fdc4d936a46827752421f78c49d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "WOeLk0FH0Go",
+          "start": 1034.35,
+          "end": 1500.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-41.mp3",
+      "kind": "other",
+      "durationMs": 363580,
+      "bytes": 4363498,
+      "sha256": "b6468c864e5537eedacde85cd2cbe2aaea5c702be9b6e65ae80987dd0b50c21f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "d2oKuHm9nDM",
+          "start": 1600.0,
+          "end": 1963.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-59.mp3",
+      "kind": "other",
+      "durationMs": 1033300,
+      "bytes": 12400138,
+      "sha256": "b2147dd4b1f6799fda12673af9367dc8e54b3188356ffa0f6e767eade57fd50a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HXxfIN1wqnY",
+          "start": 28.74,
+          "end": 1062.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-77.mp3",
+      "kind": "other",
+      "durationMs": 279770,
+      "bytes": 3357802,
+      "sha256": "bfebbd6c6e124b60197f0fc34525a5b7feb18a62fad387a39467531ba5929a0a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "TYdb8IMzbt8",
+          "start": 734.0,
+          "end": 1013.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "008-الأنفال-youtube-v1/other-84.mp3",
+      "kind": "other",
+      "durationMs": 493970,
+      "bytes": 5928202,
+      "sha256": "b476f196fef7821f66161b0ade92a8b2bbeb72b1ec92a8e81593163b2d5cb682",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "qa9KZNZlVwQ",
+          "start": 27.32,
+          "end": 521.26
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLFE2C9AB006BC8FFA",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "anfal-quran-questions-wisdom",
+      "title": "أسلوب القرآن في توجيه أسئلة الصحابة وأجوبتها ولطائف التعبير",
+      "file": "008-الأنفال-youtube-v1/other-00.mp3",
+      "startMs": 0,
+      "endMs": 240960
+    },
+    {
+      "id": "anfal-spoils-rules",
+      "title": "أحكام الغنائم والأنفال والفيء والسلب والقبض في الإسلام",
+      "file": "008-الأنفال-youtube-v1/other-01.mp3",
+      "startMs": 0,
+      "endMs": 427200
+    },
+    {
+      "id": "anfal-tawakkul-causes",
+      "title": "حقيقة التوكل على الله: عمل الجوارح وتوكل القلوب وحكمة الأسباب",
+      "file": "008-الأنفال-youtube-v1/other-04.mp3",
+      "startMs": 0,
+      "endMs": 436010
+    },
+    {
+      "id": "anfal-badr-angels-intro",
+      "title": "مقدمات الاستغاثة والإمداد بالملائكة وبشارات النصر في بدر",
+      "file": "008-الأنفال-youtube-v1/other-11.mp3",
+      "startMs": 0,
+      "endMs": 429890
+    },
+    {
+      "id": "anfal-divine-agency",
+      "title": "إثبات الفعل الحقيقي لله ونفي القدرة الذاتية: وما رميت إذ رميت ولكن الله رمى",
+      "file": "008-الأنفال-youtube-v1/other-21.mp3",
+      "startMs": 0,
+      "endMs": 301220
+    },
+    {
+      "id": "anfal-victory-conditions",
+      "title": "معاني الفتح وشروط النصر الإلهي ودعاء المشركين على أنفسهم",
+      "file": "008-الأنفال-youtube-v1/other-24.mp3",
+      "startMs": 0,
+      "endMs": 454250
+    },
+    {
+      "id": "anfal-life-of-hearts",
+      "title": "الاستجابة لله وللرسول وحياة القلوب وحيلولة الله بين المرء وقلبه",
+      "file": "008-الأنفال-youtube-v1/other-30.mp3",
+      "startMs": 0,
+      "endMs": 695710
+    },
+    {
+      "id": "anfal-taqwa-furqan",
+      "title": "التقوى والفرقان وتكفير السيئات ومواجهة مكر الأعداء",
+      "file": "008-الأنفال-youtube-v1/other-35.mp3",
+      "startMs": 0,
+      "endMs": 465670
+    },
+    {
+      "id": "anfal-divine-mercy-istighfar",
+      "title": "أمانا الأمة من العذاب: وجود النبي صلى الله عليه وسلم والاستغفار",
+      "file": "008-الأنفال-youtube-v1/other-41.mp3",
+      "startMs": 0,
+      "endMs": 363580
+    },
+    {
+      "id": "anfal-angels-death-disbelievers",
+      "title": "مشهد توفي الملائكة للكافرين وضرب الوجوه والأدبار وعذاب الحريق",
+      "file": "008-الأنفال-youtube-v1/other-59.mp3",
+      "startMs": 0,
+      "endMs": 1033300
+    },
+    {
+      "id": "anfal-ransom-captives",
+      "title": "حكم أسرى بدر ومشورة الصحابة وحكمة الفداء والعتاب الإلهي",
+      "file": "008-الأنفال-youtube-v1/other-77.mp3",
+      "startMs": 0,
+      "endMs": 279770
+    },
+    {
+      "id": "anfal-loyalty-believers",
+      "title": "مراتب المؤمنين في الهجرة والنصرة والولاية وحكم توارث أولي الأرحام",
+      "file": "008-الأنفال-youtube-v1/other-84.mp3",
+      "startMs": 0,
+      "endMs": 493970
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "i4m3gxxHS5g",
+      "-cWcj4qacNE",
+      "qYdyYydwxls",
+      "G2ZKyBcaOe8",
+      "da8YF08FfkY",
+      "QYinHaUet2U",
+      "WOeLk0FH0Go",
+      "d2oKuHm9nDM",
+      "4jhcADpDdow",
+      "oxWWRq9Fbmg",
+      "HXxfIN1wqnY",
+      "xTH7FhW5N90",
+      "f8b07fslHHY",
+      "TYdb8IMzbt8",
+      "qa9KZNZlVwQ"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "008-الأنفال-youtube-v1/other-00.mp3",
+        "startMs": 0,
+        "endMs": 240960,
+        "durationMs": 240960,
+        "recordingDurationMs": 240960,
+        "bytes": 2892106,
+        "sha256": "036741ca2f1b5ff29ebebe366311a7706093bcf7785720b452de2494aa8d8520",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "i4m3gxxHS5g",
+            "start": 0.0,
+            "end": 240.92
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-01.mp3",
+        "startMs": 0,
+        "endMs": 427200,
+        "durationMs": 427200,
+        "recordingDurationMs": 427200,
+        "bytes": 5126986,
+        "sha256": "669e6603c101e85234a2454a4b0619d1075a75bbd0a58a6bcde5d8319aa7fba2",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "i4m3gxxHS5g",
+            "start": 240.92,
+            "end": 668.1
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 497710,
+        "durationMs": 497710,
+        "recordingDurationMs": 497710,
+        "bytes": 5973137,
+        "sha256": "d24eb972ba977c7df4bc77c9b02f55fcb9f5e20b29b769f5297f2fd16d783d9e",
+        "sharedAyahs": [
+          "8:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "i4m3gxxHS5g",
+            "start": 668.1,
+            "end": 1165.78
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 513940,
+        "durationMs": 513940,
+        "recordingDurationMs": 513940,
+        "bytes": 6167825,
+        "sha256": "b5dbaa97adac02cb803f3b65a186ee17e24ea186fca956adccca6d3e8def3bf0",
+        "sharedAyahs": [
+          "8:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "i4m3gxxHS5g",
+            "start": 1165.78,
+            "end": 1679.71
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-04.mp3",
+        "startMs": 0,
+        "endMs": 436010,
+        "durationMs": 436010,
+        "recordingDurationMs": 436010,
+        "bytes": 5232682,
+        "sha256": "b587a777c25f7140616716e27fb92a2033508b415ff51e255e4f9d9bbce63d57",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-cWcj4qacNE",
+            "start": 27.21,
+            "end": 463.18
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 123620,
+        "durationMs": 123620,
+        "recordingDurationMs": 123620,
+        "bytes": 1484081,
+        "sha256": "e4822c9b132a46b9cb447d414d872fb0728274a47e4d1646bca96094ad9578a7",
+        "sharedAyahs": [
+          "8:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-cWcj4qacNE",
+            "start": 463.18,
+            "end": 586.78
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 972050,
+        "durationMs": 972050,
+        "recordingDurationMs": 972050,
+        "bytes": 11665169,
+        "sha256": "1b11d302f7a2293000a00337a06e6e3ece2e73db0a12d0321ae6f359070ab28c",
+        "sharedAyahs": [
+          "8:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-cWcj4qacNE",
+            "start": 586.78,
+            "end": 1558.81
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 226700,
+        "durationMs": 226700,
+        "recordingDurationMs": 226700,
+        "bytes": 2721041,
+        "sha256": "bd20c57b2c6994ef7f76d378390ad3645eac67af43e23d8c72fafed7659b0777",
+        "sharedAyahs": [
+          "8:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-cWcj4qacNE",
+            "start": 1558.81,
+            "end": 1785.5
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 245500,
+        "durationMs": 245500,
+        "recordingDurationMs": 245500,
+        "bytes": 2946545,
+        "sha256": "4ffa9f52aabebda81463796e1a1a027857cd0ddd1eb5ba1219298f73bb8ba25d",
+        "sharedAyahs": [
+          "8:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-cWcj4qacNE",
+            "start": 1785.5,
+            "end": 2030.96
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 177770,
+        "durationMs": 177770,
+        "recordingDurationMs": 177770,
+        "bytes": 2133809,
+        "sha256": "185ffdfb93c2dcf462f0f764e24fa7a653ac83cb8da39cab841d4303c56180de",
+        "sharedAyahs": [
+          "8:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-cWcj4qacNE",
+            "start": 2030.96,
+            "end": 2208.7
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 10440,
+        "durationMs": 10440,
+        "recordingDurationMs": 10440,
+        "bytes": 125873,
+        "sha256": "33c54bf9a0e07efa6eff0b505287144aff7f6f7678b2a4370c28d5d640b048cb",
+        "sharedAyahs": [
+          "8:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-cWcj4qacNE",
+            "start": 2208.7,
+            "end": 2219.13
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-11.mp3",
+        "startMs": 0,
+        "endMs": 429890,
+        "durationMs": 429890,
+        "recordingDurationMs": 429890,
+        "bytes": 5159242,
+        "sha256": "caa9c998b575e3e809642c2d034f5d58187884e4b7dc50890279aa1865553a4f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-cWcj4qacNE",
+            "start": 2219.13,
+            "end": 2648.99
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 539830,
+        "durationMs": 539830,
+        "recordingDurationMs": 539830,
+        "bytes": 6478577,
+        "sha256": "5ee4f43339a8f865842837ab86386a9f5c35eaa09efde55fbb3180aec3acbd2b",
+        "sharedAyahs": [
+          "8:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qYdyYydwxls",
+            "start": 5.23,
+            "end": 545.04
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 885360,
+        "durationMs": 885360,
+        "recordingDurationMs": 885360,
+        "bytes": 10624915,
+        "sha256": "4dbbf5d1f7611583d32eea9657eaa6bd26111b9e3785542fa4170807f530a103",
+        "sharedAyahs": [
+          "8:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qYdyYydwxls",
+            "start": 545.04,
+            "end": 1430.37
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 495980,
+        "durationMs": 495980,
+        "recordingDurationMs": 495980,
+        "bytes": 5952403,
+        "sha256": "20a6da9a38e24dd0c56d4a851f146b3185d658cfd2858a324e2380f2b054b89a",
+        "sharedAyahs": [
+          "8:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qYdyYydwxls",
+            "start": 1430.37,
+            "end": 1926.32
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 263930,
+        "durationMs": 263930,
+        "recordingDurationMs": 263930,
+        "bytes": 3167731,
+        "sha256": "c0c4fffac408e19b003d8bf6a02f5572f4decd34ed2594399dfc1a540dfe395d",
+        "sharedAyahs": [
+          "8:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qYdyYydwxls",
+            "start": 1926.32,
+            "end": 2190.22
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 343660,
+        "durationMs": 343660,
+        "recordingDurationMs": 343660,
+        "bytes": 4124467,
+        "sha256": "9701356815adec6e9cd9614137fff43456533863ad50d9f440c6713498c96cf4",
+        "sharedAyahs": [
+          "8:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qYdyYydwxls",
+            "start": 2190.22,
+            "end": 2533.87
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 141650,
+        "durationMs": 141650,
+        "recordingDurationMs": 141650,
+        "bytes": 1700371,
+        "sha256": "49fc8ed8a86e5c912499eb39f341e45d9db2459f55b81ca7736d3c4e29ba3dca",
+        "sharedAyahs": [
+          "8:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qYdyYydwxls",
+            "start": 2533.87,
+            "end": 2675.48
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 1029260,
+        "durationMs": 1029260,
+        "recordingDurationMs": 1029260,
+        "bytes": 12351763,
+        "sha256": "89e1a55ccacb3c2eebe87b93a0e6ca9dc652838363fc8732598f4d2b6e05b537",
+        "sharedAyahs": [
+          "8:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G2ZKyBcaOe8",
+            "start": 0.0,
+            "end": 1029.22
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 273770,
+        "durationMs": 273770,
+        "recordingDurationMs": 273770,
+        "bytes": 3285811,
+        "sha256": "73aab2cc1542d76066b45fc9ae1532479e10b4aa6aa678695cbf3cf3203dd240",
+        "sharedAyahs": [
+          "8:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G2ZKyBcaOe8",
+            "start": 1029.22,
+            "end": 1302.97
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 277060,
+        "durationMs": 277060,
+        "recordingDurationMs": 277060,
+        "bytes": 3325267,
+        "sha256": "e863ea05c3f35b1075631cffc6c1b90bd0ea82a8a3c472e5da4b907dd39241fb",
+        "sharedAyahs": [
+          "8:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G2ZKyBcaOe8",
+            "start": 1302.97,
+            "end": 1580.0
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-21.mp3",
+        "startMs": 0,
+        "endMs": 301220,
+        "durationMs": 301220,
+        "recordingDurationMs": 301220,
+        "bytes": 3615274,
+        "sha256": "c19087e2744ed6a41a9cec36472ce0934342f929d512ce22830b4484c212ae5f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "G2ZKyBcaOe8",
+            "start": 1580.0,
+            "end": 1881.2
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 4220,
+        "durationMs": 4220,
+        "recordingDurationMs": 4220,
+        "bytes": 51283,
+        "sha256": "711db8bb26d12b6924b17be564f3ac01f449681baeb97fb21639e172fb5608e3",
+        "sharedAyahs": [
+          "8:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G2ZKyBcaOe8",
+            "start": 1881.2,
+            "end": 1885.4
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 810600,
+        "durationMs": 810600,
+        "recordingDurationMs": 810600,
+        "bytes": 9727795,
+        "sha256": "fa54c1e31907dccc0ce6b6557df80b0b521e5b8c28c88f72d2a4e422ca6802e0",
+        "sharedAyahs": [
+          "8:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G2ZKyBcaOe8",
+            "start": 1885.4,
+            "end": 2696.02
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-24.mp3",
+        "startMs": 0,
+        "endMs": 454250,
+        "durationMs": 454250,
+        "recordingDurationMs": 454250,
+        "bytes": 5451562,
+        "sha256": "f6d78452bae08993afd6f73e5ab64ee478d2bdd706f893e1a0b61b59a33600d1",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "da8YF08FfkY",
+            "start": 2.7,
+            "end": 456.93
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 595780,
+        "durationMs": 595780,
+        "recordingDurationMs": 595780,
+        "bytes": 7149907,
+        "sha256": "7f509076639de4c1c05c319c2a4763ea697174f707ea9b08eedb3c113ca23ac6",
+        "sharedAyahs": [
+          "8:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "da8YF08FfkY",
+            "start": 456.93,
+            "end": 1052.67
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 30020,
+        "durationMs": 30020,
+        "recordingDurationMs": 30020,
+        "bytes": 360883,
+        "sha256": "d1db7be607c36ed5b49b9ab21976cd0439dd54dcade2e30c50f131ba3e3b5ae4",
+        "sharedAyahs": [
+          "8:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "da8YF08FfkY",
+            "start": 1052.67,
+            "end": 1082.67
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 688540,
+        "durationMs": 688540,
+        "recordingDurationMs": 688540,
+        "bytes": 8263027,
+        "sha256": "b606660b745d0173019175c7ccb96c6e66c71b28ae8b7e3c1bcb9ed08fb99213",
+        "sharedAyahs": [
+          "8:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "da8YF08FfkY",
+            "start": 1082.67,
+            "end": 1771.18
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 889370,
+        "durationMs": 889370,
+        "recordingDurationMs": 889370,
+        "bytes": 10673011,
+        "sha256": "aa0347d6d3958a0770688233a366bc863b71257832cd5926976f22fef57ea08b",
+        "sharedAyahs": [
+          "8:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "da8YF08FfkY",
+            "start": 1771.18,
+            "end": 2660.54
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 944860,
+        "durationMs": 944860,
+        "recordingDurationMs": 944860,
+        "bytes": 11338867,
+        "sha256": "c75d055d7f37aed963bd7943e2b7e7ae541676d7e99f94f8e259376825bc7f38",
+        "sharedAyahs": [
+          "8:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QYinHaUet2U",
+            "start": 5.17,
+            "end": 950.0
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-30.mp3",
+        "startMs": 0,
+        "endMs": 695710,
+        "durationMs": 695710,
+        "recordingDurationMs": 695710,
+        "bytes": 8349130,
+        "sha256": "b94e2aa9a78e0646cd46ab3e17ab5d4bfb1ea971c18dc1cb862138b471669c52",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "QYinHaUet2U",
+            "start": 950.0,
+            "end": 1645.7
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 40700,
+        "durationMs": 40700,
+        "recordingDurationMs": 40700,
+        "bytes": 489043,
+        "sha256": "eba55a136ad84580a2a7d65e8f4095f5f986ac6d2c143e4d75bdf798d9db4654",
+        "sharedAyahs": [
+          "8:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QYinHaUet2U",
+            "start": 1645.7,
+            "end": 1686.38
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 513650,
+        "durationMs": 513650,
+        "recordingDurationMs": 513650,
+        "bytes": 6164371,
+        "sha256": "9be8c93b7cd23c5f56c13b95a52110166f0a2d755c2bc89e15caabc6e8be383c",
+        "sharedAyahs": [
+          "8:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QYinHaUet2U",
+            "start": 1686.38,
+            "end": 2200.0
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 392330,
+        "durationMs": 392330,
+        "recordingDurationMs": 392330,
+        "bytes": 4708531,
+        "sha256": "4d50fd380dbf0487e754e1b4384bd83e048d93b38ab4f76dc14c9067d4c81e3b",
+        "sharedAyahs": [
+          "8:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "QYinHaUet2U",
+            "start": 2200.0,
+            "end": 2592.29
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 1034380,
+        "durationMs": 1034380,
+        "recordingDurationMs": 1034380,
+        "bytes": 12413107,
+        "sha256": "4380616f9300dcfaac9a1674bd7e059183892c53cb6e3f317a28225465719fe8",
+        "sharedAyahs": [
+          "8:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WOeLk0FH0Go",
+            "start": 0.0,
+            "end": 1034.35
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-35.mp3",
+        "startMs": 0,
+        "endMs": 465670,
+        "durationMs": 465670,
+        "recordingDurationMs": 465670,
+        "bytes": 5588650,
+        "sha256": "fa33223d8072b4313e0baf82c067b15a7a317fdc4d936a46827752421f78c49d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "WOeLk0FH0Go",
+            "start": 1034.35,
+            "end": 1500.0
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 805030,
+        "durationMs": 805030,
+        "recordingDurationMs": 805030,
+        "bytes": 9660979,
+        "sha256": "2d84ee03aecceb3f31daa47a1d96bc2086d255fc1ff521449b6d0d230bd61289",
+        "sharedAyahs": [
+          "8:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WOeLk0FH0Go",
+            "start": 1500.0,
+            "end": 2305.0
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 295870,
+        "durationMs": 295870,
+        "recordingDurationMs": 295870,
+        "bytes": 3551059,
+        "sha256": "21b7f2d2a3bda01f65fb1cb50ee6cc573d4768c7944aecfe3017c064d32e4c19",
+        "sharedAyahs": [
+          "8:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WOeLk0FH0Go",
+            "start": 2305.0,
+            "end": 2600.84
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 962710,
+        "durationMs": 962710,
+        "recordingDurationMs": 962710,
+        "bytes": 11553139,
+        "sha256": "102f516935e55dd0670ca308eb2411f6b15f9622c1ddb53fb23544bec6048bed",
+        "sharedAyahs": [
+          "8:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d2oKuHm9nDM",
+            "start": 3.89,
+            "end": 966.6
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 346420,
+        "durationMs": 346420,
+        "recordingDurationMs": 346420,
+        "bytes": 4157587,
+        "sha256": "8d1bfb4662b471c94c943eb18f7bb93b0a07ae217c30b55ea61abe5f6c538c82",
+        "sharedAyahs": [
+          "8:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d2oKuHm9nDM",
+            "start": 966.6,
+            "end": 1312.99
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 287040,
+        "durationMs": 287040,
+        "recordingDurationMs": 287040,
+        "bytes": 3445075,
+        "sha256": "3e4d7d73cefdbb9dd21b03605c93a2a8838c7002c85e1d4207e0feed4a870de9",
+        "sharedAyahs": [
+          "8:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d2oKuHm9nDM",
+            "start": 1312.99,
+            "end": 1600.0
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-41.mp3",
+        "startMs": 0,
+        "endMs": 363580,
+        "durationMs": 363580,
+        "recordingDurationMs": 363580,
+        "bytes": 4363498,
+        "sha256": "b6468c864e5537eedacde85cd2cbe2aaea5c702be9b6e65ae80987dd0b50c21f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "d2oKuHm9nDM",
+            "start": 1600.0,
+            "end": 1963.54
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 357980,
+        "durationMs": 357980,
+        "recordingDurationMs": 357980,
+        "bytes": 4296403,
+        "sha256": "d3cd87108c03b588f018318ee0a4cee7cd9488ce980674fd4a74405d0449b758",
+        "sharedAyahs": [
+          "8:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d2oKuHm9nDM",
+            "start": 1963.54,
+            "end": 2321.52
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 11280,
+        "durationMs": 11280,
+        "recordingDurationMs": 11280,
+        "bytes": 135955,
+        "sha256": "8b095a59c494ec05e8d4de6efd80a9ef49f226e14d0b82a15d2c340aea40f5d0",
+        "sharedAyahs": [
+          "8:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d2oKuHm9nDM",
+            "start": 2321.52,
+            "end": 2332.77
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 331660,
+        "durationMs": 331660,
+        "recordingDurationMs": 331660,
+        "bytes": 3980467,
+        "sha256": "7b028ace5116abcd436adefd0fed3a95d37659f471040f47da0a4bdc02cc817c",
+        "sharedAyahs": [
+          "8:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "d2oKuHm9nDM",
+            "start": 2332.77,
+            "end": 2664.4
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 229610,
+        "durationMs": 229610,
+        "recordingDurationMs": 229610,
+        "bytes": 2755891,
+        "sha256": "41ef67ee76cac0126404e7864d25479ad33133c4969983648fdd2dcb06ce4ae2",
+        "sharedAyahs": [
+          "8:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jhcADpDdow",
+            "start": 23.85,
+            "end": 253.44
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 363860,
+        "durationMs": 363860,
+        "recordingDurationMs": 363860,
+        "bytes": 4366963,
+        "sha256": "57c2edfe23c485687739e9587c8a28753e18a65bf9231d7c93eb2053e3da0a53",
+        "sharedAyahs": [
+          "8:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jhcADpDdow",
+            "start": 253.44,
+            "end": 617.27
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 372940,
+        "durationMs": 372940,
+        "recordingDurationMs": 372940,
+        "bytes": 4475827,
+        "sha256": "7a77dea247645cb92e97f983b8b7214d6c3b82e599181b6e5fe98322cccdc30e",
+        "sharedAyahs": [
+          "8:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jhcADpDdow",
+            "start": 617.27,
+            "end": 990.17
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 191570,
+        "durationMs": 191570,
+        "recordingDurationMs": 191570,
+        "bytes": 2299411,
+        "sha256": "0f84354637d594a19b9d8055881a5a8702679dd2ecae6c8d59f981ce87aab02f",
+        "sharedAyahs": [
+          "8:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jhcADpDdow",
+            "start": 990.17,
+            "end": 1181.73
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 720310,
+        "durationMs": 720310,
+        "recordingDurationMs": 720310,
+        "bytes": 8644339,
+        "sha256": "61c98f4614c0d5a2ce6ea48be3f150b33ce85a0c9827f67c0e6e198bfe3d9c3f",
+        "sharedAyahs": [
+          "8:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jhcADpDdow",
+            "start": 1181.73,
+            "end": 1902.02
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 431780,
+        "durationMs": 431780,
+        "recordingDurationMs": 431780,
+        "bytes": 5182003,
+        "sha256": "350ce58fcd661d9b174757dd49cf0d4e91c8ac3d10a02f06b5da10e709a472db",
+        "sharedAyahs": [
+          "8:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jhcADpDdow",
+            "start": 1902.02,
+            "end": 2333.78
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 152780,
+        "durationMs": 152780,
+        "recordingDurationMs": 152780,
+        "bytes": 1834003,
+        "sha256": "f288f9771265406f9a94154f3a8262a21dd76bafe167f48c8a5ebeb564df6dd2",
+        "sharedAyahs": [
+          "8:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jhcADpDdow",
+            "start": 2333.78,
+            "end": 2486.53
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 26500,
+        "durationMs": 26500,
+        "recordingDurationMs": 26500,
+        "bytes": 318547,
+        "sha256": "33721151da718c6cd5eb726e65c8fb89b753ff2ea05207d8b861aaaba5388a1d",
+        "sharedAyahs": [
+          "8:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4jhcADpDdow",
+            "start": 2486.53,
+            "end": 2513.0
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 584690,
+        "durationMs": 584690,
+        "recordingDurationMs": 584690,
+        "bytes": 7016851,
+        "sha256": "ddc197a137f44fecf9dfe57637e124c4091bd67fb8cb02d8bf1af124dfaf4c57",
+        "sharedAyahs": [
+          "8:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxWWRq9Fbmg",
+            "start": 3.98,
+            "end": 588.63
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 1057610,
+        "durationMs": 1057610,
+        "recordingDurationMs": 1057610,
+        "bytes": 12691891,
+        "sha256": "e788c3671f0fb9b4e59bbef62d99d978fa195e04e8faa27d6b31b5542f95cd6b",
+        "sharedAyahs": [
+          "8:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxWWRq9Fbmg",
+            "start": 588.63,
+            "end": 1646.23
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 46390,
+        "durationMs": 46390,
+        "recordingDurationMs": 46390,
+        "bytes": 557299,
+        "sha256": "4ecb926be1df8a6c2ab3449b5a8f285074090c9ea713a8ac373cab5a0c1cf951",
+        "sharedAyahs": [
+          "8:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxWWRq9Fbmg",
+            "start": 1646.23,
+            "end": 1692.6
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 240140,
+        "durationMs": 240140,
+        "recordingDurationMs": 240140,
+        "bytes": 2882323,
+        "sha256": "dc35d0d2009a0cfccc01eea05692b781d3be8f246470d4e2afc09734ca89fed1",
+        "sharedAyahs": [
+          "8:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxWWRq9Fbmg",
+            "start": 1692.6,
+            "end": 1932.72
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 550970,
+        "durationMs": 550970,
+        "recordingDurationMs": 550970,
+        "bytes": 6612211,
+        "sha256": "88922c391443d4aef4880cca07cfbdc5484d91bfdd7783ced360039a810a1559",
+        "sharedAyahs": [
+          "8:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxWWRq9Fbmg",
+            "start": 1932.72,
+            "end": 2483.65
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 188620,
+        "durationMs": 188620,
+        "recordingDurationMs": 188620,
+        "bytes": 2263987,
+        "sha256": "e86d869890cc3ec607a03a46cdcf0c4e84dea82016127a0b5247066cf3f83a0f",
+        "sharedAyahs": [
+          "8:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oxWWRq9Fbmg",
+            "start": 2483.65,
+            "end": 2672.25
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-59.mp3",
+        "startMs": 0,
+        "endMs": 1033300,
+        "durationMs": 1033300,
+        "recordingDurationMs": 1033300,
+        "bytes": 12400138,
+        "sha256": "b2147dd4b1f6799fda12673af9367dc8e54b3188356ffa0f6e767eade57fd50a",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "HXxfIN1wqnY",
+            "start": 28.74,
+            "end": 1062.02
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 1072800,
+        "durationMs": 1072800,
+        "recordingDurationMs": 1072800,
+        "bytes": 12874195,
+        "sha256": "0668c2b7ac754b7d89170e3dddfd2f4a5792fb9eafc7810b6d297c047d36f0e7",
+        "sharedAyahs": [
+          "8:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HXxfIN1wqnY",
+            "start": 1062.02,
+            "end": 2134.79
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 256340,
+        "durationMs": 256340,
+        "recordingDurationMs": 256340,
+        "bytes": 3076723,
+        "sha256": "479f70839050a077b70946ea2acc3dad589acb2b92a6678027dc33a406e15641",
+        "sharedAyahs": [
+          "8:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HXxfIN1wqnY",
+            "start": 2134.79,
+            "end": 2391.11
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 79560,
+        "durationMs": 79560,
+        "recordingDurationMs": 79560,
+        "bytes": 955315,
+        "sha256": "d4af549363f597eaabd48ce4c9f6b638dbf495f1981415296867d0e3eb8f705f",
+        "sharedAyahs": [
+          "8:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HXxfIN1wqnY",
+            "start": 2391.11,
+            "end": 2470.65
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 155260,
+        "durationMs": 155260,
+        "recordingDurationMs": 155260,
+        "bytes": 1863667,
+        "sha256": "abefb2c14a0400c2aec2b8f9938901cfca9c4b6a33492ed65bfdd9ed7eb00305",
+        "sharedAyahs": [
+          "8:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HXxfIN1wqnY",
+            "start": 2470.65,
+            "end": 2625.87
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 735720,
+        "durationMs": 735720,
+        "recordingDurationMs": 735720,
+        "bytes": 8829235,
+        "sha256": "f1d1fc928bfbd882cc0fed19ef875332156be42bda916c6fbdf396a091fb1729",
+        "sharedAyahs": [
+          "8:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xTH7FhW5N90",
+            "start": 0.0,
+            "end": 735.69
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 74180,
+        "durationMs": 74180,
+        "recordingDurationMs": 74180,
+        "bytes": 890803,
+        "sha256": "3bc116e7ef5d18d3bd203932aa71bf708fde920cc8a7e89753e854ed791fccea",
+        "sharedAyahs": [
+          "8:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xTH7FhW5N90",
+            "start": 735.69,
+            "end": 809.85
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 114650,
+        "durationMs": 114650,
+        "recordingDurationMs": 114650,
+        "bytes": 1376371,
+        "sha256": "44b2a306a292c696154863f3ff2a941e6d2adc6d71bc0413fd6cf738c3ff5d97",
+        "sharedAyahs": [
+          "8:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xTH7FhW5N90",
+            "start": 809.85,
+            "end": 924.46
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 655800,
+        "durationMs": 655800,
+        "recordingDurationMs": 655800,
+        "bytes": 7870195,
+        "sha256": "806e7acceeb6b8d47a3371964fb72fb962077c635a2919a6de5ab5eaa947b1ac",
+        "sharedAyahs": [
+          "8:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xTH7FhW5N90",
+            "start": 924.46,
+            "end": 1580.25
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 55630,
+        "durationMs": 55630,
+        "recordingDurationMs": 55630,
+        "bytes": 668179,
+        "sha256": "9b5963b96599524084f420738747fb4dccd48340eb9eea44233ac5c926e3da00",
+        "sharedAyahs": [
+          "8:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xTH7FhW5N90",
+            "start": 1580.25,
+            "end": 1635.86
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 1021750,
+        "durationMs": 1021750,
+        "recordingDurationMs": 1021750,
+        "bytes": 12261619,
+        "sha256": "b93712f8bd4e0a00cbd3ad460d4abec0402e9ab43d547cdc0a42b77326121fe0",
+        "sharedAyahs": [
+          "8:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xTH7FhW5N90",
+            "start": 1635.86,
+            "end": 2657.59
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 182020,
+        "durationMs": 182020,
+        "recordingDurationMs": 182020,
+        "bytes": 2184787,
+        "sha256": "80e8efb4dd30bcb8d0e3481aeb52f3c75586cbf41a1c4938001e6afd7cdd0e55",
+        "sharedAyahs": [
+          "8:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f8b07fslHHY",
+            "start": 4.34,
+            "end": 186.33
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 153770,
+        "durationMs": 153770,
+        "recordingDurationMs": 153770,
+        "bytes": 1845811,
+        "sha256": "4aea198bc3f8cf23fcd4251c0831e910e854ee62888e3bb5697001b02617ba9f",
+        "sharedAyahs": [
+          "8:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f8b07fslHHY",
+            "start": 186.33,
+            "end": 340.07
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 60290,
+        "durationMs": 60290,
+        "recordingDurationMs": 60290,
+        "bytes": 724051,
+        "sha256": "770e5278e1dd0839ca08ccdd63be54f4e284701257508aff8982eebb180c9c18",
+        "sharedAyahs": [
+          "8:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f8b07fslHHY",
+            "start": 340.07,
+            "end": 400.34
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 219480,
+        "durationMs": 219480,
+        "recordingDurationMs": 219480,
+        "bytes": 2634355,
+        "sha256": "c353127d7fa9e748b2e4a18f7994fd98e1fb58e39df289dc27e1b9993796be18",
+        "sharedAyahs": [
+          "8:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f8b07fslHHY",
+            "start": 400.34,
+            "end": 619.8
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 927600,
+        "durationMs": 927600,
+        "recordingDurationMs": 927600,
+        "bytes": 11131795,
+        "sha256": "54c804cd6d5831cbc7ae4ab94909ae89be52dbf91a752276cb5ac834d88b221a",
+        "sharedAyahs": [
+          "8:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f8b07fslHHY",
+            "start": 619.8,
+            "end": 1547.36
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 1074220,
+        "durationMs": 1074220,
+        "recordingDurationMs": 1074220,
+        "bytes": 12891187,
+        "sha256": "b8d0d490dc66038dc3d93175dc3a9e1cf66cfd3bd9135564f23091dc5818607b",
+        "sharedAyahs": [
+          "8:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "f8b07fslHHY",
+            "start": 1547.36,
+            "end": 2621.56
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 706320,
+        "durationMs": 706320,
+        "recordingDurationMs": 706320,
+        "bytes": 8476435,
+        "sha256": "2d8d96beed57c5b315486736b38a7baa61c88340b6cf49ce45ecf59ec5917df1",
+        "sharedAyahs": [
+          "8:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TYdb8IMzbt8",
+            "start": 27.72,
+            "end": 734.0
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-77.mp3",
+        "startMs": 0,
+        "endMs": 279770,
+        "durationMs": 279770,
+        "recordingDurationMs": 279770,
+        "bytes": 3357802,
+        "sha256": "bfebbd6c6e124b60197f0fc34525a5b7feb18a62fad387a39467531ba5929a0a",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "TYdb8IMzbt8",
+            "start": 734.0,
+            "end": 1013.75
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 17860,
+        "durationMs": 17860,
+        "recordingDurationMs": 17860,
+        "bytes": 214867,
+        "sha256": "357fe4c49c4f22dbd032ca6c5b40c936fc259a2d187db922745ebe2004930364",
+        "sharedAyahs": [
+          "8:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TYdb8IMzbt8",
+            "start": 1013.75,
+            "end": 1031.59
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 152900,
+        "durationMs": 152900,
+        "recordingDurationMs": 152900,
+        "bytes": 1835443,
+        "sha256": "9d5e133cb09927c7df01f4d44ee03a98b021c489564e9514c2d486e4c0ef915d",
+        "sharedAyahs": [
+          "8:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TYdb8IMzbt8",
+            "start": 1031.59,
+            "end": 1184.46
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 67150,
+        "durationMs": 67150,
+        "recordingDurationMs": 67150,
+        "bytes": 806419,
+        "sha256": "0facf535cbc2dc394704eb412a92e300f76b77edd521a8dc8e61aadfb6e6c5f7",
+        "sharedAyahs": [
+          "8:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TYdb8IMzbt8",
+            "start": 1184.46,
+            "end": 1251.58
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 284690,
+        "durationMs": 284690,
+        "recordingDurationMs": 284690,
+        "bytes": 3416851,
+        "sha256": "59cbe362c1a056c48d2cd41b4e75a1c5686bca8dec394b0bd79aa77b6aec2aa2",
+        "sharedAyahs": [
+          "8:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TYdb8IMzbt8",
+            "start": 1251.58,
+            "end": 1536.25
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 545620,
+        "durationMs": 545620,
+        "recordingDurationMs": 545620,
+        "bytes": 6547987,
+        "sha256": "66ae60a46af65eb7fb1aafa71c31165ace014225b64c7a77260a64d28b6216df",
+        "sharedAyahs": [
+          "8:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TYdb8IMzbt8",
+            "start": 1536.25,
+            "end": 2081.85
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 656520,
+        "durationMs": 656520,
+        "recordingDurationMs": 656520,
+        "bytes": 7878835,
+        "sha256": "dc77bd457bba4ba8184d5665f1e00467de30bab441a8ffd0f4288a3c1c49c5d9",
+        "sharedAyahs": [
+          "8:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TYdb8IMzbt8",
+            "start": 2081.85,
+            "end": 2738.34
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/other-84.mp3",
+        "startMs": 0,
+        "endMs": 493970,
+        "durationMs": 493970,
+        "recordingDurationMs": 493970,
+        "bytes": 5928202,
+        "sha256": "b476f196fef7821f66161b0ade92a8b2bbeb72b1ec92a8e81593163b2d5cb682",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "qa9KZNZlVwQ",
+            "start": 27.32,
+            "end": 521.26
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 483500,
+        "durationMs": 483500,
+        "recordingDurationMs": 483500,
+        "bytes": 5802643,
+        "sha256": "edb33f069b3a05d2e928181b9788e3c6ed63b23c2cd6f87449c0078c2646ce3d",
+        "sharedAyahs": [
+          "8:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qa9KZNZlVwQ",
+            "start": 521.26,
+            "end": 1004.75
+          }
+        ]
+      },
+      {
+        "file": "008-الأنفال-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 709510,
+        "durationMs": 709510,
+        "recordingDurationMs": 709510,
+        "bytes": 8514739,
+        "sha256": "c9d9524d3e043f3f3842167aed7d35eef0cf882738cbf225b26e23d0dca77a72",
+        "sharedAyahs": [
+          "8:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qa9KZNZlVwQ",
+            "start": 1004.75,
+            "end": 1714.27
+          }
+        ]
+      }
+    ],
+    "durationMs": 37603110,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
