@@ -1,0 +1,2480 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 34,
+  "surahName": "سبأ",
+  "ayahCount": 54,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 54,
+    "mappedAyahCount": 54,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "a1DrBX9XNpE": {
+      "durationSeconds": 1348.44,
+      "bytes": 16181966,
+      "sha256": "318b279d308c27b37465d82872969336aa457dd6fbedc44773c0157743018e29",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-002_a1DrBX9XNpE.mp3"
+    },
+    "2U94RrwokpU": {
+      "durationSeconds": 2582.04,
+      "bytes": 30985166,
+      "sha256": "c2312822e1e98801d99482288a545305f1b8fd2e9bed1451548fd30df7196c03",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_002-006_2U94RrwokpU.mp3"
+    },
+    "-6h41bOLvwQ": {
+      "durationSeconds": 2696.59,
+      "bytes": 32359790,
+      "sha256": "5c899d323396593b7268eacb95972d433834890cfe0ec1ad4acbb5c440d328a9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_006-008_-6h41bOLvwQ.mp3"
+    },
+    "WnK8VPQ5hSk": {
+      "durationSeconds": 2613.07,
+      "bytes": 31357552,
+      "sha256": "ed3e52dd3b8356bdb439cbbcb06018c878f3f0085763881f1b1bb1aaef3d2d37",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_008-014_WnK8VPQ5hSk.mp3"
+    },
+    "qF6ef4944Kk": {
+      "durationSeconds": 2618.95,
+      "bytes": 31428114,
+      "sha256": "d79a5f1ddcf182b1736a358106b8f9e578c136caa9de6bfc7e8ccebb83e1845e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_014-016_qF6ef4944Kk.mp3"
+    },
+    "THktN4pNa4U": {
+      "durationSeconds": 2679.86,
+      "bytes": 32159058,
+      "sha256": "57a7d7d70d49c8ff4ff836f8c0ec2b1aebd6a140ea9e26993f00108e793ee0e1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_016-022_THktN4pNa4U.mp3"
+    },
+    "O3duTh1RgzQ": {
+      "durationSeconds": 2446.15,
+      "bytes": 29354514,
+      "sha256": "8b08af406f33e1c50053659f4fb668049fd45db54f479074525090e7ba0df70d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_022-027_O3duTh1RgzQ.mp3"
+    },
+    "zqBwCviPsCg": {
+      "durationSeconds": 2606.86,
+      "bytes": 31282806,
+      "sha256": "99aeff4ab55f0a9f443aa44710119c8b0d2b8182f7aa96c577e39c717f134df0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_027-034_zqBwCviPsCg.mp3"
+    },
+    "MsSaVg5oDRY": {
+      "durationSeconds": 2506.92,
+      "bytes": 30083730,
+      "sha256": "781ac7d6332a6e083ccf05920faac5dbd43d00930dc6055ace6bc53479183e17",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_034-039_MsSaVg5oDRY.mp3"
+    },
+    "cWCoaFmHT6E": {
+      "durationSeconds": 2587.27,
+      "bytes": 31047955,
+      "sha256": "9f7c19a7429cf62fd855c3af43874146d7d9cd93ffa9134b95aa8ada4feb978e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_039-047_cWCoaFmHT6E.mp3"
+    },
+    "j-ZnKtM1ftE": {
+      "durationSeconds": 2581.03,
+      "bytes": 30973075,
+      "sha256": "4769223a6490d407a2776a1fa59e34d4c5df3ec44da1f45091172e74400b4e46",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_047-052_j-ZnKtM1ftE.mp3"
+    },
+    "fTl3IEgxAdM": {
+      "durationSeconds": 1749.19,
+      "bytes": 20990995,
+      "sha256": "828e323c522715eeed942b08b7c25035ef8b2d159017db2b16d437a7b890388f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_052-054_fTl3IEgxAdM.mp3"
+    }
+  },
+  "ayahs": {
+    "34:1": {
+      "file": "034-سبأ-youtube-v1/001.mp3",
+      "durationMs": 1064090,
+      "bytes": 12769726,
+      "sha256": "53ee30b11ec2d601331db5820d2bab45a6c272e3b190da8104134aefeffce952",
+      "sharedAyahs": [
+        "34:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a1DrBX9XNpE",
+          "start": 3.31,
+          "end": 1067.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:2": {
+      "file": "034-سبأ-youtube-v1/002.mp3",
+      "durationMs": 276140,
+      "bytes": 3314398,
+      "sha256": "a5999d8880ab180113b6bdb59606f57690198d6c6fdb49690a6141d4ee5888ac",
+      "sharedAyahs": [
+        "34:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a1DrBX9XNpE",
+          "start": 1067.37,
+          "end": 1343.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:3": {
+      "file": "034-سبأ-youtube-v1/003.mp3",
+      "durationMs": 889300,
+      "bytes": 10672222,
+      "sha256": "421bc9ad35fae09cb93c5e24555c4b8cc0d8b399e36b9fb5070d910a9efb86fe",
+      "sharedAyahs": [
+        "34:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2U94RrwokpU",
+          "start": 1161.96,
+          "end": 2051.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:4": {
+      "file": "034-سبأ-youtube-v1/004.mp3",
+      "durationMs": 248810,
+      "bytes": 2986366,
+      "sha256": "4861c70fd300e20866e0fb89e496450a567596fcfd7e2f07a649026d851541d7",
+      "sharedAyahs": [
+        "34:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2U94RrwokpU",
+          "start": 2051.23,
+          "end": 2300.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:5": {
+      "file": "034-سبأ-youtube-v1/005.mp3",
+      "durationMs": 214750,
+      "bytes": 2577694,
+      "sha256": "a5e7284dfca99f60c29ed9063a49da7ca39a1ee77fbcd6353c8f40cbc208cf05",
+      "sharedAyahs": [
+        "34:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2U94RrwokpU",
+          "start": 2300.0,
+          "end": 2514.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:6": {
+      "file": "034-سبأ-youtube-v1/006.mp3",
+      "durationMs": 2147930,
+      "bytes": 25775806,
+      "sha256": "5956aca0d9f9e59a7271b97a46aadff6438c972648ccfbff60088567f649aa5d",
+      "sharedAyahs": [
+        "34:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-6h41bOLvwQ",
+          "start": 0.18,
+          "end": 2148.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:7": {
+      "file": "034-سبأ-youtube-v1/007.mp3",
+      "durationMs": 490300,
+      "bytes": 5884222,
+      "sha256": "ce547a694ab06366ba6a71a18b2be478ab2f8cb565687fef1343203e216337c4",
+      "sharedAyahs": [
+        "34:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-6h41bOLvwQ",
+          "start": 2148.08,
+          "end": 2638.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:8": {
+      "file": "034-سبأ-youtube-v1/008.mp3",
+      "durationMs": 455540,
+      "bytes": 5467198,
+      "sha256": "4882f9d009e5920ccc587bba63f8d7adb6e30595f61afe74dcc9093c3ada8ac4",
+      "sharedAyahs": [
+        "34:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WnK8VPQ5hSk",
+          "start": 0.4,
+          "end": 455.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:9": {
+      "file": "034-سبأ-youtube-v1/009.mp3",
+      "durationMs": 388150,
+      "bytes": 4658494,
+      "sha256": "78e6bebc3a93985db036bcca863b2455c7fc9a293ac3bcf2e89a604bf4c47b80",
+      "sharedAyahs": [
+        "34:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WnK8VPQ5hSk",
+          "start": 455.91,
+          "end": 844.04
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:10": {
+      "file": "034-سبأ-youtube-v1/010.mp3",
+      "durationMs": 715780,
+      "bytes": 8589984,
+      "sha256": "736dce094db4e66a1a4e9189e419e5861c96badf5682318054f3b5de81b81d91",
+      "sharedAyahs": [
+        "34:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WnK8VPQ5hSk",
+          "start": 844.04,
+          "end": 1559.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:11": {
+      "file": "034-سبأ-youtube-v1/011.mp3",
+      "durationMs": 240220,
+      "bytes": 2883264,
+      "sha256": "f812eadd3694409a9e1fde724181e124266adfcb510ada63eef46231add84047",
+      "sharedAyahs": [
+        "34:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WnK8VPQ5hSk",
+          "start": 1559.8,
+          "end": 1800.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:12": {
+      "file": "034-سبأ-youtube-v1/012.mp3",
+      "durationMs": 258620,
+      "bytes": 3104160,
+      "sha256": "3e8480731422d3cbf5971579cb3229a05ed46e2613a2f94f545b397f8cac4873",
+      "sharedAyahs": [
+        "34:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WnK8VPQ5hSk",
+          "start": 1800.0,
+          "end": 2058.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:13": {
+      "file": "034-سبأ-youtube-v1/013.mp3",
+      "durationMs": 393820,
+      "bytes": 4726464,
+      "sha256": "1f1165419ad26268485015a493e7a6e3135adaf0c3d222bb5a24c63553ae4e26",
+      "sharedAyahs": [
+        "34:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WnK8VPQ5hSk",
+          "start": 2058.6,
+          "end": 2452.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:14": {
+      "file": "034-سبأ-youtube-v1/014.mp3",
+      "durationMs": 1315370,
+      "bytes": 15785088,
+      "sha256": "401884e059497c9ebe07caca8d35f47c1d671389d8c36f73fb73578db347e5f9",
+      "sharedAyahs": [
+        "34:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qF6ef4944Kk",
+          "start": 3.02,
+          "end": 1318.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:15": {
+      "file": "034-سبأ-youtube-v1/015.mp3",
+      "durationMs": 881660,
+      "bytes": 10580640,
+      "sha256": "c8a61b15dcd015a0f240761e5f9f8f6ba963aa7d7fd86ff169932c2e5429e01b",
+      "sharedAyahs": [
+        "34:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qF6ef4944Kk",
+          "start": 1318.36,
+          "end": 2200.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:16": {
+      "file": "034-سبأ-youtube-v1/016.mp3",
+      "durationMs": 632930,
+      "bytes": 7595808,
+      "sha256": "d291ff94da2f66946a780fa7d0e79bc6d59d7309142bb1055b1b8afab495c58b",
+      "sharedAyahs": [
+        "34:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "THktN4pNa4U",
+          "start": 0.18,
+          "end": 633.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:17": {
+      "file": "034-سبأ-youtube-v1/017.mp3",
+      "durationMs": 22320,
+      "bytes": 268512,
+      "sha256": "271184e76d0c5c0e14b3b2af690bfdc35e02cad32bd0c09a4ea3226d7997dfa7",
+      "sharedAyahs": [
+        "34:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "THktN4pNa4U",
+          "start": 633.08,
+          "end": 655.39
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:18": {
+      "file": "034-سبأ-youtube-v1/018.mp3",
+      "durationMs": 452060,
+      "bytes": 5425440,
+      "sha256": "5128352d729e2841d1fd5c8f42d2c64424b4037037b606ca09712591a5451079",
+      "sharedAyahs": [
+        "34:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "THktN4pNa4U",
+          "start": 655.39,
+          "end": 1107.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:19": {
+      "file": "034-سبأ-youtube-v1/019.mp3",
+      "durationMs": 254500,
+      "bytes": 3054624,
+      "sha256": "2c30793bc79768cacc8fdc29abd67c1413bd5d617de0900f50a259d3d37ba269",
+      "sharedAyahs": [
+        "34:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "THktN4pNa4U",
+          "start": 1107.41,
+          "end": 1361.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:20": {
+      "file": "034-سبأ-youtube-v1/020.mp3",
+      "durationMs": 231960,
+      "bytes": 2784192,
+      "sha256": "0697c8123d9778eb36a6790d5611c03b30e209e7e94fcd40a6c15f1648805517",
+      "sharedAyahs": [
+        "34:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "THktN4pNa4U",
+          "start": 1361.9,
+          "end": 1593.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:21": {
+      "file": "034-سبأ-youtube-v1/021.mp3",
+      "durationMs": 1081920,
+      "bytes": 12983712,
+      "sha256": "8a507cc34456c6e087762d223d9f475a79a942bd8da7b2f27628fecf1025561e",
+      "sharedAyahs": [
+        "34:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "THktN4pNa4U",
+          "start": 1593.84,
+          "end": 2675.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:22": {
+      "file": "034-سبأ-youtube-v1/022.mp3",
+      "durationMs": 1039540,
+      "bytes": 12475104,
+      "sha256": "8b05f528d11788f985716a165707a393d2ac13a1e3c9736e786d41041f4b2f25",
+      "sharedAyahs": [
+        "34:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "O3duTh1RgzQ",
+          "start": 2.92,
+          "end": 1042.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:23": {
+      "file": "034-سبأ-youtube-v1/023.mp3",
+      "durationMs": 628460,
+      "bytes": 7542240,
+      "sha256": "15e876013a619d5919039a72e6b867182c9337e20376c9ca3c0b9a3ebcfc65c5",
+      "sharedAyahs": [
+        "34:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "O3duTh1RgzQ",
+          "start": 1042.42,
+          "end": 1670.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:24": {
+      "file": "034-سبأ-youtube-v1/024.mp3",
+      "durationMs": 629930,
+      "bytes": 7559808,
+      "sha256": "36059229aaf99c31fa4163fe771b9a82f92b589fecc1e61f79a33c5c2cf992a5",
+      "sharedAyahs": [
+        "34:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "O3duTh1RgzQ",
+          "start": 1670.87,
+          "end": 2300.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:25": {
+      "file": "034-سبأ-youtube-v1/025.mp3",
+      "durationMs": 84840,
+      "bytes": 1018752,
+      "sha256": "9d9bc9612bb9cb9b49f9b9ab8b5174d56828c03b4688027f16f3af6dc9f2e500",
+      "sharedAyahs": [
+        "34:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "O3duTh1RgzQ",
+          "start": 2300.77,
+          "end": 2385.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:26": {
+      "file": "034-سبأ-youtube-v1/026.mp3",
+      "durationMs": 30410,
+      "bytes": 365568,
+      "sha256": "e5b270bc00c770e65f90a3137d58ceb2aa1b9005536fca04f0474057f635d0c6",
+      "sharedAyahs": [
+        "34:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "O3duTh1RgzQ",
+          "start": 2385.58,
+          "end": 2415.97
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:27": {
+      "file": "034-سبأ-youtube-v1/027.mp3",
+      "durationMs": 311210,
+      "bytes": 3735012,
+      "sha256": "8aed907feb2df1e53829df5f97106a49055f7aa765bd5e0dd78b02827e32e000",
+      "sharedAyahs": [
+        "34:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zqBwCviPsCg",
+          "start": 5.04,
+          "end": 316.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:28": {
+      "file": "034-سبأ-youtube-v1/028.mp3",
+      "durationMs": 730940,
+      "bytes": 8771844,
+      "sha256": "d1ff798428c8c62addfb9b69644e5098aa9859deb0de33b22552d513aa5a5f29",
+      "sharedAyahs": [
+        "34:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zqBwCviPsCg",
+          "start": 316.22,
+          "end": 1047.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:29": {
+      "file": "034-سبأ-youtube-v1/029.mp3",
+      "durationMs": 186480,
+      "bytes": 2238276,
+      "sha256": "0b55ac29710e30aab012a63cd4d46433227add9e7c526ba6e04b3ffb1559b93b",
+      "sharedAyahs": [
+        "34:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zqBwCviPsCg",
+          "start": 1047.14,
+          "end": 1233.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:30": {
+      "file": "034-سبأ-youtube-v1/030.mp3",
+      "durationMs": 191160,
+      "bytes": 2294436,
+      "sha256": "1b7aac1f0baf7bd59daf229d1439952b99a3dea07d20bdf0981216d50685dc7b",
+      "sharedAyahs": [
+        "34:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zqBwCviPsCg",
+          "start": 1233.59,
+          "end": 1424.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:31": {
+      "file": "034-سبأ-youtube-v1/031.mp3",
+      "durationMs": 375290,
+      "bytes": 4503972,
+      "sha256": "1a7fd95617018edd5a39189171d844f53b06792a4adcf1fe968188d5088e742e",
+      "sharedAyahs": [
+        "34:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zqBwCviPsCg",
+          "start": 1424.72,
+          "end": 1800.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:32": {
+      "file": "034-سبأ-youtube-v1/032.mp3",
+      "durationMs": 353040,
+      "bytes": 4236996,
+      "sha256": "99ce456913dbea68fa33ca02fb59fb91c04ce17defafc360c5bb32d34752ee01",
+      "sharedAyahs": [
+        "34:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zqBwCviPsCg",
+          "start": 1800.0,
+          "end": 2153.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:33": {
+      "file": "034-سبأ-youtube-v1/033.mp3",
+      "durationMs": 219460,
+      "bytes": 2633988,
+      "sha256": "ff2f0e2f89a632e59fc488597e298ba7eb4c87dea7cdd562eedab6f431436400",
+      "sharedAyahs": [
+        "34:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zqBwCviPsCg",
+          "start": 2153.0,
+          "end": 2372.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:34": {
+      "file": "034-سبأ-youtube-v1/034.mp3",
+      "durationMs": 1040830,
+      "bytes": 12490656,
+      "sha256": "f0d9ae99223cbfed9fce3ae3dcaae380bcb905b8cf25ff2182c2aa10997940b3",
+      "sharedAyahs": [
+        "34:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "MsSaVg5oDRY",
+          "start": 5.58,
+          "end": 1046.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:35": {
+      "file": "034-سبأ-youtube-v1/035.mp3",
+      "durationMs": 453620,
+      "bytes": 5444160,
+      "sha256": "e3fc9eb0aa4d521a7b0274904a19981a61f560b7b8ab74dbfb67d45542d37c97",
+      "sharedAyahs": [
+        "34:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "MsSaVg5oDRY",
+          "start": 1046.4,
+          "end": 1500.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:36": {
+      "file": "034-سبأ-youtube-v1/036.mp3",
+      "durationMs": 231240,
+      "bytes": 2775552,
+      "sha256": "dca92e2bb76e1295c7034ea05906cd53ad50e30d240bbe67c20621f69e8a18a1",
+      "sharedAyahs": [
+        "34:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "MsSaVg5oDRY",
+          "start": 1500.0,
+          "end": 1731.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:37": {
+      "file": "034-سبأ-youtube-v1/037.mp3",
+      "durationMs": 440280,
+      "bytes": 5284032,
+      "sha256": "2f7a6f62a92ff701a99b2a231513d3d1ce7d68967f1075d4a9d7d13a3f14de5c",
+      "sharedAyahs": [
+        "34:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "MsSaVg5oDRY",
+          "start": 1731.21,
+          "end": 2171.47
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:38": {
+      "file": "034-سبأ-youtube-v1/038.mp3",
+      "durationMs": 254740,
+      "bytes": 3057504,
+      "sha256": "d43505d9451478f2e3138b6ceaa60ba5112588c538020857120a18049a749ee8",
+      "sharedAyahs": [
+        "34:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "MsSaVg5oDRY",
+          "start": 2171.47,
+          "end": 2426.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:39": {
+      "file": "034-سبأ-youtube-v1/039.mp3",
+      "durationMs": 661490,
+      "bytes": 7938528,
+      "sha256": "3afd5e4a16df3aabf2f0555a33ec1c4701769a5d9eeaeedf79f8bfabd63548e8",
+      "sharedAyahs": [
+        "34:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 23.83,
+          "end": 685.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:40": {
+      "file": "034-سبأ-youtube-v1/040.mp3",
+      "durationMs": 97900,
+      "bytes": 1175424,
+      "sha256": "eea7eec44f21b7ba746d2596ee7fe6555f5f01d12113ffb3787f7458294bad41",
+      "sharedAyahs": [
+        "34:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 685.29,
+          "end": 783.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:41": {
+      "file": "034-سبأ-youtube-v1/041.mp3",
+      "durationMs": 108100,
+      "bytes": 1297824,
+      "sha256": "0fa419f6f77ac0e51ac66eef93a9bb8e70a8adbb690a0e34eb7a3b8f4c60a932",
+      "sharedAyahs": [
+        "34:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 783.16,
+          "end": 891.24
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:42": {
+      "file": "034-سبأ-youtube-v1/042.mp3",
+      "durationMs": 139820,
+      "bytes": 1678560,
+      "sha256": "d79a2dd263c3f060e4bd2efa44f56f26db7ac11e07277e89c447e1f5f18ecaed",
+      "sharedAyahs": [
+        "34:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 891.24,
+          "end": 1031.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:43": {
+      "file": "034-سبأ-youtube-v1/043.mp3",
+      "durationMs": 319200,
+      "bytes": 3831072,
+      "sha256": "d633527264ef7593b85a9f95b03a61e33e7633ee4ab275d48a538bc104641de0",
+      "sharedAyahs": [
+        "34:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 1031.02,
+          "end": 1350.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:44": {
+      "file": "034-سبأ-youtube-v1/044.mp3",
+      "durationMs": 11140,
+      "bytes": 134304,
+      "sha256": "0a31950911e050e8b07611f18ea6bde3748325e3026e04e8e2277612aebe5147",
+      "sharedAyahs": [
+        "34:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 1350.2,
+          "end": 1361.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:45": {
+      "file": "034-سبأ-youtube-v1/045.mp3",
+      "durationMs": 167570,
+      "bytes": 2011488,
+      "sha256": "a79b58723fa4910ebacec23306c30762e580f3bacd9cf634f664459bff832da4",
+      "sharedAyahs": [
+        "34:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 1361.31,
+          "end": 1528.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:46": {
+      "file": "034-سبأ-youtube-v1/046.mp3",
+      "durationMs": 969860,
+      "bytes": 11639040,
+      "sha256": "04896d0ec130c429bbc74133e40d65e8fb82c64c44fb25900ee987b4654d5c28",
+      "sharedAyahs": [
+        "34:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 1528.87,
+          "end": 2498.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:47": {
+      "file": "034-سبأ-youtube-v1/047.mp3",
+      "durationMs": 824950,
+      "bytes": 9900096,
+      "sha256": "89fe69e42d0d09beec3dc53c4bcab22254c842c233f89fd8ca59bde47aa976cc",
+      "sharedAyahs": [
+        "34:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j-ZnKtM1ftE",
+          "start": 2.29,
+          "end": 827.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:48": {
+      "file": "034-سبأ-youtube-v1/048.mp3",
+      "durationMs": 85340,
+      "bytes": 1024800,
+      "sha256": "e984c865a2a9b840cb610abe76d838a2ab38f9e2bbe8a58d8175ba154564385e",
+      "sharedAyahs": [
+        "34:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j-ZnKtM1ftE",
+          "start": 827.22,
+          "end": 912.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:49": {
+      "file": "034-سبأ-youtube-v1/049.mp3",
+      "durationMs": 764830,
+      "bytes": 9178656,
+      "sha256": "81c4ac2b2545067f7a99e335fe80f0d6c94b5d3200c85ee3d6e18549a558dcd4",
+      "sharedAyahs": [
+        "34:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j-ZnKtM1ftE",
+          "start": 912.53,
+          "end": 1677.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:50": {
+      "file": "034-سبأ-youtube-v1/050.mp3",
+      "durationMs": 108790,
+      "bytes": 1306176,
+      "sha256": "46725a0c87294c3acf366c22c9182ea555c7eac92fb5a8e654f7078b4b62defc",
+      "sharedAyahs": [
+        "34:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j-ZnKtM1ftE",
+          "start": 1677.36,
+          "end": 1786.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:51": {
+      "file": "034-سبأ-youtube-v1/051.mp3",
+      "durationMs": 280540,
+      "bytes": 3367104,
+      "sha256": "c5d5f6497597f0280cef4fb0c9b0876ea96e85b22b89c3cbc68302b293b2b398",
+      "sharedAyahs": [
+        "34:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j-ZnKtM1ftE",
+          "start": 1786.11,
+          "end": 2066.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:52": {
+      "file": "034-سبأ-youtube-v1/052.mp3",
+      "durationMs": 286680,
+      "bytes": 3440832,
+      "sha256": "39cd5bcf9a59c7daffb44fbf6342fdfb5444adbe00247136763898393c017e6e",
+      "sharedAyahs": [
+        "34:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fTl3IEgxAdM",
+          "start": 2.42,
+          "end": 289.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:53": {
+      "file": "034-سبأ-youtube-v1/053.mp3",
+      "durationMs": 103220,
+      "bytes": 1239360,
+      "sha256": "355b3c0846d62e8d317beaf1dec9f824f841d1530fa63d095cae9e47a0c28708",
+      "sharedAyahs": [
+        "34:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fTl3IEgxAdM",
+          "start": 289.08,
+          "end": 392.28
+        }
+      ],
+      "reviewNote": ""
+    },
+    "34:54": {
+      "file": "034-سبأ-youtube-v1/054.mp3",
+      "durationMs": 1350820,
+      "bytes": 16210464,
+      "sha256": "4d5202c514d98b14464a6c8e394288cd58f91c7a03abf663250ca2cc5d62eb76",
+      "sharedAyahs": [
+        "34:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "fTl3IEgxAdM",
+          "start": 392.28,
+          "end": 1743.07
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "034-سبأ-youtube-v1/other-02.mp3",
+      "kind": "other",
+      "durationMs": 1161480,
+      "bytes": 13938423,
+      "sha256": "21222adf9c2f469edb6c4c84dc4cec2ee02985dc8979f5f7706454593704018d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2U94RrwokpU",
+          "start": 0.5,
+          "end": 1161.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-06.mp3",
+      "kind": "other",
+      "durationMs": 64460,
+      "bytes": 774231,
+      "sha256": "88be44a28a112222f16ac70158685770768db1e877aaf5eb3cb0be8b2642ee9c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2U94RrwokpU",
+          "start": 2514.74,
+          "end": 2579.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-09.mp3",
+      "kind": "other",
+      "durationMs": 53620,
+      "bytes": 644055,
+      "sha256": "913a074515d763848c29c1beb28d90c0af6466fa7ef4249a08fad821ec28295d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-6h41bOLvwQ",
+          "start": 2638.35,
+          "end": 2691.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-16.mp3",
+      "kind": "other",
+      "durationMs": 155020,
+      "bytes": 1860855,
+      "sha256": "c829c5e9c1c9bc599c921d25fac8f52ee2a266e22de1f283a2daad8409064103",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "WnK8VPQ5hSk",
+          "start": 2452.38,
+          "end": 2607.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-19.mp3",
+      "kind": "other",
+      "durationMs": 416880,
+      "bytes": 5003223,
+      "sha256": "388ce9f9a38172aebb8515fa459dd2b8e9eab14e6f8a6a71b7dc742a13bb1734",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "qF6ef4944Kk",
+          "start": 2200.0,
+          "end": 2616.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-31.mp3",
+      "kind": "other",
+      "durationMs": 28510,
+      "bytes": 342807,
+      "sha256": "5d8d7062fd255af7f1ad56021b640314662196c989cd9d50016c4fdb10a2eaaa",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "O3duTh1RgzQ",
+          "start": 2415.97,
+          "end": 2444.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-39.mp3",
+      "kind": "other",
+      "durationMs": 233950,
+      "bytes": 2807931,
+      "sha256": "d615bae3925938a0a679f10d07024041ff6f56a959fd44df8de29116424d753c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "zqBwCviPsCg",
+          "start": 2372.44,
+          "end": 2606.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-45.mp3",
+      "kind": "other",
+      "durationMs": 76870,
+      "bytes": 923127,
+      "sha256": "5df521864c150ea939a0db9946b1e1a3198364bc49cada9c1c5b0a093e20a72e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "MsSaVg5oDRY",
+          "start": 2426.17,
+          "end": 2503.01
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-54.mp3",
+      "kind": "other",
+      "durationMs": 85340,
+      "bytes": 1024791,
+      "sha256": "f58a2a19c6bfa235a666439092b84e35c9c3af38421636e31705cbd5c5f2c689",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "cWCoaFmHT6E",
+          "start": 2498.69,
+          "end": 2584.03
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "034-سبأ-youtube-v1/other-60.mp3",
+      "kind": "other",
+      "durationMs": 511750,
+      "bytes": 6141687,
+      "sha256": "08dfba7ebf27be5e7e65a274823940f78582751860108334735566179a215d42",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "j-ZnKtM1ftE",
+          "start": 2066.64,
+          "end": 2578.36
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL73024CF8ED1D1CD8",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "saba-divine-knowledge-creatures",
+      "title": "إحاطة العلم الإلهي بما يلج في الأرض وما يعرج في السماء",
+      "file": "034-سبأ-youtube-v1/other-02.mp3",
+      "startMs": 0,
+      "endMs": 1161480
+    },
+    {
+      "id": "saba-knowledge-seekers-intro",
+      "title": "رؤية أهل العلم للحق المنزل على رسول الله صلى الله عليه وسلم",
+      "file": "034-سبأ-youtube-v1/other-06.mp3",
+      "startMs": 0,
+      "endMs": 64460
+    },
+    {
+      "id": "saba-resurrection-denial-intro",
+      "title": "شبهات منكري البعث وافتراءاتهم في ميزان العقل والشرع",
+      "file": "034-سبأ-youtube-v1/other-09.mp3",
+      "startMs": 0,
+      "endMs": 53620
+    },
+    {
+      "id": "saba-solomon-death-unseen-intro",
+      "title": "وفاة سليمان عليه السلام وعجز الجن عن معرفة الغيب",
+      "file": "034-سبأ-youtube-v1/other-16.mp3",
+      "startMs": 0,
+      "endMs": 155020
+    },
+    {
+      "id": "saba-flood-of-arim-intro",
+      "title": "إعراض أهل سبأ وحلول سيل العرم وتبدل النعم",
+      "file": "034-سبأ-youtube-v1/other-19.mp3",
+      "startMs": 0,
+      "endMs": 416880
+    },
+    {
+      "id": "saba-associating-partners-intro",
+      "title": "تحدي المشركين في إظهار شركائهم وتنزيه العزيز الحكيم",
+      "file": "034-سبأ-youtube-v1/other-31.mp3",
+      "startMs": 0,
+      "endMs": 28510
+    },
+    {
+      "id": "saba-affluent-denial-intro",
+      "title": "سنة المترفين في تكذيب الرسل والافتتان بالأموال والأولاد",
+      "file": "034-سبأ-youtube-v1/other-39.mp3",
+      "startMs": 0,
+      "endMs": 233950
+    },
+    {
+      "id": "saba-sustaining-grace-intro",
+      "title": "حقيقة بسط الرزق وقبضه وعوض الإنفاق في سبيل الله",
+      "file": "034-سبأ-youtube-v1/other-45.mp3",
+      "startMs": 0,
+      "endMs": 76870
+    },
+    {
+      "id": "saba-prophetic-reward-intro",
+      "title": "نزاهة الدعوة المحمدية وعدم سؤال الأجر على البلاغ",
+      "file": "034-سبأ-youtube-v1/other-54.mp3",
+      "startMs": 0,
+      "endMs": 85340
+    },
+    {
+      "id": "saba-unattainable-faith-intro",
+      "title": "حسرة الكافرين عند معاينة الحق واستحالة الإيمان بعد فوات الأوان",
+      "file": "034-سبأ-youtube-v1/other-60.mp3",
+      "startMs": 0,
+      "endMs": 511750
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "a1DrBX9XNpE",
+      "2U94RrwokpU",
+      "-6h41bOLvwQ",
+      "WnK8VPQ5hSk",
+      "qF6ef4944Kk",
+      "THktN4pNa4U",
+      "O3duTh1RgzQ",
+      "zqBwCviPsCg",
+      "MsSaVg5oDRY",
+      "cWCoaFmHT6E",
+      "j-ZnKtM1ftE",
+      "fTl3IEgxAdM"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "034-سبأ-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 1064090,
+        "durationMs": 1064090,
+        "recordingDurationMs": 1064090,
+        "bytes": 12769726,
+        "sha256": "53ee30b11ec2d601331db5820d2bab45a6c272e3b190da8104134aefeffce952",
+        "sharedAyahs": [
+          "34:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a1DrBX9XNpE",
+            "start": 3.31,
+            "end": 1067.37
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 276140,
+        "durationMs": 276140,
+        "recordingDurationMs": 276140,
+        "bytes": 3314398,
+        "sha256": "a5999d8880ab180113b6bdb59606f57690198d6c6fdb49690a6141d4ee5888ac",
+        "sharedAyahs": [
+          "34:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "a1DrBX9XNpE",
+            "start": 1067.37,
+            "end": 1343.48
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-02.mp3",
+        "startMs": 0,
+        "endMs": 1161480,
+        "durationMs": 1161480,
+        "recordingDurationMs": 1161480,
+        "bytes": 13938423,
+        "sha256": "21222adf9c2f469edb6c4c84dc4cec2ee02985dc8979f5f7706454593704018d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2U94RrwokpU",
+            "start": 0.5,
+            "end": 1161.96
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 889300,
+        "durationMs": 889300,
+        "recordingDurationMs": 889300,
+        "bytes": 10672222,
+        "sha256": "421bc9ad35fae09cb93c5e24555c4b8cc0d8b399e36b9fb5070d910a9efb86fe",
+        "sharedAyahs": [
+          "34:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2U94RrwokpU",
+            "start": 1161.96,
+            "end": 2051.23
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 248810,
+        "durationMs": 248810,
+        "recordingDurationMs": 248810,
+        "bytes": 2986366,
+        "sha256": "4861c70fd300e20866e0fb89e496450a567596fcfd7e2f07a649026d851541d7",
+        "sharedAyahs": [
+          "34:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2U94RrwokpU",
+            "start": 2051.23,
+            "end": 2300.0
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 214750,
+        "durationMs": 214750,
+        "recordingDurationMs": 214750,
+        "bytes": 2577694,
+        "sha256": "a5e7284dfca99f60c29ed9063a49da7ca39a1ee77fbcd6353c8f40cbc208cf05",
+        "sharedAyahs": [
+          "34:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2U94RrwokpU",
+            "start": 2300.0,
+            "end": 2514.74
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-06.mp3",
+        "startMs": 0,
+        "endMs": 64460,
+        "durationMs": 64460,
+        "recordingDurationMs": 64460,
+        "bytes": 774231,
+        "sha256": "88be44a28a112222f16ac70158685770768db1e877aaf5eb3cb0be8b2642ee9c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2U94RrwokpU",
+            "start": 2514.74,
+            "end": 2579.17
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 2147930,
+        "durationMs": 2147930,
+        "recordingDurationMs": 2147930,
+        "bytes": 25775806,
+        "sha256": "5956aca0d9f9e59a7271b97a46aadff6438c972648ccfbff60088567f649aa5d",
+        "sharedAyahs": [
+          "34:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-6h41bOLvwQ",
+            "start": 0.18,
+            "end": 2148.08
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 490300,
+        "durationMs": 490300,
+        "recordingDurationMs": 490300,
+        "bytes": 5884222,
+        "sha256": "ce547a694ab06366ba6a71a18b2be478ab2f8cb565687fef1343203e216337c4",
+        "sharedAyahs": [
+          "34:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-6h41bOLvwQ",
+            "start": 2148.08,
+            "end": 2638.35
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-09.mp3",
+        "startMs": 0,
+        "endMs": 53620,
+        "durationMs": 53620,
+        "recordingDurationMs": 53620,
+        "bytes": 644055,
+        "sha256": "913a074515d763848c29c1beb28d90c0af6466fa7ef4249a08fad821ec28295d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-6h41bOLvwQ",
+            "start": 2638.35,
+            "end": 2691.94
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 455540,
+        "durationMs": 455540,
+        "recordingDurationMs": 455540,
+        "bytes": 5467198,
+        "sha256": "4882f9d009e5920ccc587bba63f8d7adb6e30595f61afe74dcc9093c3ada8ac4",
+        "sharedAyahs": [
+          "34:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WnK8VPQ5hSk",
+            "start": 0.4,
+            "end": 455.91
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 388150,
+        "durationMs": 388150,
+        "recordingDurationMs": 388150,
+        "bytes": 4658494,
+        "sha256": "78e6bebc3a93985db036bcca863b2455c7fc9a293ac3bcf2e89a604bf4c47b80",
+        "sharedAyahs": [
+          "34:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WnK8VPQ5hSk",
+            "start": 455.91,
+            "end": 844.04
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 715780,
+        "durationMs": 715780,
+        "recordingDurationMs": 715780,
+        "bytes": 8589984,
+        "sha256": "736dce094db4e66a1a4e9189e419e5861c96badf5682318054f3b5de81b81d91",
+        "sharedAyahs": [
+          "34:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WnK8VPQ5hSk",
+            "start": 844.04,
+            "end": 1559.8
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 240220,
+        "durationMs": 240220,
+        "recordingDurationMs": 240220,
+        "bytes": 2883264,
+        "sha256": "f812eadd3694409a9e1fde724181e124266adfcb510ada63eef46231add84047",
+        "sharedAyahs": [
+          "34:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WnK8VPQ5hSk",
+            "start": 1559.8,
+            "end": 1800.0
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 258620,
+        "durationMs": 258620,
+        "recordingDurationMs": 258620,
+        "bytes": 3104160,
+        "sha256": "3e8480731422d3cbf5971579cb3229a05ed46e2613a2f94f545b397f8cac4873",
+        "sharedAyahs": [
+          "34:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WnK8VPQ5hSk",
+            "start": 1800.0,
+            "end": 2058.6
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 393820,
+        "durationMs": 393820,
+        "recordingDurationMs": 393820,
+        "bytes": 4726464,
+        "sha256": "1f1165419ad26268485015a493e7a6e3135adaf0c3d222bb5a24c63553ae4e26",
+        "sharedAyahs": [
+          "34:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WnK8VPQ5hSk",
+            "start": 2058.6,
+            "end": 2452.38
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-16.mp3",
+        "startMs": 0,
+        "endMs": 155020,
+        "durationMs": 155020,
+        "recordingDurationMs": 155020,
+        "bytes": 1860855,
+        "sha256": "c829c5e9c1c9bc599c921d25fac8f52ee2a266e22de1f283a2daad8409064103",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "WnK8VPQ5hSk",
+            "start": 2452.38,
+            "end": 2607.37
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 1315370,
+        "durationMs": 1315370,
+        "recordingDurationMs": 1315370,
+        "bytes": 15785088,
+        "sha256": "401884e059497c9ebe07caca8d35f47c1d671389d8c36f73fb73578db347e5f9",
+        "sharedAyahs": [
+          "34:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qF6ef4944Kk",
+            "start": 3.02,
+            "end": 1318.36
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 881660,
+        "durationMs": 881660,
+        "recordingDurationMs": 881660,
+        "bytes": 10580640,
+        "sha256": "c8a61b15dcd015a0f240761e5f9f8f6ba963aa7d7fd86ff169932c2e5429e01b",
+        "sharedAyahs": [
+          "34:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qF6ef4944Kk",
+            "start": 1318.36,
+            "end": 2200.0
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-19.mp3",
+        "startMs": 0,
+        "endMs": 416880,
+        "durationMs": 416880,
+        "recordingDurationMs": 416880,
+        "bytes": 5003223,
+        "sha256": "388ce9f9a38172aebb8515fa459dd2b8e9eab14e6f8a6a71b7dc742a13bb1734",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "qF6ef4944Kk",
+            "start": 2200.0,
+            "end": 2616.85
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 632930,
+        "durationMs": 632930,
+        "recordingDurationMs": 632930,
+        "bytes": 7595808,
+        "sha256": "d291ff94da2f66946a780fa7d0e79bc6d59d7309142bb1055b1b8afab495c58b",
+        "sharedAyahs": [
+          "34:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "THktN4pNa4U",
+            "start": 0.18,
+            "end": 633.08
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 22320,
+        "durationMs": 22320,
+        "recordingDurationMs": 22320,
+        "bytes": 268512,
+        "sha256": "271184e76d0c5c0e14b3b2af690bfdc35e02cad32bd0c09a4ea3226d7997dfa7",
+        "sharedAyahs": [
+          "34:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "THktN4pNa4U",
+            "start": 633.08,
+            "end": 655.39
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 452060,
+        "durationMs": 452060,
+        "recordingDurationMs": 452060,
+        "bytes": 5425440,
+        "sha256": "5128352d729e2841d1fd5c8f42d2c64424b4037037b606ca09712591a5451079",
+        "sharedAyahs": [
+          "34:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "THktN4pNa4U",
+            "start": 655.39,
+            "end": 1107.41
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 254500,
+        "durationMs": 254500,
+        "recordingDurationMs": 254500,
+        "bytes": 3054624,
+        "sha256": "2c30793bc79768cacc8fdc29abd67c1413bd5d617de0900f50a259d3d37ba269",
+        "sharedAyahs": [
+          "34:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "THktN4pNa4U",
+            "start": 1107.41,
+            "end": 1361.9
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 231960,
+        "durationMs": 231960,
+        "recordingDurationMs": 231960,
+        "bytes": 2784192,
+        "sha256": "0697c8123d9778eb36a6790d5611c03b30e209e7e94fcd40a6c15f1648805517",
+        "sharedAyahs": [
+          "34:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "THktN4pNa4U",
+            "start": 1361.9,
+            "end": 1593.84
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 1081920,
+        "durationMs": 1081920,
+        "recordingDurationMs": 1081920,
+        "bytes": 12983712,
+        "sha256": "8a507cc34456c6e087762d223d9f475a79a942bd8da7b2f27628fecf1025561e",
+        "sharedAyahs": [
+          "34:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "THktN4pNa4U",
+            "start": 1593.84,
+            "end": 2675.72
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 1039540,
+        "durationMs": 1039540,
+        "recordingDurationMs": 1039540,
+        "bytes": 12475104,
+        "sha256": "8b05f528d11788f985716a165707a393d2ac13a1e3c9736e786d41041f4b2f25",
+        "sharedAyahs": [
+          "34:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "O3duTh1RgzQ",
+            "start": 2.92,
+            "end": 1042.42
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 628460,
+        "durationMs": 628460,
+        "recordingDurationMs": 628460,
+        "bytes": 7542240,
+        "sha256": "15e876013a619d5919039a72e6b867182c9337e20376c9ca3c0b9a3ebcfc65c5",
+        "sharedAyahs": [
+          "34:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "O3duTh1RgzQ",
+            "start": 1042.42,
+            "end": 1670.87
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 629930,
+        "durationMs": 629930,
+        "recordingDurationMs": 629930,
+        "bytes": 7559808,
+        "sha256": "36059229aaf99c31fa4163fe771b9a82f92b589fecc1e61f79a33c5c2cf992a5",
+        "sharedAyahs": [
+          "34:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "O3duTh1RgzQ",
+            "start": 1670.87,
+            "end": 2300.77
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 84840,
+        "durationMs": 84840,
+        "recordingDurationMs": 84840,
+        "bytes": 1018752,
+        "sha256": "9d9bc9612bb9cb9b49f9b9ab8b5174d56828c03b4688027f16f3af6dc9f2e500",
+        "sharedAyahs": [
+          "34:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "O3duTh1RgzQ",
+            "start": 2300.77,
+            "end": 2385.58
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 30410,
+        "durationMs": 30410,
+        "recordingDurationMs": 30410,
+        "bytes": 365568,
+        "sha256": "e5b270bc00c770e65f90a3137d58ceb2aa1b9005536fca04f0474057f635d0c6",
+        "sharedAyahs": [
+          "34:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "O3duTh1RgzQ",
+            "start": 2385.58,
+            "end": 2415.97
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-31.mp3",
+        "startMs": 0,
+        "endMs": 28510,
+        "durationMs": 28510,
+        "recordingDurationMs": 28510,
+        "bytes": 342807,
+        "sha256": "5d8d7062fd255af7f1ad56021b640314662196c989cd9d50016c4fdb10a2eaaa",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "O3duTh1RgzQ",
+            "start": 2415.97,
+            "end": 2444.45
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 311210,
+        "durationMs": 311210,
+        "recordingDurationMs": 311210,
+        "bytes": 3735012,
+        "sha256": "8aed907feb2df1e53829df5f97106a49055f7aa765bd5e0dd78b02827e32e000",
+        "sharedAyahs": [
+          "34:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zqBwCviPsCg",
+            "start": 5.04,
+            "end": 316.22
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 730940,
+        "durationMs": 730940,
+        "recordingDurationMs": 730940,
+        "bytes": 8771844,
+        "sha256": "d1ff798428c8c62addfb9b69644e5098aa9859deb0de33b22552d513aa5a5f29",
+        "sharedAyahs": [
+          "34:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zqBwCviPsCg",
+            "start": 316.22,
+            "end": 1047.14
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 186480,
+        "durationMs": 186480,
+        "recordingDurationMs": 186480,
+        "bytes": 2238276,
+        "sha256": "0b55ac29710e30aab012a63cd4d46433227add9e7c526ba6e04b3ffb1559b93b",
+        "sharedAyahs": [
+          "34:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zqBwCviPsCg",
+            "start": 1047.14,
+            "end": 1233.59
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 191160,
+        "durationMs": 191160,
+        "recordingDurationMs": 191160,
+        "bytes": 2294436,
+        "sha256": "1b7aac1f0baf7bd59daf229d1439952b99a3dea07d20bdf0981216d50685dc7b",
+        "sharedAyahs": [
+          "34:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zqBwCviPsCg",
+            "start": 1233.59,
+            "end": 1424.72
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 375290,
+        "durationMs": 375290,
+        "recordingDurationMs": 375290,
+        "bytes": 4503972,
+        "sha256": "1a7fd95617018edd5a39189171d844f53b06792a4adcf1fe968188d5088e742e",
+        "sharedAyahs": [
+          "34:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zqBwCviPsCg",
+            "start": 1424.72,
+            "end": 1800.0
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 353040,
+        "durationMs": 353040,
+        "recordingDurationMs": 353040,
+        "bytes": 4236996,
+        "sha256": "99ce456913dbea68fa33ca02fb59fb91c04ce17defafc360c5bb32d34752ee01",
+        "sharedAyahs": [
+          "34:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zqBwCviPsCg",
+            "start": 1800.0,
+            "end": 2153.0
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 219460,
+        "durationMs": 219460,
+        "recordingDurationMs": 219460,
+        "bytes": 2633988,
+        "sha256": "ff2f0e2f89a632e59fc488597e298ba7eb4c87dea7cdd562eedab6f431436400",
+        "sharedAyahs": [
+          "34:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zqBwCviPsCg",
+            "start": 2153.0,
+            "end": 2372.44
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-39.mp3",
+        "startMs": 0,
+        "endMs": 233950,
+        "durationMs": 233950,
+        "recordingDurationMs": 233950,
+        "bytes": 2807931,
+        "sha256": "d615bae3925938a0a679f10d07024041ff6f56a959fd44df8de29116424d753c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "zqBwCviPsCg",
+            "start": 2372.44,
+            "end": 2606.37
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 1040830,
+        "durationMs": 1040830,
+        "recordingDurationMs": 1040830,
+        "bytes": 12490656,
+        "sha256": "f0d9ae99223cbfed9fce3ae3dcaae380bcb905b8cf25ff2182c2aa10997940b3",
+        "sharedAyahs": [
+          "34:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "MsSaVg5oDRY",
+            "start": 5.58,
+            "end": 1046.4
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 453620,
+        "durationMs": 453620,
+        "recordingDurationMs": 453620,
+        "bytes": 5444160,
+        "sha256": "e3fc9eb0aa4d521a7b0274904a19981a61f560b7b8ab74dbfb67d45542d37c97",
+        "sharedAyahs": [
+          "34:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "MsSaVg5oDRY",
+            "start": 1046.4,
+            "end": 1500.0
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 231240,
+        "durationMs": 231240,
+        "recordingDurationMs": 231240,
+        "bytes": 2775552,
+        "sha256": "dca92e2bb76e1295c7034ea05906cd53ad50e30d240bbe67c20621f69e8a18a1",
+        "sharedAyahs": [
+          "34:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "MsSaVg5oDRY",
+            "start": 1500.0,
+            "end": 1731.21
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 440280,
+        "durationMs": 440280,
+        "recordingDurationMs": 440280,
+        "bytes": 5284032,
+        "sha256": "2f7a6f62a92ff701a99b2a231513d3d1ce7d68967f1075d4a9d7d13a3f14de5c",
+        "sharedAyahs": [
+          "34:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "MsSaVg5oDRY",
+            "start": 1731.21,
+            "end": 2171.47
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 254740,
+        "durationMs": 254740,
+        "recordingDurationMs": 254740,
+        "bytes": 3057504,
+        "sha256": "d43505d9451478f2e3138b6ceaa60ba5112588c538020857120a18049a749ee8",
+        "sharedAyahs": [
+          "34:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "MsSaVg5oDRY",
+            "start": 2171.47,
+            "end": 2426.17
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-45.mp3",
+        "startMs": 0,
+        "endMs": 76870,
+        "durationMs": 76870,
+        "recordingDurationMs": 76870,
+        "bytes": 923127,
+        "sha256": "5df521864c150ea939a0db9946b1e1a3198364bc49cada9c1c5b0a093e20a72e",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "MsSaVg5oDRY",
+            "start": 2426.17,
+            "end": 2503.01
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 661490,
+        "durationMs": 661490,
+        "recordingDurationMs": 661490,
+        "bytes": 7938528,
+        "sha256": "3afd5e4a16df3aabf2f0555a33ec1c4701769a5d9eeaeedf79f8bfabd63548e8",
+        "sharedAyahs": [
+          "34:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 23.83,
+            "end": 685.29
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 97900,
+        "durationMs": 97900,
+        "recordingDurationMs": 97900,
+        "bytes": 1175424,
+        "sha256": "eea7eec44f21b7ba746d2596ee7fe6555f5f01d12113ffb3787f7458294bad41",
+        "sharedAyahs": [
+          "34:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 685.29,
+            "end": 783.16
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 108100,
+        "durationMs": 108100,
+        "recordingDurationMs": 108100,
+        "bytes": 1297824,
+        "sha256": "0fa419f6f77ac0e51ac66eef93a9bb8e70a8adbb690a0e34eb7a3b8f4c60a932",
+        "sharedAyahs": [
+          "34:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 783.16,
+            "end": 891.24
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 139820,
+        "durationMs": 139820,
+        "recordingDurationMs": 139820,
+        "bytes": 1678560,
+        "sha256": "d79a2dd263c3f060e4bd2efa44f56f26db7ac11e07277e89c447e1f5f18ecaed",
+        "sharedAyahs": [
+          "34:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 891.24,
+            "end": 1031.02
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 319200,
+        "durationMs": 319200,
+        "recordingDurationMs": 319200,
+        "bytes": 3831072,
+        "sha256": "d633527264ef7593b85a9f95b03a61e33e7633ee4ab275d48a538bc104641de0",
+        "sharedAyahs": [
+          "34:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 1031.02,
+            "end": 1350.2
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 11140,
+        "durationMs": 11140,
+        "recordingDurationMs": 11140,
+        "bytes": 134304,
+        "sha256": "0a31950911e050e8b07611f18ea6bde3748325e3026e04e8e2277612aebe5147",
+        "sharedAyahs": [
+          "34:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 1350.2,
+            "end": 1361.31
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 167570,
+        "durationMs": 167570,
+        "recordingDurationMs": 167570,
+        "bytes": 2011488,
+        "sha256": "a79b58723fa4910ebacec23306c30762e580f3bacd9cf634f664459bff832da4",
+        "sharedAyahs": [
+          "34:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 1361.31,
+            "end": 1528.87
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 969860,
+        "durationMs": 969860,
+        "recordingDurationMs": 969860,
+        "bytes": 11639040,
+        "sha256": "04896d0ec130c429bbc74133e40d65e8fb82c64c44fb25900ee987b4654d5c28",
+        "sharedAyahs": [
+          "34:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 1528.87,
+            "end": 2498.69
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-54.mp3",
+        "startMs": 0,
+        "endMs": 85340,
+        "durationMs": 85340,
+        "recordingDurationMs": 85340,
+        "bytes": 1024791,
+        "sha256": "f58a2a19c6bfa235a666439092b84e35c9c3af38421636e31705cbd5c5f2c689",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "cWCoaFmHT6E",
+            "start": 2498.69,
+            "end": 2584.03
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 824950,
+        "durationMs": 824950,
+        "recordingDurationMs": 824950,
+        "bytes": 9900096,
+        "sha256": "89fe69e42d0d09beec3dc53c4bcab22254c842c233f89fd8ca59bde47aa976cc",
+        "sharedAyahs": [
+          "34:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j-ZnKtM1ftE",
+            "start": 2.29,
+            "end": 827.22
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 85340,
+        "durationMs": 85340,
+        "recordingDurationMs": 85340,
+        "bytes": 1024800,
+        "sha256": "e984c865a2a9b840cb610abe76d838a2ab38f9e2bbe8a58d8175ba154564385e",
+        "sharedAyahs": [
+          "34:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j-ZnKtM1ftE",
+            "start": 827.22,
+            "end": 912.53
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 764830,
+        "durationMs": 764830,
+        "recordingDurationMs": 764830,
+        "bytes": 9178656,
+        "sha256": "81c4ac2b2545067f7a99e335fe80f0d6c94b5d3200c85ee3d6e18549a558dcd4",
+        "sharedAyahs": [
+          "34:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j-ZnKtM1ftE",
+            "start": 912.53,
+            "end": 1677.36
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 108790,
+        "durationMs": 108790,
+        "recordingDurationMs": 108790,
+        "bytes": 1306176,
+        "sha256": "46725a0c87294c3acf366c22c9182ea555c7eac92fb5a8e654f7078b4b62defc",
+        "sharedAyahs": [
+          "34:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j-ZnKtM1ftE",
+            "start": 1677.36,
+            "end": 1786.11
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 280540,
+        "durationMs": 280540,
+        "recordingDurationMs": 280540,
+        "bytes": 3367104,
+        "sha256": "c5d5f6497597f0280cef4fb0c9b0876ea96e85b22b89c3cbc68302b293b2b398",
+        "sharedAyahs": [
+          "34:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j-ZnKtM1ftE",
+            "start": 1786.11,
+            "end": 2066.64
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/other-60.mp3",
+        "startMs": 0,
+        "endMs": 511750,
+        "durationMs": 511750,
+        "recordingDurationMs": 511750,
+        "bytes": 6141687,
+        "sha256": "08dfba7ebf27be5e7e65a274823940f78582751860108334735566179a215d42",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "j-ZnKtM1ftE",
+            "start": 2066.64,
+            "end": 2578.36
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 286680,
+        "durationMs": 286680,
+        "recordingDurationMs": 286680,
+        "bytes": 3440832,
+        "sha256": "39cd5bcf9a59c7daffb44fbf6342fdfb5444adbe00247136763898393c017e6e",
+        "sharedAyahs": [
+          "34:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fTl3IEgxAdM",
+            "start": 2.42,
+            "end": 289.08
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 103220,
+        "durationMs": 103220,
+        "recordingDurationMs": 103220,
+        "bytes": 1239360,
+        "sha256": "355b3c0846d62e8d317beaf1dec9f824f841d1530fa63d095cae9e47a0c28708",
+        "sharedAyahs": [
+          "34:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fTl3IEgxAdM",
+            "start": 289.08,
+            "end": 392.28
+          }
+        ]
+      },
+      {
+        "file": "034-سبأ-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 1350820,
+        "durationMs": 1350820,
+        "recordingDurationMs": 1350820,
+        "bytes": 16210464,
+        "sha256": "4d5202c514d98b14464a6c8e394288cd58f91c7a03abf663250ca2cc5d62eb76",
+        "sharedAyahs": [
+          "34:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "fTl3IEgxAdM",
+            "start": 392.28,
+            "end": 1743.07
+          }
+        ]
+      }
+    ],
+    "durationMs": 28925770,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
