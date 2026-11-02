@@ -1,0 +1,6872 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 37,
+  "surahName": "الصافات",
+  "ayahCount": 182,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 182,
+    "mappedAyahCount": 182,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "6gFG-Ww7xH0": {
+      "durationSeconds": 2389.03,
+      "bytes": 28668716,
+      "sha256": "ae84f7fae89cc48cf59fa836c501dfc068f6595fc678785f81231f923b1505cc",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-007_6gFG-Ww7xH0.mp3"
+    },
+    "WXyzoZM79Fg": {
+      "durationSeconds": 2126.35,
+      "bytes": 25516556,
+      "sha256": "42f7f2cb73ccb639e424af4481b33da2377b28e9bd0c6dd28042ec93bad47d4c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_007-019_WXyzoZM79Fg.mp3"
+    },
+    "_Oh7bFuAMJA": {
+      "durationSeconds": 2056.78,
+      "bytes": 24681644,
+      "sha256": "e8e3c1784c1482481cf768a269de72608d5f312e84fa744044519999f957ac1a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_019-047__Oh7bFuAMJA.mp3"
+    },
+    "aBkUQZtmiCA": {
+      "durationSeconds": 2688.7,
+      "bytes": 32264684,
+      "sha256": "425ebc67a18959dbee19fa991198ead3c50070375e10faf4831375f99f39feb6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_047-062_aBkUQZtmiCA.mp3"
+    },
+    "HK3cNQ2wvJU": {
+      "durationSeconds": 2590.51,
+      "bytes": 31086476,
+      "sha256": "a49350673547678f3ac7f80d81e8e4127aad11356989045f74c162413f61cba6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_060-089_HK3cNQ2wvJU.mp3"
+    },
+    "CspRo8dN-LM": {
+      "durationSeconds": 2450.45,
+      "bytes": 29405708,
+      "sha256": "aa9b786001b3c55b9e6c0ad43c09f5036f46dec6321190a60a543b579b6bfce6",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_089-131_CspRo8dN-LM.mp3"
+    },
+    "xeRxKnOVzfY": {
+      "durationSeconds": 1703.57,
+      "bytes": 20443148,
+      "sha256": "107a875369e39ed520db37e1228c6e1f43def64611315c7e153c86d67b241e52",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_130-134_xeRxKnOVzfY.mp3"
+    },
+    "-X5ZTYVaOaw": {
+      "durationSeconds": 1662.29,
+      "bytes": 19947788,
+      "sha256": "bfd0c1f1c4bb8233230734786139991fb67425f0c8897eabc0ad90a9639b6366",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_133-147_-X5ZTYVaOaw.mp3"
+    },
+    "rwGJoYfxBs0": {
+      "durationSeconds": 1606.97,
+      "bytes": 19283948,
+      "sha256": "2d5fbbda531ac00064fe7a40a4915aab79b6da38ea202177f006b5afbbd18575",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_146-150_rwGJoYfxBs0.mp3"
+    },
+    "StUcfM-6Kc8": {
+      "durationSeconds": 2201.76,
+      "bytes": 26421452,
+      "sha256": "7d9a1a7a069fa407bcfac63858912c4bb5dedbd23f62275227e0e59b490f24a8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_151-182_StUcfM-6Kc8.mp3"
+    }
+  },
+  "ayahs": {
+    "37:1": {
+      "file": "037-الصافات-youtube-v1/001.mp3",
+      "durationMs": 8160,
+      "bytes": 98345,
+      "sha256": "15bd57674582577992d9dc42abe5e010f135b4773a0c903649975c9dc91a5e4b",
+      "sharedAyahs": [
+        "37:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6gFG-Ww7xH0",
+          "start": 4.85,
+          "end": 13.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:2": {
+      "file": "037-الصافات-youtube-v1/002.mp3",
+      "durationMs": 3220,
+      "bytes": 39017,
+      "sha256": "1d5f37638b852cbdb5f5a25f6016ca9e27ff565bd26bb1ad91afe836e3c0fef8",
+      "sharedAyahs": [
+        "37:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6gFG-Ww7xH0",
+          "start": 13.0,
+          "end": 16.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:3": {
+      "file": "037-الصافات-youtube-v1/003.mp3",
+      "durationMs": 3340,
+      "bytes": 40457,
+      "sha256": "41577248801a083f0810ef0e672b298f3521289f899382d9047f6a230fe7456e",
+      "sharedAyahs": [
+        "37:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6gFG-Ww7xH0",
+          "start": 16.2,
+          "end": 19.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:4": {
+      "file": "037-الصافات-youtube-v1/004.mp3",
+      "durationMs": 1507870,
+      "bytes": 18094889,
+      "sha256": "266fe7004210c62e0e867ac5bc1604b1a44970a1e515b92d20f0b5a5c13c5151",
+      "sharedAyahs": [
+        "37:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6gFG-Ww7xH0",
+          "start": 19.5,
+          "end": 1527.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:5": {
+      "file": "037-الصافات-youtube-v1/005.mp3",
+      "durationMs": 241220,
+      "bytes": 2895113,
+      "sha256": "c2197517eae0e2f1084eb07dd19d9fc8d156707faf0cd8d22c09956e33c73c55",
+      "sharedAyahs": [
+        "37:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6gFG-Ww7xH0",
+          "start": 1527.34,
+          "end": 1768.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:6": {
+      "file": "037-الصافات-youtube-v1/006.mp3",
+      "durationMs": 135050,
+      "bytes": 1621001,
+      "sha256": "4380debfdb7d00d13056ec3e757ece07f0df0ee6bf878f28819f883d32aa1fe5",
+      "sharedAyahs": [
+        "37:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6gFG-Ww7xH0",
+          "start": 1768.54,
+          "end": 1903.57
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:7": {
+      "file": "037-الصافات-youtube-v1/007.mp3",
+      "durationMs": 38160,
+      "bytes": 458345,
+      "sha256": "4ef4c5c48914c3d07fdbfd40ac2f278450ce9f31b5ba68836b0c755274099cbe",
+      "sharedAyahs": [
+        "37:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 1.46,
+          "end": 39.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:8": {
+      "file": "037-الصافات-youtube-v1/008.mp3",
+      "durationMs": 28800,
+      "bytes": 346025,
+      "sha256": "82a3b4908cd06291b2d81b90570570cf0faafb9cf36fcdbd52c5d797e145e823",
+      "sharedAyahs": [
+        "37:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 39.59,
+          "end": 68.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:9": {
+      "file": "037-الصافات-youtube-v1/009.mp3",
+      "durationMs": 55440,
+      "bytes": 665705,
+      "sha256": "20c7e319660554b08dabcb67a450e0c2e572899617033dcb968be09f094737ef",
+      "sharedAyahs": [
+        "37:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 68.36,
+          "end": 123.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:10": {
+      "file": "037-الصافات-youtube-v1/010.mp3",
+      "durationMs": 234430,
+      "bytes": 2813611,
+      "sha256": "645fb025c4ed2d8f633c1f582d2b9b3146e80fa387e019b769e050da91bb7962",
+      "sharedAyahs": [
+        "37:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 123.78,
+          "end": 358.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:11": {
+      "file": "037-الصافات-youtube-v1/011.mp3",
+      "durationMs": 1056340,
+      "bytes": 12676459,
+      "sha256": "d78afdcccf8c953f891e500c475e73d2eb03c7eb23499616073335a149904ddf",
+      "sharedAyahs": [
+        "37:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 358.2,
+          "end": 1414.49
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:12": {
+      "file": "037-الصافات-youtube-v1/012.mp3",
+      "durationMs": 26380,
+      "bytes": 316939,
+      "sha256": "8804195fb3592af0adf6854114cc46dcb16d44f2a416d7892d00b62a1bc1f720",
+      "sharedAyahs": [
+        "37:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 1414.49,
+          "end": 1440.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:13": {
+      "file": "037-الصافات-youtube-v1/013.mp3",
+      "durationMs": 2690,
+      "bytes": 32683,
+      "sha256": "1e5d75ad5bf183db8773f288142bbaeb7ab76a0ad4a8433148b710be5653accd",
+      "sharedAyahs": [
+        "37:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 1440.85,
+          "end": 1443.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:14": {
+      "file": "037-الصافات-youtube-v1/014.mp3",
+      "durationMs": 119230,
+      "bytes": 1431211,
+      "sha256": "6e7414c7c525dfb23f721b6d867262c95da0b20a78375c7af2c0b9ec366ecc98",
+      "sharedAyahs": [
+        "37:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 1443.51,
+          "end": 1562.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:15": {
+      "file": "037-الصافات-youtube-v1/015.mp3",
+      "durationMs": 385010,
+      "bytes": 4620523,
+      "sha256": "dbf9b9484b2bb7f7d099a032159e284eca9b817e457306bb7c8bba1b9827cffa",
+      "sharedAyahs": [
+        "37:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 1562.73,
+          "end": 1947.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:16": {
+      "file": "037-الصافات-youtube-v1/016.mp3",
+      "durationMs": 22320,
+      "bytes": 268267,
+      "sha256": "f5ac630cc6b646c16bb9063f812919e33e5126e0a4145ec0eeb4a18aa41128af",
+      "sharedAyahs": [
+        "37:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 1947.7,
+          "end": 1970.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:17": {
+      "file": "037-الصافات-youtube-v1/017.mp3",
+      "durationMs": 25250,
+      "bytes": 303403,
+      "sha256": "3f620bfb937e5bb2b9e86af2501bc7bbe42678797b49b78512411ac2e2a1a9f6",
+      "sharedAyahs": [
+        "37:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 1970.0,
+          "end": 1995.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:18": {
+      "file": "037-الصافات-youtube-v1/018.mp3",
+      "durationMs": 36340,
+      "bytes": 436459,
+      "sha256": "01c1bce886d9b364dbf5ddc5c139306e4f453ed5b976c3be2addc10641d4e273",
+      "sharedAyahs": [
+        "37:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 1995.23,
+          "end": 2031.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:19": {
+      "file": "037-الصافات-youtube-v1/019.mp3",
+      "durationMs": 94100,
+      "bytes": 1129675,
+      "sha256": "5985e78b8e9ae0614befb052e4dec38e7d10cb73c8a2d2f939beb88b6d4519af",
+      "sharedAyahs": [
+        "37:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WXyzoZM79Fg",
+          "start": 2031.54,
+          "end": 2125.62
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:20": {
+      "file": "037-الصافات-youtube-v1/020.mp3",
+      "durationMs": 118900,
+      "bytes": 1427179,
+      "sha256": "6a169bab4328970e11e06a6ea4787e6dd3290e5716cb758380dc08b91b809243",
+      "sharedAyahs": [
+        "37:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 5.84,
+          "end": 124.71
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:21": {
+      "file": "037-الصافات-youtube-v1/021.mp3",
+      "durationMs": 234770,
+      "bytes": 2817643,
+      "sha256": "9de1e1188929a8164771fb5f29eb2b3357e27927989c473ab2cc886a6ae9ef24",
+      "sharedAyahs": [
+        "37:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 124.71,
+          "end": 359.47
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:22": {
+      "file": "037-الصافات-youtube-v1/022.mp3",
+      "durationMs": 48380,
+      "bytes": 581035,
+      "sha256": "1fd65086eaebc1f1550b2def15bf17dd7646e666e6847ab242f26da1348c4afa",
+      "sharedAyahs": [
+        "37:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 359.47,
+          "end": 407.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:23": {
+      "file": "037-الصافات-youtube-v1/023.mp3",
+      "durationMs": 40580,
+      "bytes": 487435,
+      "sha256": "c6e6bf4d14a8aa96fd31876b06b0f1e35e12dc32df115ab310478c8180f63a12",
+      "sharedAyahs": [
+        "37:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 407.82,
+          "end": 448.39
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:24": {
+      "file": "037-الصافات-youtube-v1/024.mp3",
+      "durationMs": 33910,
+      "bytes": 407371,
+      "sha256": "078b3c0e945b2c8517b63d03c225d520f478877de7e6531062fb2e14b02eb01e",
+      "sharedAyahs": [
+        "37:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 448.39,
+          "end": 482.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:25": {
+      "file": "037-الصافات-youtube-v1/025.mp3",
+      "durationMs": 38620,
+      "bytes": 463819,
+      "sha256": "84e1df8842c37304073de643608767a969bb8b07c3f58746241beec6f33e274c",
+      "sharedAyahs": [
+        "37:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 482.26,
+          "end": 520.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:26": {
+      "file": "037-الصافات-youtube-v1/026.mp3",
+      "durationMs": 18500,
+      "bytes": 222475,
+      "sha256": "3d08d8fdd00f38a2b296a462f602963e4a5d8cd3e8203e0b711019dc90034db3",
+      "sharedAyahs": [
+        "37:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 520.85,
+          "end": 539.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:27": {
+      "file": "037-الصافات-youtube-v1/027.mp3",
+      "durationMs": 13870,
+      "bytes": 166891,
+      "sha256": "a00b18f3e738e9b854adabf45b4a4cd6f2eb37a3bc50d22c1797e85164cb8f86",
+      "sharedAyahs": [
+        "37:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 539.35,
+          "end": 553.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:28": {
+      "file": "037-الصافات-youtube-v1/028.mp3",
+      "durationMs": 239780,
+      "bytes": 2877835,
+      "sha256": "e0ef9daf99eb64e5c7181fef78034456869839ee39d8727f6a63e0badae86fa1",
+      "sharedAyahs": [
+        "37:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 553.18,
+          "end": 792.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:29": {
+      "file": "037-الصافات-youtube-v1/029.mp3",
+      "durationMs": 22680,
+      "bytes": 272587,
+      "sha256": "7043c63edf95549ab062ba579cb29271ae027ee600fd60b485ed4edd6afd5fee",
+      "sharedAyahs": [
+        "37:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 792.95,
+          "end": 815.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:30": {
+      "file": "037-الصافات-youtube-v1/030.mp3",
+      "durationMs": 140020,
+      "bytes": 1680619,
+      "sha256": "0c1296fc1b3c7bb175203365c0c25724a949ff515bb33f5355ee9054baeba8c1",
+      "sharedAyahs": [
+        "37:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 815.6,
+          "end": 955.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:31": {
+      "file": "037-الصافات-youtube-v1/031.mp3",
+      "durationMs": 186360,
+      "bytes": 2236747,
+      "sha256": "95cfa40cc685c49c475b8774268f6018a6ad3192d53e41f31d81a06e50eecf5a",
+      "sharedAyahs": [
+        "37:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 955.6,
+          "end": 1141.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:32": {
+      "file": "037-الصافات-youtube-v1/032.mp3",
+      "durationMs": 27070,
+      "bytes": 325291,
+      "sha256": "1b4bc2a9f34058b30ff0b87b9b472235ad5d4869d2d71b36c40da4ce48fcfcb1",
+      "sharedAyahs": [
+        "37:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1141.94,
+          "end": 1168.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:33": {
+      "file": "037-الصافات-youtube-v1/033.mp3",
+      "durationMs": 5640,
+      "bytes": 68107,
+      "sha256": "0320196c85f61d61355695d8210a04617170b335e89b6b05454d6818288bf67e",
+      "sharedAyahs": [
+        "37:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1168.99,
+          "end": 1174.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:34": {
+      "file": "037-الصافات-youtube-v1/034.mp3",
+      "durationMs": 2930,
+      "bytes": 35563,
+      "sha256": "2695312a20ff9573b4d60f80240cfac0d03ff1e323134ebf1a8f13fbd81eb6bb",
+      "sharedAyahs": [
+        "37:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1174.59,
+          "end": 1177.49
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:35": {
+      "file": "037-الصافات-youtube-v1/035.mp3",
+      "durationMs": 33700,
+      "bytes": 404779,
+      "sha256": "6eb1ebf6fddbd2c84d18595e8c748272b662d7a510da0909d5367a1d398273ee",
+      "sharedAyahs": [
+        "37:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1177.49,
+          "end": 1211.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:36": {
+      "file": "037-الصافات-youtube-v1/036.mp3",
+      "durationMs": 332950,
+      "bytes": 3995851,
+      "sha256": "717552430c36d54a17d1b0d12d109283ac3dd1e98218a15189c52b5cc5035744",
+      "sharedAyahs": [
+        "37:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1211.17,
+          "end": 1544.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:37": {
+      "file": "037-الصافات-youtube-v1/037.mp3",
+      "durationMs": 42620,
+      "bytes": 511915,
+      "sha256": "214a443875633e5888d9bfd3cbe692fdb5ed66633ed2ce3494164c93327878c0",
+      "sharedAyahs": [
+        "37:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1544.09,
+          "end": 1586.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:38": {
+      "file": "037-الصافات-youtube-v1/038.mp3",
+      "durationMs": 75310,
+      "bytes": 904171,
+      "sha256": "9d625925724922af649541dc9e77294ae8d864aee43f7ecc537171e8922e8cf6",
+      "sharedAyahs": [
+        "37:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1586.69,
+          "end": 1661.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:39": {
+      "file": "037-الصافات-youtube-v1/039.mp3",
+      "durationMs": 4660,
+      "bytes": 56299,
+      "sha256": "72fae0449da04daf92dfd9d32c3c9e046e523178416e9d9e5fcd2bd4433e7bc0",
+      "sharedAyahs": [
+        "37:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1661.98,
+          "end": 1666.61
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:40": {
+      "file": "037-الصافات-youtube-v1/040.mp3",
+      "durationMs": 27770,
+      "bytes": 333643,
+      "sha256": "9a12fded6050893f865bcd4f35a9daff168f350f116c97b35a1f388d330e6f71",
+      "sharedAyahs": [
+        "37:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1666.61,
+          "end": 1694.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:41": {
+      "file": "037-الصافات-youtube-v1/041.mp3",
+      "durationMs": 127730,
+      "bytes": 1533163,
+      "sha256": "63159cb845583eff0bc0f42b91eae8950896cca3ae9b0ca4e2f15853ec4e2dcc",
+      "sharedAyahs": [
+        "37:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1694.37,
+          "end": 1822.07
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:42": {
+      "file": "037-الصافات-youtube-v1/042.mp3",
+      "durationMs": 21770,
+      "bytes": 261643,
+      "sha256": "d16fdd70f54211e83693bee1c1a444316c5d7d2aafb4dda3c7fe1ec173b2b775",
+      "sharedAyahs": [
+        "37:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1822.07,
+          "end": 1843.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:43": {
+      "file": "037-الصافات-youtube-v1/043.mp3",
+      "durationMs": 2210,
+      "bytes": 26923,
+      "sha256": "d806b706853956118995a59ee323589f30516f09588c514df0f1de87cc100f11",
+      "sharedAyahs": [
+        "37:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1843.82,
+          "end": 1845.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:44": {
+      "file": "037-الصافات-youtube-v1/044.mp3",
+      "durationMs": 12460,
+      "bytes": 149899,
+      "sha256": "659e2970e06a0db5284f2623254461ec247b534963c5954d24154b72e160a370",
+      "sharedAyahs": [
+        "37:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1845.99,
+          "end": 1858.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:45": {
+      "file": "037-الصافات-youtube-v1/045.mp3",
+      "durationMs": 59350,
+      "bytes": 712651,
+      "sha256": "1ab714908b3f30268de4fe6d1aa1894b5b2f55dca8bb670c789ad023672efb73",
+      "sharedAyahs": [
+        "37:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1858.43,
+          "end": 1917.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:46": {
+      "file": "037-الصافات-youtube-v1/046.mp3",
+      "durationMs": 92570,
+      "bytes": 1111243,
+      "sha256": "fca10e46fd27fe62a775baf5fa81ce4117b37dffccffdfeccdd137977d72169c",
+      "sharedAyahs": [
+        "37:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 1917.75,
+          "end": 2010.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:47": {
+      "file": "037-الصافات-youtube-v1/047.mp3",
+      "durationMs": 41950,
+      "bytes": 503851,
+      "sha256": "61a89c8f1d9bd53320e13e0f30a1e611f7fbc4361ba0aa5a93889b2a4ff8e404",
+      "sharedAyahs": [
+        "37:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_Oh7bFuAMJA",
+          "start": 2010.29,
+          "end": 2052.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:48": {
+      "file": "037-الصافات-youtube-v1/048.mp3",
+      "durationMs": 140900,
+      "bytes": 1691275,
+      "sha256": "648b21c89634edbd970a6db614f2dad6340bd0fac8b5d3c025885ba5df61bc66",
+      "sharedAyahs": [
+        "37:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2066.73,
+          "end": 2207.61
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:49": {
+      "file": "037-الصافات-youtube-v1/049.mp3",
+      "durationMs": 27770,
+      "bytes": 333643,
+      "sha256": "5bd862b4cefa331576391165a49a14aed17ef7a48f3a6b3d9ebe6a8e19cf9144",
+      "sharedAyahs": [
+        "37:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2207.61,
+          "end": 2235.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:50": {
+      "file": "037-الصافات-youtube-v1/050.mp3",
+      "durationMs": 59060,
+      "bytes": 709195,
+      "sha256": "607bc666c30d44ecc5ae109d1bbf90af4d35c02cd91cf70fd55983139558a4ee",
+      "sharedAyahs": [
+        "37:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2235.34,
+          "end": 2294.38
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:51": {
+      "file": "037-الصافات-youtube-v1/051.mp3",
+      "durationMs": 9100,
+      "bytes": 109579,
+      "sha256": "045afb465742be09c5599621424c844fc1109eaec81b6d3470630fd2b2bc1757",
+      "sharedAyahs": [
+        "37:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2294.38,
+          "end": 2303.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:52": {
+      "file": "037-الصافات-youtube-v1/052.mp3",
+      "durationMs": 4750,
+      "bytes": 57451,
+      "sha256": "07deccf9bc03c24b0691d26ee854507bb7d39419af9925fd664b89ac6bed912b",
+      "sharedAyahs": [
+        "37:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2303.45,
+          "end": 2308.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:53": {
+      "file": "037-الصافات-youtube-v1/053.mp3",
+      "durationMs": 34900,
+      "bytes": 419179,
+      "sha256": "64dbc62c8b09615cc4a433e71acbfe538ea01365833362d59f3e91a455a7e1dc",
+      "sharedAyahs": [
+        "37:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2308.19,
+          "end": 2343.05
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:54": {
+      "file": "037-الصافات-youtube-v1/054.mp3",
+      "durationMs": 16970,
+      "bytes": 204043,
+      "sha256": "e725858e3c469d71a053689c031d2b76374752e17be7d9a447df6a3549bab150",
+      "sharedAyahs": [
+        "37:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2343.05,
+          "end": 2360.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:55": {
+      "file": "037-الصافات-youtube-v1/055.mp3",
+      "durationMs": 12500,
+      "bytes": 150475,
+      "sha256": "9586084d68a37eb633213da0b9de873ccf31ff70fac40e476c6b0b5be137c589",
+      "sharedAyahs": [
+        "37:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2360.0,
+          "end": 2372.49
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:56": {
+      "file": "037-الصافات-youtube-v1/056.mp3",
+      "durationMs": 3260,
+      "bytes": 39595,
+      "sha256": "dbc4982f27bc0960979f68f25b6b011bdefc2801c652dd23bde44cfed5c83807",
+      "sharedAyahs": [
+        "37:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2372.49,
+          "end": 2375.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:57": {
+      "file": "037-الصافات-youtube-v1/057.mp3",
+      "durationMs": 87190,
+      "bytes": 1046731,
+      "sha256": "81b85dde789767724cc2710346b8534654283f7aa3df386967c41a19101e3edf",
+      "sharedAyahs": [
+        "37:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2375.73,
+          "end": 2462.89
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:58": {
+      "file": "037-الصافات-youtube-v1/058.mp3",
+      "durationMs": 2590,
+      "bytes": 31531,
+      "sha256": "ea4d2fc333d776cdea0deca5ca0b86641dbc0370f92408ed8f5a472772f37ac2",
+      "sharedAyahs": [
+        "37:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2462.89,
+          "end": 2465.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:59": {
+      "file": "037-الصافات-youtube-v1/059.mp3",
+      "durationMs": 3670,
+      "bytes": 44491,
+      "sha256": "e54a9338660e3419776a1e9708f37cfd132dd81c645919c13ae917ad1739fddc",
+      "sharedAyahs": [
+        "37:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2465.45,
+          "end": 2469.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:60": {
+      "file": "037-الصافات-youtube-v1/060.mp3",
+      "durationMs": 9340,
+      "bytes": 112459,
+      "sha256": "bd06c7b12b24803e403ca7ba554bbac1f41ffdc760e6ff77e6dec9f9af07d7ba",
+      "sharedAyahs": [
+        "37:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2469.11,
+          "end": 2478.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:61": {
+      "file": "037-الصافات-youtube-v1/061.mp3",
+      "durationMs": 150310,
+      "bytes": 1804171,
+      "sha256": "d81097629de1231a8afff40fe08118fec581ef3b38932e85d6eaa440bc948ba7",
+      "sharedAyahs": [
+        "37:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 2478.42,
+          "end": 2628.71
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:62": {
+      "file": "037-الصافات-youtube-v1/062.mp3",
+      "durationMs": 549720,
+      "bytes": 6597067,
+      "sha256": "42d972375b7f0ebed237c770707d8063e7d8c547bfa28fa595a89a5fc320ea78",
+      "sharedAyahs": [
+        "37:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 2.22,
+          "end": 551.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:63": {
+      "file": "037-الصافات-youtube-v1/063.mp3",
+      "durationMs": 13460,
+      "bytes": 161995,
+      "sha256": "c33a5449acc4b859fe55d15c51ebb8ef51e13bab4e977cc56c1f6b843b5b98e9",
+      "sharedAyahs": [
+        "37:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 551.91,
+          "end": 565.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:64": {
+      "file": "037-الصافات-youtube-v1/064.mp3",
+      "durationMs": 80660,
+      "bytes": 968395,
+      "sha256": "11ed993d356ac13e6d5123bc67715ed585a517ca30551f762bd12d44533fb52f",
+      "sharedAyahs": [
+        "37:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 565.35,
+          "end": 646.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:65": {
+      "file": "037-الصافات-youtube-v1/065.mp3",
+      "durationMs": 80860,
+      "bytes": 970699,
+      "sha256": "b43bafd68f617e268bc94ee81b89c86f0f2be78286d72f7bdedf418077b5cf74",
+      "sharedAyahs": [
+        "37:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 646.0,
+          "end": 726.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:66": {
+      "file": "037-الصافات-youtube-v1/066.mp3",
+      "durationMs": 21380,
+      "bytes": 257035,
+      "sha256": "631858f542cb9bb881ce64b07968a098cf23a7071f8247c3164d7b3573426c50",
+      "sharedAyahs": [
+        "37:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 726.82,
+          "end": 748.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:67": {
+      "file": "037-الصافات-youtube-v1/067.mp3",
+      "durationMs": 9890,
+      "bytes": 119083,
+      "sha256": "2fb12c5852af8883002ae8f4b6176b268e306cc2a3a622205a3ac6c6436fa3a5",
+      "sharedAyahs": [
+        "37:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 748.18,
+          "end": 758.06
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:68": {
+      "file": "037-الصافات-youtube-v1/068.mp3",
+      "durationMs": 59570,
+      "bytes": 715243,
+      "sha256": "2c4caac17e874f35523fcda63676ee1bc60f85d918e24200ffd6229f1c5604d0",
+      "sharedAyahs": [
+        "37:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 758.06,
+          "end": 817.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:69": {
+      "file": "037-الصافات-youtube-v1/069.mp3",
+      "durationMs": 117550,
+      "bytes": 1411051,
+      "sha256": "b09232709d6dc044ecf608698b94823a6bafcafe5ea05aa7d8d53fb33345a152",
+      "sharedAyahs": [
+        "37:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 817.59,
+          "end": 935.13
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:70": {
+      "file": "037-الصافات-youtube-v1/070.mp3",
+      "durationMs": 23210,
+      "bytes": 278923,
+      "sha256": "c2656f460174792d7a11c07982e94d2c64227444a07128b557a84188b6cc37b6",
+      "sharedAyahs": [
+        "37:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 935.13,
+          "end": 958.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:71": {
+      "file": "037-الصافات-youtube-v1/071.mp3",
+      "durationMs": 8810,
+      "bytes": 106123,
+      "sha256": "f20d12b8455ea09fef6a08eb8c10eeaf6fc19e91eeaee773ab622efbd4ff9b9e",
+      "sharedAyahs": [
+        "37:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 958.31,
+          "end": 967.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:72": {
+      "file": "037-الصافات-youtube-v1/072.mp3",
+      "durationMs": 119540,
+      "bytes": 1434955,
+      "sha256": "981abc4526a8545199ab38b6f91a2ecf4d195dc077b74520681be9325257809f",
+      "sharedAyahs": [
+        "37:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 967.09,
+          "end": 1086.62
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:73": {
+      "file": "037-الصافات-youtube-v1/073.mp3",
+      "durationMs": 6960,
+      "bytes": 83947,
+      "sha256": "802cc2b144dff723feda346ac6bcfb0f3cd63e2ba0224b7fd9600130505f9660",
+      "sharedAyahs": [
+        "37:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1086.62,
+          "end": 1093.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:74": {
+      "file": "037-الصافات-youtube-v1/074.mp3",
+      "durationMs": 154320,
+      "bytes": 1852267,
+      "sha256": "2dea1feddfa0fb1f730b61fab0124de5aa4b535e63c1126ef078ab9f5629f030",
+      "sharedAyahs": [
+        "37:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1093.54,
+          "end": 1247.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:75": {
+      "file": "037-الصافات-youtube-v1/075.mp3",
+      "durationMs": 119900,
+      "bytes": 1439275,
+      "sha256": "1a9d18f81be9d17034bf1b948a3b376136dbcb6f188afa2deb8ae0a1a99b15a8",
+      "sharedAyahs": [
+        "37:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1247.85,
+          "end": 1367.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:76": {
+      "file": "037-الصافات-youtube-v1/076.mp3",
+      "durationMs": 171380,
+      "bytes": 2057035,
+      "sha256": "a7648057a0ff961afb9ff6e78a77d49625b257afb205b45a9f4e2b376e97b84d",
+      "sharedAyahs": [
+        "37:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1367.73,
+          "end": 1539.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:77": {
+      "file": "037-الصافات-youtube-v1/077.mp3",
+      "durationMs": 6120,
+      "bytes": 73867,
+      "sha256": "dc06a8f31a87d11c782cc9b0786125ebc50a2791f1cf829bec242907539fc727",
+      "sharedAyahs": [
+        "37:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1539.09,
+          "end": 1545.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:78": {
+      "file": "037-الصافات-youtube-v1/078.mp3",
+      "durationMs": 26760,
+      "bytes": 321547,
+      "sha256": "c2c1accc5bdad8b99f012fb402a2744ff2d6620342e9797fbabba3df78328982",
+      "sharedAyahs": [
+        "37:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1545.19,
+          "end": 1571.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:79": {
+      "file": "037-الصافات-youtube-v1/079.mp3",
+      "durationMs": 19080,
+      "bytes": 229387,
+      "sha256": "edf42aae068346ac3163800ea5690c549f95ed3b9557bbaf2a6829c77bf9cfe7",
+      "sharedAyahs": [
+        "37:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1571.91,
+          "end": 1590.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:80": {
+      "file": "037-الصافات-youtube-v1/080.mp3",
+      "durationMs": 4580,
+      "bytes": 55435,
+      "sha256": "035fabf66ef14de52f65e8f42fee8f35ca9f48e72794661efb10b89af2fb1556",
+      "sharedAyahs": [
+        "37:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1590.98,
+          "end": 1595.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:81": {
+      "file": "037-الصافات-youtube-v1/081.mp3",
+      "durationMs": 4130,
+      "bytes": 49963,
+      "sha256": "3731cc59dcca45de78fad1c1ae9b96d758aafc1c78056045ad45968b90988d37",
+      "sharedAyahs": [
+        "37:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1595.54,
+          "end": 1599.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:82": {
+      "file": "037-الصافات-youtube-v1/082.mp3",
+      "durationMs": 128710,
+      "bytes": 1544971,
+      "sha256": "240d841e20210f4a46acb994eabe88c0a23dfdafc745e5671f0ce6bd1107f549",
+      "sharedAyahs": [
+        "37:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1599.63,
+          "end": 1728.33
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:83": {
+      "file": "037-الصافات-youtube-v1/083.mp3",
+      "durationMs": 46610,
+      "bytes": 559723,
+      "sha256": "c602126bbd5baa450e546afe7c98a6fe87d7a80b586fb8c1246f75aabe345c6d",
+      "sharedAyahs": [
+        "37:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1728.33,
+          "end": 1774.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:84": {
+      "file": "037-الصافات-youtube-v1/084.mp3",
+      "durationMs": 421030,
+      "bytes": 5052811,
+      "sha256": "2bd2590a79b6db7b4fed0b7bdc4a3cb85e43f9f05d0470e6ff65d632a47529b4",
+      "sharedAyahs": [
+        "37:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 1774.92,
+          "end": 2195.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:85": {
+      "file": "037-الصافات-youtube-v1/085.mp3",
+      "durationMs": 54100,
+      "bytes": 649579,
+      "sha256": "a6cd5ed718760902347744312e25ab994b26799c8e24da460f227acf4d9f2e44",
+      "sharedAyahs": [
+        "37:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 2195.92,
+          "end": 2250.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:86": {
+      "file": "037-الصافات-youtube-v1/086.mp3",
+      "durationMs": 48140,
+      "bytes": 578155,
+      "sha256": "662d456fa311dd4ea8b60a4579d61382ee77366c7b7aba954cedc62b58542b91",
+      "sharedAyahs": [
+        "37:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 2250.0,
+          "end": 2298.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:87": {
+      "file": "037-الصافات-youtube-v1/087.mp3",
+      "durationMs": 252740,
+      "bytes": 3033355,
+      "sha256": "2cd6260eb3632047f3dc1bcf4bf57d8499263f36d3f8d7f25dd60886fa89e5c4",
+      "sharedAyahs": [
+        "37:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 2298.1,
+          "end": 2550.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:88": {
+      "file": "037-الصافات-youtube-v1/088.mp3",
+      "durationMs": 3140,
+      "bytes": 38155,
+      "sha256": "6aeac5a87d114fc2d7ad17a257dd83ffdb5b3c4aba17c37d22e306bb0c36e595",
+      "sharedAyahs": [
+        "37:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 2550.84,
+          "end": 2553.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:89": {
+      "file": "037-الصافات-youtube-v1/089.mp3",
+      "durationMs": 35040,
+      "bytes": 420907,
+      "sha256": "0046fa33c0a31ce6350c822facf79f6a1a44bb39a8e863fb49d16f83879efef2",
+      "sharedAyahs": [
+        "37:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HK3cNQ2wvJU",
+          "start": 2553.96,
+          "end": 2588.97
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:90": {
+      "file": "037-الصافات-youtube-v1/090.mp3",
+      "durationMs": 131880,
+      "bytes": 1582987,
+      "sha256": "b70e6c7c7caac0ca51e1f5d7729b7b2c1b7bd59317be236dd7f806ef4961c303",
+      "sharedAyahs": [
+        "37:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1.84,
+          "end": 133.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:91": {
+      "file": "037-الصافات-youtube-v1/091.mp3",
+      "durationMs": 6460,
+      "bytes": 77899,
+      "sha256": "ffe2f099e7645ab7a232bbe64d03f1eadfa301cfcb03fab0a00908f6d90fef84",
+      "sharedAyahs": [
+        "37:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 133.69,
+          "end": 140.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:92": {
+      "file": "037-الصافات-youtube-v1/092.mp3",
+      "durationMs": 9600,
+      "bytes": 115627,
+      "sha256": "ac285ac19dad25f6fd5ce7b3c93d55bc0f6c234270743281539ae86bce4664cc",
+      "sharedAyahs": [
+        "37:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 140.12,
+          "end": 149.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:93": {
+      "file": "037-الصافات-youtube-v1/093.mp3",
+      "durationMs": 26210,
+      "bytes": 314923,
+      "sha256": "120982da0715cc3cfe2b98bab80a0b248a6eef1d6e8752101a64ae5dab596556",
+      "sharedAyahs": [
+        "37:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 149.7,
+          "end": 175.88
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:94": {
+      "file": "037-الصافات-youtube-v1/094.mp3",
+      "durationMs": 7800,
+      "bytes": 94027,
+      "sha256": "2a4cc67d58df919dfaae7196601b5af7b6f16c63cbd9d8a26b1fed88c7431789",
+      "sharedAyahs": [
+        "37:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 175.88,
+          "end": 183.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:95": {
+      "file": "037-الصافات-youtube-v1/095.mp3",
+      "durationMs": 23140,
+      "bytes": 278059,
+      "sha256": "ce7f90632cf5e97ec1eeda52a1689fbb06fcc151178b00ce05f57ae092ec4153",
+      "sharedAyahs": [
+        "37:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 183.65,
+          "end": 206.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:96": {
+      "file": "037-الصافات-youtube-v1/096.mp3",
+      "durationMs": 32380,
+      "bytes": 388939,
+      "sha256": "2a9d2834b97c84c87989ce4bb8b74c1a264aee73de12eccf310cfa1355b9f5a2",
+      "sharedAyahs": [
+        "37:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 206.77,
+          "end": 239.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:97": {
+      "file": "037-الصافات-youtube-v1/097.mp3",
+      "durationMs": 5860,
+      "bytes": 70699,
+      "sha256": "b17ce9b6f13b593cd048f0d2193a36fb45bb6d9d6b7222913a617d6cc209398c",
+      "sharedAyahs": [
+        "37:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 239.12,
+          "end": 244.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:98": {
+      "file": "037-الصافات-youtube-v1/098.mp3",
+      "durationMs": 168340,
+      "bytes": 2020459,
+      "sha256": "80f5cd5241c1d26d70f54fd5f253563956265f7adafa342b141429559b750ec8",
+      "sharedAyahs": [
+        "37:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 244.96,
+          "end": 413.28
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:99": {
+      "file": "037-الصافات-youtube-v1/099.mp3",
+      "durationMs": 51700,
+      "bytes": 620779,
+      "sha256": "76cb34f41369221ab25ee549dd725633beff667b393cfcc94e1c181fa0019c38",
+      "sharedAyahs": [
+        "37:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 413.28,
+          "end": 464.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:100": {
+      "file": "037-الصافات-youtube-v1/100.mp3",
+      "durationMs": 67940,
+      "bytes": 815757,
+      "sha256": "4f8064191b279a48a98aa3b1715bcad15afe44630f02d80ec78d3c8dc4dff6ec",
+      "sharedAyahs": [
+        "37:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 464.95,
+          "end": 532.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:101": {
+      "file": "037-الصافات-youtube-v1/101.mp3",
+      "durationMs": 396070,
+      "bytes": 4753293,
+      "sha256": "359224ed860524336da3532d628389199d2a963e0a91295d72eeb183a3461900",
+      "sharedAyahs": [
+        "37:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 532.87,
+          "end": 928.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:102": {
+      "file": "037-الصافات-youtube-v1/102.mp3",
+      "durationMs": 441700,
+      "bytes": 5300781,
+      "sha256": "4806e86ec6c82db46158f6534c1462cc774fc3abb9b53670d272ab99996d6572",
+      "sharedAyahs": [
+        "37:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 928.92,
+          "end": 1370.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:103": {
+      "file": "037-الصافات-youtube-v1/103.mp3",
+      "durationMs": 6580,
+      "bytes": 79341,
+      "sha256": "5a7a0bcbd6aab85f14c58f3192e99a01e9dbdee9b1d3e1033c055ff1c86f0ff8",
+      "sharedAyahs": [
+        "37:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1370.59,
+          "end": 1377.13
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:104": {
+      "file": "037-الصافات-youtube-v1/104.mp3",
+      "durationMs": 2300,
+      "bytes": 28077,
+      "sha256": "ae6c1975ecd32823cc60e1fa125a116fd1d8c9eec742644f52c2f95996da56bf",
+      "sharedAyahs": [
+        "37:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1377.13,
+          "end": 1379.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:105": {
+      "file": "037-الصافات-youtube-v1/105.mp3",
+      "durationMs": 4630,
+      "bytes": 56013,
+      "sha256": "2b2e5621e7e9db45a41e2fbf17d4ae9053c56d77d02d9254bfa03fe04f885b03",
+      "sharedAyahs": [
+        "37:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1379.41,
+          "end": 1384.03
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:106": {
+      "file": "037-الصافات-youtube-v1/106.mp3",
+      "durationMs": 31820,
+      "bytes": 382317,
+      "sha256": "400705a2a79eeccac55ea9750f9a4e1c2e07b4809c8df128bd520d8a2cfddc10",
+      "sharedAyahs": [
+        "37:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1384.03,
+          "end": 1415.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:107": {
+      "file": "037-الصافات-youtube-v1/107.mp3",
+      "durationMs": 5660,
+      "bytes": 68397,
+      "sha256": "73e16c9f6c98c47d83111b1180f3866e0b5c9ee44e0a6e091af759323191dbee",
+      "sharedAyahs": [
+        "37:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1415.82,
+          "end": 1421.46
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:108": {
+      "file": "037-الصافات-youtube-v1/108.mp3",
+      "durationMs": 29350,
+      "bytes": 352653,
+      "sha256": "6f32c892338bb06a451043c7cb7607a5afc2f567490b79505ea8ba1431ae5950",
+      "sharedAyahs": [
+        "37:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1421.46,
+          "end": 1450.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:109": {
+      "file": "037-الصافات-youtube-v1/109.mp3",
+      "durationMs": 49220,
+      "bytes": 591117,
+      "sha256": "ec2853731392c50cb4778267d64a4dac1cd7078cae0a627e4c54005fd960f4d9",
+      "sharedAyahs": [
+        "37:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1450.79,
+          "end": 1500.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:110": {
+      "file": "037-الصافات-youtube-v1/110.mp3",
+      "durationMs": 80950,
+      "bytes": 971853,
+      "sha256": "ffa78b72de1a266ef174840a704dd53039a00edecbdc9c911503bc6a082c7ff9",
+      "sharedAyahs": [
+        "37:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1500.0,
+          "end": 1580.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:111": {
+      "file": "037-الصافات-youtube-v1/111.mp3",
+      "durationMs": 67660,
+      "bytes": 812301,
+      "sha256": "5822a6c7af0a5af94bf6e2c4c505b6b3a5f46163dce1c3dc248e92642a4bf589",
+      "sharedAyahs": [
+        "37:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1580.91,
+          "end": 1648.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:112": {
+      "file": "037-الصافات-youtube-v1/112.mp3",
+      "durationMs": 68420,
+      "bytes": 821517,
+      "sha256": "e323ec89df7757e8720c2567f40110902fbe93a3c112fbf219402454466f20a4",
+      "sharedAyahs": [
+        "37:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1648.56,
+          "end": 1716.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:113": {
+      "file": "037-الصافات-youtube-v1/113.mp3",
+      "durationMs": 92260,
+      "bytes": 1107501,
+      "sha256": "11f99cece3465b956d27dd5de68a4fda22b5727bc2e7f1d5287d44fff43f947f",
+      "sharedAyahs": [
+        "37:113"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1716.94,
+          "end": 1809.19
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:114": {
+      "file": "037-الصافات-youtube-v1/114.mp3",
+      "durationMs": 25180,
+      "bytes": 302541,
+      "sha256": "044890aaae3f6e8a315efa046fcac8919f403c4762d09cfcb7004787ac3e6dc3",
+      "sharedAyahs": [
+        "37:114"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1809.19,
+          "end": 1834.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:115": {
+      "file": "037-الصافات-youtube-v1/115.mp3",
+      "durationMs": 224400,
+      "bytes": 2693229,
+      "sha256": "3bbf8265057328129bff9477eda59d940103fc28d302a1b9a0f357b45a05a4d8",
+      "sharedAyahs": [
+        "37:115"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 1834.34,
+          "end": 2058.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:116": {
+      "file": "037-الصافات-youtube-v1/116.mp3",
+      "durationMs": 35980,
+      "bytes": 432141,
+      "sha256": "6e3c269d32c4d40fd965a2ee1fbffa5491da7691f3d023dfc329abf94a65c0c5",
+      "sharedAyahs": [
+        "37:116"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2058.7,
+          "end": 2094.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:117": {
+      "file": "037-الصافات-youtube-v1/117.mp3",
+      "durationMs": 10370,
+      "bytes": 124845,
+      "sha256": "0411f313e8ac96e47ad37e25a6ebb63d5970dbfeb6a6c8c887120319d7442cc2",
+      "sharedAyahs": [
+        "37:117"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2094.67,
+          "end": 2105.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:118": {
+      "file": "037-الصافات-youtube-v1/118.mp3",
+      "durationMs": 12960,
+      "bytes": 155949,
+      "sha256": "0d0d7079753e0e1cac4ed0d179cd25d22ac044da0c08ba8d6727b566ce1355d0",
+      "sharedAyahs": [
+        "37:118"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2105.0,
+          "end": 2117.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:119": {
+      "file": "037-الصافات-youtube-v1/119.mp3",
+      "durationMs": 24020,
+      "bytes": 288717,
+      "sha256": "4ba21c37b45818c2c3d1a5d21d056d2004c182706aac855a5b2fa21bf596158e",
+      "sharedAyahs": [
+        "37:119"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2117.93,
+          "end": 2141.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:120": {
+      "file": "037-الصافات-youtube-v1/120.mp3",
+      "durationMs": 60910,
+      "bytes": 731373,
+      "sha256": "32797a7876b93385efdeb395817af4e3e5b87298921c563e564fb3dab5f5c720",
+      "sharedAyahs": [
+        "37:120"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2141.93,
+          "end": 2202.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:121": {
+      "file": "037-الصافات-youtube-v1/121.mp3",
+      "durationMs": 3190,
+      "bytes": 38733,
+      "sha256": "c2d814148395340898a63af79cf132fd1f870550e5a8b07991d3c503cff9c6be",
+      "sharedAyahs": [
+        "37:121"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2202.84,
+          "end": 2206.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:122": {
+      "file": "037-الصافات-youtube-v1/122.mp3",
+      "durationMs": 3620,
+      "bytes": 43917,
+      "sha256": "9256d18696422b1c8f81db750011cf452b904867a5b7a420bf8778cf27b70791",
+      "sharedAyahs": [
+        "37:122"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2206.0,
+          "end": 2209.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:123": {
+      "file": "037-الصافات-youtube-v1/123.mp3",
+      "durationMs": 80330,
+      "bytes": 964365,
+      "sha256": "35eff361a32d0edcf4482ebc0d09547ed09cf5f1f18a0ff5f6af45b31274386c",
+      "sharedAyahs": [
+        "37:123"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2209.6,
+          "end": 2289.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:124": {
+      "file": "037-الصافات-youtube-v1/124.mp3",
+      "durationMs": 13030,
+      "bytes": 156813,
+      "sha256": "3980f327d82ab4e6df7d5891b4345030fa6f19c07e34606fd3990a3cd9ea18e2",
+      "sharedAyahs": [
+        "37:124"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2289.91,
+          "end": 2302.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:125": {
+      "file": "037-الصافات-youtube-v1/125.mp3",
+      "durationMs": 54530,
+      "bytes": 654765,
+      "sha256": "54cd8d516a509159abd15cc21f6886ff473b09b7eae346a11f3682d084d03939",
+      "sharedAyahs": [
+        "37:125"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2302.92,
+          "end": 2357.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:126": {
+      "file": "037-الصافات-youtube-v1/126.mp3",
+      "durationMs": 18580,
+      "bytes": 223341,
+      "sha256": "f48aab36b48e0d29dc5ec331495f14716874fac4329ca7f35565326b0d3c3551",
+      "sharedAyahs": [
+        "37:126"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2357.41,
+          "end": 2375.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:127": {
+      "file": "037-الصافات-youtube-v1/127.mp3",
+      "durationMs": 6000,
+      "bytes": 72429,
+      "sha256": "e5d7076869da350e473c86c1d68975fb7d2a059efc3925a98f02844c9010da18",
+      "sharedAyahs": [
+        "37:127"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2375.96,
+          "end": 2381.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:128": {
+      "file": "037-الصافات-youtube-v1/128.mp3",
+      "durationMs": 18070,
+      "bytes": 217293,
+      "sha256": "ab5af57a62479ab2ce52c24ec1d54f1ec2e8601b8af252636de3314f00f9123d",
+      "sharedAyahs": [
+        "37:128"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2381.95,
+          "end": 2400.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:129": {
+      "file": "037-الصافات-youtube-v1/129.mp3",
+      "durationMs": 23300,
+      "bytes": 280077,
+      "sha256": "de4fac40c461118139d1bcf1b2267232d683c8a5f17eef961c27e0050d4b09f7",
+      "sharedAyahs": [
+        "37:129"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "CspRo8dN-LM",
+          "start": 2400.0,
+          "end": 2423.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:130": {
+      "file": "037-الصافات-youtube-v1/130.mp3",
+      "durationMs": 7750,
+      "bytes": 93453,
+      "sha256": "63e749c4d0fbb440bf0044a709608c6d7bd5562396d0e817372ffaa19457784a",
+      "sharedAyahs": [
+        "37:130"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xeRxKnOVzfY",
+          "start": 924.68,
+          "end": 932.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:131": {
+      "file": "037-الصافات-youtube-v1/131.mp3",
+      "durationMs": 2350,
+      "bytes": 28653,
+      "sha256": "56a1d0ceb1d84cd137730e20f89b593f9ef09362396203c4dbd8745f18d2b892",
+      "sharedAyahs": [
+        "37:131"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xeRxKnOVzfY",
+          "start": 932.42,
+          "end": 934.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:132": {
+      "file": "037-الصافات-youtube-v1/132.mp3",
+      "durationMs": 437090,
+      "bytes": 5245485,
+      "sha256": "e354260d5f94c247ed0105b3f318db329a333325bde6093c70aee00a7cb8c350",
+      "sharedAyahs": [
+        "37:132"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "xeRxKnOVzfY",
+          "start": 934.74,
+          "end": 1371.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:133": {
+      "file": "037-الصافات-youtube-v1/133.mp3",
+      "durationMs": 29380,
+      "bytes": 352941,
+      "sha256": "9fa7f9215db84dc1927d2f91e816f52c0e55e4eb63211ef3e2567e0886ab299e",
+      "sharedAyahs": [
+        "37:133"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 50.58,
+          "end": 79.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:134": {
+      "file": "037-الصافات-youtube-v1/134.mp3",
+      "durationMs": 3240,
+      "bytes": 39309,
+      "sha256": "372faf34c523fd00ee3677e6d6d8c09f7060451bbd89818e0c4614851b9251cc",
+      "sharedAyahs": [
+        "37:134"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 79.94,
+          "end": 83.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:135": {
+      "file": "037-الصافات-youtube-v1/135.mp3",
+      "durationMs": 2690,
+      "bytes": 32685,
+      "sha256": "2d043c238f8a5d0f930365d97a20b132d30fbb01fb303c53cd333d68bf3082fe",
+      "sharedAyahs": [
+        "37:135"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 83.16,
+          "end": 85.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:136": {
+      "file": "037-الصافات-youtube-v1/136.mp3",
+      "durationMs": 2570,
+      "bytes": 31245,
+      "sha256": "a0ca2d1dda9e1d2dd037bef81bbb3a2142df843ed3f5677853c12443ee2c0607",
+      "sharedAyahs": [
+        "37:136"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 85.82,
+          "end": 88.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:137": {
+      "file": "037-الصافات-youtube-v1/137.mp3",
+      "durationMs": 3410,
+      "bytes": 41325,
+      "sha256": "548b14369b668f20740a18dd75fd52b85ac5b8c739c5a9fd3861fe604a05ad93",
+      "sharedAyahs": [
+        "37:137"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 88.36,
+          "end": 91.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:138": {
+      "file": "037-الصافات-youtube-v1/138.mp3",
+      "durationMs": 494280,
+      "bytes": 5931789,
+      "sha256": "8434ba12b3648b1727a91593b74138d8db89fae3d435f830169a459e1236fb15",
+      "sharedAyahs": [
+        "37:138"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 91.74,
+          "end": 586.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:139": {
+      "file": "037-الصافات-youtube-v1/139.mp3",
+      "durationMs": 6960,
+      "bytes": 83949,
+      "sha256": "486f7896aa71ec15a4d8ef15eec7864a0f37a0836a82a510d4cabfe52da6543f",
+      "sharedAyahs": [
+        "37:139"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 586.0,
+          "end": 592.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:140": {
+      "file": "037-الصافات-youtube-v1/140.mp3",
+      "durationMs": 758810,
+      "bytes": 9106125,
+      "sha256": "d61505e3a17ca19086276a3da2c1d65cb6413e22b660a4958a01e5f299f1f013",
+      "sharedAyahs": [
+        "37:140"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 592.94,
+          "end": 1351.71
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:141": {
+      "file": "037-الصافات-youtube-v1/141.mp3",
+      "durationMs": 60260,
+      "bytes": 723597,
+      "sha256": "3751978e61e6ba1d0fc2aab6f9459ed6a34cd9b9ba3fe7752426854ae1c4ca52",
+      "sharedAyahs": [
+        "37:141"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 1351.71,
+          "end": 1411.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:142": {
+      "file": "037-الصافات-youtube-v1/142.mp3",
+      "durationMs": 73800,
+      "bytes": 886029,
+      "sha256": "8e8bff1f1d37671fb931ffcc36caa5dc05b74ad66570442d7fb7c02d03abd437",
+      "sharedAyahs": [
+        "37:142"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 1411.95,
+          "end": 1485.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:143": {
+      "file": "037-الصافات-youtube-v1/143.mp3",
+      "durationMs": 36380,
+      "bytes": 437037,
+      "sha256": "9e774b012302facf748fac0d0cdfbd8f94507285749564e42eb3ec7122b5b71a",
+      "sharedAyahs": [
+        "37:143"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 1485.74,
+          "end": 1522.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:144": {
+      "file": "037-الصافات-youtube-v1/144.mp3",
+      "durationMs": 27940,
+      "bytes": 335661,
+      "sha256": "f4ce373a8de45685896b5a67899bdaab05b63a8d012340ebd85f8379e782f2e8",
+      "sharedAyahs": [
+        "37:144"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 1522.1,
+          "end": 1550.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:145": {
+      "file": "037-الصافات-youtube-v1/145.mp3",
+      "durationMs": 30650,
+      "bytes": 368205,
+      "sha256": "57405a718c3d002ebcef5f9e0ae458024b7399c1799d4b89d7b1fb0c7f60d207",
+      "sharedAyahs": [
+        "37:145"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 1550.0,
+          "end": 1580.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:146": {
+      "file": "037-الصافات-youtube-v1/146.mp3",
+      "durationMs": 487630,
+      "bytes": 5852013,
+      "sha256": "fcfe7b02c3a1ff5d6884c608290e6b9595344170e83e1405a406f8f9fb32dbff",
+      "sharedAyahs": [
+        "37:146"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rwGJoYfxBs0",
+          "start": 2.35,
+          "end": 489.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:147": {
+      "file": "037-الصافات-youtube-v1/147.mp3",
+      "durationMs": 135890,
+      "bytes": 1631085,
+      "sha256": "6b1a80d3d849944a00c3a776b1d64649e9c6576e645a26c9bbc146e0fde9c384",
+      "sharedAyahs": [
+        "37:147"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rwGJoYfxBs0",
+          "start": 489.95,
+          "end": 625.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:148": {
+      "file": "037-الصافات-youtube-v1/148.mp3",
+      "durationMs": 374210,
+      "bytes": 4490925,
+      "sha256": "d5bcc0bcf604782f803eee37dba9bdd64767606e295d8dd805677b36f4baa07d",
+      "sharedAyahs": [
+        "37:148"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rwGJoYfxBs0",
+          "start": 625.82,
+          "end": 1000.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:149": {
+      "file": "037-الصافات-youtube-v1/149.mp3",
+      "durationMs": 256030,
+      "bytes": 3072813,
+      "sha256": "34c19bd2ddda12f1cbe3ffd3ad79fe4755787ac70d54ebe744bf73109f03d6e9",
+      "sharedAyahs": [
+        "37:149"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rwGJoYfxBs0",
+          "start": 1000.0,
+          "end": 1256.01
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:150": {
+      "file": "037-الصافات-youtube-v1/150.mp3",
+      "durationMs": 350400,
+      "bytes": 4205229,
+      "sha256": "3deb15877ad1ad0ec3bf35c7a5fa32bbcdf3a97e7f29d28c3431aab5f0fff850",
+      "sharedAyahs": [
+        "37:150"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rwGJoYfxBs0",
+          "start": 1256.01,
+          "end": 1606.39
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:151": {
+      "file": "037-الصافات-youtube-v1/151.mp3",
+      "durationMs": 31030,
+      "bytes": 372813,
+      "sha256": "649337861c4ad6542bccd5b5a80de4507994cd19558b41a14512f6eeb2c4d12d",
+      "sharedAyahs": [
+        "37:151"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 2.45,
+          "end": 33.47
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:152": {
+      "file": "037-الصافات-youtube-v1/152.mp3",
+      "durationMs": 144890,
+      "bytes": 1739085,
+      "sha256": "074b1063558d6d294d0a8e5c52fbfa6954462d4bf9a0834da481c3df5f0807a6",
+      "sharedAyahs": [
+        "37:152"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 33.47,
+          "end": 178.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:153": {
+      "file": "037-الصافات-youtube-v1/153.mp3",
+      "durationMs": 61630,
+      "bytes": 740013,
+      "sha256": "b24f13ff104c62409b3a31f09b5d606cb16917c0a656f797193a74caf02b1c7e",
+      "sharedAyahs": [
+        "37:153"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 178.34,
+          "end": 239.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:154": {
+      "file": "037-الصافات-youtube-v1/154.mp3",
+      "durationMs": 28750,
+      "bytes": 345453,
+      "sha256": "7f53727b518f706290b5adbfa6b58f7c7cf415af56d0268f2d241346320efa6e",
+      "sharedAyahs": [
+        "37:154"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 239.95,
+          "end": 268.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:155": {
+      "file": "037-الصافات-youtube-v1/155.mp3",
+      "durationMs": 51360,
+      "bytes": 616749,
+      "sha256": "431a4740fb0c8e047b92fdf30d4d1e204c0e9a9a4d944a4bf1ff4abf8e37e387",
+      "sharedAyahs": [
+        "37:155"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 268.68,
+          "end": 320.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:156": {
+      "file": "037-الصافات-youtube-v1/156.mp3",
+      "durationMs": 43150,
+      "bytes": 518253,
+      "sha256": "ec498a7987ee567bad87f4b6c0cb5d508ff09279c2842d80168fe2353abc5db5",
+      "sharedAyahs": [
+        "37:156"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 320.0,
+          "end": 363.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:157": {
+      "file": "037-الصافات-youtube-v1/157.mp3",
+      "durationMs": 4730,
+      "bytes": 57165,
+      "sha256": "2f5d7191ec64c267758ab53772269fb8260b7b73fb96e62383c7fe4abffb36c6",
+      "sharedAyahs": [
+        "37:157"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 363.14,
+          "end": 367.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:158": {
+      "file": "037-الصافات-youtube-v1/158.mp3",
+      "durationMs": 108600,
+      "bytes": 1303629,
+      "sha256": "a22d7faa24e4b169aaeb5b0fc0d3990cfe565f4a342bed86dd5af1e9d7c88cf5",
+      "sharedAyahs": [
+        "37:158"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 367.83,
+          "end": 476.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:159": {
+      "file": "037-الصافات-youtube-v1/159.mp3",
+      "durationMs": 131230,
+      "bytes": 1575213,
+      "sha256": "6b1de7978de5e05afbd32c76a6eeaf73944a0ce04cb53ef6378da803a8536499",
+      "sharedAyahs": [
+        "37:159"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 476.41,
+          "end": 607.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:160": {
+      "file": "037-الصافات-youtube-v1/160.mp3",
+      "durationMs": 13390,
+      "bytes": 161133,
+      "sha256": "dd1ce2b14723898db3b4252add3d845b71d18ae3c1fcc4abb38b17af5a30fbb1",
+      "sharedAyahs": [
+        "37:160"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 607.63,
+          "end": 620.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:161": {
+      "file": "037-الصافات-youtube-v1/161.mp3",
+      "durationMs": 4390,
+      "bytes": 53133,
+      "sha256": "0f8863184ddb4a9e8db5d82e7dc8ce6d3b338ac29311e8f968366246c01aad52",
+      "sharedAyahs": [
+        "37:161"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 620.99,
+          "end": 625.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:162": {
+      "file": "037-الصافات-youtube-v1/162.mp3",
+      "durationMs": 147530,
+      "bytes": 1770765,
+      "sha256": "e1a3641c140314bd2c6865e4209170ca75c3060b9531a71692c483c68f117d9e",
+      "sharedAyahs": [
+        "37:162"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 625.36,
+          "end": 772.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:163": {
+      "file": "037-الصافات-youtube-v1/163.mp3",
+      "durationMs": 120890,
+      "bytes": 1451085,
+      "sha256": "da17472c1629dc6aee3d8cd6cbad97a3e385cf78cb07c824f9393cb5fe4f2bcd",
+      "sharedAyahs": [
+        "37:163"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 772.85,
+          "end": 893.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:164": {
+      "file": "037-الصافات-youtube-v1/164.mp3",
+      "durationMs": 52320,
+      "bytes": 628269,
+      "sha256": "3f37830c6ebffbd7185671f94026dbe2020989cfe3827521575f886d31cc2624",
+      "sharedAyahs": [
+        "37:164"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 893.73,
+          "end": 946.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:165": {
+      "file": "037-الصافات-youtube-v1/165.mp3",
+      "durationMs": 1990,
+      "bytes": 24333,
+      "sha256": "736fe19ff660d7fdf7279f96d6b4ec3c75fc3ba91452ac990db1cd2a7ac32a8d",
+      "sharedAyahs": [
+        "37:165"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 946.02,
+          "end": 948.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:166": {
+      "file": "037-الصافات-youtube-v1/166.mp3",
+      "durationMs": 10820,
+      "bytes": 130317,
+      "sha256": "8cb59a802e34f4020f12dc9b12816c59bab3860d85676230c56df0311dfe266d",
+      "sharedAyahs": [
+        "37:166"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 948.0,
+          "end": 958.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:167": {
+      "file": "037-الصافات-youtube-v1/167.mp3",
+      "durationMs": 2980,
+      "bytes": 36141,
+      "sha256": "0572bdb18ccb78e3fa0451fd9ec157e0528c84c82029e20cf34f0210a27d6120",
+      "sharedAyahs": [
+        "37:167"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 958.8,
+          "end": 961.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:168": {
+      "file": "037-الصافات-youtube-v1/168.mp3",
+      "durationMs": 138290,
+      "bytes": 1659885,
+      "sha256": "5962e360e093f43258a37b773b6c7b764c75a6afdda3b0b0032cf9173546c83e",
+      "sharedAyahs": [
+        "37:168"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 961.74,
+          "end": 1100.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:169": {
+      "file": "037-الصافات-youtube-v1/169.mp3",
+      "durationMs": 42260,
+      "bytes": 507597,
+      "sha256": "61a1d695bed5c0221b6257cd40a478a70bab1a14e488080a91eeec9999befe28",
+      "sharedAyahs": [
+        "37:169"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1100.0,
+          "end": 1142.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:170": {
+      "file": "037-الصافات-youtube-v1/170.mp3",
+      "durationMs": 153550,
+      "bytes": 1843053,
+      "sha256": "19b287de171ce340639445cf65cf2bf630d5c447d9e68c99db8ff92789687d3c",
+      "sharedAyahs": [
+        "37:170"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1142.25,
+          "end": 1295.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:171": {
+      "file": "037-الصافات-youtube-v1/171.mp3",
+      "durationMs": 48120,
+      "bytes": 577869,
+      "sha256": "7b2fad2ac5ffa3eaa6e40c6b8b7cbeb0e3062865e7441be0a0b936a9208742e9",
+      "sharedAyahs": [
+        "37:171"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1295.77,
+          "end": 1343.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:172": {
+      "file": "037-الصافات-youtube-v1/172.mp3",
+      "durationMs": 92710,
+      "bytes": 1112973,
+      "sha256": "1351553e5296e23553508c3abb393917a34b86d2064aee73f44c3f6b494329ec",
+      "sharedAyahs": [
+        "37:172"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1343.87,
+          "end": 1436.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:173": {
+      "file": "037-الصافات-youtube-v1/173.mp3",
+      "durationMs": 64800,
+      "bytes": 778029,
+      "sha256": "2d481b841e6ab74ee87bb1f12bc84964ee5d46c45021bf6ef78814e857dac956",
+      "sharedAyahs": [
+        "37:173"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1436.55,
+          "end": 1501.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:174": {
+      "file": "037-الصافات-youtube-v1/174.mp3",
+      "durationMs": 39620,
+      "bytes": 475917,
+      "sha256": "a4e55bd1fe24967adb14220000826585e93f9d448ce8d013821099613959e851",
+      "sharedAyahs": [
+        "37:174"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1501.34,
+          "end": 1540.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:175": {
+      "file": "037-الصافات-youtube-v1/175.mp3",
+      "durationMs": 111220,
+      "bytes": 1335021,
+      "sha256": "6b0e61bf3d168958a19723c6c2044d157af067e8d28b0ec26262aa650cd7e49e",
+      "sharedAyahs": [
+        "37:175"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1540.94,
+          "end": 1652.13
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:176": {
+      "file": "037-الصافات-youtube-v1/176.mp3",
+      "durationMs": 27720,
+      "bytes": 333069,
+      "sha256": "9076fbbfaff431ff986a73e5c054ec9d73f3a8d3a7ab923a5b65f07272822d41",
+      "sharedAyahs": [
+        "37:176"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1652.13,
+          "end": 1679.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:177": {
+      "file": "037-الصافات-youtube-v1/177.mp3",
+      "durationMs": 19100,
+      "bytes": 229677,
+      "sha256": "b37385709d4656c663c3591a67cafc26ce2837cad95a40a6e915b7747dc8c484",
+      "sharedAyahs": [
+        "37:177"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1679.82,
+          "end": 1698.89
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:178": {
+      "file": "037-الصافات-youtube-v1/178.mp3",
+      "durationMs": 15530,
+      "bytes": 186765,
+      "sha256": "1dc8e5415da59355e54ba44b93d08e72195171b1d3952493861dda5af434e148",
+      "sharedAyahs": [
+        "37:178"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1698.89,
+          "end": 1714.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:179": {
+      "file": "037-الصافات-youtube-v1/179.mp3",
+      "durationMs": 135620,
+      "bytes": 1627917,
+      "sha256": "3fba1764a7c5a8258005e590962217b3be898c2734d2c7d36f5156e925c3e74e",
+      "sharedAyahs": [
+        "37:179"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1714.4,
+          "end": 1850.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:180": {
+      "file": "037-الصافات-youtube-v1/180.mp3",
+      "durationMs": 232510,
+      "bytes": 2790573,
+      "sha256": "24a24a6af992b8c5b9621497988d40dae8c5703bd58a7a04b7194f4c10d136c8",
+      "sharedAyahs": [
+        "37:180"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 1850.0,
+          "end": 2082.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:181": {
+      "file": "037-الصافات-youtube-v1/181.mp3",
+      "durationMs": 13320,
+      "bytes": 160269,
+      "sha256": "d2b27577d9a19cb11c8d9a28c05f3b901188a087ad633a2b7e260c69752da768",
+      "sharedAyahs": [
+        "37:181"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 2082.5,
+          "end": 2095.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    "37:182": {
+      "file": "037-الصافات-youtube-v1/182.mp3",
+      "durationMs": 35210,
+      "bytes": 422925,
+      "sha256": "060353cacbea9f1a7e8fbd763aad01cb0dcd6749111d5c78543db5059359777d",
+      "sharedAyahs": [
+        "37:182"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "StUcfM-6Kc8",
+          "start": 2095.79,
+          "end": 2130.97
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "037-الصافات-youtube-v1/other-06.mp3",
+      "kind": "other",
+      "durationMs": 484870,
+      "bytes": 5818882,
+      "sha256": "8b4345e13e7aef8b018c30804947bb0804e29b6f9e9379be1171968d979b1358",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "6gFG-Ww7xH0",
+          "start": 1903.57,
+          "end": 2388.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "037-الصافات-youtube-v1/other-48.mp3",
+      "kind": "other",
+      "durationMs": 2066760,
+      "bytes": 24801538,
+      "sha256": "f344f73630c30b5bf4ceede24cd38102b133741899e1a0521139a292c12e4fa5",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "aBkUQZtmiCA",
+          "start": 0.0,
+          "end": 2066.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "037-الصافات-youtube-v1/other-131.mp3",
+      "kind": "other",
+      "durationMs": 924310,
+      "bytes": 11092162,
+      "sha256": "bb39a836648a4e8c4665b9cf0ff49cb078abfd61ec3afaec2773472cb1af7314",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "xeRxKnOVzfY",
+          "start": 0.4,
+          "end": 924.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "037-الصافات-youtube-v1/other-135.mp3",
+      "kind": "other",
+      "durationMs": 257520,
+      "bytes": 3090658,
+      "sha256": "7c80a5a4a42a685968eac8b543fbf4dc51d814d5a7aca2824a5e0d2f4f05178c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "xeRxKnOVzfY",
+          "start": 1371.8,
+          "end": 1629.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "037-الصافات-youtube-v1/other-149.mp3",
+      "kind": "other",
+      "durationMs": 81000,
+      "bytes": 972418,
+      "sha256": "f09faaf0daf9ccef2edaaec8998a2d05195b9ef3e37d31e3cd3024248ca97f2d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-X5ZTYVaOaw",
+          "start": 1580.64,
+          "end": 1661.6
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PL0E20F4A5738CC732",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "saffat-protection-heavens",
+      "title": "حفظ السماء ورجم الشياطين بالشهب الثاقبة",
+      "file": "037-الصافات-youtube-v1/other-06.mp3",
+      "startMs": 0,
+      "endMs": 484870
+    },
+    {
+      "id": "saffat-day-of-judgment",
+      "title": "مشاهد القيامة وجزاء المتقين في الجنات",
+      "file": "037-الصافات-youtube-v1/other-48.mp3",
+      "startMs": 0,
+      "endMs": 2066760
+    },
+    {
+      "id": "saffat-chastity-marriage",
+      "title": "تعلية الغريزة ومقاصد الشريعة في النكاح وحفظ النسل",
+      "file": "037-الصافات-youtube-v1/other-131.mp3",
+      "startMs": 0,
+      "endMs": 924310
+    },
+    {
+      "id": "saffat-story-lut",
+      "title": "قصة لوط عليه السلام وتدمير ديار الظالمين",
+      "file": "037-الصافات-youtube-v1/other-135.mp3",
+      "startMs": 0,
+      "endMs": 257520
+    },
+    {
+      "id": "saffat-story-yunus",
+      "title": "تسبيح يونس عليه السلام ونجاته من بطن الحوت",
+      "file": "037-الصافات-youtube-v1/other-149.mp3",
+      "startMs": 0,
+      "endMs": 81000
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "6gFG-Ww7xH0",
+      "WXyzoZM79Fg",
+      "_Oh7bFuAMJA",
+      "aBkUQZtmiCA",
+      "HK3cNQ2wvJU",
+      "CspRo8dN-LM",
+      "xeRxKnOVzfY",
+      "-X5ZTYVaOaw",
+      "rwGJoYfxBs0",
+      "StUcfM-6Kc8"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "037-الصافات-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 8160,
+        "durationMs": 8160,
+        "recordingDurationMs": 8160,
+        "bytes": 98345,
+        "sha256": "15bd57674582577992d9dc42abe5e010f135b4773a0c903649975c9dc91a5e4b",
+        "sharedAyahs": [
+          "37:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6gFG-Ww7xH0",
+            "start": 4.85,
+            "end": 13.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 3220,
+        "durationMs": 3220,
+        "recordingDurationMs": 3220,
+        "bytes": 39017,
+        "sha256": "1d5f37638b852cbdb5f5a25f6016ca9e27ff565bd26bb1ad91afe836e3c0fef8",
+        "sharedAyahs": [
+          "37:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6gFG-Ww7xH0",
+            "start": 13.0,
+            "end": 16.2
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 3340,
+        "durationMs": 3340,
+        "recordingDurationMs": 3340,
+        "bytes": 40457,
+        "sha256": "41577248801a083f0810ef0e672b298f3521289f899382d9047f6a230fe7456e",
+        "sharedAyahs": [
+          "37:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6gFG-Ww7xH0",
+            "start": 16.2,
+            "end": 19.5
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 1507870,
+        "durationMs": 1507870,
+        "recordingDurationMs": 1507870,
+        "bytes": 18094889,
+        "sha256": "266fe7004210c62e0e867ac5bc1604b1a44970a1e515b92d20f0b5a5c13c5151",
+        "sharedAyahs": [
+          "37:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6gFG-Ww7xH0",
+            "start": 19.5,
+            "end": 1527.34
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 241220,
+        "durationMs": 241220,
+        "recordingDurationMs": 241220,
+        "bytes": 2895113,
+        "sha256": "c2197517eae0e2f1084eb07dd19d9fc8d156707faf0cd8d22c09956e33c73c55",
+        "sharedAyahs": [
+          "37:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6gFG-Ww7xH0",
+            "start": 1527.34,
+            "end": 1768.54
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 135050,
+        "durationMs": 135050,
+        "recordingDurationMs": 135050,
+        "bytes": 1621001,
+        "sha256": "4380debfdb7d00d13056ec3e757ece07f0df0ee6bf878f28819f883d32aa1fe5",
+        "sharedAyahs": [
+          "37:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6gFG-Ww7xH0",
+            "start": 1768.54,
+            "end": 1903.57
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/other-06.mp3",
+        "startMs": 0,
+        "endMs": 484870,
+        "durationMs": 484870,
+        "recordingDurationMs": 484870,
+        "bytes": 5818882,
+        "sha256": "8b4345e13e7aef8b018c30804947bb0804e29b6f9e9379be1171968d979b1358",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "6gFG-Ww7xH0",
+            "start": 1903.57,
+            "end": 2388.43
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 38160,
+        "durationMs": 38160,
+        "recordingDurationMs": 38160,
+        "bytes": 458345,
+        "sha256": "4ef4c5c48914c3d07fdbfd40ac2f278450ce9f31b5ba68836b0c755274099cbe",
+        "sharedAyahs": [
+          "37:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 1.46,
+            "end": 39.59
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 28800,
+        "durationMs": 28800,
+        "recordingDurationMs": 28800,
+        "bytes": 346025,
+        "sha256": "82a3b4908cd06291b2d81b90570570cf0faafb9cf36fcdbd52c5d797e145e823",
+        "sharedAyahs": [
+          "37:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 39.59,
+            "end": 68.36
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 55440,
+        "durationMs": 55440,
+        "recordingDurationMs": 55440,
+        "bytes": 665705,
+        "sha256": "20c7e319660554b08dabcb67a450e0c2e572899617033dcb968be09f094737ef",
+        "sharedAyahs": [
+          "37:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 68.36,
+            "end": 123.78
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 234430,
+        "durationMs": 234430,
+        "recordingDurationMs": 234430,
+        "bytes": 2813611,
+        "sha256": "645fb025c4ed2d8f633c1f582d2b9b3146e80fa387e019b769e050da91bb7962",
+        "sharedAyahs": [
+          "37:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 123.78,
+            "end": 358.2
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 1056340,
+        "durationMs": 1056340,
+        "recordingDurationMs": 1056340,
+        "bytes": 12676459,
+        "sha256": "d78afdcccf8c953f891e500c475e73d2eb03c7eb23499616073335a149904ddf",
+        "sharedAyahs": [
+          "37:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 358.2,
+            "end": 1414.49
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 26380,
+        "durationMs": 26380,
+        "recordingDurationMs": 26380,
+        "bytes": 316939,
+        "sha256": "8804195fb3592af0adf6854114cc46dcb16d44f2a416d7892d00b62a1bc1f720",
+        "sharedAyahs": [
+          "37:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 1414.49,
+            "end": 1440.85
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 2690,
+        "durationMs": 2690,
+        "recordingDurationMs": 2690,
+        "bytes": 32683,
+        "sha256": "1e5d75ad5bf183db8773f288142bbaeb7ab76a0ad4a8433148b710be5653accd",
+        "sharedAyahs": [
+          "37:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 1440.85,
+            "end": 1443.51
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 119230,
+        "durationMs": 119230,
+        "recordingDurationMs": 119230,
+        "bytes": 1431211,
+        "sha256": "6e7414c7c525dfb23f721b6d867262c95da0b20a78375c7af2c0b9ec366ecc98",
+        "sharedAyahs": [
+          "37:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 1443.51,
+            "end": 1562.73
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 385010,
+        "durationMs": 385010,
+        "recordingDurationMs": 385010,
+        "bytes": 4620523,
+        "sha256": "dbf9b9484b2bb7f7d099a032159e284eca9b817e457306bb7c8bba1b9827cffa",
+        "sharedAyahs": [
+          "37:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 1562.73,
+            "end": 1947.7
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 22320,
+        "durationMs": 22320,
+        "recordingDurationMs": 22320,
+        "bytes": 268267,
+        "sha256": "f5ac630cc6b646c16bb9063f812919e33e5126e0a4145ec0eeb4a18aa41128af",
+        "sharedAyahs": [
+          "37:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 1947.7,
+            "end": 1970.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 25250,
+        "durationMs": 25250,
+        "recordingDurationMs": 25250,
+        "bytes": 303403,
+        "sha256": "3f620bfb937e5bb2b9e86af2501bc7bbe42678797b49b78512411ac2e2a1a9f6",
+        "sharedAyahs": [
+          "37:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 1970.0,
+            "end": 1995.23
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 36340,
+        "durationMs": 36340,
+        "recordingDurationMs": 36340,
+        "bytes": 436459,
+        "sha256": "01c1bce886d9b364dbf5ddc5c139306e4f453ed5b976c3be2addc10641d4e273",
+        "sharedAyahs": [
+          "37:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 1995.23,
+            "end": 2031.54
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 94100,
+        "durationMs": 94100,
+        "recordingDurationMs": 94100,
+        "bytes": 1129675,
+        "sha256": "5985e78b8e9ae0614befb052e4dec38e7d10cb73c8a2d2f939beb88b6d4519af",
+        "sharedAyahs": [
+          "37:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "WXyzoZM79Fg",
+            "start": 2031.54,
+            "end": 2125.62
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 118900,
+        "durationMs": 118900,
+        "recordingDurationMs": 118900,
+        "bytes": 1427179,
+        "sha256": "6a169bab4328970e11e06a6ea4787e6dd3290e5716cb758380dc08b91b809243",
+        "sharedAyahs": [
+          "37:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 5.84,
+            "end": 124.71
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 234770,
+        "durationMs": 234770,
+        "recordingDurationMs": 234770,
+        "bytes": 2817643,
+        "sha256": "9de1e1188929a8164771fb5f29eb2b3357e27927989c473ab2cc886a6ae9ef24",
+        "sharedAyahs": [
+          "37:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 124.71,
+            "end": 359.47
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 48380,
+        "durationMs": 48380,
+        "recordingDurationMs": 48380,
+        "bytes": 581035,
+        "sha256": "1fd65086eaebc1f1550b2def15bf17dd7646e666e6847ab242f26da1348c4afa",
+        "sharedAyahs": [
+          "37:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 359.47,
+            "end": 407.82
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 40580,
+        "durationMs": 40580,
+        "recordingDurationMs": 40580,
+        "bytes": 487435,
+        "sha256": "c6e6bf4d14a8aa96fd31876b06b0f1e35e12dc32df115ab310478c8180f63a12",
+        "sharedAyahs": [
+          "37:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 407.82,
+            "end": 448.39
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 33910,
+        "durationMs": 33910,
+        "recordingDurationMs": 33910,
+        "bytes": 407371,
+        "sha256": "078b3c0e945b2c8517b63d03c225d520f478877de7e6531062fb2e14b02eb01e",
+        "sharedAyahs": [
+          "37:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 448.39,
+            "end": 482.26
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 38620,
+        "durationMs": 38620,
+        "recordingDurationMs": 38620,
+        "bytes": 463819,
+        "sha256": "84e1df8842c37304073de643608767a969bb8b07c3f58746241beec6f33e274c",
+        "sharedAyahs": [
+          "37:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 482.26,
+            "end": 520.85
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 18500,
+        "durationMs": 18500,
+        "recordingDurationMs": 18500,
+        "bytes": 222475,
+        "sha256": "3d08d8fdd00f38a2b296a462f602963e4a5d8cd3e8203e0b711019dc90034db3",
+        "sharedAyahs": [
+          "37:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 520.85,
+            "end": 539.35
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 13870,
+        "durationMs": 13870,
+        "recordingDurationMs": 13870,
+        "bytes": 166891,
+        "sha256": "a00b18f3e738e9b854adabf45b4a4cd6f2eb37a3bc50d22c1797e85164cb8f86",
+        "sharedAyahs": [
+          "37:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 539.35,
+            "end": 553.18
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 239780,
+        "durationMs": 239780,
+        "recordingDurationMs": 239780,
+        "bytes": 2877835,
+        "sha256": "e0ef9daf99eb64e5c7181fef78034456869839ee39d8727f6a63e0badae86fa1",
+        "sharedAyahs": [
+          "37:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 553.18,
+            "end": 792.95
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 22680,
+        "durationMs": 22680,
+        "recordingDurationMs": 22680,
+        "bytes": 272587,
+        "sha256": "7043c63edf95549ab062ba579cb29271ae027ee600fd60b485ed4edd6afd5fee",
+        "sharedAyahs": [
+          "37:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 792.95,
+            "end": 815.6
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 140020,
+        "durationMs": 140020,
+        "recordingDurationMs": 140020,
+        "bytes": 1680619,
+        "sha256": "0c1296fc1b3c7bb175203365c0c25724a949ff515bb33f5355ee9054baeba8c1",
+        "sharedAyahs": [
+          "37:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 815.6,
+            "end": 955.6
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 186360,
+        "durationMs": 186360,
+        "recordingDurationMs": 186360,
+        "bytes": 2236747,
+        "sha256": "95cfa40cc685c49c475b8774268f6018a6ad3192d53e41f31d81a06e50eecf5a",
+        "sharedAyahs": [
+          "37:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 955.6,
+            "end": 1141.94
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 27070,
+        "durationMs": 27070,
+        "recordingDurationMs": 27070,
+        "bytes": 325291,
+        "sha256": "1b4bc2a9f34058b30ff0b87b9b472235ad5d4869d2d71b36c40da4ce48fcfcb1",
+        "sharedAyahs": [
+          "37:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1141.94,
+            "end": 1168.99
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 5640,
+        "durationMs": 5640,
+        "recordingDurationMs": 5640,
+        "bytes": 68107,
+        "sha256": "0320196c85f61d61355695d8210a04617170b335e89b6b05454d6818288bf67e",
+        "sharedAyahs": [
+          "37:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1168.99,
+            "end": 1174.59
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 2930,
+        "durationMs": 2930,
+        "recordingDurationMs": 2930,
+        "bytes": 35563,
+        "sha256": "2695312a20ff9573b4d60f80240cfac0d03ff1e323134ebf1a8f13fbd81eb6bb",
+        "sharedAyahs": [
+          "37:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1174.59,
+            "end": 1177.49
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 33700,
+        "durationMs": 33700,
+        "recordingDurationMs": 33700,
+        "bytes": 404779,
+        "sha256": "6eb1ebf6fddbd2c84d18595e8c748272b662d7a510da0909d5367a1d398273ee",
+        "sharedAyahs": [
+          "37:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1177.49,
+            "end": 1211.17
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 332950,
+        "durationMs": 332950,
+        "recordingDurationMs": 332950,
+        "bytes": 3995851,
+        "sha256": "717552430c36d54a17d1b0d12d109283ac3dd1e98218a15189c52b5cc5035744",
+        "sharedAyahs": [
+          "37:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1211.17,
+            "end": 1544.09
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 42620,
+        "durationMs": 42620,
+        "recordingDurationMs": 42620,
+        "bytes": 511915,
+        "sha256": "214a443875633e5888d9bfd3cbe692fdb5ed66633ed2ce3494164c93327878c0",
+        "sharedAyahs": [
+          "37:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1544.09,
+            "end": 1586.69
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 75310,
+        "durationMs": 75310,
+        "recordingDurationMs": 75310,
+        "bytes": 904171,
+        "sha256": "9d625925724922af649541dc9e77294ae8d864aee43f7ecc537171e8922e8cf6",
+        "sharedAyahs": [
+          "37:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1586.69,
+            "end": 1661.98
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 4660,
+        "durationMs": 4660,
+        "recordingDurationMs": 4660,
+        "bytes": 56299,
+        "sha256": "72fae0449da04daf92dfd9d32c3c9e046e523178416e9d9e5fcd2bd4433e7bc0",
+        "sharedAyahs": [
+          "37:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1661.98,
+            "end": 1666.61
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 27770,
+        "durationMs": 27770,
+        "recordingDurationMs": 27770,
+        "bytes": 333643,
+        "sha256": "9a12fded6050893f865bcd4f35a9daff168f350f116c97b35a1f388d330e6f71",
+        "sharedAyahs": [
+          "37:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1666.61,
+            "end": 1694.37
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 127730,
+        "durationMs": 127730,
+        "recordingDurationMs": 127730,
+        "bytes": 1533163,
+        "sha256": "63159cb845583eff0bc0f42b91eae8950896cca3ae9b0ca4e2f15853ec4e2dcc",
+        "sharedAyahs": [
+          "37:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1694.37,
+            "end": 1822.07
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 21770,
+        "durationMs": 21770,
+        "recordingDurationMs": 21770,
+        "bytes": 261643,
+        "sha256": "d16fdd70f54211e83693bee1c1a444316c5d7d2aafb4dda3c7fe1ec173b2b775",
+        "sharedAyahs": [
+          "37:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1822.07,
+            "end": 1843.82
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 2210,
+        "durationMs": 2210,
+        "recordingDurationMs": 2210,
+        "bytes": 26923,
+        "sha256": "d806b706853956118995a59ee323589f30516f09588c514df0f1de87cc100f11",
+        "sharedAyahs": [
+          "37:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1843.82,
+            "end": 1845.99
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 12460,
+        "durationMs": 12460,
+        "recordingDurationMs": 12460,
+        "bytes": 149899,
+        "sha256": "659e2970e06a0db5284f2623254461ec247b534963c5954d24154b72e160a370",
+        "sharedAyahs": [
+          "37:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1845.99,
+            "end": 1858.43
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 59350,
+        "durationMs": 59350,
+        "recordingDurationMs": 59350,
+        "bytes": 712651,
+        "sha256": "1ab714908b3f30268de4fe6d1aa1894b5b2f55dca8bb670c789ad023672efb73",
+        "sharedAyahs": [
+          "37:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1858.43,
+            "end": 1917.75
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 92570,
+        "durationMs": 92570,
+        "recordingDurationMs": 92570,
+        "bytes": 1111243,
+        "sha256": "fca10e46fd27fe62a775baf5fa81ce4117b37dffccffdfeccdd137977d72169c",
+        "sharedAyahs": [
+          "37:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 1917.75,
+            "end": 2010.29
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 41950,
+        "durationMs": 41950,
+        "recordingDurationMs": 41950,
+        "bytes": 503851,
+        "sha256": "61a89c8f1d9bd53320e13e0f30a1e611f7fbc4361ba0aa5a93889b2a4ff8e404",
+        "sharedAyahs": [
+          "37:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "_Oh7bFuAMJA",
+            "start": 2010.29,
+            "end": 2052.23
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/other-48.mp3",
+        "startMs": 0,
+        "endMs": 2066760,
+        "durationMs": 2066760,
+        "recordingDurationMs": 2066760,
+        "bytes": 24801538,
+        "sha256": "f344f73630c30b5bf4ceede24cd38102b133741899e1a0521139a292c12e4fa5",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 0.0,
+            "end": 2066.73
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 140900,
+        "durationMs": 140900,
+        "recordingDurationMs": 140900,
+        "bytes": 1691275,
+        "sha256": "648b21c89634edbd970a6db614f2dad6340bd0fac8b5d3c025885ba5df61bc66",
+        "sharedAyahs": [
+          "37:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2066.73,
+            "end": 2207.61
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 27770,
+        "durationMs": 27770,
+        "recordingDurationMs": 27770,
+        "bytes": 333643,
+        "sha256": "5bd862b4cefa331576391165a49a14aed17ef7a48f3a6b3d9ebe6a8e19cf9144",
+        "sharedAyahs": [
+          "37:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2207.61,
+            "end": 2235.34
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 59060,
+        "durationMs": 59060,
+        "recordingDurationMs": 59060,
+        "bytes": 709195,
+        "sha256": "607bc666c30d44ecc5ae109d1bbf90af4d35c02cd91cf70fd55983139558a4ee",
+        "sharedAyahs": [
+          "37:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2235.34,
+            "end": 2294.38
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 9100,
+        "durationMs": 9100,
+        "recordingDurationMs": 9100,
+        "bytes": 109579,
+        "sha256": "045afb465742be09c5599621424c844fc1109eaec81b6d3470630fd2b2bc1757",
+        "sharedAyahs": [
+          "37:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2294.38,
+            "end": 2303.45
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 4750,
+        "durationMs": 4750,
+        "recordingDurationMs": 4750,
+        "bytes": 57451,
+        "sha256": "07deccf9bc03c24b0691d26ee854507bb7d39419af9925fd664b89ac6bed912b",
+        "sharedAyahs": [
+          "37:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2303.45,
+            "end": 2308.19
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 34900,
+        "durationMs": 34900,
+        "recordingDurationMs": 34900,
+        "bytes": 419179,
+        "sha256": "64dbc62c8b09615cc4a433e71acbfe538ea01365833362d59f3e91a455a7e1dc",
+        "sharedAyahs": [
+          "37:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2308.19,
+            "end": 2343.05
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 16970,
+        "durationMs": 16970,
+        "recordingDurationMs": 16970,
+        "bytes": 204043,
+        "sha256": "e725858e3c469d71a053689c031d2b76374752e17be7d9a447df6a3549bab150",
+        "sharedAyahs": [
+          "37:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2343.05,
+            "end": 2360.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 12500,
+        "durationMs": 12500,
+        "recordingDurationMs": 12500,
+        "bytes": 150475,
+        "sha256": "9586084d68a37eb633213da0b9de873ccf31ff70fac40e476c6b0b5be137c589",
+        "sharedAyahs": [
+          "37:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2360.0,
+            "end": 2372.49
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 3260,
+        "durationMs": 3260,
+        "recordingDurationMs": 3260,
+        "bytes": 39595,
+        "sha256": "dbc4982f27bc0960979f68f25b6b011bdefc2801c652dd23bde44cfed5c83807",
+        "sharedAyahs": [
+          "37:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2372.49,
+            "end": 2375.73
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 87190,
+        "durationMs": 87190,
+        "recordingDurationMs": 87190,
+        "bytes": 1046731,
+        "sha256": "81b85dde789767724cc2710346b8534654283f7aa3df386967c41a19101e3edf",
+        "sharedAyahs": [
+          "37:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2375.73,
+            "end": 2462.89
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 2590,
+        "durationMs": 2590,
+        "recordingDurationMs": 2590,
+        "bytes": 31531,
+        "sha256": "ea4d2fc333d776cdea0deca5ca0b86641dbc0370f92408ed8f5a472772f37ac2",
+        "sharedAyahs": [
+          "37:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2462.89,
+            "end": 2465.45
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 3670,
+        "durationMs": 3670,
+        "recordingDurationMs": 3670,
+        "bytes": 44491,
+        "sha256": "e54a9338660e3419776a1e9708f37cfd132dd81c645919c13ae917ad1739fddc",
+        "sharedAyahs": [
+          "37:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2465.45,
+            "end": 2469.11
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 9340,
+        "durationMs": 9340,
+        "recordingDurationMs": 9340,
+        "bytes": 112459,
+        "sha256": "bd06c7b12b24803e403ca7ba554bbac1f41ffdc760e6ff77e6dec9f9af07d7ba",
+        "sharedAyahs": [
+          "37:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2469.11,
+            "end": 2478.42
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 150310,
+        "durationMs": 150310,
+        "recordingDurationMs": 150310,
+        "bytes": 1804171,
+        "sha256": "d81097629de1231a8afff40fe08118fec581ef3b38932e85d6eaa440bc948ba7",
+        "sharedAyahs": [
+          "37:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aBkUQZtmiCA",
+            "start": 2478.42,
+            "end": 2628.71
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 549720,
+        "durationMs": 549720,
+        "recordingDurationMs": 549720,
+        "bytes": 6597067,
+        "sha256": "42d972375b7f0ebed237c770707d8063e7d8c547bfa28fa595a89a5fc320ea78",
+        "sharedAyahs": [
+          "37:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 2.22,
+            "end": 551.91
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 13460,
+        "durationMs": 13460,
+        "recordingDurationMs": 13460,
+        "bytes": 161995,
+        "sha256": "c33a5449acc4b859fe55d15c51ebb8ef51e13bab4e977cc56c1f6b843b5b98e9",
+        "sharedAyahs": [
+          "37:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 551.91,
+            "end": 565.35
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 80660,
+        "durationMs": 80660,
+        "recordingDurationMs": 80660,
+        "bytes": 968395,
+        "sha256": "11ed993d356ac13e6d5123bc67715ed585a517ca30551f762bd12d44533fb52f",
+        "sharedAyahs": [
+          "37:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 565.35,
+            "end": 646.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 80860,
+        "durationMs": 80860,
+        "recordingDurationMs": 80860,
+        "bytes": 970699,
+        "sha256": "b43bafd68f617e268bc94ee81b89c86f0f2be78286d72f7bdedf418077b5cf74",
+        "sharedAyahs": [
+          "37:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 646.0,
+            "end": 726.82
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 21380,
+        "durationMs": 21380,
+        "recordingDurationMs": 21380,
+        "bytes": 257035,
+        "sha256": "631858f542cb9bb881ce64b07968a098cf23a7071f8247c3164d7b3573426c50",
+        "sharedAyahs": [
+          "37:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 726.82,
+            "end": 748.18
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 9890,
+        "durationMs": 9890,
+        "recordingDurationMs": 9890,
+        "bytes": 119083,
+        "sha256": "2fb12c5852af8883002ae8f4b6176b268e306cc2a3a622205a3ac6c6436fa3a5",
+        "sharedAyahs": [
+          "37:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 748.18,
+            "end": 758.06
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 59570,
+        "durationMs": 59570,
+        "recordingDurationMs": 59570,
+        "bytes": 715243,
+        "sha256": "2c4caac17e874f35523fcda63676ee1bc60f85d918e24200ffd6229f1c5604d0",
+        "sharedAyahs": [
+          "37:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 758.06,
+            "end": 817.59
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 117550,
+        "durationMs": 117550,
+        "recordingDurationMs": 117550,
+        "bytes": 1411051,
+        "sha256": "b09232709d6dc044ecf608698b94823a6bafcafe5ea05aa7d8d53fb33345a152",
+        "sharedAyahs": [
+          "37:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 817.59,
+            "end": 935.13
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 23210,
+        "durationMs": 23210,
+        "recordingDurationMs": 23210,
+        "bytes": 278923,
+        "sha256": "c2656f460174792d7a11c07982e94d2c64227444a07128b557a84188b6cc37b6",
+        "sharedAyahs": [
+          "37:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 935.13,
+            "end": 958.31
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 8810,
+        "durationMs": 8810,
+        "recordingDurationMs": 8810,
+        "bytes": 106123,
+        "sha256": "f20d12b8455ea09fef6a08eb8c10eeaf6fc19e91eeaee773ab622efbd4ff9b9e",
+        "sharedAyahs": [
+          "37:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 958.31,
+            "end": 967.09
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 119540,
+        "durationMs": 119540,
+        "recordingDurationMs": 119540,
+        "bytes": 1434955,
+        "sha256": "981abc4526a8545199ab38b6f91a2ecf4d195dc077b74520681be9325257809f",
+        "sharedAyahs": [
+          "37:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 967.09,
+            "end": 1086.62
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 6960,
+        "durationMs": 6960,
+        "recordingDurationMs": 6960,
+        "bytes": 83947,
+        "sha256": "802cc2b144dff723feda346ac6bcfb0f3cd63e2ba0224b7fd9600130505f9660",
+        "sharedAyahs": [
+          "37:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1086.62,
+            "end": 1093.54
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 154320,
+        "durationMs": 154320,
+        "recordingDurationMs": 154320,
+        "bytes": 1852267,
+        "sha256": "2dea1feddfa0fb1f730b61fab0124de5aa4b535e63c1126ef078ab9f5629f030",
+        "sharedAyahs": [
+          "37:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1093.54,
+            "end": 1247.85
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 119900,
+        "durationMs": 119900,
+        "recordingDurationMs": 119900,
+        "bytes": 1439275,
+        "sha256": "1a9d18f81be9d17034bf1b948a3b376136dbcb6f188afa2deb8ae0a1a99b15a8",
+        "sharedAyahs": [
+          "37:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1247.85,
+            "end": 1367.73
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 171380,
+        "durationMs": 171380,
+        "recordingDurationMs": 171380,
+        "bytes": 2057035,
+        "sha256": "a7648057a0ff961afb9ff6e78a77d49625b257afb205b45a9f4e2b376e97b84d",
+        "sharedAyahs": [
+          "37:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1367.73,
+            "end": 1539.09
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 6120,
+        "durationMs": 6120,
+        "recordingDurationMs": 6120,
+        "bytes": 73867,
+        "sha256": "dc06a8f31a87d11c782cc9b0786125ebc50a2791f1cf829bec242907539fc727",
+        "sharedAyahs": [
+          "37:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1539.09,
+            "end": 1545.19
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 26760,
+        "durationMs": 26760,
+        "recordingDurationMs": 26760,
+        "bytes": 321547,
+        "sha256": "c2c1accc5bdad8b99f012fb402a2744ff2d6620342e9797fbabba3df78328982",
+        "sharedAyahs": [
+          "37:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1545.19,
+            "end": 1571.91
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 19080,
+        "durationMs": 19080,
+        "recordingDurationMs": 19080,
+        "bytes": 229387,
+        "sha256": "edf42aae068346ac3163800ea5690c549f95ed3b9557bbaf2a6829c77bf9cfe7",
+        "sharedAyahs": [
+          "37:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1571.91,
+            "end": 1590.98
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 4580,
+        "durationMs": 4580,
+        "recordingDurationMs": 4580,
+        "bytes": 55435,
+        "sha256": "035fabf66ef14de52f65e8f42fee8f35ca9f48e72794661efb10b89af2fb1556",
+        "sharedAyahs": [
+          "37:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1590.98,
+            "end": 1595.54
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 4130,
+        "durationMs": 4130,
+        "recordingDurationMs": 4130,
+        "bytes": 49963,
+        "sha256": "3731cc59dcca45de78fad1c1ae9b96d758aafc1c78056045ad45968b90988d37",
+        "sharedAyahs": [
+          "37:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1595.54,
+            "end": 1599.63
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 128710,
+        "durationMs": 128710,
+        "recordingDurationMs": 128710,
+        "bytes": 1544971,
+        "sha256": "240d841e20210f4a46acb994eabe88c0a23dfdafc745e5671f0ce6bd1107f549",
+        "sharedAyahs": [
+          "37:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1599.63,
+            "end": 1728.33
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 46610,
+        "durationMs": 46610,
+        "recordingDurationMs": 46610,
+        "bytes": 559723,
+        "sha256": "c602126bbd5baa450e546afe7c98a6fe87d7a80b586fb8c1246f75aabe345c6d",
+        "sharedAyahs": [
+          "37:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1728.33,
+            "end": 1774.92
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 421030,
+        "durationMs": 421030,
+        "recordingDurationMs": 421030,
+        "bytes": 5052811,
+        "sha256": "2bd2590a79b6db7b4fed0b7bdc4a3cb85e43f9f05d0470e6ff65d632a47529b4",
+        "sharedAyahs": [
+          "37:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 1774.92,
+            "end": 2195.92
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 54100,
+        "durationMs": 54100,
+        "recordingDurationMs": 54100,
+        "bytes": 649579,
+        "sha256": "a6cd5ed718760902347744312e25ab994b26799c8e24da460f227acf4d9f2e44",
+        "sharedAyahs": [
+          "37:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 2195.92,
+            "end": 2250.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 48140,
+        "durationMs": 48140,
+        "recordingDurationMs": 48140,
+        "bytes": 578155,
+        "sha256": "662d456fa311dd4ea8b60a4579d61382ee77366c7b7aba954cedc62b58542b91",
+        "sharedAyahs": [
+          "37:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 2250.0,
+            "end": 2298.1
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 252740,
+        "durationMs": 252740,
+        "recordingDurationMs": 252740,
+        "bytes": 3033355,
+        "sha256": "2cd6260eb3632047f3dc1bcf4bf57d8499263f36d3f8d7f25dd60886fa89e5c4",
+        "sharedAyahs": [
+          "37:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 2298.1,
+            "end": 2550.84
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 3140,
+        "durationMs": 3140,
+        "recordingDurationMs": 3140,
+        "bytes": 38155,
+        "sha256": "6aeac5a87d114fc2d7ad17a257dd83ffdb5b3c4aba17c37d22e306bb0c36e595",
+        "sharedAyahs": [
+          "37:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 2550.84,
+            "end": 2553.96
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 35040,
+        "durationMs": 35040,
+        "recordingDurationMs": 35040,
+        "bytes": 420907,
+        "sha256": "0046fa33c0a31ce6350c822facf79f6a1a44bb39a8e863fb49d16f83879efef2",
+        "sharedAyahs": [
+          "37:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HK3cNQ2wvJU",
+            "start": 2553.96,
+            "end": 2588.97
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/090.mp3",
+        "startMs": 0,
+        "endMs": 131880,
+        "durationMs": 131880,
+        "recordingDurationMs": 131880,
+        "bytes": 1582987,
+        "sha256": "b70e6c7c7caac0ca51e1f5d7729b7b2c1b7bd59317be236dd7f806ef4961c303",
+        "sharedAyahs": [
+          "37:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1.84,
+            "end": 133.69
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/091.mp3",
+        "startMs": 0,
+        "endMs": 6460,
+        "durationMs": 6460,
+        "recordingDurationMs": 6460,
+        "bytes": 77899,
+        "sha256": "ffe2f099e7645ab7a232bbe64d03f1eadfa301cfcb03fab0a00908f6d90fef84",
+        "sharedAyahs": [
+          "37:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 133.69,
+            "end": 140.12
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 9600,
+        "durationMs": 9600,
+        "recordingDurationMs": 9600,
+        "bytes": 115627,
+        "sha256": "ac285ac19dad25f6fd5ce7b3c93d55bc0f6c234270743281539ae86bce4664cc",
+        "sharedAyahs": [
+          "37:92"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 140.12,
+            "end": 149.7
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/093.mp3",
+        "startMs": 0,
+        "endMs": 26210,
+        "durationMs": 26210,
+        "recordingDurationMs": 26210,
+        "bytes": 314923,
+        "sha256": "120982da0715cc3cfe2b98bab80a0b248a6eef1d6e8752101a64ae5dab596556",
+        "sharedAyahs": [
+          "37:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 149.7,
+            "end": 175.88
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/094.mp3",
+        "startMs": 0,
+        "endMs": 7800,
+        "durationMs": 7800,
+        "recordingDurationMs": 7800,
+        "bytes": 94027,
+        "sha256": "2a4cc67d58df919dfaae7196601b5af7b6f16c63cbd9d8a26b1fed88c7431789",
+        "sharedAyahs": [
+          "37:94"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 175.88,
+            "end": 183.65
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/095.mp3",
+        "startMs": 0,
+        "endMs": 23140,
+        "durationMs": 23140,
+        "recordingDurationMs": 23140,
+        "bytes": 278059,
+        "sha256": "ce7f90632cf5e97ec1eeda52a1689fbb06fcc151178b00ce05f57ae092ec4153",
+        "sharedAyahs": [
+          "37:95"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 183.65,
+            "end": 206.77
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/096.mp3",
+        "startMs": 0,
+        "endMs": 32380,
+        "durationMs": 32380,
+        "recordingDurationMs": 32380,
+        "bytes": 388939,
+        "sha256": "2a9d2834b97c84c87989ce4bb8b74c1a264aee73de12eccf310cfa1355b9f5a2",
+        "sharedAyahs": [
+          "37:96"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 206.77,
+            "end": 239.12
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/097.mp3",
+        "startMs": 0,
+        "endMs": 5860,
+        "durationMs": 5860,
+        "recordingDurationMs": 5860,
+        "bytes": 70699,
+        "sha256": "b17ce9b6f13b593cd048f0d2193a36fb45bb6d9d6b7222913a617d6cc209398c",
+        "sharedAyahs": [
+          "37:97"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 239.12,
+            "end": 244.96
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/098.mp3",
+        "startMs": 0,
+        "endMs": 168340,
+        "durationMs": 168340,
+        "recordingDurationMs": 168340,
+        "bytes": 2020459,
+        "sha256": "80f5cd5241c1d26d70f54fd5f253563956265f7adafa342b141429559b750ec8",
+        "sharedAyahs": [
+          "37:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 244.96,
+            "end": 413.28
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/099.mp3",
+        "startMs": 0,
+        "endMs": 51700,
+        "durationMs": 51700,
+        "recordingDurationMs": 51700,
+        "bytes": 620779,
+        "sha256": "76cb34f41369221ab25ee549dd725633beff667b393cfcc94e1c181fa0019c38",
+        "sharedAyahs": [
+          "37:99"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 413.28,
+            "end": 464.95
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/100.mp3",
+        "startMs": 0,
+        "endMs": 67940,
+        "durationMs": 67940,
+        "recordingDurationMs": 67940,
+        "bytes": 815757,
+        "sha256": "4f8064191b279a48a98aa3b1715bcad15afe44630f02d80ec78d3c8dc4dff6ec",
+        "sharedAyahs": [
+          "37:100"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 464.95,
+            "end": 532.87
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/101.mp3",
+        "startMs": 0,
+        "endMs": 396070,
+        "durationMs": 396070,
+        "recordingDurationMs": 396070,
+        "bytes": 4753293,
+        "sha256": "359224ed860524336da3532d628389199d2a963e0a91295d72eeb183a3461900",
+        "sharedAyahs": [
+          "37:101"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 532.87,
+            "end": 928.92
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/102.mp3",
+        "startMs": 0,
+        "endMs": 441700,
+        "durationMs": 441700,
+        "recordingDurationMs": 441700,
+        "bytes": 5300781,
+        "sha256": "4806e86ec6c82db46158f6534c1462cc774fc3abb9b53670d272ab99996d6572",
+        "sharedAyahs": [
+          "37:102"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 928.92,
+            "end": 1370.59
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/103.mp3",
+        "startMs": 0,
+        "endMs": 6580,
+        "durationMs": 6580,
+        "recordingDurationMs": 6580,
+        "bytes": 79341,
+        "sha256": "5a7a0bcbd6aab85f14c58f3192e99a01e9dbdee9b1d3e1033c055ff1c86f0ff8",
+        "sharedAyahs": [
+          "37:103"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1370.59,
+            "end": 1377.13
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/104.mp3",
+        "startMs": 0,
+        "endMs": 2300,
+        "durationMs": 2300,
+        "recordingDurationMs": 2300,
+        "bytes": 28077,
+        "sha256": "ae6c1975ecd32823cc60e1fa125a116fd1d8c9eec742644f52c2f95996da56bf",
+        "sharedAyahs": [
+          "37:104"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1377.13,
+            "end": 1379.41
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/105.mp3",
+        "startMs": 0,
+        "endMs": 4630,
+        "durationMs": 4630,
+        "recordingDurationMs": 4630,
+        "bytes": 56013,
+        "sha256": "2b2e5621e7e9db45a41e2fbf17d4ae9053c56d77d02d9254bfa03fe04f885b03",
+        "sharedAyahs": [
+          "37:105"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1379.41,
+            "end": 1384.03
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/106.mp3",
+        "startMs": 0,
+        "endMs": 31820,
+        "durationMs": 31820,
+        "recordingDurationMs": 31820,
+        "bytes": 382317,
+        "sha256": "400705a2a79eeccac55ea9750f9a4e1c2e07b4809c8df128bd520d8a2cfddc10",
+        "sharedAyahs": [
+          "37:106"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1384.03,
+            "end": 1415.82
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/107.mp3",
+        "startMs": 0,
+        "endMs": 5660,
+        "durationMs": 5660,
+        "recordingDurationMs": 5660,
+        "bytes": 68397,
+        "sha256": "73e16c9f6c98c47d83111b1180f3866e0b5c9ee44e0a6e091af759323191dbee",
+        "sharedAyahs": [
+          "37:107"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1415.82,
+            "end": 1421.46
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/108.mp3",
+        "startMs": 0,
+        "endMs": 29350,
+        "durationMs": 29350,
+        "recordingDurationMs": 29350,
+        "bytes": 352653,
+        "sha256": "6f32c892338bb06a451043c7cb7607a5afc2f567490b79505ea8ba1431ae5950",
+        "sharedAyahs": [
+          "37:108"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1421.46,
+            "end": 1450.79
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/109.mp3",
+        "startMs": 0,
+        "endMs": 49220,
+        "durationMs": 49220,
+        "recordingDurationMs": 49220,
+        "bytes": 591117,
+        "sha256": "ec2853731392c50cb4778267d64a4dac1cd7078cae0a627e4c54005fd960f4d9",
+        "sharedAyahs": [
+          "37:109"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1450.79,
+            "end": 1500.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/110.mp3",
+        "startMs": 0,
+        "endMs": 80950,
+        "durationMs": 80950,
+        "recordingDurationMs": 80950,
+        "bytes": 971853,
+        "sha256": "ffa78b72de1a266ef174840a704dd53039a00edecbdc9c911503bc6a082c7ff9",
+        "sharedAyahs": [
+          "37:110"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1500.0,
+            "end": 1580.91
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/111.mp3",
+        "startMs": 0,
+        "endMs": 67660,
+        "durationMs": 67660,
+        "recordingDurationMs": 67660,
+        "bytes": 812301,
+        "sha256": "5822a6c7af0a5af94bf6e2c4c505b6b3a5f46163dce1c3dc248e92642a4bf589",
+        "sharedAyahs": [
+          "37:111"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1580.91,
+            "end": 1648.56
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/112.mp3",
+        "startMs": 0,
+        "endMs": 68420,
+        "durationMs": 68420,
+        "recordingDurationMs": 68420,
+        "bytes": 821517,
+        "sha256": "e323ec89df7757e8720c2567f40110902fbe93a3c112fbf219402454466f20a4",
+        "sharedAyahs": [
+          "37:112"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1648.56,
+            "end": 1716.94
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/113.mp3",
+        "startMs": 0,
+        "endMs": 92260,
+        "durationMs": 92260,
+        "recordingDurationMs": 92260,
+        "bytes": 1107501,
+        "sha256": "11f99cece3465b956d27dd5de68a4fda22b5727bc2e7f1d5287d44fff43f947f",
+        "sharedAyahs": [
+          "37:113"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1716.94,
+            "end": 1809.19
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/114.mp3",
+        "startMs": 0,
+        "endMs": 25180,
+        "durationMs": 25180,
+        "recordingDurationMs": 25180,
+        "bytes": 302541,
+        "sha256": "044890aaae3f6e8a315efa046fcac8919f403c4762d09cfcb7004787ac3e6dc3",
+        "sharedAyahs": [
+          "37:114"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1809.19,
+            "end": 1834.34
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/115.mp3",
+        "startMs": 0,
+        "endMs": 224400,
+        "durationMs": 224400,
+        "recordingDurationMs": 224400,
+        "bytes": 2693229,
+        "sha256": "3bbf8265057328129bff9477eda59d940103fc28d302a1b9a0f357b45a05a4d8",
+        "sharedAyahs": [
+          "37:115"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 1834.34,
+            "end": 2058.7
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/116.mp3",
+        "startMs": 0,
+        "endMs": 35980,
+        "durationMs": 35980,
+        "recordingDurationMs": 35980,
+        "bytes": 432141,
+        "sha256": "6e3c269d32c4d40fd965a2ee1fbffa5491da7691f3d023dfc329abf94a65c0c5",
+        "sharedAyahs": [
+          "37:116"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2058.7,
+            "end": 2094.67
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/117.mp3",
+        "startMs": 0,
+        "endMs": 10370,
+        "durationMs": 10370,
+        "recordingDurationMs": 10370,
+        "bytes": 124845,
+        "sha256": "0411f313e8ac96e47ad37e25a6ebb63d5970dbfeb6a6c8c887120319d7442cc2",
+        "sharedAyahs": [
+          "37:117"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2094.67,
+            "end": 2105.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/118.mp3",
+        "startMs": 0,
+        "endMs": 12960,
+        "durationMs": 12960,
+        "recordingDurationMs": 12960,
+        "bytes": 155949,
+        "sha256": "0d0d7079753e0e1cac4ed0d179cd25d22ac044da0c08ba8d6727b566ce1355d0",
+        "sharedAyahs": [
+          "37:118"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2105.0,
+            "end": 2117.93
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/119.mp3",
+        "startMs": 0,
+        "endMs": 24020,
+        "durationMs": 24020,
+        "recordingDurationMs": 24020,
+        "bytes": 288717,
+        "sha256": "4ba21c37b45818c2c3d1a5d21d056d2004c182706aac855a5b2fa21bf596158e",
+        "sharedAyahs": [
+          "37:119"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2117.93,
+            "end": 2141.93
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/120.mp3",
+        "startMs": 0,
+        "endMs": 60910,
+        "durationMs": 60910,
+        "recordingDurationMs": 60910,
+        "bytes": 731373,
+        "sha256": "32797a7876b93385efdeb395817af4e3e5b87298921c563e564fb3dab5f5c720",
+        "sharedAyahs": [
+          "37:120"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2141.93,
+            "end": 2202.84
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/121.mp3",
+        "startMs": 0,
+        "endMs": 3190,
+        "durationMs": 3190,
+        "recordingDurationMs": 3190,
+        "bytes": 38733,
+        "sha256": "c2d814148395340898a63af79cf132fd1f870550e5a8b07991d3c503cff9c6be",
+        "sharedAyahs": [
+          "37:121"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2202.84,
+            "end": 2206.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/122.mp3",
+        "startMs": 0,
+        "endMs": 3620,
+        "durationMs": 3620,
+        "recordingDurationMs": 3620,
+        "bytes": 43917,
+        "sha256": "9256d18696422b1c8f81db750011cf452b904867a5b7a420bf8778cf27b70791",
+        "sharedAyahs": [
+          "37:122"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2206.0,
+            "end": 2209.6
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/123.mp3",
+        "startMs": 0,
+        "endMs": 80330,
+        "durationMs": 80330,
+        "recordingDurationMs": 80330,
+        "bytes": 964365,
+        "sha256": "35eff361a32d0edcf4482ebc0d09547ed09cf5f1f18a0ff5f6af45b31274386c",
+        "sharedAyahs": [
+          "37:123"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2209.6,
+            "end": 2289.91
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/124.mp3",
+        "startMs": 0,
+        "endMs": 13030,
+        "durationMs": 13030,
+        "recordingDurationMs": 13030,
+        "bytes": 156813,
+        "sha256": "3980f327d82ab4e6df7d5891b4345030fa6f19c07e34606fd3990a3cd9ea18e2",
+        "sharedAyahs": [
+          "37:124"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2289.91,
+            "end": 2302.92
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/125.mp3",
+        "startMs": 0,
+        "endMs": 54530,
+        "durationMs": 54530,
+        "recordingDurationMs": 54530,
+        "bytes": 654765,
+        "sha256": "54cd8d516a509159abd15cc21f6886ff473b09b7eae346a11f3682d084d03939",
+        "sharedAyahs": [
+          "37:125"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2302.92,
+            "end": 2357.41
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/126.mp3",
+        "startMs": 0,
+        "endMs": 18580,
+        "durationMs": 18580,
+        "recordingDurationMs": 18580,
+        "bytes": 223341,
+        "sha256": "f48aab36b48e0d29dc5ec331495f14716874fac4329ca7f35565326b0d3c3551",
+        "sharedAyahs": [
+          "37:126"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2357.41,
+            "end": 2375.96
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/127.mp3",
+        "startMs": 0,
+        "endMs": 6000,
+        "durationMs": 6000,
+        "recordingDurationMs": 6000,
+        "bytes": 72429,
+        "sha256": "e5d7076869da350e473c86c1d68975fb7d2a059efc3925a98f02844c9010da18",
+        "sharedAyahs": [
+          "37:127"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2375.96,
+            "end": 2381.95
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/128.mp3",
+        "startMs": 0,
+        "endMs": 18070,
+        "durationMs": 18070,
+        "recordingDurationMs": 18070,
+        "bytes": 217293,
+        "sha256": "ab5af57a62479ab2ce52c24ec1d54f1ec2e8601b8af252636de3314f00f9123d",
+        "sharedAyahs": [
+          "37:128"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2381.95,
+            "end": 2400.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/129.mp3",
+        "startMs": 0,
+        "endMs": 23300,
+        "durationMs": 23300,
+        "recordingDurationMs": 23300,
+        "bytes": 280077,
+        "sha256": "de4fac40c461118139d1bcf1b2267232d683c8a5f17eef961c27e0050d4b09f7",
+        "sharedAyahs": [
+          "37:129"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "CspRo8dN-LM",
+            "start": 2400.0,
+            "end": 2423.26
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/other-131.mp3",
+        "startMs": 0,
+        "endMs": 924310,
+        "durationMs": 924310,
+        "recordingDurationMs": 924310,
+        "bytes": 11092162,
+        "sha256": "bb39a836648a4e8c4665b9cf0ff49cb078abfd61ec3afaec2773472cb1af7314",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "xeRxKnOVzfY",
+            "start": 0.4,
+            "end": 924.68
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/130.mp3",
+        "startMs": 0,
+        "endMs": 7750,
+        "durationMs": 7750,
+        "recordingDurationMs": 7750,
+        "bytes": 93453,
+        "sha256": "63e749c4d0fbb440bf0044a709608c6d7bd5562396d0e817372ffaa19457784a",
+        "sharedAyahs": [
+          "37:130"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xeRxKnOVzfY",
+            "start": 924.68,
+            "end": 932.42
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/131.mp3",
+        "startMs": 0,
+        "endMs": 2350,
+        "durationMs": 2350,
+        "recordingDurationMs": 2350,
+        "bytes": 28653,
+        "sha256": "56a1d0ceb1d84cd137730e20f89b593f9ef09362396203c4dbd8745f18d2b892",
+        "sharedAyahs": [
+          "37:131"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xeRxKnOVzfY",
+            "start": 932.42,
+            "end": 934.74
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/132.mp3",
+        "startMs": 0,
+        "endMs": 437090,
+        "durationMs": 437090,
+        "recordingDurationMs": 437090,
+        "bytes": 5245485,
+        "sha256": "e354260d5f94c247ed0105b3f318db329a333325bde6093c70aee00a7cb8c350",
+        "sharedAyahs": [
+          "37:132"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "xeRxKnOVzfY",
+            "start": 934.74,
+            "end": 1371.8
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/other-135.mp3",
+        "startMs": 0,
+        "endMs": 257520,
+        "durationMs": 257520,
+        "recordingDurationMs": 257520,
+        "bytes": 3090658,
+        "sha256": "7c80a5a4a42a685968eac8b543fbf4dc51d814d5a7aca2824a5e0d2f4f05178c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "xeRxKnOVzfY",
+            "start": 1371.8,
+            "end": 1629.3
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/133.mp3",
+        "startMs": 0,
+        "endMs": 29380,
+        "durationMs": 29380,
+        "recordingDurationMs": 29380,
+        "bytes": 352941,
+        "sha256": "9fa7f9215db84dc1927d2f91e816f52c0e55e4eb63211ef3e2567e0886ab299e",
+        "sharedAyahs": [
+          "37:133"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 50.58,
+            "end": 79.94
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/134.mp3",
+        "startMs": 0,
+        "endMs": 3240,
+        "durationMs": 3240,
+        "recordingDurationMs": 3240,
+        "bytes": 39309,
+        "sha256": "372faf34c523fd00ee3677e6d6d8c09f7060451bbd89818e0c4614851b9251cc",
+        "sharedAyahs": [
+          "37:134"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 79.94,
+            "end": 83.16
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/135.mp3",
+        "startMs": 0,
+        "endMs": 2690,
+        "durationMs": 2690,
+        "recordingDurationMs": 2690,
+        "bytes": 32685,
+        "sha256": "2d043c238f8a5d0f930365d97a20b132d30fbb01fb303c53cd333d68bf3082fe",
+        "sharedAyahs": [
+          "37:135"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 83.16,
+            "end": 85.82
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/136.mp3",
+        "startMs": 0,
+        "endMs": 2570,
+        "durationMs": 2570,
+        "recordingDurationMs": 2570,
+        "bytes": 31245,
+        "sha256": "a0ca2d1dda9e1d2dd037bef81bbb3a2142df843ed3f5677853c12443ee2c0607",
+        "sharedAyahs": [
+          "37:136"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 85.82,
+            "end": 88.36
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/137.mp3",
+        "startMs": 0,
+        "endMs": 3410,
+        "durationMs": 3410,
+        "recordingDurationMs": 3410,
+        "bytes": 41325,
+        "sha256": "548b14369b668f20740a18dd75fd52b85ac5b8c739c5a9fd3861fe604a05ad93",
+        "sharedAyahs": [
+          "37:137"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 88.36,
+            "end": 91.74
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/138.mp3",
+        "startMs": 0,
+        "endMs": 494280,
+        "durationMs": 494280,
+        "recordingDurationMs": 494280,
+        "bytes": 5931789,
+        "sha256": "8434ba12b3648b1727a91593b74138d8db89fae3d435f830169a459e1236fb15",
+        "sharedAyahs": [
+          "37:138"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 91.74,
+            "end": 586.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/139.mp3",
+        "startMs": 0,
+        "endMs": 6960,
+        "durationMs": 6960,
+        "recordingDurationMs": 6960,
+        "bytes": 83949,
+        "sha256": "486f7896aa71ec15a4d8ef15eec7864a0f37a0836a82a510d4cabfe52da6543f",
+        "sharedAyahs": [
+          "37:139"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 586.0,
+            "end": 592.94
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/140.mp3",
+        "startMs": 0,
+        "endMs": 758810,
+        "durationMs": 758810,
+        "recordingDurationMs": 758810,
+        "bytes": 9106125,
+        "sha256": "d61505e3a17ca19086276a3da2c1d65cb6413e22b660a4958a01e5f299f1f013",
+        "sharedAyahs": [
+          "37:140"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 592.94,
+            "end": 1351.71
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/141.mp3",
+        "startMs": 0,
+        "endMs": 60260,
+        "durationMs": 60260,
+        "recordingDurationMs": 60260,
+        "bytes": 723597,
+        "sha256": "3751978e61e6ba1d0fc2aab6f9459ed6a34cd9b9ba3fe7752426854ae1c4ca52",
+        "sharedAyahs": [
+          "37:141"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 1351.71,
+            "end": 1411.95
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/142.mp3",
+        "startMs": 0,
+        "endMs": 73800,
+        "durationMs": 73800,
+        "recordingDurationMs": 73800,
+        "bytes": 886029,
+        "sha256": "8e8bff1f1d37671fb931ffcc36caa5dc05b74ad66570442d7fb7c02d03abd437",
+        "sharedAyahs": [
+          "37:142"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 1411.95,
+            "end": 1485.74
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/143.mp3",
+        "startMs": 0,
+        "endMs": 36380,
+        "durationMs": 36380,
+        "recordingDurationMs": 36380,
+        "bytes": 437037,
+        "sha256": "9e774b012302facf748fac0d0cdfbd8f94507285749564e42eb3ec7122b5b71a",
+        "sharedAyahs": [
+          "37:143"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 1485.74,
+            "end": 1522.1
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/144.mp3",
+        "startMs": 0,
+        "endMs": 27940,
+        "durationMs": 27940,
+        "recordingDurationMs": 27940,
+        "bytes": 335661,
+        "sha256": "f4ce373a8de45685896b5a67899bdaab05b63a8d012340ebd85f8379e782f2e8",
+        "sharedAyahs": [
+          "37:144"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 1522.1,
+            "end": 1550.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/145.mp3",
+        "startMs": 0,
+        "endMs": 30650,
+        "durationMs": 30650,
+        "recordingDurationMs": 30650,
+        "bytes": 368205,
+        "sha256": "57405a718c3d002ebcef5f9e0ae458024b7399c1799d4b89d7b1fb0c7f60d207",
+        "sharedAyahs": [
+          "37:145"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 1550.0,
+            "end": 1580.64
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/other-149.mp3",
+        "startMs": 0,
+        "endMs": 81000,
+        "durationMs": 81000,
+        "recordingDurationMs": 81000,
+        "bytes": 972418,
+        "sha256": "f09faaf0daf9ccef2edaaec8998a2d05195b9ef3e37d31e3cd3024248ca97f2d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-X5ZTYVaOaw",
+            "start": 1580.64,
+            "end": 1661.6
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/146.mp3",
+        "startMs": 0,
+        "endMs": 487630,
+        "durationMs": 487630,
+        "recordingDurationMs": 487630,
+        "bytes": 5852013,
+        "sha256": "fcfe7b02c3a1ff5d6884c608290e6b9595344170e83e1405a406f8f9fb32dbff",
+        "sharedAyahs": [
+          "37:146"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rwGJoYfxBs0",
+            "start": 2.35,
+            "end": 489.95
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/147.mp3",
+        "startMs": 0,
+        "endMs": 135890,
+        "durationMs": 135890,
+        "recordingDurationMs": 135890,
+        "bytes": 1631085,
+        "sha256": "6b1a80d3d849944a00c3a776b1d64649e9c6576e645a26c9bbc146e0fde9c384",
+        "sharedAyahs": [
+          "37:147"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rwGJoYfxBs0",
+            "start": 489.95,
+            "end": 625.82
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/148.mp3",
+        "startMs": 0,
+        "endMs": 374210,
+        "durationMs": 374210,
+        "recordingDurationMs": 374210,
+        "bytes": 4490925,
+        "sha256": "d5bcc0bcf604782f803eee37dba9bdd64767606e295d8dd805677b36f4baa07d",
+        "sharedAyahs": [
+          "37:148"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rwGJoYfxBs0",
+            "start": 625.82,
+            "end": 1000.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/149.mp3",
+        "startMs": 0,
+        "endMs": 256030,
+        "durationMs": 256030,
+        "recordingDurationMs": 256030,
+        "bytes": 3072813,
+        "sha256": "34c19bd2ddda12f1cbe3ffd3ad79fe4755787ac70d54ebe744bf73109f03d6e9",
+        "sharedAyahs": [
+          "37:149"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rwGJoYfxBs0",
+            "start": 1000.0,
+            "end": 1256.01
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/150.mp3",
+        "startMs": 0,
+        "endMs": 350400,
+        "durationMs": 350400,
+        "recordingDurationMs": 350400,
+        "bytes": 4205229,
+        "sha256": "3deb15877ad1ad0ec3bf35c7a5fa32bbcdf3a97e7f29d28c3431aab5f0fff850",
+        "sharedAyahs": [
+          "37:150"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "rwGJoYfxBs0",
+            "start": 1256.01,
+            "end": 1606.39
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/151.mp3",
+        "startMs": 0,
+        "endMs": 31030,
+        "durationMs": 31030,
+        "recordingDurationMs": 31030,
+        "bytes": 372813,
+        "sha256": "649337861c4ad6542bccd5b5a80de4507994cd19558b41a14512f6eeb2c4d12d",
+        "sharedAyahs": [
+          "37:151"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 2.45,
+            "end": 33.47
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/152.mp3",
+        "startMs": 0,
+        "endMs": 144890,
+        "durationMs": 144890,
+        "recordingDurationMs": 144890,
+        "bytes": 1739085,
+        "sha256": "074b1063558d6d294d0a8e5c52fbfa6954462d4bf9a0834da481c3df5f0807a6",
+        "sharedAyahs": [
+          "37:152"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 33.47,
+            "end": 178.34
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/153.mp3",
+        "startMs": 0,
+        "endMs": 61630,
+        "durationMs": 61630,
+        "recordingDurationMs": 61630,
+        "bytes": 740013,
+        "sha256": "b24f13ff104c62409b3a31f09b5d606cb16917c0a656f797193a74caf02b1c7e",
+        "sharedAyahs": [
+          "37:153"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 178.34,
+            "end": 239.95
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/154.mp3",
+        "startMs": 0,
+        "endMs": 28750,
+        "durationMs": 28750,
+        "recordingDurationMs": 28750,
+        "bytes": 345453,
+        "sha256": "7f53727b518f706290b5adbfa6b58f7c7cf415af56d0268f2d241346320efa6e",
+        "sharedAyahs": [
+          "37:154"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 239.95,
+            "end": 268.68
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/155.mp3",
+        "startMs": 0,
+        "endMs": 51360,
+        "durationMs": 51360,
+        "recordingDurationMs": 51360,
+        "bytes": 616749,
+        "sha256": "431a4740fb0c8e047b92fdf30d4d1e204c0e9a9a4d944a4bf1ff4abf8e37e387",
+        "sharedAyahs": [
+          "37:155"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 268.68,
+            "end": 320.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/156.mp3",
+        "startMs": 0,
+        "endMs": 43150,
+        "durationMs": 43150,
+        "recordingDurationMs": 43150,
+        "bytes": 518253,
+        "sha256": "ec498a7987ee567bad87f4b6c0cb5d508ff09279c2842d80168fe2353abc5db5",
+        "sharedAyahs": [
+          "37:156"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 320.0,
+            "end": 363.14
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/157.mp3",
+        "startMs": 0,
+        "endMs": 4730,
+        "durationMs": 4730,
+        "recordingDurationMs": 4730,
+        "bytes": 57165,
+        "sha256": "2f5d7191ec64c267758ab53772269fb8260b7b73fb96e62383c7fe4abffb36c6",
+        "sharedAyahs": [
+          "37:157"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 363.14,
+            "end": 367.83
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/158.mp3",
+        "startMs": 0,
+        "endMs": 108600,
+        "durationMs": 108600,
+        "recordingDurationMs": 108600,
+        "bytes": 1303629,
+        "sha256": "a22d7faa24e4b169aaeb5b0fc0d3990cfe565f4a342bed86dd5af1e9d7c88cf5",
+        "sharedAyahs": [
+          "37:158"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 367.83,
+            "end": 476.41
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/159.mp3",
+        "startMs": 0,
+        "endMs": 131230,
+        "durationMs": 131230,
+        "recordingDurationMs": 131230,
+        "bytes": 1575213,
+        "sha256": "6b1de7978de5e05afbd32c76a6eeaf73944a0ce04cb53ef6378da803a8536499",
+        "sharedAyahs": [
+          "37:159"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 476.41,
+            "end": 607.63
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/160.mp3",
+        "startMs": 0,
+        "endMs": 13390,
+        "durationMs": 13390,
+        "recordingDurationMs": 13390,
+        "bytes": 161133,
+        "sha256": "dd1ce2b14723898db3b4252add3d845b71d18ae3c1fcc4abb38b17af5a30fbb1",
+        "sharedAyahs": [
+          "37:160"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 607.63,
+            "end": 620.99
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/161.mp3",
+        "startMs": 0,
+        "endMs": 4390,
+        "durationMs": 4390,
+        "recordingDurationMs": 4390,
+        "bytes": 53133,
+        "sha256": "0f8863184ddb4a9e8db5d82e7dc8ce6d3b338ac29311e8f968366246c01aad52",
+        "sharedAyahs": [
+          "37:161"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 620.99,
+            "end": 625.36
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/162.mp3",
+        "startMs": 0,
+        "endMs": 147530,
+        "durationMs": 147530,
+        "recordingDurationMs": 147530,
+        "bytes": 1770765,
+        "sha256": "e1a3641c140314bd2c6865e4209170ca75c3060b9531a71692c483c68f117d9e",
+        "sharedAyahs": [
+          "37:162"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 625.36,
+            "end": 772.85
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/163.mp3",
+        "startMs": 0,
+        "endMs": 120890,
+        "durationMs": 120890,
+        "recordingDurationMs": 120890,
+        "bytes": 1451085,
+        "sha256": "da17472c1629dc6aee3d8cd6cbad97a3e385cf78cb07c824f9393cb5fe4f2bcd",
+        "sharedAyahs": [
+          "37:163"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 772.85,
+            "end": 893.73
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/164.mp3",
+        "startMs": 0,
+        "endMs": 52320,
+        "durationMs": 52320,
+        "recordingDurationMs": 52320,
+        "bytes": 628269,
+        "sha256": "3f37830c6ebffbd7185671f94026dbe2020989cfe3827521575f886d31cc2624",
+        "sharedAyahs": [
+          "37:164"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 893.73,
+            "end": 946.02
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/165.mp3",
+        "startMs": 0,
+        "endMs": 1990,
+        "durationMs": 1990,
+        "recordingDurationMs": 1990,
+        "bytes": 24333,
+        "sha256": "736fe19ff660d7fdf7279f96d6b4ec3c75fc3ba91452ac990db1cd2a7ac32a8d",
+        "sharedAyahs": [
+          "37:165"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 946.02,
+            "end": 948.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/166.mp3",
+        "startMs": 0,
+        "endMs": 10820,
+        "durationMs": 10820,
+        "recordingDurationMs": 10820,
+        "bytes": 130317,
+        "sha256": "8cb59a802e34f4020f12dc9b12816c59bab3860d85676230c56df0311dfe266d",
+        "sharedAyahs": [
+          "37:166"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 948.0,
+            "end": 958.8
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/167.mp3",
+        "startMs": 0,
+        "endMs": 2980,
+        "durationMs": 2980,
+        "recordingDurationMs": 2980,
+        "bytes": 36141,
+        "sha256": "0572bdb18ccb78e3fa0451fd9ec157e0528c84c82029e20cf34f0210a27d6120",
+        "sharedAyahs": [
+          "37:167"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 958.8,
+            "end": 961.74
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/168.mp3",
+        "startMs": 0,
+        "endMs": 138290,
+        "durationMs": 138290,
+        "recordingDurationMs": 138290,
+        "bytes": 1659885,
+        "sha256": "5962e360e093f43258a37b773b6c7b764c75a6afdda3b0b0032cf9173546c83e",
+        "sharedAyahs": [
+          "37:168"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 961.74,
+            "end": 1100.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/169.mp3",
+        "startMs": 0,
+        "endMs": 42260,
+        "durationMs": 42260,
+        "recordingDurationMs": 42260,
+        "bytes": 507597,
+        "sha256": "61a1d695bed5c0221b6257cd40a478a70bab1a14e488080a91eeec9999befe28",
+        "sharedAyahs": [
+          "37:169"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1100.0,
+            "end": 1142.25
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/170.mp3",
+        "startMs": 0,
+        "endMs": 153550,
+        "durationMs": 153550,
+        "recordingDurationMs": 153550,
+        "bytes": 1843053,
+        "sha256": "19b287de171ce340639445cf65cf2bf630d5c447d9e68c99db8ff92789687d3c",
+        "sharedAyahs": [
+          "37:170"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1142.25,
+            "end": 1295.77
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/171.mp3",
+        "startMs": 0,
+        "endMs": 48120,
+        "durationMs": 48120,
+        "recordingDurationMs": 48120,
+        "bytes": 577869,
+        "sha256": "7b2fad2ac5ffa3eaa6e40c6b8b7cbeb0e3062865e7441be0a0b936a9208742e9",
+        "sharedAyahs": [
+          "37:171"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1295.77,
+            "end": 1343.87
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/172.mp3",
+        "startMs": 0,
+        "endMs": 92710,
+        "durationMs": 92710,
+        "recordingDurationMs": 92710,
+        "bytes": 1112973,
+        "sha256": "1351553e5296e23553508c3abb393917a34b86d2064aee73f44c3f6b494329ec",
+        "sharedAyahs": [
+          "37:172"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1343.87,
+            "end": 1436.55
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/173.mp3",
+        "startMs": 0,
+        "endMs": 64800,
+        "durationMs": 64800,
+        "recordingDurationMs": 64800,
+        "bytes": 778029,
+        "sha256": "2d481b841e6ab74ee87bb1f12bc84964ee5d46c45021bf6ef78814e857dac956",
+        "sharedAyahs": [
+          "37:173"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1436.55,
+            "end": 1501.34
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/174.mp3",
+        "startMs": 0,
+        "endMs": 39620,
+        "durationMs": 39620,
+        "recordingDurationMs": 39620,
+        "bytes": 475917,
+        "sha256": "a4e55bd1fe24967adb14220000826585e93f9d448ce8d013821099613959e851",
+        "sharedAyahs": [
+          "37:174"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1501.34,
+            "end": 1540.94
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/175.mp3",
+        "startMs": 0,
+        "endMs": 111220,
+        "durationMs": 111220,
+        "recordingDurationMs": 111220,
+        "bytes": 1335021,
+        "sha256": "6b0e61bf3d168958a19723c6c2044d157af067e8d28b0ec26262aa650cd7e49e",
+        "sharedAyahs": [
+          "37:175"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1540.94,
+            "end": 1652.13
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/176.mp3",
+        "startMs": 0,
+        "endMs": 27720,
+        "durationMs": 27720,
+        "recordingDurationMs": 27720,
+        "bytes": 333069,
+        "sha256": "9076fbbfaff431ff986a73e5c054ec9d73f3a8d3a7ab923a5b65f07272822d41",
+        "sharedAyahs": [
+          "37:176"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1652.13,
+            "end": 1679.82
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/177.mp3",
+        "startMs": 0,
+        "endMs": 19100,
+        "durationMs": 19100,
+        "recordingDurationMs": 19100,
+        "bytes": 229677,
+        "sha256": "b37385709d4656c663c3591a67cafc26ce2837cad95a40a6e915b7747dc8c484",
+        "sharedAyahs": [
+          "37:177"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1679.82,
+            "end": 1698.89
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/178.mp3",
+        "startMs": 0,
+        "endMs": 15530,
+        "durationMs": 15530,
+        "recordingDurationMs": 15530,
+        "bytes": 186765,
+        "sha256": "1dc8e5415da59355e54ba44b93d08e72195171b1d3952493861dda5af434e148",
+        "sharedAyahs": [
+          "37:178"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1698.89,
+            "end": 1714.4
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/179.mp3",
+        "startMs": 0,
+        "endMs": 135620,
+        "durationMs": 135620,
+        "recordingDurationMs": 135620,
+        "bytes": 1627917,
+        "sha256": "3fba1764a7c5a8258005e590962217b3be898c2734d2c7d36f5156e925c3e74e",
+        "sharedAyahs": [
+          "37:179"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1714.4,
+            "end": 1850.0
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/180.mp3",
+        "startMs": 0,
+        "endMs": 232510,
+        "durationMs": 232510,
+        "recordingDurationMs": 232510,
+        "bytes": 2790573,
+        "sha256": "24a24a6af992b8c5b9621497988d40dae8c5703bd58a7a04b7194f4c10d136c8",
+        "sharedAyahs": [
+          "37:180"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 1850.0,
+            "end": 2082.5
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/181.mp3",
+        "startMs": 0,
+        "endMs": 13320,
+        "durationMs": 13320,
+        "recordingDurationMs": 13320,
+        "bytes": 160269,
+        "sha256": "d2b27577d9a19cb11c8d9a28c05f3b901188a087ad633a2b7e260c69752da768",
+        "sharedAyahs": [
+          "37:181"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 2082.5,
+            "end": 2095.79
+          }
+        ]
+      },
+      {
+        "file": "037-الصافات-youtube-v1/182.mp3",
+        "startMs": 0,
+        "endMs": 35210,
+        "durationMs": 35210,
+        "recordingDurationMs": 35210,
+        "bytes": 422925,
+        "sha256": "060353cacbea9f1a7e8fbd763aad01cb0dcd6749111d5c78543db5059359777d",
+        "sharedAyahs": [
+          "37:182"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "StUcfM-6Kc8",
+            "start": 2095.79,
+            "end": 2130.97
+          }
+        ]
+      }
+    ],
+    "durationMs": 21167950,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
