@@ -1,0 +1,3811 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 15,
+  "surahName": "الحجر",
+  "ayahCount": 99,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 99,
+    "mappedAyahCount": 99,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "pgH6-_DAjWA": {
+      "durationSeconds": 1392.6,
+      "bytes": 16711911,
+      "sha256": "a039a2b3b6f0d63d87f8ba0990eca8d4b948d4291accb2a44098a7ad1c1495ba",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_pgH6-_DAjWA.mp3",
+      "url": "https://www.youtube.com/watch?v=pgH6-_DAjWA"
+    },
+    "ka2sp_TgNUI": {
+      "durationSeconds": 1703.4,
+      "bytes": 20441421,
+      "sha256": "f942a513ad7784ef20e1b0c842285f44590a26998871b15a11ab0d13d2b7288b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_ka2sp_TgNUI.mp3",
+      "url": "https://www.youtube.com/watch?v=ka2sp_TgNUI"
+    },
+    "1ixLf6Yow-k": {
+      "durationSeconds": 1647.84,
+      "bytes": 19774819,
+      "sha256": "21f13f21a61f5cf0651acd24c7e3a791f3c038b42a69302b44fa6dd84b538f5e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_1ixLf6Yow-k.mp3",
+      "url": "https://www.youtube.com/watch?v=1ixLf6Yow-k"
+    },
+    "N-4gVHn1GuY": {
+      "durationSeconds": 1614.17,
+      "bytes": 19370764,
+      "sha256": "ddc1dd083fdacf2b27ede476dcb3d93ff783249ab4671a76cda38c116fe1cd0a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_N-4gVHn1GuY.mp3",
+      "url": "https://www.youtube.com/watch?v=N-4gVHn1GuY"
+    },
+    "zWiuzBabSr0": {
+      "durationSeconds": 1713.48,
+      "bytes": 20562470,
+      "sha256": "391cde95361df4d69d23bf06bc63caf852bb2dc8aea47914420d3e45999a7973",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_zWiuzBabSr0.mp3",
+      "url": "https://www.youtube.com/watch?v=zWiuzBabSr0"
+    },
+    "nVNZHQc5fwo": {
+      "durationSeconds": 1711.63,
+      "bytes": 20540319,
+      "sha256": "5324a19796736adfa92f41944638c58ed528418686fc63342b92fb90b8743e50",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_nVNZHQc5fwo.mp3",
+      "url": "https://www.youtube.com/watch?v=nVNZHQc5fwo"
+    },
+    "aQbbyuszbc0": {
+      "durationSeconds": 1756.27,
+      "bytes": 21075995,
+      "sha256": "6d9c754b9872eeec7dae59bcfba24385a76e53a53375103feca7371d8284be0f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_aQbbyuszbc0.mp3",
+      "url": "https://www.youtube.com/watch?v=aQbbyuszbc0"
+    },
+    "RXSiFmYnxWw": {
+      "durationSeconds": 1596.1,
+      "bytes": 19153885,
+      "sha256": "8bb2c10b3766ddb7759919a835bb1208cbc34117782921b870d07dfd314ad68f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_RXSiFmYnxWw.mp3",
+      "url": "https://www.youtube.com/watch?v=RXSiFmYnxWw"
+    },
+    "x7v2pkmWNsc": {
+      "durationSeconds": 1698.31,
+      "bytes": 20380474,
+      "sha256": "ba3473789587c20e58d65e4b2e820e5b545b1db5379ad52eff43d87cb2f27648",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_x7v2pkmWNsc.mp3",
+      "url": "https://www.youtube.com/watch?v=x7v2pkmWNsc"
+    },
+    "G8p6C8FkVDI": {
+      "durationSeconds": 1732.94,
+      "bytes": 20796037,
+      "sha256": "846a5469c708c2cd37560d12f0625f81d7ff721be63d48826d866b9cacd009fd",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_G8p6C8FkVDI.mp3",
+      "url": "https://www.youtube.com/watch?v=G8p6C8FkVDI"
+    },
+    "FNMQ9AH9mMg": {
+      "durationSeconds": 1708.13,
+      "bytes": 20498154,
+      "sha256": "316a36da416335427d69c30a292622fbbe214ac323fc889d5cc62df723fd0c4d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_FNMQ9AH9mMg.mp3",
+      "url": "https://www.youtube.com/watch?v=FNMQ9AH9mMg"
+    },
+    "k0FrfsRoZz0": {
+      "durationSeconds": 1680.24,
+      "bytes": 20163582,
+      "sha256": "3f71f4dc382ed2df99b74dc9d1f5904220d3b34503549f50b69d338318d46e31",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_k0FrfsRoZz0.mp3",
+      "url": "https://www.youtube.com/watch?v=k0FrfsRoZz0"
+    },
+    "SSddyrkt9C0": {
+      "durationSeconds": 1719.02,
+      "bytes": 20629001,
+      "sha256": "0f8de953b77ca864ff6efb4f646bf553508abe496f4321aabc5b361f2bcead57",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_SSddyrkt9C0.mp3",
+      "url": "https://www.youtube.com/watch?v=SSddyrkt9C0"
+    },
+    "yjbna6Rx7yA": {
+      "durationSeconds": 1628.78,
+      "bytes": 19546128,
+      "sha256": "6310c6d97e7599e3dd47f37bbae400e8056fce353f87a58c7eed0ef4e38be09a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_yjbna6Rx7yA.mp3",
+      "url": "https://www.youtube.com/watch?v=yjbna6Rx7yA"
+    },
+    "OAVlMaS9fSY": {
+      "durationSeconds": 1677.65,
+      "bytes": 20132502,
+      "sha256": "dc4c513b7cb7300e452b066b2728c8d9e42f02a7da4533a8158b82c175672d1e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_OAVlMaS9fSY.mp3",
+      "url": "https://www.youtube.com/watch?v=OAVlMaS9fSY"
+    }
+  },
+  "ayahs": {
+    "15:1": {
+      "file": "015-الحجر-youtube-v1/001.mp3",
+      "durationMs": 404520,
+      "bytes": 4854918,
+      "sha256": "3cbc5cfef543e31fc720e24c2495454d0358ea63ee5d7298f67b38991eb66400",
+      "sharedAyahs": [
+        "15:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pgH6-_DAjWA",
+          "start": 392.8,
+          "end": 797.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:2": {
+      "file": "015-الحجر-youtube-v1/002.mp3",
+      "durationMs": 580320,
+      "bytes": 6964518,
+      "sha256": "036e2e38b99697986435c12110cca7be3c12e7989e996522fb812cf28a694590",
+      "sharedAyahs": [
+        "15:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pgH6-_DAjWA",
+          "start": 797.3,
+          "end": 1377.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:3": {
+      "file": "015-الحجر-youtube-v1/003.mp3",
+      "durationMs": 401760,
+      "bytes": 4821705,
+      "sha256": "1d602c1704eff151f8baf9986d4f40959a58309586d6f9dfffaffb88e47b9a87",
+      "sharedAyahs": [
+        "15:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ka2sp_TgNUI",
+          "start": 29.46,
+          "end": 431.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:4": {
+      "file": "015-الحجر-youtube-v1/004.mp3",
+      "durationMs": 270340,
+      "bytes": 3244617,
+      "sha256": "e45ecf99dc4913cc471e2aacee57d7f0fbdd2f8d29f8d35293102e36578cef92",
+      "sharedAyahs": [
+        "15:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ka2sp_TgNUI",
+          "start": 431.2,
+          "end": 701.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:5": {
+      "file": "015-الحجر-youtube-v1/005.mp3",
+      "durationMs": 16220,
+      "bytes": 195273,
+      "sha256": "f5af8a55e4960272653c601e8e9e42b0d5df28ffc959b554c1d559373af6ac46",
+      "sharedAyahs": [
+        "15:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ka2sp_TgNUI",
+          "start": 701.5,
+          "end": 717.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:6": {
+      "file": "015-الحجر-youtube-v1/006.mp3",
+      "durationMs": 696220,
+      "bytes": 8355177,
+      "sha256": "39adeedd875f387bff9e09087029a07c206c11e1654aa0cfe9c1e07daf7f5be8",
+      "sharedAyahs": [
+        "15:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ka2sp_TgNUI",
+          "start": 717.7,
+          "end": 1413.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:7": {
+      "file": "015-الحجر-youtube-v1/007.mp3",
+      "durationMs": 238630,
+      "bytes": 2864169,
+      "sha256": "36010894305bf7a32b61c6f8f574631add166f86f992184046d078fa57da853b",
+      "sharedAyahs": [
+        "15:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ka2sp_TgNUI",
+          "start": 1413.9,
+          "end": 1652.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:8": {
+      "file": "015-الحجر-youtube-v1/008.mp3",
+      "durationMs": 127100,
+      "bytes": 1525669,
+      "sha256": "96ea5872f275c5b226dd8aa3915b68b78ca7727ebb67433e9b52bea2333df429",
+      "sharedAyahs": [
+        "15:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ka2sp_TgNUI",
+          "start": 1652.5,
+          "end": 1688.4
+        },
+        {
+          "source": "1ixLf6Yow-k",
+          "start": 28.22,
+          "end": 119.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:9": {
+      "file": "015-الحجر-youtube-v1/009.mp3",
+      "durationMs": 519940,
+      "bytes": 6239910,
+      "sha256": "6917e44f93c2e0240748d5c159a547aa8a8121c934d985f84bf718717bbdcf13",
+      "sharedAyahs": [
+        "15:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1ixLf6Yow-k",
+          "start": 119.4,
+          "end": 639.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:10": {
+      "file": "015-الحجر-youtube-v1/010.mp3",
+      "durationMs": 97730,
+      "bytes": 1173416,
+      "sha256": "5d12a3b81ceb945dd1ca45a0b13ae7e5a17ad11df7b56beb913f383f098ecfce",
+      "sharedAyahs": [
+        "15:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1ixLf6Yow-k",
+          "start": 639.3,
+          "end": 737.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:11": {
+      "file": "015-الحجر-youtube-v1/011.mp3",
+      "durationMs": 322010,
+      "bytes": 3864776,
+      "sha256": "fe302ce8c0c16ab7b051170b4f5a69bf4a80207cadca142f180781e9604dc5e3",
+      "sharedAyahs": [
+        "15:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1ixLf6Yow-k",
+          "start": 737.0,
+          "end": 1059.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:12": {
+      "file": "015-الحجر-youtube-v1/012.mp3",
+      "durationMs": 270940,
+      "bytes": 3251912,
+      "sha256": "572150e44bf06c30ac2708c1ac3f1454c5a8d86ff52bab836479ad233182051a",
+      "sharedAyahs": [
+        "15:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1ixLf6Yow-k",
+          "start": 1059.0,
+          "end": 1329.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:13": {
+      "file": "015-الحجر-youtube-v1/013.mp3",
+      "durationMs": 167620,
+      "bytes": 2012072,
+      "sha256": "f4553ae6edafdcf7700e76a23e78b37edcc6bfcec4a18a325abad1cc02646141",
+      "sharedAyahs": [
+        "15:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1ixLf6Yow-k",
+          "start": 1329.9,
+          "end": 1497.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:14": {
+      "file": "015-الحجر-youtube-v1/014.mp3",
+      "durationMs": 207410,
+      "bytes": 2489324,
+      "sha256": "edd5c9e8aac3c9d6f8418f58ec22e11ba32c224cf97753c62eacb0663f2f6385",
+      "sharedAyahs": [
+        "15:14",
+        "15:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1ixLf6Yow-k",
+          "start": 1497.5,
+          "end": 1632.8
+        },
+        {
+          "source": "N-4gVHn1GuY",
+          "start": 27.85,
+          "end": 99.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:15": {
+      "file": "015-الحجر-youtube-v1/014.mp3",
+      "durationMs": 207410,
+      "bytes": 2489324,
+      "sha256": "edd5c9e8aac3c9d6f8418f58ec22e11ba32c224cf97753c62eacb0663f2f6385",
+      "sharedAyahs": [
+        "15:14",
+        "15:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1ixLf6Yow-k",
+          "start": 1497.5,
+          "end": 1632.8
+        },
+        {
+          "source": "N-4gVHn1GuY",
+          "start": 27.85,
+          "end": 99.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:16": {
+      "file": "015-الحجر-youtube-v1/016.mp3",
+      "durationMs": 481920,
+      "bytes": 5783720,
+      "sha256": "13ce1ba1aaad0d2086a76fd8d58912abfc2fd29158fda3971d9e66469b95867f",
+      "sharedAyahs": [
+        "15:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-4gVHn1GuY",
+          "start": 99.9,
+          "end": 581.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:17": {
+      "file": "015-الحجر-youtube-v1/017.mp3",
+      "durationMs": 167230,
+      "bytes": 2007464,
+      "sha256": "07ac9753efbb7d7e82a9af1a2b522139babb8d4f3ff5e420017db8e0ed4d70d4",
+      "sharedAyahs": [
+        "15:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-4gVHn1GuY",
+          "start": 581.8,
+          "end": 749.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:18": {
+      "file": "015-الحجر-youtube-v1/018.mp3",
+      "durationMs": 627020,
+      "bytes": 7524968,
+      "sha256": "8b247cc83a07ba2e05a75443ffb7412698ca672c2681df79d1efa6978db00ce8",
+      "sharedAyahs": [
+        "15:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-4gVHn1GuY",
+          "start": 749.0,
+          "end": 1376.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:19": {
+      "file": "015-الحجر-youtube-v1/019.mp3",
+      "durationMs": 39120,
+      "bytes": 470125,
+      "sha256": "149cfdde028116b596e63ea3bfaf47cabfd54e3c273cf2775fc77c658b09d6e1",
+      "sharedAyahs": [
+        "15:19",
+        "15:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-4gVHn1GuY",
+          "start": 1376.0,
+          "end": 1415.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:20": {
+      "file": "015-الحجر-youtube-v1/019.mp3",
+      "durationMs": 39120,
+      "bytes": 470125,
+      "sha256": "149cfdde028116b596e63ea3bfaf47cabfd54e3c273cf2775fc77c658b09d6e1",
+      "sharedAyahs": [
+        "15:19",
+        "15:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-4gVHn1GuY",
+          "start": 1376.0,
+          "end": 1415.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:21": {
+      "file": "015-الحجر-youtube-v1/021.mp3",
+      "durationMs": 1617220,
+      "bytes": 19407015,
+      "sha256": "09617cefd5948c93d5ee391272f8e54bd515b35eacdb924ff62af3e24b4733aa",
+      "sharedAyahs": [
+        "15:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N-4gVHn1GuY",
+          "start": 1415.1,
+          "end": 1599.17
+        },
+        {
+          "source": "zWiuzBabSr0",
+          "start": 30.43,
+          "end": 1463.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:22": {
+      "file": "015-الحجر-youtube-v1/022.mp3",
+      "durationMs": 131020,
+      "bytes": 1572872,
+      "sha256": "c2ecf61f0197a7b60f31d6aec7cb1ae9e6c9feee3b719e5d5679270da319e017",
+      "sharedAyahs": [
+        "15:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zWiuzBabSr0",
+          "start": 1463.5,
+          "end": 1594.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:23": {
+      "file": "015-الحجر-youtube-v1/023.mp3",
+      "durationMs": 352220,
+      "bytes": 4227111,
+      "sha256": "0469f2d3c31b8a183e8d66500228d9643f5ce27db801b38640abf17efcbfcc64",
+      "sharedAyahs": [
+        "15:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zWiuzBabSr0",
+          "start": 1594.5,
+          "end": 1698.48
+        },
+        {
+          "source": "nVNZHQc5fwo",
+          "start": 37.89,
+          "end": 286.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:24": {
+      "file": "015-الحجر-youtube-v1/024.mp3",
+      "durationMs": 393340,
+      "bytes": 4720712,
+      "sha256": "6244e031496aa8a1f231107c39673e3bcf04fca04773694661b645f3aea6e7fa",
+      "sharedAyahs": [
+        "15:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nVNZHQc5fwo",
+          "start": 286.1,
+          "end": 679.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:25": {
+      "file": "015-الحجر-youtube-v1/025.mp3",
+      "durationMs": 213910,
+      "bytes": 2567624,
+      "sha256": "2683dc28f5c6ea1df5e2ff10d1cc15051a008ffc90e3eccc067bb1fc657241ce",
+      "sharedAyahs": [
+        "15:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nVNZHQc5fwo",
+          "start": 679.4,
+          "end": 893.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:26": {
+      "file": "015-الحجر-youtube-v1/026.mp3",
+      "durationMs": 371640,
+      "bytes": 4460365,
+      "sha256": "b470b243b896a972e370501e186c715576b3083b4c6e9ef6c029b8e02d50519a",
+      "sharedAyahs": [
+        "15:26",
+        "15:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nVNZHQc5fwo",
+          "start": 893.3,
+          "end": 1264.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:27": {
+      "file": "015-الحجر-youtube-v1/026.mp3",
+      "durationMs": 371640,
+      "bytes": 4460365,
+      "sha256": "b470b243b896a972e370501e186c715576b3083b4c6e9ef6c029b8e02d50519a",
+      "sharedAyahs": [
+        "15:26",
+        "15:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nVNZHQc5fwo",
+          "start": 893.3,
+          "end": 1264.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:28": {
+      "file": "015-الحجر-youtube-v1/028.mp3",
+      "durationMs": 1258510,
+      "bytes": 15102572,
+      "sha256": "16d79c04e131abb1e827a482981b3d9a8f62265caa74e710e74ed4a1a6245d5e",
+      "sharedAyahs": [
+        "15:28",
+        "15:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nVNZHQc5fwo",
+          "start": 1264.9,
+          "end": 1696.63
+        },
+        {
+          "source": "aQbbyuszbc0",
+          "start": 1039.1,
+          "end": 1741.27
+        },
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 27.23,
+          "end": 151.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:29": {
+      "file": "015-الحجر-youtube-v1/028.mp3",
+      "durationMs": 1258510,
+      "bytes": 15102572,
+      "sha256": "16d79c04e131abb1e827a482981b3d9a8f62265caa74e710e74ed4a1a6245d5e",
+      "sharedAyahs": [
+        "15:28",
+        "15:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nVNZHQc5fwo",
+          "start": 1264.9,
+          "end": 1696.63
+        },
+        {
+          "source": "aQbbyuszbc0",
+          "start": 1039.1,
+          "end": 1741.27
+        },
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 27.23,
+          "end": 151.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:30": {
+      "file": "015-الحجر-youtube-v1/030.mp3",
+      "durationMs": 24340,
+      "bytes": 292712,
+      "sha256": "269d4023aaa2d33ad13e046c3132704145d62e10431619881e9f612628d79833",
+      "sharedAyahs": [
+        "15:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 151.8,
+          "end": 176.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:31": {
+      "file": "015-الحجر-youtube-v1/031.mp3",
+      "durationMs": 360220,
+      "bytes": 4323277,
+      "sha256": "0fa58281f72ed303b5b4e93743e2248e041a1bae0eb2ebeb20ef23085ffac92a",
+      "sharedAyahs": [
+        "15:31",
+        "15:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 176.1,
+          "end": 536.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:32": {
+      "file": "015-الحجر-youtube-v1/031.mp3",
+      "durationMs": 360220,
+      "bytes": 4323277,
+      "sha256": "0fa58281f72ed303b5b4e93743e2248e041a1bae0eb2ebeb20ef23085ffac92a",
+      "sharedAyahs": [
+        "15:31",
+        "15:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 176.1,
+          "end": 536.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:33": {
+      "file": "015-الحجر-youtube-v1/033.mp3",
+      "durationMs": 243620,
+      "bytes": 2924168,
+      "sha256": "c71f44a630f8a13bd6d07e9d93d421e6df2e1f78a7e96ece8482588e84bc6b93",
+      "sharedAyahs": [
+        "15:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 536.3,
+          "end": 779.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:34": {
+      "file": "015-الحجر-youtube-v1/034.mp3",
+      "durationMs": 55130,
+      "bytes": 662221,
+      "sha256": "e3d12d97952108a8b4208e2fbe6a79bcc2173e575a5f45cafab066c0cc60e721",
+      "sharedAyahs": [
+        "15:34",
+        "15:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 779.9,
+          "end": 835.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:35": {
+      "file": "015-الحجر-youtube-v1/034.mp3",
+      "durationMs": 55130,
+      "bytes": 662221,
+      "sha256": "e3d12d97952108a8b4208e2fbe6a79bcc2173e575a5f45cafab066c0cc60e721",
+      "sharedAyahs": [
+        "15:34",
+        "15:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 779.9,
+          "end": 835.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:36": {
+      "file": "015-الحجر-youtube-v1/036.mp3",
+      "durationMs": 27120,
+      "bytes": 326125,
+      "sha256": "a05a4806ca12b509e397e011cfa7922456f4628c86980a6c57187c84aa50634b",
+      "sharedAyahs": [
+        "15:36",
+        "15:37",
+        "15:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 835.0,
+          "end": 862.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:37": {
+      "file": "015-الحجر-youtube-v1/036.mp3",
+      "durationMs": 27120,
+      "bytes": 326125,
+      "sha256": "a05a4806ca12b509e397e011cfa7922456f4628c86980a6c57187c84aa50634b",
+      "sharedAyahs": [
+        "15:36",
+        "15:37",
+        "15:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 835.0,
+          "end": 862.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:38": {
+      "file": "015-الحجر-youtube-v1/036.mp3",
+      "durationMs": 27120,
+      "bytes": 326125,
+      "sha256": "a05a4806ca12b509e397e011cfa7922456f4628c86980a6c57187c84aa50634b",
+      "sharedAyahs": [
+        "15:36",
+        "15:37",
+        "15:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 835.0,
+          "end": 862.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:39": {
+      "file": "015-الحجر-youtube-v1/039.mp3",
+      "durationMs": 361220,
+      "bytes": 4335368,
+      "sha256": "63cb55b652564fce1568ba9870516a05d5ac3bb72202bd5848a2aecfe59ef60f",
+      "sharedAyahs": [
+        "15:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 862.1,
+          "end": 1223.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:40": {
+      "file": "015-الحجر-youtube-v1/040.mp3",
+      "durationMs": 676660,
+      "bytes": 8120300,
+      "sha256": "270cf49629407f91168056fcdd0e2f91013124ce43793869bde79b6fec8dd0d0",
+      "sharedAyahs": [
+        "15:40",
+        "15:41",
+        "15:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 1223.3,
+          "end": 1581.1
+        },
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 25.0,
+          "end": 343.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:41": {
+      "file": "015-الحجر-youtube-v1/040.mp3",
+      "durationMs": 676660,
+      "bytes": 8120300,
+      "sha256": "270cf49629407f91168056fcdd0e2f91013124ce43793869bde79b6fec8dd0d0",
+      "sharedAyahs": [
+        "15:40",
+        "15:41",
+        "15:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 1223.3,
+          "end": 1581.1
+        },
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 25.0,
+          "end": 343.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:42": {
+      "file": "015-الحجر-youtube-v1/040.mp3",
+      "durationMs": 676660,
+      "bytes": 8120300,
+      "sha256": "270cf49629407f91168056fcdd0e2f91013124ce43793869bde79b6fec8dd0d0",
+      "sharedAyahs": [
+        "15:40",
+        "15:41",
+        "15:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RXSiFmYnxWw",
+          "start": 1223.3,
+          "end": 1581.1
+        },
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 25.0,
+          "end": 343.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:43": {
+      "file": "015-الحجر-youtube-v1/043.mp3",
+      "durationMs": 193220,
+      "bytes": 2319373,
+      "sha256": "db373b315d21cc6f9b24395f7fc6abe5b5c7e84b685b764c532620b211605f7f",
+      "sharedAyahs": [
+        "15:43",
+        "15:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 343.8,
+          "end": 537.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:44": {
+      "file": "015-الحجر-youtube-v1/043.mp3",
+      "durationMs": 193220,
+      "bytes": 2319373,
+      "sha256": "db373b315d21cc6f9b24395f7fc6abe5b5c7e84b685b764c532620b211605f7f",
+      "sharedAyahs": [
+        "15:43",
+        "15:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 343.8,
+          "end": 537.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:45": {
+      "file": "015-الحجر-youtube-v1/045.mp3",
+      "durationMs": 167230,
+      "bytes": 2007469,
+      "sha256": "68a30c8e98e328e1b1013169540515dbd3f91fc674dc2f6e5e2eab0163a98b63",
+      "sharedAyahs": [
+        "15:45",
+        "15:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 537.0,
+          "end": 704.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:46": {
+      "file": "015-الحجر-youtube-v1/045.mp3",
+      "durationMs": 167230,
+      "bytes": 2007469,
+      "sha256": "68a30c8e98e328e1b1013169540515dbd3f91fc674dc2f6e5e2eab0163a98b63",
+      "sharedAyahs": [
+        "15:45",
+        "15:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 537.0,
+          "end": 704.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:47": {
+      "file": "015-الحجر-youtube-v1/047.mp3",
+      "durationMs": 327720,
+      "bytes": 3933320,
+      "sha256": "894de89640b20a2bdccf66c5b04462a9ac182b8b1b94baf8ee737479e389fdb4",
+      "sharedAyahs": [
+        "15:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 704.2,
+          "end": 1031.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:48": {
+      "file": "015-الحجر-youtube-v1/048.mp3",
+      "durationMs": 205220,
+      "bytes": 2463368,
+      "sha256": "0a07260af5a0e74359dd346d77f54a3a6baedcf46a783b0d3fd3873d1082454b",
+      "sharedAyahs": [
+        "15:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 1031.9,
+          "end": 1237.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:49": {
+      "file": "015-الحجر-youtube-v1/049.mp3",
+      "durationMs": 49220,
+      "bytes": 591368,
+      "sha256": "5c6f6b182bef4577690c9e95061ebdfb7865dcbde4aa328972d52486111792e3",
+      "sharedAyahs": [
+        "15:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 1237.1,
+          "end": 1286.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:50": {
+      "file": "015-الحجر-youtube-v1/050.mp3",
+      "durationMs": 286540,
+      "bytes": 3439112,
+      "sha256": "da6205d37486d270718e0c76764bbd0d14ae06e3b3c93f69d2eaf4eaacc61a91",
+      "sharedAyahs": [
+        "15:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 1286.3,
+          "end": 1572.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:51": {
+      "file": "015-الحجر-youtube-v1/051.mp3",
+      "durationMs": 261500,
+      "bytes": 3138471,
+      "sha256": "19e615ced6f1f82a53f5e60b3fd3610b5f98ff24cafc302cd810b3a1607f746c",
+      "sharedAyahs": [
+        "15:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x7v2pkmWNsc",
+          "start": 1572.8,
+          "end": 1664.2
+        },
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 28.68,
+          "end": 198.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:52": {
+      "file": "015-الحجر-youtube-v1/052.mp3",
+      "durationMs": 175920,
+      "bytes": 2111720,
+      "sha256": "bd1e42c293fb18affe0b9346e173fcf031c4e923ad5d48a601b39a43e21c83ee",
+      "sharedAyahs": [
+        "15:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 198.7,
+          "end": 374.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:53": {
+      "file": "015-الحجر-youtube-v1/053.mp3",
+      "durationMs": 29810,
+      "bytes": 358376,
+      "sha256": "888381ade68990e5796692769e478a884143b1ce7ffe16799af04e88141c052e",
+      "sharedAyahs": [
+        "15:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 374.6,
+          "end": 404.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:54": {
+      "file": "015-الحجر-youtube-v1/054.mp3",
+      "durationMs": 255240,
+      "bytes": 3063560,
+      "sha256": "38a22b52c1af9177ba96b2bb02b603d8c1e2ebb4947317e6919be54cf41730a7",
+      "sharedAyahs": [
+        "15:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 404.4,
+          "end": 659.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:55": {
+      "file": "015-الحجر-youtube-v1/055.mp3",
+      "durationMs": 180620,
+      "bytes": 2168168,
+      "sha256": "8f6ef19fa56c280c916476bfeaee059cee9b4db292752382443a5734332058cf",
+      "sharedAyahs": [
+        "15:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 659.6,
+          "end": 840.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:56": {
+      "file": "015-الحجر-youtube-v1/056.mp3",
+      "durationMs": 84910,
+      "bytes": 1019624,
+      "sha256": "152c18eb543ac5cd822166327a45e45ebaa1feab96c55f1962169635d4449f0a",
+      "sharedAyahs": [
+        "15:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 840.2,
+          "end": 925.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:57": {
+      "file": "015-الحجر-youtube-v1/057.mp3",
+      "durationMs": 89420,
+      "bytes": 1073768,
+      "sha256": "b4428cf09c61fc33abe513e7da9066b90c2c29d78a6180177d7aa7959baa6ec7",
+      "sharedAyahs": [
+        "15:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 925.1,
+          "end": 1014.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:58": {
+      "file": "015-الحجر-youtube-v1/058.mp3",
+      "durationMs": 383830,
+      "bytes": 4606669,
+      "sha256": "4c065c630ae6785380ec99346c4a6502d86203b4f648f65a314b7d8430daad88",
+      "sharedAyahs": [
+        "15:58",
+        "15:59",
+        "15:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 1014.5,
+          "end": 1398.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:59": {
+      "file": "015-الحجر-youtube-v1/058.mp3",
+      "durationMs": 383830,
+      "bytes": 4606669,
+      "sha256": "4c065c630ae6785380ec99346c4a6502d86203b4f648f65a314b7d8430daad88",
+      "sharedAyahs": [
+        "15:58",
+        "15:59",
+        "15:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 1014.5,
+          "end": 1398.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:60": {
+      "file": "015-الحجر-youtube-v1/058.mp3",
+      "durationMs": 383830,
+      "bytes": 4606669,
+      "sha256": "4c065c630ae6785380ec99346c4a6502d86203b4f648f65a314b7d8430daad88",
+      "sharedAyahs": [
+        "15:58",
+        "15:59",
+        "15:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 1014.5,
+          "end": 1398.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:61": {
+      "file": "015-الحجر-youtube-v1/061.mp3",
+      "durationMs": 54120,
+      "bytes": 650125,
+      "sha256": "78e741b1179895d04f8bd95679150a48d70f590d32fa880ff456d61c9a71bd61",
+      "sharedAyahs": [
+        "15:61",
+        "15:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 1398.3,
+          "end": 1452.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:62": {
+      "file": "015-الحجر-youtube-v1/061.mp3",
+      "durationMs": 54120,
+      "bytes": 650125,
+      "sha256": "78e741b1179895d04f8bd95679150a48d70f590d32fa880ff456d61c9a71bd61",
+      "sharedAyahs": [
+        "15:61",
+        "15:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 1398.3,
+          "end": 1452.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:63": {
+      "file": "015-الحجر-youtube-v1/063.mp3",
+      "durationMs": 45340,
+      "bytes": 544717,
+      "sha256": "c7031ab88193b3046cdcf6300a33d6d53d902b5674d6b24deed172cd0e6b282f",
+      "sharedAyahs": [
+        "15:63",
+        "15:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 1452.4,
+          "end": 1497.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:64": {
+      "file": "015-الحجر-youtube-v1/063.mp3",
+      "durationMs": 45340,
+      "bytes": 544717,
+      "sha256": "c7031ab88193b3046cdcf6300a33d6d53d902b5674d6b24deed172cd0e6b282f",
+      "sharedAyahs": [
+        "15:63",
+        "15:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 1452.4,
+          "end": 1497.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:65": {
+      "file": "015-الحجر-youtube-v1/065.mp3",
+      "durationMs": 484030,
+      "bytes": 5808807,
+      "sha256": "47c3b12243cfd3513c118692940599c8798cf8dcc325d543c3a6829f360ce3bd",
+      "sharedAyahs": [
+        "15:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "G8p6C8FkVDI",
+          "start": 1497.7,
+          "end": 1717.94
+        },
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 36.22,
+          "end": 300.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:66": {
+      "file": "015-الحجر-youtube-v1/066.mp3",
+      "durationMs": 165430,
+      "bytes": 1985771,
+      "sha256": "905dc3db1459da6901d1c06c6ed8000bebfd9349ce35ed09c7f895018b362dab",
+      "sharedAyahs": [
+        "15:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 300.0,
+          "end": 465.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:67": {
+      "file": "015-الحجر-youtube-v1/067.mp3",
+      "durationMs": 91420,
+      "bytes": 1097579,
+      "sha256": "1582b58462c3437c2ad060dd0183c73694d2f477a2812350909f79ae8dbc955f",
+      "sharedAyahs": [
+        "15:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 465.4,
+          "end": 556.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:68": {
+      "file": "015-الحجر-youtube-v1/068.mp3",
+      "durationMs": 158740,
+      "bytes": 1905424,
+      "sha256": "2da90022c91054a06f20ca15bd7c28116feb82e56c488bd39951b46aaf4dcb54",
+      "sharedAyahs": [
+        "15:68",
+        "15:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 556.8,
+          "end": 715.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:69": {
+      "file": "015-الحجر-youtube-v1/068.mp3",
+      "durationMs": 158740,
+      "bytes": 1905424,
+      "sha256": "2da90022c91054a06f20ca15bd7c28116feb82e56c488bd39951b46aaf4dcb54",
+      "sharedAyahs": [
+        "15:68",
+        "15:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 556.8,
+          "end": 715.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:70": {
+      "file": "015-الحجر-youtube-v1/070.mp3",
+      "durationMs": 25920,
+      "bytes": 311627,
+      "sha256": "d17496073ef662ad7b1ff7a6af9bca835da12b2cd5403169bb6b784b59e01b84",
+      "sharedAyahs": [
+        "15:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 715.5,
+          "end": 741.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:71": {
+      "file": "015-الحجر-youtube-v1/071.mp3",
+      "durationMs": 101740,
+      "bytes": 1221419,
+      "sha256": "cea70f541c64e09934d780c31ae0b261efd56e3033b433300d01015a6423f1e0",
+      "sharedAyahs": [
+        "15:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 741.4,
+          "end": 843.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:72": {
+      "file": "015-الحجر-youtube-v1/072.mp3",
+      "durationMs": 234720,
+      "bytes": 2817227,
+      "sha256": "f759824a3e0670b0d38fc32c878c918b43821294f318e27fae3082af5002390a",
+      "sharedAyahs": [
+        "15:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 843.1,
+          "end": 1077.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:73": {
+      "file": "015-الحجر-youtube-v1/073.mp3",
+      "durationMs": 36720,
+      "bytes": 441232,
+      "sha256": "909c7b2bb7e220c217bbbdd0aece2f8061b4de9bacfa02888cef0a984bc634bc",
+      "sharedAyahs": [
+        "15:73",
+        "15:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1077.8,
+          "end": 1114.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:74": {
+      "file": "015-الحجر-youtube-v1/073.mp3",
+      "durationMs": 36720,
+      "bytes": 441232,
+      "sha256": "909c7b2bb7e220c217bbbdd0aece2f8061b4de9bacfa02888cef0a984bc634bc",
+      "sharedAyahs": [
+        "15:73",
+        "15:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1077.8,
+          "end": 1114.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:75": {
+      "file": "015-الحجر-youtube-v1/075.mp3",
+      "durationMs": 205130,
+      "bytes": 2462128,
+      "sha256": "a4b011b7afe79f3b3198ebd85c84ab11f0553ab9680bc5baae9a062491bcac18",
+      "sharedAyahs": [
+        "15:75",
+        "15:76",
+        "15:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1114.5,
+          "end": 1319.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:76": {
+      "file": "015-الحجر-youtube-v1/075.mp3",
+      "durationMs": 205130,
+      "bytes": 2462128,
+      "sha256": "a4b011b7afe79f3b3198ebd85c84ab11f0553ab9680bc5baae9a062491bcac18",
+      "sharedAyahs": [
+        "15:75",
+        "15:76",
+        "15:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1114.5,
+          "end": 1319.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:77": {
+      "file": "015-الحجر-youtube-v1/075.mp3",
+      "durationMs": 205130,
+      "bytes": 2462128,
+      "sha256": "a4b011b7afe79f3b3198ebd85c84ab11f0553ab9680bc5baae9a062491bcac18",
+      "sharedAyahs": [
+        "15:75",
+        "15:76",
+        "15:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1114.5,
+          "end": 1319.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:78": {
+      "file": "015-الحجر-youtube-v1/078.mp3",
+      "durationMs": 143620,
+      "bytes": 1723984,
+      "sha256": "02c3740a49070e535371861180f28a674715ecb47181044c4ba881825ef3524f",
+      "sharedAyahs": [
+        "15:78",
+        "15:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1319.6,
+          "end": 1463.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:79": {
+      "file": "015-الحجر-youtube-v1/078.mp3",
+      "durationMs": 143620,
+      "bytes": 1723984,
+      "sha256": "02c3740a49070e535371861180f28a674715ecb47181044c4ba881825ef3524f",
+      "sharedAyahs": [
+        "15:78",
+        "15:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1319.6,
+          "end": 1463.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:80": {
+      "file": "015-الحجر-youtube-v1/080.mp3",
+      "durationMs": 744170,
+      "bytes": 8930444,
+      "sha256": "95713250cd554dd7852b74e6bcce9e75ae0862e29554f988b6b6b862a82a6d6d",
+      "sharedAyahs": [
+        "15:80",
+        "15:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1463.2,
+          "end": 1693.13
+        },
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 22.53,
+          "end": 536.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:81": {
+      "file": "015-الحجر-youtube-v1/080.mp3",
+      "durationMs": 744170,
+      "bytes": 8930444,
+      "sha256": "95713250cd554dd7852b74e6bcce9e75ae0862e29554f988b6b6b862a82a6d6d",
+      "sharedAyahs": [
+        "15:80",
+        "15:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FNMQ9AH9mMg",
+          "start": 1463.2,
+          "end": 1693.13
+        },
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 22.53,
+          "end": 536.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:82": {
+      "file": "015-الحجر-youtube-v1/082.mp3",
+      "durationMs": 76030,
+      "bytes": 913069,
+      "sha256": "26f3a5727a026c6d92286b7ff6874814619d68c9c16497bbabfde705c1a80ce6",
+      "sharedAyahs": [
+        "15:82",
+        "15:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 536.7,
+          "end": 612.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:83": {
+      "file": "015-الحجر-youtube-v1/082.mp3",
+      "durationMs": 76030,
+      "bytes": 913069,
+      "sha256": "26f3a5727a026c6d92286b7ff6874814619d68c9c16497bbabfde705c1a80ce6",
+      "sharedAyahs": [
+        "15:82",
+        "15:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 536.7,
+          "end": 612.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:84": {
+      "file": "015-الحجر-youtube-v1/084.mp3",
+      "durationMs": 56300,
+      "bytes": 676328,
+      "sha256": "f283174d1acb358405b2d1a0278ab42d448e83e7c0797cf5d026d61730ca5d35",
+      "sharedAyahs": [
+        "15:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 612.7,
+          "end": 669.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:85": {
+      "file": "015-الحجر-youtube-v1/085.mp3",
+      "durationMs": 411430,
+      "bytes": 4937864,
+      "sha256": "ed5ccaa9de45db6458365abc692463322bf1bdfb49821cf26d1614c9a4727f07",
+      "sharedAyahs": [
+        "15:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 669.0,
+          "end": 1080.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:86": {
+      "file": "015-الحجر-youtube-v1/086.mp3",
+      "durationMs": 431140,
+      "bytes": 5174312,
+      "sha256": "811c9064ac2cea7f3746092ddc9f88ede10793452ed8b269700f6346cfd38c73",
+      "sharedAyahs": [
+        "15:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 1080.4,
+          "end": 1511.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:87": {
+      "file": "015-الحجر-youtube-v1/087.mp3",
+      "durationMs": 1064690,
+      "bytes": 12776684,
+      "sha256": "1b15ce1135b8898564f555101d32df33eb8ca0165806837f7ffad683fc17eb2b",
+      "sharedAyahs": [
+        "15:87",
+        "15:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 1511.5,
+          "end": 1665.24
+        },
+        {
+          "source": "SSddyrkt9C0",
+          "start": 304.2,
+          "end": 1215.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:88": {
+      "file": "015-الحجر-youtube-v1/087.mp3",
+      "durationMs": 1064690,
+      "bytes": 12776684,
+      "sha256": "1b15ce1135b8898564f555101d32df33eb8ca0165806837f7ffad683fc17eb2b",
+      "sharedAyahs": [
+        "15:87",
+        "15:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "k0FrfsRoZz0",
+          "start": 1511.5,
+          "end": 1665.24
+        },
+        {
+          "source": "SSddyrkt9C0",
+          "start": 304.2,
+          "end": 1215.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:89": {
+      "file": "015-الحجر-youtube-v1/089.mp3",
+      "durationMs": 86520,
+      "bytes": 1038920,
+      "sha256": "732f24cd0ea4402f0005b8c9213f6ae3b9867b5d5f3e5b1d44603dade95220c8",
+      "sharedAyahs": [
+        "15:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SSddyrkt9C0",
+          "start": 1215.1,
+          "end": 1301.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:90": {
+      "file": "015-الحجر-youtube-v1/090.mp3",
+      "durationMs": 448660,
+      "bytes": 5384300,
+      "sha256": "e96c8fb3185708d4e1554bb04d1e2535c7b298d37d6aeb18ef1c4e3351644d5d",
+      "sharedAyahs": [
+        "15:90",
+        "15:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SSddyrkt9C0",
+          "start": 1301.6,
+          "end": 1704.02
+        },
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 20.0,
+          "end": 66.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:91": {
+      "file": "015-الحجر-youtube-v1/090.mp3",
+      "durationMs": 448660,
+      "bytes": 5384300,
+      "sha256": "e96c8fb3185708d4e1554bb04d1e2535c7b298d37d6aeb18ef1c4e3351644d5d",
+      "sharedAyahs": [
+        "15:90",
+        "15:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SSddyrkt9C0",
+          "start": 1301.6,
+          "end": 1704.02
+        },
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 20.0,
+          "end": 66.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:92": {
+      "file": "015-الحجر-youtube-v1/092.mp3",
+      "durationMs": 514510,
+      "bytes": 6174829,
+      "sha256": "faa2c04e6968c9ba55b13ce318fdb0f9a3551f693d225e8afea21ff302d93070",
+      "sharedAyahs": [
+        "15:92",
+        "15:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 66.2,
+          "end": 580.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:93": {
+      "file": "015-الحجر-youtube-v1/092.mp3",
+      "durationMs": 514510,
+      "bytes": 6174829,
+      "sha256": "faa2c04e6968c9ba55b13ce318fdb0f9a3551f693d225e8afea21ff302d93070",
+      "sharedAyahs": [
+        "15:92",
+        "15:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 66.2,
+          "end": 580.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:94": {
+      "file": "015-الحجر-youtube-v1/094.mp3",
+      "durationMs": 164520,
+      "bytes": 1974920,
+      "sha256": "54a2236118e84562f2f1a69e30a6f132d41e675627d789c26c408334b77e4b15",
+      "sharedAyahs": [
+        "15:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 580.7,
+          "end": 745.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:95": {
+      "file": "015-الحجر-youtube-v1/095.mp3",
+      "durationMs": 232030,
+      "bytes": 2785064,
+      "sha256": "c097a4caa660d6d4dca10223918a8ab0a54e750d93d3a8cabc31c1bd9b9059b4",
+      "sharedAyahs": [
+        "15:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 745.2,
+          "end": 977.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:96": {
+      "file": "015-الحجر-youtube-v1/096.mp3",
+      "durationMs": 134740,
+      "bytes": 1617512,
+      "sha256": "ade6d9e669a0de208f60ec4ab8d87a57703655da5a118d84e82a074470b6668f",
+      "sharedAyahs": [
+        "15:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 977.2,
+          "end": 1111.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:97": {
+      "file": "015-الحجر-youtube-v1/097.mp3",
+      "durationMs": 380110,
+      "bytes": 4562024,
+      "sha256": "e890f6b09fe4d49e00d1d4ea53083cdbaeb65fc17d255be20133455cc6ff7c11",
+      "sharedAyahs": [
+        "15:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 1111.9,
+          "end": 1492.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:98": {
+      "file": "015-الحجر-youtube-v1/098.mp3",
+      "durationMs": 521520,
+      "bytes": 6258663,
+      "sha256": "bacd264212351a205e37009cacc1be10417a475f3e5db0b55eea724ff324c947",
+      "sharedAyahs": [
+        "15:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yjbna6Rx7yA",
+          "start": 1492.0,
+          "end": 1613.78
+        },
+        {
+          "source": "OAVlMaS9fSY",
+          "start": 25.0,
+          "end": 424.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "15:99": {
+      "file": "015-الحجر-youtube-v1/099.mp3",
+      "durationMs": 1237990,
+      "bytes": 14856584,
+      "sha256": "4606368b957b1a0844836a4d282c77160950592f6b05b04f2d92dec70b780a94",
+      "sharedAyahs": [
+        "15:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OAVlMaS9fSY",
+          "start": 424.7,
+          "end": 1662.65
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "015-الحجر-youtube-v1/other-00.mp3",
+      "kind": "other",
+      "durationMs": 392830,
+      "bytes": 4714655,
+      "sha256": "33b5935f8aaaf61edc44086480987b58e721a75089df4566e5614aba5acdc921",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "pgH6-_DAjWA",
+          "start": 0.0,
+          "end": 392.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "015-الحجر-youtube-v1/other-25.mp3",
+      "kind": "other",
+      "durationMs": 1003700,
+      "bytes": 12045119,
+      "sha256": "4be3140baddeb873b27c4146155816f8571dcbfeb6653c80c8ba450b55ee7ec4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "aQbbyuszbc0",
+          "start": 35.41,
+          "end": 1039.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "015-الحجر-youtube-v1/other-65.mp3",
+      "kind": "other",
+      "durationMs": 274700,
+      "bytes": 3297119,
+      "sha256": "9ae7387c1943e3ab8a6c7db5f1df1f246c4ef6d14aa2ffcdb9a6477222da00b1",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "SSddyrkt9C0",
+          "start": 29.5,
+          "end": 304.2
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjdstnTfkW8hq9FOsZbQVCor9Hu4yIWXn",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "hijr-letters-intro",
+      "title": "إعجاز فواتح السور بالحروف المقطعة (الر) وأسرار المحكم والمتشابه",
+      "file": "015-الحجر-youtube-v1/other-00.mp3",
+      "startMs": 0,
+      "endMs": 392830
+    },
+    {
+      "id": "hijr-adam-creation-wisdom",
+      "title": "حكمة تكرار قصة خلق آدم وإبليس وأسرار النفخة الإلهية في القرآن الكريم",
+      "file": "015-الحجر-youtube-v1/other-25.mp3",
+      "startMs": 0,
+      "endMs": 1003700
+    },
+    {
+      "id": "hijr-sab-mathani-fatiha",
+      "title": "ما هم السبع المثاني وعظمة سورة الفاتحة وأسرار تكرارها",
+      "file": "015-الحجر-youtube-v1/other-65.mp3",
+      "startMs": 0,
+      "endMs": 274700
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "pgH6-_DAjWA",
+      "ka2sp_TgNUI",
+      "1ixLf6Yow-k",
+      "N-4gVHn1GuY",
+      "zWiuzBabSr0",
+      "nVNZHQc5fwo",
+      "aQbbyuszbc0",
+      "RXSiFmYnxWw",
+      "x7v2pkmWNsc",
+      "G8p6C8FkVDI",
+      "FNMQ9AH9mMg",
+      "k0FrfsRoZz0",
+      "SSddyrkt9C0",
+      "yjbna6Rx7yA",
+      "OAVlMaS9fSY"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "015-الحجر-youtube-v1/other-00.mp3",
+        "startMs": 0,
+        "endMs": 392830,
+        "durationMs": 392830,
+        "recordingDurationMs": 392830,
+        "bytes": 4714655,
+        "sha256": "33b5935f8aaaf61edc44086480987b58e721a75089df4566e5614aba5acdc921",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "pgH6-_DAjWA",
+            "start": 0.0,
+            "end": 392.8
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 404520,
+        "durationMs": 404520,
+        "recordingDurationMs": 404520,
+        "bytes": 4854918,
+        "sha256": "3cbc5cfef543e31fc720e24c2495454d0358ea63ee5d7298f67b38991eb66400",
+        "sharedAyahs": [
+          "15:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pgH6-_DAjWA",
+            "start": 392.8,
+            "end": 797.3
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 580320,
+        "durationMs": 580320,
+        "recordingDurationMs": 580320,
+        "bytes": 6964518,
+        "sha256": "036e2e38b99697986435c12110cca7be3c12e7989e996522fb812cf28a694590",
+        "sharedAyahs": [
+          "15:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "pgH6-_DAjWA",
+            "start": 797.3,
+            "end": 1377.6
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 401760,
+        "durationMs": 401760,
+        "recordingDurationMs": 401760,
+        "bytes": 4821705,
+        "sha256": "1d602c1704eff151f8baf9986d4f40959a58309586d6f9dfffaffb88e47b9a87",
+        "sharedAyahs": [
+          "15:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ka2sp_TgNUI",
+            "start": 29.46,
+            "end": 431.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 270340,
+        "durationMs": 270340,
+        "recordingDurationMs": 270340,
+        "bytes": 3244617,
+        "sha256": "e45ecf99dc4913cc471e2aacee57d7f0fbdd2f8d29f8d35293102e36578cef92",
+        "sharedAyahs": [
+          "15:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ka2sp_TgNUI",
+            "start": 431.2,
+            "end": 701.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 16220,
+        "durationMs": 16220,
+        "recordingDurationMs": 16220,
+        "bytes": 195273,
+        "sha256": "f5af8a55e4960272653c601e8e9e42b0d5df28ffc959b554c1d559373af6ac46",
+        "sharedAyahs": [
+          "15:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ka2sp_TgNUI",
+            "start": 701.5,
+            "end": 717.7
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 696220,
+        "durationMs": 696220,
+        "recordingDurationMs": 696220,
+        "bytes": 8355177,
+        "sha256": "39adeedd875f387bff9e09087029a07c206c11e1654aa0cfe9c1e07daf7f5be8",
+        "sharedAyahs": [
+          "15:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ka2sp_TgNUI",
+            "start": 717.7,
+            "end": 1413.9
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 238630,
+        "durationMs": 238630,
+        "recordingDurationMs": 238630,
+        "bytes": 2864169,
+        "sha256": "36010894305bf7a32b61c6f8f574631add166f86f992184046d078fa57da853b",
+        "sharedAyahs": [
+          "15:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ka2sp_TgNUI",
+            "start": 1413.9,
+            "end": 1652.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 35893,
+        "durationMs": 35893,
+        "recordingDurationMs": 127100,
+        "bytes": 1525669,
+        "sha256": "96ea5872f275c5b226dd8aa3915b68b78ca7727ebb67433e9b52bea2333df429",
+        "sharedAyahs": [
+          "15:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ka2sp_TgNUI",
+            "start": 1652.5,
+            "end": 1688.4
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/008.mp3",
+        "startMs": 35893,
+        "endMs": 127100,
+        "durationMs": 91207,
+        "recordingDurationMs": 127100,
+        "bytes": 1525669,
+        "sha256": "96ea5872f275c5b226dd8aa3915b68b78ca7727ebb67433e9b52bea2333df429",
+        "sharedAyahs": [
+          "15:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1ixLf6Yow-k",
+            "start": 28.22,
+            "end": 119.4
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 519940,
+        "durationMs": 519940,
+        "recordingDurationMs": 519940,
+        "bytes": 6239910,
+        "sha256": "6917e44f93c2e0240748d5c159a547aa8a8121c934d985f84bf718717bbdcf13",
+        "sharedAyahs": [
+          "15:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1ixLf6Yow-k",
+            "start": 119.4,
+            "end": 639.3
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 97730,
+        "durationMs": 97730,
+        "recordingDurationMs": 97730,
+        "bytes": 1173416,
+        "sha256": "5d12a3b81ceb945dd1ca45a0b13ae7e5a17ad11df7b56beb913f383f098ecfce",
+        "sharedAyahs": [
+          "15:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1ixLf6Yow-k",
+            "start": 639.3,
+            "end": 737.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 322010,
+        "durationMs": 322010,
+        "recordingDurationMs": 322010,
+        "bytes": 3864776,
+        "sha256": "fe302ce8c0c16ab7b051170b4f5a69bf4a80207cadca142f180781e9604dc5e3",
+        "sharedAyahs": [
+          "15:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1ixLf6Yow-k",
+            "start": 737.0,
+            "end": 1059.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 270940,
+        "durationMs": 270940,
+        "recordingDurationMs": 270940,
+        "bytes": 3251912,
+        "sha256": "572150e44bf06c30ac2708c1ac3f1454c5a8d86ff52bab836479ad233182051a",
+        "sharedAyahs": [
+          "15:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1ixLf6Yow-k",
+            "start": 1059.0,
+            "end": 1329.9
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 167620,
+        "durationMs": 167620,
+        "recordingDurationMs": 167620,
+        "bytes": 2012072,
+        "sha256": "f4553ae6edafdcf7700e76a23e78b37edcc6bfcec4a18a325abad1cc02646141",
+        "sharedAyahs": [
+          "15:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1ixLf6Yow-k",
+            "start": 1329.9,
+            "end": 1497.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 135325,
+        "durationMs": 135325,
+        "recordingDurationMs": 207410,
+        "bytes": 2489324,
+        "sha256": "edd5c9e8aac3c9d6f8418f58ec22e11ba32c224cf97753c62eacb0663f2f6385",
+        "sharedAyahs": [
+          "15:14",
+          "15:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1ixLf6Yow-k",
+            "start": 1497.5,
+            "end": 1632.8
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/014.mp3",
+        "startMs": 135325,
+        "endMs": 207410,
+        "durationMs": 72085,
+        "recordingDurationMs": 207410,
+        "bytes": 2489324,
+        "sha256": "edd5c9e8aac3c9d6f8418f58ec22e11ba32c224cf97753c62eacb0663f2f6385",
+        "sharedAyahs": [
+          "15:14",
+          "15:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-4gVHn1GuY",
+            "start": 27.85,
+            "end": 99.9
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 481920,
+        "durationMs": 481920,
+        "recordingDurationMs": 481920,
+        "bytes": 5783720,
+        "sha256": "13ce1ba1aaad0d2086a76fd8d58912abfc2fd29158fda3971d9e66469b95867f",
+        "sharedAyahs": [
+          "15:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-4gVHn1GuY",
+            "start": 99.9,
+            "end": 581.8
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 167230,
+        "durationMs": 167230,
+        "recordingDurationMs": 167230,
+        "bytes": 2007464,
+        "sha256": "07ac9753efbb7d7e82a9af1a2b522139babb8d4f3ff5e420017db8e0ed4d70d4",
+        "sharedAyahs": [
+          "15:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-4gVHn1GuY",
+            "start": 581.8,
+            "end": 749.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 627020,
+        "durationMs": 627020,
+        "recordingDurationMs": 627020,
+        "bytes": 7524968,
+        "sha256": "8b247cc83a07ba2e05a75443ffb7412698ca672c2681df79d1efa6978db00ce8",
+        "sharedAyahs": [
+          "15:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-4gVHn1GuY",
+            "start": 749.0,
+            "end": 1376.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 39120,
+        "durationMs": 39120,
+        "recordingDurationMs": 39120,
+        "bytes": 470125,
+        "sha256": "149cfdde028116b596e63ea3bfaf47cabfd54e3c273cf2775fc77c658b09d6e1",
+        "sharedAyahs": [
+          "15:19",
+          "15:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-4gVHn1GuY",
+            "start": 1376.0,
+            "end": 1415.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 184093,
+        "durationMs": 184093,
+        "recordingDurationMs": 1617220,
+        "bytes": 19407015,
+        "sha256": "09617cefd5948c93d5ee391272f8e54bd515b35eacdb924ff62af3e24b4733aa",
+        "sharedAyahs": [
+          "15:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "N-4gVHn1GuY",
+            "start": 1415.1,
+            "end": 1599.17
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/021.mp3",
+        "startMs": 184093,
+        "endMs": 1617220,
+        "durationMs": 1433127,
+        "recordingDurationMs": 1617220,
+        "bytes": 19407015,
+        "sha256": "09617cefd5948c93d5ee391272f8e54bd515b35eacdb924ff62af3e24b4733aa",
+        "sharedAyahs": [
+          "15:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zWiuzBabSr0",
+            "start": 30.43,
+            "end": 1463.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 131020,
+        "durationMs": 131020,
+        "recordingDurationMs": 131020,
+        "bytes": 1572872,
+        "sha256": "c2ecf61f0197a7b60f31d6aec7cb1ae9e6c9feee3b719e5d5679270da319e017",
+        "sharedAyahs": [
+          "15:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zWiuzBabSr0",
+            "start": 1463.5,
+            "end": 1594.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 103981,
+        "durationMs": 103981,
+        "recordingDurationMs": 352220,
+        "bytes": 4227111,
+        "sha256": "0469f2d3c31b8a183e8d66500228d9643f5ce27db801b38640abf17efcbfcc64",
+        "sharedAyahs": [
+          "15:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zWiuzBabSr0",
+            "start": 1594.5,
+            "end": 1698.48
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/023.mp3",
+        "startMs": 103981,
+        "endMs": 352220,
+        "durationMs": 248239,
+        "recordingDurationMs": 352220,
+        "bytes": 4227111,
+        "sha256": "0469f2d3c31b8a183e8d66500228d9643f5ce27db801b38640abf17efcbfcc64",
+        "sharedAyahs": [
+          "15:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nVNZHQc5fwo",
+            "start": 37.89,
+            "end": 286.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 393340,
+        "durationMs": 393340,
+        "recordingDurationMs": 393340,
+        "bytes": 4720712,
+        "sha256": "6244e031496aa8a1f231107c39673e3bcf04fca04773694661b645f3aea6e7fa",
+        "sharedAyahs": [
+          "15:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nVNZHQc5fwo",
+            "start": 286.1,
+            "end": 679.4
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 213910,
+        "durationMs": 213910,
+        "recordingDurationMs": 213910,
+        "bytes": 2567624,
+        "sha256": "2683dc28f5c6ea1df5e2ff10d1cc15051a008ffc90e3eccc067bb1fc657241ce",
+        "sharedAyahs": [
+          "15:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nVNZHQc5fwo",
+            "start": 679.4,
+            "end": 893.3
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 371640,
+        "durationMs": 371640,
+        "recordingDurationMs": 371640,
+        "bytes": 4460365,
+        "sha256": "b470b243b896a972e370501e186c715576b3083b4c6e9ef6c029b8e02d50519a",
+        "sharedAyahs": [
+          "15:26",
+          "15:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nVNZHQc5fwo",
+            "start": 893.3,
+            "end": 1264.9
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 431725,
+        "durationMs": 431725,
+        "recordingDurationMs": 1258510,
+        "bytes": 15102572,
+        "sha256": "16d79c04e131abb1e827a482981b3d9a8f62265caa74e710e74ed4a1a6245d5e",
+        "sharedAyahs": [
+          "15:28",
+          "15:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "nVNZHQc5fwo",
+            "start": 1264.9,
+            "end": 1696.63
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/other-25.mp3",
+        "startMs": 0,
+        "endMs": 1003700,
+        "durationMs": 1003700,
+        "recordingDurationMs": 1003700,
+        "bytes": 12045119,
+        "sha256": "4be3140baddeb873b27c4146155816f8571dcbfeb6653c80c8ba450b55ee7ec4",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "aQbbyuszbc0",
+            "start": 35.41,
+            "end": 1039.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/028.mp3",
+        "startMs": 431725,
+        "endMs": 1133917,
+        "durationMs": 702192,
+        "recordingDurationMs": 1258510,
+        "bytes": 15102572,
+        "sha256": "16d79c04e131abb1e827a482981b3d9a8f62265caa74e710e74ed4a1a6245d5e",
+        "sharedAyahs": [
+          "15:28",
+          "15:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "aQbbyuszbc0",
+            "start": 1039.1,
+            "end": 1741.27
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/028.mp3",
+        "startMs": 1133917,
+        "endMs": 1258510,
+        "durationMs": 124593,
+        "recordingDurationMs": 1258510,
+        "bytes": 15102572,
+        "sha256": "16d79c04e131abb1e827a482981b3d9a8f62265caa74e710e74ed4a1a6245d5e",
+        "sharedAyahs": [
+          "15:28",
+          "15:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RXSiFmYnxWw",
+            "start": 27.23,
+            "end": 151.8
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 24340,
+        "durationMs": 24340,
+        "recordingDurationMs": 24340,
+        "bytes": 292712,
+        "sha256": "269d4023aaa2d33ad13e046c3132704145d62e10431619881e9f612628d79833",
+        "sharedAyahs": [
+          "15:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RXSiFmYnxWw",
+            "start": 151.8,
+            "end": 176.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 360220,
+        "durationMs": 360220,
+        "recordingDurationMs": 360220,
+        "bytes": 4323277,
+        "sha256": "0fa58281f72ed303b5b4e93743e2248e041a1bae0eb2ebeb20ef23085ffac92a",
+        "sharedAyahs": [
+          "15:31",
+          "15:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RXSiFmYnxWw",
+            "start": 176.1,
+            "end": 536.3
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 243620,
+        "durationMs": 243620,
+        "recordingDurationMs": 243620,
+        "bytes": 2924168,
+        "sha256": "c71f44a630f8a13bd6d07e9d93d421e6df2e1f78a7e96ece8482588e84bc6b93",
+        "sharedAyahs": [
+          "15:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RXSiFmYnxWw",
+            "start": 536.3,
+            "end": 779.9
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 55130,
+        "durationMs": 55130,
+        "recordingDurationMs": 55130,
+        "bytes": 662221,
+        "sha256": "e3d12d97952108a8b4208e2fbe6a79bcc2173e575a5f45cafab066c0cc60e721",
+        "sharedAyahs": [
+          "15:34",
+          "15:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RXSiFmYnxWw",
+            "start": 779.9,
+            "end": 835.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 27120,
+        "durationMs": 27120,
+        "recordingDurationMs": 27120,
+        "bytes": 326125,
+        "sha256": "a05a4806ca12b509e397e011cfa7922456f4628c86980a6c57187c84aa50634b",
+        "sharedAyahs": [
+          "15:36",
+          "15:37",
+          "15:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RXSiFmYnxWw",
+            "start": 835.0,
+            "end": 862.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 361220,
+        "durationMs": 361220,
+        "recordingDurationMs": 361220,
+        "bytes": 4335368,
+        "sha256": "63cb55b652564fce1568ba9870516a05d5ac3bb72202bd5848a2aecfe59ef60f",
+        "sharedAyahs": [
+          "15:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RXSiFmYnxWw",
+            "start": 862.1,
+            "end": 1223.3
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 357829,
+        "durationMs": 357829,
+        "recordingDurationMs": 676660,
+        "bytes": 8120300,
+        "sha256": "270cf49629407f91168056fcdd0e2f91013124ce43793869bde79b6fec8dd0d0",
+        "sharedAyahs": [
+          "15:40",
+          "15:41",
+          "15:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "RXSiFmYnxWw",
+            "start": 1223.3,
+            "end": 1581.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/040.mp3",
+        "startMs": 357829,
+        "endMs": 676660,
+        "durationMs": 318831,
+        "recordingDurationMs": 676660,
+        "bytes": 8120300,
+        "sha256": "270cf49629407f91168056fcdd0e2f91013124ce43793869bde79b6fec8dd0d0",
+        "sharedAyahs": [
+          "15:40",
+          "15:41",
+          "15:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x7v2pkmWNsc",
+            "start": 25.0,
+            "end": 343.8
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 193220,
+        "durationMs": 193220,
+        "recordingDurationMs": 193220,
+        "bytes": 2319373,
+        "sha256": "db373b315d21cc6f9b24395f7fc6abe5b5c7e84b685b764c532620b211605f7f",
+        "sharedAyahs": [
+          "15:43",
+          "15:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x7v2pkmWNsc",
+            "start": 343.8,
+            "end": 537.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 167230,
+        "durationMs": 167230,
+        "recordingDurationMs": 167230,
+        "bytes": 2007469,
+        "sha256": "68a30c8e98e328e1b1013169540515dbd3f91fc674dc2f6e5e2eab0163a98b63",
+        "sharedAyahs": [
+          "15:45",
+          "15:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x7v2pkmWNsc",
+            "start": 537.0,
+            "end": 704.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 327720,
+        "durationMs": 327720,
+        "recordingDurationMs": 327720,
+        "bytes": 3933320,
+        "sha256": "894de89640b20a2bdccf66c5b04462a9ac182b8b1b94baf8ee737479e389fdb4",
+        "sharedAyahs": [
+          "15:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x7v2pkmWNsc",
+            "start": 704.2,
+            "end": 1031.9
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 205220,
+        "durationMs": 205220,
+        "recordingDurationMs": 205220,
+        "bytes": 2463368,
+        "sha256": "0a07260af5a0e74359dd346d77f54a3a6baedcf46a783b0d3fd3873d1082454b",
+        "sharedAyahs": [
+          "15:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x7v2pkmWNsc",
+            "start": 1031.9,
+            "end": 1237.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 49220,
+        "durationMs": 49220,
+        "recordingDurationMs": 49220,
+        "bytes": 591368,
+        "sha256": "5c6f6b182bef4577690c9e95061ebdfb7865dcbde4aa328972d52486111792e3",
+        "sharedAyahs": [
+          "15:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x7v2pkmWNsc",
+            "start": 1237.1,
+            "end": 1286.3
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 286540,
+        "durationMs": 286540,
+        "recordingDurationMs": 286540,
+        "bytes": 3439112,
+        "sha256": "da6205d37486d270718e0c76764bbd0d14ae06e3b3c93f69d2eaf4eaacc61a91",
+        "sharedAyahs": [
+          "15:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x7v2pkmWNsc",
+            "start": 1286.3,
+            "end": 1572.8
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 91429,
+        "durationMs": 91429,
+        "recordingDurationMs": 261500,
+        "bytes": 3138471,
+        "sha256": "19e615ced6f1f82a53f5e60b3fd3610b5f98ff24cafc302cd810b3a1607f746c",
+        "sharedAyahs": [
+          "15:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "x7v2pkmWNsc",
+            "start": 1572.8,
+            "end": 1664.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/051.mp3",
+        "startMs": 91429,
+        "endMs": 261500,
+        "durationMs": 170071,
+        "recordingDurationMs": 261500,
+        "bytes": 3138471,
+        "sha256": "19e615ced6f1f82a53f5e60b3fd3610b5f98ff24cafc302cd810b3a1607f746c",
+        "sharedAyahs": [
+          "15:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 28.68,
+            "end": 198.7
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 175920,
+        "durationMs": 175920,
+        "recordingDurationMs": 175920,
+        "bytes": 2111720,
+        "sha256": "bd1e42c293fb18affe0b9346e173fcf031c4e923ad5d48a601b39a43e21c83ee",
+        "sharedAyahs": [
+          "15:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 198.7,
+            "end": 374.6
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 29810,
+        "durationMs": 29810,
+        "recordingDurationMs": 29810,
+        "bytes": 358376,
+        "sha256": "888381ade68990e5796692769e478a884143b1ce7ffe16799af04e88141c052e",
+        "sharedAyahs": [
+          "15:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 374.6,
+            "end": 404.4
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 255240,
+        "durationMs": 255240,
+        "recordingDurationMs": 255240,
+        "bytes": 3063560,
+        "sha256": "38a22b52c1af9177ba96b2bb02b603d8c1e2ebb4947317e6919be54cf41730a7",
+        "sharedAyahs": [
+          "15:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 404.4,
+            "end": 659.6
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 180620,
+        "durationMs": 180620,
+        "recordingDurationMs": 180620,
+        "bytes": 2168168,
+        "sha256": "8f6ef19fa56c280c916476bfeaee059cee9b4db292752382443a5734332058cf",
+        "sharedAyahs": [
+          "15:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 659.6,
+            "end": 840.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 84910,
+        "durationMs": 84910,
+        "recordingDurationMs": 84910,
+        "bytes": 1019624,
+        "sha256": "152c18eb543ac5cd822166327a45e45ebaa1feab96c55f1962169635d4449f0a",
+        "sharedAyahs": [
+          "15:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 840.2,
+            "end": 925.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 89420,
+        "durationMs": 89420,
+        "recordingDurationMs": 89420,
+        "bytes": 1073768,
+        "sha256": "b4428cf09c61fc33abe513e7da9066b90c2c29d78a6180177d7aa7959baa6ec7",
+        "sharedAyahs": [
+          "15:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 925.1,
+            "end": 1014.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 383830,
+        "durationMs": 383830,
+        "recordingDurationMs": 383830,
+        "bytes": 4606669,
+        "sha256": "4c065c630ae6785380ec99346c4a6502d86203b4f648f65a314b7d8430daad88",
+        "sharedAyahs": [
+          "15:58",
+          "15:59",
+          "15:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 1014.5,
+            "end": 1398.3
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 54120,
+        "durationMs": 54120,
+        "recordingDurationMs": 54120,
+        "bytes": 650125,
+        "sha256": "78e741b1179895d04f8bd95679150a48d70f590d32fa880ff456d61c9a71bd61",
+        "sharedAyahs": [
+          "15:61",
+          "15:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 1398.3,
+            "end": 1452.4
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 45340,
+        "durationMs": 45340,
+        "recordingDurationMs": 45340,
+        "bytes": 544717,
+        "sha256": "c7031ab88193b3046cdcf6300a33d6d53d902b5674d6b24deed172cd0e6b282f",
+        "sharedAyahs": [
+          "15:63",
+          "15:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 1452.4,
+            "end": 1497.7
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 220237,
+        "durationMs": 220237,
+        "recordingDurationMs": 484030,
+        "bytes": 5808807,
+        "sha256": "47c3b12243cfd3513c118692940599c8798cf8dcc325d543c3a6829f360ce3bd",
+        "sharedAyahs": [
+          "15:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "G8p6C8FkVDI",
+            "start": 1497.7,
+            "end": 1717.94
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/065.mp3",
+        "startMs": 220237,
+        "endMs": 484030,
+        "durationMs": 263793,
+        "recordingDurationMs": 484030,
+        "bytes": 5808807,
+        "sha256": "47c3b12243cfd3513c118692940599c8798cf8dcc325d543c3a6829f360ce3bd",
+        "sharedAyahs": [
+          "15:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 36.22,
+            "end": 300.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 165430,
+        "durationMs": 165430,
+        "recordingDurationMs": 165430,
+        "bytes": 1985771,
+        "sha256": "905dc3db1459da6901d1c06c6ed8000bebfd9349ce35ed09c7f895018b362dab",
+        "sharedAyahs": [
+          "15:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 300.0,
+            "end": 465.4
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 91420,
+        "durationMs": 91420,
+        "recordingDurationMs": 91420,
+        "bytes": 1097579,
+        "sha256": "1582b58462c3437c2ad060dd0183c73694d2f477a2812350909f79ae8dbc955f",
+        "sharedAyahs": [
+          "15:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 465.4,
+            "end": 556.8
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 158740,
+        "durationMs": 158740,
+        "recordingDurationMs": 158740,
+        "bytes": 1905424,
+        "sha256": "2da90022c91054a06f20ca15bd7c28116feb82e56c488bd39951b46aaf4dcb54",
+        "sharedAyahs": [
+          "15:68",
+          "15:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 556.8,
+            "end": 715.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 25920,
+        "durationMs": 25920,
+        "recordingDurationMs": 25920,
+        "bytes": 311627,
+        "sha256": "d17496073ef662ad7b1ff7a6af9bca835da12b2cd5403169bb6b784b59e01b84",
+        "sharedAyahs": [
+          "15:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 715.5,
+            "end": 741.4
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 101740,
+        "durationMs": 101740,
+        "recordingDurationMs": 101740,
+        "bytes": 1221419,
+        "sha256": "cea70f541c64e09934d780c31ae0b261efd56e3033b433300d01015a6423f1e0",
+        "sharedAyahs": [
+          "15:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 741.4,
+            "end": 843.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 234720,
+        "durationMs": 234720,
+        "recordingDurationMs": 234720,
+        "bytes": 2817227,
+        "sha256": "f759824a3e0670b0d38fc32c878c918b43821294f318e27fae3082af5002390a",
+        "sharedAyahs": [
+          "15:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 843.1,
+            "end": 1077.8
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 36720,
+        "durationMs": 36720,
+        "recordingDurationMs": 36720,
+        "bytes": 441232,
+        "sha256": "909c7b2bb7e220c217bbbdd0aece2f8061b4de9bacfa02888cef0a984bc634bc",
+        "sharedAyahs": [
+          "15:73",
+          "15:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 1077.8,
+            "end": 1114.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 205130,
+        "durationMs": 205130,
+        "recordingDurationMs": 205130,
+        "bytes": 2462128,
+        "sha256": "a4b011b7afe79f3b3198ebd85c84ab11f0553ab9680bc5baae9a062491bcac18",
+        "sharedAyahs": [
+          "15:75",
+          "15:76",
+          "15:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 1114.5,
+            "end": 1319.6
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 143620,
+        "durationMs": 143620,
+        "recordingDurationMs": 143620,
+        "bytes": 1723984,
+        "sha256": "02c3740a49070e535371861180f28a674715ecb47181044c4ba881825ef3524f",
+        "sharedAyahs": [
+          "15:78",
+          "15:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 1319.6,
+            "end": 1463.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 229957,
+        "durationMs": 229957,
+        "recordingDurationMs": 744170,
+        "bytes": 8930444,
+        "sha256": "95713250cd554dd7852b74e6bcce9e75ae0862e29554f988b6b6b862a82a6d6d",
+        "sharedAyahs": [
+          "15:80",
+          "15:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FNMQ9AH9mMg",
+            "start": 1463.2,
+            "end": 1693.13
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/080.mp3",
+        "startMs": 229957,
+        "endMs": 744170,
+        "durationMs": 514213,
+        "recordingDurationMs": 744170,
+        "bytes": 8930444,
+        "sha256": "95713250cd554dd7852b74e6bcce9e75ae0862e29554f988b6b6b862a82a6d6d",
+        "sharedAyahs": [
+          "15:80",
+          "15:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "k0FrfsRoZz0",
+            "start": 22.53,
+            "end": 536.7
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 76030,
+        "durationMs": 76030,
+        "recordingDurationMs": 76030,
+        "bytes": 913069,
+        "sha256": "26f3a5727a026c6d92286b7ff6874814619d68c9c16497bbabfde705c1a80ce6",
+        "sharedAyahs": [
+          "15:82",
+          "15:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "k0FrfsRoZz0",
+            "start": 536.7,
+            "end": 612.7
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 56300,
+        "durationMs": 56300,
+        "recordingDurationMs": 56300,
+        "bytes": 676328,
+        "sha256": "f283174d1acb358405b2d1a0278ab42d448e83e7c0797cf5d026d61730ca5d35",
+        "sharedAyahs": [
+          "15:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "k0FrfsRoZz0",
+            "start": 612.7,
+            "end": 669.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 411430,
+        "durationMs": 411430,
+        "recordingDurationMs": 411430,
+        "bytes": 4937864,
+        "sha256": "ed5ccaa9de45db6458365abc692463322bf1bdfb49821cf26d1614c9a4727f07",
+        "sharedAyahs": [
+          "15:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "k0FrfsRoZz0",
+            "start": 669.0,
+            "end": 1080.4
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 431140,
+        "durationMs": 431140,
+        "recordingDurationMs": 431140,
+        "bytes": 5174312,
+        "sha256": "811c9064ac2cea7f3746092ddc9f88ede10793452ed8b269700f6346cfd38c73",
+        "sharedAyahs": [
+          "15:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "k0FrfsRoZz0",
+            "start": 1080.4,
+            "end": 1511.5
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 153733,
+        "durationMs": 153733,
+        "recordingDurationMs": 1064690,
+        "bytes": 12776684,
+        "sha256": "1b15ce1135b8898564f555101d32df33eb8ca0165806837f7ffad683fc17eb2b",
+        "sharedAyahs": [
+          "15:87",
+          "15:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "k0FrfsRoZz0",
+            "start": 1511.5,
+            "end": 1665.24
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/other-65.mp3",
+        "startMs": 0,
+        "endMs": 274700,
+        "durationMs": 274700,
+        "recordingDurationMs": 274700,
+        "bytes": 3297119,
+        "sha256": "9ae7387c1943e3ab8a6c7db5f1df1f246c4ef6d14aa2ffcdb9a6477222da00b1",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "SSddyrkt9C0",
+            "start": 29.5,
+            "end": 304.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/087.mp3",
+        "startMs": 153733,
+        "endMs": 1064690,
+        "durationMs": 910957,
+        "recordingDurationMs": 1064690,
+        "bytes": 12776684,
+        "sha256": "1b15ce1135b8898564f555101d32df33eb8ca0165806837f7ffad683fc17eb2b",
+        "sharedAyahs": [
+          "15:87",
+          "15:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "SSddyrkt9C0",
+            "start": 304.2,
+            "end": 1215.1
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 86520,
+        "durationMs": 86520,
+        "recordingDurationMs": 86520,
+        "bytes": 1038920,
+        "sha256": "732f24cd0ea4402f0005b8c9213f6ae3b9867b5d5f3e5b1d44603dade95220c8",
+        "sharedAyahs": [
+          "15:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "SSddyrkt9C0",
+            "start": 1215.1,
+            "end": 1301.6
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/090.mp3",
+        "startMs": 0,
+        "endMs": 402421,
+        "durationMs": 402421,
+        "recordingDurationMs": 448660,
+        "bytes": 5384300,
+        "sha256": "e96c8fb3185708d4e1554bb04d1e2535c7b298d37d6aeb18ef1c4e3351644d5d",
+        "sharedAyahs": [
+          "15:90",
+          "15:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "SSddyrkt9C0",
+            "start": 1301.6,
+            "end": 1704.02
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/090.mp3",
+        "startMs": 402421,
+        "endMs": 448660,
+        "durationMs": 46239,
+        "recordingDurationMs": 448660,
+        "bytes": 5384300,
+        "sha256": "e96c8fb3185708d4e1554bb04d1e2535c7b298d37d6aeb18ef1c4e3351644d5d",
+        "sharedAyahs": [
+          "15:90",
+          "15:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yjbna6Rx7yA",
+            "start": 20.0,
+            "end": 66.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 514510,
+        "durationMs": 514510,
+        "recordingDurationMs": 514510,
+        "bytes": 6174829,
+        "sha256": "faa2c04e6968c9ba55b13ce318fdb0f9a3551f693d225e8afea21ff302d93070",
+        "sharedAyahs": [
+          "15:92",
+          "15:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yjbna6Rx7yA",
+            "start": 66.2,
+            "end": 580.7
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/094.mp3",
+        "startMs": 0,
+        "endMs": 164520,
+        "durationMs": 164520,
+        "recordingDurationMs": 164520,
+        "bytes": 1974920,
+        "sha256": "54a2236118e84562f2f1a69e30a6f132d41e675627d789c26c408334b77e4b15",
+        "sharedAyahs": [
+          "15:94"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yjbna6Rx7yA",
+            "start": 580.7,
+            "end": 745.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/095.mp3",
+        "startMs": 0,
+        "endMs": 232030,
+        "durationMs": 232030,
+        "recordingDurationMs": 232030,
+        "bytes": 2785064,
+        "sha256": "c097a4caa660d6d4dca10223918a8ab0a54e750d93d3a8cabc31c1bd9b9059b4",
+        "sharedAyahs": [
+          "15:95"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yjbna6Rx7yA",
+            "start": 745.2,
+            "end": 977.2
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/096.mp3",
+        "startMs": 0,
+        "endMs": 134740,
+        "durationMs": 134740,
+        "recordingDurationMs": 134740,
+        "bytes": 1617512,
+        "sha256": "ade6d9e669a0de208f60ec4ab8d87a57703655da5a118d84e82a074470b6668f",
+        "sharedAyahs": [
+          "15:96"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yjbna6Rx7yA",
+            "start": 977.2,
+            "end": 1111.9
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/097.mp3",
+        "startMs": 0,
+        "endMs": 380110,
+        "durationMs": 380110,
+        "recordingDurationMs": 380110,
+        "bytes": 4562024,
+        "sha256": "e890f6b09fe4d49e00d1d4ea53083cdbaeb65fc17d255be20133455cc6ff7c11",
+        "sharedAyahs": [
+          "15:97"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yjbna6Rx7yA",
+            "start": 1111.9,
+            "end": 1492.0
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/098.mp3",
+        "startMs": 0,
+        "endMs": 121789,
+        "durationMs": 121789,
+        "recordingDurationMs": 521520,
+        "bytes": 6258663,
+        "sha256": "bacd264212351a205e37009cacc1be10417a475f3e5db0b55eea724ff324c947",
+        "sharedAyahs": [
+          "15:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yjbna6Rx7yA",
+            "start": 1492.0,
+            "end": 1613.78
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/098.mp3",
+        "startMs": 121789,
+        "endMs": 521520,
+        "durationMs": 399731,
+        "recordingDurationMs": 521520,
+        "bytes": 6258663,
+        "sha256": "bacd264212351a205e37009cacc1be10417a475f3e5db0b55eea724ff324c947",
+        "sharedAyahs": [
+          "15:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OAVlMaS9fSY",
+            "start": 25.0,
+            "end": 424.7
+          }
+        ]
+      },
+      {
+        "file": "015-الحجر-youtube-v1/099.mp3",
+        "startMs": 0,
+        "endMs": 1237990,
+        "durationMs": 1237990,
+        "recordingDurationMs": 1237990,
+        "bytes": 14856584,
+        "sha256": "4606368b957b1a0844836a4d282c77160950592f6b05b04f2d92dec70b780a94",
+        "sharedAyahs": [
+          "15:99"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OAVlMaS9fSY",
+            "start": 424.7,
+            "end": 1662.65
+          }
+        ]
+      }
+    ],
+    "durationMs": 24335140,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "prepared_local"
+}
