@@ -1,0 +1,1720 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 13,
+  "surahName": "الرعد",
+  "ayahCount": 43,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "incomplete_experimental",
+  "coverage": {
+    "complete": false,
+    "totalAyahCount": 43,
+    "mappedAyahCount": 42,
+    "missingAyahs": [
+      "13:1"
+    ],
+    "missingCommentary": [
+      {
+        "ayah": "13:1",
+        "reason": "شرح الآية الأولى (المر تلك آيات الكتاب) كان ختام المجلس السابق في نهاية تفسير سورة يوسف؛ ويبدأ تسجيل سورة الرعد المتاح في القناة الرسمية من الآية الثانية."
+      }
+    ]
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "hl-WoDxrQaI": {
+      "durationSeconds": 2673.24,
+      "bytes": 32079590,
+      "sha256": "750c9020eab142fc53513e900e3eec3b1f6fb3d460231bb24ca0804c3b76189a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_hl-WoDxrQaI.mp3",
+      "url": "https://www.youtube.com/watch?v=hl-WoDxrQaI"
+    },
+    "JB3kfPC_Kvk": {
+      "durationSeconds": 2734.85,
+      "bytes": 32818906,
+      "sha256": "f542a3fa82d58e9d874f3fb0f6d0f60c9a48e0d39d8eb3f403f3eb13be61bbce",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_JB3kfPC_Kvk.mp3",
+      "url": "https://www.youtube.com/watch?v=JB3kfPC_Kvk"
+    },
+    "reHB8DEHCMo": {
+      "durationSeconds": 2708.52,
+      "bytes": 32502963,
+      "sha256": "9d6ef2f27a291a1321977ce77aefa24f3f278f38ea60af3669ff88047a8ed05a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_reHB8DEHCMo.mp3",
+      "url": "https://www.youtube.com/watch?v=reHB8DEHCMo"
+    },
+    "R2y1Dzo0--A": {
+      "durationSeconds": 2675.14,
+      "bytes": 32102360,
+      "sha256": "2541e5deaf4d904a00384767ef8d277e7ee1e04e8c9b144b0e36da1e95c42169",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_R2y1Dzo0--A.mp3",
+      "url": "https://www.youtube.com/watch?v=R2y1Dzo0--A"
+    },
+    "7y-idXAqI0Q": {
+      "durationSeconds": 2686.25,
+      "bytes": 32235682,
+      "sha256": "2cbd2982e78e663be2ce6059f0d9097543f41215343cd7e5664cdeb2195ca2d8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_7y-idXAqI0Q.mp3",
+      "url": "https://www.youtube.com/watch?v=7y-idXAqI0Q"
+    },
+    "3Xkx_oOLujs": {
+      "durationSeconds": 2545.1,
+      "bytes": 30541943,
+      "sha256": "f2f04b7495254df355a19f3d12ea1b4d8e07aa3f957acc498380ea3c72e807cc",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_3Xkx_oOLujs.mp3",
+      "url": "https://www.youtube.com/watch?v=3Xkx_oOLujs"
+    },
+    "H1dtVly00ys": {
+      "durationSeconds": 2727.1,
+      "bytes": 32725862,
+      "sha256": "639c61fec71b86e07b06e01be4924a8d066165fdcd3ddf46b600d9f5595740ac",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_H1dtVly00ys.mp3",
+      "url": "https://www.youtube.com/watch?v=H1dtVly00ys"
+    },
+    "TlGv-sBnjNE": {
+      "durationSeconds": 2760.55,
+      "bytes": 33127341,
+      "sha256": "dcce57a9d9c1767833069e91561c8b841469cccfc6db500ab585cd389c058ba5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_TlGv-sBnjNE.mp3",
+      "url": "https://www.youtube.com/watch?v=TlGv-sBnjNE"
+    },
+    "7WirMZBrkH8": {
+      "durationSeconds": 2720.64,
+      "bytes": 32648392,
+      "sha256": "c6d33fadde512af4bea293d6ebe0e8693ff0d5c8649e6eb9549f47ce958ce1a5",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_7WirMZBrkH8.mp3",
+      "url": "https://www.youtube.com/watch?v=7WirMZBrkH8"
+    },
+    "whg4C3BA--s": {
+      "durationSeconds": 2678.86,
+      "bytes": 32146990,
+      "sha256": "3781795e5c5bd854e48ae687eacf50d4f5ddb3220e31ac607f0d295816ba1b9c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_whg4C3BA--s.mp3",
+      "url": "https://www.youtube.com/watch?v=whg4C3BA--s"
+    },
+    "FhMSL3Xdnso": {
+      "durationSeconds": 2765.76,
+      "bytes": 33189851,
+      "sha256": "3cef7c58edd0c825bd9bf2b5cac5d15744b8681a1d85d5759916d27ad6433914",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_FhMSL3Xdnso.mp3",
+      "url": "https://www.youtube.com/watch?v=FhMSL3Xdnso"
+    }
+  },
+  "ayahs": {
+    "13:2": {
+      "file": "013-الرعد-youtube-v1/002.mp3",
+      "durationMs": 3307990,
+      "bytes": 39696325,
+      "sha256": "636215617f3f08378c62125302b838d82e4701a9afdd8016edd777dc275334ea",
+      "sharedAyahs": [
+        "13:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "hl-WoDxrQaI",
+          "start": 26.72,
+          "end": 2646.69
+        },
+        {
+          "source": "JB3kfPC_Kvk",
+          "start": 25.63,
+          "end": 713.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:3": {
+      "file": "013-الرعد-youtube-v1/003.mp3",
+      "durationMs": 1994420,
+      "bytes": 23933766,
+      "sha256": "6d8b751de0bc3a3687cfc7eda4b3034cb0cd7e5a911e0bc2723d63346669b290",
+      "sharedAyahs": [
+        "13:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JB3kfPC_Kvk",
+          "start": 713.6,
+          "end": 2708.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:4": {
+      "file": "013-الرعد-youtube-v1/004.mp3",
+      "durationMs": 1370210,
+      "bytes": 16443174,
+      "sha256": "c0cea96c477d5a5d6800d8256b7b9d3ee6d2788af5d6f0959ab9c3598e3d93e7",
+      "sharedAyahs": [
+        "13:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "reHB8DEHCMo",
+          "start": 26.5,
+          "end": 1396.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:5": {
+      "file": "013-الرعد-youtube-v1/005.mp3",
+      "durationMs": 1283330,
+      "bytes": 15400614,
+      "sha256": "491645bf6ea4a8c127e7f2bb58710f9e7c173628532bdd1718a7853f2453830e",
+      "sharedAyahs": [
+        "13:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "reHB8DEHCMo",
+          "start": 1396.7,
+          "end": 2680.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:6": {
+      "file": "013-الرعد-youtube-v1/006.mp3",
+      "durationMs": 439220,
+      "bytes": 5271366,
+      "sha256": "c16de0518860d50dafa301e999bd8cee46cd5185dc7606479513a7ef3f50ffdd",
+      "sharedAyahs": [
+        "13:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R2y1Dzo0--A",
+          "start": 24.5,
+          "end": 463.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:7": {
+      "file": "013-الرعد-youtube-v1/007.mp3",
+      "durationMs": 605930,
+      "bytes": 7271814,
+      "sha256": "248670703d3e9d5aabe9f09e909e2c9e44286c04c0495738a5e4cf39e77fb731",
+      "sharedAyahs": [
+        "13:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R2y1Dzo0--A",
+          "start": 463.7,
+          "end": 1069.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:8": {
+      "file": "013-الرعد-youtube-v1/008.mp3",
+      "durationMs": 1250330,
+      "bytes": 15004618,
+      "sha256": "91cd15ff77da74843a7902345cc2c8d4d61021cddf11706de3d05f793b3ec2cb",
+      "sharedAyahs": [
+        "13:8",
+        "13:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R2y1Dzo0--A",
+          "start": 1069.6,
+          "end": 2319.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:9": {
+      "file": "013-الرعد-youtube-v1/008.mp3",
+      "durationMs": 1250330,
+      "bytes": 15004618,
+      "sha256": "91cd15ff77da74843a7902345cc2c8d4d61021cddf11706de3d05f793b3ec2cb",
+      "sharedAyahs": [
+        "13:8",
+        "13:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R2y1Dzo0--A",
+          "start": 1069.6,
+          "end": 2319.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:10": {
+      "file": "013-الرعد-youtube-v1/010.mp3",
+      "durationMs": 258820,
+      "bytes": 3106472,
+      "sha256": "8327d01565f84b7f8b9a3cb828ea81d79757767695da79c505c491eb280d59a1",
+      "sharedAyahs": [
+        "13:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R2y1Dzo0--A",
+          "start": 2319.9,
+          "end": 2578.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:11": {
+      "file": "013-الرعد-youtube-v1/011.mp3",
+      "durationMs": 1107550,
+      "bytes": 13291047,
+      "sha256": "49205fc9b3369422868d3adaca5800cb6b13fb265adec0c54872c86d7a0cb3bd",
+      "sharedAyahs": [
+        "13:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R2y1Dzo0--A",
+          "start": 2578.7,
+          "end": 2650.0
+        },
+        {
+          "source": "7y-idXAqI0Q",
+          "start": 27.5,
+          "end": 1063.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:12": {
+      "file": "013-الرعد-youtube-v1/012.mp3",
+      "durationMs": 421320,
+      "bytes": 5056520,
+      "sha256": "7c555b581870fec840932e50b792d352eaa19e8e8927e568fcf495720f38de5c",
+      "sharedAyahs": [
+        "13:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7y-idXAqI0Q",
+          "start": 1063.7,
+          "end": 1485.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:13": {
+      "file": "013-الرعد-youtube-v1/013.mp3",
+      "durationMs": 1133040,
+      "bytes": 13597160,
+      "sha256": "14b9b8f3397292822a6a330b1ebe5008e44154f9e380309c3cf12562999cdac3",
+      "sharedAyahs": [
+        "13:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7y-idXAqI0Q",
+          "start": 1485.0,
+          "end": 2618.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:14": {
+      "file": "013-الرعد-youtube-v1/014.mp3",
+      "durationMs": 454920,
+      "bytes": 5459720,
+      "sha256": "a8b4ee16c2a51082407464d4df47c94e8cc46e07516c9e98dd7cdff0f6793242",
+      "sharedAyahs": [
+        "13:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 25.5,
+          "end": 480.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:15": {
+      "file": "013-الرعد-youtube-v1/015.mp3",
+      "durationMs": 313130,
+      "bytes": 3758216,
+      "sha256": "895ed25159a47b234e264a368b8241dcf2d7a54742db97611f6dbe86af53795f",
+      "sharedAyahs": [
+        "13:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 480.4,
+          "end": 793.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:16": {
+      "file": "013-الرعد-youtube-v1/016.mp3",
+      "durationMs": 378220,
+      "bytes": 4539272,
+      "sha256": "b1a71ba4d335db7efff715e273465e1f5c61800e050bfc2ca4357c24daae1c63",
+      "sharedAyahs": [
+        "13:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 793.5,
+          "end": 1171.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:17": {
+      "file": "013-الرعد-youtube-v1/017.mp3",
+      "durationMs": 515640,
+      "bytes": 6188360,
+      "sha256": "5435a317dfe18b83162baf88cbc04ebfe6cc7e74272b9adbc80aa30c635e2ca7",
+      "sharedAyahs": [
+        "13:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 1171.7,
+          "end": 1687.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:18": {
+      "file": "013-الرعد-youtube-v1/018.mp3",
+      "durationMs": 282500,
+      "bytes": 3390728,
+      "sha256": "b678e138f2316fdb4497e4f993c29b780883fb1d9950e21f497b371985f3dc21",
+      "sharedAyahs": [
+        "13:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 1687.3,
+          "end": 1969.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:19": {
+      "file": "013-الرعد-youtube-v1/019.mp3",
+      "durationMs": 191640,
+      "bytes": 2300365,
+      "sha256": "499001e01e779fd82f4bc7ed81327168925fdfc57640ff9a837041c504b50ea0",
+      "sharedAyahs": [
+        "13:19",
+        "13:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 1969.8,
+          "end": 2161.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:20": {
+      "file": "013-الرعد-youtube-v1/019.mp3",
+      "durationMs": 191640,
+      "bytes": 2300365,
+      "sha256": "499001e01e779fd82f4bc7ed81327168925fdfc57640ff9a837041c504b50ea0",
+      "sharedAyahs": [
+        "13:19",
+        "13:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 1969.8,
+          "end": 2161.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:21": {
+      "file": "013-الرعد-youtube-v1/021.mp3",
+      "durationMs": 240410,
+      "bytes": 2885576,
+      "sha256": "8ca0c6e34cec56263ac207535b96d381de124d4424f6db4dcd3d1b75fb5a99f0",
+      "sharedAyahs": [
+        "13:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 2161.4,
+          "end": 2401.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:22": {
+      "file": "013-الرعد-youtube-v1/022.mp3",
+      "durationMs": 118220,
+      "bytes": 1419373,
+      "sha256": "51f9325b7e74ad6f7d4fdd680b136671d78677728e3228d2d5d3e89bc6211158",
+      "sharedAyahs": [
+        "13:22",
+        "13:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 2401.8,
+          "end": 2520.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:23": {
+      "file": "013-الرعد-youtube-v1/022.mp3",
+      "durationMs": 118220,
+      "bytes": 1419373,
+      "sha256": "51f9325b7e74ad6f7d4fdd680b136671d78677728e3228d2d5d3e89bc6211158",
+      "sharedAyahs": [
+        "13:22",
+        "13:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3Xkx_oOLujs",
+          "start": 2401.8,
+          "end": 2520.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:24": {
+      "file": "013-الرعد-youtube-v1/024.mp3",
+      "durationMs": 523940,
+      "bytes": 6288008,
+      "sha256": "76f122e09e55df246f86d6955a2f9f17c14204b1671ab0a1302b86aa90c5f4de",
+      "sharedAyahs": [
+        "13:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H1dtVly00ys",
+          "start": 24.0,
+          "end": 547.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:25": {
+      "file": "013-الرعد-youtube-v1/025.mp3",
+      "durationMs": 368900,
+      "bytes": 4427528,
+      "sha256": "224db0a52edc5301bcf71afd02e0c61e4e174863df4fe3caf9b26154174022d9",
+      "sharedAyahs": [
+        "13:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H1dtVly00ys",
+          "start": 547.9,
+          "end": 916.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:26": {
+      "file": "013-الرعد-youtube-v1/026.mp3",
+      "durationMs": 1115420,
+      "bytes": 13385768,
+      "sha256": "b441dd5fe79d2551510b4f5f415d64923dd52c18e09a2e60b866f4fed46c6dae",
+      "sharedAyahs": [
+        "13:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H1dtVly00ys",
+          "start": 916.8,
+          "end": 2032.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:27": {
+      "file": "013-الرعد-youtube-v1/027.mp3",
+      "durationMs": 667820,
+      "bytes": 8014568,
+      "sha256": "892b47787c28d3d35a8c77e37cc1b879512874145820cbdf2417b84a7e5e4b82",
+      "sharedAyahs": [
+        "13:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H1dtVly00ys",
+          "start": 2032.2,
+          "end": 2700.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:28": {
+      "file": "013-الرعد-youtube-v1/028.mp3",
+      "durationMs": 495220,
+      "bytes": 5943277,
+      "sha256": "139005285708df4f2dff39aa94aa55f812adee5332fe21dec36d714b5fe88913",
+      "sharedAyahs": [
+        "13:28",
+        "13:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TlGv-sBnjNE",
+          "start": 1090.3,
+          "end": 1585.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:29": {
+      "file": "013-الرعد-youtube-v1/028.mp3",
+      "durationMs": 495220,
+      "bytes": 5943277,
+      "sha256": "139005285708df4f2dff39aa94aa55f812adee5332fe21dec36d714b5fe88913",
+      "sharedAyahs": [
+        "13:28",
+        "13:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TlGv-sBnjNE",
+          "start": 1090.3,
+          "end": 1585.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:30": {
+      "file": "013-الرعد-youtube-v1/030.mp3",
+      "durationMs": 1144510,
+      "bytes": 13734824,
+      "sha256": "5a5d0452c5be12762d43153564160f4b86eb4046105d958a8651a7c3c018faea",
+      "sharedAyahs": [
+        "13:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "TlGv-sBnjNE",
+          "start": 1585.5,
+          "end": 2730.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:31": {
+      "file": "013-الرعد-youtube-v1/031.mp3",
+      "durationMs": 600940,
+      "bytes": 7211912,
+      "sha256": "b32de301a3e71c8e479f50467f37696e73a449900a05fe049593ca6fd308d3cd",
+      "sharedAyahs": [
+        "13:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7WirMZBrkH8",
+          "start": 25.0,
+          "end": 625.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:32": {
+      "file": "013-الرعد-youtube-v1/032.mp3",
+      "durationMs": 532700,
+      "bytes": 6393128,
+      "sha256": "b013fb585096433e33ef785d76306240e45d059dd83e4e13b996a1a333401538",
+      "sharedAyahs": [
+        "13:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7WirMZBrkH8",
+          "start": 625.9,
+          "end": 1158.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:33": {
+      "file": "013-الرعد-youtube-v1/033.mp3",
+      "durationMs": 354620,
+      "bytes": 4256168,
+      "sha256": "ada2ed680069b4b136c970106ce295da79d375be926c4d196a1570abbcd28a9e",
+      "sharedAyahs": [
+        "13:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7WirMZBrkH8",
+          "start": 1158.6,
+          "end": 1513.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:34": {
+      "file": "013-الرعد-youtube-v1/034.mp3",
+      "durationMs": 208630,
+      "bytes": 2504264,
+      "sha256": "44865c4fcee1d984a72906e4ec7f34f351f52799171bf3e4dcee2160d111ce87",
+      "sharedAyahs": [
+        "13:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7WirMZBrkH8",
+          "start": 1513.2,
+          "end": 1721.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:35": {
+      "file": "013-الرعد-youtube-v1/035.mp3",
+      "durationMs": 1458840,
+      "bytes": 17506503,
+      "sha256": "9b6bd767be2204fcbe9585153792d0c1c80fa2d73e2620b27e5180dcceba4fba",
+      "sharedAyahs": [
+        "13:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "7WirMZBrkH8",
+          "start": 1721.8,
+          "end": 2690.0
+        },
+        {
+          "source": "whg4C3BA--s",
+          "start": 23.5,
+          "end": 514.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:36": {
+      "file": "013-الرعد-youtube-v1/036.mp3",
+      "durationMs": 669840,
+      "bytes": 8038760,
+      "sha256": "e105e37ce5e2b19b6d8462297e106e53e74d96316dca3afa9b131d1df66fe82e",
+      "sharedAyahs": [
+        "13:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "whg4C3BA--s",
+          "start": 514.1,
+          "end": 1183.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:37": {
+      "file": "013-الرعد-youtube-v1/037.mp3",
+      "durationMs": 224900,
+      "bytes": 2699528,
+      "sha256": "6cbd252e07cd40ecf709842d2ad9531c470e4d4c0c0350f24953ed07769b3d97",
+      "sharedAyahs": [
+        "13:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "whg4C3BA--s",
+          "start": 1183.9,
+          "end": 1408.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:38": {
+      "file": "013-الرعد-youtube-v1/038.mp3",
+      "durationMs": 369740,
+      "bytes": 4437608,
+      "sha256": "0637d45002dc30f482136687dca470c457d93bea00c3395e2644a73bcddd8dc0",
+      "sharedAyahs": [
+        "13:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "whg4C3BA--s",
+          "start": 1408.8,
+          "end": 1778.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:39": {
+      "file": "013-الرعد-youtube-v1/039.mp3",
+      "durationMs": 871510,
+      "bytes": 10458824,
+      "sha256": "d7c3a058f35fa272f01afd97e7bf48cee485fc459550927765bb2568accc98e7",
+      "sharedAyahs": [
+        "13:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "whg4C3BA--s",
+          "start": 1778.5,
+          "end": 2650.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:40": {
+      "file": "013-الرعد-youtube-v1/040.mp3",
+      "durationMs": 644420,
+      "bytes": 7733768,
+      "sha256": "502f014e0e6e490055abd730842d4d96e022122fab42ea9740fded3724ff9a8d",
+      "sharedAyahs": [
+        "13:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FhMSL3Xdnso",
+          "start": 28.5,
+          "end": 672.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:41": {
+      "file": "013-الرعد-youtube-v1/041.mp3",
+      "durationMs": 1004020,
+      "bytes": 12048872,
+      "sha256": "588eb3785070e726f77f48aa8b86d1ad5df396767d9e6d1cda0f0bfebe162dae",
+      "sharedAyahs": [
+        "13:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FhMSL3Xdnso",
+          "start": 672.9,
+          "end": 1676.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:42": {
+      "file": "013-الرعد-youtube-v1/042.mp3",
+      "durationMs": 182740,
+      "bytes": 2193512,
+      "sha256": "09227787a41f07a8fe9f7e05f5953af5eb6cca70d5adff10a518277d8527ebbb",
+      "sharedAyahs": [
+        "13:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FhMSL3Xdnso",
+          "start": 1676.9,
+          "end": 1859.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "13:43": {
+      "file": "013-الرعد-youtube-v1/043.mp3",
+      "durationMs": 896380,
+      "bytes": 10757192,
+      "sha256": "087027dd13686a086907e23506860c055ab22572f1be194c72b0757515b6a0f2",
+      "sharedAyahs": [
+        "13:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FhMSL3Xdnso",
+          "start": 1859.6,
+          "end": 2755.96
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "013-الرعد-youtube-v1/other-23.mp3",
+      "kind": "other",
+      "durationMs": 1064330,
+      "bytes": 12772607,
+      "sha256": "4fbf3876a8bb2c9528ae1e2565bea287e24eda9aba616619bab43480824a5398",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "TlGv-sBnjNE",
+          "start": 26.0,
+          "end": 1090.3
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLjdstnTfkW8idqM0eyOiUZ3PM5Bjk1XjG",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "rad-hudaybiyyah-mecca",
+      "title": "حكمة صلح الحديبية ومقارنته بفتح مكة ودلالات بسط الرزق",
+      "file": "013-الرعد-youtube-v1/other-23.mp3",
+      "startMs": 0,
+      "endMs": 1064330
+    },
+    {
+      "id": "rad-self-change-destiny",
+      "title": "قانون التغيير النفسي والمجتمعي وسنن الله في خلقه",
+      "file": "013-الرعد-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 1107550
+    },
+    {
+      "id": "rad-tranquility-dhikr",
+      "title": "طمأنينة القلوب بذكر الله وحقيقة الأنس بجلاله",
+      "file": "013-الرعد-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 495220
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "hl-WoDxrQaI",
+      "JB3kfPC_Kvk",
+      "reHB8DEHCMo",
+      "R2y1Dzo0--A",
+      "7y-idXAqI0Q",
+      "3Xkx_oOLujs",
+      "H1dtVly00ys",
+      "TlGv-sBnjNE",
+      "7WirMZBrkH8",
+      "whg4C3BA--s",
+      "FhMSL3Xdnso"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "013-الرعد-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 2619973,
+        "durationMs": 2619973,
+        "recordingDurationMs": 3307990,
+        "bytes": 39696325,
+        "sha256": "636215617f3f08378c62125302b838d82e4701a9afdd8016edd777dc275334ea",
+        "sharedAyahs": [
+          "13:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "hl-WoDxrQaI",
+            "start": 26.72,
+            "end": 2646.69
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/002.mp3",
+        "startMs": 2619973,
+        "endMs": 3307990,
+        "durationMs": 688017,
+        "recordingDurationMs": 3307990,
+        "bytes": 39696325,
+        "sha256": "636215617f3f08378c62125302b838d82e4701a9afdd8016edd777dc275334ea",
+        "sharedAyahs": [
+          "13:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JB3kfPC_Kvk",
+            "start": 25.63,
+            "end": 713.6
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 1994420,
+        "durationMs": 1994420,
+        "recordingDurationMs": 1994420,
+        "bytes": 23933766,
+        "sha256": "6d8b751de0bc3a3687cfc7eda4b3034cb0cd7e5a911e0bc2723d63346669b290",
+        "sharedAyahs": [
+          "13:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "JB3kfPC_Kvk",
+            "start": 713.6,
+            "end": 2708.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 1370210,
+        "durationMs": 1370210,
+        "recordingDurationMs": 1370210,
+        "bytes": 16443174,
+        "sha256": "c0cea96c477d5a5d6800d8256b7b9d3ee6d2788af5d6f0959ab9c3598e3d93e7",
+        "sharedAyahs": [
+          "13:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "reHB8DEHCMo",
+            "start": 26.5,
+            "end": 1396.7
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 1283330,
+        "durationMs": 1283330,
+        "recordingDurationMs": 1283330,
+        "bytes": 15400614,
+        "sha256": "491645bf6ea4a8c127e7f2bb58710f9e7c173628532bdd1718a7853f2453830e",
+        "sharedAyahs": [
+          "13:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "reHB8DEHCMo",
+            "start": 1396.7,
+            "end": 2680.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 439220,
+        "durationMs": 439220,
+        "recordingDurationMs": 439220,
+        "bytes": 5271366,
+        "sha256": "c16de0518860d50dafa301e999bd8cee46cd5185dc7606479513a7ef3f50ffdd",
+        "sharedAyahs": [
+          "13:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R2y1Dzo0--A",
+            "start": 24.5,
+            "end": 463.7
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 605930,
+        "durationMs": 605930,
+        "recordingDurationMs": 605930,
+        "bytes": 7271814,
+        "sha256": "248670703d3e9d5aabe9f09e909e2c9e44286c04c0495738a5e4cf39e77fb731",
+        "sharedAyahs": [
+          "13:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R2y1Dzo0--A",
+            "start": 463.7,
+            "end": 1069.6
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 1250330,
+        "durationMs": 1250330,
+        "recordingDurationMs": 1250330,
+        "bytes": 15004618,
+        "sha256": "91cd15ff77da74843a7902345cc2c8d4d61021cddf11706de3d05f793b3ec2cb",
+        "sharedAyahs": [
+          "13:8",
+          "13:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R2y1Dzo0--A",
+            "start": 1069.6,
+            "end": 2319.9
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 258820,
+        "durationMs": 258820,
+        "recordingDurationMs": 258820,
+        "bytes": 3106472,
+        "sha256": "8327d01565f84b7f8b9a3cb828ea81d79757767695da79c505c491eb280d59a1",
+        "sharedAyahs": [
+          "13:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R2y1Dzo0--A",
+            "start": 2319.9,
+            "end": 2578.7
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 71317,
+        "durationMs": 71317,
+        "recordingDurationMs": 1107550,
+        "bytes": 13291047,
+        "sha256": "49205fc9b3369422868d3adaca5800cb6b13fb265adec0c54872c86d7a0cb3bd",
+        "sharedAyahs": [
+          "13:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R2y1Dzo0--A",
+            "start": 2578.7,
+            "end": 2650.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/011.mp3",
+        "startMs": 71317,
+        "endMs": 1107550,
+        "durationMs": 1036233,
+        "recordingDurationMs": 1107550,
+        "bytes": 13291047,
+        "sha256": "49205fc9b3369422868d3adaca5800cb6b13fb265adec0c54872c86d7a0cb3bd",
+        "sharedAyahs": [
+          "13:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7y-idXAqI0Q",
+            "start": 27.5,
+            "end": 1063.7
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 421320,
+        "durationMs": 421320,
+        "recordingDurationMs": 421320,
+        "bytes": 5056520,
+        "sha256": "7c555b581870fec840932e50b792d352eaa19e8e8927e568fcf495720f38de5c",
+        "sharedAyahs": [
+          "13:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7y-idXAqI0Q",
+            "start": 1063.7,
+            "end": 1485.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 1133040,
+        "durationMs": 1133040,
+        "recordingDurationMs": 1133040,
+        "bytes": 13597160,
+        "sha256": "14b9b8f3397292822a6a330b1ebe5008e44154f9e380309c3cf12562999cdac3",
+        "sharedAyahs": [
+          "13:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7y-idXAqI0Q",
+            "start": 1485.0,
+            "end": 2618.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 454920,
+        "durationMs": 454920,
+        "recordingDurationMs": 454920,
+        "bytes": 5459720,
+        "sha256": "a8b4ee16c2a51082407464d4df47c94e8cc46e07516c9e98dd7cdff0f6793242",
+        "sharedAyahs": [
+          "13:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "3Xkx_oOLujs",
+            "start": 25.5,
+            "end": 480.4
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 313130,
+        "durationMs": 313130,
+        "recordingDurationMs": 313130,
+        "bytes": 3758216,
+        "sha256": "895ed25159a47b234e264a368b8241dcf2d7a54742db97611f6dbe86af53795f",
+        "sharedAyahs": [
+          "13:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "3Xkx_oOLujs",
+            "start": 480.4,
+            "end": 793.5
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 378220,
+        "durationMs": 378220,
+        "recordingDurationMs": 378220,
+        "bytes": 4539272,
+        "sha256": "b1a71ba4d335db7efff715e273465e1f5c61800e050bfc2ca4357c24daae1c63",
+        "sharedAyahs": [
+          "13:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "3Xkx_oOLujs",
+            "start": 793.5,
+            "end": 1171.7
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 515640,
+        "durationMs": 515640,
+        "recordingDurationMs": 515640,
+        "bytes": 6188360,
+        "sha256": "5435a317dfe18b83162baf88cbc04ebfe6cc7e74272b9adbc80aa30c635e2ca7",
+        "sharedAyahs": [
+          "13:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "3Xkx_oOLujs",
+            "start": 1171.7,
+            "end": 1687.3
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 282500,
+        "durationMs": 282500,
+        "recordingDurationMs": 282500,
+        "bytes": 3390728,
+        "sha256": "b678e138f2316fdb4497e4f993c29b780883fb1d9950e21f497b371985f3dc21",
+        "sharedAyahs": [
+          "13:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "3Xkx_oOLujs",
+            "start": 1687.3,
+            "end": 1969.8
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 191640,
+        "durationMs": 191640,
+        "recordingDurationMs": 191640,
+        "bytes": 2300365,
+        "sha256": "499001e01e779fd82f4bc7ed81327168925fdfc57640ff9a837041c504b50ea0",
+        "sharedAyahs": [
+          "13:19",
+          "13:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "3Xkx_oOLujs",
+            "start": 1969.8,
+            "end": 2161.4
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 240410,
+        "durationMs": 240410,
+        "recordingDurationMs": 240410,
+        "bytes": 2885576,
+        "sha256": "8ca0c6e34cec56263ac207535b96d381de124d4424f6db4dcd3d1b75fb5a99f0",
+        "sharedAyahs": [
+          "13:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "3Xkx_oOLujs",
+            "start": 2161.4,
+            "end": 2401.8
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 118220,
+        "durationMs": 118220,
+        "recordingDurationMs": 118220,
+        "bytes": 1419373,
+        "sha256": "51f9325b7e74ad6f7d4fdd680b136671d78677728e3228d2d5d3e89bc6211158",
+        "sharedAyahs": [
+          "13:22",
+          "13:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "3Xkx_oOLujs",
+            "start": 2401.8,
+            "end": 2520.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 523940,
+        "durationMs": 523940,
+        "recordingDurationMs": 523940,
+        "bytes": 6288008,
+        "sha256": "76f122e09e55df246f86d6955a2f9f17c14204b1671ab0a1302b86aa90c5f4de",
+        "sharedAyahs": [
+          "13:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H1dtVly00ys",
+            "start": 24.0,
+            "end": 547.9
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 368900,
+        "durationMs": 368900,
+        "recordingDurationMs": 368900,
+        "bytes": 4427528,
+        "sha256": "224db0a52edc5301bcf71afd02e0c61e4e174863df4fe3caf9b26154174022d9",
+        "sharedAyahs": [
+          "13:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H1dtVly00ys",
+            "start": 547.9,
+            "end": 916.8
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 1115420,
+        "durationMs": 1115420,
+        "recordingDurationMs": 1115420,
+        "bytes": 13385768,
+        "sha256": "b441dd5fe79d2551510b4f5f415d64923dd52c18e09a2e60b866f4fed46c6dae",
+        "sharedAyahs": [
+          "13:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H1dtVly00ys",
+            "start": 916.8,
+            "end": 2032.2
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 667820,
+        "durationMs": 667820,
+        "recordingDurationMs": 667820,
+        "bytes": 8014568,
+        "sha256": "892b47787c28d3d35a8c77e37cc1b879512874145820cbdf2417b84a7e5e4b82",
+        "sharedAyahs": [
+          "13:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "H1dtVly00ys",
+            "start": 2032.2,
+            "end": 2700.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/other-23.mp3",
+        "startMs": 0,
+        "endMs": 1064330,
+        "durationMs": 1064330,
+        "recordingDurationMs": 1064330,
+        "bytes": 12772607,
+        "sha256": "4fbf3876a8bb2c9528ae1e2565bea287e24eda9aba616619bab43480824a5398",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "TlGv-sBnjNE",
+            "start": 26.0,
+            "end": 1090.3
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 495220,
+        "durationMs": 495220,
+        "recordingDurationMs": 495220,
+        "bytes": 5943277,
+        "sha256": "139005285708df4f2dff39aa94aa55f812adee5332fe21dec36d714b5fe88913",
+        "sharedAyahs": [
+          "13:28",
+          "13:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TlGv-sBnjNE",
+            "start": 1090.3,
+            "end": 1585.5
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 1144510,
+        "durationMs": 1144510,
+        "recordingDurationMs": 1144510,
+        "bytes": 13734824,
+        "sha256": "5a5d0452c5be12762d43153564160f4b86eb4046105d958a8651a7c3c018faea",
+        "sharedAyahs": [
+          "13:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "TlGv-sBnjNE",
+            "start": 1585.5,
+            "end": 2730.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 600940,
+        "durationMs": 600940,
+        "recordingDurationMs": 600940,
+        "bytes": 7211912,
+        "sha256": "b32de301a3e71c8e479f50467f37696e73a449900a05fe049593ca6fd308d3cd",
+        "sharedAyahs": [
+          "13:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7WirMZBrkH8",
+            "start": 25.0,
+            "end": 625.9
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 532700,
+        "durationMs": 532700,
+        "recordingDurationMs": 532700,
+        "bytes": 6393128,
+        "sha256": "b013fb585096433e33ef785d76306240e45d059dd83e4e13b996a1a333401538",
+        "sharedAyahs": [
+          "13:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7WirMZBrkH8",
+            "start": 625.9,
+            "end": 1158.6
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 354620,
+        "durationMs": 354620,
+        "recordingDurationMs": 354620,
+        "bytes": 4256168,
+        "sha256": "ada2ed680069b4b136c970106ce295da79d375be926c4d196a1570abbcd28a9e",
+        "sharedAyahs": [
+          "13:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7WirMZBrkH8",
+            "start": 1158.6,
+            "end": 1513.2
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 208630,
+        "durationMs": 208630,
+        "recordingDurationMs": 208630,
+        "bytes": 2504264,
+        "sha256": "44865c4fcee1d984a72906e4ec7f34f351f52799171bf3e4dcee2160d111ce87",
+        "sharedAyahs": [
+          "13:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7WirMZBrkH8",
+            "start": 1513.2,
+            "end": 1721.8
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 968221,
+        "durationMs": 968221,
+        "recordingDurationMs": 1458840,
+        "bytes": 17506503,
+        "sha256": "9b6bd767be2204fcbe9585153792d0c1c80fa2d73e2620b27e5180dcceba4fba",
+        "sharedAyahs": [
+          "13:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "7WirMZBrkH8",
+            "start": 1721.8,
+            "end": 2690.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/035.mp3",
+        "startMs": 968221,
+        "endMs": 1458840,
+        "durationMs": 490619,
+        "recordingDurationMs": 1458840,
+        "bytes": 17506503,
+        "sha256": "9b6bd767be2204fcbe9585153792d0c1c80fa2d73e2620b27e5180dcceba4fba",
+        "sharedAyahs": [
+          "13:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "whg4C3BA--s",
+            "start": 23.5,
+            "end": 514.1
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 669840,
+        "durationMs": 669840,
+        "recordingDurationMs": 669840,
+        "bytes": 8038760,
+        "sha256": "e105e37ce5e2b19b6d8462297e106e53e74d96316dca3afa9b131d1df66fe82e",
+        "sharedAyahs": [
+          "13:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "whg4C3BA--s",
+            "start": 514.1,
+            "end": 1183.9
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 224900,
+        "durationMs": 224900,
+        "recordingDurationMs": 224900,
+        "bytes": 2699528,
+        "sha256": "6cbd252e07cd40ecf709842d2ad9531c470e4d4c0c0350f24953ed07769b3d97",
+        "sharedAyahs": [
+          "13:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "whg4C3BA--s",
+            "start": 1183.9,
+            "end": 1408.8
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 369740,
+        "durationMs": 369740,
+        "recordingDurationMs": 369740,
+        "bytes": 4437608,
+        "sha256": "0637d45002dc30f482136687dca470c457d93bea00c3395e2644a73bcddd8dc0",
+        "sharedAyahs": [
+          "13:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "whg4C3BA--s",
+            "start": 1408.8,
+            "end": 1778.5
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 871510,
+        "durationMs": 871510,
+        "recordingDurationMs": 871510,
+        "bytes": 10458824,
+        "sha256": "d7c3a058f35fa272f01afd97e7bf48cee485fc459550927765bb2568accc98e7",
+        "sharedAyahs": [
+          "13:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "whg4C3BA--s",
+            "start": 1778.5,
+            "end": 2650.0
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 644420,
+        "durationMs": 644420,
+        "recordingDurationMs": 644420,
+        "bytes": 7733768,
+        "sha256": "502f014e0e6e490055abd730842d4d96e022122fab42ea9740fded3724ff9a8d",
+        "sharedAyahs": [
+          "13:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FhMSL3Xdnso",
+            "start": 28.5,
+            "end": 672.9
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 1004020,
+        "durationMs": 1004020,
+        "recordingDurationMs": 1004020,
+        "bytes": 12048872,
+        "sha256": "588eb3785070e726f77f48aa8b86d1ad5df396767d9e6d1cda0f0bfebe162dae",
+        "sharedAyahs": [
+          "13:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FhMSL3Xdnso",
+            "start": 672.9,
+            "end": 1676.9
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 182740,
+        "durationMs": 182740,
+        "recordingDurationMs": 182740,
+        "bytes": 2193512,
+        "sha256": "09227787a41f07a8fe9f7e05f5953af5eb6cca70d5adff10a518277d8527ebbb",
+        "sharedAyahs": [
+          "13:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FhMSL3Xdnso",
+            "start": 1676.9,
+            "end": 1859.6
+          }
+        ]
+      },
+      {
+        "file": "013-الرعد-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 896380,
+        "durationMs": 896380,
+        "recordingDurationMs": 896380,
+        "bytes": 10757192,
+        "sha256": "087027dd13686a086907e23506860c055ab22572f1be194c72b0757515b6a0f2",
+        "sharedAyahs": [
+          "13:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FhMSL3Xdnso",
+            "start": 1859.6,
+            "end": 2755.96
+          }
+        ]
+      }
+    ],
+    "durationMs": 29066260,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "prepared_local"
+}
