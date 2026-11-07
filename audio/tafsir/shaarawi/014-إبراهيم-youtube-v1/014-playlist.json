@@ -1,0 +1,1136 @@
+{
+  "schemaVersion": 2,
+  "surah": 14,
+  "mode": "reused-clips",
+  "durationMs": 29539880,
+  "tracks": [
+    {
+      "file": "014-إبراهيم-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 513530,
+      "durationMs": 513530,
+      "recordingDurationMs": 513530,
+      "bytes": 6163022,
+      "sha256": "43f894ed929f501ff5fc282aeac4e73ddc266707a377e01a3b93b4b442e98f55",
+      "sharedAyahs": [
+        "14:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9tS7HAPcW_Q",
+          "start": 36.5,
+          "end": 550.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 165220,
+      "durationMs": 165220,
+      "recordingDurationMs": 165220,
+      "bytes": 1983278,
+      "sha256": "70aaf30651b1b297167c77de074aa3dc34d3e841a775b899e1f2829ab2f87477",
+      "sharedAyahs": [
+        "14:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9tS7HAPcW_Q",
+          "start": 550.0,
+          "end": 715.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 393530,
+      "durationMs": 393530,
+      "recordingDurationMs": 393530,
+      "bytes": 4723022,
+      "sha256": "4b1c5a550b7c95754267e91f0471a49a63339cd27790caf635285a1ab63d5fc3",
+      "sharedAyahs": [
+        "14:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9tS7HAPcW_Q",
+          "start": 715.2,
+          "end": 1108.7
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 940220,
+      "durationMs": 940220,
+      "recordingDurationMs": 940220,
+      "bytes": 11283374,
+      "sha256": "74d91ebbb9c61c13aea4f38511d794800ee2a303096dbe919ae748b685d5bec5",
+      "sharedAyahs": [
+        "14:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9tS7HAPcW_Q",
+          "start": 1108.7,
+          "end": 2048.9
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 428420,
+      "durationMs": 428420,
+      "recordingDurationMs": 428420,
+      "bytes": 5141774,
+      "sha256": "fcff5bb0d80fe6cdcf4145cb05b68dbc7f516d3c6be1de9ffc3091f51357d6e9",
+      "sharedAyahs": [
+        "14:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9tS7HAPcW_Q",
+          "start": 2048.9,
+          "end": 2477.3
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 280909,
+      "durationMs": 280909,
+      "recordingDurationMs": 461450,
+      "bytes": 5537801,
+      "sha256": "e68a5674a0bea79aebfc9edca8a1e4eb219b35d8fc671d93f49cb77b1fbaedbe",
+      "sharedAyahs": [
+        "14:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9tS7HAPcW_Q",
+          "start": 2477.3,
+          "end": 2758.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/006.mp3",
+      "startMs": 280909,
+      "endMs": 461450,
+      "durationMs": 180541,
+      "recordingDurationMs": 461450,
+      "bytes": 5537801,
+      "sha256": "e68a5674a0bea79aebfc9edca8a1e4eb219b35d8fc671d93f49cb77b1fbaedbe",
+      "sharedAyahs": [
+        "14:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 31.0,
+          "end": 211.5
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 240720,
+      "durationMs": 240720,
+      "recordingDurationMs": 240720,
+      "bytes": 2889326,
+      "sha256": "b49909be6bbae43420179e129f2b6e6bda0fe8b64802077bed43472d6323f20b",
+      "sharedAyahs": [
+        "14:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 211.5,
+          "end": 452.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 59420,
+      "durationMs": 59420,
+      "recordingDurationMs": 59420,
+      "bytes": 713774,
+      "sha256": "697d76473de6afca6ec6aeb1a65606826fd0cdf0f0214e9dd7ed27804eceeb2b",
+      "sharedAyahs": [
+        "14:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 452.2,
+          "end": 511.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 317520,
+      "durationMs": 317520,
+      "recordingDurationMs": 317520,
+      "bytes": 3810926,
+      "sha256": "e914cfdc7a11f82b32bf62b438962611b24e4e94b7f9e23855a7f9e8cb40e5e7",
+      "sharedAyahs": [
+        "14:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 511.6,
+          "end": 829.1
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 933020,
+      "durationMs": 933020,
+      "recordingDurationMs": 933020,
+      "bytes": 11196976,
+      "sha256": "f547fefe9c34bc664db8be9ae075b0bf4566f684f7345d99b48eae2afad6f58c",
+      "sharedAyahs": [
+        "14:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 829.1,
+          "end": 1762.1
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 129620,
+      "durationMs": 129620,
+      "recordingDurationMs": 129620,
+      "bytes": 1556176,
+      "sha256": "e011b9f530c5a74930d2aa09d038aa90988cb57b89fe1a6819958e0f73963ee7",
+      "sharedAyahs": [
+        "14:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 1762.1,
+          "end": 1891.7
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 211820,
+      "durationMs": 211820,
+      "recordingDurationMs": 211820,
+      "bytes": 2542576,
+      "sha256": "af0a777191250d60eae817b7cc27f4eb47f2a023fc35157a220086e5145fe2ad",
+      "sharedAyahs": [
+        "14:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 1891.7,
+          "end": 2103.5
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 148130,
+      "durationMs": 148130,
+      "recordingDurationMs": 148130,
+      "bytes": 1778229,
+      "sha256": "9fdb55bda72cd3f9346b0d048bbd1a100b70032fa06fa74ac5b2fabdd6bb330b",
+      "sharedAyahs": [
+        "14:13",
+        "14:14",
+        "14:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 2103.5,
+          "end": 2251.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 183620,
+      "durationMs": 183620,
+      "recordingDurationMs": 183620,
+      "bytes": 2204176,
+      "sha256": "b3cb0b324b87f51a368e815be6caae6c02f68680820617907bcc0127e379aa5f",
+      "sharedAyahs": [
+        "14:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 2251.6,
+          "end": 2435.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 213820,
+      "durationMs": 213820,
+      "recordingDurationMs": 213820,
+      "bytes": 2566480,
+      "sha256": "0443e3b713db1b0b1793664db6d0c356f009438762788d517fd51f1f6ae870e1",
+      "sharedAyahs": [
+        "14:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 2435.2,
+          "end": 2649.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 80930,
+      "durationMs": 80930,
+      "recordingDurationMs": 80930,
+      "bytes": 971824,
+      "sha256": "be4384b46fc00a78a482161441b8caf94246735aed183e0470c4d60b59ef2978",
+      "sharedAyahs": [
+        "14:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 2649.0,
+          "end": 2729.9
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 56317,
+      "durationMs": 56317,
+      "recordingDurationMs": 1128550,
+      "bytes": 13543056,
+      "sha256": "39525866b35b8e4ec99152ca24a59a2b1411f8cc3bc141d97b952da04e5e84d5",
+      "sharedAyahs": [
+        "14:19",
+        "14:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EbYCUUrK6KE",
+          "start": 2729.9,
+          "end": 2786.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/019.mp3",
+      "startMs": 56317,
+      "endMs": 1128550,
+      "durationMs": 1072233,
+      "recordingDurationMs": 1128550,
+      "bytes": 13543056,
+      "sha256": "39525866b35b8e4ec99152ca24a59a2b1411f8cc3bc141d97b952da04e5e84d5",
+      "sharedAyahs": [
+        "14:19",
+        "14:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Fq0VvQlt6ys",
+          "start": 33.4,
+          "end": 1105.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 1128530,
+      "durationMs": 1128530,
+      "recordingDurationMs": 1128530,
+      "bytes": 13543024,
+      "sha256": "fa558b661eb98ffe7d68ad9da01d92c3f19e67379363628621721251e54961db",
+      "sharedAyahs": [
+        "14:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Fq0VvQlt6ys",
+          "start": 1105.6,
+          "end": 2234.1
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 332317,
+      "durationMs": 332317,
+      "recordingDurationMs": 1131050,
+      "bytes": 13573003,
+      "sha256": "c5b3189ae5c00a810ac50b00be2e17f7725559acf0719bb6adbfd546ab686bb2",
+      "sharedAyahs": [
+        "14:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Fq0VvQlt6ys",
+          "start": 2234.1,
+          "end": 2566.4
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/022.mp3",
+      "startMs": 332317,
+      "endMs": 1131050,
+      "durationMs": 798733,
+      "recordingDurationMs": 1131050,
+      "bytes": 13573003,
+      "sha256": "c5b3189ae5c00a810ac50b00be2e17f7725559acf0719bb6adbfd546ab686bb2",
+      "sharedAyahs": [
+        "14:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "njSlfZyUW8M",
+          "start": 32.7,
+          "end": 831.4
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 706540,
+      "durationMs": 706540,
+      "recordingDurationMs": 706540,
+      "bytes": 8479120,
+      "sha256": "e0fd2c3f46a67221d73350e8e4dded0adf93f8ee2daa829f178621d12e3df746",
+      "sharedAyahs": [
+        "14:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "njSlfZyUW8M",
+          "start": 831.4,
+          "end": 1537.9
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 34693,
+      "durationMs": 34693,
+      "recordingDurationMs": 935520,
+      "bytes": 11226672,
+      "sha256": "d705ab8559c268ddd8f9acb0670006e5b527a62deb8c3c6528e3f587b8d733e9",
+      "sharedAyahs": [
+        "14:24",
+        "14:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "njSlfZyUW8M",
+          "start": 1537.9,
+          "end": 1572.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/024.mp3",
+      "startMs": 34693,
+      "endMs": 935520,
+      "durationMs": 900827,
+      "recordingDurationMs": 935520,
+      "bytes": 11226672,
+      "sha256": "d705ab8559c268ddd8f9acb0670006e5b527a62deb8c3c6528e3f587b8d733e9",
+      "sharedAyahs": [
+        "14:24",
+        "14:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xn0OA0qcExI",
+          "start": 25.0,
+          "end": 925.8
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 751730,
+      "durationMs": 751730,
+      "recordingDurationMs": 751730,
+      "bytes": 9021424,
+      "sha256": "80c23a45cc8189a805dbb0e0e1e61d5c0dd2c654434c7ede0b55109cfc96491d",
+      "sharedAyahs": [
+        "14:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xn0OA0qcExI",
+          "start": 925.8,
+          "end": 1677.5
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 1406140,
+      "durationMs": 1406140,
+      "recordingDurationMs": 1406140,
+      "bytes": 16874320,
+      "sha256": "ec81c050d71f03892faa888b6e0b6adb325407453e0fe5a6d2b3bd4b1f2992e6",
+      "sharedAyahs": [
+        "14:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nN2AJscYj7c",
+          "start": 30.6,
+          "end": 1436.7
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 241621,
+      "durationMs": 241621,
+      "recordingDurationMs": 634150,
+      "bytes": 7610251,
+      "sha256": "77c3b0f162775e6aefeb92972172d156d58bbb7bfd365085349c5ed8d126ac73",
+      "sharedAyahs": [
+        "14:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nN2AJscYj7c",
+          "start": 1436.7,
+          "end": 1678.3
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/028.mp3",
+      "startMs": 241621,
+      "endMs": 634150,
+      "durationMs": 392529,
+      "recordingDurationMs": 634150,
+      "bytes": 7610251,
+      "sha256": "77c3b0f162775e6aefeb92972172d156d58bbb7bfd365085349c5ed8d126ac73",
+      "sharedAyahs": [
+        "14:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "E6_R3T91B5U",
+          "start": 24.5,
+          "end": 417.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 66340,
+      "durationMs": 66340,
+      "recordingDurationMs": 66340,
+      "bytes": 796720,
+      "sha256": "2b9c339f07a6d62c054f2c0a9f22dd0b9c821f08c37693024907035b614216f1",
+      "sharedAyahs": [
+        "14:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "E6_R3T91B5U",
+          "start": 417.0,
+          "end": 483.3
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 802220,
+      "durationMs": 802220,
+      "recordingDurationMs": 802220,
+      "bytes": 9627376,
+      "sha256": "dcbe8ddd3c2a0177aa167b375326acce24f2aceb50856e7090cb33d9460ddff7",
+      "sharedAyahs": [
+        "14:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "E6_R3T91B5U",
+          "start": 483.3,
+          "end": 1285.5
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/031.mp3",
+      "startMs": 0,
+      "endMs": 379621,
+      "durationMs": 379621,
+      "recordingDurationMs": 1607400,
+      "bytes": 19289227,
+      "sha256": "2910a45207cf8ec2f8fa7b2b41aee07a5029bea35be5d4fec500be4532f9fa91",
+      "sharedAyahs": [
+        "14:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "E6_R3T91B5U",
+          "start": 1285.5,
+          "end": 1665.1
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/031.mp3",
+      "startMs": 379621,
+      "endMs": 1607400,
+      "durationMs": 1227779,
+      "recordingDurationMs": 1607400,
+      "bytes": 19289227,
+      "sha256": "2910a45207cf8ec2f8fa7b2b41aee07a5029bea35be5d4fec500be4532f9fa91",
+      "sharedAyahs": [
+        "14:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VPbxCTiB9kA",
+          "start": 31.46,
+          "end": 1259.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 443821,
+      "durationMs": 443821,
+      "recordingDurationMs": 1061760,
+      "bytes": 12741547,
+      "sha256": "59576d032a2b2555ebc7083913fa5a99cbd3a968806d7a0dee20c14a25ce1213",
+      "sharedAyahs": [
+        "14:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VPbxCTiB9kA",
+          "start": 1259.2,
+          "end": 1703.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/032.mp3",
+      "startMs": 443821,
+      "endMs": 1061760,
+      "durationMs": 617939,
+      "recordingDurationMs": 1061760,
+      "bytes": 12741547,
+      "sha256": "59576d032a2b2555ebc7083913fa5a99cbd3a968806d7a0dee20c14a25ce1213",
+      "sharedAyahs": [
+        "14:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "39xcrm1TY-w",
+          "start": 25.0,
+          "end": 642.9
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 1082110,
+      "durationMs": 1082110,
+      "recordingDurationMs": 1082110,
+      "bytes": 12986032,
+      "sha256": "60e6c10b0737e80e8749b2d9f707cbe9aeae600cbb2f5212d8bbc5e55f997990",
+      "sharedAyahs": [
+        "14:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "39xcrm1TY-w",
+          "start": 642.9,
+          "end": 1725.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/034.mp3",
+      "startMs": 0,
+      "endMs": 1515480,
+      "durationMs": 1515480,
+      "recordingDurationMs": 1515480,
+      "bytes": 18186448,
+      "sha256": "76ee994f22c6b4ce997e27b9a715a9fab65c9ed7f5b0f8127abe9f2fb7727892",
+      "sharedAyahs": [
+        "14:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "L_viple0Bnw",
+          "start": 34.55,
+          "end": 1550.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 135997,
+      "durationMs": 135997,
+      "recordingDurationMs": 936480,
+      "bytes": 11238187,
+      "sha256": "b41881a0143fce1e4c922731fd572ef5960168c1fe1c7261f46f67223767d67b",
+      "sharedAyahs": [
+        "14:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "L_viple0Bnw",
+          "start": 1550.0,
+          "end": 1686.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/035.mp3",
+      "startMs": 135997,
+      "endMs": 936480,
+      "durationMs": 800483,
+      "recordingDurationMs": 936480,
+      "bytes": 11238187,
+      "sha256": "b41881a0143fce1e4c922731fd572ef5960168c1fe1c7261f46f67223767d67b",
+      "sharedAyahs": [
+        "14:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zULmkJPKpD0",
+          "start": 26.14,
+          "end": 826.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 544630,
+      "durationMs": 544630,
+      "recordingDurationMs": 544630,
+      "bytes": 6536272,
+      "sha256": "a5becfd295706c4e187e7a8ca5246411a8f98c9a3210415c3439a4ba322f0d6a",
+      "sharedAyahs": [
+        "14:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zULmkJPKpD0",
+          "start": 826.6,
+          "end": 1371.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 277309,
+      "durationMs": 277309,
+      "recordingDurationMs": 854540,
+      "bytes": 10254955,
+      "sha256": "57bd196e4e57c4bb4a03884618b6fac786ae539770f29a8d092ff0c6266964a7",
+      "sharedAyahs": [
+        "14:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zULmkJPKpD0",
+          "start": 1371.2,
+          "end": 1648.5
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/037.mp3",
+      "startMs": 277309,
+      "endMs": 854540,
+      "durationMs": 577231,
+      "recordingDurationMs": 854540,
+      "bytes": 10254955,
+      "sha256": "57bd196e4e57c4bb4a03884618b6fac786ae539770f29a8d092ff0c6266964a7",
+      "sharedAyahs": [
+        "14:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gBqZkcc7NhM",
+          "start": 25.4,
+          "end": 602.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 371330,
+      "durationMs": 371330,
+      "recordingDurationMs": 371330,
+      "bytes": 4456624,
+      "sha256": "95bb4c1c1514f78c24e8120f12a203fa236fddf53bab4fb46d3c15cc7ea69082",
+      "sharedAyahs": [
+        "14:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gBqZkcc7NhM",
+          "start": 602.6,
+          "end": 973.9
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 441620,
+      "durationMs": 441620,
+      "recordingDurationMs": 441620,
+      "bytes": 5300181,
+      "sha256": "3bed7cf84204f191f4ac48c877a2ce89e4e2199955f7968e75714f4df4875aae",
+      "sharedAyahs": [
+        "14:39",
+        "14:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gBqZkcc7NhM",
+          "start": 973.9,
+          "end": 1415.5
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 150020,
+      "durationMs": 150020,
+      "recordingDurationMs": 150020,
+      "bytes": 1800976,
+      "sha256": "911920f695ba45562043ca1e06e4ca1a83b23f6c138cea22399a60adcd6dfdc9",
+      "sharedAyahs": [
+        "14:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gBqZkcc7NhM",
+          "start": 1415.5,
+          "end": 1565.5
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 119197,
+      "durationMs": 119197,
+      "recordingDurationMs": 1758550,
+      "bytes": 21103051,
+      "sha256": "a12ae0ec487783201fc6ae372974268e54c0737d76ddaad553af491cda76de02",
+      "sharedAyahs": [
+        "14:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gBqZkcc7NhM",
+          "start": 1565.5,
+          "end": 1684.7
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/042.mp3",
+      "startMs": 119197,
+      "endMs": 1758550,
+      "durationMs": 1639353,
+      "recordingDurationMs": 1758550,
+      "bytes": 21103051,
+      "sha256": "a12ae0ec487783201fc6ae372974268e54c0737d76ddaad553af491cda76de02",
+      "sharedAyahs": [
+        "14:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SxnsbIsimWU",
+          "start": 37.67,
+          "end": 1677.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 529680,
+      "durationMs": 529680,
+      "recordingDurationMs": 529680,
+      "bytes": 6356848,
+      "sha256": "7ecbc1e658b49b6ae7e53073b3279f16e1f12b236fb3b94e59fa2c4e409b55ed",
+      "sharedAyahs": [
+        "14:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eGHnP8uHap4",
+          "start": 74.75,
+          "end": 604.4
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 437210,
+      "durationMs": 437210,
+      "recordingDurationMs": 437210,
+      "bytes": 5247184,
+      "sha256": "a7f76d7f27100a77b365f44a8fab2e709dcf7e62d62a7688cbc28807d9d49175",
+      "sharedAyahs": [
+        "14:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eGHnP8uHap4",
+          "start": 604.4,
+          "end": 1041.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 255430,
+      "durationMs": 255430,
+      "recordingDurationMs": 255430,
+      "bytes": 3065872,
+      "sha256": "81983d835d6c69cf39a5f502d6ce9d888c168b8213fbb3605ebad1eacda0d3d6",
+      "sharedAyahs": [
+        "14:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eGHnP8uHap4",
+          "start": 1041.6,
+          "end": 1297.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 396613,
+      "durationMs": 396613,
+      "recordingDurationMs": 935140,
+      "bytes": 11222059,
+      "sha256": "e3f8ad2eb40415b91b95fd78acc2b4350d9d4b618b2613cf379bea85a9dc90bb",
+      "sharedAyahs": [
+        "14:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eGHnP8uHap4",
+          "start": 1297.0,
+          "end": 1693.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/046.mp3",
+      "startMs": 396613,
+      "endMs": 935140,
+      "durationMs": 538527,
+      "recordingDurationMs": 935140,
+      "bytes": 11222059,
+      "sha256": "e3f8ad2eb40415b91b95fd78acc2b4350d9d4b618b2613cf379bea85a9dc90bb",
+      "sharedAyahs": [
+        "14:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gtrx1y1lSIg",
+          "start": 38.09,
+          "end": 576.6
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 202630,
+      "durationMs": 202630,
+      "recordingDurationMs": 202630,
+      "bytes": 2432272,
+      "sha256": "61fb051958494aac0196b553333e5991ef267c55c77add59d4c8025faab6f11f",
+      "sharedAyahs": [
+        "14:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gtrx1y1lSIg",
+          "start": 576.6,
+          "end": 779.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 578140,
+      "durationMs": 578140,
+      "recordingDurationMs": 578140,
+      "bytes": 6938320,
+      "sha256": "7be61098482864fa4ccca6f140f64c5890ceaa045e8e7d348755b2de85f8cc88",
+      "sharedAyahs": [
+        "14:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gtrx1y1lSIg",
+          "start": 779.2,
+          "end": 1357.3
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 221810,
+      "durationMs": 221810,
+      "recordingDurationMs": 221810,
+      "bytes": 2662384,
+      "sha256": "eba5a01ced115604d3c4d18b2c80cc0b346df8ab25b3b87b9adf76b1ba8de210",
+      "sharedAyahs": [
+        "14:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gtrx1y1lSIg",
+          "start": 1357.3,
+          "end": 1579.1
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 81925,
+      "durationMs": 81925,
+      "recordingDurationMs": 230830,
+      "bytes": 2770411,
+      "sha256": "6b4529793f99799a128639052618942c3232e667f5ff683794df2983f67c241e",
+      "sharedAyahs": [
+        "14:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gtrx1y1lSIg",
+          "start": 1579.1,
+          "end": 1661.0
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/050.mp3",
+      "startMs": 81925,
+      "endMs": 230830,
+      "durationMs": 148905,
+      "recordingDurationMs": 230830,
+      "bytes": 2770411,
+      "sha256": "6b4529793f99799a128639052618942c3232e667f5ff683794df2983f67c241e",
+      "sharedAyahs": [
+        "14:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I1J4QMsabAg",
+          "start": 32.43,
+          "end": 181.3
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 506900,
+      "durationMs": 506900,
+      "recordingDurationMs": 506900,
+      "bytes": 6083536,
+      "sha256": "7d9d195f32566f61b718a6aedf685247a22550438fabeade5534ae0711f40214",
+      "sharedAyahs": [
+        "14:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I1J4QMsabAg",
+          "start": 181.3,
+          "end": 688.2
+        }
+      ]
+    },
+    {
+      "file": "014-إبراهيم-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 1206430,
+      "durationMs": 1206430,
+      "recordingDurationMs": 1206430,
+      "bytes": 14477872,
+      "sha256": "20ee8c86155f527dcba742fb5153edb4f913374e66c4faa32aca52fb0c0904f4",
+      "sharedAyahs": [
+        "14:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "I1J4QMsabAg",
+          "start": 688.2,
+          "end": 1894.6
+        }
+      ]
+    }
+  ]
+}
