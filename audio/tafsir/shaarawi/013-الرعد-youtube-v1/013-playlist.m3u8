@@ -1,0 +1,170 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:2619.973,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2619.973
+002.mp3
+#EXTINF:688.017,خواطر سورة الرعد
+#EXTVLCOPT:start-time=2619.973
+#EXTVLCOPT:stop-time=3307.990
+002.mp3
+#EXTINF:1994.420,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1994.420
+003.mp3
+#EXTINF:1370.210,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1370.210
+004.mp3
+#EXTINF:1283.330,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1283.330
+005.mp3
+#EXTINF:439.220,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=439.220
+006.mp3
+#EXTINF:605.930,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=605.930
+007.mp3
+#EXTINF:1250.330,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1250.330
+008.mp3
+#EXTINF:258.820,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=258.820
+010.mp3
+#EXTINF:71.317,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=71.317
+011.mp3
+#EXTINF:1036.233,خواطر سورة الرعد
+#EXTVLCOPT:start-time=71.317
+#EXTVLCOPT:stop-time=1107.550
+011.mp3
+#EXTINF:421.320,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=421.320
+012.mp3
+#EXTINF:1133.040,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1133.040
+013.mp3
+#EXTINF:454.920,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=454.920
+014.mp3
+#EXTINF:313.130,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=313.130
+015.mp3
+#EXTINF:378.220,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=378.220
+016.mp3
+#EXTINF:515.640,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=515.640
+017.mp3
+#EXTINF:282.500,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=282.500
+018.mp3
+#EXTINF:191.640,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=191.640
+019.mp3
+#EXTINF:240.410,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=240.410
+021.mp3
+#EXTINF:118.220,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=118.220
+022.mp3
+#EXTINF:523.940,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=523.940
+024.mp3
+#EXTINF:368.900,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=368.900
+025.mp3
+#EXTINF:1115.420,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1115.420
+026.mp3
+#EXTINF:667.820,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=667.820
+027.mp3
+#EXTINF:1064.330,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1064.330
+other-23.mp3
+#EXTINF:495.220,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=495.220
+028.mp3
+#EXTINF:1144.510,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1144.510
+030.mp3
+#EXTINF:600.940,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=600.940
+031.mp3
+#EXTINF:532.700,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=532.700
+032.mp3
+#EXTINF:354.620,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=354.620
+033.mp3
+#EXTINF:208.630,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=208.630
+034.mp3
+#EXTINF:968.221,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=968.221
+035.mp3
+#EXTINF:490.619,خواطر سورة الرعد
+#EXTVLCOPT:start-time=968.221
+#EXTVLCOPT:stop-time=1458.840
+035.mp3
+#EXTINF:669.840,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=669.840
+036.mp3
+#EXTINF:224.900,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=224.900
+037.mp3
+#EXTINF:369.740,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=369.740
+038.mp3
+#EXTINF:871.510,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=871.510
+039.mp3
+#EXTINF:644.420,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=644.420
+040.mp3
+#EXTINF:1004.020,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1004.020
+041.mp3
+#EXTINF:182.740,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=182.740
+042.mp3
+#EXTINF:896.380,خواطر سورة الرعد
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=896.380
+043.mp3
