@@ -1,0 +1,358 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:392.830,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=392.830
+other-00.mp3
+#EXTINF:404.520,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=404.520
+001.mp3
+#EXTINF:580.320,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=580.320
+002.mp3
+#EXTINF:401.760,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=401.760
+003.mp3
+#EXTINF:270.340,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=270.340
+004.mp3
+#EXTINF:16.220,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=16.220
+005.mp3
+#EXTINF:696.220,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=696.220
+006.mp3
+#EXTINF:238.630,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=238.630
+007.mp3
+#EXTINF:35.893,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=35.893
+008.mp3
+#EXTINF:91.207,خواطر سورة الحجر
+#EXTVLCOPT:start-time=35.893
+#EXTVLCOPT:stop-time=127.100
+008.mp3
+#EXTINF:519.940,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=519.940
+009.mp3
+#EXTINF:97.730,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=97.730
+010.mp3
+#EXTINF:322.010,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=322.010
+011.mp3
+#EXTINF:270.940,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=270.940
+012.mp3
+#EXTINF:167.620,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=167.620
+013.mp3
+#EXTINF:135.325,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=135.325
+014.mp3
+#EXTINF:72.085,خواطر سورة الحجر
+#EXTVLCOPT:start-time=135.325
+#EXTVLCOPT:stop-time=207.410
+014.mp3
+#EXTINF:481.920,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=481.920
+016.mp3
+#EXTINF:167.230,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=167.230
+017.mp3
+#EXTINF:627.020,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=627.020
+018.mp3
+#EXTINF:39.120,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=39.120
+019.mp3
+#EXTINF:184.093,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=184.093
+021.mp3
+#EXTINF:1433.127,خواطر سورة الحجر
+#EXTVLCOPT:start-time=184.093
+#EXTVLCOPT:stop-time=1617.220
+021.mp3
+#EXTINF:131.020,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=131.020
+022.mp3
+#EXTINF:103.981,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=103.981
+023.mp3
+#EXTINF:248.239,خواطر سورة الحجر
+#EXTVLCOPT:start-time=103.981
+#EXTVLCOPT:stop-time=352.220
+023.mp3
+#EXTINF:393.340,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=393.340
+024.mp3
+#EXTINF:213.910,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=213.910
+025.mp3
+#EXTINF:371.640,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=371.640
+026.mp3
+#EXTINF:431.725,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=431.725
+028.mp3
+#EXTINF:1003.700,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1003.700
+other-25.mp3
+#EXTINF:702.192,خواطر سورة الحجر
+#EXTVLCOPT:start-time=431.725
+#EXTVLCOPT:stop-time=1133.917
+028.mp3
+#EXTINF:124.593,خواطر سورة الحجر
+#EXTVLCOPT:start-time=1133.917
+#EXTVLCOPT:stop-time=1258.510
+028.mp3
+#EXTINF:24.340,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=24.340
+030.mp3
+#EXTINF:360.220,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=360.220
+031.mp3
+#EXTINF:243.620,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=243.620
+033.mp3
+#EXTINF:55.130,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=55.130
+034.mp3
+#EXTINF:27.120,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=27.120
+036.mp3
+#EXTINF:361.220,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=361.220
+039.mp3
+#EXTINF:357.829,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=357.829
+040.mp3
+#EXTINF:318.831,خواطر سورة الحجر
+#EXTVLCOPT:start-time=357.829
+#EXTVLCOPT:stop-time=676.660
+040.mp3
+#EXTINF:193.220,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=193.220
+043.mp3
+#EXTINF:167.230,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=167.230
+045.mp3
+#EXTINF:327.720,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=327.720
+047.mp3
+#EXTINF:205.220,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=205.220
+048.mp3
+#EXTINF:49.220,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=49.220
+049.mp3
+#EXTINF:286.540,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=286.540
+050.mp3
+#EXTINF:91.429,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=91.429
+051.mp3
+#EXTINF:170.071,خواطر سورة الحجر
+#EXTVLCOPT:start-time=91.429
+#EXTVLCOPT:stop-time=261.500
+051.mp3
+#EXTINF:175.920,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=175.920
+052.mp3
+#EXTINF:29.810,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=29.810
+053.mp3
+#EXTINF:255.240,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=255.240
+054.mp3
+#EXTINF:180.620,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=180.620
+055.mp3
+#EXTINF:84.910,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=84.910
+056.mp3
+#EXTINF:89.420,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=89.420
+057.mp3
+#EXTINF:383.830,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=383.830
+058.mp3
+#EXTINF:54.120,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=54.120
+061.mp3
+#EXTINF:45.340,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=45.340
+063.mp3
+#EXTINF:220.237,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=220.237
+065.mp3
+#EXTINF:263.793,خواطر سورة الحجر
+#EXTVLCOPT:start-time=220.237
+#EXTVLCOPT:stop-time=484.030
+065.mp3
+#EXTINF:165.430,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=165.430
+066.mp3
+#EXTINF:91.420,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=91.420
+067.mp3
+#EXTINF:158.740,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=158.740
+068.mp3
+#EXTINF:25.920,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=25.920
+070.mp3
+#EXTINF:101.740,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=101.740
+071.mp3
+#EXTINF:234.720,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=234.720
+072.mp3
+#EXTINF:36.720,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=36.720
+073.mp3
+#EXTINF:205.130,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=205.130
+075.mp3
+#EXTINF:143.620,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=143.620
+078.mp3
+#EXTINF:229.957,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=229.957
+080.mp3
+#EXTINF:514.213,خواطر سورة الحجر
+#EXTVLCOPT:start-time=229.957
+#EXTVLCOPT:stop-time=744.170
+080.mp3
+#EXTINF:76.030,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=76.030
+082.mp3
+#EXTINF:56.300,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=56.300
+084.mp3
+#EXTINF:411.430,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=411.430
+085.mp3
+#EXTINF:431.140,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=431.140
+086.mp3
+#EXTINF:153.733,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=153.733
+087.mp3
+#EXTINF:274.700,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=274.700
+other-65.mp3
+#EXTINF:910.957,خواطر سورة الحجر
+#EXTVLCOPT:start-time=153.733
+#EXTVLCOPT:stop-time=1064.690
+087.mp3
+#EXTINF:86.520,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=86.520
+089.mp3
+#EXTINF:402.421,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=402.421
+090.mp3
+#EXTINF:46.239,خواطر سورة الحجر
+#EXTVLCOPT:start-time=402.421
+#EXTVLCOPT:stop-time=448.660
+090.mp3
+#EXTINF:514.510,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=514.510
+092.mp3
+#EXTINF:164.520,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=164.520
+094.mp3
+#EXTINF:232.030,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=232.030
+095.mp3
+#EXTINF:134.740,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=134.740
+096.mp3
+#EXTINF:380.110,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=380.110
+097.mp3
+#EXTINF:121.789,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=121.789
+098.mp3
+#EXTINF:399.731,خواطر سورة الحجر
+#EXTVLCOPT:start-time=121.789
+#EXTVLCOPT:stop-time=521.520
+098.mp3
+#EXTINF:1237.990,خواطر سورة الحجر
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1237.990
+099.mp3
