@@ -1,0 +1,594 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:1090.130,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1090.130
+001.mp3
+#EXTINF:709.920,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=709.920
+002.mp3
+#EXTINF:340.580,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=340.580
+003.mp3
+#EXTINF:1543.130,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1543.130
+004.mp3
+#EXTINF:98.930,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=98.930
+005.mp3
+#EXTINF:209.930,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=209.930
+006.mp3
+#EXTINF:639.310,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=639.310
+007.mp3
+#EXTINF:134.267,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=134.267
+008.mp3
+#EXTINF:412.913,خواطر سورة النحل
+#EXTVLCOPT:start-time=134.267
+#EXTVLCOPT:stop-time=547.180
+008.mp3
+#EXTINF:850.320,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=850.320
+009.mp3
+#EXTINF:358.920,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=358.920
+010.mp3
+#EXTINF:367.320,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=367.320
+011.mp3
+#EXTINF:551.147,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=551.147
+012.mp3
+#EXTINF:248.513,خواطر سورة النحل
+#EXTVLCOPT:start-time=551.147
+#EXTVLCOPT:stop-time=799.660
+012.mp3
+#EXTINF:736.630,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=736.630
+013.mp3
+#EXTINF:1504.420,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1504.420
+014.mp3
+#EXTINF:191.147,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=191.147
+015.mp3
+#EXTINF:212.513,خواطر سورة النحل
+#EXTVLCOPT:start-time=191.147
+#EXTVLCOPT:stop-time=403.660
+015.mp3
+#EXTINF:214.730,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=214.730
+016.mp3
+#EXTINF:763.030,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=763.030
+017.mp3
+#EXTINF:461.520,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=461.520
+018.mp3
+#EXTINF:91.420,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=91.420
+019.mp3
+#EXTINF:150.430,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=150.430
+020.mp3
+#EXTINF:165.430,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=165.430
+021.mp3
+#EXTINF:539.330,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=539.330
+022.mp3
+#EXTINF:101.003,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=101.003
+023.mp3
+#EXTINF:342.107,خواطر سورة النحل
+#EXTVLCOPT:start-time=101.003
+#EXTVLCOPT:stop-time=443.110
+023.mp3
+#EXTINF:362.740,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=362.740
+024.mp3
+#EXTINF:529.920,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=529.920
+025.mp3
+#EXTINF:799.420,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=799.420
+026.mp3
+#EXTINF:646.523,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=646.523
+027.mp3
+#EXTINF:670.307,خواطر سورة النحل
+#EXTVLCOPT:start-time=646.523
+#EXTVLCOPT:stop-time=1316.830
+027.mp3
+#EXTINF:567.620,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=567.620
+028.mp3
+#EXTINF:109.940,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=109.940
+029.mp3
+#EXTINF:903.620,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=903.620
+030.mp3
+#EXTINF:412.475,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=412.475
+031.mp3
+#EXTINF:450.105,خواطر سورة النحل
+#EXTVLCOPT:start-time=412.475
+#EXTVLCOPT:stop-time=862.580
+031.mp3
+#EXTINF:399.140,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=399.140
+032.mp3
+#EXTINF:257.810,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=257.810
+033.mp3
+#EXTINF:487.630,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=487.630
+034.mp3
+#EXTINF:1033.030,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1033.030
+035.mp3
+#EXTINF:51.155,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=51.155
+036.mp3
+#EXTINF:1660.215,خواطر سورة النحل
+#EXTVLCOPT:start-time=51.155
+#EXTVLCOPT:stop-time=1711.370
+036.mp3
+#EXTINF:69.720,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=69.720
+037.mp3
+#EXTINF:503.230,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=503.230
+038.mp3
+#EXTINF:198.620,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=198.620
+039.mp3
+#EXTINF:137.020,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=137.020
+040.mp3
+#EXTINF:80.387,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=80.387
+041.mp3
+#EXTINF:1364.723,خواطر سورة النحل
+#EXTVLCOPT:start-time=80.387
+#EXTVLCOPT:stop-time=1445.110
+041.mp3
+#EXTINF:382.420,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=382.420
+042.mp3
+#EXTINF:691.030,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=691.030
+043.mp3
+#EXTINF:227.267,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=227.267
+044.mp3
+#EXTINF:803.633,خواطر سورة النحل
+#EXTVLCOPT:start-time=227.267
+#EXTVLCOPT:stop-time=1030.900
+044.mp3
+#EXTINF:430.220,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=430.220
+045.mp3
+#EXTINF:314.620,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=314.620
+046.mp3
+#EXTINF:380.110,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=380.110
+047.mp3
+#EXTINF:665.300,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=665.300
+048.mp3
+#EXTINF:320.330,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=320.330
+049.mp3
+#EXTINF:951.120,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=951.120
+050.mp3
+#EXTINF:528.620,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=528.620
+051.mp3
+#EXTINF:782.579,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=782.579
+052.mp3
+#EXTINF:342.611,خواطر سورة النحل
+#EXTVLCOPT:start-time=782.579
+#EXTVLCOPT:stop-time=1125.190
+052.mp3
+#EXTINF:338.640,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=338.640
+053.mp3
+#EXTINF:258.500,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=258.500
+054.mp3
+#EXTINF:160.220,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=160.220
+055.mp3
+#EXTINF:143.930,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=143.930
+056.mp3
+#EXTINF:122.930,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=122.930
+057.mp3
+#EXTINF:283.630,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=283.630
+058.mp3
+#EXTINF:336.410,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=336.410
+059.mp3
+#EXTINF:233.740,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=233.740
+060.mp3
+#EXTINF:229.730,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=229.730
+061.mp3
+#EXTINF:259.403,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=259.403
+062.mp3
+#EXTINF:32.217,خواطر سورة النحل
+#EXTVLCOPT:start-time=259.403
+#EXTVLCOPT:stop-time=291.620
+062.mp3
+#EXTINF:242.110,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=242.110
+063.mp3
+#EXTINF:664.440,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=664.440
+064.mp3
+#EXTINF:499.510,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=499.510
+065.mp3
+#EXTINF:561.940,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=561.940
+066.mp3
+#EXTINF:655.763,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=655.763
+067.mp3
+#EXTINF:637.907,خواطر سورة النحل
+#EXTVLCOPT:start-time=655.763
+#EXTVLCOPT:stop-time=1293.670
+067.mp3
+#EXTINF:549.240,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=549.240
+068.mp3
+#EXTINF:1162.920,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1162.920
+069.mp3
+#EXTINF:108.020,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=108.020
+070.mp3
+#EXTINF:178.475,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=178.475
+071.mp3
+#EXTINF:1116.925,خواطر سورة النحل
+#EXTVLCOPT:start-time=178.475
+#EXTVLCOPT:stop-time=1295.400
+071.mp3
+#EXTINF:1208.110,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1208.110
+072.mp3
+#EXTINF:318.155,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=318.155
+073.mp3
+#EXTINF:591.015,خواطر سورة النحل
+#EXTVLCOPT:start-time=318.155
+#EXTVLCOPT:stop-time=909.170
+073.mp3
+#EXTINF:609.120,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=609.120
+074.mp3
+#EXTINF:714.840,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=714.840
+075.mp3
+#EXTINF:491.710,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=491.710
+076.mp3
+#EXTINF:259.811,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=259.811
+077.mp3
+#EXTINF:759.829,خواطر سورة النحل
+#EXTVLCOPT:start-time=259.811
+#EXTVLCOPT:stop-time=1019.640
+077.mp3
+#EXTINF:1072.610,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1072.610
+078.mp3
+#EXTINF:219.530,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=219.530
+079.mp3
+#EXTINF:298.220,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=298.220
+080.mp3
+#EXTINF:301.139,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=301.139
+081.mp3
+#EXTINF:1411.621,خواطر سورة النحل
+#EXTVLCOPT:start-time=301.139
+#EXTVLCOPT:stop-time=1712.760
+081.mp3
+#EXTINF:7.730,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=7.730
+082.mp3
+#EXTINF:129.820,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=129.820
+083.mp3
+#EXTINF:125.520,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=125.520
+084.mp3
+#EXTINF:125.520,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=125.520
+085.mp3
+#EXTINF:126.020,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=126.020
+086.mp3
+#EXTINF:170.540,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=170.540
+087.mp3
+#EXTINF:253.510,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=253.510
+088.mp3
+#EXTINF:317.900,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=317.900
+089.mp3
+#EXTINF:2661.960,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2661.960
+090.mp3
+#EXTINF:1096.130,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1096.130
+091.mp3
+#EXTINF:336.720,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=336.720
+092.mp3
+#EXTINF:730.340,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=730.340
+093.mp3
+#EXTINF:321.120,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=321.120
+094.mp3
+#EXTINF:50.710,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=50.710
+095.mp3
+#EXTINF:112.523,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=112.523
+096.mp3
+#EXTINF:366.517,خواطر سورة النحل
+#EXTVLCOPT:start-time=112.523
+#EXTVLCOPT:stop-time=479.040
+096.mp3
+#EXTINF:166.030,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=166.030
+097.mp3
+#EXTINF:446.330,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=446.330
+098.mp3
+#EXTINF:26.620,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=26.620
+099.mp3
+#EXTINF:883.420,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=883.420
+100.mp3
+#EXTINF:827.915,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=827.915
+101.mp3
+#EXTINF:263.415,خواطر سورة النحل
+#EXTVLCOPT:start-time=827.915
+#EXTVLCOPT:stop-time=1091.330
+101.mp3
+#EXTINF:128.640,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=128.640
+102.mp3
+#EXTINF:370.610,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=370.610
+103.mp3
+#EXTINF:106.920,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=106.920
+104.mp3
+#EXTINF:724.340,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=724.340
+105.mp3
+#EXTINF:199.320,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=199.320
+106.mp3
+#EXTINF:213.220,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=213.220
+107.mp3
+#EXTINF:336.720,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=336.720
+108.mp3
+#EXTINF:182.640,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=182.640
+109.mp3
+#EXTINF:50.710,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=50.710
+110.mp3
+#EXTINF:186.890,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=186.890
+111.mp3
+#EXTINF:1141.540,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1141.540
+112.mp3
+#EXTINF:185.420,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=185.420
+113.mp3
+#EXTINF:70.030,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=70.030
+114.mp3
+#EXTINF:659.710,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=659.710
+115.mp3
+#EXTINF:110.620,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=110.620
+116.mp3
+#EXTINF:82.820,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=82.820
+117.mp3
+#EXTINF:206.830,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=206.830
+118.mp3
+#EXTINF:231.851,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=231.851
+119.mp3
+#EXTINF:376.719,خواطر سورة النحل
+#EXTVLCOPT:start-time=231.851
+#EXTVLCOPT:stop-time=608.570
+119.mp3
+#EXTINF:850.030,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=850.030
+120.mp3
+#EXTINF:23.710,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=23.710
+121.mp3
+#EXTINF:213.340,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=213.340
+122.mp3
+#EXTINF:46.730,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=46.730
+123.mp3
+#EXTINF:547.320,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=547.320
+124.mp3
+#EXTINF:592.320,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=592.320
+125.mp3
+#EXTINF:156.635,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=156.635
+126.mp3
+#EXTINF:1495.305,خواطر سورة النحل
+#EXTVLCOPT:start-time=156.635
+#EXTVLCOPT:stop-time=1651.940
+126.mp3
+#EXTINF:914.420,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=914.420
+127.mp3
+#EXTINF:239.540,خواطر سورة النحل
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=239.540
+128.mp3

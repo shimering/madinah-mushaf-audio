@@ -1,0 +1,2820 @@
+{
+  "schemaVersion": 2,
+  "surah": 16,
+  "mode": "reused-clips",
+  "durationMs": 68767770,
+  "tracks": [
+    {
+      "file": "016-النحل-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1090130,
+      "durationMs": 1090130,
+      "recordingDurationMs": 1090130,
+      "bytes": 13082121,
+      "sha256": "3b5ece818dde44b1f363a10dc345812a9dc871371867d214d361fab70d4b88b5",
+      "sharedAyahs": [
+        "16:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6jVxO739M0M",
+          "start": 0.0,
+          "end": 1090.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 709920,
+      "durationMs": 709920,
+      "recordingDurationMs": 709920,
+      "bytes": 8519625,
+      "sha256": "76d4bb3bad0f02e25240eb336d9c62a617846b06cec7bfe3b38c94b0bf2bdab4",
+      "sharedAyahs": [
+        "16:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6jVxO739M0M",
+          "start": 1090.1,
+          "end": 1800.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 340580,
+      "durationMs": 340580,
+      "recordingDurationMs": 340580,
+      "bytes": 4087593,
+      "sha256": "bdbb529bb00a06c72abc3ccda6cdc5b04f9488762d6b3cb149e1cf4cad6395f4",
+      "sharedAyahs": [
+        "16:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6jVxO739M0M",
+          "start": 1800.0,
+          "end": 2140.58
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 1543130,
+      "durationMs": 1543130,
+      "recordingDurationMs": 1543130,
+      "bytes": 18518121,
+      "sha256": "c723475c48fccc100a11ebb9b2d208a313c464dcda48354eb570b07b93df86fc",
+      "sharedAyahs": [
+        "16:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NElGZq4YUYw",
+          "start": 0.0,
+          "end": 1543.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 98930,
+      "durationMs": 98930,
+      "recordingDurationMs": 98930,
+      "bytes": 1187721,
+      "sha256": "90785b1a77efffb7991afcb78179731ef2914912136c3af9aac87e52b0cf321e",
+      "sharedAyahs": [
+        "16:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NElGZq4YUYw",
+          "start": 1543.1,
+          "end": 1642.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 209930,
+      "durationMs": 209930,
+      "recordingDurationMs": 209930,
+      "bytes": 2519721,
+      "sha256": "b6f4354423dcfd92cc411e48644cead02f80aaefd539438533723efb2d44f080",
+      "sharedAyahs": [
+        "16:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NElGZq4YUYw",
+          "start": 1642.0,
+          "end": 1851.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 639310,
+      "durationMs": 639310,
+      "recordingDurationMs": 639310,
+      "bytes": 7672329,
+      "sha256": "f10694db9365400c7be317d24aafceada464ed2a00fed0e9ce8c4c96419b05d6",
+      "sharedAyahs": [
+        "16:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NElGZq4YUYw",
+          "start": 1851.9,
+          "end": 2491.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 134267,
+      "durationMs": 134267,
+      "recordingDurationMs": 547180,
+      "bytes": 6566533,
+      "sha256": "65807d2a8bea86d390819211a42bf1019747a34e544d002804b5c7905f3addac",
+      "sharedAyahs": [
+        "16:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NElGZq4YUYw",
+          "start": 2491.2,
+          "end": 2625.55
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/008.mp3",
+      "startMs": 134267,
+      "endMs": 547180,
+      "durationMs": 412913,
+      "recordingDurationMs": 547180,
+      "bytes": 6566533,
+      "sha256": "65807d2a8bea86d390819211a42bf1019747a34e544d002804b5c7905f3addac",
+      "sharedAyahs": [
+        "16:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "puUQWp3JsHE",
+          "start": 23.1,
+          "end": 435.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 850320,
+      "durationMs": 850320,
+      "recordingDurationMs": 850320,
+      "bytes": 10204518,
+      "sha256": "a4133b42974f7d4df1529f24cccd61f46985565594ec858b1b883c186a5bf070",
+      "sharedAyahs": [
+        "16:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "puUQWp3JsHE",
+          "start": 435.9,
+          "end": 1286.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 358920,
+      "durationMs": 358920,
+      "recordingDurationMs": 358920,
+      "bytes": 4307720,
+      "sha256": "d4e56f58891783d4f5f2b6f8b7137c09eed770395c7b04b69ce67a3070569abe",
+      "sharedAyahs": [
+        "16:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "puUQWp3JsHE",
+          "start": 1286.2,
+          "end": 1645.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 367320,
+      "durationMs": 367320,
+      "recordingDurationMs": 367320,
+      "bytes": 4408520,
+      "sha256": "37a48f29fe802179cff44446827d0c27f2b4a24de95e794601b9d065b58ba5ad",
+      "sharedAyahs": [
+        "16:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "puUQWp3JsHE",
+          "start": 1645.1,
+          "end": 2012.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 551147,
+      "durationMs": 551147,
+      "recordingDurationMs": 799660,
+      "bytes": 9596295,
+      "sha256": "4d42cb371fee897945aff55827f7be491c0f6966a280788b07c1188c06f1f00c",
+      "sharedAyahs": [
+        "16:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "puUQWp3JsHE",
+          "start": 2012.4,
+          "end": 2563.63
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/012.mp3",
+      "startMs": 551147,
+      "endMs": 799660,
+      "durationMs": 248513,
+      "recordingDurationMs": 799660,
+      "bytes": 9596295,
+      "sha256": "4d42cb371fee897945aff55827f7be491c0f6966a280788b07c1188c06f1f00c",
+      "sharedAyahs": [
+        "16:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PIW0OyXHZS8",
+          "start": 0.0,
+          "end": 248.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 736630,
+      "durationMs": 736630,
+      "recordingDurationMs": 736630,
+      "bytes": 8840171,
+      "sha256": "6cbfcb09ee0558c0c8f89b7898414b8db51ec04217a70041deb4575592fcf366",
+      "sharedAyahs": [
+        "16:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PIW0OyXHZS8",
+          "start": 248.4,
+          "end": 985.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 1504420,
+      "durationMs": 1504420,
+      "recordingDurationMs": 1504420,
+      "bytes": 18053579,
+      "sha256": "3096b4eec8d32e8c4bb44142743c040684d4ff7aa9b77f6ae31ca4cc5eb10223",
+      "sharedAyahs": [
+        "16:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PIW0OyXHZS8",
+          "start": 985.0,
+          "end": 2489.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/015.mp3",
+      "startMs": 0,
+      "endMs": 191147,
+      "durationMs": 191147,
+      "recordingDurationMs": 403660,
+      "bytes": 4844295,
+      "sha256": "6a8ff636c6ec37856789e50b6763b0137bd3f3b7d51b48b12e4feaf64f6cd598",
+      "sharedAyahs": [
+        "16:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PIW0OyXHZS8",
+          "start": 2489.4,
+          "end": 2680.63
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/015.mp3",
+      "startMs": 191147,
+      "endMs": 403660,
+      "durationMs": 212513,
+      "recordingDurationMs": 403660,
+      "bytes": 4844295,
+      "sha256": "6a8ff636c6ec37856789e50b6763b0137bd3f3b7d51b48b12e4feaf64f6cd598",
+      "sharedAyahs": [
+        "16:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 0.0,
+          "end": 212.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 214730,
+      "durationMs": 214730,
+      "recordingDurationMs": 214730,
+      "bytes": 2577323,
+      "sha256": "7e6a776f9414b94edb9080060017b8c25d948f3a7563b91dca8df83b4e0b1b57",
+      "sharedAyahs": [
+        "16:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 212.4,
+          "end": 427.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 763030,
+      "durationMs": 763030,
+      "recordingDurationMs": 763030,
+      "bytes": 9156971,
+      "sha256": "9e192782e6c53b223c72bc13cabbe3616088211112c6435e7674da40bb49854c",
+      "sharedAyahs": [
+        "16:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 427.1,
+          "end": 1190.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 461520,
+      "durationMs": 461520,
+      "recordingDurationMs": 461520,
+      "bytes": 5538827,
+      "sha256": "3eab30222f8e8d5bd203f7f9ec8e9644486a7eb88fae0f3df2e35844fa49e863",
+      "sharedAyahs": [
+        "16:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 1190.1,
+          "end": 1651.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 91420,
+      "durationMs": 91420,
+      "recordingDurationMs": 91420,
+      "bytes": 1097579,
+      "sha256": "929de780c1cb3c4469a16b1b4ef147cf8b0aaa06622f3384b1611e03a7faced7",
+      "sharedAyahs": [
+        "16:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 1651.6,
+          "end": 1743.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 150430,
+      "durationMs": 150430,
+      "recordingDurationMs": 150430,
+      "bytes": 1805771,
+      "sha256": "41abe026f83c243be63e837ba0f08edfdc3591878a014d9b1273484cba9ecb79",
+      "sharedAyahs": [
+        "16:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 1743.0,
+          "end": 1893.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 165430,
+      "durationMs": 165430,
+      "recordingDurationMs": 165430,
+      "bytes": 1985771,
+      "sha256": "05eb543c86c834b59d16494d16599e86e91555964a0e15967fae6bf42c0a6f9e",
+      "sharedAyahs": [
+        "16:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 1893.4,
+          "end": 2058.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 539330,
+      "durationMs": 539330,
+      "recordingDurationMs": 539330,
+      "bytes": 6472523,
+      "sha256": "a1a0d318b56de0bc0560fd56f0d817b9e6217027a4060ac12876622935e2c90a",
+      "sharedAyahs": [
+        "16:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 2058.8,
+          "end": 2598.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 101003,
+      "durationMs": 101003,
+      "recordingDurationMs": 443110,
+      "bytes": 5317767,
+      "sha256": "30c64e085e826298693c782ceff4002a030071a450500d48c40600afd4154f0e",
+      "sharedAyahs": [
+        "16:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JqqKF3YvuUg",
+          "start": 2598.1,
+          "end": 2699.21
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/023.mp3",
+      "startMs": 101003,
+      "endMs": 443110,
+      "durationMs": 342107,
+      "recordingDurationMs": 443110,
+      "bytes": 5317767,
+      "sha256": "30c64e085e826298693c782ceff4002a030071a450500d48c40600afd4154f0e",
+      "sharedAyahs": [
+        "16:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9nHhcClM1j8",
+          "start": 0.0,
+          "end": 342.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 362740,
+      "durationMs": 362740,
+      "recordingDurationMs": 362740,
+      "bytes": 4353419,
+      "sha256": "aea8ad92fa7b5f52df1be7d8427c0f373531d1cc03ae901bcd61ac787589e46f",
+      "sharedAyahs": [
+        "16:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9nHhcClM1j8",
+          "start": 342.0,
+          "end": 704.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/025.mp3",
+      "startMs": 0,
+      "endMs": 529920,
+      "durationMs": 529920,
+      "recordingDurationMs": 529920,
+      "bytes": 6359627,
+      "sha256": "52c10de288be81d988a9cf6c73019b60a849fc33ca94bc41b449683d0abf33e8",
+      "sharedAyahs": [
+        "16:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9nHhcClM1j8",
+          "start": 704.7,
+          "end": 1234.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 799420,
+      "durationMs": 799420,
+      "recordingDurationMs": 799420,
+      "bytes": 9593579,
+      "sha256": "a25a8720e3732308fe795ac016a190dee00184b2ef1b3c7e233109ceb2b2d5e1",
+      "sharedAyahs": [
+        "16:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9nHhcClM1j8",
+          "start": 1234.6,
+          "end": 2034.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 646523,
+      "durationMs": 646523,
+      "recordingDurationMs": 1316830,
+      "bytes": 15802407,
+      "sha256": "1f71d8b4c701af4e6bae6571dd057243a0db160db02196dd3a8dff1d28653c27",
+      "sharedAyahs": [
+        "16:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9nHhcClM1j8",
+          "start": 2034.0,
+          "end": 2680.61
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/027.mp3",
+      "startMs": 646523,
+      "endMs": 1316830,
+      "durationMs": 670307,
+      "recordingDurationMs": 1316830,
+      "bytes": 15802407,
+      "sha256": "1f71d8b4c701af4e6bae6571dd057243a0db160db02196dd3a8dff1d28653c27",
+      "sharedAyahs": [
+        "16:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T5eQ70Al-X4",
+          "start": 0.0,
+          "end": 670.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 567620,
+      "durationMs": 567620,
+      "recordingDurationMs": 567620,
+      "bytes": 6812075,
+      "sha256": "cfd8438f647b2dcb4a9b6234ccb436cf4902eb072c861f83adc2c37f83efeeba",
+      "sharedAyahs": [
+        "16:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T5eQ70Al-X4",
+          "start": 670.2,
+          "end": 1237.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 109940,
+      "durationMs": 109940,
+      "recordingDurationMs": 109940,
+      "bytes": 1319915,
+      "sha256": "c032cc34ea4ad2d5e7b91671916e7a41b3451e8278953fd485ee6d52c48b1a19",
+      "sharedAyahs": [
+        "16:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T5eQ70Al-X4",
+          "start": 1237.8,
+          "end": 1347.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 903620,
+      "durationMs": 903620,
+      "recordingDurationMs": 903620,
+      "bytes": 10844075,
+      "sha256": "fa912d7c6871b239bd968295cd1de605e0a41b33db238e1060c5d355e426c0b2",
+      "sharedAyahs": [
+        "16:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T5eQ70Al-X4",
+          "start": 1347.7,
+          "end": 2251.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/031.mp3",
+      "startMs": 0,
+      "endMs": 412475,
+      "durationMs": 412475,
+      "recordingDurationMs": 862580,
+      "bytes": 10351431,
+      "sha256": "d1ce8f3b653849293287966d9e515c33a338cf9907a8d2087534b55134e899ea",
+      "sharedAyahs": [
+        "16:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T5eQ70Al-X4",
+          "start": 2251.3,
+          "end": 2663.88
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/031.mp3",
+      "startMs": 412475,
+      "endMs": 862580,
+      "durationMs": 450105,
+      "recordingDurationMs": 862580,
+      "bytes": 10351431,
+      "sha256": "d1ce8f3b653849293287966d9e515c33a338cf9907a8d2087534b55134e899ea",
+      "sharedAyahs": [
+        "16:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2K9dypOv7fg",
+          "start": 0.0,
+          "end": 450.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 399140,
+      "durationMs": 399140,
+      "recordingDurationMs": 399140,
+      "bytes": 4790315,
+      "sha256": "f055d8752cd22b1e31d335b2eb8faa8d147061bd1d780b58edccdd02fefcb209",
+      "sharedAyahs": [
+        "16:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2K9dypOv7fg",
+          "start": 450.0,
+          "end": 849.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 257810,
+      "durationMs": 257810,
+      "recordingDurationMs": 257810,
+      "bytes": 3094283,
+      "sha256": "0d2a89fcb5a62e232e9c501b76d260637ca35d457faa5cab044f64757565f60b",
+      "sharedAyahs": [
+        "16:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2K9dypOv7fg",
+          "start": 849.1,
+          "end": 1106.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/034.mp3",
+      "startMs": 0,
+      "endMs": 487630,
+      "durationMs": 487630,
+      "recordingDurationMs": 487630,
+      "bytes": 5852171,
+      "sha256": "bd349c8eb178127e09ec36e6863769b3afd813c6218bf03a865ce49ad2d6ba88",
+      "sharedAyahs": [
+        "16:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2K9dypOv7fg",
+          "start": 1106.9,
+          "end": 1594.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 1033030,
+      "durationMs": 1033030,
+      "recordingDurationMs": 1033030,
+      "bytes": 12396971,
+      "sha256": "f5dc75f6c341b12f40054a0cf038135fdb3368dc552770bfae83af21f8b4ced8",
+      "sharedAyahs": [
+        "16:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2K9dypOv7fg",
+          "start": 1594.5,
+          "end": 2627.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 51155,
+      "durationMs": 51155,
+      "recordingDurationMs": 1711370,
+      "bytes": 20536839,
+      "sha256": "4c9d568049659d53139697822a09eaa2d4efc74791c90917b098da3332b88f99",
+      "sharedAyahs": [
+        "16:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2K9dypOv7fg",
+          "start": 2627.5,
+          "end": 2678.76
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/036.mp3",
+      "startMs": 51155,
+      "endMs": 1711370,
+      "durationMs": 1660215,
+      "recordingDurationMs": 1711370,
+      "bytes": 20536839,
+      "sha256": "4c9d568049659d53139697822a09eaa2d4efc74791c90917b098da3332b88f99",
+      "sharedAyahs": [
+        "16:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eANrC_UNjNg",
+          "start": 0.0,
+          "end": 1660.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 69720,
+      "durationMs": 69720,
+      "recordingDurationMs": 69720,
+      "bytes": 837227,
+      "sha256": "5678c187ae2aae401d1080a7696f5d11c17c81cf0b98515a0eff1aad1ca5be8c",
+      "sharedAyahs": [
+        "16:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eANrC_UNjNg",
+          "start": 1660.1,
+          "end": 1729.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 503230,
+      "durationMs": 503230,
+      "recordingDurationMs": 503230,
+      "bytes": 6039371,
+      "sha256": "172b65319ddbdd0ea4f6ddceabb5e7ab0437eb008deac7c318aa436eb23b4230",
+      "sharedAyahs": [
+        "16:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eANrC_UNjNg",
+          "start": 1729.8,
+          "end": 2233.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 198620,
+      "durationMs": 198620,
+      "recordingDurationMs": 198620,
+      "bytes": 2384075,
+      "sha256": "2b76a3306a61ea490cc0265341c5bd7a9d16153f548eaa07a137a0994a178e0a",
+      "sharedAyahs": [
+        "16:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eANrC_UNjNg",
+          "start": 2233.0,
+          "end": 2431.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 137020,
+      "durationMs": 137020,
+      "recordingDurationMs": 137020,
+      "bytes": 1644779,
+      "sha256": "09a82660452f24216582017f17e1b8492f189c90e5e32c68f43e3d9dc7d50967",
+      "sharedAyahs": [
+        "16:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eANrC_UNjNg",
+          "start": 2431.6,
+          "end": 2568.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 80387,
+      "durationMs": 80387,
+      "recordingDurationMs": 1445110,
+      "bytes": 17341767,
+      "sha256": "cae73dc0df43d5c03adb8b7973965df146c586276dde035dadd4d9a0c53e6eef",
+      "sharedAyahs": [
+        "16:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eANrC_UNjNg",
+          "start": 2568.6,
+          "end": 2649.07
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/041.mp3",
+      "startMs": 80387,
+      "endMs": 1445110,
+      "durationMs": 1364723,
+      "recordingDurationMs": 1445110,
+      "bytes": 17341767,
+      "sha256": "cae73dc0df43d5c03adb8b7973965df146c586276dde035dadd4d9a0c53e6eef",
+      "sharedAyahs": [
+        "16:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rYT_kg_XRSI",
+          "start": 0.0,
+          "end": 1364.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 382420,
+      "durationMs": 382420,
+      "recordingDurationMs": 382420,
+      "bytes": 4589579,
+      "sha256": "d74eb8f6b721711539ca27962f356522d79eb0ba151bca559a98698e0b3fc1b3",
+      "sharedAyahs": [
+        "16:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rYT_kg_XRSI",
+          "start": 1364.6,
+          "end": 1747.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 691030,
+      "durationMs": 691030,
+      "recordingDurationMs": 691030,
+      "bytes": 8292971,
+      "sha256": "3ecbc04aefc0d42e1957c15757c74925e8da3b38ec976d2ff5ab740c602ff814",
+      "sharedAyahs": [
+        "16:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rYT_kg_XRSI",
+          "start": 1747.0,
+          "end": 2438.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 227267,
+      "durationMs": 227267,
+      "recordingDurationMs": 1030900,
+      "bytes": 12371175,
+      "sha256": "41c5b2e105b9df30433f6213dee7bc19a319c9d09237bce5f173d187cc33e00e",
+      "sharedAyahs": [
+        "16:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rYT_kg_XRSI",
+          "start": 2438.0,
+          "end": 2665.37
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/044.mp3",
+      "startMs": 227267,
+      "endMs": 1030900,
+      "durationMs": 803633,
+      "recordingDurationMs": 1030900,
+      "bytes": 12371175,
+      "sha256": "41c5b2e105b9df30433f6213dee7bc19a319c9d09237bce5f173d187cc33e00e",
+      "sharedAyahs": [
+        "16:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WrC-5OzI_fQ",
+          "start": 0.0,
+          "end": 803.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 430220,
+      "durationMs": 430220,
+      "recordingDurationMs": 430220,
+      "bytes": 5163275,
+      "sha256": "a9e1aa8194fc4ca19bbd49bfe73262bae6cd6567adca310690e811a65e06b496",
+      "sharedAyahs": [
+        "16:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WrC-5OzI_fQ",
+          "start": 803.5,
+          "end": 1233.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 314620,
+      "durationMs": 314620,
+      "recordingDurationMs": 314620,
+      "bytes": 3775979,
+      "sha256": "f36cdc20e852dfd84482e8bc7e6e1375864043379911b43e0c9f9d382aee8aa3",
+      "sharedAyahs": [
+        "16:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WrC-5OzI_fQ",
+          "start": 1233.7,
+          "end": 1548.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 380110,
+      "durationMs": 380110,
+      "recordingDurationMs": 380110,
+      "bytes": 4561931,
+      "sha256": "b1b5fd6813897da974c82563e57a3205de7b7289bb4f7e7d972acc3c4dd6a1a9",
+      "sharedAyahs": [
+        "16:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WrC-5OzI_fQ",
+          "start": 1548.3,
+          "end": 1928.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 665300,
+      "durationMs": 665300,
+      "recordingDurationMs": 665300,
+      "bytes": 7984235,
+      "sha256": "a9717661600e5d1989c4aa691f77812656db3952ef9812606853cff1edc73292",
+      "sharedAyahs": [
+        "16:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "WrC-5OzI_fQ",
+          "start": 1928.4,
+          "end": 2593.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 320330,
+      "durationMs": 320330,
+      "recordingDurationMs": 320330,
+      "bytes": 3844523,
+      "sha256": "dfe162aa25adccbfb014d6e550619d280bf608bb2a0a200611a0bf28572f69ba",
+      "sharedAyahs": [
+        "16:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qajbhvXXPYQ",
+          "start": 0.0,
+          "end": 320.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 951120,
+      "durationMs": 951120,
+      "recordingDurationMs": 951120,
+      "bytes": 11414027,
+      "sha256": "a2869a5c052c5b85595f2926fe16ef92d96a90a9bb2ab5172303b6c5609dd8d1",
+      "sharedAyahs": [
+        "16:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qajbhvXXPYQ",
+          "start": 320.3,
+          "end": 1271.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 528620,
+      "durationMs": 528620,
+      "recordingDurationMs": 528620,
+      "bytes": 6344075,
+      "sha256": "344f50a8297eb6301f25ddddc26127d0892b437da331de4ba70197d8e21a0709",
+      "sharedAyahs": [
+        "16:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qajbhvXXPYQ",
+          "start": 1271.4,
+          "end": 1800.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 782579,
+      "durationMs": 782579,
+      "recordingDurationMs": 1125190,
+      "bytes": 13502727,
+      "sha256": "4d1726c98ffbe06d034d3abd7f74b4c57afeb1f9ab1b05b78fc3198eab762144",
+      "sharedAyahs": [
+        "16:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qajbhvXXPYQ",
+          "start": 1800.0,
+          "end": 2582.66
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/052.mp3",
+      "startMs": 782579,
+      "endMs": 1125190,
+      "durationMs": 342611,
+      "recordingDurationMs": 1125190,
+      "bytes": 13502727,
+      "sha256": "4d1726c98ffbe06d034d3abd7f74b4c57afeb1f9ab1b05b78fc3198eab762144",
+      "sharedAyahs": [
+        "16:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 0.0,
+          "end": 342.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 338640,
+      "durationMs": 338640,
+      "recordingDurationMs": 338640,
+      "bytes": 4064267,
+      "sha256": "79a3c03156ec62c392882a095f8334ac9ac883059c3e2034ff80d45435b0a39e",
+      "sharedAyahs": [
+        "16:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 342.5,
+          "end": 681.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/054.mp3",
+      "startMs": 0,
+      "endMs": 258500,
+      "durationMs": 258500,
+      "recordingDurationMs": 258500,
+      "bytes": 3102635,
+      "sha256": "d56fa0d3c5cd2c4e7ad245979d6afd5666a3bd0ac25a0cb47c145e472f281e2f",
+      "sharedAyahs": [
+        "16:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 681.1,
+          "end": 939.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/055.mp3",
+      "startMs": 0,
+      "endMs": 160220,
+      "durationMs": 160220,
+      "recordingDurationMs": 160220,
+      "bytes": 1923275,
+      "sha256": "0b16a27c0129adca57bbe07a8f3c9f5b86b4a54425ceb2441cdf3a686d83852a",
+      "sharedAyahs": [
+        "16:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 939.6,
+          "end": 1099.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 143930,
+      "durationMs": 143930,
+      "recordingDurationMs": 143930,
+      "bytes": 1727723,
+      "sha256": "c304e49699bb51da4930747ff7ce19174633549748b56b1ebfca33e441d93646",
+      "sharedAyahs": [
+        "16:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 1099.8,
+          "end": 1243.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/057.mp3",
+      "startMs": 0,
+      "endMs": 122930,
+      "durationMs": 122930,
+      "recordingDurationMs": 122930,
+      "bytes": 1475723,
+      "sha256": "d0f5c757b6e778ca5499a69ed62ed25a9525cf34464a0d120300857b51009d5b",
+      "sharedAyahs": [
+        "16:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 1243.7,
+          "end": 1366.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/058.mp3",
+      "startMs": 0,
+      "endMs": 283630,
+      "durationMs": 283630,
+      "recordingDurationMs": 283630,
+      "bytes": 3404171,
+      "sha256": "e0e5320ce3046da7c34e2a309ab1ec0cf658625a84f634e34487907e89527446",
+      "sharedAyahs": [
+        "16:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 1366.6,
+          "end": 1650.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 336410,
+      "durationMs": 336410,
+      "recordingDurationMs": 336410,
+      "bytes": 4037483,
+      "sha256": "6177685d82e315b21f24f62f0380f55a9d8987ee809fcc154e7d0dfb03616b0a",
+      "sharedAyahs": [
+        "16:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 1650.2,
+          "end": 1986.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/060.mp3",
+      "startMs": 0,
+      "endMs": 233740,
+      "durationMs": 233740,
+      "recordingDurationMs": 233740,
+      "bytes": 2805419,
+      "sha256": "8ab9fbde42a6cbe8b36b7799b4b501284cad39d7fbe18127b7201c05b6b38d43",
+      "sharedAyahs": [
+        "16:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 1986.6,
+          "end": 2220.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/061.mp3",
+      "startMs": 0,
+      "endMs": 229730,
+      "durationMs": 229730,
+      "recordingDurationMs": 229730,
+      "bytes": 2757323,
+      "sha256": "7df98adf20a19011b3d1bfc78f19191f00f28ac960de6a13ae986ec7f588e9d9",
+      "sharedAyahs": [
+        "16:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 2220.3,
+          "end": 2450.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/062.mp3",
+      "startMs": 0,
+      "endMs": 259403,
+      "durationMs": 259403,
+      "recordingDurationMs": 291620,
+      "bytes": 3499911,
+      "sha256": "788eb176e499f904c79344200ca7bc1250407433eadc1ebb1bc1ccac28ec0922",
+      "sharedAyahs": [
+        "16:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z9zE3Wscl0U",
+          "start": 2450.0,
+          "end": 2709.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/062.mp3",
+      "startMs": 259403,
+      "endMs": 291620,
+      "durationMs": 32217,
+      "recordingDurationMs": 291620,
+      "bytes": 3499911,
+      "sha256": "788eb176e499f904c79344200ca7bc1250407433eadc1ebb1bc1ccac28ec0922",
+      "sharedAyahs": [
+        "16:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vPfhWJwPxaA",
+          "start": 0.0,
+          "end": 32.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 242110,
+      "durationMs": 242110,
+      "recordingDurationMs": 242110,
+      "bytes": 2905931,
+      "sha256": "5193d40219cd212afe55b6eb111b32ccede7b7e6dc73418894829cff569c1980",
+      "sharedAyahs": [
+        "16:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vPfhWJwPxaA",
+          "start": 32.1,
+          "end": 274.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/064.mp3",
+      "startMs": 0,
+      "endMs": 664440,
+      "durationMs": 664440,
+      "recordingDurationMs": 664440,
+      "bytes": 7973867,
+      "sha256": "edd79e87c92c9a08d133a607e14200749db06502c4de0a20014b34b33a49ac87",
+      "sharedAyahs": [
+        "16:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vPfhWJwPxaA",
+          "start": 274.2,
+          "end": 938.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/065.mp3",
+      "startMs": 0,
+      "endMs": 499510,
+      "durationMs": 499510,
+      "recordingDurationMs": 499510,
+      "bytes": 5994731,
+      "sha256": "a3ca2ef2856e5fca4474abdd52c726ded16bab57222a90dc0b9f6c5dbf8d491a",
+      "sharedAyahs": [
+        "16:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vPfhWJwPxaA",
+          "start": 938.6,
+          "end": 1438.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/066.mp3",
+      "startMs": 0,
+      "endMs": 561940,
+      "durationMs": 561940,
+      "recordingDurationMs": 561940,
+      "bytes": 6743819,
+      "sha256": "7ed47ea7a4fe3f93b33a970615806c99803e2fb9d056ecd63dac2e0138c27dc4",
+      "sharedAyahs": [
+        "16:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vPfhWJwPxaA",
+          "start": 1438.1,
+          "end": 2000.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 655763,
+      "durationMs": 655763,
+      "recordingDurationMs": 1293670,
+      "bytes": 15524487,
+      "sha256": "94f37bcbbfc4bdf7c4b3bbc5ed31a1c5b29e7c0f8514ab54e595390c43a13b24",
+      "sharedAyahs": [
+        "16:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "vPfhWJwPxaA",
+          "start": 2000.0,
+          "end": 2655.86
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/067.mp3",
+      "startMs": 655763,
+      "endMs": 1293670,
+      "durationMs": 637907,
+      "recordingDurationMs": 1293670,
+      "bytes": 15524487,
+      "sha256": "94f37bcbbfc4bdf7c4b3bbc5ed31a1c5b29e7c0f8514ab54e595390c43a13b24",
+      "sharedAyahs": [
+        "16:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rW873cEsPrw",
+          "start": 0.0,
+          "end": 637.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/068.mp3",
+      "startMs": 0,
+      "endMs": 549240,
+      "durationMs": 549240,
+      "recordingDurationMs": 549240,
+      "bytes": 6591467,
+      "sha256": "ad029d85d8a00d871674ad8036bec977aacbd5efa6dac4573c74b67ebe1633e7",
+      "sharedAyahs": [
+        "16:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rW873cEsPrw",
+          "start": 637.8,
+          "end": 1187.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/069.mp3",
+      "startMs": 0,
+      "endMs": 1162920,
+      "durationMs": 1162920,
+      "recordingDurationMs": 1162920,
+      "bytes": 13955627,
+      "sha256": "fa5721559505778e7cb475bb73e5d5f481027c54df61ba210079c7ad4c94f9bf",
+      "sharedAyahs": [
+        "16:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rW873cEsPrw",
+          "start": 1187.0,
+          "end": 2349.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/070.mp3",
+      "startMs": 0,
+      "endMs": 108020,
+      "durationMs": 108020,
+      "recordingDurationMs": 108020,
+      "bytes": 1296875,
+      "sha256": "2f9b7364a8f88b08d8b11bd014fef9ce8533a056bf45804c2b6666571e8c2f8a",
+      "sharedAyahs": [
+        "16:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rW873cEsPrw",
+          "start": 2349.9,
+          "end": 2457.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/071.mp3",
+      "startMs": 0,
+      "endMs": 178475,
+      "durationMs": 178475,
+      "recordingDurationMs": 1295400,
+      "bytes": 15545223,
+      "sha256": "556fc9f4d5362372eda46e2e6d3f417ec1103dbe9e4d6d091a640ed75d0c2507",
+      "sharedAyahs": [
+        "16:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "rW873cEsPrw",
+          "start": 2457.9,
+          "end": 2636.47
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/071.mp3",
+      "startMs": 178475,
+      "endMs": 1295400,
+      "durationMs": 1116925,
+      "recordingDurationMs": 1295400,
+      "bytes": 15545223,
+      "sha256": "556fc9f4d5362372eda46e2e6d3f417ec1103dbe9e4d6d091a640ed75d0c2507",
+      "sharedAyahs": [
+        "16:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5Jep6TfSmeI",
+          "start": 0.0,
+          "end": 1116.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/072.mp3",
+      "startMs": 0,
+      "endMs": 1208110,
+      "durationMs": 1208110,
+      "recordingDurationMs": 1208110,
+      "bytes": 14497931,
+      "sha256": "cca245fc950358df7676b31cf63fc006a7c0a5a4e658bed9f65694123ab4163e",
+      "sharedAyahs": [
+        "16:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5Jep6TfSmeI",
+          "start": 1116.8,
+          "end": 2324.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/073.mp3",
+      "startMs": 0,
+      "endMs": 318155,
+      "durationMs": 318155,
+      "recordingDurationMs": 909170,
+      "bytes": 10910439,
+      "sha256": "ba91611dcd85789dd8e5d581b8d9d6349d69c0a227c7339cbd58660159460adc",
+      "sharedAyahs": [
+        "16:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5Jep6TfSmeI",
+          "start": 2324.9,
+          "end": 2643.14
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/073.mp3",
+      "startMs": 318155,
+      "endMs": 909170,
+      "durationMs": 591015,
+      "recordingDurationMs": 909170,
+      "bytes": 10910439,
+      "sha256": "ba91611dcd85789dd8e5d581b8d9d6349d69c0a227c7339cbd58660159460adc",
+      "sharedAyahs": [
+        "16:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gq7vLi93rWk",
+          "start": 0.0,
+          "end": 590.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/074.mp3",
+      "startMs": 0,
+      "endMs": 609120,
+      "durationMs": 609120,
+      "recordingDurationMs": 609120,
+      "bytes": 7310027,
+      "sha256": "a964b28fcd258448b234ea5dc18aa2a89173798edbf5658b32219a3bc6d9f139",
+      "sharedAyahs": [
+        "16:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gq7vLi93rWk",
+          "start": 590.9,
+          "end": 1200.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/075.mp3",
+      "startMs": 0,
+      "endMs": 714840,
+      "durationMs": 714840,
+      "recordingDurationMs": 714840,
+      "bytes": 8578667,
+      "sha256": "ed24e14f612feb69bd92239f7188787ba965277dd188e20eb9e92877a555ef3a",
+      "sharedAyahs": [
+        "16:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gq7vLi93rWk",
+          "start": 1200.0,
+          "end": 1914.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/076.mp3",
+      "startMs": 0,
+      "endMs": 491710,
+      "durationMs": 491710,
+      "recordingDurationMs": 491710,
+      "bytes": 5901131,
+      "sha256": "a9ac816287e1edb7623920957d3996444cf00eb29ee25005633dab0884c919e9",
+      "sharedAyahs": [
+        "16:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gq7vLi93rWk",
+          "start": 1914.8,
+          "end": 2406.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/077.mp3",
+      "startMs": 0,
+      "endMs": 259811,
+      "durationMs": 259811,
+      "recordingDurationMs": 1019640,
+      "bytes": 12236103,
+      "sha256": "fa3ca8214b832769b3dc06a2cafacc3723d794cbfbb637f4728f0debd93edc51",
+      "sharedAyahs": [
+        "16:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Gq7vLi93rWk",
+          "start": 2406.5,
+          "end": 2666.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/077.mp3",
+      "startMs": 259811,
+      "endMs": 1019640,
+      "durationMs": 759829,
+      "recordingDurationMs": 1019640,
+      "bytes": 12236103,
+      "sha256": "fa3ca8214b832769b3dc06a2cafacc3723d794cbfbb637f4728f0debd93edc51",
+      "sharedAyahs": [
+        "16:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YN6AZJtu3vo",
+          "start": 0.0,
+          "end": 759.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/078.mp3",
+      "startMs": 0,
+      "endMs": 1072610,
+      "durationMs": 1072610,
+      "recordingDurationMs": 1072610,
+      "bytes": 12871976,
+      "sha256": "50cb1a5d11300f47f4ee86bcc6bdcf0410289dff87604e9209216a48674e94b4",
+      "sharedAyahs": [
+        "16:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YN6AZJtu3vo",
+          "start": 759.7,
+          "end": 1832.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/079.mp3",
+      "startMs": 0,
+      "endMs": 219530,
+      "durationMs": 219530,
+      "recordingDurationMs": 219530,
+      "bytes": 2635016,
+      "sha256": "4ff8a295688ac409c66f09f0a4ccf6df3b1f3d67061f36593f30a7d0c458852f",
+      "sharedAyahs": [
+        "16:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YN6AZJtu3vo",
+          "start": 1832.3,
+          "end": 2051.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/080.mp3",
+      "startMs": 0,
+      "endMs": 298220,
+      "durationMs": 298220,
+      "recordingDurationMs": 298220,
+      "bytes": 3579368,
+      "sha256": "185c97db1d009da6eda120f8ebd7fa47eb59634470938dbe9c5bc427028e8404",
+      "sharedAyahs": [
+        "16:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YN6AZJtu3vo",
+          "start": 2051.8,
+          "end": 2350.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/081.mp3",
+      "startMs": 0,
+      "endMs": 301139,
+      "durationMs": 301139,
+      "recordingDurationMs": 1712760,
+      "bytes": 20553543,
+      "sha256": "b104ab9c7690aba0f0e85bd296b63a11091941cd1adbcdd67923babdd9eb5572",
+      "sharedAyahs": [
+        "16:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YN6AZJtu3vo",
+          "start": 2350.0,
+          "end": 2651.23
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/081.mp3",
+      "startMs": 301139,
+      "endMs": 1712760,
+      "durationMs": 1411621,
+      "recordingDurationMs": 1712760,
+      "bytes": 20553543,
+      "sha256": "b104ab9c7690aba0f0e85bd296b63a11091941cd1adbcdd67923babdd9eb5572",
+      "sharedAyahs": [
+        "16:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 0.0,
+          "end": 1411.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/082.mp3",
+      "startMs": 0,
+      "endMs": 7730,
+      "durationMs": 7730,
+      "recordingDurationMs": 7730,
+      "bytes": 93323,
+      "sha256": "994ec3c1e1bc92846074908a9eacbad14b43a003009b4a80d9d39f198822a196",
+      "sharedAyahs": [
+        "16:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 1411.5,
+          "end": 1419.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/083.mp3",
+      "startMs": 0,
+      "endMs": 129820,
+      "durationMs": 129820,
+      "recordingDurationMs": 129820,
+      "bytes": 1558379,
+      "sha256": "035a202bbf30e5cc8f70f99cc71f150931541e1bcbacaa86711c7cc8b5787973",
+      "sharedAyahs": [
+        "16:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 1419.2,
+          "end": 1549.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/084.mp3",
+      "startMs": 0,
+      "endMs": 125520,
+      "durationMs": 125520,
+      "recordingDurationMs": 125520,
+      "bytes": 1506827,
+      "sha256": "462521560d8d0373a3eaa3303ed3a0794a495dca6040db39a89028e492cbe85d",
+      "sharedAyahs": [
+        "16:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 1549.0,
+          "end": 1674.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/085.mp3",
+      "startMs": 0,
+      "endMs": 125520,
+      "durationMs": 125520,
+      "recordingDurationMs": 125520,
+      "bytes": 1506827,
+      "sha256": "9205e68aa36a3af6267f7906fc14f988a0cf2954ae546f61de75ed0e33ad1758",
+      "sharedAyahs": [
+        "16:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 1674.5,
+          "end": 1800.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/086.mp3",
+      "startMs": 0,
+      "endMs": 126020,
+      "durationMs": 126020,
+      "recordingDurationMs": 126020,
+      "bytes": 1512875,
+      "sha256": "1992fb29d9c6fcbd177fdcb2f1c41fe1d8f45a62028c6f5a75e53c885e29601b",
+      "sharedAyahs": [
+        "16:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 1800.0,
+          "end": 1926.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/087.mp3",
+      "startMs": 0,
+      "endMs": 170540,
+      "durationMs": 170540,
+      "recordingDurationMs": 170540,
+      "bytes": 2047115,
+      "sha256": "1e557dfd0b8c127af0c2753f220d775d3d8d7e24681d9a38ca800974eb5d33e4",
+      "sharedAyahs": [
+        "16:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 1926.0,
+          "end": 2096.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/088.mp3",
+      "startMs": 0,
+      "endMs": 253510,
+      "durationMs": 253510,
+      "recordingDurationMs": 253510,
+      "bytes": 3042731,
+      "sha256": "ec0805e5cfab38fbe572c59161dd00d07c3354ca6a841dd00df740959adb31cb",
+      "sharedAyahs": [
+        "16:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 2096.5,
+          "end": 2350.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/089.mp3",
+      "startMs": 0,
+      "endMs": 317900,
+      "durationMs": 317900,
+      "recordingDurationMs": 317900,
+      "bytes": 3815435,
+      "sha256": "184f88bb7814a600d1f534b604bbabab28cadce9cc3cb18968abeeb767636270",
+      "sharedAyahs": [
+        "16:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m06-i7hWjpc",
+          "start": 2350.0,
+          "end": 2667.91
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/090.mp3",
+      "startMs": 0,
+      "endMs": 2661960,
+      "durationMs": 2661960,
+      "recordingDurationMs": 2661960,
+      "bytes": 31944107,
+      "sha256": "dfc7a54eeef1d116b2ceb8ce876f338dcdb1e965e468ea0b0c593b4fbf45ff5a",
+      "sharedAyahs": [
+        "16:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AO-cEZjHoSQ",
+          "start": 0.0,
+          "end": 2661.96
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/091.mp3",
+      "startMs": 0,
+      "endMs": 1096130,
+      "durationMs": 1096130,
+      "recordingDurationMs": 1096130,
+      "bytes": 13154123,
+      "sha256": "89d94d2494e6420c0e23a6ccf87ef81ec72eb2a4ec963b01e241df2ff9018728",
+      "sharedAyahs": [
+        "16:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-ERTBz8KiTE",
+          "start": 0.0,
+          "end": 1096.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/092.mp3",
+      "startMs": 0,
+      "endMs": 336720,
+      "durationMs": 336720,
+      "recordingDurationMs": 336720,
+      "bytes": 4041227,
+      "sha256": "184896f861c4f861629e7684814677391efd8c3e75ca2c7bae00e07e178a6d32",
+      "sharedAyahs": [
+        "16:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-ERTBz8KiTE",
+          "start": 1096.1,
+          "end": 1432.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/093.mp3",
+      "startMs": 0,
+      "endMs": 730340,
+      "durationMs": 730340,
+      "recordingDurationMs": 730340,
+      "bytes": 8764715,
+      "sha256": "d44df41c8eabd798473b9ef8116d7a0b8a0ca736b227bec95c0172b100c37972",
+      "sharedAyahs": [
+        "16:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-ERTBz8KiTE",
+          "start": 1432.8,
+          "end": 2163.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/094.mp3",
+      "startMs": 0,
+      "endMs": 321120,
+      "durationMs": 321120,
+      "recordingDurationMs": 321120,
+      "bytes": 3854027,
+      "sha256": "2e521c8882f8ff90774d3bd1d0f614263fb6d8e7d1d1198800221448d9a75761",
+      "sharedAyahs": [
+        "16:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-ERTBz8KiTE",
+          "start": 2163.1,
+          "end": 2484.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/095.mp3",
+      "startMs": 0,
+      "endMs": 50710,
+      "durationMs": 50710,
+      "recordingDurationMs": 50710,
+      "bytes": 609131,
+      "sha256": "db59b24f1f8a885b8982a59c1de3ba224259329a5a0e761bfa2dc49e89a52a74",
+      "sharedAyahs": [
+        "16:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-ERTBz8KiTE",
+          "start": 2484.2,
+          "end": 2534.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/096.mp3",
+      "startMs": 0,
+      "endMs": 112523,
+      "durationMs": 112523,
+      "recordingDurationMs": 479040,
+      "bytes": 5748903,
+      "sha256": "1ac69569dcfddb6e9c5ad9962e3e5e3fe168ccb38276e4b52086864ef564736f",
+      "sharedAyahs": [
+        "16:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-ERTBz8KiTE",
+          "start": 2534.9,
+          "end": 2647.51
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/096.mp3",
+      "startMs": 112523,
+      "endMs": 479040,
+      "durationMs": 366517,
+      "recordingDurationMs": 479040,
+      "bytes": 5748903,
+      "sha256": "1ac69569dcfddb6e9c5ad9962e3e5e3fe168ccb38276e4b52086864ef564736f",
+      "sharedAyahs": [
+        "16:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "t8L0zF5ZHwI",
+          "start": 0.0,
+          "end": 366.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/097.mp3",
+      "startMs": 0,
+      "endMs": 166030,
+      "durationMs": 166030,
+      "recordingDurationMs": 166030,
+      "bytes": 1992971,
+      "sha256": "ca16df7e4c167f0e897016286538b8787abb5994fbf5231c3cb22a6c0f77bb79",
+      "sharedAyahs": [
+        "16:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "t8L0zF5ZHwI",
+          "start": 366.4,
+          "end": 532.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/098.mp3",
+      "startMs": 0,
+      "endMs": 446330,
+      "durationMs": 446330,
+      "recordingDurationMs": 446330,
+      "bytes": 5356523,
+      "sha256": "63ffc504f543727a2c8e161728d316e2fe73b923170778c36894c1e00ec89bb3",
+      "sharedAyahs": [
+        "16:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "t8L0zF5ZHwI",
+          "start": 532.4,
+          "end": 978.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/099.mp3",
+      "startMs": 0,
+      "endMs": 26620,
+      "durationMs": 26620,
+      "recordingDurationMs": 26620,
+      "bytes": 319979,
+      "sha256": "0c04cfc82bda6fd488c5736bb7f2a7e515119da83bd1a3a1e19bd44c33c2f4ba",
+      "sharedAyahs": [
+        "16:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "t8L0zF5ZHwI",
+          "start": 978.7,
+          "end": 1005.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/100.mp3",
+      "startMs": 0,
+      "endMs": 883420,
+      "durationMs": 883420,
+      "recordingDurationMs": 883420,
+      "bytes": 10601581,
+      "sha256": "978627379409f9e9cef2bbcc78eb454eb2ceabea40e220e56b6f8e2d6824ef3e",
+      "sharedAyahs": [
+        "16:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "t8L0zF5ZHwI",
+          "start": 1005.3,
+          "end": 1888.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/101.mp3",
+      "startMs": 0,
+      "endMs": 827915,
+      "durationMs": 827915,
+      "recordingDurationMs": 1091330,
+      "bytes": 13096361,
+      "sha256": "a84542925837b3861ceec8da92ee78f99a5ca6d910c0d1ed8990f342ba0c796a",
+      "sharedAyahs": [
+        "16:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "t8L0zF5ZHwI",
+          "start": 1888.7,
+          "end": 2716.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/101.mp3",
+      "startMs": 827915,
+      "endMs": 1091330,
+      "durationMs": 263415,
+      "recordingDurationMs": 1091330,
+      "bytes": 13096361,
+      "sha256": "a84542925837b3861ceec8da92ee78f99a5ca6d910c0d1ed8990f342ba0c796a",
+      "sharedAyahs": [
+        "16:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 0.0,
+          "end": 263.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/102.mp3",
+      "startMs": 0,
+      "endMs": 128640,
+      "durationMs": 128640,
+      "recordingDurationMs": 128640,
+      "bytes": 1544269,
+      "sha256": "63ec03d4ba04162218ec92cb00fff83f7b33e98747669dad2cf347ad0f7b6a5b",
+      "sharedAyahs": [
+        "16:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 263.3,
+          "end": 391.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/103.mp3",
+      "startMs": 0,
+      "endMs": 370610,
+      "durationMs": 370610,
+      "recordingDurationMs": 370610,
+      "bytes": 4447885,
+      "sha256": "3f260a1ee58f6dafe7fd53dba0016b5be10c6ee6844e155758182a3b58aeda1d",
+      "sharedAyahs": [
+        "16:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 391.9,
+          "end": 762.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/104.mp3",
+      "startMs": 0,
+      "endMs": 106920,
+      "durationMs": 106920,
+      "recordingDurationMs": 106920,
+      "bytes": 1283629,
+      "sha256": "5cdf8bc65e53239f935791666f19056d7a02c448c431d0d6bbc1daaca9feff27",
+      "sharedAyahs": [
+        "16:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 762.5,
+          "end": 869.4
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/105.mp3",
+      "startMs": 0,
+      "endMs": 724340,
+      "durationMs": 724340,
+      "recordingDurationMs": 724340,
+      "bytes": 8692717,
+      "sha256": "5a27463ebb7fe6fb10ac8f44af02e480a4897628b3c1d69a7fd4e3d3dc44bdf9",
+      "sharedAyahs": [
+        "16:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 869.4,
+          "end": 1593.7
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/106.mp3",
+      "startMs": 0,
+      "endMs": 199320,
+      "durationMs": 199320,
+      "recordingDurationMs": 199320,
+      "bytes": 2392429,
+      "sha256": "85e4bf301ba74a96852fda7b2394bc9d79eae39214312b3059053b82481cd164",
+      "sharedAyahs": [
+        "16:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 1593.7,
+          "end": 1793.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/107.mp3",
+      "startMs": 0,
+      "endMs": 213220,
+      "durationMs": 213220,
+      "recordingDurationMs": 213220,
+      "bytes": 2559181,
+      "sha256": "2276539011a0854851341bb1078a344cb1e5318b9b7f0d5de39e8730257c5dcf",
+      "sharedAyahs": [
+        "16:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 1793.0,
+          "end": 2006.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/108.mp3",
+      "startMs": 0,
+      "endMs": 336720,
+      "durationMs": 336720,
+      "recordingDurationMs": 336720,
+      "bytes": 4041229,
+      "sha256": "d5183da80b2ecf528c710a2fb21f3dcdf3f6f713e491a8dc994e11eac1285ec3",
+      "sharedAyahs": [
+        "16:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 2006.2,
+          "end": 2342.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/109.mp3",
+      "startMs": 0,
+      "endMs": 182640,
+      "durationMs": 182640,
+      "recordingDurationMs": 182640,
+      "bytes": 2192269,
+      "sha256": "1c02727ffab2de40205530ed2f722907e2454bb71594896fb8f3aa6c0959132c",
+      "sharedAyahs": [
+        "16:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 2342.9,
+          "end": 2525.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/110.mp3",
+      "startMs": 0,
+      "endMs": 50710,
+      "durationMs": 50710,
+      "recordingDurationMs": 50710,
+      "bytes": 609133,
+      "sha256": "640ffb9078fb9dfe81ce27cdce74db381245f689824a99d2dd27821d012d0b55",
+      "sharedAyahs": [
+        "16:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 2525.5,
+          "end": 2576.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/111.mp3",
+      "startMs": 0,
+      "endMs": 186890,
+      "durationMs": 186890,
+      "recordingDurationMs": 186890,
+      "bytes": 2243245,
+      "sha256": "97fc4946535ffe2fbd1ee41420317905a590f8b5761bce5a3e7a45a5c6d65647",
+      "sharedAyahs": [
+        "16:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9wjPPj_juU",
+          "start": 2576.2,
+          "end": 2763.1
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/112.mp3",
+      "startMs": 0,
+      "endMs": 1141540,
+      "durationMs": 1141540,
+      "recordingDurationMs": 1141540,
+      "bytes": 13699021,
+      "sha256": "0e957a843964663658bd60567c93c6c14161ee07e64ab3177cd13963eb6ef1ea",
+      "sharedAyahs": [
+        "16:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aA-RpgVRa9w",
+          "start": 0.0,
+          "end": 1141.5
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/113.mp3",
+      "startMs": 0,
+      "endMs": 185420,
+      "durationMs": 185420,
+      "recordingDurationMs": 185420,
+      "bytes": 2225677,
+      "sha256": "27302d4ba7b7e0d5cdfd2a0bc383d0e4dc73b1bb798051263657872c70879ba9",
+      "sharedAyahs": [
+        "16:113"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aA-RpgVRa9w",
+          "start": 1141.5,
+          "end": 1326.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/114.mp3",
+      "startMs": 0,
+      "endMs": 70030,
+      "durationMs": 70030,
+      "recordingDurationMs": 70030,
+      "bytes": 840973,
+      "sha256": "c63fac1f2d1c780fe74e5c16175f0d193d2eaf0b1de2d12a29c156478bfce370",
+      "sharedAyahs": [
+        "16:114"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aA-RpgVRa9w",
+          "start": 1326.9,
+          "end": 1396.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/115.mp3",
+      "startMs": 0,
+      "endMs": 659710,
+      "durationMs": 659710,
+      "recordingDurationMs": 659710,
+      "bytes": 7917133,
+      "sha256": "b8bc0a64540f6f4eab7f7f0b5a5d4797a4405a917a8c008c25d3d13925162f84",
+      "sharedAyahs": [
+        "16:115"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aA-RpgVRa9w",
+          "start": 1396.9,
+          "end": 2056.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/116.mp3",
+      "startMs": 0,
+      "endMs": 110620,
+      "durationMs": 110620,
+      "recordingDurationMs": 110620,
+      "bytes": 1327981,
+      "sha256": "25d240f51033fd37743a5834add225cbcd1511fe99eeba060f6f2766e04333b8",
+      "sharedAyahs": [
+        "16:116"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aA-RpgVRa9w",
+          "start": 2056.6,
+          "end": 2167.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/117.mp3",
+      "startMs": 0,
+      "endMs": 82820,
+      "durationMs": 82820,
+      "recordingDurationMs": 82820,
+      "bytes": 994477,
+      "sha256": "98923dfebc89223e75e797fd8c5480bd88e716ffe5933136c177524d3d969975",
+      "sharedAyahs": [
+        "16:117"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aA-RpgVRa9w",
+          "start": 2167.2,
+          "end": 2250.0
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/118.mp3",
+      "startMs": 0,
+      "endMs": 206830,
+      "durationMs": 206830,
+      "recordingDurationMs": 206830,
+      "bytes": 2482573,
+      "sha256": "989254d5101c35b7d4c95a2de3c534ae890de45f11b3014be4098e15ccf483de",
+      "sharedAyahs": [
+        "16:118"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aA-RpgVRa9w",
+          "start": 2250.0,
+          "end": 2456.8
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/119.mp3",
+      "startMs": 0,
+      "endMs": 231851,
+      "durationMs": 231851,
+      "recordingDurationMs": 608570,
+      "bytes": 7303241,
+      "sha256": "96cde0bfde84decfd1a70d4ba40f80a21b3f57ec06ed56075b6ad60b718be655",
+      "sharedAyahs": [
+        "16:119"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aA-RpgVRa9w",
+          "start": 2456.8,
+          "end": 2688.74
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/119.mp3",
+      "startMs": 231851,
+      "endMs": 608570,
+      "durationMs": 376719,
+      "recordingDurationMs": 608570,
+      "bytes": 7303241,
+      "sha256": "96cde0bfde84decfd1a70d4ba40f80a21b3f57ec06ed56075b6ad60b718be655",
+      "sharedAyahs": [
+        "16:119"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VE9umcZMwcI",
+          "start": 0.0,
+          "end": 376.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/120.mp3",
+      "startMs": 0,
+      "endMs": 850030,
+      "durationMs": 850030,
+      "recordingDurationMs": 850030,
+      "bytes": 10200973,
+      "sha256": "786e0313c737d79b600232383959dfbcb6a0e14d3482ef89dd394caa059dd9dd",
+      "sharedAyahs": [
+        "16:120"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VE9umcZMwcI",
+          "start": 376.6,
+          "end": 1226.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/121.mp3",
+      "startMs": 0,
+      "endMs": 23710,
+      "durationMs": 23710,
+      "recordingDurationMs": 23710,
+      "bytes": 285133,
+      "sha256": "334c83b27c54a6efdd16f156fd44bfe3eae9c424a4143e044a3017b3bb3682d0",
+      "sharedAyahs": [
+        "16:121"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VE9umcZMwcI",
+          "start": 1226.6,
+          "end": 1250.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/122.mp3",
+      "startMs": 0,
+      "endMs": 213340,
+      "durationMs": 213340,
+      "recordingDurationMs": 213340,
+      "bytes": 2560621,
+      "sha256": "37a678ee79d39742e94d1ed4a1cdfc26ef758ed979924b93cd9e062ce4a56f9c",
+      "sharedAyahs": [
+        "16:122"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VE9umcZMwcI",
+          "start": 1250.3,
+          "end": 1463.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/123.mp3",
+      "startMs": 0,
+      "endMs": 46730,
+      "durationMs": 46730,
+      "recordingDurationMs": 46730,
+      "bytes": 561325,
+      "sha256": "c885320ebe67fa22f8236cc2944e8e3cc3b636781752439414eeede5eef8585e",
+      "sharedAyahs": [
+        "16:123"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VE9umcZMwcI",
+          "start": 1463.6,
+          "end": 1510.3
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/124.mp3",
+      "startMs": 0,
+      "endMs": 547320,
+      "durationMs": 547320,
+      "recordingDurationMs": 547320,
+      "bytes": 6568429,
+      "sha256": "28d75c72c511fec733fa3db56490e4eb12d4a2dbd9038ae084421b197cfc46cd",
+      "sharedAyahs": [
+        "16:124"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VE9umcZMwcI",
+          "start": 1510.3,
+          "end": 2057.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/125.mp3",
+      "startMs": 0,
+      "endMs": 592320,
+      "durationMs": 592320,
+      "recordingDurationMs": 592320,
+      "bytes": 7108429,
+      "sha256": "36441e8850592695787947337e2c2410ae3bcc2a4c21554eaef555032bc1f219",
+      "sharedAyahs": [
+        "16:125"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VE9umcZMwcI",
+          "start": 2057.6,
+          "end": 2649.9
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/126.mp3",
+      "startMs": 0,
+      "endMs": 156635,
+      "durationMs": 156635,
+      "recordingDurationMs": 1651940,
+      "bytes": 19823753,
+      "sha256": "dbd83b88041245045e221dd8003ce4fee26a9c446e1dba3c4d7637cc0b7796e2",
+      "sharedAyahs": [
+        "16:126"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VE9umcZMwcI",
+          "start": 2649.9,
+          "end": 2806.63
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/126.mp3",
+      "startMs": 156635,
+      "endMs": 1651940,
+      "durationMs": 1495305,
+      "recordingDurationMs": 1651940,
+      "bytes": 19823753,
+      "sha256": "dbd83b88041245045e221dd8003ce4fee26a9c446e1dba3c4d7637cc0b7796e2",
+      "sharedAyahs": [
+        "16:126"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J9DBYC3BgB8",
+          "start": 0.0,
+          "end": 1495.2
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/127.mp3",
+      "startMs": 0,
+      "endMs": 914420,
+      "durationMs": 914420,
+      "recordingDurationMs": 914420,
+      "bytes": 10973677,
+      "sha256": "3164acc547099f669f0f0fdfdb93c3c00bfc35613263ac8955254448cdaaea1a",
+      "sharedAyahs": [
+        "16:127"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J9DBYC3BgB8",
+          "start": 1495.2,
+          "end": 2409.6
+        }
+      ]
+    },
+    {
+      "file": "016-النحل-youtube-v1/128.mp3",
+      "startMs": 0,
+      "endMs": 239540,
+      "durationMs": 239540,
+      "recordingDurationMs": 239540,
+      "bytes": 2875117,
+      "sha256": "a1cd9929580b8457750741e848816508391437f17b6143ee146f89af7beb85b3",
+      "sharedAyahs": [
+        "16:128"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "J9DBYC3BgB8",
+          "start": 2409.6,
+          "end": 2649.14
+        }
+      ]
+    }
+  ]
+}
