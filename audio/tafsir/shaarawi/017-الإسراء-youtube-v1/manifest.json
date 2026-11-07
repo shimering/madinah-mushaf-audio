@@ -1,0 +1,4299 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 17,
+  "surahName": "الإسراء",
+  "ayahCount": 111,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 111,
+    "mappedAyahCount": 111,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "bhQk2PirYTc": {
+      "durationSeconds": 2784.91,
+      "bytes": 33419550,
+      "sha256": "6ae6cf30223d4a20167fc4f256a92616e0b898cdcd3e79d4bc2c9dcebc8d638f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_bhQk2PirYTc.mp3",
+      "url": "https://www.youtube.com/watch?v=bhQk2PirYTc"
+    },
+    "ivUFvH6fFyw": {
+      "durationSeconds": 2769.17,
+      "bytes": 33230625,
+      "sha256": "7a9a734e8ad01dd350bb8035863106e8666f4f993ab445020c1911f8406d1141",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_ivUFvH6fFyw.mp3",
+      "url": "https://www.youtube.com/watch?v=ivUFvH6fFyw"
+    },
+    "GMbTulZft0o": {
+      "durationSeconds": 2762.78,
+      "bytes": 33154017,
+      "sha256": "dbfd8ebc891dacda169a3e600e45bf8921aad8026f87806b3ff944cf4dfca0fc",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_GMbTulZft0o.mp3",
+      "url": "https://www.youtube.com/watch?v=GMbTulZft0o"
+    },
+    "0UOP2GmpZJ4": {
+      "durationSeconds": 2800.8,
+      "bytes": 33610209,
+      "sha256": "a53dafe04a394c91b68a629cfef7e1ffd3071aa9157691c1e804eff4487b74ef",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_0UOP2GmpZJ4.mp3",
+      "url": "https://www.youtube.com/watch?v=0UOP2GmpZJ4"
+    },
+    "j1YtP0Ji_UU": {
+      "durationSeconds": 2736.55,
+      "bytes": 32839235,
+      "sha256": "5dfa0c8a00bc9d3a42a6c7d0efd5e4b21cac02635ae11c1b4c39a9c25c7f1276",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_j1YtP0Ji_UU.mp3",
+      "url": "https://www.youtube.com/watch?v=j1YtP0Ji_UU"
+    },
+    "0__cbNBM0eQ": {
+      "durationSeconds": 2692.15,
+      "bytes": 32306437,
+      "sha256": "680f2ecf8bd320f88697c16f5dd138ac2fbb7319f4490574e94ff5474fafa403",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_0__cbNBM0eQ.mp3",
+      "url": "https://www.youtube.com/watch?v=0__cbNBM0eQ"
+    },
+    "0hJ8MA8cv3s": {
+      "durationSeconds": 2758.66,
+      "bytes": 33104485,
+      "sha256": "bcd8ebcedee0274c29e653d0ef22024c5705f46ab20548ec8729fffb5605970a",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_0hJ8MA8cv3s.mp3",
+      "url": "https://www.youtube.com/watch?v=0hJ8MA8cv3s"
+    },
+    "GjBc1kvpib8": {
+      "durationSeconds": 2672.78,
+      "bytes": 32074021,
+      "sha256": "9528ca951c2adf3d3ed81e0ee6c6850e70179f29acdf4389298ce4a262f7add4",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_GjBc1kvpib8.mp3",
+      "url": "https://www.youtube.com/watch?v=GjBc1kvpib8"
+    },
+    "Jltj7DjFn1A": {
+      "durationSeconds": 2694.79,
+      "bytes": 32338117,
+      "sha256": "2ac5701ac79db0af005693a1d1a7d570960e021ed762bbdf2136ecb6826ceb96",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_Jltj7DjFn1A.mp3",
+      "url": "https://www.youtube.com/watch?v=Jltj7DjFn1A"
+    },
+    "tO4u1zDGq8w": {
+      "durationSeconds": 2765.83,
+      "bytes": 33190598,
+      "sha256": "96c52ecfdf624bedb19612e791a58d545ae27cb78988c8a9e23f57cdca4cfe3f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_tO4u1zDGq8w.mp3",
+      "url": "https://www.youtube.com/watch?v=tO4u1zDGq8w"
+    },
+    "DXbzHRQ_-Ns": {
+      "durationSeconds": 2804.33,
+      "bytes": 33652550,
+      "sha256": "6dbc39b1134cc8f1c93961dd98207dedab2ce3bdd96839e5b2a4741907049c7b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_DXbzHRQ_-Ns.mp3",
+      "url": "https://www.youtube.com/watch?v=DXbzHRQ_-Ns"
+    },
+    "zq-bXPU7dd4": {
+      "durationSeconds": 2759.18,
+      "bytes": 33110822,
+      "sha256": "c5b19bc031066b51c5cd18dc53d613eae25ea40bc375c162305860d7b5388988",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_zq-bXPU7dd4.mp3",
+      "url": "https://www.youtube.com/watch?v=zq-bXPU7dd4"
+    },
+    "FKGUQNJ3xTs": {
+      "durationSeconds": 2819.64,
+      "bytes": 33836294,
+      "sha256": "5366d7a976d609ca2c82221e62fbf36598817fc4ca6513488e1a5cdcde8e9759",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_FKGUQNJ3xTs.mp3",
+      "url": "https://www.youtube.com/watch?v=FKGUQNJ3xTs"
+    },
+    "-hW9xWHNJnI": {
+      "durationSeconds": 2756.09,
+      "bytes": 33073670,
+      "sha256": "c0c5e2f965bfa331f5979636096d520d46c7a27b32c1d410c39392065875a13c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_-hW9xWHNJnI.mp3",
+      "url": "https://www.youtube.com/watch?v=-hW9xWHNJnI"
+    },
+    "T7ky3fE3zo8": {
+      "durationSeconds": 2731.27,
+      "bytes": 32775878,
+      "sha256": "6b2054bde86b0093f29a339a09acdfb63cc2df095a5d713db3ead412b8d4e693",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "015_T7ky3fE3zo8.mp3",
+      "url": "https://www.youtube.com/watch?v=T7ky3fE3zo8"
+    },
+    "D3RY0HAmEEs": {
+      "durationSeconds": 2713.08,
+      "bytes": 32557574,
+      "sha256": "48e622427829bef4c6fdc9b233bf9b8c850fba0e2badfbb266aaa6cbae6a6d12",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "016_D3RY0HAmEEs.mp3",
+      "url": "https://www.youtube.com/watch?v=D3RY0HAmEEs"
+    },
+    "Xq2RgGbmW7c": {
+      "durationSeconds": 2537.28,
+      "bytes": 30448087,
+      "sha256": "89367a67ce54e3e0bb57ffeee53572cae91d771a6a18a3a476736e7768ae07db",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "017_Xq2RgGbmW7c.mp3",
+      "url": "https://www.youtube.com/watch?v=Xq2RgGbmW7c"
+    },
+    "lyuUsL67ZzY": {
+      "durationSeconds": 2253.07,
+      "bytes": 27037498,
+      "sha256": "aab978fbc71e0e4439032c471f94e797b011bf52a25ff6ad98424c7729487c00",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "018_lyuUsL67ZzY.mp3",
+      "url": "https://www.youtube.com/watch?v=lyuUsL67ZzY"
+    },
+    "qMtHtNaZiwE": {
+      "durationSeconds": 2474.26,
+      "bytes": 29691706,
+      "sha256": "14037b47bb3ee80f04288d192c2334ad3550f8bf7c94c78c46c02dea5996ef8b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "019_qMtHtNaZiwE.mp3",
+      "url": "https://www.youtube.com/watch?v=qMtHtNaZiwE"
+    },
+    "1RGz9PgmET4": {
+      "durationSeconds": 2425.49,
+      "bytes": 29106490,
+      "sha256": "6280ee974de8ee6bbab09db03bb56099ee0c7e747e58f549b40291377620a6a7",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "020_1RGz9PgmET4.mp3",
+      "url": "https://www.youtube.com/watch?v=1RGz9PgmET4"
+    },
+    "6hSb-idPLkQ": {
+      "durationSeconds": 2135.69,
+      "bytes": 25628890,
+      "sha256": "17bd77907a5c012b9b7e3548df4a8765c0128e29b3d91647b042436496f8fd82",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "021_6hSb-idPLkQ.mp3",
+      "url": "https://www.youtube.com/watch?v=6hSb-idPLkQ"
+    },
+    "BzvPWv3xC7s": {
+      "durationSeconds": 2534.09,
+      "bytes": 30409690,
+      "sha256": "76c36eca1f26edd1f55b4fbab7e672e92906d4f3eac3d71a14a4aee66f6e31e1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "023_BzvPWv3xC7s.mp3",
+      "url": "https://www.youtube.com/watch?v=BzvPWv3xC7s"
+    },
+    "BGKwIQqbU6g": {
+      "durationSeconds": 2499.12,
+      "bytes": 29990074,
+      "sha256": "e60a395eac5427e63bcac5094abd9cc09e8eb173826eff403cb9230700f9b205",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "024_BGKwIQqbU6g.mp3",
+      "url": "https://www.youtube.com/watch?v=BGKwIQqbU6g"
+    },
+    "q_qVzyKWYx8": {
+      "durationSeconds": 2330.35,
+      "bytes": 27964822,
+      "sha256": "5b6634d8e4e2734426e41a64e01cf855ddf5dcbeafba5091891b999cef6ba35b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "025_q_qVzyKWYx8.mp3",
+      "url": "https://www.youtube.com/watch?v=q_qVzyKWYx8"
+    },
+    "AAhXNzWcwSg": {
+      "durationSeconds": 2425.25,
+      "bytes": 29103574,
+      "sha256": "15defc1a49b0026ee49c677b55d43d1a484cd43aeac155818370b5c632eab21c",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "026_AAhXNzWcwSg.mp3",
+      "url": "https://www.youtube.com/watch?v=AAhXNzWcwSg"
+    },
+    "9Y7S9Ou4D1w": {
+      "durationSeconds": 2155.94,
+      "bytes": 25871926,
+      "sha256": "b8e447edd179314e92b1506ae13af8482b475858c98e3d5ce6eb78b9ae401edc",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "027_9Y7S9Ou4D1w.mp3",
+      "url": "https://www.youtube.com/watch?v=9Y7S9Ou4D1w"
+    },
+    "zFdXjz3b1qU": {
+      "durationSeconds": 2464.08,
+      "bytes": 29569575,
+      "sha256": "7af7027c4f49035d763889de687819677e6f498179d2b4ed40e6ec59d0061b16",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "029_zFdXjz3b1qU.mp3",
+      "url": "https://www.youtube.com/watch?v=zFdXjz3b1qU"
+    }
+  },
+  "ayahs": {
+    "17:1": {
+      "file": "017-الإسراء-youtube-v1/001.mp3",
+      "durationMs": 2703600,
+      "bytes": 32443793,
+      "sha256": "d46d76aa1c9e5ca58460a293cdf65725e7b57ff2f40ca83b286539533c7d3b04",
+      "sharedAyahs": [
+        "17:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bhQk2PirYTc",
+          "start": 81.29,
+          "end": 2784.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:2": {
+      "file": "017-الإسراء-youtube-v1/002.mp3",
+      "durationMs": 1842020,
+      "bytes": 22104881,
+      "sha256": "00a4dcfca00d526a9534847d2a653cd5ffaaae641a46de833dec862bd19fff6f",
+      "sharedAyahs": [
+        "17:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ivUFvH6fFyw",
+          "start": 0.0,
+          "end": 1842.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:3": {
+      "file": "017-الإسراء-youtube-v1/003.mp3",
+      "durationMs": 578040,
+      "bytes": 6937073,
+      "sha256": "f536b9e070cb5fa298f8c13d5a17169e11f5a1b63a9163395d848177d7c2be8e",
+      "sharedAyahs": [
+        "17:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ivUFvH6fFyw",
+          "start": 1842.0,
+          "end": 2420.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:4": {
+      "file": "017-الإسراء-youtube-v1/004.mp3",
+      "durationMs": 349150,
+      "bytes": 4190417,
+      "sha256": "965eb6948efe8c03261df6c4c87e4b7e9e83944fba8fb568f8ce4aad2be0efb9",
+      "sharedAyahs": [
+        "17:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ivUFvH6fFyw",
+          "start": 2420.0,
+          "end": 2769.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:5": {
+      "file": "017-الإسراء-youtube-v1/005.mp3",
+      "durationMs": 2005970,
+      "bytes": 24072209,
+      "sha256": "0f7fa46372157e25f7cf6637106d9752747adfff49c87f38dc7d8c7591771b89",
+      "sharedAyahs": [
+        "17:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GMbTulZft0o",
+          "start": 45.94,
+          "end": 2051.9
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:6": {
+      "file": "017-الإسراء-youtube-v1/006.mp3",
+      "durationMs": 339430,
+      "bytes": 4073777,
+      "sha256": "a9b153fb26b3f5d9fc196e0c420a0c20727aa001b979b400cd8de20d6e41c705",
+      "sharedAyahs": [
+        "17:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GMbTulZft0o",
+          "start": 2051.9,
+          "end": 2391.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:7": {
+      "file": "017-الإسراء-youtube-v1/007.mp3",
+      "durationMs": 371470,
+      "bytes": 4458257,
+      "sha256": "e0c8070a793b1013f056516e0cfb4575a4887f6c948689577948dacaecce754e",
+      "sharedAyahs": [
+        "17:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GMbTulZft0o",
+          "start": 2391.3,
+          "end": 2762.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:8": {
+      "file": "017-الإسراء-youtube-v1/008.mp3",
+      "durationMs": 1665360,
+      "bytes": 19984913,
+      "sha256": "ec3bc1815218b9c947304feb65fa57bb12643bf94b5a54474222811ae760b057",
+      "sharedAyahs": [
+        "17:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0UOP2GmpZJ4",
+          "start": 29.66,
+          "end": 1695.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:9": {
+      "file": "017-الإسراء-youtube-v1/009.mp3",
+      "durationMs": 1105800,
+      "bytes": 13270193,
+      "sha256": "32bd57bd553022db135bd3e2ab6f3d670d8119a4b679346f13e26c6af7cc0b9f",
+      "sharedAyahs": [
+        "17:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0UOP2GmpZJ4",
+          "start": 1695.0,
+          "end": 2800.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:10": {
+      "file": "017-الإسراء-youtube-v1/010.mp3",
+      "durationMs": 1590020,
+      "bytes": 19080883,
+      "sha256": "fdc1a7d6be833e4acbecdb5b67901a1e6146d7b8b88483bd1852aae2f5c336b7",
+      "sharedAyahs": [
+        "17:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j1YtP0Ji_UU",
+          "start": 0.0,
+          "end": 1590.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:11": {
+      "file": "017-الإسراء-youtube-v1/011.mp3",
+      "durationMs": 307030,
+      "bytes": 3684979,
+      "sha256": "dde48e1b16d2d1a35e04437d7be7aebe414bc7bac18d3075bcacacd5fd3542ee",
+      "sharedAyahs": [
+        "17:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j1YtP0Ji_UU",
+          "start": 1590.0,
+          "end": 1897.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:12": {
+      "file": "017-الإسراء-youtube-v1/012.mp3",
+      "durationMs": 839540,
+      "bytes": 10075123,
+      "sha256": "08ccb9aa4b7dfa52071e5a07b314a5b1ca8b78cdd07a96e0492c7dfb28f0e03a",
+      "sharedAyahs": [
+        "17:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "j1YtP0Ji_UU",
+          "start": 1897.0,
+          "end": 2736.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:13": {
+      "file": "017-الإسراء-youtube-v1/013.mp3",
+      "durationMs": 961030,
+      "bytes": 11532979,
+      "sha256": "483134330f9ffd87151d0dfdd67b43356549ce6640e08375954957891573b375",
+      "sharedAyahs": [
+        "17:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0__cbNBM0eQ",
+          "start": 0.0,
+          "end": 961.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:14": {
+      "file": "017-الإسراء-youtube-v1/014.mp3",
+      "durationMs": 144020,
+      "bytes": 1728883,
+      "sha256": "85fafeea83a03520d7e7be9858d775237b379f4096a6875557099eb6b210a015",
+      "sharedAyahs": [
+        "17:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0__cbNBM0eQ",
+          "start": 961.0,
+          "end": 1105.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:15": {
+      "file": "017-الإسراء-youtube-v1/015.mp3",
+      "durationMs": 1587140,
+      "bytes": 19046323,
+      "sha256": "99aa60498465b5429240de492b729b94e97a8233091b2a5d7cf73d914f1d6425",
+      "sharedAyahs": [
+        "17:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0__cbNBM0eQ",
+          "start": 1105.0,
+          "end": 2692.15
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:16": {
+      "file": "017-الإسراء-youtube-v1/016.mp3",
+      "durationMs": 986420,
+      "bytes": 11837683,
+      "sha256": "c6a22864b5fc4bd5a9719fdbc199e91e7498be41f981b160cd3a864d83cbb1f3",
+      "sharedAyahs": [
+        "17:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0hJ8MA8cv3s",
+          "start": 16.59,
+          "end": 1003.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:17": {
+      "file": "017-الإسراء-youtube-v1/017.mp3",
+      "durationMs": 136030,
+      "bytes": 1632979,
+      "sha256": "a695c584c09ff183aec079e12e8266bff855e89851d4625bf828f5e65967bfaa",
+      "sharedAyahs": [
+        "17:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0hJ8MA8cv3s",
+          "start": 1003.0,
+          "end": 1139.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:18": {
+      "file": "017-الإسراء-youtube-v1/018.mp3",
+      "durationMs": 873020,
+      "bytes": 10476883,
+      "sha256": "958d5ff35da1ec8fe0609af798f95cbf92350a903078e2da91f90d285cb188a7",
+      "sharedAyahs": [
+        "17:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0hJ8MA8cv3s",
+          "start": 1139.0,
+          "end": 2012.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:19": {
+      "file": "017-الإسراء-youtube-v1/019.mp3",
+      "durationMs": 322010,
+      "bytes": 3864691,
+      "sha256": "3101218d28252fbd408e10f3d51dead41f7b6207713c1905254a94f52058171f",
+      "sharedAyahs": [
+        "17:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0hJ8MA8cv3s",
+          "start": 2012.0,
+          "end": 2334.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:20": {
+      "file": "017-الإسراء-youtube-v1/020.mp3",
+      "durationMs": 142030,
+      "bytes": 1704979,
+      "sha256": "37ff53ae40094111f653dce1ee3f63ad28e467dfe2d5cd4c610344edc15c4876",
+      "sharedAyahs": [
+        "17:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0hJ8MA8cv3s",
+          "start": 2334.0,
+          "end": 2476.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:21": {
+      "file": "017-الإسراء-youtube-v1/021.mp3",
+      "durationMs": 282650,
+      "bytes": 3392371,
+      "sha256": "eae29e9e4e327c90b38f16ab951929ca26303cf795fcb3308723eb8f54756482",
+      "sharedAyahs": [
+        "17:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0hJ8MA8cv3s",
+          "start": 2476.0,
+          "end": 2758.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:22": {
+      "file": "017-الإسراء-youtube-v1/022.mp3",
+      "durationMs": 1102030,
+      "bytes": 13224979,
+      "sha256": "0c8ba8e8361b5a84822e1f71a16e33adf4dd0643d325aebcf66d6862f1eb9192",
+      "sharedAyahs": [
+        "17:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GjBc1kvpib8",
+          "start": 0.0,
+          "end": 1102.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:23": {
+      "file": "017-الإسراء-youtube-v1/023.mp3",
+      "durationMs": 1177030,
+      "bytes": 14124979,
+      "sha256": "907f983e1c788b374c6116c76f21b6e03bbd0acec8b46e00403c7424915e4d31",
+      "sharedAyahs": [
+        "17:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GjBc1kvpib8",
+          "start": 1102.0,
+          "end": 2279.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:24": {
+      "file": "017-الإسراء-youtube-v1/024.mp3",
+      "durationMs": 393770,
+      "bytes": 4725811,
+      "sha256": "ce73bdc8225af4c98d3e4267a10b4df7945abb30d98a36ce72f0ab12002948a3",
+      "sharedAyahs": [
+        "17:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "GjBc1kvpib8",
+          "start": 2279.0,
+          "end": 2672.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:25": {
+      "file": "017-الإسراء-youtube-v1/025.mp3",
+      "durationMs": 1380480,
+      "bytes": 16566355,
+      "sha256": "86527f89bc5e27fe4ef4bba154dad1df0693b054ec4bb33950908d3cd21c8a4b",
+      "sharedAyahs": [
+        "17:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Jltj7DjFn1A",
+          "start": 15.54,
+          "end": 1396.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:26": {
+      "file": "017-الإسراء-youtube-v1/026.mp3",
+      "durationMs": 305020,
+      "bytes": 3660787,
+      "sha256": "8e92ec557908544c68983d64bc083f884752d83f2af293edab5804565c911b0a",
+      "sharedAyahs": [
+        "17:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Jltj7DjFn1A",
+          "start": 1396.0,
+          "end": 1701.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:27": {
+      "file": "017-الإسراء-youtube-v1/027.mp3",
+      "durationMs": 354020,
+      "bytes": 4248883,
+      "sha256": "5d79e3ce761d49c5806b478f9f2d3ca60db80923ca0349d1b79be21f3b6063be",
+      "sharedAyahs": [
+        "17:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Jltj7DjFn1A",
+          "start": 1701.0,
+          "end": 2055.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:28": {
+      "file": "017-الإسراء-youtube-v1/028.mp3",
+      "durationMs": 317040,
+      "bytes": 3805075,
+      "sha256": "c518421aab9719cf6de34d955af1af61f5d781dcbc0d4f36c3089eefdc07f877",
+      "sharedAyahs": [
+        "17:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Jltj7DjFn1A",
+          "start": 2055.0,
+          "end": 2372.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:29": {
+      "file": "017-الإسراء-youtube-v1/029.mp3",
+      "durationMs": 322780,
+      "bytes": 3873907,
+      "sha256": "946fa935a3435f75df29d3555bedc53c6556a15a26c1d8e39b397abfda8e38ae",
+      "sharedAyahs": [
+        "17:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Jltj7DjFn1A",
+          "start": 2372.0,
+          "end": 2694.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:30": {
+      "file": "017-الإسراء-youtube-v1/030.mp3",
+      "durationMs": 838610,
+      "bytes": 10063891,
+      "sha256": "ec0dd8042aaa509cb55155faa5390cc1694a9effa87b7707f8d32c5df436e592",
+      "sharedAyahs": [
+        "17:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tO4u1zDGq8w",
+          "start": 30.42,
+          "end": 869.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:31": {
+      "file": "017-الإسراء-youtube-v1/031.mp3",
+      "durationMs": 1496020,
+      "bytes": 17952787,
+      "sha256": "57cc1ca912d94f23ac1557c56a28de1bda22c06563fa807cba1b2f4bd4f19fc6",
+      "sharedAyahs": [
+        "17:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tO4u1zDGq8w",
+          "start": 869.0,
+          "end": 2365.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:32": {
+      "file": "017-الإسراء-youtube-v1/032.mp3",
+      "durationMs": 400820,
+      "bytes": 4810483,
+      "sha256": "dd84a552426b7ff1d309905c60adde56daef8a7693955ebebb59d48429372ba8",
+      "sharedAyahs": [
+        "17:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "tO4u1zDGq8w",
+          "start": 2365.0,
+          "end": 2765.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:33": {
+      "file": "017-الإسراء-youtube-v1/033.mp3",
+      "durationMs": 1918030,
+      "bytes": 23016979,
+      "sha256": "84ae2e24d83f3ee109a9160cc5df3919960905edd6cceb5f3f149eacd7306e14",
+      "sharedAyahs": [
+        "17:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DXbzHRQ_-Ns",
+          "start": 0.0,
+          "end": 1918.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:34": {
+      "file": "017-الإسراء-youtube-v1/034.mp3",
+      "durationMs": 886320,
+      "bytes": 10636435,
+      "sha256": "3f2bd0d9ce5827cf10fcf1199121baac4756a1834dc43437a9794f439e483e13",
+      "sharedAyahs": [
+        "17:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DXbzHRQ_-Ns",
+          "start": 1918.0,
+          "end": 2804.33
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:35": {
+      "file": "017-الإسراء-youtube-v1/035.mp3",
+      "durationMs": 1409040,
+      "bytes": 16909075,
+      "sha256": "b600e68e8db148dfc4d76116ab28bfcadcefb91f8f170e89c596864dbcc1bcee",
+      "sharedAyahs": [
+        "17:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zq-bXPU7dd4",
+          "start": 0.0,
+          "end": 1409.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:36": {
+      "file": "017-الإسراء-youtube-v1/036.mp3",
+      "durationMs": 1350170,
+      "bytes": 16202611,
+      "sha256": "6eeb709626f075a9d6d66d570219828306c89f1a766b18843c54d80d33e565b0",
+      "sharedAyahs": [
+        "17:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zq-bXPU7dd4",
+          "start": 1409.0,
+          "end": 2759.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:37": {
+      "file": "017-الإسراء-youtube-v1/037.mp3",
+      "durationMs": 857040,
+      "bytes": 10285075,
+      "sha256": "cb1d2cfe906dd099c3d2205ca17e33232f29ebd180fb048af18c84a09ec6fefe",
+      "sharedAyahs": [
+        "17:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FKGUQNJ3xTs",
+          "start": 0.0,
+          "end": 857.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:38": {
+      "file": "017-الإسراء-youtube-v1/038.mp3",
+      "durationMs": 457010,
+      "bytes": 5484691,
+      "sha256": "9cb9a463401e54c3d3272303d8cc2f3ff29f984efa71c095627d8be7872ab58c",
+      "sharedAyahs": [
+        "17:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FKGUQNJ3xTs",
+          "start": 857.0,
+          "end": 1314.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:39": {
+      "file": "017-الإسراء-youtube-v1/039.mp3",
+      "durationMs": 263040,
+      "bytes": 3157075,
+      "sha256": "5a1c55d00baa58722f4a87d26098460fcda41c5c122e67323db192fa55d8729d",
+      "sharedAyahs": [
+        "17:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FKGUQNJ3xTs",
+          "start": 1314.0,
+          "end": 1577.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:40": {
+      "file": "017-الإسراء-youtube-v1/040.mp3",
+      "durationMs": 94010,
+      "bytes": 1128691,
+      "sha256": "e871ae11ddee8cf6119612e2089b75f455c2ad90adb0ba6cf99590fef5aacc3e",
+      "sharedAyahs": [
+        "17:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FKGUQNJ3xTs",
+          "start": 1577.0,
+          "end": 1671.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:41": {
+      "file": "017-الإسراء-youtube-v1/041.mp3",
+      "durationMs": 351020,
+      "bytes": 4212883,
+      "sha256": "1d17118d5a43b598854a7375629b6f992005cdb4cf66ad1b91c87eef19df6538",
+      "sharedAyahs": [
+        "17:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FKGUQNJ3xTs",
+          "start": 1671.0,
+          "end": 2022.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:42": {
+      "file": "017-الإسراء-youtube-v1/042.mp3",
+      "durationMs": 158040,
+      "bytes": 1897075,
+      "sha256": "c226861297c12f4391fd851c3e5c1927d954a15d1086ac8f9dda87e44d5c3050",
+      "sharedAyahs": [
+        "17:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FKGUQNJ3xTs",
+          "start": 2022.0,
+          "end": 2180.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:43": {
+      "file": "017-الإسراء-youtube-v1/043.mp3",
+      "durationMs": 207020,
+      "bytes": 2484883,
+      "sha256": "fa067b731492765276d93af3e6e426054326171096c9ae5a72a1dec0f0a30650",
+      "sharedAyahs": [
+        "17:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FKGUQNJ3xTs",
+          "start": 2180.0,
+          "end": 2387.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:44": {
+      "file": "017-الإسراء-youtube-v1/044.mp3",
+      "durationMs": 432620,
+      "bytes": 5192083,
+      "sha256": "1e3ae063bd381655297bc1deb215623e66d1930ec01cd5452219800ffb746bba",
+      "sharedAyahs": [
+        "17:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FKGUQNJ3xTs",
+          "start": 2387.0,
+          "end": 2819.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:45": {
+      "file": "017-الإسراء-youtube-v1/045.mp3",
+      "durationMs": 1935020,
+      "bytes": 23220883,
+      "sha256": "cbc2f3c5b387c8d4278159507e67a06326398401fb27f02e88351546dadcacc5",
+      "sharedAyahs": [
+        "17:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hW9xWHNJnI",
+          "start": 0.0,
+          "end": 1935.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:46": {
+      "file": "017-الإسراء-youtube-v1/046.mp3",
+      "durationMs": 485040,
+      "bytes": 5821075,
+      "sha256": "bc4efa83f5b70f69fa20abd76653babe3bf7f4639673f7321103f44b639706c8",
+      "sharedAyahs": [
+        "17:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hW9xWHNJnI",
+          "start": 1935.0,
+          "end": 2420.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:47": {
+      "file": "017-الإسراء-youtube-v1/047.mp3",
+      "durationMs": 336070,
+      "bytes": 4033459,
+      "sha256": "951505d2929dc7991572eb5b0efe2aaf070ec8d42b78e979769a5050a2fa19af",
+      "sharedAyahs": [
+        "17:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-hW9xWHNJnI",
+          "start": 2420.0,
+          "end": 2756.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:48": {
+      "file": "017-الإسراء-youtube-v1/048.mp3",
+      "durationMs": 1847040,
+      "bytes": 22165075,
+      "sha256": "d0a2d768ce5694cc5e51e94579c22dba85f37bea0aa5acbb3b2811fc769b7d48",
+      "sharedAyahs": [
+        "17:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T7ky3fE3zo8",
+          "start": 0.0,
+          "end": 1847.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:49": {
+      "file": "017-الإسراء-youtube-v1/049.mp3",
+      "durationMs": 553010,
+      "bytes": 6636691,
+      "sha256": "71ade6d8c5378e8c3f2b6278ef811ed0ad4929ca77e087464871f96e836f8a10",
+      "sharedAyahs": [
+        "17:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T7ky3fE3zo8",
+          "start": 1847.0,
+          "end": 2400.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:50": {
+      "file": "017-الإسراء-youtube-v1/050.mp3",
+      "durationMs": 258020,
+      "bytes": 3096883,
+      "sha256": "3f713d017ab38bc9697f3db24782b7c8feb2d30e93a90fa9b54ea445d13a949e",
+      "sharedAyahs": [
+        "17:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T7ky3fE3zo8",
+          "start": 2400.0,
+          "end": 2658.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:51": {
+      "file": "017-الإسراء-youtube-v1/051.mp3",
+      "durationMs": 73270,
+      "bytes": 879859,
+      "sha256": "30545556c793d3882dec3358bee190d72266aaacdce3e877797b1eaf581fd47c",
+      "sharedAyahs": [
+        "17:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "T7ky3fE3zo8",
+          "start": 2658.0,
+          "end": 2731.27
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:52": {
+      "file": "017-الإسراء-youtube-v1/052.mp3",
+      "durationMs": 1271880,
+      "bytes": 15263155,
+      "sha256": "5a1dc7c56ce72d746858956f5a877f9691a134929d26e2dedc747b97a7deec2c",
+      "sharedAyahs": [
+        "17:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D3RY0HAmEEs",
+          "start": 24.14,
+          "end": 1296.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:53": {
+      "file": "017-الإسراء-youtube-v1/053.mp3",
+      "durationMs": 617040,
+      "bytes": 7405075,
+      "sha256": "71c12ad489549df9406a3129d8cf5b824bd725a558a6cfeaa21d586bc4d3eae2",
+      "sharedAyahs": [
+        "17:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D3RY0HAmEEs",
+          "start": 1296.0,
+          "end": 1913.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:54": {
+      "file": "017-الإسراء-youtube-v1/054.mp3",
+      "durationMs": 387020,
+      "bytes": 4644883,
+      "sha256": "743ce753b561fa6464d29afa912ec0313a3d86371ea09f9607e7849dc9468735",
+      "sharedAyahs": [
+        "17:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D3RY0HAmEEs",
+          "start": 1913.0,
+          "end": 2300.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:55": {
+      "file": "017-الإسراء-youtube-v1/055.mp3",
+      "durationMs": 413060,
+      "bytes": 4957363,
+      "sha256": "43dac4f1338259efb71f649c2153166b0b4d43acbbd2674c998ef813ea18c109",
+      "sharedAyahs": [
+        "17:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "D3RY0HAmEEs",
+          "start": 2300.0,
+          "end": 2713.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:56": {
+      "file": "017-الإسراء-youtube-v1/056.mp3",
+      "durationMs": 278040,
+      "bytes": 3337168,
+      "sha256": "c380afa806aa6d428b0a7f885880a27b4b997e855ae270cac6da794d685272e6",
+      "sharedAyahs": [
+        "17:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xq2RgGbmW7c",
+          "start": 0.0,
+          "end": 278.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:57": {
+      "file": "017-الإسراء-youtube-v1/057.mp3",
+      "durationMs": 317020,
+      "bytes": 3804880,
+      "sha256": "b5a11f2cb784845bce61d34545a60b7691f9b2aec6e885e9d3321b1d8c8fd4fd",
+      "sharedAyahs": [
+        "17:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xq2RgGbmW7c",
+          "start": 278.0,
+          "end": 595.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:58": {
+      "file": "017-الإسراء-youtube-v1/058.mp3",
+      "durationMs": 1242020,
+      "bytes": 14904976,
+      "sha256": "9acf064a083fe115854be7678838538ad34265ecc54289261ead7bc241873296",
+      "sharedAyahs": [
+        "17:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xq2RgGbmW7c",
+          "start": 595.0,
+          "end": 1837.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:59": {
+      "file": "017-الإسراء-youtube-v1/059.mp3",
+      "durationMs": 700270,
+      "bytes": 8403952,
+      "sha256": "d58f116a0dac0999c113e4de9af7bfaf791cd15d2b73141a987ecd41abed0334",
+      "sharedAyahs": [
+        "17:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Xq2RgGbmW7c",
+          "start": 1837.0,
+          "end": 2537.28
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:60": {
+      "file": "017-الإسراء-youtube-v1/060.mp3",
+      "durationMs": 2127020,
+      "bytes": 25524883,
+      "sha256": "6f8b89db1c4249674a5a03d544c4058ba8eea5fbac1720ecae6f2260020c0692",
+      "sharedAyahs": [
+        "17:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lyuUsL67ZzY",
+          "start": 0.0,
+          "end": 2127.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:61": {
+      "file": "017-الإسراء-youtube-v1/061.mp3",
+      "durationMs": 126070,
+      "bytes": 1513459,
+      "sha256": "fe63cc762f91231f52dd13455a15d5866cbd4f6c5cdf5afecd56a92a86bdbdf5",
+      "sharedAyahs": [
+        "17:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lyuUsL67ZzY",
+          "start": 2127.0,
+          "end": 2253.07
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:62": {
+      "file": "017-الإسراء-youtube-v1/062.mp3",
+      "durationMs": 1292040,
+      "bytes": 15505075,
+      "sha256": "a4849b24838f438ab0af38a91ad0a2559f5fe8c1d75383337c9e9f25b95b1f72",
+      "sharedAyahs": [
+        "17:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qMtHtNaZiwE",
+          "start": 0.0,
+          "end": 1292.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:63": {
+      "file": "017-الإسراء-youtube-v1/063.mp3",
+      "durationMs": 90020,
+      "bytes": 1080883,
+      "sha256": "763449b958f4b7790d885638c24c0a506c96e75b1ca540d6b75f54454115d093",
+      "sharedAyahs": [
+        "17:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qMtHtNaZiwE",
+          "start": 1292.0,
+          "end": 1382.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:64": {
+      "file": "017-الإسراء-youtube-v1/064.mp3",
+      "durationMs": 559010,
+      "bytes": 6708691,
+      "sha256": "57fa9218364ce7f01378665f48e124066f600e2a199f2516ae56fa0ae364eda8",
+      "sharedAyahs": [
+        "17:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qMtHtNaZiwE",
+          "start": 1382.0,
+          "end": 1941.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:65": {
+      "file": "017-الإسراء-youtube-v1/065.mp3",
+      "durationMs": 308040,
+      "bytes": 3697075,
+      "sha256": "301f7387450b0e74a5393af9397644979fd9968a33f4e98d22120c31adcbc0de",
+      "sharedAyahs": [
+        "17:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qMtHtNaZiwE",
+          "start": 1941.0,
+          "end": 2249.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:66": {
+      "file": "017-الإسراء-youtube-v1/066.mp3",
+      "durationMs": 225240,
+      "bytes": 2703475,
+      "sha256": "d95bec4f3e38f5773024cf75d5d4672798cbbdfc3f8715901e92c89201658e62",
+      "sharedAyahs": [
+        "17:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qMtHtNaZiwE",
+          "start": 2249.0,
+          "end": 2474.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:67": {
+      "file": "017-الإسراء-youtube-v1/067.mp3",
+      "durationMs": 705020,
+      "bytes": 8460883,
+      "sha256": "b65da1fa32589df8098bfad02fc0bc00769643a9298d3664d548f84b20a436d9",
+      "sharedAyahs": [
+        "17:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1RGz9PgmET4",
+          "start": 0.0,
+          "end": 705.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:68": {
+      "file": "017-الإسراء-youtube-v1/068.mp3",
+      "durationMs": 46030,
+      "bytes": 552979,
+      "sha256": "0a8af4b1a9d0644158be7b92d9622fa88a83856b8de36364db7f48812d6fed74",
+      "sharedAyahs": [
+        "17:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1RGz9PgmET4",
+          "start": 705.0,
+          "end": 751.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:69": {
+      "file": "017-الإسراء-youtube-v1/069.mp3",
+      "durationMs": 197020,
+      "bytes": 2364787,
+      "sha256": "d8e52dce6589b839c1efd082fbcd0670b4c08fe46e814b885f613ffc56c1dda6",
+      "sharedAyahs": [
+        "17:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1RGz9PgmET4",
+          "start": 751.0,
+          "end": 948.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:70": {
+      "file": "017-الإسراء-youtube-v1/070.mp3",
+      "durationMs": 400030,
+      "bytes": 4800979,
+      "sha256": "a15f9d197f225ee0d4a6ca0af5a084e96ca82d2a13e12daf09ff4bfd9fc9e4aa",
+      "sharedAyahs": [
+        "17:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1RGz9PgmET4",
+          "start": 948.0,
+          "end": 1348.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:71": {
+      "file": "017-الإسراء-youtube-v1/071.mp3",
+      "durationMs": 244030,
+      "bytes": 2928979,
+      "sha256": "c7725926876cb8203ef48a127ab656a074f3e0d5a9eb486be30aa7eb21ec50f6",
+      "sharedAyahs": [
+        "17:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1RGz9PgmET4",
+          "start": 1348.0,
+          "end": 1592.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:72": {
+      "file": "017-الإسراء-youtube-v1/072.mp3",
+      "durationMs": 833470,
+      "bytes": 10002259,
+      "sha256": "bafac2dc5255c1d84d3ce4ce3a0948d9f09890144ff931f9537f0b3687ef960a",
+      "sharedAyahs": [
+        "17:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1RGz9PgmET4",
+          "start": 1592.0,
+          "end": 2425.49
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:73": {
+      "file": "017-الإسراء-youtube-v1/073.mp3",
+      "durationMs": 127030,
+      "bytes": 1524979,
+      "sha256": "b15c9f018dbfa3fd9ddb1cc5fbdf3808fef6f733f6e256f4435c917697e792a9",
+      "sharedAyahs": [
+        "17:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6hSb-idPLkQ",
+          "start": 0.0,
+          "end": 127.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:74": {
+      "file": "017-الإسراء-youtube-v1/074.mp3",
+      "durationMs": 506020,
+      "bytes": 6072787,
+      "sha256": "4ca1c01d43d7c30632081cb5f513dbfe125945b9dcec723f15a78594d6d82681",
+      "sharedAyahs": [
+        "17:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6hSb-idPLkQ",
+          "start": 127.0,
+          "end": 633.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:75": {
+      "file": "017-الإسراء-youtube-v1/075.mp3",
+      "durationMs": 267020,
+      "bytes": 3204883,
+      "sha256": "3efc64ed818dd9f9360a552122e987893c95488873466cebb515ed21339e453e",
+      "sharedAyahs": [
+        "17:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6hSb-idPLkQ",
+          "start": 633.0,
+          "end": 900.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:76": {
+      "file": "017-الإسراء-youtube-v1/076.mp3",
+      "durationMs": 145030,
+      "bytes": 1740979,
+      "sha256": "b0a4b5b6ad68b31d43d4ed465d33a6d5b4b6f6b9a5ed2995894083c830b78cca",
+      "sharedAyahs": [
+        "17:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6hSb-idPLkQ",
+          "start": 900.0,
+          "end": 1045.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:77": {
+      "file": "017-الإسراء-youtube-v1/077.mp3",
+      "durationMs": 208030,
+      "bytes": 2496979,
+      "sha256": "03e8d29f874fb17a0676494a6d52be9e7a35c6c9ad6f493c95fd2d2ba5fe621b",
+      "sharedAyahs": [
+        "17:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6hSb-idPLkQ",
+          "start": 1045.0,
+          "end": 1253.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:78": {
+      "file": "017-الإسراء-youtube-v1/078.mp3",
+      "durationMs": 609020,
+      "bytes": 7308883,
+      "sha256": "c7b2d1dc463a8c815d274eb5c60ee4243d61442cbd2b704a2c86648ed5ff8d9a",
+      "sharedAyahs": [
+        "17:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6hSb-idPLkQ",
+          "start": 1253.0,
+          "end": 1862.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:79": {
+      "file": "017-الإسراء-youtube-v1/079.mp3",
+      "durationMs": 273670,
+      "bytes": 3284659,
+      "sha256": "4d03b09733d36d4ca1e2652897da392a3f8c7705c79ab7a12ddbe52c8fd88f79",
+      "sharedAyahs": [
+        "17:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6hSb-idPLkQ",
+          "start": 1862.0,
+          "end": 2135.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:80": {
+      "file": "017-الإسراء-youtube-v1/080.mp3",
+      "durationMs": 728040,
+      "bytes": 8737075,
+      "sha256": "34c2db32eb71aec351c468b3841ff31e6bd8b4060206c48ff216f1d46f27b00f",
+      "sharedAyahs": [
+        "17:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BzvPWv3xC7s",
+          "start": 0.0,
+          "end": 728.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:81": {
+      "file": "017-الإسراء-youtube-v1/081.mp3",
+      "durationMs": 255020,
+      "bytes": 3060883,
+      "sha256": "50834e0f21e9668284ccc4f9b792e66b8f1ae9c8e51c82451b69d376228bb825",
+      "sharedAyahs": [
+        "17:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BzvPWv3xC7s",
+          "start": 728.0,
+          "end": 983.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:82": {
+      "file": "017-الإسراء-youtube-v1/082.mp3",
+      "durationMs": 652010,
+      "bytes": 7824691,
+      "sha256": "eabaf5f90c0aa9df8ff07d1481f2be9facd9b9136066fabb6e7e1638624f3703",
+      "sharedAyahs": [
+        "17:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BzvPWv3xC7s",
+          "start": 983.0,
+          "end": 1635.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:83": {
+      "file": "017-الإسراء-youtube-v1/083.mp3",
+      "durationMs": 294020,
+      "bytes": 3528883,
+      "sha256": "612c68eca927f994d16d6c92207c37d47f422507ca9e64434a8d3dbc0a3b4d71",
+      "sharedAyahs": [
+        "17:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BzvPWv3xC7s",
+          "start": 1635.0,
+          "end": 1929.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:84": {
+      "file": "017-الإسراء-youtube-v1/084.mp3",
+      "durationMs": 74040,
+      "bytes": 889075,
+      "sha256": "9fb416889c1d2a9641f5fa1a2c3c2c84acee247c22c39c24167b0e4d345a8ae0",
+      "sharedAyahs": [
+        "17:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BzvPWv3xC7s",
+          "start": 1929.0,
+          "end": 2003.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:85": {
+      "file": "017-الإسراء-youtube-v1/085.mp3",
+      "durationMs": 531070,
+      "bytes": 6373459,
+      "sha256": "0b74a3a1d86fe799e24101d4aa4dd98e6653e062bd8a72dae636c2bb633229a8",
+      "sharedAyahs": [
+        "17:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BzvPWv3xC7s",
+          "start": 2003.0,
+          "end": 2534.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:86": {
+      "file": "017-الإسراء-youtube-v1/086.mp3",
+      "durationMs": 595030,
+      "bytes": 7140979,
+      "sha256": "a40241f3d980d5d9c365b6b3243892e97c044ad2d1ed5e6c7fa9317cccc4589e",
+      "sharedAyahs": [
+        "17:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BGKwIQqbU6g",
+          "start": 0.0,
+          "end": 595.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:87": {
+      "file": "017-الإسراء-youtube-v1/087.mp3",
+      "durationMs": 659020,
+      "bytes": 7908787,
+      "sha256": "2da6e6aaa0d8571fa55671bf463a397ae25d74c32304c91887992fb99d0942fd",
+      "sharedAyahs": [
+        "17:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BGKwIQqbU6g",
+          "start": 595.0,
+          "end": 1254.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:88": {
+      "file": "017-الإسراء-youtube-v1/088.mp3",
+      "durationMs": 261020,
+      "bytes": 3132883,
+      "sha256": "2d0174500269bccc39ecce81ebb24548306dcde1420cea5c8b5cb778bf1c4cce",
+      "sharedAyahs": [
+        "17:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BGKwIQqbU6g",
+          "start": 1254.0,
+          "end": 1515.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:89": {
+      "file": "017-الإسراء-youtube-v1/089.mp3",
+      "durationMs": 783020,
+      "bytes": 9396883,
+      "sha256": "86f2b9118ca9ad0bb271f0b4cd87fff961eb2f273110450a45116b6dec0cbf4c",
+      "sharedAyahs": [
+        "17:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BGKwIQqbU6g",
+          "start": 1515.0,
+          "end": 2298.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:90": {
+      "file": "017-الإسراء-youtube-v1/090.mp3",
+      "durationMs": 201120,
+      "bytes": 2414035,
+      "sha256": "61db0a2392b4b3fe7f31d3ca6a999f9f0c7ece0ef390a2b454ccdd9591de1270",
+      "sharedAyahs": [
+        "17:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "BGKwIQqbU6g",
+          "start": 2298.0,
+          "end": 2499.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:91": {
+      "file": "017-الإسراء-youtube-v1/091.mp3",
+      "durationMs": 120020,
+      "bytes": 1440883,
+      "sha256": "150c57753a5281418a2639f0ca57732e39b754737f834dfc0c4a529003e31232",
+      "sharedAyahs": [
+        "17:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 0.0,
+          "end": 120.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:92": {
+      "file": "017-الإسراء-youtube-v1/092.mp3",
+      "durationMs": 120020,
+      "bytes": 1440883,
+      "sha256": "a37f6f1266e81eed354c18a0d9812ec2f3548df801435765bf5a537a22167567",
+      "sharedAyahs": [
+        "17:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 120.0,
+          "end": 240.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:93": {
+      "file": "017-الإسراء-youtube-v1/093.mp3",
+      "durationMs": 120020,
+      "bytes": 1440883,
+      "sha256": "72511be33e04bf86936c1d982616598926cdbad1d58f28efb3b40fdd2f6be4d4",
+      "sharedAyahs": [
+        "17:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 240.0,
+          "end": 360.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:94": {
+      "file": "017-الإسراء-youtube-v1/094.mp3",
+      "durationMs": 120020,
+      "bytes": 1440883,
+      "sha256": "74b3d4369bea0504846b4489e9818f50a0a1638e68aca1e6ee2adaa941dfe491",
+      "sharedAyahs": [
+        "17:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 360.0,
+          "end": 480.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:95": {
+      "file": "017-الإسراء-youtube-v1/095.mp3",
+      "durationMs": 120020,
+      "bytes": 1440883,
+      "sha256": "b00214dd5f934ccce500fd53564afecb6e8aa61540209c26d09f34a1f0021fcd",
+      "sharedAyahs": [
+        "17:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 480.0,
+          "end": 600.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:96": {
+      "file": "017-الإسراء-youtube-v1/096.mp3",
+      "durationMs": 131040,
+      "bytes": 1573075,
+      "sha256": "f2752a249750f8b6fe01569c828b203818afa3da3f822e43c895c890a4fd656c",
+      "sharedAyahs": [
+        "17:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 600.0,
+          "end": 731.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:97": {
+      "file": "017-الإسراء-youtube-v1/097.mp3",
+      "durationMs": 119020,
+      "bytes": 1428787,
+      "sha256": "e4ecc4d58af92604cf51d001c4dbcc3ee7750cbc5be6f10530f609b84807a575",
+      "sharedAyahs": [
+        "17:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 731.0,
+          "end": 850.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:98": {
+      "file": "017-الإسراء-youtube-v1/098.mp3",
+      "durationMs": 649030,
+      "bytes": 7788979,
+      "sha256": "e37cb94385bd99c94a11143a8343f3c84f52b58e33701541dfd58f7cded1e752",
+      "sharedAyahs": [
+        "17:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 850.0,
+          "end": 1499.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:99": {
+      "file": "017-الإسراء-youtube-v1/099.mp3",
+      "durationMs": 192020,
+      "bytes": 2304883,
+      "sha256": "b4c82e418a0a0f6b482707045933afc1d630a109085243b5ea0df9f589333ad7",
+      "sharedAyahs": [
+        "17:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 1499.0,
+          "end": 1691.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:100": {
+      "file": "017-الإسراء-youtube-v1/100.mp3",
+      "durationMs": 639340,
+      "bytes": 7672629,
+      "sha256": "3f9a1dbabcff670da3a97ccd6e87b54943dfe580f0465a2b9f2fca6902b7b442",
+      "sharedAyahs": [
+        "17:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "q_qVzyKWYx8",
+          "start": 1691.0,
+          "end": 2330.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:101": {
+      "file": "017-الإسراء-youtube-v1/101.mp3",
+      "durationMs": 591020,
+      "bytes": 7092885,
+      "sha256": "9ec47bf73f823516086c5ed40587097998700fa0ac0ef8ebf9009020f127fe73",
+      "sharedAyahs": [
+        "17:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AAhXNzWcwSg",
+          "start": 0.0,
+          "end": 591.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:102": {
+      "file": "017-الإسراء-youtube-v1/102.mp3",
+      "durationMs": 593040,
+      "bytes": 7117077,
+      "sha256": "5f6995401420194c839fb9aa655ca534a05db3994b65d20f4976b9cffb0543db",
+      "sharedAyahs": [
+        "17:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AAhXNzWcwSg",
+          "start": 591.0,
+          "end": 1184.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:103": {
+      "file": "017-الإسراء-youtube-v1/103.mp3",
+      "durationMs": 187010,
+      "bytes": 2244693,
+      "sha256": "017d6cb5d418b548053ed6083d6a66d4a0c489e879d36912b87bc6623e034094",
+      "sharedAyahs": [
+        "17:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AAhXNzWcwSg",
+          "start": 1184.0,
+          "end": 1371.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:104": {
+      "file": "017-الإسراء-youtube-v1/104.mp3",
+      "durationMs": 1054250,
+      "bytes": 12651573,
+      "sha256": "a425a6e18984be52d4acd8243466e095368411e701d894cb8085e43aac5c4357",
+      "sharedAyahs": [
+        "17:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AAhXNzWcwSg",
+          "start": 1371.0,
+          "end": 2425.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:105": {
+      "file": "017-الإسراء-youtube-v1/105.mp3",
+      "durationMs": 204020,
+      "bytes": 2448885,
+      "sha256": "e744e6ba733331037127745469de490df1ad708991ad5f59db7ea40e90f23b40",
+      "sharedAyahs": [
+        "17:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Y7S9Ou4D1w",
+          "start": 0.0,
+          "end": 204.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:106": {
+      "file": "017-الإسراء-youtube-v1/106.mp3",
+      "durationMs": 790030,
+      "bytes": 9480981,
+      "sha256": "b94d0ebff050f4fd1b295b328fd2f13037183566254b477b7fe6baa6cf6d9eea",
+      "sharedAyahs": [
+        "17:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Y7S9Ou4D1w",
+          "start": 204.0,
+          "end": 994.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:107": {
+      "file": "017-الإسراء-youtube-v1/107.mp3",
+      "durationMs": 249020,
+      "bytes": 2988885,
+      "sha256": "6b9b9ce7c476075ae4469902ee2c006fa6d671f7ddfb0749a47dd4f76738f56f",
+      "sharedAyahs": [
+        "17:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Y7S9Ou4D1w",
+          "start": 994.0,
+          "end": 1243.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:108": {
+      "file": "017-الإسراء-youtube-v1/108.mp3",
+      "durationMs": 157030,
+      "bytes": 1884981,
+      "sha256": "21cf4a6b3a470dbe877b26e2186f2a1f8d2538ddce50b163db5486067fef2659",
+      "sharedAyahs": [
+        "17:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Y7S9Ou4D1w",
+          "start": 1243.0,
+          "end": 1400.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:109": {
+      "file": "017-الإسراء-youtube-v1/109.mp3",
+      "durationMs": 755930,
+      "bytes": 9071733,
+      "sha256": "84d425f85c85ef14af387d7fd548f2df29312b78c8f0dcba49dbdd88bf5e81d9",
+      "sharedAyahs": [
+        "17:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9Y7S9Ou4D1w",
+          "start": 1400.0,
+          "end": 2155.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:110": {
+      "file": "017-الإسراء-youtube-v1/110.mp3",
+      "durationMs": 928030,
+      "bytes": 11136981,
+      "sha256": "e8caca03e7a161fdbfed7d41db1de001168e2d991ba47e133d2a659bfb7893cd",
+      "sharedAyahs": [
+        "17:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zFdXjz3b1qU",
+          "start": 0.0,
+          "end": 928.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "17:111": {
+      "file": "017-الإسراء-youtube-v1/111.mp3",
+      "durationMs": 1536070,
+      "bytes": 18433461,
+      "sha256": "73da2fba62777b1646d82fbb6d6c3e526c20afcdc9a3b6345dd32282449d2a4e",
+      "sharedAyahs": [
+        "17:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zFdXjz3b1qU",
+          "start": 928.0,
+          "end": 2464.08
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLIL_QjBq2DDCV6x2Q2u1n3n2i6q5b9k8m",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "isra-miracle-ascension",
+      "title": "معجزة الإسراء والمعراج وقدسية المسجد الأقصى والربط بين المسجدين",
+      "file": "017-الإسراء-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 2703600
+    },
+    {
+      "id": "isra-parents-ethics",
+      "title": "بر الوالدين وحقوق الأقارب ودستور الأخلاق الإسلامية والمعاملات الإنسانية",
+      "file": "017-الإسراء-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 1177030
+    },
+    {
+      "id": "isra-human-dignity",
+      "title": "تكريم الله لبني آدم وحملهم في البر والبحر وتفضيل الإنسان على كثير من المخلوقات",
+      "file": "017-الإسراء-youtube-v1/070.mp3",
+      "startMs": 0,
+      "endMs": 400030
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "bhQk2PirYTc",
+      "ivUFvH6fFyw",
+      "GMbTulZft0o",
+      "0UOP2GmpZJ4",
+      "j1YtP0Ji_UU",
+      "0__cbNBM0eQ",
+      "0hJ8MA8cv3s",
+      "GjBc1kvpib8",
+      "Jltj7DjFn1A",
+      "tO4u1zDGq8w",
+      "DXbzHRQ_-Ns",
+      "zq-bXPU7dd4",
+      "FKGUQNJ3xTs",
+      "-hW9xWHNJnI",
+      "T7ky3fE3zo8",
+      "D3RY0HAmEEs",
+      "Xq2RgGbmW7c",
+      "lyuUsL67ZzY",
+      "qMtHtNaZiwE",
+      "1RGz9PgmET4",
+      "6hSb-idPLkQ",
+      "BzvPWv3xC7s",
+      "BGKwIQqbU6g",
+      "q_qVzyKWYx8",
+      "AAhXNzWcwSg",
+      "9Y7S9Ou4D1w",
+      "zFdXjz3b1qU"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "017-الإسراء-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 2703600,
+        "durationMs": 2703600,
+        "recordingDurationMs": 2703600,
+        "bytes": 32443793,
+        "sha256": "d46d76aa1c9e5ca58460a293cdf65725e7b57ff2f40ca83b286539533c7d3b04",
+        "sharedAyahs": [
+          "17:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "bhQk2PirYTc",
+            "start": 81.29,
+            "end": 2784.91
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 1842020,
+        "durationMs": 1842020,
+        "recordingDurationMs": 1842020,
+        "bytes": 22104881,
+        "sha256": "00a4dcfca00d526a9534847d2a653cd5ffaaae641a46de833dec862bd19fff6f",
+        "sharedAyahs": [
+          "17:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ivUFvH6fFyw",
+            "start": 0.0,
+            "end": 1842.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 578040,
+        "durationMs": 578040,
+        "recordingDurationMs": 578040,
+        "bytes": 6937073,
+        "sha256": "f536b9e070cb5fa298f8c13d5a17169e11f5a1b63a9163395d848177d7c2be8e",
+        "sharedAyahs": [
+          "17:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ivUFvH6fFyw",
+            "start": 1842.0,
+            "end": 2420.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 349150,
+        "durationMs": 349150,
+        "recordingDurationMs": 349150,
+        "bytes": 4190417,
+        "sha256": "965eb6948efe8c03261df6c4c87e4b7e9e83944fba8fb568f8ce4aad2be0efb9",
+        "sharedAyahs": [
+          "17:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ivUFvH6fFyw",
+            "start": 2420.0,
+            "end": 2769.17
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 2005970,
+        "durationMs": 2005970,
+        "recordingDurationMs": 2005970,
+        "bytes": 24072209,
+        "sha256": "0f7fa46372157e25f7cf6637106d9752747adfff49c87f38dc7d8c7591771b89",
+        "sharedAyahs": [
+          "17:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GMbTulZft0o",
+            "start": 45.94,
+            "end": 2051.9
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 339430,
+        "durationMs": 339430,
+        "recordingDurationMs": 339430,
+        "bytes": 4073777,
+        "sha256": "a9b153fb26b3f5d9fc196e0c420a0c20727aa001b979b400cd8de20d6e41c705",
+        "sharedAyahs": [
+          "17:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GMbTulZft0o",
+            "start": 2051.9,
+            "end": 2391.3
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 371470,
+        "durationMs": 371470,
+        "recordingDurationMs": 371470,
+        "bytes": 4458257,
+        "sha256": "e0c8070a793b1013f056516e0cfb4575a4887f6c948689577948dacaecce754e",
+        "sharedAyahs": [
+          "17:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GMbTulZft0o",
+            "start": 2391.3,
+            "end": 2762.78
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 1665360,
+        "durationMs": 1665360,
+        "recordingDurationMs": 1665360,
+        "bytes": 19984913,
+        "sha256": "ec3bc1815218b9c947304feb65fa57bb12643bf94b5a54474222811ae760b057",
+        "sharedAyahs": [
+          "17:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0UOP2GmpZJ4",
+            "start": 29.66,
+            "end": 1695.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 1105800,
+        "durationMs": 1105800,
+        "recordingDurationMs": 1105800,
+        "bytes": 13270193,
+        "sha256": "32bd57bd553022db135bd3e2ab6f3d670d8119a4b679346f13e26c6af7cc0b9f",
+        "sharedAyahs": [
+          "17:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0UOP2GmpZJ4",
+            "start": 1695.0,
+            "end": 2800.8
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 1590020,
+        "durationMs": 1590020,
+        "recordingDurationMs": 1590020,
+        "bytes": 19080883,
+        "sha256": "fdc1a7d6be833e4acbecdb5b67901a1e6146d7b8b88483bd1852aae2f5c336b7",
+        "sharedAyahs": [
+          "17:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j1YtP0Ji_UU",
+            "start": 0.0,
+            "end": 1590.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 307030,
+        "durationMs": 307030,
+        "recordingDurationMs": 307030,
+        "bytes": 3684979,
+        "sha256": "dde48e1b16d2d1a35e04437d7be7aebe414bc7bac18d3075bcacacd5fd3542ee",
+        "sharedAyahs": [
+          "17:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j1YtP0Ji_UU",
+            "start": 1590.0,
+            "end": 1897.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 839540,
+        "durationMs": 839540,
+        "recordingDurationMs": 839540,
+        "bytes": 10075123,
+        "sha256": "08ccb9aa4b7dfa52071e5a07b314a5b1ca8b78cdd07a96e0492c7dfb28f0e03a",
+        "sharedAyahs": [
+          "17:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "j1YtP0Ji_UU",
+            "start": 1897.0,
+            "end": 2736.55
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 961030,
+        "durationMs": 961030,
+        "recordingDurationMs": 961030,
+        "bytes": 11532979,
+        "sha256": "483134330f9ffd87151d0dfdd67b43356549ce6640e08375954957891573b375",
+        "sharedAyahs": [
+          "17:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0__cbNBM0eQ",
+            "start": 0.0,
+            "end": 961.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 144020,
+        "durationMs": 144020,
+        "recordingDurationMs": 144020,
+        "bytes": 1728883,
+        "sha256": "85fafeea83a03520d7e7be9858d775237b379f4096a6875557099eb6b210a015",
+        "sharedAyahs": [
+          "17:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0__cbNBM0eQ",
+            "start": 961.0,
+            "end": 1105.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 1587140,
+        "durationMs": 1587140,
+        "recordingDurationMs": 1587140,
+        "bytes": 19046323,
+        "sha256": "99aa60498465b5429240de492b729b94e97a8233091b2a5d7cf73d914f1d6425",
+        "sharedAyahs": [
+          "17:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0__cbNBM0eQ",
+            "start": 1105.0,
+            "end": 2692.15
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 986420,
+        "durationMs": 986420,
+        "recordingDurationMs": 986420,
+        "bytes": 11837683,
+        "sha256": "c6a22864b5fc4bd5a9719fdbc199e91e7498be41f981b160cd3a864d83cbb1f3",
+        "sharedAyahs": [
+          "17:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0hJ8MA8cv3s",
+            "start": 16.59,
+            "end": 1003.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 136030,
+        "durationMs": 136030,
+        "recordingDurationMs": 136030,
+        "bytes": 1632979,
+        "sha256": "a695c584c09ff183aec079e12e8266bff855e89851d4625bf828f5e65967bfaa",
+        "sharedAyahs": [
+          "17:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0hJ8MA8cv3s",
+            "start": 1003.0,
+            "end": 1139.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 873020,
+        "durationMs": 873020,
+        "recordingDurationMs": 873020,
+        "bytes": 10476883,
+        "sha256": "958d5ff35da1ec8fe0609af798f95cbf92350a903078e2da91f90d285cb188a7",
+        "sharedAyahs": [
+          "17:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0hJ8MA8cv3s",
+            "start": 1139.0,
+            "end": 2012.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 322010,
+        "durationMs": 322010,
+        "recordingDurationMs": 322010,
+        "bytes": 3864691,
+        "sha256": "3101218d28252fbd408e10f3d51dead41f7b6207713c1905254a94f52058171f",
+        "sharedAyahs": [
+          "17:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0hJ8MA8cv3s",
+            "start": 2012.0,
+            "end": 2334.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 142030,
+        "durationMs": 142030,
+        "recordingDurationMs": 142030,
+        "bytes": 1704979,
+        "sha256": "37ff53ae40094111f653dce1ee3f63ad28e467dfe2d5cd4c610344edc15c4876",
+        "sharedAyahs": [
+          "17:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0hJ8MA8cv3s",
+            "start": 2334.0,
+            "end": 2476.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 282650,
+        "durationMs": 282650,
+        "recordingDurationMs": 282650,
+        "bytes": 3392371,
+        "sha256": "eae29e9e4e327c90b38f16ab951929ca26303cf795fcb3308723eb8f54756482",
+        "sharedAyahs": [
+          "17:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "0hJ8MA8cv3s",
+            "start": 2476.0,
+            "end": 2758.66
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 1102030,
+        "durationMs": 1102030,
+        "recordingDurationMs": 1102030,
+        "bytes": 13224979,
+        "sha256": "0c8ba8e8361b5a84822e1f71a16e33adf4dd0643d325aebcf66d6862f1eb9192",
+        "sharedAyahs": [
+          "17:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GjBc1kvpib8",
+            "start": 0.0,
+            "end": 1102.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 1177030,
+        "durationMs": 1177030,
+        "recordingDurationMs": 1177030,
+        "bytes": 14124979,
+        "sha256": "907f983e1c788b374c6116c76f21b6e03bbd0acec8b46e00403c7424915e4d31",
+        "sharedAyahs": [
+          "17:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GjBc1kvpib8",
+            "start": 1102.0,
+            "end": 2279.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 393770,
+        "durationMs": 393770,
+        "recordingDurationMs": 393770,
+        "bytes": 4725811,
+        "sha256": "ce73bdc8225af4c98d3e4267a10b4df7945abb30d98a36ce72f0ab12002948a3",
+        "sharedAyahs": [
+          "17:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "GjBc1kvpib8",
+            "start": 2279.0,
+            "end": 2672.78
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 1380480,
+        "durationMs": 1380480,
+        "recordingDurationMs": 1380480,
+        "bytes": 16566355,
+        "sha256": "86527f89bc5e27fe4ef4bba154dad1df0693b054ec4bb33950908d3cd21c8a4b",
+        "sharedAyahs": [
+          "17:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Jltj7DjFn1A",
+            "start": 15.54,
+            "end": 1396.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 305020,
+        "durationMs": 305020,
+        "recordingDurationMs": 305020,
+        "bytes": 3660787,
+        "sha256": "8e92ec557908544c68983d64bc083f884752d83f2af293edab5804565c911b0a",
+        "sharedAyahs": [
+          "17:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Jltj7DjFn1A",
+            "start": 1396.0,
+            "end": 1701.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 354020,
+        "durationMs": 354020,
+        "recordingDurationMs": 354020,
+        "bytes": 4248883,
+        "sha256": "5d79e3ce761d49c5806b478f9f2d3ca60db80923ca0349d1b79be21f3b6063be",
+        "sharedAyahs": [
+          "17:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Jltj7DjFn1A",
+            "start": 1701.0,
+            "end": 2055.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 317040,
+        "durationMs": 317040,
+        "recordingDurationMs": 317040,
+        "bytes": 3805075,
+        "sha256": "c518421aab9719cf6de34d955af1af61f5d781dcbc0d4f36c3089eefdc07f877",
+        "sharedAyahs": [
+          "17:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Jltj7DjFn1A",
+            "start": 2055.0,
+            "end": 2372.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 322780,
+        "durationMs": 322780,
+        "recordingDurationMs": 322780,
+        "bytes": 3873907,
+        "sha256": "946fa935a3435f75df29d3555bedc53c6556a15a26c1d8e39b397abfda8e38ae",
+        "sharedAyahs": [
+          "17:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Jltj7DjFn1A",
+            "start": 2372.0,
+            "end": 2694.79
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 838610,
+        "durationMs": 838610,
+        "recordingDurationMs": 838610,
+        "bytes": 10063891,
+        "sha256": "ec0dd8042aaa509cb55155faa5390cc1694a9effa87b7707f8d32c5df436e592",
+        "sharedAyahs": [
+          "17:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tO4u1zDGq8w",
+            "start": 30.42,
+            "end": 869.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 1496020,
+        "durationMs": 1496020,
+        "recordingDurationMs": 1496020,
+        "bytes": 17952787,
+        "sha256": "57cc1ca912d94f23ac1557c56a28de1bda22c06563fa807cba1b2f4bd4f19fc6",
+        "sharedAyahs": [
+          "17:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tO4u1zDGq8w",
+            "start": 869.0,
+            "end": 2365.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 400820,
+        "durationMs": 400820,
+        "recordingDurationMs": 400820,
+        "bytes": 4810483,
+        "sha256": "dd84a552426b7ff1d309905c60adde56daef8a7693955ebebb59d48429372ba8",
+        "sharedAyahs": [
+          "17:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "tO4u1zDGq8w",
+            "start": 2365.0,
+            "end": 2765.83
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 1918030,
+        "durationMs": 1918030,
+        "recordingDurationMs": 1918030,
+        "bytes": 23016979,
+        "sha256": "84ae2e24d83f3ee109a9160cc5df3919960905edd6cceb5f3f149eacd7306e14",
+        "sharedAyahs": [
+          "17:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DXbzHRQ_-Ns",
+            "start": 0.0,
+            "end": 1918.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 886320,
+        "durationMs": 886320,
+        "recordingDurationMs": 886320,
+        "bytes": 10636435,
+        "sha256": "3f2bd0d9ce5827cf10fcf1199121baac4756a1834dc43437a9794f439e483e13",
+        "sharedAyahs": [
+          "17:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DXbzHRQ_-Ns",
+            "start": 1918.0,
+            "end": 2804.33
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 1409040,
+        "durationMs": 1409040,
+        "recordingDurationMs": 1409040,
+        "bytes": 16909075,
+        "sha256": "b600e68e8db148dfc4d76116ab28bfcadcefb91f8f170e89c596864dbcc1bcee",
+        "sharedAyahs": [
+          "17:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zq-bXPU7dd4",
+            "start": 0.0,
+            "end": 1409.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 1350170,
+        "durationMs": 1350170,
+        "recordingDurationMs": 1350170,
+        "bytes": 16202611,
+        "sha256": "6eeb709626f075a9d6d66d570219828306c89f1a766b18843c54d80d33e565b0",
+        "sharedAyahs": [
+          "17:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zq-bXPU7dd4",
+            "start": 1409.0,
+            "end": 2759.18
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 857040,
+        "durationMs": 857040,
+        "recordingDurationMs": 857040,
+        "bytes": 10285075,
+        "sha256": "cb1d2cfe906dd099c3d2205ca17e33232f29ebd180fb048af18c84a09ec6fefe",
+        "sharedAyahs": [
+          "17:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FKGUQNJ3xTs",
+            "start": 0.0,
+            "end": 857.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 457010,
+        "durationMs": 457010,
+        "recordingDurationMs": 457010,
+        "bytes": 5484691,
+        "sha256": "9cb9a463401e54c3d3272303d8cc2f3ff29f984efa71c095627d8be7872ab58c",
+        "sharedAyahs": [
+          "17:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FKGUQNJ3xTs",
+            "start": 857.0,
+            "end": 1314.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 263040,
+        "durationMs": 263040,
+        "recordingDurationMs": 263040,
+        "bytes": 3157075,
+        "sha256": "5a1c55d00baa58722f4a87d26098460fcda41c5c122e67323db192fa55d8729d",
+        "sharedAyahs": [
+          "17:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FKGUQNJ3xTs",
+            "start": 1314.0,
+            "end": 1577.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 94010,
+        "durationMs": 94010,
+        "recordingDurationMs": 94010,
+        "bytes": 1128691,
+        "sha256": "e871ae11ddee8cf6119612e2089b75f455c2ad90adb0ba6cf99590fef5aacc3e",
+        "sharedAyahs": [
+          "17:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FKGUQNJ3xTs",
+            "start": 1577.0,
+            "end": 1671.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 351020,
+        "durationMs": 351020,
+        "recordingDurationMs": 351020,
+        "bytes": 4212883,
+        "sha256": "1d17118d5a43b598854a7375629b6f992005cdb4cf66ad1b91c87eef19df6538",
+        "sharedAyahs": [
+          "17:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FKGUQNJ3xTs",
+            "start": 1671.0,
+            "end": 2022.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 158040,
+        "durationMs": 158040,
+        "recordingDurationMs": 158040,
+        "bytes": 1897075,
+        "sha256": "c226861297c12f4391fd851c3e5c1927d954a15d1086ac8f9dda87e44d5c3050",
+        "sharedAyahs": [
+          "17:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FKGUQNJ3xTs",
+            "start": 2022.0,
+            "end": 2180.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 207020,
+        "durationMs": 207020,
+        "recordingDurationMs": 207020,
+        "bytes": 2484883,
+        "sha256": "fa067b731492765276d93af3e6e426054326171096c9ae5a72a1dec0f0a30650",
+        "sharedAyahs": [
+          "17:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FKGUQNJ3xTs",
+            "start": 2180.0,
+            "end": 2387.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 432620,
+        "durationMs": 432620,
+        "recordingDurationMs": 432620,
+        "bytes": 5192083,
+        "sha256": "1e3ae063bd381655297bc1deb215623e66d1930ec01cd5452219800ffb746bba",
+        "sharedAyahs": [
+          "17:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "FKGUQNJ3xTs",
+            "start": 2387.0,
+            "end": 2819.64
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 1935020,
+        "durationMs": 1935020,
+        "recordingDurationMs": 1935020,
+        "bytes": 23220883,
+        "sha256": "cbc2f3c5b387c8d4278159507e67a06326398401fb27f02e88351546dadcacc5",
+        "sharedAyahs": [
+          "17:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-hW9xWHNJnI",
+            "start": 0.0,
+            "end": 1935.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 485040,
+        "durationMs": 485040,
+        "recordingDurationMs": 485040,
+        "bytes": 5821075,
+        "sha256": "bc4efa83f5b70f69fa20abd76653babe3bf7f4639673f7321103f44b639706c8",
+        "sharedAyahs": [
+          "17:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-hW9xWHNJnI",
+            "start": 1935.0,
+            "end": 2420.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 336070,
+        "durationMs": 336070,
+        "recordingDurationMs": 336070,
+        "bytes": 4033459,
+        "sha256": "951505d2929dc7991572eb5b0efe2aaf070ec8d42b78e979769a5050a2fa19af",
+        "sharedAyahs": [
+          "17:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-hW9xWHNJnI",
+            "start": 2420.0,
+            "end": 2756.09
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 1847040,
+        "durationMs": 1847040,
+        "recordingDurationMs": 1847040,
+        "bytes": 22165075,
+        "sha256": "d0a2d768ce5694cc5e51e94579c22dba85f37bea0aa5acbb3b2811fc769b7d48",
+        "sharedAyahs": [
+          "17:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "T7ky3fE3zo8",
+            "start": 0.0,
+            "end": 1847.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 553010,
+        "durationMs": 553010,
+        "recordingDurationMs": 553010,
+        "bytes": 6636691,
+        "sha256": "71ade6d8c5378e8c3f2b6278ef811ed0ad4929ca77e087464871f96e836f8a10",
+        "sharedAyahs": [
+          "17:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "T7ky3fE3zo8",
+            "start": 1847.0,
+            "end": 2400.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 258020,
+        "durationMs": 258020,
+        "recordingDurationMs": 258020,
+        "bytes": 3096883,
+        "sha256": "3f713d017ab38bc9697f3db24782b7c8feb2d30e93a90fa9b54ea445d13a949e",
+        "sharedAyahs": [
+          "17:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "T7ky3fE3zo8",
+            "start": 2400.0,
+            "end": 2658.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 73270,
+        "durationMs": 73270,
+        "recordingDurationMs": 73270,
+        "bytes": 879859,
+        "sha256": "30545556c793d3882dec3358bee190d72266aaacdce3e877797b1eaf581fd47c",
+        "sharedAyahs": [
+          "17:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "T7ky3fE3zo8",
+            "start": 2658.0,
+            "end": 2731.27
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 1271880,
+        "durationMs": 1271880,
+        "recordingDurationMs": 1271880,
+        "bytes": 15263155,
+        "sha256": "5a1dc7c56ce72d746858956f5a877f9691a134929d26e2dedc747b97a7deec2c",
+        "sharedAyahs": [
+          "17:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D3RY0HAmEEs",
+            "start": 24.14,
+            "end": 1296.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 617040,
+        "durationMs": 617040,
+        "recordingDurationMs": 617040,
+        "bytes": 7405075,
+        "sha256": "71c12ad489549df9406a3129d8cf5b824bd725a558a6cfeaa21d586bc4d3eae2",
+        "sharedAyahs": [
+          "17:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D3RY0HAmEEs",
+            "start": 1296.0,
+            "end": 1913.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 387020,
+        "durationMs": 387020,
+        "recordingDurationMs": 387020,
+        "bytes": 4644883,
+        "sha256": "743ce753b561fa6464d29afa912ec0313a3d86371ea09f9607e7849dc9468735",
+        "sharedAyahs": [
+          "17:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D3RY0HAmEEs",
+            "start": 1913.0,
+            "end": 2300.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 413060,
+        "durationMs": 413060,
+        "recordingDurationMs": 413060,
+        "bytes": 4957363,
+        "sha256": "43dac4f1338259efb71f649c2153166b0b4d43acbbd2674c998ef813ea18c109",
+        "sharedAyahs": [
+          "17:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "D3RY0HAmEEs",
+            "start": 2300.0,
+            "end": 2713.08
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 278040,
+        "durationMs": 278040,
+        "recordingDurationMs": 278040,
+        "bytes": 3337168,
+        "sha256": "c380afa806aa6d428b0a7f885880a27b4b997e855ae270cac6da794d685272e6",
+        "sharedAyahs": [
+          "17:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xq2RgGbmW7c",
+            "start": 0.0,
+            "end": 278.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 317020,
+        "durationMs": 317020,
+        "recordingDurationMs": 317020,
+        "bytes": 3804880,
+        "sha256": "b5a11f2cb784845bce61d34545a60b7691f9b2aec6e885e9d3321b1d8c8fd4fd",
+        "sharedAyahs": [
+          "17:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xq2RgGbmW7c",
+            "start": 278.0,
+            "end": 595.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 1242020,
+        "durationMs": 1242020,
+        "recordingDurationMs": 1242020,
+        "bytes": 14904976,
+        "sha256": "9acf064a083fe115854be7678838538ad34265ecc54289261ead7bc241873296",
+        "sharedAyahs": [
+          "17:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xq2RgGbmW7c",
+            "start": 595.0,
+            "end": 1837.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 700270,
+        "durationMs": 700270,
+        "recordingDurationMs": 700270,
+        "bytes": 8403952,
+        "sha256": "d58f116a0dac0999c113e4de9af7bfaf791cd15d2b73141a987ecd41abed0334",
+        "sharedAyahs": [
+          "17:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "Xq2RgGbmW7c",
+            "start": 1837.0,
+            "end": 2537.28
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 2127020,
+        "durationMs": 2127020,
+        "recordingDurationMs": 2127020,
+        "bytes": 25524883,
+        "sha256": "6f8b89db1c4249674a5a03d544c4058ba8eea5fbac1720ecae6f2260020c0692",
+        "sharedAyahs": [
+          "17:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lyuUsL67ZzY",
+            "start": 0.0,
+            "end": 2127.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 126070,
+        "durationMs": 126070,
+        "recordingDurationMs": 126070,
+        "bytes": 1513459,
+        "sha256": "fe63cc762f91231f52dd13455a15d5866cbd4f6c5cdf5afecd56a92a86bdbdf5",
+        "sharedAyahs": [
+          "17:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lyuUsL67ZzY",
+            "start": 2127.0,
+            "end": 2253.07
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 1292040,
+        "durationMs": 1292040,
+        "recordingDurationMs": 1292040,
+        "bytes": 15505075,
+        "sha256": "a4849b24838f438ab0af38a91ad0a2559f5fe8c1d75383337c9e9f25b95b1f72",
+        "sharedAyahs": [
+          "17:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qMtHtNaZiwE",
+            "start": 0.0,
+            "end": 1292.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 90020,
+        "durationMs": 90020,
+        "recordingDurationMs": 90020,
+        "bytes": 1080883,
+        "sha256": "763449b958f4b7790d885638c24c0a506c96e75b1ca540d6b75f54454115d093",
+        "sharedAyahs": [
+          "17:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qMtHtNaZiwE",
+            "start": 1292.0,
+            "end": 1382.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 559010,
+        "durationMs": 559010,
+        "recordingDurationMs": 559010,
+        "bytes": 6708691,
+        "sha256": "57fa9218364ce7f01378665f48e124066f600e2a199f2516ae56fa0ae364eda8",
+        "sharedAyahs": [
+          "17:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qMtHtNaZiwE",
+            "start": 1382.0,
+            "end": 1941.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 308040,
+        "durationMs": 308040,
+        "recordingDurationMs": 308040,
+        "bytes": 3697075,
+        "sha256": "301f7387450b0e74a5393af9397644979fd9968a33f4e98d22120c31adcbc0de",
+        "sharedAyahs": [
+          "17:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qMtHtNaZiwE",
+            "start": 1941.0,
+            "end": 2249.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 225240,
+        "durationMs": 225240,
+        "recordingDurationMs": 225240,
+        "bytes": 2703475,
+        "sha256": "d95bec4f3e38f5773024cf75d5d4672798cbbdfc3f8715901e92c89201658e62",
+        "sharedAyahs": [
+          "17:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "qMtHtNaZiwE",
+            "start": 2249.0,
+            "end": 2474.26
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 705020,
+        "durationMs": 705020,
+        "recordingDurationMs": 705020,
+        "bytes": 8460883,
+        "sha256": "b65da1fa32589df8098bfad02fc0bc00769643a9298d3664d548f84b20a436d9",
+        "sharedAyahs": [
+          "17:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1RGz9PgmET4",
+            "start": 0.0,
+            "end": 705.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 46030,
+        "durationMs": 46030,
+        "recordingDurationMs": 46030,
+        "bytes": 552979,
+        "sha256": "0a8af4b1a9d0644158be7b92d9622fa88a83856b8de36364db7f48812d6fed74",
+        "sharedAyahs": [
+          "17:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1RGz9PgmET4",
+            "start": 705.0,
+            "end": 751.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 197020,
+        "durationMs": 197020,
+        "recordingDurationMs": 197020,
+        "bytes": 2364787,
+        "sha256": "d8e52dce6589b839c1efd082fbcd0670b4c08fe46e814b885f613ffc56c1dda6",
+        "sharedAyahs": [
+          "17:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1RGz9PgmET4",
+            "start": 751.0,
+            "end": 948.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 400030,
+        "durationMs": 400030,
+        "recordingDurationMs": 400030,
+        "bytes": 4800979,
+        "sha256": "a15f9d197f225ee0d4a6ca0af5a084e96ca82d2a13e12daf09ff4bfd9fc9e4aa",
+        "sharedAyahs": [
+          "17:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1RGz9PgmET4",
+            "start": 948.0,
+            "end": 1348.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 244030,
+        "durationMs": 244030,
+        "recordingDurationMs": 244030,
+        "bytes": 2928979,
+        "sha256": "c7725926876cb8203ef48a127ab656a074f3e0d5a9eb486be30aa7eb21ec50f6",
+        "sharedAyahs": [
+          "17:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1RGz9PgmET4",
+            "start": 1348.0,
+            "end": 1592.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 833470,
+        "durationMs": 833470,
+        "recordingDurationMs": 833470,
+        "bytes": 10002259,
+        "sha256": "bafac2dc5255c1d84d3ce4ce3a0948d9f09890144ff931f9537f0b3687ef960a",
+        "sharedAyahs": [
+          "17:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "1RGz9PgmET4",
+            "start": 1592.0,
+            "end": 2425.49
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 127030,
+        "durationMs": 127030,
+        "recordingDurationMs": 127030,
+        "bytes": 1524979,
+        "sha256": "b15c9f018dbfa3fd9ddb1cc5fbdf3808fef6f733f6e256f4435c917697e792a9",
+        "sharedAyahs": [
+          "17:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6hSb-idPLkQ",
+            "start": 0.0,
+            "end": 127.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 506020,
+        "durationMs": 506020,
+        "recordingDurationMs": 506020,
+        "bytes": 6072787,
+        "sha256": "4ca1c01d43d7c30632081cb5f513dbfe125945b9dcec723f15a78594d6d82681",
+        "sharedAyahs": [
+          "17:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6hSb-idPLkQ",
+            "start": 127.0,
+            "end": 633.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 267020,
+        "durationMs": 267020,
+        "recordingDurationMs": 267020,
+        "bytes": 3204883,
+        "sha256": "3efc64ed818dd9f9360a552122e987893c95488873466cebb515ed21339e453e",
+        "sharedAyahs": [
+          "17:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6hSb-idPLkQ",
+            "start": 633.0,
+            "end": 900.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 145030,
+        "durationMs": 145030,
+        "recordingDurationMs": 145030,
+        "bytes": 1740979,
+        "sha256": "b0a4b5b6ad68b31d43d4ed465d33a6d5b4b6f6b9a5ed2995894083c830b78cca",
+        "sharedAyahs": [
+          "17:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6hSb-idPLkQ",
+            "start": 900.0,
+            "end": 1045.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 208030,
+        "durationMs": 208030,
+        "recordingDurationMs": 208030,
+        "bytes": 2496979,
+        "sha256": "03e8d29f874fb17a0676494a6d52be9e7a35c6c9ad6f493c95fd2d2ba5fe621b",
+        "sharedAyahs": [
+          "17:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6hSb-idPLkQ",
+            "start": 1045.0,
+            "end": 1253.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 609020,
+        "durationMs": 609020,
+        "recordingDurationMs": 609020,
+        "bytes": 7308883,
+        "sha256": "c7b2d1dc463a8c815d274eb5c60ee4243d61442cbd2b704a2c86648ed5ff8d9a",
+        "sharedAyahs": [
+          "17:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6hSb-idPLkQ",
+            "start": 1253.0,
+            "end": 1862.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 273670,
+        "durationMs": 273670,
+        "recordingDurationMs": 273670,
+        "bytes": 3284659,
+        "sha256": "4d03b09733d36d4ca1e2652897da392a3f8c7705c79ab7a12ddbe52c8fd88f79",
+        "sharedAyahs": [
+          "17:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "6hSb-idPLkQ",
+            "start": 1862.0,
+            "end": 2135.69
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 728040,
+        "durationMs": 728040,
+        "recordingDurationMs": 728040,
+        "bytes": 8737075,
+        "sha256": "34c2db32eb71aec351c468b3841ff31e6bd8b4060206c48ff216f1d46f27b00f",
+        "sharedAyahs": [
+          "17:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BzvPWv3xC7s",
+            "start": 0.0,
+            "end": 728.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 255020,
+        "durationMs": 255020,
+        "recordingDurationMs": 255020,
+        "bytes": 3060883,
+        "sha256": "50834e0f21e9668284ccc4f9b792e66b8f1ae9c8e51c82451b69d376228bb825",
+        "sharedAyahs": [
+          "17:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BzvPWv3xC7s",
+            "start": 728.0,
+            "end": 983.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 652010,
+        "durationMs": 652010,
+        "recordingDurationMs": 652010,
+        "bytes": 7824691,
+        "sha256": "eabaf5f90c0aa9df8ff07d1481f2be9facd9b9136066fabb6e7e1638624f3703",
+        "sharedAyahs": [
+          "17:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BzvPWv3xC7s",
+            "start": 983.0,
+            "end": 1635.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 294020,
+        "durationMs": 294020,
+        "recordingDurationMs": 294020,
+        "bytes": 3528883,
+        "sha256": "612c68eca927f994d16d6c92207c37d47f422507ca9e64434a8d3dbc0a3b4d71",
+        "sharedAyahs": [
+          "17:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BzvPWv3xC7s",
+            "start": 1635.0,
+            "end": 1929.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 74040,
+        "durationMs": 74040,
+        "recordingDurationMs": 74040,
+        "bytes": 889075,
+        "sha256": "9fb416889c1d2a9641f5fa1a2c3c2c84acee247c22c39c24167b0e4d345a8ae0",
+        "sharedAyahs": [
+          "17:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BzvPWv3xC7s",
+            "start": 1929.0,
+            "end": 2003.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 531070,
+        "durationMs": 531070,
+        "recordingDurationMs": 531070,
+        "bytes": 6373459,
+        "sha256": "0b74a3a1d86fe799e24101d4aa4dd98e6653e062bd8a72dae636c2bb633229a8",
+        "sharedAyahs": [
+          "17:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BzvPWv3xC7s",
+            "start": 2003.0,
+            "end": 2534.09
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 595030,
+        "durationMs": 595030,
+        "recordingDurationMs": 595030,
+        "bytes": 7140979,
+        "sha256": "a40241f3d980d5d9c365b6b3243892e97c044ad2d1ed5e6c7fa9317cccc4589e",
+        "sharedAyahs": [
+          "17:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BGKwIQqbU6g",
+            "start": 0.0,
+            "end": 595.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 659020,
+        "durationMs": 659020,
+        "recordingDurationMs": 659020,
+        "bytes": 7908787,
+        "sha256": "2da6e6aaa0d8571fa55671bf463a397ae25d74c32304c91887992fb99d0942fd",
+        "sharedAyahs": [
+          "17:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BGKwIQqbU6g",
+            "start": 595.0,
+            "end": 1254.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 261020,
+        "durationMs": 261020,
+        "recordingDurationMs": 261020,
+        "bytes": 3132883,
+        "sha256": "2d0174500269bccc39ecce81ebb24548306dcde1420cea5c8b5cb778bf1c4cce",
+        "sharedAyahs": [
+          "17:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BGKwIQqbU6g",
+            "start": 1254.0,
+            "end": 1515.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 783020,
+        "durationMs": 783020,
+        "recordingDurationMs": 783020,
+        "bytes": 9396883,
+        "sha256": "86f2b9118ca9ad0bb271f0b4cd87fff961eb2f273110450a45116b6dec0cbf4c",
+        "sharedAyahs": [
+          "17:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BGKwIQqbU6g",
+            "start": 1515.0,
+            "end": 2298.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/090.mp3",
+        "startMs": 0,
+        "endMs": 201120,
+        "durationMs": 201120,
+        "recordingDurationMs": 201120,
+        "bytes": 2414035,
+        "sha256": "61db0a2392b4b3fe7f31d3ca6a999f9f0c7ece0ef390a2b454ccdd9591de1270",
+        "sharedAyahs": [
+          "17:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "BGKwIQqbU6g",
+            "start": 2298.0,
+            "end": 2499.12
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/091.mp3",
+        "startMs": 0,
+        "endMs": 120020,
+        "durationMs": 120020,
+        "recordingDurationMs": 120020,
+        "bytes": 1440883,
+        "sha256": "150c57753a5281418a2639f0ca57732e39b754737f834dfc0c4a529003e31232",
+        "sharedAyahs": [
+          "17:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 0.0,
+            "end": 120.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 120020,
+        "durationMs": 120020,
+        "recordingDurationMs": 120020,
+        "bytes": 1440883,
+        "sha256": "a37f6f1266e81eed354c18a0d9812ec2f3548df801435765bf5a537a22167567",
+        "sharedAyahs": [
+          "17:92"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 120.0,
+            "end": 240.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/093.mp3",
+        "startMs": 0,
+        "endMs": 120020,
+        "durationMs": 120020,
+        "recordingDurationMs": 120020,
+        "bytes": 1440883,
+        "sha256": "72511be33e04bf86936c1d982616598926cdbad1d58f28efb3b40fdd2f6be4d4",
+        "sharedAyahs": [
+          "17:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 240.0,
+            "end": 360.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/094.mp3",
+        "startMs": 0,
+        "endMs": 120020,
+        "durationMs": 120020,
+        "recordingDurationMs": 120020,
+        "bytes": 1440883,
+        "sha256": "74b3d4369bea0504846b4489e9818f50a0a1638e68aca1e6ee2adaa941dfe491",
+        "sharedAyahs": [
+          "17:94"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 360.0,
+            "end": 480.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/095.mp3",
+        "startMs": 0,
+        "endMs": 120020,
+        "durationMs": 120020,
+        "recordingDurationMs": 120020,
+        "bytes": 1440883,
+        "sha256": "b00214dd5f934ccce500fd53564afecb6e8aa61540209c26d09f34a1f0021fcd",
+        "sharedAyahs": [
+          "17:95"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 480.0,
+            "end": 600.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/096.mp3",
+        "startMs": 0,
+        "endMs": 131040,
+        "durationMs": 131040,
+        "recordingDurationMs": 131040,
+        "bytes": 1573075,
+        "sha256": "f2752a249750f8b6fe01569c828b203818afa3da3f822e43c895c890a4fd656c",
+        "sharedAyahs": [
+          "17:96"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 600.0,
+            "end": 731.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/097.mp3",
+        "startMs": 0,
+        "endMs": 119020,
+        "durationMs": 119020,
+        "recordingDurationMs": 119020,
+        "bytes": 1428787,
+        "sha256": "e4ecc4d58af92604cf51d001c4dbcc3ee7750cbc5be6f10530f609b84807a575",
+        "sharedAyahs": [
+          "17:97"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 731.0,
+            "end": 850.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/098.mp3",
+        "startMs": 0,
+        "endMs": 649030,
+        "durationMs": 649030,
+        "recordingDurationMs": 649030,
+        "bytes": 7788979,
+        "sha256": "e37cb94385bd99c94a11143a8343f3c84f52b58e33701541dfd58f7cded1e752",
+        "sharedAyahs": [
+          "17:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 850.0,
+            "end": 1499.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/099.mp3",
+        "startMs": 0,
+        "endMs": 192020,
+        "durationMs": 192020,
+        "recordingDurationMs": 192020,
+        "bytes": 2304883,
+        "sha256": "b4c82e418a0a0f6b482707045933afc1d630a109085243b5ea0df9f589333ad7",
+        "sharedAyahs": [
+          "17:99"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 1499.0,
+            "end": 1691.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/100.mp3",
+        "startMs": 0,
+        "endMs": 639340,
+        "durationMs": 639340,
+        "recordingDurationMs": 639340,
+        "bytes": 7672629,
+        "sha256": "3f9a1dbabcff670da3a97ccd6e87b54943dfe580f0465a2b9f2fca6902b7b442",
+        "sharedAyahs": [
+          "17:100"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "q_qVzyKWYx8",
+            "start": 1691.0,
+            "end": 2330.35
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/101.mp3",
+        "startMs": 0,
+        "endMs": 591020,
+        "durationMs": 591020,
+        "recordingDurationMs": 591020,
+        "bytes": 7092885,
+        "sha256": "9ec47bf73f823516086c5ed40587097998700fa0ac0ef8ebf9009020f127fe73",
+        "sharedAyahs": [
+          "17:101"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AAhXNzWcwSg",
+            "start": 0.0,
+            "end": 591.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/102.mp3",
+        "startMs": 0,
+        "endMs": 593040,
+        "durationMs": 593040,
+        "recordingDurationMs": 593040,
+        "bytes": 7117077,
+        "sha256": "5f6995401420194c839fb9aa655ca534a05db3994b65d20f4976b9cffb0543db",
+        "sharedAyahs": [
+          "17:102"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AAhXNzWcwSg",
+            "start": 591.0,
+            "end": 1184.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/103.mp3",
+        "startMs": 0,
+        "endMs": 187010,
+        "durationMs": 187010,
+        "recordingDurationMs": 187010,
+        "bytes": 2244693,
+        "sha256": "017d6cb5d418b548053ed6083d6a66d4a0c489e879d36912b87bc6623e034094",
+        "sharedAyahs": [
+          "17:103"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AAhXNzWcwSg",
+            "start": 1184.0,
+            "end": 1371.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/104.mp3",
+        "startMs": 0,
+        "endMs": 1054250,
+        "durationMs": 1054250,
+        "recordingDurationMs": 1054250,
+        "bytes": 12651573,
+        "sha256": "a425a6e18984be52d4acd8243466e095368411e701d894cb8085e43aac5c4357",
+        "sharedAyahs": [
+          "17:104"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "AAhXNzWcwSg",
+            "start": 1371.0,
+            "end": 2425.25
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/105.mp3",
+        "startMs": 0,
+        "endMs": 204020,
+        "durationMs": 204020,
+        "recordingDurationMs": 204020,
+        "bytes": 2448885,
+        "sha256": "e744e6ba733331037127745469de490df1ad708991ad5f59db7ea40e90f23b40",
+        "sharedAyahs": [
+          "17:105"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Y7S9Ou4D1w",
+            "start": 0.0,
+            "end": 204.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/106.mp3",
+        "startMs": 0,
+        "endMs": 790030,
+        "durationMs": 790030,
+        "recordingDurationMs": 790030,
+        "bytes": 9480981,
+        "sha256": "b94d0ebff050f4fd1b295b328fd2f13037183566254b477b7fe6baa6cf6d9eea",
+        "sharedAyahs": [
+          "17:106"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Y7S9Ou4D1w",
+            "start": 204.0,
+            "end": 994.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/107.mp3",
+        "startMs": 0,
+        "endMs": 249020,
+        "durationMs": 249020,
+        "recordingDurationMs": 249020,
+        "bytes": 2988885,
+        "sha256": "6b9b9ce7c476075ae4469902ee2c006fa6d671f7ddfb0749a47dd4f76738f56f",
+        "sharedAyahs": [
+          "17:107"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Y7S9Ou4D1w",
+            "start": 994.0,
+            "end": 1243.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/108.mp3",
+        "startMs": 0,
+        "endMs": 157030,
+        "durationMs": 157030,
+        "recordingDurationMs": 157030,
+        "bytes": 1884981,
+        "sha256": "21cf4a6b3a470dbe877b26e2186f2a1f8d2538ddce50b163db5486067fef2659",
+        "sharedAyahs": [
+          "17:108"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Y7S9Ou4D1w",
+            "start": 1243.0,
+            "end": 1400.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/109.mp3",
+        "startMs": 0,
+        "endMs": 755930,
+        "durationMs": 755930,
+        "recordingDurationMs": 755930,
+        "bytes": 9071733,
+        "sha256": "84d425f85c85ef14af387d7fd548f2df29312b78c8f0dcba49dbdd88bf5e81d9",
+        "sharedAyahs": [
+          "17:109"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9Y7S9Ou4D1w",
+            "start": 1400.0,
+            "end": 2155.94
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/110.mp3",
+        "startMs": 0,
+        "endMs": 928030,
+        "durationMs": 928030,
+        "recordingDurationMs": 928030,
+        "bytes": 11136981,
+        "sha256": "e8caca03e7a161fdbfed7d41db1de001168e2d991ba47e133d2a659bfb7893cd",
+        "sharedAyahs": [
+          "17:110"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zFdXjz3b1qU",
+            "start": 0.0,
+            "end": 928.0
+          }
+        ]
+      },
+      {
+        "file": "017-الإسراء-youtube-v1/111.mp3",
+        "startMs": 0,
+        "endMs": 1536070,
+        "durationMs": 1536070,
+        "recordingDurationMs": 1536070,
+        "bytes": 18433461,
+        "sha256": "73da2fba62777b1646d82fbb6d6c3e526c20afcdc9a3b6345dd32282449d2a4e",
+        "sharedAyahs": [
+          "17:111"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zFdXjz3b1qU",
+            "start": 928.0,
+            "end": 2464.08
+          }
+        ]
+      }
+    ],
+    "durationMs": 70014850,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "prepared_local"
+}
