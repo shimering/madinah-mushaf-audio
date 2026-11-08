@@ -1,0 +1,3462 @@
+{
+  "mode": "reused-clips",
+  "sourceOrder": [
+    "yt-001",
+    "yt-002",
+    "yt-003",
+    "yt-004",
+    "yt-005",
+    "yt-006",
+    "yt-007",
+    "yt-008",
+    "yt-009",
+    "yt-010",
+    "yt-011",
+    "yt-012",
+    "yt-013",
+    "yt-014",
+    "yt-015",
+    "yt-016",
+    "yt-017",
+    "yt-018",
+    "yt-019",
+    "yt-020",
+    "yt-021",
+    "yt-022",
+    "yt-023",
+    "yt-024",
+    "yt-025",
+    "yt-026",
+    "yt-027",
+    "yt-028",
+    "yt-029",
+    "yt-030",
+    "yt-031",
+    "yt-032",
+    "yt-033",
+    "yt-034",
+    "yt-035",
+    "yt-036",
+    "yt-037",
+    "yt-038",
+    "yt-039",
+    "yt-040",
+    "yt-041",
+    "yt-042",
+    "yt-043",
+    "yt-044",
+    "yt-045",
+    "yt-046",
+    "yt-047",
+    "yt-048",
+    "yt-049",
+    "yt-050",
+    "yt-051"
+  ],
+  "includesIntroductionsAndRecaps": true,
+  "tracks": [
+    {
+      "file": "009-التوبة-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1670860,
+      "durationMs": 1670860,
+      "recordingDurationMs": 1670860,
+      "bytes": 20050954,
+      "sha256": "badb54e2227ebd5843dd84696d59de5eae41fd8fd975ba398d6533e9784d7c4c",
+      "sharedAyahs": [
+        "9:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 0.0,
+          "end": 1670.86
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 473780,
+      "durationMs": 473780,
+      "recordingDurationMs": 473780,
+      "bytes": 5686090,
+      "sha256": "b2a730eaf79fa011dff6c3e544db09ab722566530e165d6c4d46b4b54ba312ee",
+      "sharedAyahs": [
+        "9:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 0.0,
+          "end": 473.74
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 1004040,
+      "durationMs": 1004040,
+      "recordingDurationMs": 1004040,
+      "bytes": 12049162,
+      "sha256": "827e333e145b6727353165a5412fc6fc1fcd4fc00f7e9cffc14b9fa1d33b5237",
+      "sharedAyahs": [
+        "9:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 473.74,
+          "end": 1477.76
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 203675,
+      "durationMs": 203675,
+      "recordingDurationMs": 906700,
+      "bytes": 10880775,
+      "sha256": "781abfd417f1f7a0691283cf12b3cae1bd3152dae1c7184c1ea176dcd4b650c6",
+      "sharedAyahs": [
+        "9:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 1477.76,
+          "end": 1681.54
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/004.mp3",
+      "startMs": 203675,
+      "endMs": 906700,
+      "durationMs": 703025,
+      "recordingDurationMs": 906700,
+      "bytes": 10880775,
+      "sha256": "781abfd417f1f7a0691283cf12b3cae1bd3152dae1c7184c1ea176dcd4b650c6",
+      "sharedAyahs": [
+        "9:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 0.0,
+          "end": 702.91
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 997440,
+      "durationMs": 997440,
+      "recordingDurationMs": 997440,
+      "bytes": 11969962,
+      "sha256": "f656b6f1a642acba2f93f9d3a09049a5ff6de1d20a2ee928ccd52b6e718593d0",
+      "sharedAyahs": [
+        "9:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 702.91,
+          "end": 1700.35
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 1698817,
+      "durationMs": 1698817,
+      "recordingDurationMs": 2287900,
+      "bytes": 27455175,
+      "sha256": "29477201fa6a3489e346344c26f0c1af7bbd78007fa7235f0e8c8da7d9bdda8f",
+      "sharedAyahs": [
+        "9:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 0.0,
+          "end": 1698.84
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/006.mp3",
+      "startMs": 1698817,
+      "endMs": 2287900,
+      "durationMs": 589083,
+      "recordingDurationMs": 2287900,
+      "bytes": 27455175,
+      "sha256": "29477201fa6a3489e346344c26f0c1af7bbd78007fa7235f0e8c8da7d9bdda8f",
+      "sharedAyahs": [
+        "9:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 0.0,
+          "end": 589.03
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 1014820,
+      "durationMs": 1014820,
+      "recordingDurationMs": 1014820,
+      "bytes": 12178480,
+      "sha256": "392aaf56c487fafeb6126bb3cb221beed19a30faca6a3884fd450da929988e64",
+      "sharedAyahs": [
+        "9:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 589.03,
+          "end": 1603.82
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 76211,
+      "durationMs": 76211,
+      "recordingDurationMs": 407660,
+      "bytes": 4892391,
+      "sha256": "a6852c916c3b69a66f612923767043492909a52bcc8e7bd13b91f09c975f8609",
+      "sharedAyahs": [
+        "9:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 1603.82,
+          "end": 1680.12
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/008.mp3",
+      "startMs": 76211,
+      "endMs": 407660,
+      "durationMs": 331449,
+      "recordingDurationMs": 407660,
+      "bytes": 4892391,
+      "sha256": "a6852c916c3b69a66f612923767043492909a52bcc8e7bd13b91f09c975f8609",
+      "sharedAyahs": [
+        "9:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 0.0,
+          "end": 331.34
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 398570,
+      "durationMs": 398570,
+      "recordingDurationMs": 398570,
+      "bytes": 4783504,
+      "sha256": "fbefefa0c153e16c76e7349fcb163df6807a1aa96e9f8a97bfdf48ac9f341e4a",
+      "sharedAyahs": [
+        "9:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 331.34,
+          "end": 729.88
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 212570,
+      "durationMs": 212570,
+      "recordingDurationMs": 212570,
+      "bytes": 2551506,
+      "sha256": "b57303ba501cdc942bc31af8b7e395ec51b3503eade50b9480ef830f080795f7",
+      "sharedAyahs": [
+        "9:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 729.88,
+          "end": 942.42
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 694643,
+      "durationMs": 694643,
+      "recordingDurationMs": 783550,
+      "bytes": 9403049,
+      "sha256": "ad40aa3d8f6d34d03281121d049dcb13b5e2cad865bf843c6561e9931ddfa77f",
+      "sharedAyahs": [
+        "9:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 942.42,
+          "end": 1637.16
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/011.mp3",
+      "startMs": 694643,
+      "endMs": 783550,
+      "durationMs": 88907,
+      "recordingDurationMs": 783550,
+      "bytes": 9403049,
+      "sha256": "ad40aa3d8f6d34d03281121d049dcb13b5e2cad865bf843c6561e9931ddfa77f",
+      "sharedAyahs": [
+        "9:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 0.0,
+          "end": 88.78
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 561050,
+      "durationMs": 561050,
+      "recordingDurationMs": 561050,
+      "bytes": 6733266,
+      "sha256": "30a03e8efe47e68e0fcc36fc1f56148eadd0f7da33b4870813aa18e05cc5fd43",
+      "sharedAyahs": [
+        "9:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 88.78,
+          "end": 649.81
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 470520,
+      "durationMs": 470520,
+      "recordingDurationMs": 470520,
+      "bytes": 5646930,
+      "sha256": "87955ab37f33df6c3f54fe42a5868811e4c61f78a29c3cb0102731257c36f87b",
+      "sharedAyahs": [
+        "9:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 649.81,
+          "end": 1120.32
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 504025,
+      "durationMs": 504025,
+      "recordingDurationMs": 546240,
+      "bytes": 6555305,
+      "sha256": "29cf8d9f18ff8e290aa806789fedd82022e439518c2bf15a0df080dc07b87dc7",
+      "sharedAyahs": [
+        "9:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 1120.32,
+          "end": 1624.33
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 35507,
+      "durationMs": 35507,
+      "recordingDurationMs": 572620,
+      "bytes": 6871817,
+      "sha256": "ab3fafd99a97781d1a0e2bcbd486474eb5795859c966302a428d2c0f80c26c49",
+      "sharedAyahs": [
+        "9:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 1624.33,
+          "end": 1659.94
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/014.mp3",
+      "startMs": 504025,
+      "endMs": 546240,
+      "durationMs": 42215,
+      "recordingDurationMs": 546240,
+      "bytes": 6555305,
+      "sha256": "29cf8d9f18ff8e290aa806789fedd82022e439518c2bf15a0df080dc07b87dc7",
+      "sharedAyahs": [
+        "9:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 0.0,
+          "end": 42.15
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/015.mp3",
+      "startMs": 0,
+      "endMs": 52920,
+      "durationMs": 52920,
+      "recordingDurationMs": 52920,
+      "bytes": 635730,
+      "sha256": "7e5763e626e9e01ee2330a7fdd06e92577c635ced29a4e21a0247d09bc4facff",
+      "sharedAyahs": [
+        "9:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 42.15,
+          "end": 95.05
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/016.mp3",
+      "startMs": 35507,
+      "endMs": 572620,
+      "durationMs": 537113,
+      "recordingDurationMs": 572620,
+      "bytes": 6871817,
+      "sha256": "ab3fafd99a97781d1a0e2bcbd486474eb5795859c966302a428d2c0f80c26c49",
+      "sharedAyahs": [
+        "9:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 95.05,
+          "end": 632.05
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 106321,
+      "durationMs": 106321,
+      "recordingDurationMs": 1782960,
+      "bytes": 21395945,
+      "sha256": "e5c00b020944e704334c25e00ceddb73a19c586f0d13548c765b9a06e0f65b3d",
+      "sharedAyahs": [
+        "9:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 632.05,
+          "end": 738.38
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 928300,
+      "durationMs": 928300,
+      "recordingDurationMs": 928300,
+      "bytes": 11140242,
+      "sha256": "6b5d283310eca948bfa08c9a45bb457001cbb38c9da1e1ab6cebfba8487f0b9c",
+      "sharedAyahs": [
+        "9:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 738.38,
+          "end": 1666.68
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/017.mp3",
+      "startMs": 106321,
+      "endMs": 1782960,
+      "durationMs": 1676639,
+      "recordingDurationMs": 1782960,
+      "bytes": 21395945,
+      "sha256": "e5c00b020944e704334c25e00ceddb73a19c586f0d13548c765b9a06e0f65b3d",
+      "sharedAyahs": [
+        "9:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 0.0,
+          "end": 1676.62
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 87380,
+      "durationMs": 87380,
+      "recordingDurationMs": 87380,
+      "bytes": 1049298,
+      "sha256": "972fa43769a9e9ae55b487fa174cf95bbf5bd287eb8df72b504fafb30fcf0259",
+      "sharedAyahs": [
+        "9:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 0.0,
+          "end": 87.34
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 156361,
+      "durationMs": 156361,
+      "recordingDurationMs": 196200,
+      "bytes": 2354825,
+      "sha256": "f443d246dd5f37275a4d92bfb20b27f31cb25d70bd26a0fdd46199680a674ce8",
+      "sharedAyahs": [
+        "9:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 87.34,
+          "end": 243.71
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 1201693,
+      "durationMs": 1201693,
+      "recordingDurationMs": 1211330,
+      "bytes": 14536361,
+      "sha256": "f0d4a92b1314153b0b0331b9fe58b19f042b8b494c92ee73b5eeeba4f9b4ddee",
+      "sharedAyahs": [
+        "9:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 243.71,
+          "end": 1445.4
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 5869,
+      "durationMs": 5869,
+      "recordingDurationMs": 118990,
+      "bytes": 1428329,
+      "sha256": "d35d5ff66e856eebd22220b1ae7b9a09ce2856e9402ab95b49adcb8e337f30f5",
+      "sharedAyahs": [
+        "9:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1445.4,
+          "end": 1451.24
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 319979,
+      "durationMs": 319979,
+      "recordingDurationMs": 1567800,
+      "bytes": 18814025,
+      "sha256": "7be599f0ca5d69436634bc51662215a75117963366f5790909e5a08cd9bfd269",
+      "sharedAyahs": [
+        "9:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1451.24,
+          "end": 1771.32
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/020.mp3",
+      "startMs": 156361,
+      "endMs": 196200,
+      "durationMs": 39839,
+      "recordingDurationMs": 196200,
+      "bytes": 2354825,
+      "sha256": "f443d246dd5f37275a4d92bfb20b27f31cb25d70bd26a0fdd46199680a674ce8",
+      "sharedAyahs": [
+        "9:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 0.0,
+          "end": 39.77
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/021.mp3",
+      "startMs": 1201693,
+      "endMs": 1211330,
+      "durationMs": 9637,
+      "recordingDurationMs": 1211330,
+      "bytes": 14536361,
+      "sha256": "f0d4a92b1314153b0b0331b9fe58b19f042b8b494c92ee73b5eeeba4f9b4ddee",
+      "sharedAyahs": [
+        "9:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 39.77,
+          "end": 49.37
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/022.mp3",
+      "startMs": 5869,
+      "endMs": 118990,
+      "durationMs": 113121,
+      "recordingDurationMs": 118990,
+      "bytes": 1428329,
+      "sha256": "d35d5ff66e856eebd22220b1ae7b9a09ce2856e9402ab95b49adcb8e337f30f5",
+      "sharedAyahs": [
+        "9:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 49.37,
+          "end": 162.46
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/023.mp3",
+      "startMs": 319979,
+      "endMs": 1567800,
+      "durationMs": 1247821,
+      "recordingDurationMs": 1567800,
+      "bytes": 18814025,
+      "sha256": "7be599f0ca5d69436634bc51662215a75117963366f5790909e5a08cd9bfd269",
+      "sharedAyahs": [
+        "9:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 162.46,
+          "end": 1410.19
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 624985,
+      "durationMs": 624985,
+      "recordingDurationMs": 1011860,
+      "bytes": 12142793,
+      "sha256": "aba13a74308822afa00f15542c34bd76b9ce906f4b5fa65fa667b1ffe36492f2",
+      "sharedAyahs": [
+        "9:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 1410.19,
+          "end": 2035.16
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/025.mp3",
+      "startMs": 0,
+      "endMs": 1304267,
+      "durationMs": 1304267,
+      "recordingDurationMs": 2912450,
+      "bytes": 34949801,
+      "sha256": "22222c8a5cc2e5f4b3493cd6070ac8d867f7a28c3f076560d4af061debfe1d04",
+      "sharedAyahs": [
+        "9:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 2035.16,
+          "end": 3339.53
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/024.mp3",
+      "startMs": 624985,
+      "endMs": 1011860,
+      "durationMs": 386875,
+      "recordingDurationMs": 1011860,
+      "bytes": 12142793,
+      "sha256": "aba13a74308822afa00f15542c34bd76b9ce906f4b5fa65fa667b1ffe36492f2",
+      "sharedAyahs": [
+        "9:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 0.0,
+          "end": 386.83
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/025.mp3",
+      "startMs": 1304267,
+      "endMs": 2608715,
+      "durationMs": 1304448,
+      "recordingDurationMs": 2912450,
+      "bytes": 34949801,
+      "sha256": "22222c8a5cc2e5f4b3493cd6070ac8d867f7a28c3f076560d4af061debfe1d04",
+      "sharedAyahs": [
+        "9:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 386.83,
+          "end": 1691.28
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/025.mp3",
+      "startMs": 2608715,
+      "endMs": 2912450,
+      "durationMs": 303735,
+      "recordingDurationMs": 2912450,
+      "bytes": 34949801,
+      "sha256": "22222c8a5cc2e5f4b3493cd6070ac8d867f7a28c3f076560d4af061debfe1d04",
+      "sharedAyahs": [
+        "9:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 0.0,
+          "end": 303.62
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 602780,
+      "durationMs": 602780,
+      "recordingDurationMs": 602780,
+      "bytes": 7234098,
+      "sha256": "b0bbe131bfc6c121c9748c22b964711e570967f30fb5e1e4fd87511601ad65de",
+      "sharedAyahs": [
+        "9:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 303.62,
+          "end": 906.38
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 645550,
+      "durationMs": 645550,
+      "recordingDurationMs": 645550,
+      "bytes": 7747314,
+      "sha256": "b2735e0e3cd3e57d2d956127ce4e21802ab5f68bc066e78724bb2259c9cee4ea",
+      "sharedAyahs": [
+        "9:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 906.38,
+          "end": 1551.89
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 97763,
+      "durationMs": 97763,
+      "recordingDurationMs": 957840,
+      "bytes": 11494505,
+      "sha256": "1cf000ed5687cb2c31aba614aaf09c94795b0ecb561cfb3a582b520462eb5d1e",
+      "sharedAyahs": [
+        "9:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 1551.89,
+          "end": 1649.76
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/028.mp3",
+      "startMs": 97763,
+      "endMs": 957840,
+      "durationMs": 860077,
+      "recordingDurationMs": 957840,
+      "bytes": 11494505,
+      "sha256": "1cf000ed5687cb2c31aba614aaf09c94795b0ecb561cfb3a582b520462eb5d1e",
+      "sharedAyahs": [
+        "9:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 0.0,
+          "end": 859.95
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 925595,
+      "durationMs": 925595,
+      "recordingDurationMs": 1750610,
+      "bytes": 21007721,
+      "sha256": "ff9bb20f8317454b9b03d05e234f6a66f5c337c5473d220b8fb452c408c51ced",
+      "sharedAyahs": [
+        "9:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 859.95,
+          "end": 1785.65
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/029.mp3",
+      "startMs": 925595,
+      "endMs": 1750610,
+      "durationMs": 825015,
+      "recordingDurationMs": 1750610,
+      "bytes": 21007721,
+      "sha256": "ff9bb20f8317454b9b03d05e234f6a66f5c337c5473d220b8fb452c408c51ced",
+      "sharedAyahs": [
+        "9:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 0.0,
+          "end": 824.9
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 902140,
+      "durationMs": 902140,
+      "recordingDurationMs": 902140,
+      "bytes": 10826322,
+      "sha256": "f2d887d87d2ba595584086bb32bae759c150b108c4c42e0276d181e6e8c975dc",
+      "sharedAyahs": [
+        "9:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-015",
+          "start": 824.9,
+          "end": 1727.04
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/031.mp3",
+      "startMs": 0,
+      "endMs": 1688785,
+      "durationMs": 1688785,
+      "recordingDurationMs": 2679190,
+      "bytes": 32150729,
+      "sha256": "18391b1c6098838cc6f0587ce64b95be9f261cf18a05bcdaa582e7141e19788b",
+      "sharedAyahs": [
+        "9:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-016",
+          "start": 0.0,
+          "end": 1688.81
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/031.mp3",
+      "startMs": 1688785,
+      "endMs": 2679190,
+      "durationMs": 990405,
+      "recordingDurationMs": 2679190,
+      "bytes": 32150729,
+      "sha256": "18391b1c6098838cc6f0587ce64b95be9f261cf18a05bcdaa582e7141e19788b",
+      "sharedAyahs": [
+        "9:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 0.0,
+          "end": 990.34
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 25130,
+      "durationMs": 25130,
+      "recordingDurationMs": 25130,
+      "bytes": 302226,
+      "sha256": "56892d114a2fe18b2446b7c3224dd09d1efe34abca06bbf75d4b11621313a450",
+      "sharedAyahs": [
+        "9:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 990.34,
+          "end": 1015.46
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 370440,
+      "durationMs": 370440,
+      "recordingDurationMs": 370440,
+      "bytes": 4445970,
+      "sha256": "ee142e808f2cea26e1f10400ffefcbea0f1467e3dca75cdd21dbbabed2c8f565",
+      "sharedAyahs": [
+        "9:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 1015.46,
+          "end": 1385.88
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/034.mp3",
+      "startMs": 0,
+      "endMs": 380531,
+      "durationMs": 380531,
+      "recordingDurationMs": 1589350,
+      "bytes": 19072649,
+      "sha256": "73c9fe80f610e55b469faef1d55ce4a2a6ec39d6d484474de7b7505956118a55",
+      "sharedAyahs": [
+        "9:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-017",
+          "start": 1385.88,
+          "end": 1766.5
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/034.mp3",
+      "startMs": 380531,
+      "endMs": 1589350,
+      "durationMs": 1208819,
+      "recordingDurationMs": 1589350,
+      "bytes": 19072649,
+      "sha256": "73c9fe80f610e55b469faef1d55ce4a2a6ec39d6d484474de7b7505956118a55",
+      "sharedAyahs": [
+        "9:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 0.0,
+          "end": 1208.7
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 239930,
+      "durationMs": 239930,
+      "recordingDurationMs": 239930,
+      "bytes": 2879826,
+      "sha256": "d8fa7fa953c34c61635b1acdc0213cfd69ba38f5a7a5dd52e8a5b0e43a465532",
+      "sharedAyahs": [
+        "9:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 1208.7,
+          "end": 1448.6
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 236339,
+      "durationMs": 236339,
+      "recordingDurationMs": 3870940,
+      "bytes": 46451657,
+      "sha256": "8f5483798850d7cc0d4221804b2ccbe148bf018a41c9272c30c6eca2f14b4870",
+      "sharedAyahs": [
+        "9:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-018",
+          "start": 1448.6,
+          "end": 1685.04
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/036.mp3",
+      "startMs": 236339,
+      "endMs": 1867835,
+      "durationMs": 1631496,
+      "recordingDurationMs": 3870940,
+      "bytes": 46451657,
+      "sha256": "8f5483798850d7cc0d4221804b2ccbe148bf018a41c9272c30c6eca2f14b4870",
+      "sharedAyahs": [
+        "9:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-019",
+          "start": 0.0,
+          "end": 1631.5
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/036.mp3",
+      "startMs": 1867835,
+      "endMs": 3475931,
+      "durationMs": 1608096,
+      "recordingDurationMs": 3870940,
+      "bytes": 46451657,
+      "sha256": "8f5483798850d7cc0d4221804b2ccbe148bf018a41c9272c30c6eca2f14b4870",
+      "sharedAyahs": [
+        "9:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-020",
+          "start": 0.0,
+          "end": 1608.1
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/036.mp3",
+      "startMs": 3475931,
+      "endMs": 3870940,
+      "durationMs": 395009,
+      "recordingDurationMs": 3870940,
+      "bytes": 46451657,
+      "sha256": "8f5483798850d7cc0d4221804b2ccbe148bf018a41c9272c30c6eca2f14b4870",
+      "sharedAyahs": [
+        "9:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 0.0,
+          "end": 394.88
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 415940,
+      "durationMs": 415940,
+      "recordingDurationMs": 415940,
+      "bytes": 4992018,
+      "sha256": "a911b4ea3f6cfdebbc02567e80a98f9498e891ae20797cb7c9fa85ce53534683",
+      "sharedAyahs": [
+        "9:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 394.88,
+          "end": 810.8
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 821219,
+      "durationMs": 821219,
+      "recordingDurationMs": 2095730,
+      "bytes": 25149161,
+      "sha256": "c6db309a3a4fa743382ca8d680b5bcfd74d3caf7d6ffc33a0a317a63b668bab4",
+      "sharedAyahs": [
+        "9:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-021",
+          "start": 810.8,
+          "end": 1632.12
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/038.mp3",
+      "startMs": 821219,
+      "endMs": 2095730,
+      "durationMs": 1274511,
+      "recordingDurationMs": 2095730,
+      "bytes": 25149161,
+      "sha256": "c6db309a3a4fa743382ca8d680b5bcfd74d3caf7d6ffc33a0a317a63b668bab4",
+      "sharedAyahs": [
+        "9:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 0.0,
+          "end": 1274.4
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 171340,
+      "durationMs": 171340,
+      "recordingDurationMs": 171340,
+      "bytes": 2056722,
+      "sha256": "c170062b0588c8b65086d90d1c2415a96c9c776fac2454eba3e833f85733a6de",
+      "sharedAyahs": [
+        "9:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 1274.4,
+          "end": 1445.71
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 248819,
+      "durationMs": 248819,
+      "recordingDurationMs": 1634260,
+      "bytes": 19611497,
+      "sha256": "155ad1e738ea87a115e229dbaeda364579331afe3d958d7b6de1cfee16de75b4",
+      "sharedAyahs": [
+        "9:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-022",
+          "start": 1445.71,
+          "end": 1694.62
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/040.mp3",
+      "startMs": 248819,
+      "endMs": 1634260,
+      "durationMs": 1385441,
+      "recordingDurationMs": 1634260,
+      "bytes": 19611497,
+      "sha256": "155ad1e738ea87a115e229dbaeda364579331afe3d958d7b6de1cfee16de75b4",
+      "sharedAyahs": [
+        "9:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 28.72,
+          "end": 1414.04
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 269075,
+      "durationMs": 269075,
+      "recordingDurationMs": 1195820,
+      "bytes": 14350313,
+      "sha256": "b6ea19a39f6163932eea80829c592db1cb59612d032bf1e8d7b2d4911438e503",
+      "sharedAyahs": [
+        "9:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-023",
+          "start": 1414.04,
+          "end": 1683.22
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/041.mp3",
+      "startMs": 269075,
+      "endMs": 1195820,
+      "durationMs": 926745,
+      "recordingDurationMs": 1195820,
+      "bytes": 14350313,
+      "sha256": "b6ea19a39f6163932eea80829c592db1cb59612d032bf1e8d7b2d4911438e503",
+      "sharedAyahs": [
+        "9:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 0.0,
+          "end": 926.64
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 736680,
+      "durationMs": 736680,
+      "recordingDurationMs": 736680,
+      "bytes": 8840850,
+      "sha256": "815aaf5d230aeeb3a96d4ed2618d8c791ec59165e7670ac0e9ae1ade401bce50",
+      "sharedAyahs": [
+        "9:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 926.64,
+          "end": 1663.29
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 36323,
+      "durationMs": 36323,
+      "recordingDurationMs": 193700,
+      "bytes": 2324873,
+      "sha256": "84308dd9784f4c432787a381ac9e30a043388dc3c6ceb4641dc3751fc74aad03",
+      "sharedAyahs": [
+        "9:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-024",
+          "start": 1663.29,
+          "end": 1699.7
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/043.mp3",
+      "startMs": 36323,
+      "endMs": 193700,
+      "durationMs": 157377,
+      "recordingDurationMs": 193700,
+      "bytes": 2324873,
+      "sha256": "84308dd9784f4c432787a381ac9e30a043388dc3c6ceb4641dc3751fc74aad03",
+      "sharedAyahs": [
+        "9:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 0.0,
+          "end": 157.27
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 506230,
+      "durationMs": 506230,
+      "recordingDurationMs": 506230,
+      "bytes": 6075474,
+      "sha256": "64cfeb92af69259237b45a42e98f7bd66d71a970edefa9bb1a0de85c19a627bf",
+      "sharedAyahs": [
+        "9:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 157.27,
+          "end": 663.47
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 382340,
+      "durationMs": 382340,
+      "recordingDurationMs": 382340,
+      "bytes": 4588818,
+      "sha256": "a1ae3eec5ee2c9457c8b7f2e6d2e41e721c9c8747ccaaaf66d4b98a8276e5e95",
+      "sharedAyahs": [
+        "9:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 663.47,
+          "end": 1045.8
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 211630,
+      "durationMs": 211630,
+      "recordingDurationMs": 211630,
+      "bytes": 2540274,
+      "sha256": "4f2ce44c4f2c73f2004f04261061f7a0bfb663b0189467c8dbeb72c5d46a08d5",
+      "sharedAyahs": [
+        "9:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 1045.8,
+          "end": 1257.39
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 468707,
+      "durationMs": 468707,
+      "recordingDurationMs": 913420,
+      "bytes": 10961417,
+      "sha256": "a3e12b44971081619af06088cce3bd6b3868de5638ffab2b86f58f577aac10c0",
+      "sharedAyahs": [
+        "9:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-025",
+          "start": 1257.39,
+          "end": 1726.2
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/047.mp3",
+      "startMs": 468707,
+      "endMs": 913420,
+      "durationMs": 444713,
+      "recordingDurationMs": 913420,
+      "bytes": 10961417,
+      "sha256": "a3e12b44971081619af06088cce3bd6b3868de5638ffab2b86f58f577aac10c0",
+      "sharedAyahs": [
+        "9:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 0.0,
+          "end": 444.6
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 281640,
+      "durationMs": 281640,
+      "recordingDurationMs": 281640,
+      "bytes": 3380370,
+      "sha256": "ab328d3dd37a826f1e67d8db5e67d1e6160c4356d61ea3407bc3d56ad9b348d8",
+      "sharedAyahs": [
+        "9:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 444.6,
+          "end": 726.2
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 200950,
+      "durationMs": 200950,
+      "recordingDurationMs": 200950,
+      "bytes": 2412114,
+      "sha256": "6485e455326c33b330e59d382442bf80223db0d06043df2c091778586503866f",
+      "sharedAyahs": [
+        "9:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 726.2,
+          "end": 927.14
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 173520,
+      "durationMs": 173520,
+      "recordingDurationMs": 173520,
+      "bytes": 2082930,
+      "sha256": "4f4a6ee7118d610c8ff6935db0a5219e8907fc92bd4868a683ec1078c8550936",
+      "sharedAyahs": [
+        "9:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 927.14,
+          "end": 1100.64
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 729910,
+      "durationMs": 729910,
+      "recordingDurationMs": 729910,
+      "bytes": 8759634,
+      "sha256": "802837112769f59906392cedd450fd5e6df0d7e37977f58e19df565f36f115eb",
+      "sharedAyahs": [
+        "9:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 1100.64,
+          "end": 1830.52
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 83339,
+      "durationMs": 83339,
+      "recordingDurationMs": 236620,
+      "bytes": 2839817,
+      "sha256": "0919bc1fb59ea55e324b7465f7c691fa2f55a35994e058850756dbfb2648796c",
+      "sharedAyahs": [
+        "9:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-026",
+          "start": 1830.52,
+          "end": 1913.95
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/052.mp3",
+      "startMs": 83339,
+      "endMs": 236620,
+      "durationMs": 153281,
+      "recordingDurationMs": 236620,
+      "bytes": 2839817,
+      "sha256": "0919bc1fb59ea55e324b7465f7c691fa2f55a35994e058850756dbfb2648796c",
+      "sharedAyahs": [
+        "9:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 0.0,
+          "end": 153.16
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 558170,
+      "durationMs": 558170,
+      "recordingDurationMs": 558170,
+      "bytes": 6698706,
+      "sha256": "88008b8f0793d03d0dda2cc65765469f35be99f422e8efea12b6f10a5fb5e51c",
+      "sharedAyahs": [
+        "9:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 153.16,
+          "end": 711.29
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/054.mp3",
+      "startMs": 0,
+      "endMs": 934610,
+      "durationMs": 934610,
+      "recordingDurationMs": 934610,
+      "bytes": 11215986,
+      "sha256": "32c5fc47cc034bdbfafde202476df042f94a2ef5a600ad67d1765a7a94e5b604",
+      "sharedAyahs": [
+        "9:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 711.29,
+          "end": 1645.88
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/055.mp3",
+      "startMs": 0,
+      "endMs": 5387,
+      "durationMs": 5387,
+      "recordingDurationMs": 1630970,
+      "bytes": 19572041,
+      "sha256": "cb5b5934e369a4f055f60f23512b7b64ae22e83f235d455b8b93a03f471d6c0f",
+      "sharedAyahs": [
+        "9:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-027",
+          "start": 1645.88,
+          "end": 1651.37
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/055.mp3",
+      "startMs": 5387,
+      "endMs": 1630970,
+      "durationMs": 1625583,
+      "recordingDurationMs": 1630970,
+      "bytes": 19572041,
+      "sha256": "cb5b5934e369a4f055f60f23512b7b64ae22e83f235d455b8b93a03f471d6c0f",
+      "sharedAyahs": [
+        "9:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 0.0,
+          "end": 1625.46
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 423480,
+      "durationMs": 423480,
+      "recordingDurationMs": 423480,
+      "bytes": 5082450,
+      "sha256": "8f35005d9e4f7e439af81a6d6ca9090d9eb46f19168c2271202622464eaf9617",
+      "sharedAyahs": [
+        "9:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 1625.46,
+          "end": 2048.92
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/057.mp3",
+      "startMs": 0,
+      "endMs": 60779,
+      "durationMs": 60779,
+      "recordingDurationMs": 441460,
+      "bytes": 5297897,
+      "sha256": "e5aa7fd16132204345e31da56ad89bc2f76848989f307c39018ba9e2670255c9",
+      "sharedAyahs": [
+        "9:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-028",
+          "start": 2048.92,
+          "end": 2109.79
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/057.mp3",
+      "startMs": 60779,
+      "endMs": 441460,
+      "durationMs": 380681,
+      "recordingDurationMs": 441460,
+      "bytes": 5297897,
+      "sha256": "e5aa7fd16132204345e31da56ad89bc2f76848989f307c39018ba9e2670255c9",
+      "sharedAyahs": [
+        "9:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 0.0,
+          "end": 380.56
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/058.mp3",
+      "startMs": 0,
+      "endMs": 602810,
+      "durationMs": 602810,
+      "recordingDurationMs": 602810,
+      "bytes": 7234386,
+      "sha256": "c7ea041ea33f167946d2650421b5cdfe428f4470a581fa455cd6c08d7fda71ef",
+      "sharedAyahs": [
+        "9:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 380.56,
+          "end": 983.34
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 666650,
+      "durationMs": 666650,
+      "recordingDurationMs": 666650,
+      "bytes": 8000466,
+      "sha256": "1842018450c048f056985fb96da506916dabeb5921228711d8d369aba1bbd1eb",
+      "sharedAyahs": [
+        "9:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 983.34,
+          "end": 1649.97
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/060.mp3",
+      "startMs": 0,
+      "endMs": 1071827,
+      "durationMs": 1071827,
+      "recordingDurationMs": 3173060,
+      "bytes": 38077193,
+      "sha256": "dd60cff92443a6d4f9685a5d56c93e560745b9200d6819f1724f93473ae163c0",
+      "sharedAyahs": [
+        "9:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-029",
+          "start": 1649.97,
+          "end": 2721.89
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/060.mp3",
+      "startMs": 1071827,
+      "endMs": 3173060,
+      "durationMs": 2101233,
+      "recordingDurationMs": 3173060,
+      "bytes": 38077193,
+      "sha256": "dd60cff92443a6d4f9685a5d56c93e560745b9200d6819f1724f93473ae163c0",
+      "sharedAyahs": [
+        "9:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 0.0,
+          "end": 2101.12
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/061.mp3",
+      "startMs": 0,
+      "endMs": 526451,
+      "durationMs": 526451,
+      "recordingDurationMs": 1582870,
+      "bytes": 18994889,
+      "sha256": "ff18a4d87e1990c4c23d175833e86391a8b1187cc62c3d57e929790c336ee78a",
+      "sharedAyahs": [
+        "9:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-030",
+          "start": 2101.12,
+          "end": 2627.66
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/061.mp3",
+      "startMs": 526451,
+      "endMs": 1582870,
+      "durationMs": 1056419,
+      "recordingDurationMs": 1582870,
+      "bytes": 18994889,
+      "sha256": "ff18a4d87e1990c4c23d175833e86391a8b1187cc62c3d57e929790c336ee78a",
+      "sharedAyahs": [
+        "9:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 0.0,
+          "end": 1056.29
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/062.mp3",
+      "startMs": 0,
+      "endMs": 391030,
+      "durationMs": 391030,
+      "recordingDurationMs": 391030,
+      "bytes": 4693074,
+      "sha256": "c9d7b332ad88f477c8221c592748ab6cdf8f4e33559005d20127d63acb84ae48",
+      "sharedAyahs": [
+        "9:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 1056.29,
+          "end": 1447.31
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 517340,
+      "durationMs": 517340,
+      "recordingDurationMs": 517340,
+      "bytes": 6208818,
+      "sha256": "0bce0dd30ddc82d8b5f09991aa41752e9a24f21369d4b2c153d12d3afc82326a",
+      "sharedAyahs": [
+        "9:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 1447.31,
+          "end": 1964.62
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/064.mp3",
+      "startMs": 0,
+      "endMs": 284470,
+      "durationMs": 284470,
+      "recordingDurationMs": 284470,
+      "bytes": 3414354,
+      "sha256": "1e486e6c8e44c329987d50fe6612a304ebfd82fb92794da93b975d51bc454fad",
+      "sharedAyahs": [
+        "9:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 1964.62,
+          "end": 2249.07
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/065.mp3",
+      "startMs": 0,
+      "endMs": 93070,
+      "durationMs": 93070,
+      "recordingDurationMs": 93070,
+      "bytes": 1117554,
+      "sha256": "c7893fd3e94511b80f903cd47c59d7947a290e4acc8a7cd5f2d46ea27b25d565",
+      "sharedAyahs": [
+        "9:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 2249.07,
+          "end": 2342.12
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/066.mp3",
+      "startMs": 0,
+      "endMs": 121970,
+      "durationMs": 121970,
+      "recordingDurationMs": 121970,
+      "bytes": 1464306,
+      "sha256": "72ad410dc69b20ba363c7c2073a139b9fa86c4d3a4fc1589c032f5885db77d70",
+      "sharedAyahs": [
+        "9:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 2342.12,
+          "end": 2464.08
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 167420,
+      "durationMs": 167420,
+      "recordingDurationMs": 167420,
+      "bytes": 2009778,
+      "sha256": "e6477f8608e7afab4c6b18ff5a84f1defd57e02873362070dfc9fa52d841c02d",
+      "sharedAyahs": [
+        "9:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 2464.08,
+          "end": 2631.47
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/068.mp3",
+      "startMs": 0,
+      "endMs": 54923,
+      "durationMs": 54923,
+      "recordingDurationMs": 660940,
+      "bytes": 7931657,
+      "sha256": "e33e65d470126dd56726048efc69575a5ec5e5d1e13254b8fd516574ff02a314",
+      "sharedAyahs": [
+        "9:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-031",
+          "start": 2631.47,
+          "end": 2686.49
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/068.mp3",
+      "startMs": 54923,
+      "endMs": 660940,
+      "durationMs": 606017,
+      "recordingDurationMs": 660940,
+      "bytes": 7931657,
+      "sha256": "e33e65d470126dd56726048efc69575a5ec5e5d1e13254b8fd516574ff02a314",
+      "sharedAyahs": [
+        "9:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 0.0,
+          "end": 605.9
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/069.mp3",
+      "startMs": 0,
+      "endMs": 1423180,
+      "durationMs": 1423180,
+      "recordingDurationMs": 1423180,
+      "bytes": 17078802,
+      "sha256": "bddbf04cce0dcbf910c1e49a83b9a7498534e7468a7117b62cf656c406a8c6da",
+      "sharedAyahs": [
+        "9:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 605.9,
+          "end": 2029.04
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/070.mp3",
+      "startMs": 0,
+      "endMs": 617520,
+      "durationMs": 617520,
+      "recordingDurationMs": 617520,
+      "bytes": 7410930,
+      "sha256": "a2e7e5f28af0f9e697e1f99869d91f8787bc71168a1e9ee06c538a580b7257ed",
+      "sharedAyahs": [
+        "9:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 2029.04,
+          "end": 2646.54
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/071.mp3",
+      "startMs": 0,
+      "endMs": 37427,
+      "durationMs": 37427,
+      "recordingDurationMs": 2043980,
+      "bytes": 24528233,
+      "sha256": "f08dc55d3fa85521cb027d0547d3115ca23d2c26037d8b4ec0a909ce679a8c1b",
+      "sharedAyahs": [
+        "9:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-032",
+          "start": 2646.54,
+          "end": 2684.06
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/071.mp3",
+      "startMs": 37427,
+      "endMs": 2043980,
+      "durationMs": 2006553,
+      "recordingDurationMs": 2043980,
+      "bytes": 24528233,
+      "sha256": "f08dc55d3fa85521cb027d0547d3115ca23d2c26037d8b4ec0a909ce679a8c1b",
+      "sharedAyahs": [
+        "9:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 22.21,
+          "end": 2028.67
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/072.mp3",
+      "startMs": 0,
+      "endMs": 601403,
+      "durationMs": 601403,
+      "recordingDurationMs": 3563830,
+      "bytes": 42766409,
+      "sha256": "ae13bef9c8d36f924607c3186df3a98b65117d352f5c6217a5633bd768bbeea2",
+      "sharedAyahs": [
+        "9:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-033",
+          "start": 2028.67,
+          "end": 2630.16
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/072.mp3",
+      "startMs": 601403,
+      "endMs": 3254771,
+      "durationMs": 2653368,
+      "recordingDurationMs": 3563830,
+      "bytes": 42766409,
+      "sha256": "ae13bef9c8d36f924607c3186df3a98b65117d352f5c6217a5633bd768bbeea2",
+      "sharedAyahs": [
+        "9:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-034",
+          "start": 0.0,
+          "end": 2653.37
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/072.mp3",
+      "startMs": 3254771,
+      "endMs": 3563830,
+      "durationMs": 309059,
+      "recordingDurationMs": 3563830,
+      "bytes": 42766409,
+      "sha256": "ae13bef9c8d36f924607c3186df3a98b65117d352f5c6217a5633bd768bbeea2",
+      "sharedAyahs": [
+        "9:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 0.0,
+          "end": 308.94
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/073.mp3",
+      "startMs": 0,
+      "endMs": 1375820,
+      "durationMs": 1375820,
+      "recordingDurationMs": 1375820,
+      "bytes": 16510578,
+      "sha256": "7ecf94f376ff5c8731c4c8192aa556ab89d8f298f0641dc0ed13536343d1f22e",
+      "sharedAyahs": [
+        "9:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 308.94,
+          "end": 1684.75
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/074.mp3",
+      "startMs": 0,
+      "endMs": 985283,
+      "durationMs": 985283,
+      "recordingDurationMs": 1224980,
+      "bytes": 14700233,
+      "sha256": "89157a641765f4e1b74ef359f7a166e510ef044ae2035674f357634140f13654",
+      "sharedAyahs": [
+        "9:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-035",
+          "start": 1684.75,
+          "end": 2670.12
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/074.mp3",
+      "startMs": 985283,
+      "endMs": 1224980,
+      "durationMs": 239697,
+      "recordingDurationMs": 1224980,
+      "bytes": 14700233,
+      "sha256": "89157a641765f4e1b74ef359f7a166e510ef044ae2035674f357634140f13654",
+      "sharedAyahs": [
+        "9:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 0.0,
+          "end": 239.58
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/075.mp3",
+      "startMs": 0,
+      "endMs": 777910,
+      "durationMs": 777910,
+      "recordingDurationMs": 777910,
+      "bytes": 9335634,
+      "sha256": "eee3038357c36d0fbfbe67dcfa453a2bf3e711f3441f549284e9c8a73b6e8a21",
+      "sharedAyahs": [
+        "9:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 239.58,
+          "end": 1017.48
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/076.mp3",
+      "startMs": 0,
+      "endMs": 32980,
+      "durationMs": 32980,
+      "recordingDurationMs": 32980,
+      "bytes": 396402,
+      "sha256": "f854392806bf93d1580f9295383bebbbb2ee84aa81b4c45ed263b2344493b0b7",
+      "sharedAyahs": [
+        "9:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 1017.48,
+          "end": 1050.43
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/077.mp3",
+      "startMs": 0,
+      "endMs": 92160,
+      "durationMs": 92160,
+      "recordingDurationMs": 92160,
+      "bytes": 1106610,
+      "sha256": "83d87f44de349bf69a4358ce13ba9bed6dd2faec996146898d428cff8f3591f4",
+      "sharedAyahs": [
+        "9:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 1050.43,
+          "end": 1142.56
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/078.mp3",
+      "startMs": 0,
+      "endMs": 680140,
+      "durationMs": 680140,
+      "recordingDurationMs": 680140,
+      "bytes": 8162322,
+      "sha256": "fc837663151e2a64d2327b0da1449a644e0bb7a6e50d76f1a0864d2d3ff495da",
+      "sharedAyahs": [
+        "9:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 1142.56,
+          "end": 1822.68
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/079.mp3",
+      "startMs": 0,
+      "endMs": 832763,
+      "durationMs": 832763,
+      "recordingDurationMs": 1861030,
+      "bytes": 22332809,
+      "sha256": "0ea5df9175cc17830267dd0de9cb8b2fada3c28c6e527451b5304f43f31a2c1f",
+      "sharedAyahs": [
+        "9:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-036",
+          "start": 1822.68,
+          "end": 2655.53
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/079.mp3",
+      "startMs": 832763,
+      "endMs": 1861030,
+      "durationMs": 1028267,
+      "recordingDurationMs": 1861030,
+      "bytes": 22332809,
+      "sha256": "0ea5df9175cc17830267dd0de9cb8b2fada3c28c6e527451b5304f43f31a2c1f",
+      "sharedAyahs": [
+        "9:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 0.0,
+          "end": 1028.15
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/080.mp3",
+      "startMs": 0,
+      "endMs": 790660,
+      "durationMs": 790660,
+      "recordingDurationMs": 790660,
+      "bytes": 9488562,
+      "sha256": "77126124c2e342f5952d02418bac88c146ca1d695dd054aa0c951019b29d425d",
+      "sharedAyahs": [
+        "9:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 1028.15,
+          "end": 1818.79
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/081.mp3",
+      "startMs": 0,
+      "endMs": 862249,
+      "durationMs": 862249,
+      "recordingDurationMs": 1577540,
+      "bytes": 18930953,
+      "sha256": "973afceb589d6ccdcce632bce52ade4bde9814ce2014d0171fb8d7cd9e196970",
+      "sharedAyahs": [
+        "9:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 1818.79,
+          "end": 2681.02
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/082.mp3",
+      "startMs": 0,
+      "endMs": 6683,
+      "durationMs": 6683,
+      "recordingDurationMs": 545350,
+      "bytes": 6544649,
+      "sha256": "4ff9f3b8681784abdc0e502db408caa0f8ffff998cc1dc1ce0688832654546f4",
+      "sharedAyahs": [
+        "9:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-037",
+          "start": 2681.02,
+          "end": 2687.81
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/081.mp3",
+      "startMs": 862249,
+      "endMs": 1577540,
+      "durationMs": 715291,
+      "recordingDurationMs": 1577540,
+      "bytes": 18930953,
+      "sha256": "973afceb589d6ccdcce632bce52ade4bde9814ce2014d0171fb8d7cd9e196970",
+      "sharedAyahs": [
+        "9:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 0.0,
+          "end": 715.24
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/082.mp3",
+      "startMs": 6683,
+      "endMs": 545350,
+      "durationMs": 538667,
+      "recordingDurationMs": 545350,
+      "bytes": 6544649,
+      "sha256": "4ff9f3b8681784abdc0e502db408caa0f8ffff998cc1dc1ce0688832654546f4",
+      "sharedAyahs": [
+        "9:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 715.24,
+          "end": 1253.79
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/083.mp3",
+      "startMs": 0,
+      "endMs": 682970,
+      "durationMs": 682970,
+      "recordingDurationMs": 682970,
+      "bytes": 8196306,
+      "sha256": "c7cbb80482537727cf26713e819c5eeae81b4d3542db677880ff693dabc896d6",
+      "sharedAyahs": [
+        "9:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 1253.79,
+          "end": 1936.73
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/084.mp3",
+      "startMs": 0,
+      "endMs": 659500,
+      "durationMs": 659500,
+      "recordingDurationMs": 659500,
+      "bytes": 7914642,
+      "sha256": "8b0a6ad05386fadd6107f5121f5dfef007f48dc70d6a7c28f69370261e5541f1",
+      "sharedAyahs": [
+        "9:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 1936.73,
+          "end": 2596.22
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/085.mp3",
+      "startMs": 0,
+      "endMs": 108611,
+      "durationMs": 108611,
+      "recordingDurationMs": 1046280,
+      "bytes": 12555785,
+      "sha256": "e0c784935d789d07bb3b85118af8a2efc4293aea6494b08d661cc716e583006b",
+      "sharedAyahs": [
+        "9:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-038",
+          "start": 2596.22,
+          "end": 2704.92
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/085.mp3",
+      "startMs": 108611,
+      "endMs": 1046280,
+      "durationMs": 937669,
+      "recordingDurationMs": 1046280,
+      "bytes": 12555785,
+      "sha256": "e0c784935d789d07bb3b85118af8a2efc4293aea6494b08d661cc716e583006b",
+      "sharedAyahs": [
+        "9:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 0.0,
+          "end": 937.54
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/086.mp3",
+      "startMs": 0,
+      "endMs": 570000,
+      "durationMs": 570000,
+      "recordingDurationMs": 570000,
+      "bytes": 6840690,
+      "sha256": "32687895877ea3fbff851e365e0cd8b460f9448542455944b104d765a6272521",
+      "sharedAyahs": [
+        "9:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 937.54,
+          "end": 1507.52
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/087.mp3",
+      "startMs": 0,
+      "endMs": 228500,
+      "durationMs": 228500,
+      "recordingDurationMs": 228500,
+      "bytes": 2742738,
+      "sha256": "269c40ca133207db9539e69f6739a2d2fdb120e62d6e651407b8e4f8e96d8d65",
+      "sharedAyahs": [
+        "9:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 1507.52,
+          "end": 1736.0
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/088.mp3",
+      "startMs": 0,
+      "endMs": 379680,
+      "durationMs": 379680,
+      "recordingDurationMs": 379680,
+      "bytes": 4556850,
+      "sha256": "debbee67b7cc7d5bf2e8b9b3ac4b8d3afc5ee12024730af29ec344e449dad3fa",
+      "sharedAyahs": [
+        "9:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 1736.0,
+          "end": 2115.65
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/089.mp3",
+      "startMs": 0,
+      "endMs": 94250,
+      "durationMs": 94250,
+      "recordingDurationMs": 94250,
+      "bytes": 1131666,
+      "sha256": "382126a2f05bcdefc22b2bb265fe124f681cb44b304c2cd3e1e9452406b5220c",
+      "sharedAyahs": [
+        "9:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 2115.65,
+          "end": 2209.88
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/090.mp3",
+      "startMs": 0,
+      "endMs": 454920,
+      "durationMs": 454920,
+      "recordingDurationMs": 454920,
+      "bytes": 5459730,
+      "sha256": "ff52198bfa4786072001d1f7dd35e2c908eeffc8e9eb4327c914142713040d0e",
+      "sharedAyahs": [
+        "9:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-039",
+          "start": 2209.88,
+          "end": 2664.82
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/091.mp3",
+      "startMs": 0,
+      "endMs": 34630,
+      "durationMs": 34630,
+      "recordingDurationMs": 34630,
+      "bytes": 416274,
+      "sha256": "4cea5d00a612e33309264d994fbe0ee9fe79721574d430f84d15c14d2efe2dd4",
+      "sharedAyahs": [
+        "9:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 0.0,
+          "end": 34.6
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/092.mp3",
+      "startMs": 0,
+      "endMs": 468480,
+      "durationMs": 468480,
+      "recordingDurationMs": 468480,
+      "bytes": 5622450,
+      "sha256": "53f4564fd79945163715e2bc5907db063b792dd2020a7505fef013e16e07bd39",
+      "sharedAyahs": [
+        "9:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 34.6,
+          "end": 503.06
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/093.mp3",
+      "startMs": 0,
+      "endMs": 623160,
+      "durationMs": 623160,
+      "recordingDurationMs": 623160,
+      "bytes": 7478610,
+      "sha256": "24bc52e02815ae831976d58c808c036924b0741f386b1235456725e4e42bfb7d",
+      "sharedAyahs": [
+        "9:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 503.06,
+          "end": 1126.18
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/094.mp3",
+      "startMs": 0,
+      "endMs": 986020,
+      "durationMs": 986020,
+      "recordingDurationMs": 986020,
+      "bytes": 11832882,
+      "sha256": "ba073b8735fa13832646d2e40e2c635bbf25327f021b17b5fb151e5676cba3b4",
+      "sharedAyahs": [
+        "9:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 1126.18,
+          "end": 2112.19
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/095.mp3",
+      "startMs": 0,
+      "endMs": 547859,
+      "durationMs": 547859,
+      "recordingDurationMs": 906460,
+      "bytes": 10877897,
+      "sha256": "5eec9875682c8fd52ab7cdb4dd58a78b07b47e73573f5ede3369c8d989cd2f82",
+      "sharedAyahs": [
+        "9:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-040",
+          "start": 2112.19,
+          "end": 2660.14
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/095.mp3",
+      "startMs": 547859,
+      "endMs": 906460,
+      "durationMs": 358601,
+      "recordingDurationMs": 906460,
+      "bytes": 10877897,
+      "sha256": "5eec9875682c8fd52ab7cdb4dd58a78b07b47e73573f5ede3369c8d989cd2f82",
+      "sharedAyahs": [
+        "9:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 0.0,
+          "end": 358.48
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/096.mp3",
+      "startMs": 0,
+      "endMs": 121750,
+      "durationMs": 121750,
+      "recordingDurationMs": 121750,
+      "bytes": 1461714,
+      "sha256": "9b67089e38c8724c943d6a09fd6ac2bf1335d88976d5b9066114834aef6b0b05",
+      "sharedAyahs": [
+        "9:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 358.48,
+          "end": 480.21
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/097.mp3",
+      "startMs": 0,
+      "endMs": 477530,
+      "durationMs": 477530,
+      "recordingDurationMs": 477530,
+      "bytes": 5731026,
+      "sha256": "ec48338e689ae7728d2b71bfd002ec0fb7c74fde73843d7003d9e5e980f0cc79",
+      "sharedAyahs": [
+        "9:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 480.21,
+          "end": 957.71
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/098.mp3",
+      "startMs": 0,
+      "endMs": 355850,
+      "durationMs": 355850,
+      "recordingDurationMs": 355850,
+      "bytes": 4270866,
+      "sha256": "e2ed3186fc6bf7f31ab2ec77b417b115f48d078170d49f8f9be27fb68061f679",
+      "sharedAyahs": [
+        "9:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 957.71,
+          "end": 1313.54
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/099.mp3",
+      "startMs": 0,
+      "endMs": 353830,
+      "durationMs": 353830,
+      "recordingDurationMs": 353830,
+      "bytes": 4246674,
+      "sha256": "0b90ecd84fb2be1f4b000d69320cc5261dd385c30a9797b16c5c9fd0dfb9686e",
+      "sharedAyahs": [
+        "9:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 1313.54,
+          "end": 1667.35
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/100.mp3",
+      "startMs": 0,
+      "endMs": 716710,
+      "durationMs": 716710,
+      "recordingDurationMs": 716710,
+      "bytes": 8601236,
+      "sha256": "5e4a7c1e92d1396c27e04a72f093d0f7e06fb0410060cea7ef652737104c1be6",
+      "sharedAyahs": [
+        "9:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 1667.35,
+          "end": 2384.04
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/101.mp3",
+      "startMs": 0,
+      "endMs": 274979,
+      "durationMs": 274979,
+      "recordingDurationMs": 1626290,
+      "bytes": 19515883,
+      "sha256": "23132c5eee689303af1ffc24453245d77b4f974334b7c56ca406c3e008bf42d8",
+      "sharedAyahs": [
+        "9:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-041",
+          "start": 2384.04,
+          "end": 2659.1
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/101.mp3",
+      "startMs": 274979,
+      "endMs": 1626290,
+      "durationMs": 1351311,
+      "recordingDurationMs": 1626290,
+      "bytes": 19515883,
+      "sha256": "23132c5eee689303af1ffc24453245d77b4f974334b7c56ca406c3e008bf42d8",
+      "sharedAyahs": [
+        "9:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 0.0,
+          "end": 1351.19
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/102.mp3",
+      "startMs": 0,
+      "endMs": 1173380,
+      "durationMs": 1173380,
+      "recordingDurationMs": 1173380,
+      "bytes": 14081300,
+      "sha256": "f7f903618ef5d260d261f93904bd393444c820e1e7f86716920d189ff474364d",
+      "sharedAyahs": [
+        "9:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 1351.19,
+          "end": 2524.55
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/103.mp3",
+      "startMs": 0,
+      "endMs": 186323,
+      "durationMs": 186323,
+      "recordingDurationMs": 1407860,
+      "bytes": 16894795,
+      "sha256": "102ea42daf8e5af6fd288dcf2df26e790cd3c442c2bd5966d331e2e5b6164788",
+      "sharedAyahs": [
+        "9:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-042",
+          "start": 2524.55,
+          "end": 2710.97
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/103.mp3",
+      "startMs": 186323,
+      "endMs": 1407860,
+      "durationMs": 1221537,
+      "recordingDurationMs": 1407860,
+      "bytes": 16894795,
+      "sha256": "102ea42daf8e5af6fd288dcf2df26e790cd3c442c2bd5966d331e2e5b6164788",
+      "sharedAyahs": [
+        "9:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 0.0,
+          "end": 1221.43
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/104.mp3",
+      "startMs": 0,
+      "endMs": 886610,
+      "durationMs": 886610,
+      "recordingDurationMs": 886610,
+      "bytes": 10639988,
+      "sha256": "cc831ad3f7a92d2c531ab5b0d9a287e74468b83f7503eae5dc9ecf9d5a946bce",
+      "sharedAyahs": [
+        "9:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 1221.43,
+          "end": 2108.01
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/105.mp3",
+      "startMs": 0,
+      "endMs": 373660,
+      "durationMs": 373660,
+      "recordingDurationMs": 373660,
+      "bytes": 4484564,
+      "sha256": "132da4c3f9f0790980ec1f9df188fd7296fe4a0bb63e932672409062aa065f19",
+      "sharedAyahs": [
+        "9:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 2108.01,
+          "end": 2481.64
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/106.mp3",
+      "startMs": 0,
+      "endMs": 181019,
+      "durationMs": 181019,
+      "recordingDurationMs": 517680,
+      "bytes": 6212587,
+      "sha256": "8a5b07236414a0525fb75c760a6b8a1559e0f143d05dfb1e67a47fd95383ceaa",
+      "sharedAyahs": [
+        "9:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-043",
+          "start": 2481.64,
+          "end": 2662.75
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/106.mp3",
+      "startMs": 181019,
+      "endMs": 517680,
+      "durationMs": 336661,
+      "recordingDurationMs": 517680,
+      "bytes": 6212587,
+      "sha256": "8a5b07236414a0525fb75c760a6b8a1559e0f143d05dfb1e67a47fd95383ceaa",
+      "sharedAyahs": [
+        "9:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 0.0,
+          "end": 336.53
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/107.mp3",
+      "startMs": 0,
+      "endMs": 1106830,
+      "durationMs": 1106830,
+      "recordingDurationMs": 1106830,
+      "bytes": 13282676,
+      "sha256": "201adbbbf2bbb93da505bbd6da36ca3ccd6e0f0003760f3bc2a6a6f822c484fd",
+      "sharedAyahs": [
+        "9:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 336.53,
+          "end": 1443.34
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/108.mp3",
+      "startMs": 0,
+      "endMs": 741020,
+      "durationMs": 741020,
+      "recordingDurationMs": 741020,
+      "bytes": 8892980,
+      "sha256": "012699a0761c0ce7da7a9564c8a9fe6b83d1da9be8f13168a4dfa3a3f9f7b9c6",
+      "sharedAyahs": [
+        "9:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 1443.34,
+          "end": 2184.36
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/109.mp3",
+      "startMs": 0,
+      "endMs": 538900,
+      "durationMs": 538900,
+      "recordingDurationMs": 538900,
+      "bytes": 6467444,
+      "sha256": "df0f29003fbb4865ba287dfa37f84c9170712f0bc160df6d585e69c4dc275ed0",
+      "sharedAyahs": [
+        "9:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-044",
+          "start": 2184.36,
+          "end": 2723.26
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/110.mp3",
+      "startMs": 0,
+      "endMs": 591790,
+      "durationMs": 591790,
+      "recordingDurationMs": 591790,
+      "bytes": 7102196,
+      "sha256": "763bb78a2f06ac156951e0844d49fc9c8a5b9aef8982d071eed631e7f21045f4",
+      "sharedAyahs": [
+        "9:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 0.0,
+          "end": 591.76
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/111.mp3",
+      "startMs": 0,
+      "endMs": 1576610,
+      "durationMs": 1576610,
+      "recordingDurationMs": 1576610,
+      "bytes": 18919988,
+      "sha256": "b49401949c407404962bbdb1680cb363c6f8872c3f3533fb4ebaf49946d770fc",
+      "sharedAyahs": [
+        "9:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 591.76,
+          "end": 2168.34
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/112.mp3",
+      "startMs": 0,
+      "endMs": 570443,
+      "durationMs": 570443,
+      "recordingDurationMs": 1262640,
+      "bytes": 15152107,
+      "sha256": "098ca8b0e601a6ff969b40a9cc8c62cb03724a6f8d0ef84b490abfb4869c8872",
+      "sharedAyahs": [
+        "9:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-045",
+          "start": 2168.34,
+          "end": 2738.88
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/112.mp3",
+      "startMs": 570443,
+      "endMs": 1262640,
+      "durationMs": 692197,
+      "recordingDurationMs": 1262640,
+      "bytes": 15152107,
+      "sha256": "098ca8b0e601a6ff969b40a9cc8c62cb03724a6f8d0ef84b490abfb4869c8872",
+      "sharedAyahs": [
+        "9:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 0.0,
+          "end": 692.08
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/113.mp3",
+      "startMs": 0,
+      "endMs": 36530,
+      "durationMs": 36530,
+      "recordingDurationMs": 36530,
+      "bytes": 439028,
+      "sha256": "f57845c7de8ff057d0be0bcb516b1bd68c1b5b2aa268254e39ecccdf85f83408",
+      "sharedAyahs": [
+        "9:113"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 692.08,
+          "end": 728.59
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/114.mp3",
+      "startMs": 0,
+      "endMs": 1652470,
+      "durationMs": 1652470,
+      "recordingDurationMs": 1652470,
+      "bytes": 19830356,
+      "sha256": "213bde5ce699433a8060da4ed016e90396aa4674ab07834f7a776e50b8e73ff6",
+      "sharedAyahs": [
+        "9:114"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 728.59,
+          "end": 2381.03
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/115.mp3",
+      "startMs": 0,
+      "endMs": 30100,
+      "durationMs": 30100,
+      "recordingDurationMs": 30100,
+      "bytes": 361844,
+      "sha256": "baab6681c0f1ececbe85ec7f4a94bbcda3a3dde0028212f605f6c44fb9eb8aab",
+      "sharedAyahs": [
+        "9:115"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 2381.03,
+          "end": 2411.1
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/116.mp3",
+      "startMs": 0,
+      "endMs": 340211,
+      "durationMs": 340211,
+      "recordingDurationMs": 667200,
+      "bytes": 8006827,
+      "sha256": "4b124f3ed7fdedce57a0ad9db084e5f5d14e1456bc63b15b639a3475fa5af0d4",
+      "sharedAyahs": [
+        "9:116"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-046",
+          "start": 2411.1,
+          "end": 2751.41
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/116.mp3",
+      "startMs": 340211,
+      "endMs": 667200,
+      "durationMs": 326989,
+      "recordingDurationMs": 667200,
+      "bytes": 8006827,
+      "sha256": "4b124f3ed7fdedce57a0ad9db084e5f5d14e1456bc63b15b639a3475fa5af0d4",
+      "sharedAyahs": [
+        "9:116"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 0.0,
+          "end": 326.86
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/117.mp3",
+      "startMs": 0,
+      "endMs": 905450,
+      "durationMs": 905450,
+      "recordingDurationMs": 905450,
+      "bytes": 10866068,
+      "sha256": "685d1b868bb46fef66f777fef910ca644401d7748b69a4ca5a30f98433e862e9",
+      "sharedAyahs": [
+        "9:117"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 326.86,
+          "end": 1232.3
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/118.mp3",
+      "startMs": 0,
+      "endMs": 873480,
+      "durationMs": 873480,
+      "recordingDurationMs": 873480,
+      "bytes": 10482452,
+      "sha256": "c03ec2553f77a44c961174a4ab9a733c80b3b74297059b04dd7190440979d671",
+      "sharedAyahs": [
+        "9:118"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 1232.3,
+          "end": 2105.74
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/119.mp3",
+      "startMs": 0,
+      "endMs": 17660,
+      "durationMs": 17660,
+      "recordingDurationMs": 17660,
+      "bytes": 212660,
+      "sha256": "5fcaceb45aa34d3b2e3691fc4c4d40b1158c408674a8aea0db7e5fa4d0de8eea",
+      "sharedAyahs": [
+        "9:119"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 2105.74,
+          "end": 2123.4
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/120.mp3",
+      "startMs": 0,
+      "endMs": 471240,
+      "durationMs": 471240,
+      "recordingDurationMs": 471240,
+      "bytes": 5655572,
+      "sha256": "bdfc396aad8fe6a9aaa87920c953b9bac85e9cf6bbab4973b238c78794a4259a",
+      "sharedAyahs": [
+        "9:120"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 2123.4,
+          "end": 2594.61
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/121.mp3",
+      "startMs": 0,
+      "endMs": 85010,
+      "durationMs": 85010,
+      "recordingDurationMs": 85010,
+      "bytes": 1020788,
+      "sha256": "8301724405be576b594fed7408bece5053a6bf48cc8ed7ceaaa19d2561da25f1",
+      "sharedAyahs": [
+        "9:121"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 2594.61,
+          "end": 2679.59
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/122.mp3",
+      "startMs": 0,
+      "endMs": 20387,
+      "durationMs": 20387,
+      "recordingDurationMs": 2010120,
+      "bytes": 24121867,
+      "sha256": "680b9d7921ad9e2ff907d685e8e531089c181ef61f89fd0af52fde6ea235d7e1",
+      "sharedAyahs": [
+        "9:122"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-047",
+          "start": 2679.59,
+          "end": 2700.07
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/122.mp3",
+      "startMs": 20387,
+      "endMs": 2010120,
+      "durationMs": 1989733,
+      "recordingDurationMs": 2010120,
+      "bytes": 24121867,
+      "sha256": "680b9d7921ad9e2ff907d685e8e531089c181ef61f89fd0af52fde6ea235d7e1",
+      "sharedAyahs": [
+        "9:122"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 0.0,
+          "end": 1989.61
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/123.mp3",
+      "startMs": 0,
+      "endMs": 680507,
+      "durationMs": 680507,
+      "recordingDurationMs": 911880,
+      "bytes": 10942987,
+      "sha256": "6e1764a29d8c2b88533abd87ac10ea9ad0e9a04a27dc01ad55fd5f93bc72f655",
+      "sharedAyahs": [
+        "9:123"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-048",
+          "start": 1989.61,
+          "end": 2670.22
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/123.mp3",
+      "startMs": 680507,
+      "endMs": 911880,
+      "durationMs": 231373,
+      "recordingDurationMs": 911880,
+      "bytes": 10942987,
+      "sha256": "6e1764a29d8c2b88533abd87ac10ea9ad0e9a04a27dc01ad55fd5f93bc72f655",
+      "sharedAyahs": [
+        "9:123"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 0.0,
+          "end": 231.26
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/124.mp3",
+      "startMs": 0,
+      "endMs": 749160,
+      "durationMs": 749160,
+      "recordingDurationMs": 749160,
+      "bytes": 8990612,
+      "sha256": "2c1c7787c970d7d56feadd32495a53b9722a306097362308dbadb378816e2cb3",
+      "sharedAyahs": [
+        "9:124"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 231.26,
+          "end": 980.39
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/125.mp3",
+      "startMs": 0,
+      "endMs": 161400,
+      "durationMs": 161400,
+      "recordingDurationMs": 161400,
+      "bytes": 1937492,
+      "sha256": "6db6adaec951f189d453cbfadc73640f1af89f7b8f7bb1cd2803afe3529721ec",
+      "sharedAyahs": [
+        "9:125"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 980.39,
+          "end": 1141.77
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/126.mp3",
+      "startMs": 0,
+      "endMs": 543790,
+      "durationMs": 543790,
+      "recordingDurationMs": 543790,
+      "bytes": 6526196,
+      "sha256": "9582da2bd85a984bbb70c883ed07d2f6da55fd3d449ee480dfe561fe3c05ee14",
+      "sharedAyahs": [
+        "9:126"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 1141.77,
+          "end": 1685.53
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/127.mp3",
+      "startMs": 0,
+      "endMs": 368520,
+      "durationMs": 368520,
+      "recordingDurationMs": 368520,
+      "bytes": 4422932,
+      "sha256": "d06d5489a8623a5f0e05b348c9a92b86c77452d28666818cea1d1693b6003415",
+      "sharedAyahs": [
+        "9:127"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 1685.53,
+          "end": 2054.02
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/128.mp3",
+      "startMs": 0,
+      "endMs": 649163,
+      "durationMs": 649163,
+      "recordingDurationMs": 2850910,
+      "bytes": 34211371,
+      "sha256": "0a8503d9dd6b7604431d27fcc861532580e199091fe12d556c88aa63b59be070",
+      "sharedAyahs": [
+        "9:128"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-049",
+          "start": 2054.02,
+          "end": 2703.29
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/128.mp3",
+      "startMs": 649163,
+      "endMs": 2850910,
+      "durationMs": 2201747,
+      "recordingDurationMs": 2850910,
+      "bytes": 34211371,
+      "sha256": "0a8503d9dd6b7604431d27fcc861532580e199091fe12d556c88aa63b59be070",
+      "sharedAyahs": [
+        "9:128"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-050",
+          "start": 0.0,
+          "end": 2201.64
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/129.mp3",
+      "startMs": 0,
+      "endMs": 495251,
+      "durationMs": 495251,
+      "recordingDurationMs": 3204220,
+      "bytes": 38451019,
+      "sha256": "abc4ba0a5c71cbbfb20d06476ce76cbfaa0bd2a1dde51afec9ea7a30e08a0471",
+      "sharedAyahs": [
+        "9:129"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-050",
+          "start": 2201.64,
+          "end": 2696.98
+        }
+      ]
+    },
+    {
+      "file": "009-التوبة-youtube-v1/129.mp3",
+      "startMs": 495251,
+      "endMs": 3204220,
+      "durationMs": 2708969,
+      "recordingDurationMs": 3204220,
+      "bytes": 38451019,
+      "sha256": "abc4ba0a5c71cbbfb20d06476ce76cbfaa0bd2a1dde51afec9ea7a30e08a0471",
+      "sharedAyahs": [
+        "9:129"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-051",
+          "start": 0.0,
+          "end": 2708.88
+        }
+      ]
+    }
+  ],
+  "durationMs": 111252470,
+  "additionalAudioBytes": 0
+}
