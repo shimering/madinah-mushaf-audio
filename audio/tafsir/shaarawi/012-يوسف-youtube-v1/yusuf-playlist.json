@@ -1,0 +1,2439 @@
+{
+  "mode": "reused-clips",
+  "sourceOrder": [
+    "yt-001",
+    "yt-002",
+    "yt-003",
+    "yt-004",
+    "yt-005",
+    "yt-006",
+    "yt-007",
+    "yt-008",
+    "yt-009",
+    "yt-010",
+    "yt-011",
+    "yt-012",
+    "yt-013",
+    "yt-014"
+  ],
+  "includesIntroductionsAndRecaps": true,
+  "tracks": [
+    {
+      "file": "012-يوسف-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 489050,
+      "durationMs": 489050,
+      "recordingDurationMs": 489050,
+      "bytes": 5869157,
+      "sha256": "a44c41a9466cb04da0f451f4961c16f5213e5d3d30fe1a97012a3c1a941fe6a0",
+      "sharedAyahs": [
+        "12:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 20.33,
+          "end": 509.36
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 888770,
+      "durationMs": 888770,
+      "recordingDurationMs": 888770,
+      "bytes": 10665797,
+      "sha256": "3f4ef47e3f3066a19e9d6cdae0b8d4376b52f50a007f0775797ed583d30b9a3e",
+      "sharedAyahs": [
+        "12:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 509.36,
+          "end": 1398.12
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 1185020,
+      "durationMs": 1185020,
+      "recordingDurationMs": 1185020,
+      "bytes": 14220869,
+      "sha256": "5dfd8e1f6f5faecc0242d40d2b59656e9a36a7a1785fb3dfff3862bb036e64f0",
+      "sharedAyahs": [
+        "12:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 1398.12,
+          "end": 2583.12
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 1012320,
+      "durationMs": 1012320,
+      "recordingDurationMs": 1012320,
+      "bytes": 12148421,
+      "sha256": "37bb2c7fdde8216a57f922f96a23a5f28707227e4b9c6070d8f7b05f1229dbe0",
+      "sharedAyahs": [
+        "12:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 2583.12,
+          "end": 3595.41
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 218173,
+      "durationMs": 218173,
+      "recordingDurationMs": 235200,
+      "bytes": 2822819,
+      "sha256": "1e73ba869c506bd3977816837edf3750f47d13d37e8c15d43bb73e3669387a44",
+      "sharedAyahs": [
+        "12:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-001",
+          "start": 3595.41,
+          "end": 3813.57
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/005.mp3",
+      "startMs": 218173,
+      "endMs": 235200,
+      "durationMs": 17027,
+      "recordingDurationMs": 235200,
+      "bytes": 2822819,
+      "sha256": "1e73ba869c506bd3977816837edf3750f47d13d37e8c15d43bb73e3669387a44",
+      "sharedAyahs": [
+        "12:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 44.44,
+          "end": 61.42
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 352100,
+      "durationMs": 352100,
+      "recordingDurationMs": 352100,
+      "bytes": 4225829,
+      "sha256": "e4ae2d66f497946e0094304d6c42c9a2fed135c119ff3f0455c266f1e1a86f01",
+      "sharedAyahs": [
+        "12:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 61.42,
+          "end": 413.5
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 618430,
+      "durationMs": 618430,
+      "recordingDurationMs": 618430,
+      "bytes": 7421765,
+      "sha256": "6ce9ff26b5b394617e1cdcfd8c063b4fc10c4d8cab984f3355ef4906efc29a7b",
+      "sharedAyahs": [
+        "12:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 413.5,
+          "end": 1031.91
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 726120,
+      "durationMs": 726120,
+      "recordingDurationMs": 726120,
+      "bytes": 8714021,
+      "sha256": "9d56b8265760e132996e68c1a947cdda7c5944d932cd5386b9b0d17389c549c8",
+      "sharedAyahs": [
+        "12:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 1031.91,
+          "end": 1758.02
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 70800,
+      "durationMs": 70800,
+      "recordingDurationMs": 70800,
+      "bytes": 850181,
+      "sha256": "22ad0abdf609e3aa3cee35a1b835ce7657f16d2552750485a8e152feeab8478d",
+      "sharedAyahs": [
+        "12:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 1758.02,
+          "end": 1828.8
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 275420,
+      "durationMs": 275420,
+      "recordingDurationMs": 275420,
+      "bytes": 3305671,
+      "sha256": "a1d82eacd455dbdbcf6a3da2c88f375663aa6673cbd80f818e43927e878b76bf",
+      "sharedAyahs": [
+        "12:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 1828.8,
+          "end": 2104.2
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 129480,
+      "durationMs": 129480,
+      "recordingDurationMs": 129480,
+      "bytes": 1554343,
+      "sha256": "bded04d480e8311ba8f044b581660f91dac46ffa800586016d1a792332af5d96",
+      "sharedAyahs": [
+        "12:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2104.2,
+          "end": 2233.64
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 158160,
+      "durationMs": 158160,
+      "recordingDurationMs": 158160,
+      "bytes": 1898503,
+      "sha256": "8b3a03ba50d6538570cc2650294c8e6bfaada1d47dc7d3447ac9443fa5119e0a",
+      "sharedAyahs": [
+        "12:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2233.64,
+          "end": 2391.77
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 148800,
+      "durationMs": 148800,
+      "recordingDurationMs": 148800,
+      "bytes": 1786183,
+      "sha256": "a24ba36747cd390274150a026d95cc83e27a54d25fc5f1de16777f336959dbe2",
+      "sharedAyahs": [
+        "12:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2391.77,
+          "end": 2540.56
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 22200,
+      "durationMs": 22200,
+      "recordingDurationMs": 22200,
+      "bytes": 266983,
+      "sha256": "198d836aed460789befc0492e1b1ad0fce686243be352231f15bc642ce7b6012",
+      "sharedAyahs": [
+        "12:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2540.56,
+          "end": 2562.74
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/015.mp3",
+      "startMs": 0,
+      "endMs": 205510,
+      "durationMs": 205510,
+      "recordingDurationMs": 205510,
+      "bytes": 2466727,
+      "sha256": "50593f79537d8488976f5149008bbace30e82853394f7f3f9fee9a51edc8b8ad",
+      "sharedAyahs": [
+        "12:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2562.74,
+          "end": 2768.22
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 50291,
+      "durationMs": 50291,
+      "recordingDurationMs": 695640,
+      "bytes": 8348101,
+      "sha256": "3540810bc4d4d999bc302c23fd2fcad6936426191545b62b40d077906badcc83",
+      "sharedAyahs": [
+        "12:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-002",
+          "start": 2768.22,
+          "end": 2818.57
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/016.mp3",
+      "startMs": 50291,
+      "endMs": 695640,
+      "durationMs": 645349,
+      "recordingDurationMs": 695640,
+      "bytes": 8348101,
+      "sha256": "3540810bc4d4d999bc302c23fd2fcad6936426191545b62b40d077906badcc83",
+      "sharedAyahs": [
+        "12:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 0.0,
+          "end": 645.24
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 139100,
+      "durationMs": 139100,
+      "recordingDurationMs": 139100,
+      "bytes": 1669831,
+      "sha256": "7c4a6d70cf9991ad5385692997c930b21f87c7dc085bcfa68ba6caeb18cee675",
+      "sharedAyahs": [
+        "12:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 645.24,
+          "end": 784.32
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 746710,
+      "durationMs": 746710,
+      "recordingDurationMs": 746710,
+      "bytes": 8961127,
+      "sha256": "1cc2868e3400ee15e1db60f66e7841096f26ee96bc9fe6bd5ddb5457373a6fc1",
+      "sharedAyahs": [
+        "12:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 784.32,
+          "end": 1531.0
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 460300,
+      "durationMs": 460300,
+      "recordingDurationMs": 460300,
+      "bytes": 5524135,
+      "sha256": "b10d151e39438a0495986a7324dc6843e858a834bb19e49e06332bbb8d460cac",
+      "sharedAyahs": [
+        "12:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 1531.0,
+          "end": 1991.28
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 278040,
+      "durationMs": 278040,
+      "recordingDurationMs": 278040,
+      "bytes": 3337063,
+      "sha256": "4c69172916b20828bde50e31be27d4414bb4239c7c41f999f21a7fda729be305",
+      "sharedAyahs": [
+        "12:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 1991.28,
+          "end": 2269.29
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 409080,
+      "durationMs": 409080,
+      "recordingDurationMs": 409080,
+      "bytes": 4909543,
+      "sha256": "f0a51b077e963210ca76b37ec1656158cecc7268ecaccd8242b65881676c297c",
+      "sharedAyahs": [
+        "12:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-003",
+          "start": 2269.29,
+          "end": 2678.33
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 521280,
+      "durationMs": 521280,
+      "recordingDurationMs": 521280,
+      "bytes": 6255943,
+      "sha256": "ab57e1a716dbc75e6f8b92b635aa98033a5aa52c104b0c5fa8d8b32accd5225b",
+      "sharedAyahs": [
+        "12:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 44.78,
+          "end": 566.02
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 731090,
+      "durationMs": 731090,
+      "recordingDurationMs": 731090,
+      "bytes": 8773639,
+      "sha256": "8d293fdb3e45186eb03de865fc31c8c43b7b2f37b4e089acc9283b0774788927",
+      "sharedAyahs": [
+        "12:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 566.02,
+          "end": 1297.09
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 881900,
+      "durationMs": 881900,
+      "recordingDurationMs": 881900,
+      "bytes": 10583431,
+      "sha256": "62365393dd50c0a5f1253b9947905828b9f736b639c84946a75ac134ec46f9d4",
+      "sharedAyahs": [
+        "12:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 1297.09,
+          "end": 2178.97
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/025.mp3",
+      "startMs": 0,
+      "endMs": 356590,
+      "durationMs": 356590,
+      "recordingDurationMs": 356590,
+      "bytes": 4279687,
+      "sha256": "ed2bba73cda2c98fc1887a5a6b35942944686db8c4b09d808b8fa32568d7d246",
+      "sharedAyahs": [
+        "12:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 2178.97,
+          "end": 2535.54
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 28100,
+      "durationMs": 28100,
+      "recordingDurationMs": 28100,
+      "bytes": 337831,
+      "sha256": "86fec2cb499c246dd3e9d136e014b84a8d2c939b238c3d98df1cd22c028a6895",
+      "sharedAyahs": [
+        "12:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 2535.54,
+          "end": 2563.63
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 157750,
+      "durationMs": 157750,
+      "recordingDurationMs": 157750,
+      "bytes": 1893607,
+      "sha256": "814bb82b36cb4f4118dd7b4bf600e2933a864f08304bdd7d4f5024036546c358",
+      "sharedAyahs": [
+        "12:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 2563.63,
+          "end": 2721.36
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 194099,
+      "durationMs": 194099,
+      "recordingDurationMs": 305880,
+      "bytes": 3670981,
+      "sha256": "e87e565a5ff60ac7769709ad9335a2744486d45c04f2acad2f55ca02004ee126",
+      "sharedAyahs": [
+        "12:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-004",
+          "start": 2721.36,
+          "end": 2915.51
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/028.mp3",
+      "startMs": 194099,
+      "endMs": 305880,
+      "durationMs": 111781,
+      "recordingDurationMs": 305880,
+      "bytes": 3670981,
+      "sha256": "e87e565a5ff60ac7769709ad9335a2744486d45c04f2acad2f55ca02004ee126",
+      "sharedAyahs": [
+        "12:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 67.41,
+          "end": 179.08
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 197930,
+      "durationMs": 197930,
+      "recordingDurationMs": 197930,
+      "bytes": 2375719,
+      "sha256": "a8dc2933b9692651fce1940608c1dea7b4ed2914859546941b256a66b82c296f",
+      "sharedAyahs": [
+        "12:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 179.08,
+          "end": 376.98
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 34130,
+      "durationMs": 34130,
+      "recordingDurationMs": 34130,
+      "bytes": 410119,
+      "sha256": "c07575161db4cc6838141a024f7657d9a7108c09638dda9c725a1cc1683aa4df",
+      "sharedAyahs": [
+        "12:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 376.98,
+          "end": 411.09
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/031.mp3",
+      "startMs": 0,
+      "endMs": 1085060,
+      "durationMs": 1085060,
+      "recordingDurationMs": 1085060,
+      "bytes": 13021351,
+      "sha256": "f90fccd050b7de92e704bb2cb560b802aea77e430e87c01cd91f73e4b753af05",
+      "sharedAyahs": [
+        "12:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 411.09,
+          "end": 1496.13
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 553250,
+      "durationMs": 553250,
+      "recordingDurationMs": 553250,
+      "bytes": 6639559,
+      "sha256": "bd9f07f4f0b02d8a232652b0d02244a9985564b43d6d90622dd249d04e6ba1c3",
+      "sharedAyahs": [
+        "12:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 1496.13,
+          "end": 2049.36
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 299520,
+      "durationMs": 299520,
+      "recordingDurationMs": 299520,
+      "bytes": 3594823,
+      "sha256": "c2242fa144598003a44bf2161694e2b4d7cafc33eeb9c7c3e69e851ea192288c",
+      "sharedAyahs": [
+        "12:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 2049.36,
+          "end": 2348.84
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/034.mp3",
+      "startMs": 0,
+      "endMs": 16320,
+      "durationMs": 16320,
+      "recordingDurationMs": 16320,
+      "bytes": 196423,
+      "sha256": "a262b819d0cbe2e09e54259a6097d2e03089b5b7ea00aaf28c7c679872b20e09",
+      "sharedAyahs": [
+        "12:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 2348.84,
+          "end": 2365.14
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 164060,
+      "durationMs": 164060,
+      "recordingDurationMs": 164060,
+      "bytes": 1969351,
+      "sha256": "0e816fa90ddb880a9a0aaa71c6fa1d985700ba08be1fa2e9887e03e1c0e3ce97",
+      "sharedAyahs": [
+        "12:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 2365.14,
+          "end": 2529.17
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 168757,
+      "durationMs": 168757,
+      "recordingDurationMs": 470640,
+      "bytes": 5648101,
+      "sha256": "c7e9832c0881c6cd2e6309e5a5f34f97abbc448d6ae752c69b8ec9218609d751",
+      "sharedAyahs": [
+        "12:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-005",
+          "start": 2529.17,
+          "end": 2697.93
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/036.mp3",
+      "startMs": 168757,
+      "endMs": 470640,
+      "durationMs": 301883,
+      "recordingDurationMs": 470640,
+      "bytes": 5648101,
+      "sha256": "c7e9832c0881c6cd2e6309e5a5f34f97abbc448d6ae752c69b8ec9218609d751",
+      "sharedAyahs": [
+        "12:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 64.69,
+          "end": 366.53
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 55970,
+      "durationMs": 55970,
+      "recordingDurationMs": 55970,
+      "bytes": 672199,
+      "sha256": "02c8b0be913c1e40a87c79719e753320ef2431c4669cdf8c10e4d01d8f00091e",
+      "sharedAyahs": [
+        "12:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 366.53,
+          "end": 422.48
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 409250,
+      "durationMs": 409250,
+      "recordingDurationMs": 409250,
+      "bytes": 4911559,
+      "sha256": "fd01dd39f96eb9fc2bf815e7c82ee1da91e7b938049aef4f4e316095cc2b60f2",
+      "sharedAyahs": [
+        "12:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 422.48,
+          "end": 831.7
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 92330,
+      "durationMs": 92330,
+      "recordingDurationMs": 92330,
+      "bytes": 1108519,
+      "sha256": "fd6fb488b3309b3d14cf0f74ae270653a518d2d8aaeaab8c05c6b950bd31dc84",
+      "sharedAyahs": [
+        "12:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 831.7,
+          "end": 924.01
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 439490,
+      "durationMs": 439490,
+      "recordingDurationMs": 439490,
+      "bytes": 5274439,
+      "sha256": "8b0ea3b19ebd7ac024220c4f38abf5e5a1b996f3d890c495a4555df25803b23b",
+      "sharedAyahs": [
+        "12:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 924.01,
+          "end": 1363.47
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 433820,
+      "durationMs": 433820,
+      "recordingDurationMs": 433820,
+      "bytes": 5206471,
+      "sha256": "d678311ab4471653cc74fcb99fccd560ed0edc0b060eef30d926da32ccc8f31b",
+      "sharedAyahs": [
+        "12:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 1363.47,
+          "end": 1797.28
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 294190,
+      "durationMs": 294190,
+      "recordingDurationMs": 294190,
+      "bytes": 3530887,
+      "sha256": "8c4c315c55b6209f348463ba99c7bb5a41b1acb4cb4463612b6166d10e0efbc9",
+      "sharedAyahs": [
+        "12:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 1797.28,
+          "end": 2091.44
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 334010,
+      "durationMs": 334010,
+      "recordingDurationMs": 334010,
+      "bytes": 4008679,
+      "sha256": "7f5b9de24543bbb2ffaee32450a5015317018f4e6d3a5a3074e50eca36c3f24f",
+      "sharedAyahs": [
+        "12:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 2091.44,
+          "end": 2425.44
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 64990,
+      "durationMs": 64990,
+      "recordingDurationMs": 64990,
+      "bytes": 780487,
+      "sha256": "4609d39b2f372fd8a7e2120aa965daa7a91be5c671958c07f138646594f309f6",
+      "sharedAyahs": [
+        "12:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 2425.44,
+          "end": 2490.39
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 272989,
+      "durationMs": 272989,
+      "recordingDurationMs": 456700,
+      "bytes": 5480773,
+      "sha256": "de7e3a54fabac7e4bd7ccdd2559c8e12cff5eef2314d68d9ef2a73fce0a557cd",
+      "sharedAyahs": [
+        "12:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-006",
+          "start": 2490.39,
+          "end": 2763.37
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/045.mp3",
+      "startMs": 272989,
+      "endMs": 456700,
+      "durationMs": 183711,
+      "recordingDurationMs": 456700,
+      "bytes": 5480773,
+      "sha256": "de7e3a54fabac7e4bd7ccdd2559c8e12cff5eef2314d68d9ef2a73fce0a557cd",
+      "sharedAyahs": [
+        "12:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 34.56,
+          "end": 218.21
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 698780,
+      "durationMs": 698780,
+      "recordingDurationMs": 698780,
+      "bytes": 8385991,
+      "sha256": "14f520e8f27d572806559be8c4da82237c1c6b031b6abdd908ebdae7d4208003",
+      "sharedAyahs": [
+        "12:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 218.21,
+          "end": 916.99
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 285360,
+      "durationMs": 285360,
+      "recordingDurationMs": 285360,
+      "bytes": 3424903,
+      "sha256": "337a7f3aefa6fdbff934c9c4943404e67f046b645d0a8ca27058220e67790c0f",
+      "sharedAyahs": [
+        "12:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 916.99,
+          "end": 1202.31
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 114650,
+      "durationMs": 114650,
+      "recordingDurationMs": 114650,
+      "bytes": 1376359,
+      "sha256": "74b5efd0fbfbf9bd37b69673e8ac76204553b73aa8d5b40dd8686aacc6137632",
+      "sharedAyahs": [
+        "12:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 1202.31,
+          "end": 1316.95
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 375550,
+      "durationMs": 375550,
+      "recordingDurationMs": 375550,
+      "bytes": 4507207,
+      "sha256": "d1888c15cedfb7fa46ff5699a2ba0d2afc637698a80c3d3e0e6f1382d389c325",
+      "sharedAyahs": [
+        "12:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 1316.95,
+          "end": 1692.46
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 336500,
+      "durationMs": 336500,
+      "recordingDurationMs": 336500,
+      "bytes": 4038631,
+      "sha256": "68d1051439f9f2dfbe207fc5c5ccee1c6f5f990b5e99d36fb91416d72224b6b0",
+      "sharedAyahs": [
+        "12:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 1692.46,
+          "end": 2028.94
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 163560,
+      "durationMs": 163560,
+      "recordingDurationMs": 163560,
+      "bytes": 1963303,
+      "sha256": "9c38192bf5dc0068a819ca7d692985c08150f60135c35780db98eed8f96c4ea5",
+      "sharedAyahs": [
+        "12:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 2028.94,
+          "end": 2192.48
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 140020,
+      "durationMs": 140020,
+      "recordingDurationMs": 140020,
+      "bytes": 1680775,
+      "sha256": "52931c7bd1d1d2121578c6480c2714c02145cb6940dbd6d5b30d9423d5fdba00",
+      "sharedAyahs": [
+        "12:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 2192.48,
+          "end": 2332.48
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 293300,
+      "durationMs": 293300,
+      "recordingDurationMs": 293300,
+      "bytes": 3520231,
+      "sha256": "54a3a9925eb9abf7a0abb778afa3ea078d42470cd707cb203b77214988d4d49a",
+      "sharedAyahs": [
+        "12:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 2332.48,
+          "end": 2625.76
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/054.mp3",
+      "startMs": 0,
+      "endMs": 148741,
+      "durationMs": 148741,
+      "recordingDurationMs": 329230,
+      "bytes": 3951205,
+      "sha256": "e33a80578b407f8e76d3997de81e3ac267030e959f66e6b9efbfd8d8f2735dbe",
+      "sharedAyahs": [
+        "12:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-007",
+          "start": 2625.76,
+          "end": 2774.48
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/054.mp3",
+      "startMs": 148741,
+      "endMs": 329230,
+      "durationMs": 180489,
+      "recordingDurationMs": 329230,
+      "bytes": 3951205,
+      "sha256": "e33a80578b407f8e76d3997de81e3ac267030e959f66e6b9efbfd8d8f2735dbe",
+      "sharedAyahs": [
+        "12:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 71.76,
+          "end": 252.2
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/055.mp3",
+      "startMs": 0,
+      "endMs": 183890,
+      "durationMs": 183890,
+      "recordingDurationMs": 183890,
+      "bytes": 2207239,
+      "sha256": "fa4bb11a40d30c653436932f1a3aed57820d5c85239d887a956f17625bbb0dd2",
+      "sharedAyahs": [
+        "12:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 252.2,
+          "end": 436.06
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 312960,
+      "durationMs": 312960,
+      "recordingDurationMs": 312960,
+      "bytes": 3756103,
+      "sha256": "1d1649da50a412b8d5c4c7eadd8cbf1dbc724cda946d4ae872e8a223e55dae96",
+      "sharedAyahs": [
+        "12:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 436.06,
+          "end": 749.01
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/057.mp3",
+      "startMs": 0,
+      "endMs": 301970,
+      "durationMs": 301970,
+      "recordingDurationMs": 301970,
+      "bytes": 3624199,
+      "sha256": "84ef088a62d6f20875f9c18158cffce1480f87cbfc4105f9c7e40eebee496700",
+      "sharedAyahs": [
+        "12:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 749.01,
+          "end": 1050.96
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/058.mp3",
+      "startMs": 0,
+      "endMs": 119060,
+      "durationMs": 119060,
+      "recordingDurationMs": 119060,
+      "bytes": 1429351,
+      "sha256": "78ced565a00e92d0bc1423d5c70b969a2979f9d1e63ef07d006e696fdf920acc",
+      "sharedAyahs": [
+        "12:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1050.96,
+          "end": 1170.0
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 339070,
+      "durationMs": 339070,
+      "recordingDurationMs": 339070,
+      "bytes": 4069447,
+      "sha256": "9f8975d484620d3a21e9251a942a736fe13b700bf8d63b81bfae273404f6198e",
+      "sharedAyahs": [
+        "12:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1170.0,
+          "end": 1509.03
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/060.mp3",
+      "startMs": 0,
+      "endMs": 37820,
+      "durationMs": 37820,
+      "recordingDurationMs": 37820,
+      "bytes": 454471,
+      "sha256": "439901c3fa5183d31493cd2eaaab34a82d532a43088b17ef8be3efbd783ed03f",
+      "sharedAyahs": [
+        "12:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1509.03,
+          "end": 1546.83
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/061.mp3",
+      "startMs": 0,
+      "endMs": 28540,
+      "durationMs": 28540,
+      "recordingDurationMs": 28540,
+      "bytes": 343015,
+      "sha256": "ba5de7daf02d51c7fd7c43119f908463527167131143d31f620f4e63230e8b0d",
+      "sharedAyahs": [
+        "12:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1546.83,
+          "end": 1575.34
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/062.mp3",
+      "startMs": 0,
+      "endMs": 60620,
+      "durationMs": 60620,
+      "recordingDurationMs": 60620,
+      "bytes": 728071,
+      "sha256": "8ee3493cc0b92e416b3f2dc771f4f4a445451b2bb842f6dfec09a6955bbaebab",
+      "sharedAyahs": [
+        "12:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1575.34,
+          "end": 1635.95
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 109390,
+      "durationMs": 109390,
+      "recordingDurationMs": 109390,
+      "bytes": 1313287,
+      "sha256": "3244a259df8f2e76c4b248eb333986f4927af8a94c9f2d7598c63d2eb73a8d4c",
+      "sharedAyahs": [
+        "12:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1635.95,
+          "end": 1745.32
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/064.mp3",
+      "startMs": 0,
+      "endMs": 32040,
+      "durationMs": 32040,
+      "recordingDurationMs": 32040,
+      "bytes": 385063,
+      "sha256": "e714dd6868f3a727138a6423398081b1a4de7061a74a22433bcd6c6b332df41a",
+      "sharedAyahs": [
+        "12:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1745.32,
+          "end": 1777.33
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/065.mp3",
+      "startMs": 0,
+      "endMs": 42290,
+      "durationMs": 42290,
+      "recordingDurationMs": 42290,
+      "bytes": 508039,
+      "sha256": "5dd6792dc9243d9b5d72c78aaea28e8643766768e7e5a0d4e77b61a22283fe58",
+      "sharedAyahs": [
+        "12:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1777.33,
+          "end": 1819.59
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/066.mp3",
+      "startMs": 0,
+      "endMs": 66410,
+      "durationMs": 66410,
+      "recordingDurationMs": 66410,
+      "bytes": 797479,
+      "sha256": "fe7e1ab106d3af7406031123bbae2bb830dbb5d4d83e5c98d178a04d08daf419",
+      "sharedAyahs": [
+        "12:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1819.59,
+          "end": 1885.97
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 398950,
+      "durationMs": 398950,
+      "recordingDurationMs": 398950,
+      "bytes": 4788007,
+      "sha256": "5d50cefe3175e0599250563cd8bff8c3c96d4cab4781fe14edd6ec6280f8bb8d",
+      "sharedAyahs": [
+        "12:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 1885.97,
+          "end": 2284.9
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/068.mp3",
+      "startMs": 0,
+      "endMs": 95500,
+      "durationMs": 95500,
+      "recordingDurationMs": 95500,
+      "bytes": 1146535,
+      "sha256": "d5d43a8261e045126bb5dd16b907ca47b5c0587978bae17ad3edc6d7f43070f2",
+      "sharedAyahs": [
+        "12:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2284.9,
+          "end": 2380.38
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/069.mp3",
+      "startMs": 0,
+      "endMs": 14210,
+      "durationMs": 14210,
+      "recordingDurationMs": 14210,
+      "bytes": 171079,
+      "sha256": "3fcfa20ebf7adde9ad067d7f92ad30ce41b98187f0bb0f73d3e479d23d180f4a",
+      "sharedAyahs": [
+        "12:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2380.38,
+          "end": 2394.57
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/070.mp3",
+      "startMs": 0,
+      "endMs": 125060,
+      "durationMs": 125060,
+      "recordingDurationMs": 125060,
+      "bytes": 1501351,
+      "sha256": "1fe07c846ad8bfcb89aa9ba251b129e44415479e9efe3839e53c4b452f7fae89",
+      "sharedAyahs": [
+        "12:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2394.57,
+          "end": 2519.61
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/071.mp3",
+      "startMs": 0,
+      "endMs": 11280,
+      "durationMs": 11280,
+      "recordingDurationMs": 11280,
+      "bytes": 135943,
+      "sha256": "d1c64aa69f5a71d2bd44c1aa01c6766c404322a9417e010d8aecd7eefb6b0307",
+      "sharedAyahs": [
+        "12:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2519.61,
+          "end": 2530.86
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/072.mp3",
+      "startMs": 0,
+      "endMs": 73900,
+      "durationMs": 73900,
+      "recordingDurationMs": 73900,
+      "bytes": 887335,
+      "sha256": "7f00bd9237a6a5ecced95edb90491403a4b932ac9bc0d4076344256181ffa92e",
+      "sharedAyahs": [
+        "12:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2530.86,
+          "end": 2604.74
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/073.mp3",
+      "startMs": 0,
+      "endMs": 13270,
+      "durationMs": 13270,
+      "recordingDurationMs": 13270,
+      "bytes": 159847,
+      "sha256": "86b87968975fddcc89413e071d5869475ee0a596d9dfc3a1e1126eab22754d2d",
+      "sharedAyahs": [
+        "12:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2604.74,
+          "end": 2617.98
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/074.mp3",
+      "startMs": 0,
+      "endMs": 11380,
+      "durationMs": 11380,
+      "recordingDurationMs": 11380,
+      "bytes": 137095,
+      "sha256": "809d37df458a27336cc260bd4c552b8dcbf713b8c6e57567c9e55ebb10e30fc9",
+      "sharedAyahs": [
+        "12:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2617.98,
+          "end": 2629.33
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/075.mp3",
+      "startMs": 0,
+      "endMs": 58490,
+      "durationMs": 58490,
+      "recordingDurationMs": 58490,
+      "bytes": 702439,
+      "sha256": "b5620ec4cd5b4905b56e8a128d92ae57318e72a3879beaf515208b257cfa0010",
+      "sharedAyahs": [
+        "12:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2629.33,
+          "end": 2687.79
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/076.mp3",
+      "startMs": 0,
+      "endMs": 72947,
+      "durationMs": 72947,
+      "recordingDurationMs": 376510,
+      "bytes": 4518565,
+      "sha256": "e57753232c47e8081f768f72b328dc88b0a44a36ae74f03c872de043bac5d85b",
+      "sharedAyahs": [
+        "12:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-008",
+          "start": 2687.79,
+          "end": 2760.81
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/076.mp3",
+      "startMs": 72947,
+      "endMs": 376510,
+      "durationMs": 303563,
+      "recordingDurationMs": 376510,
+      "bytes": 4518565,
+      "sha256": "e57753232c47e8081f768f72b328dc88b0a44a36ae74f03c872de043bac5d85b",
+      "sharedAyahs": [
+        "12:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 61.44,
+          "end": 364.89
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/077.mp3",
+      "startMs": 0,
+      "endMs": 685010,
+      "durationMs": 685010,
+      "recordingDurationMs": 685010,
+      "bytes": 8220679,
+      "sha256": "16c609effea9400297f8268a2cb96f2eed4959d3056d5f75613350b2deb299f5",
+      "sharedAyahs": [
+        "12:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 364.89,
+          "end": 1049.87
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/078.mp3",
+      "startMs": 0,
+      "endMs": 39020,
+      "durationMs": 39020,
+      "recordingDurationMs": 39020,
+      "bytes": 468871,
+      "sha256": "ffa35320f864f0229854c493072cec8205fff41ebc8314b1ad370a7ec7e1bc58",
+      "sharedAyahs": [
+        "12:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1049.87,
+          "end": 1088.87
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/079.mp3",
+      "startMs": 0,
+      "endMs": 56500,
+      "durationMs": 56500,
+      "recordingDurationMs": 56500,
+      "bytes": 678535,
+      "sha256": "8ba9e2ff6f9531b3d1ac412a6019afb24ed18a757bac8432ece032dc6c027698",
+      "sharedAyahs": [
+        "12:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1088.87,
+          "end": 1145.35
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/080.mp3",
+      "startMs": 0,
+      "endMs": 574630,
+      "durationMs": 574630,
+      "recordingDurationMs": 574630,
+      "bytes": 6896167,
+      "sha256": "ffdb67650b933f59afaa5dc3ab6748a9d129fbec7dc4856b6ac1fd31b0d80993",
+      "sharedAyahs": [
+        "12:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1145.35,
+          "end": 1719.96
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/081.mp3",
+      "startMs": 0,
+      "endMs": 98980,
+      "durationMs": 98980,
+      "recordingDurationMs": 98980,
+      "bytes": 1188295,
+      "sha256": "2400e30b8d30542d083f7379d6ee92ccd4bdb1a3d0c69f898eca25617cb71156",
+      "sharedAyahs": [
+        "12:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1719.96,
+          "end": 1818.89
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/082.mp3",
+      "startMs": 0,
+      "endMs": 275540,
+      "durationMs": 275540,
+      "recordingDurationMs": 275540,
+      "bytes": 3307111,
+      "sha256": "5a623c1bc285e51f1b9b680d435987926bbe87741e3933dd98337d89349b14a5",
+      "sharedAyahs": [
+        "12:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 1818.89,
+          "end": 2094.41
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/083.mp3",
+      "startMs": 0,
+      "endMs": 239930,
+      "durationMs": 239930,
+      "recordingDurationMs": 239930,
+      "bytes": 2879719,
+      "sha256": "f748df6e24f772aa77e944ab710d4d0af908f33c2fdeb68bd63f3de2d000e91d",
+      "sharedAyahs": [
+        "12:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 2094.41,
+          "end": 2334.32
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/084.mp3",
+      "startMs": 0,
+      "endMs": 7700,
+      "durationMs": 7700,
+      "recordingDurationMs": 7700,
+      "bytes": 93031,
+      "sha256": "a397ec61cffe70fb10515b0e0b507885c4565e3cbd300fc9baf3dddede6be950",
+      "sharedAyahs": [
+        "12:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 2334.32,
+          "end": 2342.0
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/085.mp3",
+      "startMs": 0,
+      "endMs": 35533,
+      "durationMs": 35533,
+      "recordingDurationMs": 63240,
+      "bytes": 759301,
+      "sha256": "200268fb0bbed5c898abc952058dbf7179f60142a5610300edc3c40e8c202b99",
+      "sharedAyahs": [
+        "12:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 2342.0,
+          "end": 2377.52
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/086.mp3",
+      "startMs": 0,
+      "endMs": 355213,
+      "durationMs": 355213,
+      "recordingDurationMs": 561220,
+      "bytes": 6735013,
+      "sha256": "cf94c19df3feb3ce7ae70d1f774c20acf2d217c6f1ffddaef443b40b37c60a38",
+      "sharedAyahs": [
+        "12:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-009",
+          "start": 2377.52,
+          "end": 2732.73
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/085.mp3",
+      "startMs": 35533,
+      "endMs": 63240,
+      "durationMs": 27707,
+      "recordingDurationMs": 63240,
+      "bytes": 759301,
+      "sha256": "200268fb0bbed5c898abc952058dbf7179f60142a5610300edc3c40e8c202b99",
+      "sharedAyahs": [
+        "12:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 61.36,
+          "end": 89.03
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/086.mp3",
+      "startMs": 355213,
+      "endMs": 561220,
+      "durationMs": 206007,
+      "recordingDurationMs": 561220,
+      "bytes": 6735013,
+      "sha256": "cf94c19df3feb3ce7ae70d1f774c20acf2d217c6f1ffddaef443b40b37c60a38",
+      "sharedAyahs": [
+        "12:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 89.03,
+          "end": 294.99
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/087.mp3",
+      "startMs": 0,
+      "endMs": 619970,
+      "durationMs": 619970,
+      "recordingDurationMs": 619970,
+      "bytes": 7440199,
+      "sha256": "96dbc81bce8585e008191bcf58adc333f79e09d9770500fba6e39182f0a37323",
+      "sharedAyahs": [
+        "12:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 294.99,
+          "end": 914.93
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/088.mp3",
+      "startMs": 0,
+      "endMs": 322610,
+      "durationMs": 322610,
+      "recordingDurationMs": 322610,
+      "bytes": 3871879,
+      "sha256": "d46062f5f3830c640fda21b02c968a1755ac617179e7a12fe96b6870c83dc198",
+      "sharedAyahs": [
+        "12:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 914.93,
+          "end": 1237.53
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/089.mp3",
+      "startMs": 0,
+      "endMs": 9480,
+      "durationMs": 9480,
+      "recordingDurationMs": 9480,
+      "bytes": 114343,
+      "sha256": "2878f59dbc11757b4b249571f53bd0845fe2e135fbed97c5650dc70a41ca8b89",
+      "sharedAyahs": [
+        "12:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1237.53,
+          "end": 1246.99
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/090.mp3",
+      "startMs": 0,
+      "endMs": 316010,
+      "durationMs": 316010,
+      "recordingDurationMs": 316010,
+      "bytes": 3792684,
+      "sha256": "77fa76ec79e10241c83499de84a50f34f3c23681e62b20987c1f5be7c4906395",
+      "sharedAyahs": [
+        "12:90",
+        "12:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1246.99,
+          "end": 1562.96
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/092.mp3",
+      "startMs": 0,
+      "endMs": 227110,
+      "durationMs": 227110,
+      "recordingDurationMs": 227110,
+      "bytes": 2725927,
+      "sha256": "aef1cff54ae6ebe40c183333627e3e4e87fb2702c1716af4702e4fa09ffa4eaa",
+      "sharedAyahs": [
+        "12:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1562.96,
+          "end": 1790.05
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/093.mp3",
+      "startMs": 0,
+      "endMs": 386280,
+      "durationMs": 386280,
+      "recordingDurationMs": 386280,
+      "bytes": 4635943,
+      "sha256": "a6299d326ab998d5d1d605453bda7f3e2dcbae06ec97cdbd3e0b58d7c92b0a5a",
+      "sharedAyahs": [
+        "12:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 1790.05,
+          "end": 2176.31
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/094.mp3",
+      "startMs": 0,
+      "endMs": 233090,
+      "durationMs": 233090,
+      "recordingDurationMs": 233090,
+      "bytes": 2797644,
+      "sha256": "fd9c64f9033b5dcdfa021c9a364fb8f5372bebb0f57b7907423448ed99139d53",
+      "sharedAyahs": [
+        "12:94",
+        "12:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2176.31,
+          "end": 2409.38
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/096.mp3",
+      "startMs": 0,
+      "endMs": 63910,
+      "durationMs": 63910,
+      "recordingDurationMs": 63910,
+      "bytes": 767527,
+      "sha256": "c2a0fa5689c64028f9759b9717a485692e2155376ef5fb10d4836a43325c9cf9",
+      "sharedAyahs": [
+        "12:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2409.38,
+          "end": 2473.27
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/097.mp3",
+      "startMs": 0,
+      "endMs": 17040,
+      "durationMs": 17040,
+      "recordingDurationMs": 17040,
+      "bytes": 205063,
+      "sha256": "6dce8eb0e7b0f980f51853f09b6bd730fc149ad8bd8981c45a553594ca5a486b",
+      "sharedAyahs": [
+        "12:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2473.27,
+          "end": 2490.28
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/098.mp3",
+      "startMs": 0,
+      "endMs": 89690,
+      "durationMs": 89690,
+      "recordingDurationMs": 89690,
+      "bytes": 1076839,
+      "sha256": "ad929c458b64828a8187c0a1a7c3a469f396958f3fe039dab3bab553d35595b4",
+      "sharedAyahs": [
+        "12:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2490.28,
+          "end": 2579.93
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/099.mp3",
+      "startMs": 0,
+      "endMs": 94440,
+      "durationMs": 94440,
+      "recordingDurationMs": 94440,
+      "bytes": 1133863,
+      "sha256": "aaa62e8fca00321f5889e15de1047b3e784fbcddd82ed268c0444755efcc8f00",
+      "sharedAyahs": [
+        "12:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2579.93,
+          "end": 2674.35
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/100.mp3",
+      "startMs": 0,
+      "endMs": 153755,
+      "durationMs": 153755,
+      "recordingDurationMs": 1465900,
+      "bytes": 17591175,
+      "sha256": "59ed3332677deed2e8840487e1384f3d818d49a11533e0b9f30fbb36efb185ed",
+      "sharedAyahs": [
+        "12:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-010",
+          "start": 2674.35,
+          "end": 2828.17
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/100.mp3",
+      "startMs": 153755,
+      "endMs": 1465900,
+      "durationMs": 1312145,
+      "recordingDurationMs": 1465900,
+      "bytes": 17591175,
+      "sha256": "59ed3332677deed2e8840487e1384f3d818d49a11533e0b9f30fbb36efb185ed",
+      "sharedAyahs": [
+        "12:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 60.77,
+          "end": 1372.82
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/101.mp3",
+      "startMs": 0,
+      "endMs": 1019140,
+      "durationMs": 1019140,
+      "recordingDurationMs": 1019140,
+      "bytes": 12230217,
+      "sha256": "ceae702a71eb6f195ffc5ca23061cfa320f186ff3cea51c518c15823874ec5f2",
+      "sharedAyahs": [
+        "12:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 1372.82,
+          "end": 2391.93
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/102.mp3",
+      "startMs": 0,
+      "endMs": 115540,
+      "durationMs": 115540,
+      "recordingDurationMs": 115540,
+      "bytes": 1387017,
+      "sha256": "810122b00f705764aa72af6a5dc4f006eb431325f92278c864860f070639a0b5",
+      "sharedAyahs": [
+        "12:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 2391.93,
+          "end": 2507.44
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/103.mp3",
+      "startMs": 0,
+      "endMs": 330299,
+      "durationMs": 330299,
+      "recordingDurationMs": 1443960,
+      "bytes": 17327943,
+      "sha256": "9928003ec5c0c2d5f5b87c18a41e38f2b740fe40445d5bb6233387e51519e6a5",
+      "sharedAyahs": [
+        "12:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-011",
+          "start": 2507.44,
+          "end": 2837.79
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/103.mp3",
+      "startMs": 330299,
+      "endMs": 961307,
+      "durationMs": 631008,
+      "recordingDurationMs": 1443960,
+      "bytes": 17327943,
+      "sha256": "9928003ec5c0c2d5f5b87c18a41e38f2b740fe40445d5bb6233387e51519e6a5",
+      "sharedAyahs": [
+        "12:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 59.59,
+          "end": 690.57
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/104.mp3",
+      "startMs": 0,
+      "endMs": 125989,
+      "durationMs": 125989,
+      "recordingDurationMs": 205940,
+      "bytes": 2471751,
+      "sha256": "2ad0272f60cab83f9b78d20d75da901127aee847f7adf24ba1d2c2439c8fb2f2",
+      "sharedAyahs": [
+        "12:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 690.57,
+          "end": 816.54
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/105.mp3",
+      "startMs": 0,
+      "endMs": 1023757,
+      "durationMs": 1023757,
+      "recordingDurationMs": 1756750,
+      "bytes": 21081447,
+      "sha256": "200ba38f0e47ca54a3557a7cd6ee80d46b019cfdc06d90c44eda6a72faf6394e",
+      "sharedAyahs": [
+        "12:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 816.54,
+          "end": 1840.29
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/106.mp3",
+      "startMs": 0,
+      "endMs": 790597,
+      "durationMs": 790597,
+      "recordingDurationMs": 832250,
+      "bytes": 9987399,
+      "sha256": "6ab17af0d5626a48b077bc9612499a8eb8a9fa0d0327b78ac50ed256f1a6ccbf",
+      "sharedAyahs": [
+        "12:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 1840.29,
+          "end": 2630.88
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/107.mp3",
+      "startMs": 0,
+      "endMs": 69253,
+      "durationMs": 69253,
+      "recordingDurationMs": 367340,
+      "bytes": 4408551,
+      "sha256": "49455ec935dfa13d65e2c897d286a31e700b7e0eebb19bc5831ee5b431857c02",
+      "sharedAyahs": [
+        "12:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 2630.88,
+          "end": 2700.11
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/108.mp3",
+      "startMs": 0,
+      "endMs": 43381,
+      "durationMs": 43381,
+      "recordingDurationMs": 306960,
+      "bytes": 3683943,
+      "sha256": "8819bbeee57ec32b0451c04e67baf6a7874691174b41826124b0c0c7eeb321af",
+      "sharedAyahs": [
+        "12:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-012",
+          "start": 2700.11,
+          "end": 2743.47
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/103.mp3",
+      "startMs": 961307,
+      "endMs": 1443960,
+      "durationMs": 482653,
+      "recordingDurationMs": 1443960,
+      "bytes": 17327943,
+      "sha256": "9928003ec5c0c2d5f5b87c18a41e38f2b740fe40445d5bb6233387e51519e6a5",
+      "sharedAyahs": [
+        "12:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 69.29,
+          "end": 551.84
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/104.mp3",
+      "startMs": 125989,
+      "endMs": 205940,
+      "durationMs": 79951,
+      "recordingDurationMs": 205940,
+      "bytes": 2471751,
+      "sha256": "2ad0272f60cab83f9b78d20d75da901127aee847f7adf24ba1d2c2439c8fb2f2",
+      "sharedAyahs": [
+        "12:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 551.84,
+          "end": 631.77
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/105.mp3",
+      "startMs": 1023757,
+      "endMs": 1756750,
+      "durationMs": 732993,
+      "recordingDurationMs": 1756750,
+      "bytes": 21081447,
+      "sha256": "200ba38f0e47ca54a3557a7cd6ee80d46b019cfdc06d90c44eda6a72faf6394e",
+      "sharedAyahs": [
+        "12:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 631.77,
+          "end": 1364.72
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/106.mp3",
+      "startMs": 790597,
+      "endMs": 832250,
+      "durationMs": 41653,
+      "recordingDurationMs": 832250,
+      "bytes": 9987399,
+      "sha256": "6ab17af0d5626a48b077bc9612499a8eb8a9fa0d0327b78ac50ed256f1a6ccbf",
+      "sharedAyahs": [
+        "12:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 1364.72,
+          "end": 1406.35
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/107.mp3",
+      "startMs": 69253,
+      "endMs": 367340,
+      "durationMs": 298087,
+      "recordingDurationMs": 367340,
+      "bytes": 4408551,
+      "sha256": "49455ec935dfa13d65e2c897d286a31e700b7e0eebb19bc5831ee5b431857c02",
+      "sharedAyahs": [
+        "12:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 1406.35,
+          "end": 1704.4
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/108.mp3",
+      "startMs": 43381,
+      "endMs": 306960,
+      "durationMs": 263579,
+      "recordingDurationMs": 306960,
+      "bytes": 3683943,
+      "sha256": "8819bbeee57ec32b0451c04e67baf6a7874691174b41826124b0c0c7eeb321af",
+      "sharedAyahs": [
+        "12:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 1704.4,
+          "end": 1967.94
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/109.mp3",
+      "startMs": 0,
+      "endMs": 796261,
+      "durationMs": 796261,
+      "recordingDurationMs": 899710,
+      "bytes": 10796967,
+      "sha256": "38b8811f9ae79bf9dc894cab59630806fc580444dbd951c78ab14bb4b640c85e",
+      "sharedAyahs": [
+        "12:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-013",
+          "start": 1967.94,
+          "end": 2764.2
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/109.mp3",
+      "startMs": 796261,
+      "endMs": 899710,
+      "durationMs": 103449,
+      "recordingDurationMs": 899710,
+      "bytes": 10796967,
+      "sha256": "38b8811f9ae79bf9dc894cab59630806fc580444dbd951c78ab14bb4b640c85e",
+      "sharedAyahs": [
+        "12:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 68.35,
+          "end": 171.75
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/110.mp3",
+      "startMs": 0,
+      "endMs": 731330,
+      "durationMs": 731330,
+      "recordingDurationMs": 731330,
+      "bytes": 8776521,
+      "sha256": "8ec2ee5935a7a710ebb80c0eca683053e867a08017ce4d127e19da58222c2b85",
+      "sharedAyahs": [
+        "12:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 171.75,
+          "end": 903.05
+        }
+      ]
+    },
+    {
+      "file": "012-يوسف-youtube-v1/111.mp3",
+      "startMs": 0,
+      "endMs": 1883570,
+      "durationMs": 1883570,
+      "recordingDurationMs": 1883570,
+      "bytes": 22603401,
+      "sha256": "a8df1af990505333d5be0fd7864d2541464fb2fb328aea776b1d984d1e043535",
+      "sharedAyahs": [
+        "12:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yt-014",
+          "start": 903.05,
+          "end": 2786.61
+        }
+      ]
+    }
+  ],
+  "durationMs": 39189850,
+  "additionalAudioBytes": 0
+}
