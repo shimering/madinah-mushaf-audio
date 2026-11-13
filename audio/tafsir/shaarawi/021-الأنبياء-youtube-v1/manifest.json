@@ -1,0 +1,4601 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 21,
+  "surahName": "الأنبياء",
+  "ayahCount": 112,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 112,
+    "mappedAyahCount": 112,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "yUf6EzAwHUg": {
+      "durationSeconds": 2653.63,
+      "bytes": 31844292,
+      "sha256": "5b301709764487ed4af4f682aa933f8500d215b5cb09d34ad2230fd2d448a52f",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-014_yUf6EzAwHUg.mp3"
+    },
+    "zxlq4JBz4Cc": {
+      "durationSeconds": 2489.9,
+      "bytes": 29879558,
+      "sha256": "d5cf1b6fbd36068e29bb0639375e38af9e25fe66e0a3768617f0da7bfb6d1776",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_014-029_zxlq4JBz4Cc.mp3"
+    },
+    "beBq3exLb5o": {
+      "durationSeconds": 2654.5,
+      "bytes": 31854662,
+      "sha256": "a41e5977df5566b870b62fa0d0df612248b3cb2eda5d240acb633f159641b7bd",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_029-032_beBq3exLb5o.mp3"
+    },
+    "-DeRAU7UsdY": {
+      "durationSeconds": 2700.67,
+      "bytes": 32408774,
+      "sha256": "66bdc5644a8edc0469181fc7039bd47a4d088a44595d713e3d1d2583959aad7d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_032-043_-DeRAU7UsdY.mp3"
+    },
+    "ZIvYA0OkQr4": {
+      "durationSeconds": 2753.38,
+      "bytes": 33041223,
+      "sha256": "efaaf76855e35e76ab35cb086aba7a8be2c4698b382e1c54b82e362171682fda",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_041-048_ZIvYA0OkQr4.mp3"
+    },
+    "VDo6Dts4M90": {
+      "durationSeconds": 2665.15,
+      "bytes": 31982534,
+      "sha256": "f9e1cb08787d17086e942e9d9f27b01993548fb2a4b0163a2fa5e63436140f0d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_048-051_VDo6Dts4M90.mp3"
+    },
+    "A0DjBOOH1ek": {
+      "durationSeconds": 2743.34,
+      "bytes": 32920821,
+      "sha256": "55be2f26aa595fddffa38f594b1e8fe19dc5fb1a9d6200e7d7aba674d1515eda",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_A0DjBOOH1ek.mp3"
+    },
+    "44XlGcTXvng": {
+      "durationSeconds": 2737.32,
+      "bytes": 32848550,
+      "sha256": "1ebf51bda489f42bd4770ac4eb83133dcd4c931f3d290118fb4b8c2f2b209597",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_072-079_44XlGcTXvng.mp3"
+    },
+    "DwvPeoH3w70": {
+      "durationSeconds": 2638.51,
+      "bytes": 31662854,
+      "sha256": "304d4284ac62884c6273413a152b90d23011d6298e225a54bae8f345c23ceae8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_079-088_DwvPeoH3w70.mp3"
+    },
+    "lq3jopOoz74": {
+      "durationSeconds": 2684.74,
+      "bytes": 32217544,
+      "sha256": "849f9161e231386d5c94c8b9d40764495ceb8ac748fa7b77614adbb3ca8dacd7",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_088-093_lq3jopOoz74.mp3"
+    },
+    "OXsJKUJEQfs": {
+      "durationSeconds": 1705.03,
+      "bytes": 20461093,
+      "sha256": "dd13b49ce41fa380d88298fad59d55644812878b9410a8c6586c412e463a998e",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_093-093_OXsJKUJEQfs.mp3"
+    },
+    "jzd7toVW7zg": {
+      "durationSeconds": 1736.76,
+      "bytes": 20841833,
+      "sha256": "e00834c4674321cb7b8e4faaa78c39394c2f9d8d03c36bd3d1bacb247abf6825",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "012_096-104_jzd7toVW7zg.mp3"
+    },
+    "SwqN6jMiMmo": {
+      "durationSeconds": 1667.14,
+      "bytes": 20006347,
+      "sha256": "fb115c1c93926825db40b30017eafc959e1dd1b79ace933a6454870497a4ce69",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "013_104-105_SwqN6jMiMmo.mp3"
+    },
+    "cU-nQWLLnxI": {
+      "durationSeconds": 1619.62,
+      "bytes": 19436107,
+      "sha256": "31e3515edd532c6951eff9fbc117a4f62ddc166a03635f3ee46b48f93d69e658",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "014_105-112_cU-nQWLLnxI.mp3"
+    }
+  },
+  "ayahs": {
+    "21:1": {
+      "file": "021-الأنبياء-youtube-v1/001.mp3",
+      "durationMs": 258360,
+      "bytes": 3101010,
+      "sha256": "1c05f7ec2b454341d4f4e56f75a307c6b45a0e4b2652a88f59334587bb2ebe66",
+      "sharedAyahs": [
+        "21:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 35.49,
+          "end": 293.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:2": {
+      "file": "021-الأنبياء-youtube-v1/002.mp3",
+      "durationMs": 1015990,
+      "bytes": 12192598,
+      "sha256": "02b62e620f53ce53c9f962523adc6660c12f3cb8344b212b3506d19a9f6c8d8d",
+      "sharedAyahs": [
+        "21:2",
+        "21:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 293.83,
+          "end": 1309.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:3": {
+      "file": "021-الأنبياء-youtube-v1/002.mp3",
+      "durationMs": 1015990,
+      "bytes": 12192598,
+      "sha256": "02b62e620f53ce53c9f962523adc6660c12f3cb8344b212b3506d19a9f6c8d8d",
+      "sharedAyahs": [
+        "21:2",
+        "21:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 293.83,
+          "end": 1309.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:4": {
+      "file": "021-الأنبياء-youtube-v1/004.mp3",
+      "durationMs": 18890,
+      "bytes": 227346,
+      "sha256": "9fe77aa9f3d158cb5152cafaf79ae65c2490b0ffb31f4cd1c2ca8c01fe15f358",
+      "sharedAyahs": [
+        "21:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 1309.8,
+          "end": 1328.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:5": {
+      "file": "021-الأنبياء-youtube-v1/005.mp3",
+      "durationMs": 153960,
+      "bytes": 1848210,
+      "sha256": "42fcf65af23c31c8ab967cad717f94b9db48fbea71202772086dfd3cffc9ad88",
+      "sharedAyahs": [
+        "21:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 1328.65,
+          "end": 1482.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:6": {
+      "file": "021-الأنبياء-youtube-v1/006.mp3",
+      "durationMs": 60840,
+      "bytes": 730770,
+      "sha256": "21271e11f4f44427ddb477f2d2b847a74c40c965fae480f2ac7d887419594144",
+      "sharedAyahs": [
+        "21:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 1482.58,
+          "end": 1543.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:7": {
+      "file": "021-الأنبياء-youtube-v1/007.mp3",
+      "durationMs": 251930,
+      "bytes": 3023826,
+      "sha256": "589b409ac88b5f01fc8de6bcf734b74917b4445bdb8a5522082c6eda5aae373c",
+      "sharedAyahs": [
+        "21:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 1543.4,
+          "end": 1795.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:8": {
+      "file": "021-الأنبياء-youtube-v1/008.mp3",
+      "durationMs": 73730,
+      "bytes": 885426,
+      "sha256": "22b0127262b0af44636723d0980d4db3f7072dae1ba77c2753810152264eb5a7",
+      "sharedAyahs": [
+        "21:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 1795.3,
+          "end": 1869.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:9": {
+      "file": "021-الأنبياء-youtube-v1/009.mp3",
+      "durationMs": 15000,
+      "bytes": 180690,
+      "sha256": "67ee0d44e2140c039985bff4ea3db25914bfd00a1b38b64f3845a3dc79d40f99",
+      "sharedAyahs": [
+        "21:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 1869.02,
+          "end": 1883.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:10": {
+      "file": "021-الأنبياء-youtube-v1/010.mp3",
+      "durationMs": 289320,
+      "bytes": 3472532,
+      "sha256": "9244fa7d8f7688b51292591ff6b6d26a7897984a04d0df0efabc1f695e2e4325",
+      "sharedAyahs": [
+        "21:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 1883.98,
+          "end": 2173.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:11": {
+      "file": "021-الأنبياء-youtube-v1/011.mp3",
+      "durationMs": 119880,
+      "bytes": 1439252,
+      "sha256": "e786ad3fc23156e293dd71863b2f1d288145b901849c463e9265b8f7a0abef72",
+      "sharedAyahs": [
+        "21:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 2173.29,
+          "end": 2293.13
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:12": {
+      "file": "021-الأنبياء-youtube-v1/012.mp3",
+      "durationMs": 8420,
+      "bytes": 101780,
+      "sha256": "36dfb430871b3f8ea1d8c672388c2866117400198b8a9fdfa50d1a9d231dd190",
+      "sharedAyahs": [
+        "21:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 2293.13,
+          "end": 2301.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:13": {
+      "file": "021-الأنبياء-youtube-v1/013.mp3",
+      "durationMs": 326830,
+      "bytes": 3922676,
+      "sha256": "60ac67c83607c17a98a2cb9041fcf5fa826d46fb6adb2a1ec72ab60b19fb56a5",
+      "sharedAyahs": [
+        "21:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 2301.55,
+          "end": 2628.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:14": {
+      "file": "021-الأنبياء-youtube-v1/014.mp3",
+      "durationMs": 21530,
+      "bytes": 259028,
+      "sha256": "5a74b5877949cfd0738487eb129fa4317c483bd8e7202ed16db76e286ff30558",
+      "sharedAyahs": [
+        "21:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 2628.35,
+          "end": 2649.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:15": {
+      "file": "021-الأنبياء-youtube-v1/015.mp3",
+      "durationMs": 7730,
+      "bytes": 93428,
+      "sha256": "29288e7030e85eda7b2b4d478aa1e8dd331904771ae9e821801107547a7954b9",
+      "sharedAyahs": [
+        "21:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 169.7,
+          "end": 177.39
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:16": {
+      "file": "021-الأنبياء-youtube-v1/016.mp3",
+      "durationMs": 537360,
+      "bytes": 6449012,
+      "sha256": "9668852c7414f153edb901de01ab97999f727af5da9205593831e7d084488365",
+      "sharedAyahs": [
+        "21:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 177.39,
+          "end": 714.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:17": {
+      "file": "021-الأنبياء-youtube-v1/017.mp3",
+      "durationMs": 17710,
+      "bytes": 213236,
+      "sha256": "09f85e9492d0630d5cbddc199ca29035bb4e0e8d123094b6d3bca1e4609c6904",
+      "sharedAyahs": [
+        "21:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 714.73,
+          "end": 732.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:18": {
+      "file": "021-الأنبياء-youtube-v1/018.mp3",
+      "durationMs": 481900,
+      "bytes": 5783444,
+      "sha256": "4d1e455f78fef23c4489a57d2a97f50c3ae51b06ecd111199446bd6117e5ed7b",
+      "sharedAyahs": [
+        "21:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 732.42,
+          "end": 1214.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:19": {
+      "file": "021-الأنبياء-youtube-v1/019.mp3",
+      "durationMs": 227690,
+      "bytes": 2732948,
+      "sha256": "e0b0ced7dfe1bef66184bbbb28d8e0f09daaf874e8780367e08762f2b4899fc2",
+      "sharedAyahs": [
+        "21:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 1214.3,
+          "end": 1441.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:20": {
+      "file": "021-الأنبياء-youtube-v1/020.mp3",
+      "durationMs": 51100,
+      "bytes": 613844,
+      "sha256": "ebb15760823ce70a025de970d703af33d4cc4c3339eb66509772a6b45db4ed55",
+      "sharedAyahs": [
+        "21:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 1441.95,
+          "end": 1493.04
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:21": {
+      "file": "021-الأنبياء-youtube-v1/021.mp3",
+      "durationMs": 18980,
+      "bytes": 228500,
+      "sha256": "18ca94e024de80ac87a8a5aa07e51aa09c09ec1e5c65a890febd859d6826a2da",
+      "sharedAyahs": [
+        "21:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 1493.04,
+          "end": 1511.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:22": {
+      "file": "021-الأنبياء-youtube-v1/022.mp3",
+      "durationMs": 558170,
+      "bytes": 6698708,
+      "sha256": "ae4904164d93c2bd9f0ce4ee7fa683e12a50e32bc18384632418365ec575c5e7",
+      "sharedAyahs": [
+        "21:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 1511.99,
+          "end": 2070.13
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:23": {
+      "file": "021-الأنبياء-youtube-v1/023.mp3",
+      "durationMs": 17420,
+      "bytes": 209780,
+      "sha256": "bbcb87afcd190935f7d43fa7265369d285fd23a2993667082f731770c6dd06be",
+      "sharedAyahs": [
+        "21:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 2070.13,
+          "end": 2087.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:24": {
+      "file": "021-الأنبياء-youtube-v1/024.mp3",
+      "durationMs": 111000,
+      "bytes": 1332692,
+      "sha256": "6c4b26b8a9090c9b309cfd5929d38c81895e69d9846e4466da772bd871ef305f",
+      "sharedAyahs": [
+        "21:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 2087.53,
+          "end": 2198.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:25": {
+      "file": "021-الأنبياء-youtube-v1/025.mp3",
+      "durationMs": 71710,
+      "bytes": 861236,
+      "sha256": "82d029560aab9f1c37e268f01ac6e27be37b67b6f4ec16e640f1ec455524f7c2",
+      "sharedAyahs": [
+        "21:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 2198.51,
+          "end": 2270.2
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:26": {
+      "file": "021-الأنبياء-youtube-v1/026.mp3",
+      "durationMs": 16420,
+      "bytes": 197684,
+      "sha256": "8c2c18e3e276381a828c6979f3d72fae73ead0f91156f35a68a6206c9643a782",
+      "sharedAyahs": [
+        "21:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 2270.2,
+          "end": 2286.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:27": {
+      "file": "021-الأنبياء-youtube-v1/027.mp3",
+      "durationMs": 4700,
+      "bytes": 57140,
+      "sha256": "6b4021d84aef4ce60b2c69a8b4cb1a11ef98ca9ec3527ff743e08812a8dbdaa2",
+      "sharedAyahs": [
+        "21:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 2286.6,
+          "end": 2291.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:28": {
+      "file": "021-الأنبياء-youtube-v1/028.mp3",
+      "durationMs": 119300,
+      "bytes": 1432340,
+      "sha256": "63f410c142f97b629a27f7c09246dd1bc79fb59138d58f4ca7cba1480ab41eec",
+      "sharedAyahs": [
+        "21:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 2291.26,
+          "end": 2410.54
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:29": {
+      "file": "021-الأنبياء-youtube-v1/029.mp3",
+      "durationMs": 33170,
+      "bytes": 398708,
+      "sha256": "1a9515a9763890075082f3a9e8a96e8e7cacace0c5e32fc9c205382857a54da3",
+      "sharedAyahs": [
+        "21:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 2410.54,
+          "end": 2443.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:30": {
+      "file": "021-الأنبياء-youtube-v1/030.mp3",
+      "durationMs": 571060,
+      "bytes": 6853364,
+      "sha256": "5d171448e2699195193521e3ec3ee020987ac8b69abf3c3755cdf0819abd10db",
+      "sharedAyahs": [
+        "21:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "beBq3exLb5o",
+          "start": 1996.23,
+          "end": 2567.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:31": {
+      "file": "021-الأنبياء-youtube-v1/031.mp3",
+      "durationMs": 15140,
+      "bytes": 182420,
+      "sha256": "2899fcba85ba6d801650d3f01221d0ed4b20c0b5e11c75e33e46efaf50fb4d7e",
+      "sharedAyahs": [
+        "21:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "beBq3exLb5o",
+          "start": 2567.26,
+          "end": 2582.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:32": {
+      "file": "021-الأنبياء-youtube-v1/032.mp3",
+      "durationMs": 72100,
+      "bytes": 865844,
+      "sha256": "5b50d5aed2aeeff28ea6ec4c3c9bbf0a910effda7b1eab1a2ffa7c168212c076",
+      "sharedAyahs": [
+        "21:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "beBq3exLb5o",
+          "start": 2582.4,
+          "end": 2654.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:33": {
+      "file": "021-الأنبياء-youtube-v1/033.mp3",
+      "durationMs": 464330,
+      "bytes": 5572628,
+      "sha256": "014416179b83eba8ec8a54b6aeb3c997ed2d8830b1d0ba32d4a495df8ba965b8",
+      "sharedAyahs": [
+        "21:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 529.42,
+          "end": 993.73
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:34": {
+      "file": "021-الأنبياء-youtube-v1/034.mp3",
+      "durationMs": 55870,
+      "bytes": 671156,
+      "sha256": "810dc523fe47275786268a9b97fb4a3a4d761291bf2a930c1603967993cda4a3",
+      "sharedAyahs": [
+        "21:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 993.73,
+          "end": 1049.59
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:35": {
+      "file": "021-الأنبياء-youtube-v1/035.mp3",
+      "durationMs": 441740,
+      "bytes": 5301620,
+      "sha256": "e2b0f126e58ead76f23a610063cad127de8aa7adb0abb90874f5b7dbfcbf173e",
+      "sharedAyahs": [
+        "21:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 1049.59,
+          "end": 1491.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:36": {
+      "file": "021-الأنبياء-youtube-v1/036.mp3",
+      "durationMs": 192550,
+      "bytes": 2311316,
+      "sha256": "3441c931bf05ebcc776cb3bf77fed50fbed6563ab2f16ffa5c3a59f54276b3e3",
+      "sharedAyahs": [
+        "21:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 1491.3,
+          "end": 1683.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:37": {
+      "file": "021-الأنبياء-youtube-v1/037.mp3",
+      "durationMs": 58680,
+      "bytes": 704852,
+      "sha256": "c79863dd82b5c53f8c6a52dbb63629cc104b9d35e743828238c96d50651d3863",
+      "sharedAyahs": [
+        "21:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 1683.83,
+          "end": 1742.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:38": {
+      "file": "021-الأنبياء-youtube-v1/038.mp3",
+      "durationMs": 71110,
+      "bytes": 854036,
+      "sha256": "3a9b5ca3c21ab0bf3b95aa12a5c4c9a34a60078c71938113ce112953a36e52c1",
+      "sharedAyahs": [
+        "21:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 1742.48,
+          "end": 1813.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:39": {
+      "file": "021-الأنبياء-youtube-v1/039.mp3",
+      "durationMs": 352970,
+      "bytes": 4236308,
+      "sha256": "f922a6bb779e956a2224fa00183229d1e0139cfd37b2296455c63db518c1f958",
+      "sharedAyahs": [
+        "21:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 1813.58,
+          "end": 2166.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:40": {
+      "file": "021-الأنبياء-youtube-v1/040.mp3",
+      "durationMs": 16460,
+      "bytes": 198260,
+      "sha256": "1869007266b1ed84200639ab65e0e7729f9b74b684ee1f9efce0edf25f337908",
+      "sharedAyahs": [
+        "21:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 2166.51,
+          "end": 2182.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:41": {
+      "file": "021-الأنبياء-youtube-v1/041.mp3",
+      "durationMs": 200180,
+      "bytes": 2402900,
+      "sha256": "dfc285ea4f91ea31918f3916960b80d502f80e8df82b79c364219d28e23ad122",
+      "sharedAyahs": [
+        "21:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 2182.95,
+          "end": 2383.12
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:42": {
+      "file": "021-الأنبياء-youtube-v1/042.mp3",
+      "durationMs": 157220,
+      "bytes": 1887380,
+      "sha256": "4704b86579075e648770edaa9014660559ec9322c3f4310be2797c34440d5d60",
+      "sharedAyahs": [
+        "21:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 2383.12,
+          "end": 2540.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:43": {
+      "file": "021-الأنبياء-youtube-v1/043.mp3",
+      "durationMs": 153890,
+      "bytes": 1847348,
+      "sha256": "d8d66c6a177a3635ee284a8fa8ada1983855b21abc78f21f342609c23c06e51b",
+      "sharedAyahs": [
+        "21:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 2540.31,
+          "end": 2694.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:44": {
+      "file": "021-الأنبياء-youtube-v1/044.mp3",
+      "durationMs": 694730,
+      "bytes": 8337428,
+      "sha256": "b50d4cbbb02083ddf7d93e42ddd5ff1334e0e854adb3d23685f7fb17e0ea3663",
+      "sharedAyahs": [
+        "21:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZIvYA0OkQr4",
+          "start": 217.47,
+          "end": 912.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:45": {
+      "file": "021-الأنبياء-youtube-v1/045.mp3",
+      "durationMs": 222940,
+      "bytes": 2675924,
+      "sha256": "092ded7f0ab7a152ecd25a1d6e7588c394a150cd53e8c07c7aaae4cf64e08aa4",
+      "sharedAyahs": [
+        "21:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZIvYA0OkQr4",
+          "start": 912.17,
+          "end": 1135.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:46": {
+      "file": "021-الأنبياء-youtube-v1/046.mp3",
+      "durationMs": 979180,
+      "bytes": 11750804,
+      "sha256": "ce28a1c830e90c11c88f940597293b5408fcc80adbbfd8c203e7999a86d23155",
+      "sharedAyahs": [
+        "21:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZIvYA0OkQr4",
+          "start": 1135.1,
+          "end": 2114.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:47": {
+      "file": "021-الأنبياء-youtube-v1/047.mp3",
+      "durationMs": 545420,
+      "bytes": 6545780,
+      "sha256": "f489ea47a5744e83c60dcde1130c05e9acecd6ed2c6a56a06d575c111376a748",
+      "sharedAyahs": [
+        "21:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZIvYA0OkQr4",
+          "start": 2114.25,
+          "end": 2659.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:48": {
+      "file": "021-الأنبياء-youtube-v1/048.mp3",
+      "durationMs": 90340,
+      "bytes": 1084724,
+      "sha256": "bea7eea18ae07b6c98e86af869428a6fce3f4f067702ae09b7764a0476a84fb6",
+      "sharedAyahs": [
+        "21:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "ZIvYA0OkQr4",
+          "start": 2659.65,
+          "end": 2749.95
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:49": {
+      "file": "021-الأنبياء-youtube-v1/049.mp3",
+      "durationMs": 359950,
+      "bytes": 4320116,
+      "sha256": "0b9f60e8b56a99372992d7d7c19cbbd1b658e1f2abb1a422602144ab1c10232e",
+      "sharedAyahs": [
+        "21:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VDo6Dts4M90",
+          "start": 974.77,
+          "end": 1334.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:50": {
+      "file": "021-الأنبياء-youtube-v1/050.mp3",
+      "durationMs": 127580,
+      "bytes": 1531700,
+      "sha256": "dfd4ae2987d2638224cd4730bf8de286341ef04a2b8dacc097c1bcdf615d7ea2",
+      "sharedAyahs": [
+        "21:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VDo6Dts4M90",
+          "start": 1334.69,
+          "end": 1462.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:51": {
+      "file": "021-الأنبياء-youtube-v1/051.mp3",
+      "durationMs": 1198920,
+      "bytes": 14387732,
+      "sha256": "933e6e0de8b35779f8ef6c95c5bc9cc41830577c93eb7a582f507e414e83a0c8",
+      "sharedAyahs": [
+        "21:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VDo6Dts4M90",
+          "start": 1462.25,
+          "end": 2661.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:52": {
+      "file": "021-الأنبياء-youtube-v1/052.mp3",
+      "durationMs": 6360,
+      "bytes": 77012,
+      "sha256": "638e60e0023dfc62ad6771b5c7af254adfe00c4b507f2c58443d30c174d33c1c",
+      "sharedAyahs": [
+        "21:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 41.16,
+          "end": 47.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:53": {
+      "file": "021-الأنبياء-youtube-v1/053.mp3",
+      "durationMs": 4150,
+      "bytes": 50516,
+      "sha256": "aab1e428981e2f5ed04b7df153f257b26146a730308f80136f8b129b8dc4c51c",
+      "sharedAyahs": [
+        "21:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 47.48,
+          "end": 51.62
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:54": {
+      "file": "021-الأنبياء-youtube-v1/054.mp3",
+      "durationMs": 630580,
+      "bytes": 7567604,
+      "sha256": "ac600f4515cfebbc5856b10342dda38bc6731893ddc89f7fd7a8604c7f60cdea",
+      "sharedAyahs": [
+        "21:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 51.62,
+          "end": 682.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:55": {
+      "file": "021-الأنبياء-youtube-v1/055.mp3",
+      "durationMs": 16510,
+      "bytes": 198836,
+      "sha256": "8ee1a0eaef72665be6ad149e8ec420fecc02d83c927910c7e396791fc742ab82",
+      "sharedAyahs": [
+        "21:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 682.17,
+          "end": 698.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:56": {
+      "file": "021-الأنبياء-youtube-v1/056.mp3",
+      "durationMs": 233140,
+      "bytes": 2798324,
+      "sha256": "2691fc2a179a2ac27e746caa31b0398feab6ee65cd6160ca5eb9ad4b54676000",
+      "sharedAyahs": [
+        "21:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 698.65,
+          "end": 931.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:57": {
+      "file": "021-الأنبياء-youtube-v1/057.mp3",
+      "durationMs": 187370,
+      "bytes": 2249113,
+      "sha256": "2dffdc8674db1dc5ac95f083eff714cdc755545ef3e9635e6aa85cf4f765d64f",
+      "sharedAyahs": [
+        "21:57",
+        "21:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 931.77,
+          "end": 1119.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:58": {
+      "file": "021-الأنبياء-youtube-v1/057.mp3",
+      "durationMs": 187370,
+      "bytes": 2249113,
+      "sha256": "2dffdc8674db1dc5ac95f083eff714cdc755545ef3e9635e6aa85cf4f765d64f",
+      "sharedAyahs": [
+        "21:57",
+        "21:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 931.77,
+          "end": 1119.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:59": {
+      "file": "021-الأنبياء-youtube-v1/059.mp3",
+      "durationMs": 98140,
+      "bytes": 1178324,
+      "sha256": "883c1e6d5429cc6d881e775c5d7fc3dcd8ccf1e1513983f8e0ec24716ef615f6",
+      "sharedAyahs": [
+        "21:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1119.1,
+          "end": 1217.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:60": {
+      "file": "021-الأنبياء-youtube-v1/060.mp3",
+      "durationMs": 40250,
+      "bytes": 483668,
+      "sha256": "e1b5c9d5809c00cf3f25b6550fcb332652b1b700b7bbe503306457c1fffbe164",
+      "sharedAyahs": [
+        "21:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1217.21,
+          "end": 1257.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:61": {
+      "file": "021-الأنبياء-youtube-v1/061.mp3",
+      "durationMs": 71060,
+      "bytes": 853465,
+      "sha256": "27e59138dc78e2717bbb496cf5a19a7dd43d6370ea93a361c553aa3a33f82586",
+      "sharedAyahs": [
+        "21:61",
+        "21:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1257.45,
+          "end": 1328.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:62": {
+      "file": "021-الأنبياء-youtube-v1/061.mp3",
+      "durationMs": 71060,
+      "bytes": 853465,
+      "sha256": "27e59138dc78e2717bbb496cf5a19a7dd43d6370ea93a361c553aa3a33f82586",
+      "sharedAyahs": [
+        "21:61",
+        "21:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1257.45,
+          "end": 1328.48
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:63": {
+      "file": "021-الأنبياء-youtube-v1/063.mp3",
+      "durationMs": 86350,
+      "bytes": 1036916,
+      "sha256": "0f68721fa52b2b577ca2de46ac393c4b333960e82f545620e7622f4d17eedb3b",
+      "sharedAyahs": [
+        "21:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1328.48,
+          "end": 1414.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:64": {
+      "file": "021-الأنبياء-youtube-v1/064.mp3",
+      "durationMs": 53880,
+      "bytes": 647252,
+      "sha256": "b5b5854b341bec31fd9d903ac8cb0ea788b5bafa18109203ba73cc4723554bee",
+      "sharedAyahs": [
+        "21:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1414.81,
+          "end": 1468.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:65": {
+      "file": "021-الأنبياء-youtube-v1/065.mp3",
+      "durationMs": 27290,
+      "bytes": 328148,
+      "sha256": "5f39db45f74eedba810419b19a8d16751871314bc9719df14cf34c59f9bc6ed8",
+      "sharedAyahs": [
+        "21:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1468.68,
+          "end": 1495.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:66": {
+      "file": "021-الأنبياء-youtube-v1/066.mp3",
+      "durationMs": 162940,
+      "bytes": 1955924,
+      "sha256": "901bc7968ce71ad259d2c45d1f26cf80e3331be62e1292920c1b4b1442caac35",
+      "sharedAyahs": [
+        "21:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1495.93,
+          "end": 1658.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:67": {
+      "file": "021-الأنبياء-youtube-v1/067.mp3",
+      "durationMs": 100320,
+      "bytes": 1204532,
+      "sha256": "1cbaf5b81cd1cd6c94b7d7dd1d33e56efebd0a718fa22d98bd0ae0c3ae0af962",
+      "sharedAyahs": [
+        "21:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1658.84,
+          "end": 1759.13
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:68": {
+      "file": "021-الأنبياء-youtube-v1/068.mp3",
+      "durationMs": 171310,
+      "bytes": 2056436,
+      "sha256": "33d60d64c6a65a02f995bfc7995f9e234fe58bea1b42a00229264c0afddb0ebd",
+      "sharedAyahs": [
+        "21:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1759.13,
+          "end": 1930.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:69": {
+      "file": "021-الأنبياء-youtube-v1/069.mp3",
+      "durationMs": 193580,
+      "bytes": 2323700,
+      "sha256": "e79547cf2eda8ea9e46669f56d65c85f0766c890d59b59c83b9814930fe1a6cd",
+      "sharedAyahs": [
+        "21:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 1930.42,
+          "end": 2124.0
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:70": {
+      "file": "021-الأنبياء-youtube-v1/070.mp3",
+      "durationMs": 50090,
+      "bytes": 601748,
+      "sha256": "2255cf49122fa069acb564d78a2f13b8e942d47bd7b5227ddaedfa81360ab757",
+      "sharedAyahs": [
+        "21:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 2124.0,
+          "end": 2174.05
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:71": {
+      "file": "021-الأنبياء-youtube-v1/071.mp3",
+      "durationMs": 131140,
+      "bytes": 1574324,
+      "sha256": "b3ec5542e013345d6fb23089ed344a03546585b768c0d6239a7acc7c80be0fe5",
+      "sharedAyahs": [
+        "21:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 2174.05,
+          "end": 2305.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:72": {
+      "file": "021-الأنبياء-youtube-v1/072.mp3",
+      "durationMs": 433560,
+      "bytes": 5203412,
+      "sha256": "06f63bd4ee9d35f3b1b255e94435c2c220582fa9e43fb94460139dfa557f018f",
+      "sharedAyahs": [
+        "21:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 2305.16,
+          "end": 2738.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:73": {
+      "file": "021-الأنبياء-youtube-v1/073.mp3",
+      "durationMs": 495140,
+      "bytes": 5942420,
+      "sha256": "14fb45e23eeb34b9883a69da70a90db9b5d08a659e77dcd2c74deb5ad72a089b",
+      "sharedAyahs": [
+        "21:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44XlGcTXvng",
+          "start": 121.55,
+          "end": 616.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:74": {
+      "file": "021-الأنبياء-youtube-v1/074.mp3",
+      "durationMs": 13010,
+      "bytes": 156788,
+      "sha256": "7b38705a166cd5b91454e553eab9810c137b178bc8a18de03436d60f8bf742e4",
+      "sharedAyahs": [
+        "21:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44XlGcTXvng",
+          "start": 616.68,
+          "end": 629.66
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:75": {
+      "file": "021-الأنبياء-youtube-v1/075.mp3",
+      "durationMs": 207600,
+      "bytes": 2491892,
+      "sha256": "ab790924aed4aca6baef6a5ce1155c32bb40bc55620a1b0b6f04ab9a2b4cce5c",
+      "sharedAyahs": [
+        "21:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44XlGcTXvng",
+          "start": 629.66,
+          "end": 837.24
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:76": {
+      "file": "021-الأنبياء-youtube-v1/076.mp3",
+      "durationMs": 128930,
+      "bytes": 1547828,
+      "sha256": "9cffbce2ab8e95bee6a77ac4c85c8f2e2c453c3e04b4110283e5cd1ed07e5860",
+      "sharedAyahs": [
+        "21:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44XlGcTXvng",
+          "start": 837.24,
+          "end": 966.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:77": {
+      "file": "021-الأنبياء-youtube-v1/077.mp3",
+      "durationMs": 126190,
+      "bytes": 1514996,
+      "sha256": "18530683ecd6d23c443770921ae1d21c39eda22bc735e4bb55eb91548e7bd7e7",
+      "sharedAyahs": [
+        "21:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44XlGcTXvng",
+          "start": 966.14,
+          "end": 1092.3
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:78": {
+      "file": "021-الأنبياء-youtube-v1/078.mp3",
+      "durationMs": 479230,
+      "bytes": 5751476,
+      "sha256": "1e498a54f2d70885a2a1b56fbb483bc9daab574d0e7fe9cb943f0a333edb5a00",
+      "sharedAyahs": [
+        "21:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44XlGcTXvng",
+          "start": 1092.3,
+          "end": 1571.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:79": {
+      "file": "021-الأنبياء-youtube-v1/079.mp3",
+      "durationMs": 1160330,
+      "bytes": 13924628,
+      "sha256": "1c4023095d166a9639d566d6903167b09d2156ab49bb798f0e88ed14fe6534d8",
+      "sharedAyahs": [
+        "21:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "44XlGcTXvng",
+          "start": 1571.5,
+          "end": 2731.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:80": {
+      "file": "021-الأنبياء-youtube-v1/080.mp3",
+      "durationMs": 529440,
+      "bytes": 6353972,
+      "sha256": "2977517f230c224eba4d4d78cb3692a8afd049db251d40164e74b23ae4af6be3",
+      "sharedAyahs": [
+        "21:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 235.45,
+          "end": 764.88
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:81": {
+      "file": "021-الأنبياء-youtube-v1/081.mp3",
+      "durationMs": 320180,
+      "bytes": 3842900,
+      "sha256": "007a6b6fa7d5dc88c6ae9e8540a475d2e521a237c76a8750c8f5361ec1de01db",
+      "sharedAyahs": [
+        "21:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 764.88,
+          "end": 1085.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:82": {
+      "file": "021-الأنبياء-youtube-v1/082.mp3",
+      "durationMs": 351740,
+      "bytes": 4221620,
+      "sha256": "18aa044acf24b74b0e43dc70f6ac26a7cf137421fe33df4f851ece759c650c5e",
+      "sharedAyahs": [
+        "21:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 1085.02,
+          "end": 1436.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:83": {
+      "file": "021-الأنبياء-youtube-v1/083.mp3",
+      "durationMs": 196850,
+      "bytes": 2362868,
+      "sha256": "4d9c62a76b7e51f7f49a7b3861e21d57bc7b2b4e559768d983401efd2be8e6c0",
+      "sharedAyahs": [
+        "21:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 1436.74,
+          "end": 1633.57
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:84": {
+      "file": "021-الأنبياء-youtube-v1/084.mp3",
+      "durationMs": 315700,
+      "bytes": 3789049,
+      "sha256": "75c0d62c7d5c260c96f28b5c25e6b4a988bebd147e820cddedb7a0ddcc1b7cca",
+      "sharedAyahs": [
+        "21:84",
+        "21:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 1633.57,
+          "end": 1949.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:85": {
+      "file": "021-الأنبياء-youtube-v1/084.mp3",
+      "durationMs": 315700,
+      "bytes": 3789049,
+      "sha256": "75c0d62c7d5c260c96f28b5c25e6b4a988bebd147e820cddedb7a0ddcc1b7cca",
+      "sharedAyahs": [
+        "21:84",
+        "21:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 1633.57,
+          "end": 1949.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:86": {
+      "file": "021-الأنبياء-youtube-v1/086.mp3",
+      "durationMs": 20210,
+      "bytes": 243193,
+      "sha256": "2bff983bb993a9579692fcea9557abb53fd3a9644ca0bb5eed74eb2e41d7cf3f",
+      "sharedAyahs": [
+        "21:86",
+        "21:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 1949.25,
+          "end": 1969.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:87": {
+      "file": "021-الأنبياء-youtube-v1/086.mp3",
+      "durationMs": 20210,
+      "bytes": 243193,
+      "sha256": "2bff983bb993a9579692fcea9557abb53fd3a9644ca0bb5eed74eb2e41d7cf3f",
+      "sharedAyahs": [
+        "21:86",
+        "21:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 1949.25,
+          "end": 1969.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:88": {
+      "file": "021-الأنبياء-youtube-v1/088.mp3",
+      "durationMs": 669070,
+      "bytes": 8029556,
+      "sha256": "9dc33279fa4641167cc50b1225ce5c9d479be781c221854e422ccf65f74ece67",
+      "sharedAyahs": [
+        "21:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 1969.43,
+          "end": 2638.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:89": {
+      "file": "021-الأنبياء-youtube-v1/089.mp3",
+      "durationMs": 375980,
+      "bytes": 4512500,
+      "sha256": "4dc144818488c8f2c4a8c953819b971298bfea88639c03f47434f773078a11cd",
+      "sharedAyahs": [
+        "21:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lq3jopOoz74",
+          "start": 824.85,
+          "end": 1200.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:90": {
+      "file": "021-الأنبياء-youtube-v1/090.mp3",
+      "durationMs": 606380,
+      "bytes": 7277300,
+      "sha256": "206e987a3c8e64ad7c2044a98e22c7bdda070bd433e8902c387ce8c81df46136",
+      "sharedAyahs": [
+        "21:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lq3jopOoz74",
+          "start": 1200.8,
+          "end": 1807.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:91": {
+      "file": "021-الأنبياء-youtube-v1/091.mp3",
+      "durationMs": 150410,
+      "bytes": 1805588,
+      "sha256": "48055a0afda032a8c7c69960a5b9d75bec32af8648820033f4c5565d4243099a",
+      "sharedAyahs": [
+        "21:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lq3jopOoz74",
+          "start": 1807.17,
+          "end": 1957.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:92": {
+      "file": "021-الأنبياء-youtube-v1/092.mp3",
+      "durationMs": 639980,
+      "bytes": 7680500,
+      "sha256": "20ae7f45edd8643f4bb0044014ce5441ea798d5ca97b68fa50c35027d6f42351",
+      "sharedAyahs": [
+        "21:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lq3jopOoz74",
+          "start": 1957.56,
+          "end": 2597.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:93": {
+      "file": "021-الأنبياء-youtube-v1/093.mp3",
+      "durationMs": 87220,
+      "bytes": 1047284,
+      "sha256": "6bdea89467689b58debbe38d7eb91d7a982728dfbf8c7cc2dbe90cec16520d28",
+      "sharedAyahs": [
+        "21:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lq3jopOoz74",
+          "start": 2597.51,
+          "end": 2684.74
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:94": {
+      "file": "021-الأنبياء-youtube-v1/094.mp3",
+      "durationMs": 208080,
+      "bytes": 2497652,
+      "sha256": "dffdb9f6629d0973da2acdce7862353ebf98930c2a473e442adf9971825b0cd4",
+      "sharedAyahs": [
+        "21:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OXsJKUJEQfs",
+          "start": 492.37,
+          "end": 700.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:95": {
+      "file": "021-الأنبياء-youtube-v1/095.mp3",
+      "durationMs": 67150,
+      "bytes": 806516,
+      "sha256": "08f5beb0dee25411cadd7e0ec2d19cf4d0439af5214e30fe7eb0570a91813800",
+      "sharedAyahs": [
+        "21:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OXsJKUJEQfs",
+          "start": 700.44,
+          "end": 767.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:96": {
+      "file": "021-الأنبياء-youtube-v1/096.mp3",
+      "durationMs": 937460,
+      "bytes": 11250260,
+      "sha256": "29fbf8d156ed344ceff290f5e7ea5afa3b926025bb8d94f78fb914ae203327c2",
+      "sharedAyahs": [
+        "21:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OXsJKUJEQfs",
+          "start": 767.55,
+          "end": 1705.03
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:97": {
+      "file": "021-الأنبياء-youtube-v1/097.mp3",
+      "durationMs": 45070,
+      "bytes": 541556,
+      "sha256": "45e61c1e82d8ee541bd41dda34df887b979e122d82ba1f885cbabfbaa6545ffc",
+      "sharedAyahs": [
+        "21:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 750.79,
+          "end": 795.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:98": {
+      "file": "021-الأنبياء-youtube-v1/098.mp3",
+      "durationMs": 237340,
+      "bytes": 2848724,
+      "sha256": "68050c74f63a5f6e1a8dd2456b64d61aff71358276eb1564dc1e9b23a6799325",
+      "sharedAyahs": [
+        "21:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 795.82,
+          "end": 1033.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:99": {
+      "file": "021-الأنبياء-youtube-v1/099.mp3",
+      "durationMs": 33410,
+      "bytes": 401588,
+      "sha256": "15280091f65bacd641e87ea53a8aa9fa2ee336c66f738713c1ba0a68291bbd6c",
+      "sharedAyahs": [
+        "21:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 1033.14,
+          "end": 1066.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:100": {
+      "file": "021-الأنبياء-youtube-v1/100.mp3",
+      "durationMs": 123220,
+      "bytes": 1479286,
+      "sha256": "1c6e4b40eb477d0a154a1deb76806fe51643af4ffe967a6ae251b76acf07f6f1",
+      "sharedAyahs": [
+        "21:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 1066.52,
+          "end": 1189.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:101": {
+      "file": "021-الأنبياء-youtube-v1/101.mp3",
+      "durationMs": 98160,
+      "bytes": 1178614,
+      "sha256": "096089ba49e37b1c27a48c4e4bd83d49c4a163a324b30a422a007ce2b3cc2c7a",
+      "sharedAyahs": [
+        "21:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 1189.72,
+          "end": 1287.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:102": {
+      "file": "021-الأنبياء-youtube-v1/102.mp3",
+      "durationMs": 382920,
+      "bytes": 4595734,
+      "sha256": "866c8c3c65b602f90dbe6501d0673c56d19a31de92c5c14aa805ed1c9d8442ca",
+      "sharedAyahs": [
+        "21:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 1287.86,
+          "end": 1670.76
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:103": {
+      "file": "021-الأنبياء-youtube-v1/103.mp3",
+      "durationMs": 25990,
+      "bytes": 312598,
+      "sha256": "acd4bfc82351a75aab7d014660ca59e869dfdcf3b4fa4a087a2305de304f70fb",
+      "sharedAyahs": [
+        "21:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 1670.76,
+          "end": 1696.72
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:104": {
+      "file": "021-الأنبياء-youtube-v1/104.mp3",
+      "durationMs": 40030,
+      "bytes": 481078,
+      "sha256": "61a25cd4ca016d4d76d923726d9bd1f29593c8f1b8762b318fff49b9b70f8077",
+      "sharedAyahs": [
+        "21:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 1696.72,
+          "end": 1736.76
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:105": {
+      "file": "021-الأنبياء-youtube-v1/105.mp3",
+      "durationMs": 1357680,
+      "bytes": 16292854,
+      "sha256": "69cb04e5c78163243c2756d75634c8799d8e95b5151baba539686d6c11c1186a",
+      "sharedAyahs": [
+        "21:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SwqN6jMiMmo",
+          "start": 309.44,
+          "end": 1667.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:106": {
+      "file": "021-الأنبياء-youtube-v1/106.mp3",
+      "durationMs": 57020,
+      "bytes": 684982,
+      "sha256": "134b0505d3f6f158cf974c32bbaffc782def6eac85281c6c8dc30b04ee238093",
+      "sharedAyahs": [
+        "21:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cU-nQWLLnxI",
+          "start": 242.1,
+          "end": 299.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:107": {
+      "file": "021-الأنبياء-youtube-v1/107.mp3",
+      "durationMs": 175780,
+      "bytes": 2110006,
+      "sha256": "b5409790fb43bbee2a4cb3f185a5671810e17bc270c4f2cfdc31bd48919ea60d",
+      "sharedAyahs": [
+        "21:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cU-nQWLLnxI",
+          "start": 299.09,
+          "end": 474.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:108": {
+      "file": "021-الأنبياء-youtube-v1/108.mp3",
+      "durationMs": 425470,
+      "bytes": 5106358,
+      "sha256": "cac9c8b370854f518b67fc920ec7ab9c5b6666ea6b7c42a2b6ff33f6e3571301",
+      "sharedAyahs": [
+        "21:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cU-nQWLLnxI",
+          "start": 474.85,
+          "end": 900.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:109": {
+      "file": "021-الأنبياء-youtube-v1/109.mp3",
+      "durationMs": 79370,
+      "bytes": 953110,
+      "sha256": "b1d8ff7baae380aecdaeada963e25998ee113ef7526b5f4269c9a20b8c251700",
+      "sharedAyahs": [
+        "21:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cU-nQWLLnxI",
+          "start": 900.31,
+          "end": 979.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:110": {
+      "file": "021-الأنبياء-youtube-v1/110.mp3",
+      "durationMs": 62780,
+      "bytes": 754102,
+      "sha256": "5853c8ad4b27ef68cfac0811676bde50a64f4a7a0b0c66c9541f1415cff4081d",
+      "sharedAyahs": [
+        "21:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cU-nQWLLnxI",
+          "start": 979.64,
+          "end": 1042.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:111": {
+      "file": "021-الأنبياء-youtube-v1/111.mp3",
+      "durationMs": 132430,
+      "bytes": 1589878,
+      "sha256": "493694f2052337c8cbcfbe968c3f767ec5317a7cafa029808298d2d0dce5fa2c",
+      "sharedAyahs": [
+        "21:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cU-nQWLLnxI",
+          "start": 1042.41,
+          "end": 1174.82
+        }
+      ],
+      "reviewNote": ""
+    },
+    "21:112": {
+      "file": "021-الأنبياء-youtube-v1/112.mp3",
+      "durationMs": 444790,
+      "bytes": 5338198,
+      "sha256": "d515073bb1dd816357c5e2c135675f8bf9046f96f089f688c7d06dbcbc183c4a",
+      "sharedAyahs": [
+        "21:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "cU-nQWLLnxI",
+          "start": 1174.82,
+          "end": 1619.62
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-00.mp3",
+      "kind": "introduction",
+      "durationMs": 31150,
+      "bytes": 374514,
+      "sha256": "06460de6d0ea87ab152483df48053c59fedcb19e089dbe12f378df3b23f33a7b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "yUf6EzAwHUg",
+          "start": 4.35,
+          "end": 35.49
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-14.mp3",
+      "kind": "introduction",
+      "durationMs": 167470,
+      "bytes": 2010354,
+      "sha256": "26af0da51fe23f29b8925aff5bf53b3587e16cef7df1433638aa271567021a92",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "zxlq4JBz4Cc",
+          "start": 2.24,
+          "end": 169.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-30.mp3",
+      "kind": "introduction",
+      "durationMs": 1972150,
+      "bytes": 23666514,
+      "sha256": "de8955c1d4d54c41407596c4f36e747c4d99afb62c9e90f175529debefcd4759",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "beBq3exLb5o",
+          "start": 24.11,
+          "end": 1996.23
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-34.mp3",
+      "kind": "introduction",
+      "durationMs": 529460,
+      "bytes": 6354258,
+      "sha256": "aa224cf862d21556377f530225c8985cfe2f6463a75f7ae22a9c9b2e10ca23f2",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "-DeRAU7UsdY",
+          "start": 0.0,
+          "end": 529.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-46.mp3",
+      "kind": "introduction",
+      "durationMs": 212180,
+      "bytes": 2546898,
+      "sha256": "a3e1175773da32ea7c63f7f713d69d20d7f6cdf1963f096a395b5808240d022d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "ZIvYA0OkQr4",
+          "start": 5.31,
+          "end": 217.47
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-52.mp3",
+      "kind": "introduction",
+      "durationMs": 971930,
+      "bytes": 11663826,
+      "sha256": "055366c5a84a8283c5610b734175fed752043e7033a0254d94c2ea84fed19385",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "VDo6Dts4M90",
+          "start": 2.88,
+          "end": 974.77
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-56.mp3",
+      "kind": "introduction",
+      "durationMs": 33620,
+      "bytes": 404178,
+      "sha256": "986235877dc21a1a74ad9dd8c7d7dd237a9fff659c1f713a2cdf54cb60b83a23",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "A0DjBOOH1ek",
+          "start": 7.55,
+          "end": 41.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-76.mp3",
+      "kind": "introduction",
+      "durationMs": 119380,
+      "bytes": 1433202,
+      "sha256": "9f024279f43e2411afdaa252cebce654346037b323a6e3b30f7a00e40e27c272",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "44XlGcTXvng",
+          "start": 2.2,
+          "end": 121.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-84.mp3",
+      "kind": "introduction",
+      "durationMs": 235490,
+      "bytes": 2826546,
+      "sha256": "8493a14a6dfbf54be39c9afc14bd2f96f813216d0159ced94c7503b55adac4a0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "DwvPeoH3w70",
+          "start": 0.0,
+          "end": 235.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-92.mp3",
+      "kind": "introduction",
+      "durationMs": 824880,
+      "bytes": 9899250,
+      "sha256": "c063f929be63d83ca8f96143858d14a1e829561c1dd89452a2841b0a9db21ff9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "lq3jopOoz74",
+          "start": 0.0,
+          "end": 824.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-98.mp3",
+      "kind": "introduction",
+      "durationMs": 492410,
+      "bytes": 5909586,
+      "sha256": "c96ccf52b877dc4ec51fe2d2f172791989c58388b39ee3d10f570933500ad1af",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "OXsJKUJEQfs",
+          "start": 0.0,
+          "end": 492.37
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-102.mp3",
+      "kind": "introduction",
+      "durationMs": 750820,
+      "bytes": 9010482,
+      "sha256": "611e68cfac524d5c07a9fefd278aeacceaf719dc1d23edf8b0caf391dbb46cf0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "jzd7toVW7zg",
+          "start": 0.0,
+          "end": 750.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-111.mp3",
+      "kind": "introduction",
+      "durationMs": 309480,
+      "bytes": 3714450,
+      "sha256": "e88f5c07a50595900283cf2105027a50b2f11ac765642ced1531369528c5b34b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "SwqN6jMiMmo",
+          "start": 0.0,
+          "end": 309.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "021-الأنبياء-youtube-v1/introduction-113.mp3",
+      "kind": "introduction",
+      "durationMs": 242140,
+      "bytes": 2906322,
+      "sha256": "6aa77f53f140feff17b97baaf6ab8c0c70542b73dc4bbf7e56aea01c14bc17dc",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "cU-nQWLLnxI",
+          "start": 0.0,
+          "end": 242.1
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "anbiya-reckoning-and-revelation",
+      "title": "اقتراب الحساب وحكمة الوحي والرسالة",
+      "file": "021-الأنبياء-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 258360
+    },
+    {
+      "id": "anbiya-creation-of-heavens-and-earth",
+      "title": "رتق السماوات والأرض وجعل كل شيء حي من الماء",
+      "file": "021-الأنبياء-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 571060
+    },
+    {
+      "id": "anbiya-ibrahim-and-idols",
+      "title": "مناظرة إبراهيم عليه السلام لقومه وتحطيم الأصنام",
+      "file": "021-الأنبياء-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 1198920
+    },
+    {
+      "id": "anbiya-prophetic-supplications",
+      "title": "دعاء الأنبياء وسر الاستجابة في كشف الكرب والضر",
+      "file": "021-الأنبياء-youtube-v1/083.mp3",
+      "startMs": 0,
+      "endMs": 196850
+    },
+    {
+      "id": "anbiya-mercy-to-mankind",
+      "title": "إرسال خاتم الأنبياء رحمة للعالمين وفتح باب النجاة",
+      "file": "021-الأنبياء-youtube-v1/107.mp3",
+      "startMs": 0,
+      "endMs": 175780
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "yUf6EzAwHUg",
+      "zxlq4JBz4Cc",
+      "beBq3exLb5o",
+      "-DeRAU7UsdY",
+      "ZIvYA0OkQr4",
+      "VDo6Dts4M90",
+      "A0DjBOOH1ek",
+      "44XlGcTXvng",
+      "DwvPeoH3w70",
+      "lq3jopOoz74",
+      "OXsJKUJEQfs",
+      "jzd7toVW7zg",
+      "SwqN6jMiMmo",
+      "cU-nQWLLnxI"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-00.mp3",
+        "startMs": 0,
+        "endMs": 31150,
+        "durationMs": 31150,
+        "recordingDurationMs": 31150,
+        "bytes": 374514,
+        "sha256": "06460de6d0ea87ab152483df48053c59fedcb19e089dbe12f378df3b23f33a7b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 4.35,
+            "end": 35.49
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 258360,
+        "durationMs": 258360,
+        "recordingDurationMs": 258360,
+        "bytes": 3101010,
+        "sha256": "1c05f7ec2b454341d4f4e56f75a307c6b45a0e4b2652a88f59334587bb2ebe66",
+        "sharedAyahs": [
+          "21:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 35.49,
+            "end": 293.83
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 1015990,
+        "durationMs": 1015990,
+        "recordingDurationMs": 1015990,
+        "bytes": 12192598,
+        "sha256": "02b62e620f53ce53c9f962523adc6660c12f3cb8344b212b3506d19a9f6c8d8d",
+        "sharedAyahs": [
+          "21:2",
+          "21:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 293.83,
+            "end": 1309.8
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 18890,
+        "durationMs": 18890,
+        "recordingDurationMs": 18890,
+        "bytes": 227346,
+        "sha256": "9fe77aa9f3d158cb5152cafaf79ae65c2490b0ffb31f4cd1c2ca8c01fe15f358",
+        "sharedAyahs": [
+          "21:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 1309.8,
+            "end": 1328.65
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 153960,
+        "durationMs": 153960,
+        "recordingDurationMs": 153960,
+        "bytes": 1848210,
+        "sha256": "42fcf65af23c31c8ab967cad717f94b9db48fbea71202772086dfd3cffc9ad88",
+        "sharedAyahs": [
+          "21:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 1328.65,
+            "end": 1482.58
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 60840,
+        "durationMs": 60840,
+        "recordingDurationMs": 60840,
+        "bytes": 730770,
+        "sha256": "21271e11f4f44427ddb477f2d2b847a74c40c965fae480f2ac7d887419594144",
+        "sharedAyahs": [
+          "21:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 1482.58,
+            "end": 1543.4
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 251930,
+        "durationMs": 251930,
+        "recordingDurationMs": 251930,
+        "bytes": 3023826,
+        "sha256": "589b409ac88b5f01fc8de6bcf734b74917b4445bdb8a5522082c6eda5aae373c",
+        "sharedAyahs": [
+          "21:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 1543.4,
+            "end": 1795.3
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 73730,
+        "durationMs": 73730,
+        "recordingDurationMs": 73730,
+        "bytes": 885426,
+        "sha256": "22b0127262b0af44636723d0980d4db3f7072dae1ba77c2753810152264eb5a7",
+        "sharedAyahs": [
+          "21:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 1795.3,
+            "end": 1869.02
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 15000,
+        "durationMs": 15000,
+        "recordingDurationMs": 15000,
+        "bytes": 180690,
+        "sha256": "67ee0d44e2140c039985bff4ea3db25914bfd00a1b38b64f3845a3dc79d40f99",
+        "sharedAyahs": [
+          "21:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 1869.02,
+            "end": 1883.98
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 289320,
+        "durationMs": 289320,
+        "recordingDurationMs": 289320,
+        "bytes": 3472532,
+        "sha256": "9244fa7d8f7688b51292591ff6b6d26a7897984a04d0df0efabc1f695e2e4325",
+        "sharedAyahs": [
+          "21:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 1883.98,
+            "end": 2173.29
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 119880,
+        "durationMs": 119880,
+        "recordingDurationMs": 119880,
+        "bytes": 1439252,
+        "sha256": "e786ad3fc23156e293dd71863b2f1d288145b901849c463e9265b8f7a0abef72",
+        "sharedAyahs": [
+          "21:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 2173.29,
+            "end": 2293.13
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 8420,
+        "durationMs": 8420,
+        "recordingDurationMs": 8420,
+        "bytes": 101780,
+        "sha256": "36dfb430871b3f8ea1d8c672388c2866117400198b8a9fdfa50d1a9d231dd190",
+        "sharedAyahs": [
+          "21:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 2293.13,
+            "end": 2301.55
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 326830,
+        "durationMs": 326830,
+        "recordingDurationMs": 326830,
+        "bytes": 3922676,
+        "sha256": "60ac67c83607c17a98a2cb9041fcf5fa826d46fb6adb2a1ec72ab60b19fb56a5",
+        "sharedAyahs": [
+          "21:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 2301.55,
+            "end": 2628.35
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 21530,
+        "durationMs": 21530,
+        "recordingDurationMs": 21530,
+        "bytes": 259028,
+        "sha256": "5a74b5877949cfd0738487eb129fa4317c483bd8e7202ed16db76e286ff30558",
+        "sharedAyahs": [
+          "21:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "yUf6EzAwHUg",
+            "start": 2628.35,
+            "end": 2649.85
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-14.mp3",
+        "startMs": 0,
+        "endMs": 167470,
+        "durationMs": 167470,
+        "recordingDurationMs": 167470,
+        "bytes": 2010354,
+        "sha256": "26af0da51fe23f29b8925aff5bf53b3587e16cef7df1433638aa271567021a92",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 2.24,
+            "end": 169.7
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 7730,
+        "durationMs": 7730,
+        "recordingDurationMs": 7730,
+        "bytes": 93428,
+        "sha256": "29288e7030e85eda7b2b4d478aa1e8dd331904771ae9e821801107547a7954b9",
+        "sharedAyahs": [
+          "21:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 169.7,
+            "end": 177.39
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 537360,
+        "durationMs": 537360,
+        "recordingDurationMs": 537360,
+        "bytes": 6449012,
+        "sha256": "9668852c7414f153edb901de01ab97999f727af5da9205593831e7d084488365",
+        "sharedAyahs": [
+          "21:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 177.39,
+            "end": 714.73
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 17710,
+        "durationMs": 17710,
+        "recordingDurationMs": 17710,
+        "bytes": 213236,
+        "sha256": "09f85e9492d0630d5cbddc199ca29035bb4e0e8d123094b6d3bca1e4609c6904",
+        "sharedAyahs": [
+          "21:17"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 714.73,
+            "end": 732.42
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/018.mp3",
+        "startMs": 0,
+        "endMs": 481900,
+        "durationMs": 481900,
+        "recordingDurationMs": 481900,
+        "bytes": 5783444,
+        "sha256": "4d1e455f78fef23c4489a57d2a97f50c3ae51b06ecd111199446bd6117e5ed7b",
+        "sharedAyahs": [
+          "21:18"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 732.42,
+            "end": 1214.3
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/019.mp3",
+        "startMs": 0,
+        "endMs": 227690,
+        "durationMs": 227690,
+        "recordingDurationMs": 227690,
+        "bytes": 2732948,
+        "sha256": "e0b0ced7dfe1bef66184bbbb28d8e0f09daaf874e8780367e08762f2b4899fc2",
+        "sharedAyahs": [
+          "21:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 1214.3,
+            "end": 1441.95
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 51100,
+        "durationMs": 51100,
+        "recordingDurationMs": 51100,
+        "bytes": 613844,
+        "sha256": "ebb15760823ce70a025de970d703af33d4cc4c3339eb66509772a6b45db4ed55",
+        "sharedAyahs": [
+          "21:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 1441.95,
+            "end": 1493.04
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 18980,
+        "durationMs": 18980,
+        "recordingDurationMs": 18980,
+        "bytes": 228500,
+        "sha256": "18ca94e024de80ac87a8a5aa07e51aa09c09ec1e5c65a890febd859d6826a2da",
+        "sharedAyahs": [
+          "21:21"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 1493.04,
+            "end": 1511.99
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/022.mp3",
+        "startMs": 0,
+        "endMs": 558170,
+        "durationMs": 558170,
+        "recordingDurationMs": 558170,
+        "bytes": 6698708,
+        "sha256": "ae4904164d93c2bd9f0ce4ee7fa683e12a50e32bc18384632418365ec575c5e7",
+        "sharedAyahs": [
+          "21:22"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 1511.99,
+            "end": 2070.13
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/023.mp3",
+        "startMs": 0,
+        "endMs": 17420,
+        "durationMs": 17420,
+        "recordingDurationMs": 17420,
+        "bytes": 209780,
+        "sha256": "bbcb87afcd190935f7d43fa7265369d285fd23a2993667082f731770c6dd06be",
+        "sharedAyahs": [
+          "21:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 2070.13,
+            "end": 2087.53
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 111000,
+        "durationMs": 111000,
+        "recordingDurationMs": 111000,
+        "bytes": 1332692,
+        "sha256": "6c4b26b8a9090c9b309cfd5929d38c81895e69d9846e4466da772bd871ef305f",
+        "sharedAyahs": [
+          "21:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 2087.53,
+            "end": 2198.51
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 71710,
+        "durationMs": 71710,
+        "recordingDurationMs": 71710,
+        "bytes": 861236,
+        "sha256": "82d029560aab9f1c37e268f01ac6e27be37b67b6f4ec16e640f1ec455524f7c2",
+        "sharedAyahs": [
+          "21:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 2198.51,
+            "end": 2270.2
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 16420,
+        "durationMs": 16420,
+        "recordingDurationMs": 16420,
+        "bytes": 197684,
+        "sha256": "8c2c18e3e276381a828c6979f3d72fae73ead0f91156f35a68a6206c9643a782",
+        "sharedAyahs": [
+          "21:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 2270.2,
+            "end": 2286.6
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 4700,
+        "durationMs": 4700,
+        "recordingDurationMs": 4700,
+        "bytes": 57140,
+        "sha256": "6b4021d84aef4ce60b2c69a8b4cb1a11ef98ca9ec3527ff743e08812a8dbdaa2",
+        "sharedAyahs": [
+          "21:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 2286.6,
+            "end": 2291.26
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 119300,
+        "durationMs": 119300,
+        "recordingDurationMs": 119300,
+        "bytes": 1432340,
+        "sha256": "63f410c142f97b629a27f7c09246dd1bc79fb59138d58f4ca7cba1480ab41eec",
+        "sharedAyahs": [
+          "21:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 2291.26,
+            "end": 2410.54
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 33170,
+        "durationMs": 33170,
+        "recordingDurationMs": 33170,
+        "bytes": 398708,
+        "sha256": "1a9515a9763890075082f3a9e8a96e8e7cacace0c5e32fc9c205382857a54da3",
+        "sharedAyahs": [
+          "21:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "zxlq4JBz4Cc",
+            "start": 2410.54,
+            "end": 2443.69
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-30.mp3",
+        "startMs": 0,
+        "endMs": 1972150,
+        "durationMs": 1972150,
+        "recordingDurationMs": 1972150,
+        "bytes": 23666514,
+        "sha256": "de8955c1d4d54c41407596c4f36e747c4d99afb62c9e90f175529debefcd4759",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "beBq3exLb5o",
+            "start": 24.11,
+            "end": 1996.23
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 571060,
+        "durationMs": 571060,
+        "recordingDurationMs": 571060,
+        "bytes": 6853364,
+        "sha256": "5d171448e2699195193521e3ec3ee020987ac8b69abf3c3755cdf0819abd10db",
+        "sharedAyahs": [
+          "21:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "beBq3exLb5o",
+            "start": 1996.23,
+            "end": 2567.26
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 15140,
+        "durationMs": 15140,
+        "recordingDurationMs": 15140,
+        "bytes": 182420,
+        "sha256": "2899fcba85ba6d801650d3f01221d0ed4b20c0b5e11c75e33e46efaf50fb4d7e",
+        "sharedAyahs": [
+          "21:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "beBq3exLb5o",
+            "start": 2567.26,
+            "end": 2582.4
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 72100,
+        "durationMs": 72100,
+        "recordingDurationMs": 72100,
+        "bytes": 865844,
+        "sha256": "5b50d5aed2aeeff28ea6ec4c3c9bbf0a910effda7b1eab1a2ffa7c168212c076",
+        "sharedAyahs": [
+          "21:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "beBq3exLb5o",
+            "start": 2582.4,
+            "end": 2654.5
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-34.mp3",
+        "startMs": 0,
+        "endMs": 529460,
+        "durationMs": 529460,
+        "recordingDurationMs": 529460,
+        "bytes": 6354258,
+        "sha256": "aa224cf862d21556377f530225c8985cfe2f6463a75f7ae22a9c9b2e10ca23f2",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 0.0,
+            "end": 529.42
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 464330,
+        "durationMs": 464330,
+        "recordingDurationMs": 464330,
+        "bytes": 5572628,
+        "sha256": "014416179b83eba8ec8a54b6aeb3c997ed2d8830b1d0ba32d4a495df8ba965b8",
+        "sharedAyahs": [
+          "21:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 529.42,
+            "end": 993.73
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 55870,
+        "durationMs": 55870,
+        "recordingDurationMs": 55870,
+        "bytes": 671156,
+        "sha256": "810dc523fe47275786268a9b97fb4a3a4d761291bf2a930c1603967993cda4a3",
+        "sharedAyahs": [
+          "21:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 993.73,
+            "end": 1049.59
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 441740,
+        "durationMs": 441740,
+        "recordingDurationMs": 441740,
+        "bytes": 5301620,
+        "sha256": "e2b0f126e58ead76f23a610063cad127de8aa7adb0abb90874f5b7dbfcbf173e",
+        "sharedAyahs": [
+          "21:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 1049.59,
+            "end": 1491.3
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 192550,
+        "durationMs": 192550,
+        "recordingDurationMs": 192550,
+        "bytes": 2311316,
+        "sha256": "3441c931bf05ebcc776cb3bf77fed50fbed6563ab2f16ffa5c3a59f54276b3e3",
+        "sharedAyahs": [
+          "21:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 1491.3,
+            "end": 1683.83
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 58680,
+        "durationMs": 58680,
+        "recordingDurationMs": 58680,
+        "bytes": 704852,
+        "sha256": "c79863dd82b5c53f8c6a52dbb63629cc104b9d35e743828238c96d50651d3863",
+        "sharedAyahs": [
+          "21:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 1683.83,
+            "end": 1742.48
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 71110,
+        "durationMs": 71110,
+        "recordingDurationMs": 71110,
+        "bytes": 854036,
+        "sha256": "3a9b5ca3c21ab0bf3b95aa12a5c4c9a34a60078c71938113ce112953a36e52c1",
+        "sharedAyahs": [
+          "21:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 1742.48,
+            "end": 1813.58
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 352970,
+        "durationMs": 352970,
+        "recordingDurationMs": 352970,
+        "bytes": 4236308,
+        "sha256": "f922a6bb779e956a2224fa00183229d1e0139cfd37b2296455c63db518c1f958",
+        "sharedAyahs": [
+          "21:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 1813.58,
+            "end": 2166.51
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 16460,
+        "durationMs": 16460,
+        "recordingDurationMs": 16460,
+        "bytes": 198260,
+        "sha256": "1869007266b1ed84200639ab65e0e7729f9b74b684ee1f9efce0edf25f337908",
+        "sharedAyahs": [
+          "21:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 2166.51,
+            "end": 2182.95
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 200180,
+        "durationMs": 200180,
+        "recordingDurationMs": 200180,
+        "bytes": 2402900,
+        "sha256": "dfc285ea4f91ea31918f3916960b80d502f80e8df82b79c364219d28e23ad122",
+        "sharedAyahs": [
+          "21:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 2182.95,
+            "end": 2383.12
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 157220,
+        "durationMs": 157220,
+        "recordingDurationMs": 157220,
+        "bytes": 1887380,
+        "sha256": "4704b86579075e648770edaa9014660559ec9322c3f4310be2797c34440d5d60",
+        "sharedAyahs": [
+          "21:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 2383.12,
+            "end": 2540.31
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 153890,
+        "durationMs": 153890,
+        "recordingDurationMs": 153890,
+        "bytes": 1847348,
+        "sha256": "d8d66c6a177a3635ee284a8fa8ada1983855b21abc78f21f342609c23c06e51b",
+        "sharedAyahs": [
+          "21:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "-DeRAU7UsdY",
+            "start": 2540.31,
+            "end": 2694.17
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-46.mp3",
+        "startMs": 0,
+        "endMs": 212180,
+        "durationMs": 212180,
+        "recordingDurationMs": 212180,
+        "bytes": 2546898,
+        "sha256": "a3e1175773da32ea7c63f7f713d69d20d7f6cdf1963f096a395b5808240d022d",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "ZIvYA0OkQr4",
+            "start": 5.31,
+            "end": 217.47
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 694730,
+        "durationMs": 694730,
+        "recordingDurationMs": 694730,
+        "bytes": 8337428,
+        "sha256": "b50d4cbbb02083ddf7d93e42ddd5ff1334e0e854adb3d23685f7fb17e0ea3663",
+        "sharedAyahs": [
+          "21:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZIvYA0OkQr4",
+            "start": 217.47,
+            "end": 912.17
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 222940,
+        "durationMs": 222940,
+        "recordingDurationMs": 222940,
+        "bytes": 2675924,
+        "sha256": "092ded7f0ab7a152ecd25a1d6e7588c394a150cd53e8c07c7aaae4cf64e08aa4",
+        "sharedAyahs": [
+          "21:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZIvYA0OkQr4",
+            "start": 912.17,
+            "end": 1135.1
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 979180,
+        "durationMs": 979180,
+        "recordingDurationMs": 979180,
+        "bytes": 11750804,
+        "sha256": "ce28a1c830e90c11c88f940597293b5408fcc80adbbfd8c203e7999a86d23155",
+        "sharedAyahs": [
+          "21:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZIvYA0OkQr4",
+            "start": 1135.1,
+            "end": 2114.25
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 545420,
+        "durationMs": 545420,
+        "recordingDurationMs": 545420,
+        "bytes": 6545780,
+        "sha256": "f489ea47a5744e83c60dcde1130c05e9acecd6ed2c6a56a06d575c111376a748",
+        "sharedAyahs": [
+          "21:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZIvYA0OkQr4",
+            "start": 2114.25,
+            "end": 2659.65
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 90340,
+        "durationMs": 90340,
+        "recordingDurationMs": 90340,
+        "bytes": 1084724,
+        "sha256": "bea7eea18ae07b6c98e86af869428a6fce3f4f067702ae09b7764a0476a84fb6",
+        "sharedAyahs": [
+          "21:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "ZIvYA0OkQr4",
+            "start": 2659.65,
+            "end": 2749.95
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-52.mp3",
+        "startMs": 0,
+        "endMs": 971930,
+        "durationMs": 971930,
+        "recordingDurationMs": 971930,
+        "bytes": 11663826,
+        "sha256": "055366c5a84a8283c5610b734175fed752043e7033a0254d94c2ea84fed19385",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "VDo6Dts4M90",
+            "start": 2.88,
+            "end": 974.77
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 359950,
+        "durationMs": 359950,
+        "recordingDurationMs": 359950,
+        "bytes": 4320116,
+        "sha256": "0b9f60e8b56a99372992d7d7c19cbbd1b658e1f2abb1a422602144ab1c10232e",
+        "sharedAyahs": [
+          "21:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VDo6Dts4M90",
+            "start": 974.77,
+            "end": 1334.69
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 127580,
+        "durationMs": 127580,
+        "recordingDurationMs": 127580,
+        "bytes": 1531700,
+        "sha256": "dfd4ae2987d2638224cd4730bf8de286341ef04a2b8dacc097c1bcdf615d7ea2",
+        "sharedAyahs": [
+          "21:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VDo6Dts4M90",
+            "start": 1334.69,
+            "end": 1462.25
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 1198920,
+        "durationMs": 1198920,
+        "recordingDurationMs": 1198920,
+        "bytes": 14387732,
+        "sha256": "933e6e0de8b35779f8ef6c95c5bc9cc41830577c93eb7a582f507e414e83a0c8",
+        "sharedAyahs": [
+          "21:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VDo6Dts4M90",
+            "start": 1462.25,
+            "end": 2661.16
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-56.mp3",
+        "startMs": 0,
+        "endMs": 33620,
+        "durationMs": 33620,
+        "recordingDurationMs": 33620,
+        "bytes": 404178,
+        "sha256": "986235877dc21a1a74ad9dd8c7d7dd237a9fff659c1f713a2cdf54cb60b83a23",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 7.55,
+            "end": 41.16
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 6360,
+        "durationMs": 6360,
+        "recordingDurationMs": 6360,
+        "bytes": 77012,
+        "sha256": "638e60e0023dfc62ad6771b5c7af254adfe00c4b507f2c58443d30c174d33c1c",
+        "sharedAyahs": [
+          "21:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 41.16,
+            "end": 47.48
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 4150,
+        "durationMs": 4150,
+        "recordingDurationMs": 4150,
+        "bytes": 50516,
+        "sha256": "aab1e428981e2f5ed04b7df153f257b26146a730308f80136f8b129b8dc4c51c",
+        "sharedAyahs": [
+          "21:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 47.48,
+            "end": 51.62
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 630580,
+        "durationMs": 630580,
+        "recordingDurationMs": 630580,
+        "bytes": 7567604,
+        "sha256": "ac600f4515cfebbc5856b10342dda38bc6731893ddc89f7fd7a8604c7f60cdea",
+        "sharedAyahs": [
+          "21:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 51.62,
+            "end": 682.17
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 16510,
+        "durationMs": 16510,
+        "recordingDurationMs": 16510,
+        "bytes": 198836,
+        "sha256": "8ee1a0eaef72665be6ad149e8ec420fecc02d83c927910c7e396791fc742ab82",
+        "sharedAyahs": [
+          "21:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 682.17,
+            "end": 698.65
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 233140,
+        "durationMs": 233140,
+        "recordingDurationMs": 233140,
+        "bytes": 2798324,
+        "sha256": "2691fc2a179a2ac27e746caa31b0398feab6ee65cd6160ca5eb9ad4b54676000",
+        "sharedAyahs": [
+          "21:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 698.65,
+            "end": 931.77
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 187370,
+        "durationMs": 187370,
+        "recordingDurationMs": 187370,
+        "bytes": 2249113,
+        "sha256": "2dffdc8674db1dc5ac95f083eff714cdc755545ef3e9635e6aa85cf4f765d64f",
+        "sharedAyahs": [
+          "21:57",
+          "21:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 931.77,
+            "end": 1119.1
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 98140,
+        "durationMs": 98140,
+        "recordingDurationMs": 98140,
+        "bytes": 1178324,
+        "sha256": "883c1e6d5429cc6d881e775c5d7fc3dcd8ccf1e1513983f8e0ec24716ef615f6",
+        "sharedAyahs": [
+          "21:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1119.1,
+            "end": 1217.21
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 40250,
+        "durationMs": 40250,
+        "recordingDurationMs": 40250,
+        "bytes": 483668,
+        "sha256": "e1b5c9d5809c00cf3f25b6550fcb332652b1b700b7bbe503306457c1fffbe164",
+        "sharedAyahs": [
+          "21:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1217.21,
+            "end": 1257.45
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 71060,
+        "durationMs": 71060,
+        "recordingDurationMs": 71060,
+        "bytes": 853465,
+        "sha256": "27e59138dc78e2717bbb496cf5a19a7dd43d6370ea93a361c553aa3a33f82586",
+        "sharedAyahs": [
+          "21:61",
+          "21:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1257.45,
+            "end": 1328.48
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 86350,
+        "durationMs": 86350,
+        "recordingDurationMs": 86350,
+        "bytes": 1036916,
+        "sha256": "0f68721fa52b2b577ca2de46ac393c4b333960e82f545620e7622f4d17eedb3b",
+        "sharedAyahs": [
+          "21:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1328.48,
+            "end": 1414.81
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 53880,
+        "durationMs": 53880,
+        "recordingDurationMs": 53880,
+        "bytes": 647252,
+        "sha256": "b5b5854b341bec31fd9d903ac8cb0ea788b5bafa18109203ba73cc4723554bee",
+        "sharedAyahs": [
+          "21:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1414.81,
+            "end": 1468.68
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 27290,
+        "durationMs": 27290,
+        "recordingDurationMs": 27290,
+        "bytes": 328148,
+        "sha256": "5f39db45f74eedba810419b19a8d16751871314bc9719df14cf34c59f9bc6ed8",
+        "sharedAyahs": [
+          "21:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1468.68,
+            "end": 1495.93
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 162940,
+        "durationMs": 162940,
+        "recordingDurationMs": 162940,
+        "bytes": 1955924,
+        "sha256": "901bc7968ce71ad259d2c45d1f26cf80e3331be62e1292920c1b4b1442caac35",
+        "sharedAyahs": [
+          "21:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1495.93,
+            "end": 1658.84
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 100320,
+        "durationMs": 100320,
+        "recordingDurationMs": 100320,
+        "bytes": 1204532,
+        "sha256": "1cbaf5b81cd1cd6c94b7d7dd1d33e56efebd0a718fa22d98bd0ae0c3ae0af962",
+        "sharedAyahs": [
+          "21:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1658.84,
+            "end": 1759.13
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 171310,
+        "durationMs": 171310,
+        "recordingDurationMs": 171310,
+        "bytes": 2056436,
+        "sha256": "33d60d64c6a65a02f995bfc7995f9e234fe58bea1b42a00229264c0afddb0ebd",
+        "sharedAyahs": [
+          "21:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1759.13,
+            "end": 1930.42
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 193580,
+        "durationMs": 193580,
+        "recordingDurationMs": 193580,
+        "bytes": 2323700,
+        "sha256": "e79547cf2eda8ea9e46669f56d65c85f0766c890d59b59c83b9814930fe1a6cd",
+        "sharedAyahs": [
+          "21:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 1930.42,
+            "end": 2124.0
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 50090,
+        "durationMs": 50090,
+        "recordingDurationMs": 50090,
+        "bytes": 601748,
+        "sha256": "2255cf49122fa069acb564d78a2f13b8e942d47bd7b5227ddaedfa81360ab757",
+        "sharedAyahs": [
+          "21:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 2124.0,
+            "end": 2174.05
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 131140,
+        "durationMs": 131140,
+        "recordingDurationMs": 131140,
+        "bytes": 1574324,
+        "sha256": "b3ec5542e013345d6fb23089ed344a03546585b768c0d6239a7acc7c80be0fe5",
+        "sharedAyahs": [
+          "21:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 2174.05,
+            "end": 2305.16
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 433560,
+        "durationMs": 433560,
+        "recordingDurationMs": 433560,
+        "bytes": 5203412,
+        "sha256": "06f63bd4ee9d35f3b1b255e94435c2c220582fa9e43fb94460139dfa557f018f",
+        "sharedAyahs": [
+          "21:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "A0DjBOOH1ek",
+            "start": 2305.16,
+            "end": 2738.7
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-76.mp3",
+        "startMs": 0,
+        "endMs": 119380,
+        "durationMs": 119380,
+        "recordingDurationMs": 119380,
+        "bytes": 1433202,
+        "sha256": "9f024279f43e2411afdaa252cebce654346037b323a6e3b30f7a00e40e27c272",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "44XlGcTXvng",
+            "start": 2.2,
+            "end": 121.55
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 495140,
+        "durationMs": 495140,
+        "recordingDurationMs": 495140,
+        "bytes": 5942420,
+        "sha256": "14fb45e23eeb34b9883a69da70a90db9b5d08a659e77dcd2c74deb5ad72a089b",
+        "sharedAyahs": [
+          "21:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44XlGcTXvng",
+            "start": 121.55,
+            "end": 616.68
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 13010,
+        "durationMs": 13010,
+        "recordingDurationMs": 13010,
+        "bytes": 156788,
+        "sha256": "7b38705a166cd5b91454e553eab9810c137b178bc8a18de03436d60f8bf742e4",
+        "sharedAyahs": [
+          "21:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44XlGcTXvng",
+            "start": 616.68,
+            "end": 629.66
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 207600,
+        "durationMs": 207600,
+        "recordingDurationMs": 207600,
+        "bytes": 2491892,
+        "sha256": "ab790924aed4aca6baef6a5ce1155c32bb40bc55620a1b0b6f04ab9a2b4cce5c",
+        "sharedAyahs": [
+          "21:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44XlGcTXvng",
+            "start": 629.66,
+            "end": 837.24
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 128930,
+        "durationMs": 128930,
+        "recordingDurationMs": 128930,
+        "bytes": 1547828,
+        "sha256": "9cffbce2ab8e95bee6a77ac4c85c8f2e2c453c3e04b4110283e5cd1ed07e5860",
+        "sharedAyahs": [
+          "21:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44XlGcTXvng",
+            "start": 837.24,
+            "end": 966.14
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 126190,
+        "durationMs": 126190,
+        "recordingDurationMs": 126190,
+        "bytes": 1514996,
+        "sha256": "18530683ecd6d23c443770921ae1d21c39eda22bc735e4bb55eb91548e7bd7e7",
+        "sharedAyahs": [
+          "21:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44XlGcTXvng",
+            "start": 966.14,
+            "end": 1092.3
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 479230,
+        "durationMs": 479230,
+        "recordingDurationMs": 479230,
+        "bytes": 5751476,
+        "sha256": "1e498a54f2d70885a2a1b56fbb483bc9daab574d0e7fe9cb943f0a333edb5a00",
+        "sharedAyahs": [
+          "21:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44XlGcTXvng",
+            "start": 1092.3,
+            "end": 1571.5
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 1160330,
+        "durationMs": 1160330,
+        "recordingDurationMs": 1160330,
+        "bytes": 13924628,
+        "sha256": "1c4023095d166a9639d566d6903167b09d2156ab49bb798f0e88ed14fe6534d8",
+        "sharedAyahs": [
+          "21:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "44XlGcTXvng",
+            "start": 1571.5,
+            "end": 2731.82
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-84.mp3",
+        "startMs": 0,
+        "endMs": 235490,
+        "durationMs": 235490,
+        "recordingDurationMs": 235490,
+        "bytes": 2826546,
+        "sha256": "8493a14a6dfbf54be39c9afc14bd2f96f813216d0159ced94c7503b55adac4a0",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "DwvPeoH3w70",
+            "start": 0.0,
+            "end": 235.45
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 529440,
+        "durationMs": 529440,
+        "recordingDurationMs": 529440,
+        "bytes": 6353972,
+        "sha256": "2977517f230c224eba4d4d78cb3692a8afd049db251d40164e74b23ae4af6be3",
+        "sharedAyahs": [
+          "21:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DwvPeoH3w70",
+            "start": 235.45,
+            "end": 764.88
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 320180,
+        "durationMs": 320180,
+        "recordingDurationMs": 320180,
+        "bytes": 3842900,
+        "sha256": "007a6b6fa7d5dc88c6ae9e8540a475d2e521a237c76a8750c8f5361ec1de01db",
+        "sharedAyahs": [
+          "21:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DwvPeoH3w70",
+            "start": 764.88,
+            "end": 1085.02
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 351740,
+        "durationMs": 351740,
+        "recordingDurationMs": 351740,
+        "bytes": 4221620,
+        "sha256": "18aa044acf24b74b0e43dc70f6ac26a7cf137421fe33df4f851ece759c650c5e",
+        "sharedAyahs": [
+          "21:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DwvPeoH3w70",
+            "start": 1085.02,
+            "end": 1436.74
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 196850,
+        "durationMs": 196850,
+        "recordingDurationMs": 196850,
+        "bytes": 2362868,
+        "sha256": "4d9c62a76b7e51f7f49a7b3861e21d57bc7b2b4e559768d983401efd2be8e6c0",
+        "sharedAyahs": [
+          "21:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DwvPeoH3w70",
+            "start": 1436.74,
+            "end": 1633.57
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 315700,
+        "durationMs": 315700,
+        "recordingDurationMs": 315700,
+        "bytes": 3789049,
+        "sha256": "75c0d62c7d5c260c96f28b5c25e6b4a988bebd147e820cddedb7a0ddcc1b7cca",
+        "sharedAyahs": [
+          "21:84",
+          "21:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DwvPeoH3w70",
+            "start": 1633.57,
+            "end": 1949.25
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 20210,
+        "durationMs": 20210,
+        "recordingDurationMs": 20210,
+        "bytes": 243193,
+        "sha256": "2bff983bb993a9579692fcea9557abb53fd3a9644ca0bb5eed74eb2e41d7cf3f",
+        "sharedAyahs": [
+          "21:86",
+          "21:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DwvPeoH3w70",
+            "start": 1949.25,
+            "end": 1969.43
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 669070,
+        "durationMs": 669070,
+        "recordingDurationMs": 669070,
+        "bytes": 8029556,
+        "sha256": "9dc33279fa4641167cc50b1225ce5c9d479be781c221854e422ccf65f74ece67",
+        "sharedAyahs": [
+          "21:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DwvPeoH3w70",
+            "start": 1969.43,
+            "end": 2638.51
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-92.mp3",
+        "startMs": 0,
+        "endMs": 824880,
+        "durationMs": 824880,
+        "recordingDurationMs": 824880,
+        "bytes": 9899250,
+        "sha256": "c063f929be63d83ca8f96143858d14a1e829561c1dd89452a2841b0a9db21ff9",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "lq3jopOoz74",
+            "start": 0.0,
+            "end": 824.85
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 375980,
+        "durationMs": 375980,
+        "recordingDurationMs": 375980,
+        "bytes": 4512500,
+        "sha256": "4dc144818488c8f2c4a8c953819b971298bfea88639c03f47434f773078a11cd",
+        "sharedAyahs": [
+          "21:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lq3jopOoz74",
+            "start": 824.85,
+            "end": 1200.8
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/090.mp3",
+        "startMs": 0,
+        "endMs": 606380,
+        "durationMs": 606380,
+        "recordingDurationMs": 606380,
+        "bytes": 7277300,
+        "sha256": "206e987a3c8e64ad7c2044a98e22c7bdda070bd433e8902c387ce8c81df46136",
+        "sharedAyahs": [
+          "21:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lq3jopOoz74",
+            "start": 1200.8,
+            "end": 1807.17
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/091.mp3",
+        "startMs": 0,
+        "endMs": 150410,
+        "durationMs": 150410,
+        "recordingDurationMs": 150410,
+        "bytes": 1805588,
+        "sha256": "48055a0afda032a8c7c69960a5b9d75bec32af8648820033f4c5565d4243099a",
+        "sharedAyahs": [
+          "21:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lq3jopOoz74",
+            "start": 1807.17,
+            "end": 1957.56
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 639980,
+        "durationMs": 639980,
+        "recordingDurationMs": 639980,
+        "bytes": 7680500,
+        "sha256": "20ae7f45edd8643f4bb0044014ce5441ea798d5ca97b68fa50c35027d6f42351",
+        "sharedAyahs": [
+          "21:92"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lq3jopOoz74",
+            "start": 1957.56,
+            "end": 2597.51
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/093.mp3",
+        "startMs": 0,
+        "endMs": 87220,
+        "durationMs": 87220,
+        "recordingDurationMs": 87220,
+        "bytes": 1047284,
+        "sha256": "6bdea89467689b58debbe38d7eb91d7a982728dfbf8c7cc2dbe90cec16520d28",
+        "sharedAyahs": [
+          "21:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lq3jopOoz74",
+            "start": 2597.51,
+            "end": 2684.74
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-98.mp3",
+        "startMs": 0,
+        "endMs": 492410,
+        "durationMs": 492410,
+        "recordingDurationMs": 492410,
+        "bytes": 5909586,
+        "sha256": "c96ccf52b877dc4ec51fe2d2f172791989c58388b39ee3d10f570933500ad1af",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "OXsJKUJEQfs",
+            "start": 0.0,
+            "end": 492.37
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/094.mp3",
+        "startMs": 0,
+        "endMs": 208080,
+        "durationMs": 208080,
+        "recordingDurationMs": 208080,
+        "bytes": 2497652,
+        "sha256": "dffdb9f6629d0973da2acdce7862353ebf98930c2a473e442adf9971825b0cd4",
+        "sharedAyahs": [
+          "21:94"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OXsJKUJEQfs",
+            "start": 492.37,
+            "end": 700.44
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/095.mp3",
+        "startMs": 0,
+        "endMs": 67150,
+        "durationMs": 67150,
+        "recordingDurationMs": 67150,
+        "bytes": 806516,
+        "sha256": "08f5beb0dee25411cadd7e0ec2d19cf4d0439af5214e30fe7eb0570a91813800",
+        "sharedAyahs": [
+          "21:95"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OXsJKUJEQfs",
+            "start": 700.44,
+            "end": 767.55
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/096.mp3",
+        "startMs": 0,
+        "endMs": 937460,
+        "durationMs": 937460,
+        "recordingDurationMs": 937460,
+        "bytes": 11250260,
+        "sha256": "29fbf8d156ed344ceff290f5e7ea5afa3b926025bb8d94f78fb914ae203327c2",
+        "sharedAyahs": [
+          "21:96"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "OXsJKUJEQfs",
+            "start": 767.55,
+            "end": 1705.03
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-102.mp3",
+        "startMs": 0,
+        "endMs": 750820,
+        "durationMs": 750820,
+        "recordingDurationMs": 750820,
+        "bytes": 9010482,
+        "sha256": "611e68cfac524d5c07a9fefd278aeacceaf719dc1d23edf8b0caf391dbb46cf0",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 0.0,
+            "end": 750.79
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/097.mp3",
+        "startMs": 0,
+        "endMs": 45070,
+        "durationMs": 45070,
+        "recordingDurationMs": 45070,
+        "bytes": 541556,
+        "sha256": "45e61c1e82d8ee541bd41dda34df887b979e122d82ba1f885cbabfbaa6545ffc",
+        "sharedAyahs": [
+          "21:97"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 750.79,
+            "end": 795.82
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/098.mp3",
+        "startMs": 0,
+        "endMs": 237340,
+        "durationMs": 237340,
+        "recordingDurationMs": 237340,
+        "bytes": 2848724,
+        "sha256": "68050c74f63a5f6e1a8dd2456b64d61aff71358276eb1564dc1e9b23a6799325",
+        "sharedAyahs": [
+          "21:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 795.82,
+            "end": 1033.14
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/099.mp3",
+        "startMs": 0,
+        "endMs": 33410,
+        "durationMs": 33410,
+        "recordingDurationMs": 33410,
+        "bytes": 401588,
+        "sha256": "15280091f65bacd641e87ea53a8aa9fa2ee336c66f738713c1ba0a68291bbd6c",
+        "sharedAyahs": [
+          "21:99"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 1033.14,
+            "end": 1066.52
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/100.mp3",
+        "startMs": 0,
+        "endMs": 123220,
+        "durationMs": 123220,
+        "recordingDurationMs": 123220,
+        "bytes": 1479286,
+        "sha256": "1c6e4b40eb477d0a154a1deb76806fe51643af4ffe967a6ae251b76acf07f6f1",
+        "sharedAyahs": [
+          "21:100"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 1066.52,
+            "end": 1189.72
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/101.mp3",
+        "startMs": 0,
+        "endMs": 98160,
+        "durationMs": 98160,
+        "recordingDurationMs": 98160,
+        "bytes": 1178614,
+        "sha256": "096089ba49e37b1c27a48c4e4bd83d49c4a163a324b30a422a007ce2b3cc2c7a",
+        "sharedAyahs": [
+          "21:101"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 1189.72,
+            "end": 1287.86
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/102.mp3",
+        "startMs": 0,
+        "endMs": 382920,
+        "durationMs": 382920,
+        "recordingDurationMs": 382920,
+        "bytes": 4595734,
+        "sha256": "866c8c3c65b602f90dbe6501d0673c56d19a31de92c5c14aa805ed1c9d8442ca",
+        "sharedAyahs": [
+          "21:102"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 1287.86,
+            "end": 1670.76
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/103.mp3",
+        "startMs": 0,
+        "endMs": 25990,
+        "durationMs": 25990,
+        "recordingDurationMs": 25990,
+        "bytes": 312598,
+        "sha256": "acd4bfc82351a75aab7d014660ca59e869dfdcf3b4fa4a087a2305de304f70fb",
+        "sharedAyahs": [
+          "21:103"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 1670.76,
+            "end": 1696.72
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/104.mp3",
+        "startMs": 0,
+        "endMs": 40030,
+        "durationMs": 40030,
+        "recordingDurationMs": 40030,
+        "bytes": 481078,
+        "sha256": "61a25cd4ca016d4d76d923726d9bd1f29593c8f1b8762b318fff49b9b70f8077",
+        "sharedAyahs": [
+          "21:104"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "jzd7toVW7zg",
+            "start": 1696.72,
+            "end": 1736.76
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-111.mp3",
+        "startMs": 0,
+        "endMs": 309480,
+        "durationMs": 309480,
+        "recordingDurationMs": 309480,
+        "bytes": 3714450,
+        "sha256": "e88f5c07a50595900283cf2105027a50b2f11ac765642ced1531369528c5b34b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "SwqN6jMiMmo",
+            "start": 0.0,
+            "end": 309.44
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/105.mp3",
+        "startMs": 0,
+        "endMs": 1357680,
+        "durationMs": 1357680,
+        "recordingDurationMs": 1357680,
+        "bytes": 16292854,
+        "sha256": "69cb04e5c78163243c2756d75634c8799d8e95b5151baba539686d6c11c1186a",
+        "sharedAyahs": [
+          "21:105"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "SwqN6jMiMmo",
+            "start": 309.44,
+            "end": 1667.14
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/introduction-113.mp3",
+        "startMs": 0,
+        "endMs": 242140,
+        "durationMs": 242140,
+        "recordingDurationMs": 242140,
+        "bytes": 2906322,
+        "sha256": "6aa77f53f140feff17b97baaf6ab8c0c70542b73dc4bbf7e56aea01c14bc17dc",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "cU-nQWLLnxI",
+            "start": 0.0,
+            "end": 242.1
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/106.mp3",
+        "startMs": 0,
+        "endMs": 57020,
+        "durationMs": 57020,
+        "recordingDurationMs": 57020,
+        "bytes": 684982,
+        "sha256": "134b0505d3f6f158cf974c32bbaffc782def6eac85281c6c8dc30b04ee238093",
+        "sharedAyahs": [
+          "21:106"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cU-nQWLLnxI",
+            "start": 242.1,
+            "end": 299.09
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/107.mp3",
+        "startMs": 0,
+        "endMs": 175780,
+        "durationMs": 175780,
+        "recordingDurationMs": 175780,
+        "bytes": 2110006,
+        "sha256": "b5409790fb43bbee2a4cb3f185a5671810e17bc270c4f2cfdc31bd48919ea60d",
+        "sharedAyahs": [
+          "21:107"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cU-nQWLLnxI",
+            "start": 299.09,
+            "end": 474.85
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/108.mp3",
+        "startMs": 0,
+        "endMs": 425470,
+        "durationMs": 425470,
+        "recordingDurationMs": 425470,
+        "bytes": 5106358,
+        "sha256": "cac9c8b370854f518b67fc920ec7ab9c5b6666ea6b7c42a2b6ff33f6e3571301",
+        "sharedAyahs": [
+          "21:108"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cU-nQWLLnxI",
+            "start": 474.85,
+            "end": 900.31
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/109.mp3",
+        "startMs": 0,
+        "endMs": 79370,
+        "durationMs": 79370,
+        "recordingDurationMs": 79370,
+        "bytes": 953110,
+        "sha256": "b1d8ff7baae380aecdaeada963e25998ee113ef7526b5f4269c9a20b8c251700",
+        "sharedAyahs": [
+          "21:109"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cU-nQWLLnxI",
+            "start": 900.31,
+            "end": 979.64
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/110.mp3",
+        "startMs": 0,
+        "endMs": 62780,
+        "durationMs": 62780,
+        "recordingDurationMs": 62780,
+        "bytes": 754102,
+        "sha256": "5853c8ad4b27ef68cfac0811676bde50a64f4a7a0b0c66c9541f1415cff4081d",
+        "sharedAyahs": [
+          "21:110"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cU-nQWLLnxI",
+            "start": 979.64,
+            "end": 1042.41
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/111.mp3",
+        "startMs": 0,
+        "endMs": 132430,
+        "durationMs": 132430,
+        "recordingDurationMs": 132430,
+        "bytes": 1589878,
+        "sha256": "493694f2052337c8cbcfbe968c3f767ec5317a7cafa029808298d2d0dce5fa2c",
+        "sharedAyahs": [
+          "21:111"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cU-nQWLLnxI",
+            "start": 1042.41,
+            "end": 1174.82
+          }
+        ]
+      },
+      {
+        "file": "021-الأنبياء-youtube-v1/112.mp3",
+        "startMs": 0,
+        "endMs": 444790,
+        "durationMs": 444790,
+        "recordingDurationMs": 444790,
+        "bytes": 5338198,
+        "sha256": "d515073bb1dd816357c5e2c135675f8bf9046f96f089f688c7d06dbcbc183c4a",
+        "sharedAyahs": [
+          "21:112"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "cU-nQWLLnxI",
+            "start": 1174.82,
+            "end": 1619.62
+          }
+        ]
+      }
+    ],
+    "durationMs": 33329720,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
