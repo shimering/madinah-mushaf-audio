@@ -1,0 +1,2908 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 25,
+  "surahName": "الفرقان",
+  "ayahCount": 77,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 77,
+    "mappedAyahCount": 77,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "5ZIkYmoDsKI": {
+      "durationSeconds": 1196.35,
+      "bytes": 14356915,
+      "sha256": "7016f25a3515ea804ee1c5f499d20bc1c89013ebecfc4b2b2565f277bee359e8",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_5ZIkYmoDsKI.mp3"
+    },
+    "HgvnEsf9TWE": {
+      "durationSeconds": 2609.71,
+      "bytes": 31317276,
+      "sha256": "9a4380b9941b06d465454d9ca149b4b7377d95fa2e88c45c21713f7ad2a5fd13",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_HgvnEsf9TWE.mp3"
+    },
+    "sBFP4gGSPvM": {
+      "durationSeconds": 2571.29,
+      "bytes": 30856182,
+      "sha256": "5f5c596fce21c2baf836ddbd746769056b5504baa45460e72cbb6e12b40a7593",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_sBFP4gGSPvM.mp3"
+    },
+    "owuHh_On7Go": {
+      "durationSeconds": 2684.38,
+      "bytes": 32213209,
+      "sha256": "31567452ef83326cf254b2752ff27526a1988369751b3560fab30a3659856d71",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_owuHh_On7Go.mp3"
+    },
+    "PCRAVR6uIfs": {
+      "durationSeconds": 2576.4,
+      "bytes": 30917552,
+      "sha256": "9a4dcd91a9b4499a50c11723758cf4e92480874655b003ae9b3affcd6b9c041b",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_PCRAVR6uIfs.mp3"
+    },
+    "DIUfWvQG270": {
+      "durationSeconds": 2745.82,
+      "bytes": 32950485,
+      "sha256": "ebb5b192ef87a53fabe68e074f37f8ce47c4da2d005f00345cb3c522f9f9c333",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_DIUfWvQG270.mp3"
+    },
+    "R3n8a6FUI_k": {
+      "durationSeconds": 2679.98,
+      "bytes": 32160522,
+      "sha256": "741efafa9c78fa8d255a256e8363ff732d10109dd8410c4d0fbddd2e693966c2",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_R3n8a6FUI_k.mp3"
+    },
+    "4iW8L_bth0w": {
+      "durationSeconds": 2691.86,
+      "bytes": 32303087,
+      "sha256": "3d1eab4a2632ae7adcdc7ac257899b4b15b63b77ba45a9009ab88d379f7610ea",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_4iW8L_bth0w.mp3"
+    },
+    "m_QC4AyQJdk": {
+      "durationSeconds": 2571.82,
+      "bytes": 30862531,
+      "sha256": "ad11c2ba1a5767fcdd601e6c31ee1327c9d33125c63bd567f979b795e276fee1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_m_QC4AyQJdk.mp3"
+    }
+  },
+  "ayahs": {
+    "25:1": {
+      "file": "025-الفرقان-youtube-v1/001.mp3",
+      "durationMs": 634580,
+      "bytes": 7615694,
+      "sha256": "39059dbcdba8a1b4ac2434adff8ba59f0eeb6e589246de9469a2cfa6f871975a",
+      "sharedAyahs": [
+        "25:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5ZIkYmoDsKI",
+          "start": 205.4,
+          "end": 839.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:2": {
+      "file": "025-الفرقان-youtube-v1/002.mp3",
+      "durationMs": 356380,
+      "bytes": 4277198,
+      "sha256": "0571c49b70919a786295cc78bed0b70791b41cb4d743c3aab213907b9b20469b",
+      "sharedAyahs": [
+        "25:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "5ZIkYmoDsKI",
+          "start": 839.96,
+          "end": 1196.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:3": {
+      "file": "025-الفرقان-youtube-v1/003.mp3",
+      "durationMs": 75380,
+      "bytes": 905294,
+      "sha256": "28943c964da875a5a783d39307d4f41c50216f412ea69aef3edefc9582f98874",
+      "sharedAyahs": [
+        "25:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 437.97,
+          "end": 513.32
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:4": {
+      "file": "025-الفرقان-youtube-v1/004.mp3",
+      "durationMs": 407380,
+      "bytes": 4889198,
+      "sha256": "e1284becd6e98f8ee4e5573b87faef601daedcde3b7029cdcdfbf59ec547045a",
+      "sharedAyahs": [
+        "25:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 513.32,
+          "end": 920.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:5": {
+      "file": "025-الفرقان-youtube-v1/005.mp3",
+      "durationMs": 53980,
+      "bytes": 648398,
+      "sha256": "a604d9bc2efdb300e68409a6ce6c11c6b18897dc7f29dec4e64f6d811975dc6e",
+      "sharedAyahs": [
+        "25:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 920.68,
+          "end": 974.64
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:6": {
+      "file": "025-الفرقان-youtube-v1/006.mp3",
+      "durationMs": 617740,
+      "bytes": 7413518,
+      "sha256": "a1fff325dd37bc7023ce4448a91ba6729388c1cb4e147ab3b6de73ca08efa927",
+      "sharedAyahs": [
+        "25:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 974.64,
+          "end": 1592.33
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:7": {
+      "file": "025-الفرقان-youtube-v1/007.mp3",
+      "durationMs": 95780,
+      "bytes": 1150094,
+      "sha256": "8c3d5fe29131ffb8d290172c2c5b4141b05bf44a2fb8cabb72a3869d0559f470",
+      "sharedAyahs": [
+        "25:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 1592.33,
+          "end": 1688.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:8": {
+      "file": "025-الفرقان-youtube-v1/008.mp3",
+      "durationMs": 209710,
+      "bytes": 2517230,
+      "sha256": "491f2d76317ef4caf251c2d0d820f747914ea5706c5466e1bdce4d04badc89a1",
+      "sharedAyahs": [
+        "25:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 1688.11,
+          "end": 1897.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:9": {
+      "file": "025-الفرقان-youtube-v1/009.mp3",
+      "durationMs": 39120,
+      "bytes": 470126,
+      "sha256": "125d3a328acaf70bb73d05961cd74b27c1d92592308ebaa70dce8e2b5f51d6f8",
+      "sharedAyahs": [
+        "25:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 1897.79,
+          "end": 1936.88
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:10": {
+      "file": "025-الفرقان-youtube-v1/010.mp3",
+      "durationMs": 124660,
+      "bytes": 1496560,
+      "sha256": "ff7d95a968c3e0b56d650e65955f7a105fb8a0a4932d44a614ae9378797e4b3e",
+      "sharedAyahs": [
+        "25:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 1936.88,
+          "end": 2061.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:11": {
+      "file": "025-الفرقان-youtube-v1/011.mp3",
+      "durationMs": 31060,
+      "bytes": 373360,
+      "sha256": "d0b1700240e4cdbc4a0ddc9ef7b707c73d9aa3e7078bbb18e6677be918181fc4",
+      "sharedAyahs": [
+        "25:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 2061.52,
+          "end": 2092.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:12": {
+      "file": "025-الفرقان-youtube-v1/012.mp3",
+      "durationMs": 213460,
+      "bytes": 2562160,
+      "sha256": "f49d5404c1cdffc6cce888f58e8b520f3fd7dee5646831a6fb19056d19e882f0",
+      "sharedAyahs": [
+        "25:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 2092.56,
+          "end": 2305.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:13": {
+      "file": "025-الفرقان-youtube-v1/013.mp3",
+      "durationMs": 83470,
+      "bytes": 1002352,
+      "sha256": "c63bd2e769a9b78a8211b10476fba2bdd1bff206ea04b7260c6ed04643b9080a",
+      "sharedAyahs": [
+        "25:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 2305.99,
+          "end": 2389.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:14": {
+      "file": "025-الفرقان-youtube-v1/014.mp3",
+      "durationMs": 220270,
+      "bytes": 2643952,
+      "sha256": "a76081faf68a052be6310bf9e5fb6e4991b046058adbb0ad068a11312517f208",
+      "sharedAyahs": [
+        "25:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 2389.42,
+          "end": 2609.71
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:15": {
+      "file": "025-الفرقان-youtube-v1/015.mp3",
+      "durationMs": 118970,
+      "bytes": 1428304,
+      "sha256": "aee419d60c34af02ab5bb4c2a03f4df2294ba6dd52f0c93eeb01affe87f82fb8",
+      "sharedAyahs": [
+        "25:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sBFP4gGSPvM",
+          "start": 1444.33,
+          "end": 1563.28
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:16": {
+      "file": "025-الفرقان-youtube-v1/016.mp3",
+      "durationMs": 319490,
+      "bytes": 3834544,
+      "sha256": "2d3617d1a1f7483574b0ea809f0e8d7b4bd55c4369e4e623bb36bc7f65919dad",
+      "sharedAyahs": [
+        "25:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sBFP4gGSPvM",
+          "start": 1563.28,
+          "end": 1882.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:17": {
+      "file": "025-الفرقان-youtube-v1/017.mp3",
+      "durationMs": 688540,
+      "bytes": 8263125,
+      "sha256": "2bcf7c6a00e69b2e68a7b14d03477474b267c4227fd88a6df3a8b3e2774bfa07",
+      "sharedAyahs": [
+        "25:17",
+        "25:18",
+        "25:19",
+        "25:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sBFP4gGSPvM",
+          "start": 1882.75,
+          "end": 2571.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:18": {
+      "file": "025-الفرقان-youtube-v1/017.mp3",
+      "durationMs": 688540,
+      "bytes": 8263125,
+      "sha256": "2bcf7c6a00e69b2e68a7b14d03477474b267c4227fd88a6df3a8b3e2774bfa07",
+      "sharedAyahs": [
+        "25:17",
+        "25:18",
+        "25:19",
+        "25:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sBFP4gGSPvM",
+          "start": 1882.75,
+          "end": 2571.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:19": {
+      "file": "025-الفرقان-youtube-v1/017.mp3",
+      "durationMs": 688540,
+      "bytes": 8263125,
+      "sha256": "2bcf7c6a00e69b2e68a7b14d03477474b267c4227fd88a6df3a8b3e2774bfa07",
+      "sharedAyahs": [
+        "25:17",
+        "25:18",
+        "25:19",
+        "25:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sBFP4gGSPvM",
+          "start": 1882.75,
+          "end": 2571.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:20": {
+      "file": "025-الفرقان-youtube-v1/017.mp3",
+      "durationMs": 688540,
+      "bytes": 8263125,
+      "sha256": "2bcf7c6a00e69b2e68a7b14d03477474b267c4227fd88a6df3a8b3e2774bfa07",
+      "sharedAyahs": [
+        "25:17",
+        "25:18",
+        "25:19",
+        "25:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "sBFP4gGSPvM",
+          "start": 1882.75,
+          "end": 2571.29
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:21": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:22": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:23": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:24": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:25": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:26": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:27": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:28": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:29": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:30": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:31": {
+      "file": "025-الفرقان-youtube-v1/021.mp3",
+      "durationMs": 550750,
+      "bytes": 6609717,
+      "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+      "sharedAyahs": [
+        "25:21",
+        "25:22",
+        "25:23",
+        "25:24",
+        "25:25",
+        "25:26",
+        "25:27",
+        "25:28",
+        "25:29",
+        "25:30",
+        "25:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 2127.34,
+          "end": 2678.08
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:32": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:33": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:34": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:35": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:36": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:37": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:38": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:39": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:40": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:41": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:42": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:43": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:44": {
+      "file": "025-الفرقان-youtube-v1/032.mp3",
+      "durationMs": 1106660,
+      "bytes": 13280661,
+      "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+      "sharedAyahs": [
+        "25:32",
+        "25:33",
+        "25:34",
+        "25:35",
+        "25:36",
+        "25:37",
+        "25:38",
+        "25:39",
+        "25:40",
+        "25:41",
+        "25:42",
+        "25:43",
+        "25:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 1464.51,
+          "end": 2571.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:45": {
+      "file": "025-الفرقان-youtube-v1/045.mp3",
+      "durationMs": 94560,
+      "bytes": 1135408,
+      "sha256": "70b6ee4cd5addee07521d8c76f1912cfc466a286a2368df6ea9368bda9ac8b14",
+      "sharedAyahs": [
+        "25:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 1095.43,
+          "end": 1189.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:46": {
+      "file": "025-الفرقان-youtube-v1/046.mp3",
+      "durationMs": 58660,
+      "bytes": 704560,
+      "sha256": "694a996a9e01aa9d7f46c02888705ac126003a1aa1eb1d4f25621371d47c7a19",
+      "sharedAyahs": [
+        "25:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 1189.96,
+          "end": 1248.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:47": {
+      "file": "025-الفرقان-youtube-v1/047.mp3",
+      "durationMs": 623950,
+      "bytes": 7488112,
+      "sha256": "3c4ad7e65b51f092239d99cb1ebd26e76ad6910204b41f64c7aed9ab24b2f78c",
+      "sharedAyahs": [
+        "25:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 1248.6,
+          "end": 1872.52
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:48": {
+      "file": "025-الفرقان-youtube-v1/048.mp3",
+      "durationMs": 356660,
+      "bytes": 4280656,
+      "sha256": "b29c007053b7f56f2d224bdc34f6aecce6733a635334468fc7b962d5e8a52569",
+      "sharedAyahs": [
+        "25:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 1872.52,
+          "end": 2229.15
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:49": {
+      "file": "025-الفرقان-youtube-v1/049.mp3",
+      "durationMs": 156960,
+      "bytes": 1884208,
+      "sha256": "4198ff75604c33caa7f888969fbde810d775d00025e06217553e2e9b319ac2eb",
+      "sharedAyahs": [
+        "25:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 2229.15,
+          "end": 2386.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:50": {
+      "file": "025-الفرقان-youtube-v1/050.mp3",
+      "durationMs": 82560,
+      "bytes": 991408,
+      "sha256": "31e53fac5fe6e2c5a2d196df1c15f91eaf5cdc67bc832fe048f8a29682392b1b",
+      "sharedAyahs": [
+        "25:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 2386.1,
+          "end": 2468.62
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:51": {
+      "file": "025-الفرقان-youtube-v1/051.mp3",
+      "durationMs": 173500,
+      "bytes": 2082640,
+      "sha256": "34308f7f986b8c2145797d3622f8fd850fc99ce77dd69ecb9728eaaf5a09c085",
+      "sharedAyahs": [
+        "25:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 2468.62,
+          "end": 2642.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:52": {
+      "file": "025-الفرقان-youtube-v1/052.mp3",
+      "durationMs": 100250,
+      "bytes": 1203664,
+      "sha256": "fd8f409bc206388315521bc1b8fd34cc41b578f277bc333c6407029ec1521713",
+      "sharedAyahs": [
+        "25:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 2642.1,
+          "end": 2742.33
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:53": {
+      "file": "025-الفرقان-youtube-v1/053.mp3",
+      "durationMs": 594020,
+      "bytes": 7128976,
+      "sha256": "1d7bf5608001896830e964cb6f10b62976ac70a5ee0a6b37e9523221499c9cb8",
+      "sharedAyahs": [
+        "25:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 75.84,
+          "end": 669.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:54": {
+      "file": "025-الفرقان-youtube-v1/054.mp3",
+      "durationMs": 432890,
+      "bytes": 5195344,
+      "sha256": "ca8716f413a6ad26302afa5d83ff99c8e2097a192061e0953ca0d701f2c56095",
+      "sharedAyahs": [
+        "25:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 669.84,
+          "end": 1102.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:55": {
+      "file": "025-الفرقان-youtube-v1/055.mp3",
+      "durationMs": 617880,
+      "bytes": 7415248,
+      "sha256": "0164125b23b2e072d2e10ee66d4dee48d4811c29bb96d2c9d9552133403053d2",
+      "sharedAyahs": [
+        "25:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 1102.7,
+          "end": 1720.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:56": {
+      "file": "025-الفرقان-youtube-v1/056.mp3",
+      "durationMs": 432260,
+      "bytes": 5187856,
+      "sha256": "fd03fa4c090ed68e87cb0067fa61a6b9469ccdfc7ea80fd255a7cc58614efcbd",
+      "sharedAyahs": [
+        "25:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 1720.56,
+          "end": 2152.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:57": {
+      "file": "025-الفرقان-youtube-v1/057.mp3",
+      "durationMs": 386420,
+      "bytes": 4637776,
+      "sha256": "4189ad68fb844eed63964bd96cc41e02047819ccc260c0c5b642b5ec31ac7cc2",
+      "sharedAyahs": [
+        "25:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 2152.78,
+          "end": 2539.18
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:58": {
+      "file": "025-الفرقان-youtube-v1/058.mp3",
+      "durationMs": 140780,
+      "bytes": 1690101,
+      "sha256": "45a2e7f3d9c192963a75337f203c3416c5e8255f0cc76a1e7767e266b808cdba",
+      "sharedAyahs": [
+        "25:58",
+        "25:59",
+        "25:60",
+        "25:61",
+        "25:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 2539.18,
+          "end": 2679.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:59": {
+      "file": "025-الفرقان-youtube-v1/058.mp3",
+      "durationMs": 140780,
+      "bytes": 1690101,
+      "sha256": "45a2e7f3d9c192963a75337f203c3416c5e8255f0cc76a1e7767e266b808cdba",
+      "sharedAyahs": [
+        "25:58",
+        "25:59",
+        "25:60",
+        "25:61",
+        "25:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 2539.18,
+          "end": 2679.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:60": {
+      "file": "025-الفرقان-youtube-v1/058.mp3",
+      "durationMs": 140780,
+      "bytes": 1690101,
+      "sha256": "45a2e7f3d9c192963a75337f203c3416c5e8255f0cc76a1e7767e266b808cdba",
+      "sharedAyahs": [
+        "25:58",
+        "25:59",
+        "25:60",
+        "25:61",
+        "25:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 2539.18,
+          "end": 2679.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:61": {
+      "file": "025-الفرقان-youtube-v1/058.mp3",
+      "durationMs": 140780,
+      "bytes": 1690101,
+      "sha256": "45a2e7f3d9c192963a75337f203c3416c5e8255f0cc76a1e7767e266b808cdba",
+      "sharedAyahs": [
+        "25:58",
+        "25:59",
+        "25:60",
+        "25:61",
+        "25:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 2539.18,
+          "end": 2679.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:62": {
+      "file": "025-الفرقان-youtube-v1/058.mp3",
+      "durationMs": 140780,
+      "bytes": 1690101,
+      "sha256": "45a2e7f3d9c192963a75337f203c3416c5e8255f0cc76a1e7767e266b808cdba",
+      "sharedAyahs": [
+        "25:58",
+        "25:59",
+        "25:60",
+        "25:61",
+        "25:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 2539.18,
+          "end": 2679.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:63": {
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "durationMs": 150460,
+      "bytes": 1806165,
+      "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+      "sharedAyahs": [
+        "25:63",
+        "25:64",
+        "25:65",
+        "25:66",
+        "25:67",
+        "25:68",
+        "25:69",
+        "25:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 2539.78,
+          "end": 2690.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:64": {
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "durationMs": 150460,
+      "bytes": 1806165,
+      "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+      "sharedAyahs": [
+        "25:63",
+        "25:64",
+        "25:65",
+        "25:66",
+        "25:67",
+        "25:68",
+        "25:69",
+        "25:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 2539.78,
+          "end": 2690.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:65": {
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "durationMs": 150460,
+      "bytes": 1806165,
+      "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+      "sharedAyahs": [
+        "25:63",
+        "25:64",
+        "25:65",
+        "25:66",
+        "25:67",
+        "25:68",
+        "25:69",
+        "25:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 2539.78,
+          "end": 2690.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:66": {
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "durationMs": 150460,
+      "bytes": 1806165,
+      "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+      "sharedAyahs": [
+        "25:63",
+        "25:64",
+        "25:65",
+        "25:66",
+        "25:67",
+        "25:68",
+        "25:69",
+        "25:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 2539.78,
+          "end": 2690.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:67": {
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "durationMs": 150460,
+      "bytes": 1806165,
+      "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+      "sharedAyahs": [
+        "25:63",
+        "25:64",
+        "25:65",
+        "25:66",
+        "25:67",
+        "25:68",
+        "25:69",
+        "25:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 2539.78,
+          "end": 2690.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:68": {
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "durationMs": 150460,
+      "bytes": 1806165,
+      "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+      "sharedAyahs": [
+        "25:63",
+        "25:64",
+        "25:65",
+        "25:66",
+        "25:67",
+        "25:68",
+        "25:69",
+        "25:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 2539.78,
+          "end": 2690.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:69": {
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "durationMs": 150460,
+      "bytes": 1806165,
+      "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+      "sharedAyahs": [
+        "25:63",
+        "25:64",
+        "25:65",
+        "25:66",
+        "25:67",
+        "25:68",
+        "25:69",
+        "25:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 2539.78,
+          "end": 2690.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:70": {
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "durationMs": 150460,
+      "bytes": 1806165,
+      "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+      "sharedAyahs": [
+        "25:63",
+        "25:64",
+        "25:65",
+        "25:66",
+        "25:67",
+        "25:68",
+        "25:69",
+        "25:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 2539.78,
+          "end": 2690.21
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:71": {
+      "file": "025-الفرقان-youtube-v1/071.mp3",
+      "durationMs": 40100,
+      "bytes": 481936,
+      "sha256": "343c62ae3db688851cde1b0646b363a3e51b19536e1c06a08d3a5cae1830a13d",
+      "sharedAyahs": [
+        "25:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m_QC4AyQJdk",
+          "start": 365.51,
+          "end": 405.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:72": {
+      "file": "025-الفرقان-youtube-v1/072.mp3",
+      "durationMs": 576790,
+      "bytes": 6922192,
+      "sha256": "46699cd6b911f235436abba2253c385e40b68eada82c46dd0d37b6988a8829df",
+      "sharedAyahs": [
+        "25:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m_QC4AyQJdk",
+          "start": 405.58,
+          "end": 982.35
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:73": {
+      "file": "025-الفرقان-youtube-v1/073.mp3",
+      "durationMs": 18140,
+      "bytes": 218416,
+      "sha256": "9d55713045541b8e7c16f210679c986955701a2663eed3e0898a914679e31e08",
+      "sharedAyahs": [
+        "25:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m_QC4AyQJdk",
+          "start": 982.35,
+          "end": 1000.47
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:74": {
+      "file": "025-الفرقان-youtube-v1/074.mp3",
+      "durationMs": 575040,
+      "bytes": 6901168,
+      "sha256": "9c9b24072c01b2fadf572535048caaab238ac37915b801685227f2efc535e9cc",
+      "sharedAyahs": [
+        "25:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m_QC4AyQJdk",
+          "start": 1000.47,
+          "end": 1575.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:75": {
+      "file": "025-الفرقان-youtube-v1/075.mp3",
+      "durationMs": 458950,
+      "bytes": 5508112,
+      "sha256": "5a6d2b451760b35c9b47ce3bbcb52fbb241bc58a0079de572cb2efbd22751978",
+      "sharedAyahs": [
+        "25:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m_QC4AyQJdk",
+          "start": 1575.5,
+          "end": 2034.42
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:76": {
+      "file": "025-الفرقان-youtube-v1/076.mp3",
+      "durationMs": 5520,
+      "bytes": 66928,
+      "sha256": "6161026303f5de44e517a2f6783a77db5b11c5f734847783652c38535abb7805",
+      "sharedAyahs": [
+        "25:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m_QC4AyQJdk",
+          "start": 2034.42,
+          "end": 2039.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "25:77": {
+      "file": "025-الفرقان-youtube-v1/077.mp3",
+      "durationMs": 531890,
+      "bytes": 6383344,
+      "sha256": "d3285127b3d07296af751651c36b349e853a95c1212a016467d75ba987efc3d3",
+      "sharedAyahs": [
+        "25:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "m_QC4AyQJdk",
+          "start": 2039.91,
+          "end": 2571.82
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-00.mp3",
+      "kind": "introduction",
+      "durationMs": 205440,
+      "bytes": 2465966,
+      "sha256": "524a24c91d62d42eac14b9cd5ddc900fe44797b757e002325680e587baef375c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "5ZIkYmoDsKI",
+          "start": 0.0,
+          "end": 205.4
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-03.mp3",
+      "kind": "introduction",
+      "durationMs": 438000,
+      "bytes": 5256686,
+      "sha256": "a1796f9766a6f55ad5092b8de585b7a509ca83b739a75fcfd53e4bf82a145f69",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HgvnEsf9TWE",
+          "start": 0.0,
+          "end": 437.97
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-16.mp3",
+      "kind": "introduction",
+      "durationMs": 1444370,
+      "bytes": 17333102,
+      "sha256": "94b1ed6ac7593d9bb37d69d5cda2fc21132a19bf62a0ee7e2036ba23b3ecd2f3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "sBFP4gGSPvM",
+          "start": 0.0,
+          "end": 1444.33
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-20.mp3",
+      "kind": "introduction",
+      "durationMs": 2127380,
+      "bytes": 25529294,
+      "sha256": "d25f437f63555999eb9d2b95e61cac115dc3587b99e54464b33d079bb680a09f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "owuHh_On7Go",
+          "start": 0.0,
+          "end": 2127.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-22.mp3",
+      "kind": "introduction",
+      "durationMs": 1464550,
+      "bytes": 17575310,
+      "sha256": "4eb364915a16ea24f6c6d006ddeeaa1fba2a58d48d214ddeaf24d0c16ad986a4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "PCRAVR6uIfs",
+          "start": 0.0,
+          "end": 1464.51
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-24.mp3",
+      "kind": "introduction",
+      "durationMs": 1095460,
+      "bytes": 13146158,
+      "sha256": "c54f4b5add66a0e82e5e4fa33c2bf774b9d0b083d8a406066f39b52a1eea5424",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "DIUfWvQG270",
+          "start": 0.0,
+          "end": 1095.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-33.mp3",
+      "kind": "introduction",
+      "durationMs": 75860,
+      "bytes": 911054,
+      "sha256": "92969c60b01ce080c673706e5f8cc15ab4384bfdec0ca6439a0e249a5ba0edd0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "R3n8a6FUI_k",
+          "start": 0.0,
+          "end": 75.84
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-40.mp3",
+      "kind": "introduction",
+      "durationMs": 2539820,
+      "bytes": 30478574,
+      "sha256": "9467ca1978131c9332b98bdce05ba5a5a44336e2450553b729a64afc4f56e575",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "4iW8L_bth0w",
+          "start": 0.0,
+          "end": 2539.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "025-الفرقان-youtube-v1/introduction-42.mp3",
+      "kind": "introduction",
+      "durationMs": 365540,
+      "bytes": 4387214,
+      "sha256": "b39c9ef7bd7ae53527e69ab0ab0a667708a95c67b1c6cab786c1d4034f38d57b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "m_QC4AyQJdk",
+          "start": 0.0,
+          "end": 365.51
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "furqan-barakah-and-revelation",
+      "title": "بركة تنزيل الفرقان وعظمة ملك السماوات والأرض",
+      "file": "025-الفرقان-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 634580
+    },
+    {
+      "id": "furqan-cosmic-signs-and-barzakh",
+      "title": "آيات الكون والظل والرياح والبرزخ بين البحرين",
+      "file": "025-الفرقان-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 94560
+    },
+    {
+      "id": "furqan-servants-of-the-merciful",
+      "title": "صفات عباد الرحمن وجزاء الغرفة في الجنة",
+      "file": "025-الفرقان-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 150460
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "5ZIkYmoDsKI",
+      "HgvnEsf9TWE",
+      "sBFP4gGSPvM",
+      "owuHh_On7Go",
+      "PCRAVR6uIfs",
+      "DIUfWvQG270",
+      "R3n8a6FUI_k",
+      "4iW8L_bth0w",
+      "m_QC4AyQJdk"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-00.mp3",
+        "startMs": 0,
+        "endMs": 205440,
+        "durationMs": 205440,
+        "recordingDurationMs": 205440,
+        "bytes": 2465966,
+        "sha256": "524a24c91d62d42eac14b9cd5ddc900fe44797b757e002325680e587baef375c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "5ZIkYmoDsKI",
+            "start": 0.0,
+            "end": 205.4
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 634580,
+        "durationMs": 634580,
+        "recordingDurationMs": 634580,
+        "bytes": 7615694,
+        "sha256": "39059dbcdba8a1b4ac2434adff8ba59f0eeb6e589246de9469a2cfa6f871975a",
+        "sharedAyahs": [
+          "25:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5ZIkYmoDsKI",
+            "start": 205.4,
+            "end": 839.96
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 356380,
+        "durationMs": 356380,
+        "recordingDurationMs": 356380,
+        "bytes": 4277198,
+        "sha256": "0571c49b70919a786295cc78bed0b70791b41cb4d743c3aab213907b9b20469b",
+        "sharedAyahs": [
+          "25:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "5ZIkYmoDsKI",
+            "start": 839.96,
+            "end": 1196.35
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-03.mp3",
+        "startMs": 0,
+        "endMs": 438000,
+        "durationMs": 438000,
+        "recordingDurationMs": 438000,
+        "bytes": 5256686,
+        "sha256": "a1796f9766a6f55ad5092b8de585b7a509ca83b739a75fcfd53e4bf82a145f69",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 0.0,
+            "end": 437.97
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 75380,
+        "durationMs": 75380,
+        "recordingDurationMs": 75380,
+        "bytes": 905294,
+        "sha256": "28943c964da875a5a783d39307d4f41c50216f412ea69aef3edefc9582f98874",
+        "sharedAyahs": [
+          "25:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 437.97,
+            "end": 513.32
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 407380,
+        "durationMs": 407380,
+        "recordingDurationMs": 407380,
+        "bytes": 4889198,
+        "sha256": "e1284becd6e98f8ee4e5573b87faef601daedcde3b7029cdcdfbf59ec547045a",
+        "sharedAyahs": [
+          "25:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 513.32,
+            "end": 920.68
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 53980,
+        "durationMs": 53980,
+        "recordingDurationMs": 53980,
+        "bytes": 648398,
+        "sha256": "a604d9bc2efdb300e68409a6ce6c11c6b18897dc7f29dec4e64f6d811975dc6e",
+        "sharedAyahs": [
+          "25:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 920.68,
+            "end": 974.64
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 617740,
+        "durationMs": 617740,
+        "recordingDurationMs": 617740,
+        "bytes": 7413518,
+        "sha256": "a1fff325dd37bc7023ce4448a91ba6729388c1cb4e147ab3b6de73ca08efa927",
+        "sharedAyahs": [
+          "25:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 974.64,
+            "end": 1592.33
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 95780,
+        "durationMs": 95780,
+        "recordingDurationMs": 95780,
+        "bytes": 1150094,
+        "sha256": "8c3d5fe29131ffb8d290172c2c5b4141b05bf44a2fb8cabb72a3869d0559f470",
+        "sharedAyahs": [
+          "25:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 1592.33,
+            "end": 1688.11
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 209710,
+        "durationMs": 209710,
+        "recordingDurationMs": 209710,
+        "bytes": 2517230,
+        "sha256": "491f2d76317ef4caf251c2d0d820f747914ea5706c5466e1bdce4d04badc89a1",
+        "sharedAyahs": [
+          "25:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 1688.11,
+            "end": 1897.79
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 39120,
+        "durationMs": 39120,
+        "recordingDurationMs": 39120,
+        "bytes": 470126,
+        "sha256": "125d3a328acaf70bb73d05961cd74b27c1d92592308ebaa70dce8e2b5f51d6f8",
+        "sharedAyahs": [
+          "25:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 1897.79,
+            "end": 1936.88
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 124660,
+        "durationMs": 124660,
+        "recordingDurationMs": 124660,
+        "bytes": 1496560,
+        "sha256": "ff7d95a968c3e0b56d650e65955f7a105fb8a0a4932d44a614ae9378797e4b3e",
+        "sharedAyahs": [
+          "25:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 1936.88,
+            "end": 2061.52
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 31060,
+        "durationMs": 31060,
+        "recordingDurationMs": 31060,
+        "bytes": 373360,
+        "sha256": "d0b1700240e4cdbc4a0ddc9ef7b707c73d9aa3e7078bbb18e6677be918181fc4",
+        "sharedAyahs": [
+          "25:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 2061.52,
+            "end": 2092.56
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 213460,
+        "durationMs": 213460,
+        "recordingDurationMs": 213460,
+        "bytes": 2562160,
+        "sha256": "f49d5404c1cdffc6cce888f58e8b520f3fd7dee5646831a6fb19056d19e882f0",
+        "sharedAyahs": [
+          "25:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 2092.56,
+            "end": 2305.99
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 83470,
+        "durationMs": 83470,
+        "recordingDurationMs": 83470,
+        "bytes": 1002352,
+        "sha256": "c63bd2e769a9b78a8211b10476fba2bdd1bff206ea04b7260c6ed04643b9080a",
+        "sharedAyahs": [
+          "25:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 2305.99,
+            "end": 2389.42
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 220270,
+        "durationMs": 220270,
+        "recordingDurationMs": 220270,
+        "bytes": 2643952,
+        "sha256": "a76081faf68a052be6310bf9e5fb6e4991b046058adbb0ad068a11312517f208",
+        "sharedAyahs": [
+          "25:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "HgvnEsf9TWE",
+            "start": 2389.42,
+            "end": 2609.71
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-16.mp3",
+        "startMs": 0,
+        "endMs": 1444370,
+        "durationMs": 1444370,
+        "recordingDurationMs": 1444370,
+        "bytes": 17333102,
+        "sha256": "94b1ed6ac7593d9bb37d69d5cda2fc21132a19bf62a0ee7e2036ba23b3ecd2f3",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "sBFP4gGSPvM",
+            "start": 0.0,
+            "end": 1444.33
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 118970,
+        "durationMs": 118970,
+        "recordingDurationMs": 118970,
+        "bytes": 1428304,
+        "sha256": "aee419d60c34af02ab5bb4c2a03f4df2294ba6dd52f0c93eeb01affe87f82fb8",
+        "sharedAyahs": [
+          "25:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sBFP4gGSPvM",
+            "start": 1444.33,
+            "end": 1563.28
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 319490,
+        "durationMs": 319490,
+        "recordingDurationMs": 319490,
+        "bytes": 3834544,
+        "sha256": "2d3617d1a1f7483574b0ea809f0e8d7b4bd55c4369e4e623bb36bc7f65919dad",
+        "sharedAyahs": [
+          "25:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sBFP4gGSPvM",
+            "start": 1563.28,
+            "end": 1882.75
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 688540,
+        "durationMs": 688540,
+        "recordingDurationMs": 688540,
+        "bytes": 8263125,
+        "sha256": "2bcf7c6a00e69b2e68a7b14d03477474b267c4227fd88a6df3a8b3e2774bfa07",
+        "sharedAyahs": [
+          "25:17",
+          "25:18",
+          "25:19",
+          "25:20"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "sBFP4gGSPvM",
+            "start": 1882.75,
+            "end": 2571.29
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-20.mp3",
+        "startMs": 0,
+        "endMs": 2127380,
+        "durationMs": 2127380,
+        "recordingDurationMs": 2127380,
+        "bytes": 25529294,
+        "sha256": "d25f437f63555999eb9d2b95e61cac115dc3587b99e54464b33d079bb680a09f",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "owuHh_On7Go",
+            "start": 0.0,
+            "end": 2127.34
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/021.mp3",
+        "startMs": 0,
+        "endMs": 550750,
+        "durationMs": 550750,
+        "recordingDurationMs": 550750,
+        "bytes": 6609717,
+        "sha256": "30dbb92518cc397b0da4120a41cae3ba37d6e9721fd8eeaed648dcd16b719304",
+        "sharedAyahs": [
+          "25:21",
+          "25:22",
+          "25:23",
+          "25:24",
+          "25:25",
+          "25:26",
+          "25:27",
+          "25:28",
+          "25:29",
+          "25:30",
+          "25:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "owuHh_On7Go",
+            "start": 2127.34,
+            "end": 2678.08
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-22.mp3",
+        "startMs": 0,
+        "endMs": 1464550,
+        "durationMs": 1464550,
+        "recordingDurationMs": 1464550,
+        "bytes": 17575310,
+        "sha256": "4eb364915a16ea24f6c6d006ddeeaa1fba2a58d48d214ddeaf24d0c16ad986a4",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "PCRAVR6uIfs",
+            "start": 0.0,
+            "end": 1464.51
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 1106660,
+        "durationMs": 1106660,
+        "recordingDurationMs": 1106660,
+        "bytes": 13280661,
+        "sha256": "aa651700f12f8350e163a3235c5dce9d62786e57a32d0f0da04851efc8d92fa9",
+        "sharedAyahs": [
+          "25:32",
+          "25:33",
+          "25:34",
+          "25:35",
+          "25:36",
+          "25:37",
+          "25:38",
+          "25:39",
+          "25:40",
+          "25:41",
+          "25:42",
+          "25:43",
+          "25:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "PCRAVR6uIfs",
+            "start": 1464.51,
+            "end": 2571.16
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-24.mp3",
+        "startMs": 0,
+        "endMs": 1095460,
+        "durationMs": 1095460,
+        "recordingDurationMs": 1095460,
+        "bytes": 13146158,
+        "sha256": "c54f4b5add66a0e82e5e4fa33c2bf774b9d0b083d8a406066f39b52a1eea5424",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 0.0,
+            "end": 1095.43
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 94560,
+        "durationMs": 94560,
+        "recordingDurationMs": 94560,
+        "bytes": 1135408,
+        "sha256": "70b6ee4cd5addee07521d8c76f1912cfc466a286a2368df6ea9368bda9ac8b14",
+        "sharedAyahs": [
+          "25:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 1095.43,
+            "end": 1189.96
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 58660,
+        "durationMs": 58660,
+        "recordingDurationMs": 58660,
+        "bytes": 704560,
+        "sha256": "694a996a9e01aa9d7f46c02888705ac126003a1aa1eb1d4f25621371d47c7a19",
+        "sharedAyahs": [
+          "25:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 1189.96,
+            "end": 1248.6
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 623950,
+        "durationMs": 623950,
+        "recordingDurationMs": 623950,
+        "bytes": 7488112,
+        "sha256": "3c4ad7e65b51f092239d99cb1ebd26e76ad6910204b41f64c7aed9ab24b2f78c",
+        "sharedAyahs": [
+          "25:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 1248.6,
+            "end": 1872.52
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 356660,
+        "durationMs": 356660,
+        "recordingDurationMs": 356660,
+        "bytes": 4280656,
+        "sha256": "b29c007053b7f56f2d224bdc34f6aecce6733a635334468fc7b962d5e8a52569",
+        "sharedAyahs": [
+          "25:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 1872.52,
+            "end": 2229.15
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 156960,
+        "durationMs": 156960,
+        "recordingDurationMs": 156960,
+        "bytes": 1884208,
+        "sha256": "4198ff75604c33caa7f888969fbde810d775d00025e06217553e2e9b319ac2eb",
+        "sharedAyahs": [
+          "25:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 2229.15,
+            "end": 2386.1
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 82560,
+        "durationMs": 82560,
+        "recordingDurationMs": 82560,
+        "bytes": 991408,
+        "sha256": "31e53fac5fe6e2c5a2d196df1c15f91eaf5cdc67bc832fe048f8a29682392b1b",
+        "sharedAyahs": [
+          "25:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 2386.1,
+            "end": 2468.62
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 173500,
+        "durationMs": 173500,
+        "recordingDurationMs": 173500,
+        "bytes": 2082640,
+        "sha256": "34308f7f986b8c2145797d3622f8fd850fc99ce77dd69ecb9728eaaf5a09c085",
+        "sharedAyahs": [
+          "25:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 2468.62,
+            "end": 2642.1
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 100250,
+        "durationMs": 100250,
+        "recordingDurationMs": 100250,
+        "bytes": 1203664,
+        "sha256": "fd8f409bc206388315521bc1b8fd34cc41b578f277bc333c6407029ec1521713",
+        "sharedAyahs": [
+          "25:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DIUfWvQG270",
+            "start": 2642.1,
+            "end": 2742.33
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-33.mp3",
+        "startMs": 0,
+        "endMs": 75860,
+        "durationMs": 75860,
+        "recordingDurationMs": 75860,
+        "bytes": 911054,
+        "sha256": "92969c60b01ce080c673706e5f8cc15ab4384bfdec0ca6439a0e249a5ba0edd0",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "R3n8a6FUI_k",
+            "start": 0.0,
+            "end": 75.84
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 594020,
+        "durationMs": 594020,
+        "recordingDurationMs": 594020,
+        "bytes": 7128976,
+        "sha256": "1d7bf5608001896830e964cb6f10b62976ac70a5ee0a6b37e9523221499c9cb8",
+        "sharedAyahs": [
+          "25:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R3n8a6FUI_k",
+            "start": 75.84,
+            "end": 669.84
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 432890,
+        "durationMs": 432890,
+        "recordingDurationMs": 432890,
+        "bytes": 5195344,
+        "sha256": "ca8716f413a6ad26302afa5d83ff99c8e2097a192061e0953ca0d701f2c56095",
+        "sharedAyahs": [
+          "25:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R3n8a6FUI_k",
+            "start": 669.84,
+            "end": 1102.7
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 617880,
+        "durationMs": 617880,
+        "recordingDurationMs": 617880,
+        "bytes": 7415248,
+        "sha256": "0164125b23b2e072d2e10ee66d4dee48d4811c29bb96d2c9d9552133403053d2",
+        "sharedAyahs": [
+          "25:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R3n8a6FUI_k",
+            "start": 1102.7,
+            "end": 1720.56
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 432260,
+        "durationMs": 432260,
+        "recordingDurationMs": 432260,
+        "bytes": 5187856,
+        "sha256": "fd03fa4c090ed68e87cb0067fa61a6b9469ccdfc7ea80fd255a7cc58614efcbd",
+        "sharedAyahs": [
+          "25:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R3n8a6FUI_k",
+            "start": 1720.56,
+            "end": 2152.78
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 386420,
+        "durationMs": 386420,
+        "recordingDurationMs": 386420,
+        "bytes": 4637776,
+        "sha256": "4189ad68fb844eed63964bd96cc41e02047819ccc260c0c5b642b5ec31ac7cc2",
+        "sharedAyahs": [
+          "25:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R3n8a6FUI_k",
+            "start": 2152.78,
+            "end": 2539.18
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 140780,
+        "durationMs": 140780,
+        "recordingDurationMs": 140780,
+        "bytes": 1690101,
+        "sha256": "45a2e7f3d9c192963a75337f203c3416c5e8255f0cc76a1e7767e266b808cdba",
+        "sharedAyahs": [
+          "25:58",
+          "25:59",
+          "25:60",
+          "25:61",
+          "25:62"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "R3n8a6FUI_k",
+            "start": 2539.18,
+            "end": 2679.98
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-40.mp3",
+        "startMs": 0,
+        "endMs": 2539820,
+        "durationMs": 2539820,
+        "recordingDurationMs": 2539820,
+        "bytes": 30478574,
+        "sha256": "9467ca1978131c9332b98bdce05ba5a5a44336e2450553b729a64afc4f56e575",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "4iW8L_bth0w",
+            "start": 0.0,
+            "end": 2539.78
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/063.mp3",
+        "startMs": 0,
+        "endMs": 150460,
+        "durationMs": 150460,
+        "recordingDurationMs": 150460,
+        "bytes": 1806165,
+        "sha256": "51951126a5a57fd5acb13b846ecca8d2bd6d272a65c8ea7602beb469c6b29e81",
+        "sharedAyahs": [
+          "25:63",
+          "25:64",
+          "25:65",
+          "25:66",
+          "25:67",
+          "25:68",
+          "25:69",
+          "25:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "4iW8L_bth0w",
+            "start": 2539.78,
+            "end": 2690.21
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/introduction-42.mp3",
+        "startMs": 0,
+        "endMs": 365540,
+        "durationMs": 365540,
+        "recordingDurationMs": 365540,
+        "bytes": 4387214,
+        "sha256": "b39c9ef7bd7ae53527e69ab0ab0a667708a95c67b1c6cab786c1d4034f38d57b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "m_QC4AyQJdk",
+            "start": 0.0,
+            "end": 365.51
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 40100,
+        "durationMs": 40100,
+        "recordingDurationMs": 40100,
+        "bytes": 481936,
+        "sha256": "343c62ae3db688851cde1b0646b363a3e51b19536e1c06a08d3a5cae1830a13d",
+        "sharedAyahs": [
+          "25:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "m_QC4AyQJdk",
+            "start": 365.51,
+            "end": 405.58
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 576790,
+        "durationMs": 576790,
+        "recordingDurationMs": 576790,
+        "bytes": 6922192,
+        "sha256": "46699cd6b911f235436abba2253c385e40b68eada82c46dd0d37b6988a8829df",
+        "sharedAyahs": [
+          "25:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "m_QC4AyQJdk",
+            "start": 405.58,
+            "end": 982.35
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 18140,
+        "durationMs": 18140,
+        "recordingDurationMs": 18140,
+        "bytes": 218416,
+        "sha256": "9d55713045541b8e7c16f210679c986955701a2663eed3e0898a914679e31e08",
+        "sharedAyahs": [
+          "25:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "m_QC4AyQJdk",
+            "start": 982.35,
+            "end": 1000.47
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 575040,
+        "durationMs": 575040,
+        "recordingDurationMs": 575040,
+        "bytes": 6901168,
+        "sha256": "9c9b24072c01b2fadf572535048caaab238ac37915b801685227f2efc535e9cc",
+        "sharedAyahs": [
+          "25:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "m_QC4AyQJdk",
+            "start": 1000.47,
+            "end": 1575.5
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 458950,
+        "durationMs": 458950,
+        "recordingDurationMs": 458950,
+        "bytes": 5508112,
+        "sha256": "5a6d2b451760b35c9b47ce3bbcb52fbb241bc58a0079de572cb2efbd22751978",
+        "sharedAyahs": [
+          "25:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "m_QC4AyQJdk",
+            "start": 1575.5,
+            "end": 2034.42
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 5520,
+        "durationMs": 5520,
+        "recordingDurationMs": 5520,
+        "bytes": 66928,
+        "sha256": "6161026303f5de44e517a2f6783a77db5b11c5f734847783652c38535abb7805",
+        "sharedAyahs": [
+          "25:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "m_QC4AyQJdk",
+            "start": 2034.42,
+            "end": 2039.91
+          }
+        ]
+      },
+      {
+        "file": "025-الفرقان-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 531890,
+        "durationMs": 531890,
+        "recordingDurationMs": 531890,
+        "bytes": 6383344,
+        "sha256": "d3285127b3d07296af751651c36b349e853a95c1212a016467d75ba987efc3d3",
+        "sharedAyahs": [
+          "25:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "m_QC4AyQJdk",
+            "start": 2039.91,
+            "end": 2571.82
+          }
+        ]
+      }
+    ],
+    "durationMs": 22312040,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
