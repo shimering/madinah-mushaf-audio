@@ -1,0 +1,266 @@
+#EXTM3U
+# VLC start/stop options are required; generic M3U players may ignore clipped ranges.
+#EXTINF:21.190,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=21.190
+introduction-00.mp3
+#EXTINF:1607.210,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1607.210
+001.mp3
+#EXTINF:993.430,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=993.430
+002.mp3
+#EXTINF:27.100,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=27.100
+003.mp3
+#EXTINF:643.900,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=643.900
+introduction-04.mp3
+#EXTINF:53.350,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=53.350
+004.mp3
+#EXTINF:202.320,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=202.320
+005.mp3
+#EXTINF:206.860,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=206.860
+006.mp3
+#EXTINF:23.640,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=23.640
+007.mp3
+#EXTINF:6.170,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=6.170
+008.mp3
+#EXTINF:13.490,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=13.490
+009.mp3
+#EXTINF:456.980,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=456.980
+010.mp3
+#EXTINF:855.360,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=855.360
+011.mp3
+#EXTINF:218.690,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=218.690
+012.mp3
+#EXTINF:8.280,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=8.280
+014.mp3
+#EXTINF:66.070,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=66.070
+020.mp3
+#EXTINF:39.310,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=39.310
+021.mp3
+#EXTINF:1503.500,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1503.500
+introduction-17.mp3
+#EXTINF:955.730,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=955.730
+022.mp3
+#EXTINF:180.360,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=180.360
+023.mp3
+#EXTINF:619.780,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=619.780
+introduction-20.mp3
+#EXTINF:170.620,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=170.620
+024.mp3
+#EXTINF:18.670,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=18.670
+025.mp3
+#EXTINF:404.520,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=404.520
+026.mp3
+#EXTINF:73.180,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=73.180
+027.mp3
+#EXTINF:192.790,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=192.790
+028.mp3
+#EXTINF:34.080,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=34.080
+029.mp3
+#EXTINF:1066.080,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1066.080
+030.mp3
+#EXTINF:2371.540,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=2371.540
+introduction-28.mp3
+#EXTINF:130.270,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=130.270
+032.mp3
+#EXTINF:878.020,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=878.020
+introduction-30.mp3
+#EXTINF:180.820,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=180.820
+034.mp3
+#EXTINF:1064.400,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1064.400
+035.mp3
+#EXTINF:366.380,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=366.380
+036.mp3
+#EXTINF:347.260,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=347.260
+introduction-34.mp3
+#EXTINF:286.200,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=286.200
+037.mp3
+#EXTINF:291.670,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=291.670
+038.mp3
+#EXTINF:572.980,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=572.980
+039.mp3
+#EXTINF:1012.030,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1012.030
+040.mp3
+#EXTINF:49.340,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=49.340
+041.mp3
+#EXTINF:359.830,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=359.830
+introduction-40.mp3
+#EXTINF:174.050,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=174.050
+042.mp3
+#EXTINF:364.940,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=364.940
+043.mp3
+#EXTINF:255.960,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=255.960
+044.mp3
+#EXTINF:377.300,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=377.300
+045.mp3
+#EXTINF:675.860,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=675.860
+046.mp3
+#EXTINF:58.130,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=58.130
+047.mp3
+#EXTINF:13.180,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=13.180
+048.mp3
+#EXTINF:42.070,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=42.070
+049.mp3
+#EXTINF:146.450,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=146.450
+050.mp3
+#EXTINF:146.880,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=146.880
+051.mp3
+#EXTINF:409.920,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=409.920
+introduction-51.mp3
+#EXTINF:30.530,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=30.530
+052.mp3
+#EXTINF:249.050,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=249.050
+053.mp3
+#EXTINF:646.920,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=646.920
+054.mp3
+#EXTINF:1152.410,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=1152.410
+055.mp3
+#EXTINF:114.600,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=114.600
+056.mp3
+#EXTINF:622.270,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=622.270
+057.mp3
+#EXTINF:690.840,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=690.840
+058.mp3
+#EXTINF:305.660,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=305.660
+059.mp3
+#EXTINF:119.470,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=119.470
+060.mp3
+#EXTINF:668.760,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=668.760
+061.mp3
+#EXTINF:257.020,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=257.020
+062.mp3
+#EXTINF:29.350,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=29.350
+introduction-63.mp3
+#EXTINF:865.820,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=865.820
+063.mp3
+#EXTINF:569.570,خواطر سورة النور
+#EXTVLCOPT:start-time=0.000
+#EXTVLCOPT:stop-time=569.570
+064.mp3

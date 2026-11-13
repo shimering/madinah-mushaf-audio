@@ -1,0 +1,1250 @@
+{
+  "schemaVersion": 2,
+  "surah": 24,
+  "mode": "reused-clips",
+  "durationMs": 27560410,
+  "tracks": [
+    {
+      "file": "024-النور-youtube-v1/introduction-00.mp3",
+      "startMs": 0,
+      "endMs": 21190,
+      "durationMs": 21190,
+      "recordingDurationMs": 21190,
+      "bytes": 254982,
+      "sha256": "f5a333036fb6e20f04e6e5529cc32d88a84e6b1f7fc7b13ad01720f63caabe87",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "x0B5NNj4qG8",
+          "start": 0.0,
+          "end": 21.16
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 1607210,
+      "durationMs": 1607210,
+      "recordingDurationMs": 1607210,
+      "bytes": 19287174,
+      "sha256": "8ce4da2df848168fc808024229f8bf36652516f3e35772b861646ee79a7b56e4",
+      "sharedAyahs": [
+        "24:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x0B5NNj4qG8",
+          "start": 21.16,
+          "end": 1628.33
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 993430,
+      "durationMs": 993430,
+      "recordingDurationMs": 993430,
+      "bytes": 11921862,
+      "sha256": "5c0edaccce1270890026c4d170c3200eb45391ed5b79835d1293b9ab967fc1e3",
+      "sharedAyahs": [
+        "24:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x0B5NNj4qG8",
+          "start": 1628.33,
+          "end": 2621.74
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 27100,
+      "durationMs": 27100,
+      "recordingDurationMs": 27100,
+      "bytes": 325830,
+      "sha256": "0a18932b31aa631854527e4b8d4cd3c78047d0e2bbaa624058f4578a06e0aa4f",
+      "sharedAyahs": [
+        "24:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "x0B5NNj4qG8",
+          "start": 2621.74,
+          "end": 2648.86
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-04.mp3",
+      "startMs": 0,
+      "endMs": 643900,
+      "durationMs": 643900,
+      "recordingDurationMs": 643900,
+      "bytes": 7727430,
+      "sha256": "5e6814418c868c26448e2fb2fda33c37c43955216d6b713b766e9254fc7a4169",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 0.0,
+          "end": 643.86
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 53350,
+      "durationMs": 53350,
+      "recordingDurationMs": 53350,
+      "bytes": 640902,
+      "sha256": "85ab051dcf8779ee9c169e23cc9d3181f3879bab13dbe645ce11b2bab52dfd03",
+      "sharedAyahs": [
+        "24:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 643.86,
+          "end": 697.19
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 202320,
+      "durationMs": 202320,
+      "recordingDurationMs": 202320,
+      "bytes": 2428518,
+      "sha256": "2069ade0861d34a7f10f9f794dfa1bc7a9f3c8a9d82d0e79e2d5b041b43958db",
+      "sharedAyahs": [
+        "24:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 697.19,
+          "end": 899.49
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 206860,
+      "durationMs": 206860,
+      "recordingDurationMs": 206860,
+      "bytes": 2482950,
+      "sha256": "125fafa5e099ace60426a25ee5e1c33503aa910542dd516d7c7bfccd8ec95a77",
+      "sharedAyahs": [
+        "24:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 899.49,
+          "end": 1106.31
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 23640,
+      "durationMs": 23640,
+      "recordingDurationMs": 23640,
+      "bytes": 284358,
+      "sha256": "492a55125038ee8802313459b9fe4def3f98e73407d1c6371e2f6fed8d951502",
+      "sharedAyahs": [
+        "24:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 1106.31,
+          "end": 1129.93
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 6170,
+      "durationMs": 6170,
+      "recordingDurationMs": 6170,
+      "bytes": 74694,
+      "sha256": "563039ee8bd0bb35293c5e028b94de79a818040aa4e982db87c787213ec8a0bf",
+      "sharedAyahs": [
+        "24:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 1129.93,
+          "end": 1136.07
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 13490,
+      "durationMs": 13490,
+      "recordingDurationMs": 13490,
+      "bytes": 162534,
+      "sha256": "0841d2deb6514cfb72ebb41cee231b063bda8b248c6680c0ccaa3fcd9738b7d7",
+      "sharedAyahs": [
+        "24:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 1136.07,
+          "end": 1149.53
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 456980,
+      "durationMs": 456980,
+      "recordingDurationMs": 456980,
+      "bytes": 5484488,
+      "sha256": "5b990323ae46e35a85be2a9acfbfefa170e2c6f074b64f821ae7914e91c43ff9",
+      "sharedAyahs": [
+        "24:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 1149.53,
+          "end": 1606.49
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 855360,
+      "durationMs": 855360,
+      "recordingDurationMs": 855360,
+      "bytes": 10265000,
+      "sha256": "b6959d195c006a8111a23206bbc2a3e20fae07f1ccbbc2159078be2b3c43278e",
+      "sharedAyahs": [
+        "24:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 1606.49,
+          "end": 2461.83
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 218690,
+      "durationMs": 218690,
+      "recordingDurationMs": 218690,
+      "bytes": 2624941,
+      "sha256": "f77cef4a424dc1451aab67bab44543b967ee8855238103214113c7393081697c",
+      "sharedAyahs": [
+        "24:12",
+        "24:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 2461.83,
+          "end": 2680.5
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 8280,
+      "durationMs": 8280,
+      "recordingDurationMs": 8280,
+      "bytes": 100045,
+      "sha256": "dcc81bfb2dc528bd26b99f9d4c42253cc209c609466b06fa2dc1397eaea90f5c",
+      "sharedAyahs": [
+        "24:14",
+        "24:15",
+        "24:16",
+        "24:17",
+        "24:18",
+        "24:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 2680.5,
+          "end": 2688.76
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 66070,
+      "durationMs": 66070,
+      "recordingDurationMs": 66070,
+      "bytes": 793544,
+      "sha256": "8368932a283857306c81cbc437a287fc02ccfc706066ee3a0500114594041669",
+      "sharedAyahs": [
+        "24:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 2688.76,
+          "end": 2754.8
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 39310,
+      "durationMs": 39310,
+      "recordingDurationMs": 39310,
+      "bytes": 472424,
+      "sha256": "e9fc8b2ec1916cd78b24c975cb64482d196c576ead7bd96b831d2e8acb7d7741",
+      "sharedAyahs": [
+        "24:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VA7i4kcfTtY",
+          "start": 2754.8,
+          "end": 2794.13
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-17.mp3",
+      "startMs": 0,
+      "endMs": 1503500,
+      "durationMs": 1503500,
+      "recordingDurationMs": 1503500,
+      "bytes": 18042726,
+      "sha256": "15def7aff4712782975313a2a0d6d66728730dd8d1590c46b268a1ced3cdded9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "wKTkZRwro7E",
+          "start": 0.0,
+          "end": 1503.46
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 955730,
+      "durationMs": 955730,
+      "recordingDurationMs": 955730,
+      "bytes": 11469416,
+      "sha256": "039464d9bdd52df2b5e18ebd717e9942cfc51df287a35ee23ce19c1603b623b1",
+      "sharedAyahs": [
+        "24:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "wKTkZRwro7E",
+          "start": 1503.46,
+          "end": 2459.17
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 180360,
+      "durationMs": 180360,
+      "recordingDurationMs": 180360,
+      "bytes": 2165000,
+      "sha256": "5a9b26604769a3f1643b7bebfc8ba01a096a07cc5b2c9e997b7e9894803c794f",
+      "sharedAyahs": [
+        "24:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "wKTkZRwro7E",
+          "start": 2459.17,
+          "end": 2639.54
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-20.mp3",
+      "startMs": 0,
+      "endMs": 619780,
+      "durationMs": 619780,
+      "recordingDurationMs": 619780,
+      "bytes": 7437990,
+      "sha256": "b0d2d9e3e6da1a2036bd481f89d6b991caed317aa59f9900650fb4c68daaf905",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Kx3cxkngFHQ",
+          "start": 0.0,
+          "end": 619.73
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 170620,
+      "durationMs": 170620,
+      "recordingDurationMs": 170620,
+      "bytes": 2048072,
+      "sha256": "8a9245a35529f782cf5dbee4ab3a8de29ba87f28ad77f34703f1d7ca5bfd0b3e",
+      "sharedAyahs": [
+        "24:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Kx3cxkngFHQ",
+          "start": 619.73,
+          "end": 790.34
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/025.mp3",
+      "startMs": 0,
+      "endMs": 18670,
+      "durationMs": 18670,
+      "recordingDurationMs": 18670,
+      "bytes": 224744,
+      "sha256": "55936198fce9f19a0931cda6920aa28da09a50537d6f9ed24195ecd28ea59112",
+      "sharedAyahs": [
+        "24:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Kx3cxkngFHQ",
+          "start": 790.34,
+          "end": 808.98
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 404520,
+      "durationMs": 404520,
+      "recordingDurationMs": 404520,
+      "bytes": 4854920,
+      "sha256": "61399bae35f7eaf869fa0a326705522aa213c90f5fa414a658090667d00f9526",
+      "sharedAyahs": [
+        "24:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Kx3cxkngFHQ",
+          "start": 808.98,
+          "end": 1213.48
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 73180,
+      "durationMs": 73180,
+      "recordingDurationMs": 73180,
+      "bytes": 878792,
+      "sha256": "d64a16c0118906e0963abcde77a476c5ef1c2b922a112341769b274aaffdda2e",
+      "sharedAyahs": [
+        "24:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Kx3cxkngFHQ",
+          "start": 1213.48,
+          "end": 1286.64
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 192790,
+      "durationMs": 192790,
+      "recordingDurationMs": 192790,
+      "bytes": 2314184,
+      "sha256": "07dcc152fcab72348831f792337650621bde4faa165b84686f392d3da29e9a64",
+      "sharedAyahs": [
+        "24:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Kx3cxkngFHQ",
+          "start": 1286.64,
+          "end": 1479.4
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 34080,
+      "durationMs": 34080,
+      "recordingDurationMs": 34080,
+      "bytes": 409640,
+      "sha256": "ab25edfe3b1b420b5e665f308d2aa8aadb3884b461ede169c5d4d01df2399595",
+      "sharedAyahs": [
+        "24:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Kx3cxkngFHQ",
+          "start": 1479.4,
+          "end": 1513.45
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 1066080,
+      "durationMs": 1066080,
+      "recordingDurationMs": 1066080,
+      "bytes": 12793645,
+      "sha256": "661990c386a4236680a2b119c4a07435fab1f03f248e3b1a7c3c21e7bca0a1c0",
+      "sharedAyahs": [
+        "24:30",
+        "24:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Kx3cxkngFHQ",
+          "start": 1513.45,
+          "end": 2579.5
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-28.mp3",
+      "startMs": 0,
+      "endMs": 2371540,
+      "durationMs": 2371540,
+      "recordingDurationMs": 2371540,
+      "bytes": 28459110,
+      "sha256": "18ca7cef6035fc0b33f1dc0e69a985dc4f02377f8fab6c9c61f053ef9b66340f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "H1Y-EYxCMCk",
+          "start": 0.0,
+          "end": 2371.5
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 130270,
+      "durationMs": 130270,
+      "recordingDurationMs": 130270,
+      "bytes": 1563949,
+      "sha256": "bbd9a77ecd70c3b4ab7b06becc24c0714fc87b6649550e99f3a314ede4c8b4e2",
+      "sharedAyahs": [
+        "24:32",
+        "24:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "H1Y-EYxCMCk",
+          "start": 2371.5,
+          "end": 2501.78
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-30.mp3",
+      "startMs": 0,
+      "endMs": 878020,
+      "durationMs": 878020,
+      "recordingDurationMs": 878020,
+      "bytes": 10536870,
+      "sha256": "921602aad8813962e1e2c84d09762e990bf6f60e0148e766c345546372f23005",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "92l6As7C7OE",
+          "start": 0.0,
+          "end": 877.97
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/034.mp3",
+      "startMs": 0,
+      "endMs": 180820,
+      "durationMs": 180820,
+      "recordingDurationMs": 180820,
+      "bytes": 2170472,
+      "sha256": "0b6cd7c8eb26343db48740b210d3e6486ebf66a483322dc500b4c667a937c654",
+      "sharedAyahs": [
+        "24:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "92l6As7C7OE",
+          "start": 877.97,
+          "end": 1058.77
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 1064400,
+      "durationMs": 1064400,
+      "recordingDurationMs": 1064400,
+      "bytes": 12773480,
+      "sha256": "4669ea89863b929ecb76826fb0f920b2a70433e644f763066fabce14b057d896",
+      "sharedAyahs": [
+        "24:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "92l6As7C7OE",
+          "start": 1058.77,
+          "end": 2123.16
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 366380,
+      "durationMs": 366380,
+      "recordingDurationMs": 366380,
+      "bytes": 4397288,
+      "sha256": "3ca8cff9b4e61346f985ece500d02d6cdf0f2aa0924063073d0cb0e8cf6409b8",
+      "sharedAyahs": [
+        "24:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "92l6As7C7OE",
+          "start": 2123.16,
+          "end": 2489.54
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-34.mp3",
+      "startMs": 0,
+      "endMs": 347260,
+      "durationMs": 347260,
+      "recordingDurationMs": 347260,
+      "bytes": 4167750,
+      "sha256": "99f1da27741581b95c5e0df21257590c9cf6c6dff35cd9910c63ea0db37e5639",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "23l1s7ZlLYg",
+          "start": 0.0,
+          "end": 347.22
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 286200,
+      "durationMs": 286200,
+      "recordingDurationMs": 286200,
+      "bytes": 3435080,
+      "sha256": "3e4b7ce8b44b7c74279f3ee9534fb634ac2cf85e2ed954c8c18b33eab0f64dfd",
+      "sharedAyahs": [
+        "24:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "23l1s7ZlLYg",
+          "start": 347.22,
+          "end": 633.39
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 291670,
+      "durationMs": 291670,
+      "recordingDurationMs": 291670,
+      "bytes": 3500744,
+      "sha256": "2706932c25a17ac29e28e9f789ecd6bb56be687ab66d953b808e4085663b8735",
+      "sharedAyahs": [
+        "24:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "23l1s7ZlLYg",
+          "start": 633.39,
+          "end": 925.04
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 572980,
+      "durationMs": 572980,
+      "recordingDurationMs": 572980,
+      "bytes": 6876392,
+      "sha256": "4ce98c839d46f3e4524e8d7139a468b640d415346f49b218c192ab0b514c07cc",
+      "sharedAyahs": [
+        "24:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "23l1s7ZlLYg",
+          "start": 925.04,
+          "end": 1498.0
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 1012030,
+      "durationMs": 1012030,
+      "recordingDurationMs": 1012030,
+      "bytes": 12145064,
+      "sha256": "c11a27f0d1826e3c4eff3fe609361382f161ae1497ab72694c40bac9749148f1",
+      "sharedAyahs": [
+        "24:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "23l1s7ZlLYg",
+          "start": 1498.0,
+          "end": 2510.0
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 49340,
+      "durationMs": 49340,
+      "recordingDurationMs": 49340,
+      "bytes": 592808,
+      "sha256": "f64659e8d0edf59bebd7d653b8d3651d3ef1817d31a818f7a68141b2e1e06da0",
+      "sharedAyahs": [
+        "24:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "23l1s7ZlLYg",
+          "start": 2510.0,
+          "end": 2559.36
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-40.mp3",
+      "startMs": 0,
+      "endMs": 359830,
+      "durationMs": 359830,
+      "recordingDurationMs": 359830,
+      "bytes": 4318662,
+      "sha256": "044003949478fb941daf856894ab46b0fbec68ce2e1d9d96ccac27edd710dd1e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 0.0,
+          "end": 359.79
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 174050,
+      "durationMs": 174050,
+      "recordingDurationMs": 174050,
+      "bytes": 2089256,
+      "sha256": "5be4e14193be54e0d5c18589884b9722649f212bf47f680138ad6d0e2a5e1a89",
+      "sharedAyahs": [
+        "24:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 359.79,
+          "end": 533.83
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 364940,
+      "durationMs": 364940,
+      "recordingDurationMs": 364940,
+      "bytes": 4380008,
+      "sha256": "2816816c6dcf1bbe14ec6bbe117e9ecac697a45a0096f38472b15fb8a555d0fb",
+      "sharedAyahs": [
+        "24:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 533.83,
+          "end": 898.74
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 255960,
+      "durationMs": 255960,
+      "recordingDurationMs": 255960,
+      "bytes": 3072200,
+      "sha256": "68434e266e1febac4463295300c2ab76850c6f20858e096e68dc1f9e91f45172",
+      "sharedAyahs": [
+        "24:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 898.74,
+          "end": 1154.67
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 377300,
+      "durationMs": 377300,
+      "recordingDurationMs": 377300,
+      "bytes": 4528328,
+      "sha256": "9da3da135f05ef6579b4648f03eb123d80ac1f27de18f82eb822638ed88d211c",
+      "sharedAyahs": [
+        "24:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 1154.67,
+          "end": 1531.95
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 675860,
+      "durationMs": 675860,
+      "recordingDurationMs": 675860,
+      "bytes": 8111048,
+      "sha256": "77e13c9d4a9c76df77a95a999ee00cada116ec81abb30ae12a4e6119c88dd4e2",
+      "sharedAyahs": [
+        "24:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 1531.95,
+          "end": 2207.79
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 58130,
+      "durationMs": 58130,
+      "recordingDurationMs": 58130,
+      "bytes": 698216,
+      "sha256": "3ec93c01e6b3bf5a241c49656b68ce6e95ecbcf8f4a547659ce5debfc9875c01",
+      "sharedAyahs": [
+        "24:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 2207.79,
+          "end": 2265.9
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 13180,
+      "durationMs": 13180,
+      "recordingDurationMs": 13180,
+      "bytes": 158792,
+      "sha256": "7315f221412e23455e5f77194aef2e7a3972723f47a93d06ed2128e3db2458e2",
+      "sharedAyahs": [
+        "24:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 2265.9,
+          "end": 2279.06
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 42070,
+      "durationMs": 42070,
+      "recordingDurationMs": 42070,
+      "bytes": 505544,
+      "sha256": "ad84dbec80ba26f8db8ad3435e912582b23e9e404e0fde96004fe00acda218a2",
+      "sharedAyahs": [
+        "24:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 2279.06,
+          "end": 2321.09
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 146450,
+      "durationMs": 146450,
+      "recordingDurationMs": 146450,
+      "bytes": 1758056,
+      "sha256": "7cfccee3ad239e7b53a1abdf3b0b2c9cc348d6a7f806849d090f1aec59f75549",
+      "sharedAyahs": [
+        "24:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 2321.09,
+          "end": 2467.53
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 146880,
+      "durationMs": 146880,
+      "recordingDurationMs": 146880,
+      "bytes": 1763240,
+      "sha256": "8898fd64d60590b7319864768611ca8c85d73372f21f837f4b329c164fd51afa",
+      "sharedAyahs": [
+        "24:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "A4kCFuXh9dI",
+          "start": 2467.53,
+          "end": 2614.42
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-51.mp3",
+      "startMs": 0,
+      "endMs": 409920,
+      "durationMs": 409920,
+      "recordingDurationMs": 409920,
+      "bytes": 4919718,
+      "sha256": "f24c99213c9e32eb6e9ef0c12ee2f62aeecbd9c8314be6a7c4a36fb38b7ed647",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kRRWhBkeD_Q",
+          "start": 0.0,
+          "end": 409.88
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 30530,
+      "durationMs": 30530,
+      "recordingDurationMs": 30530,
+      "bytes": 367016,
+      "sha256": "d8e53ba361174158ae953cd5cec6910727d4c633d718fb49d74d9e98db00d0d7",
+      "sharedAyahs": [
+        "24:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kRRWhBkeD_Q",
+          "start": 409.88,
+          "end": 440.38
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 249050,
+      "durationMs": 249050,
+      "recordingDurationMs": 249050,
+      "bytes": 2989256,
+      "sha256": "6de8e8031110e84a7bd1861e67e7b7acb282ff50ea8186d15339eac23f3a959d",
+      "sharedAyahs": [
+        "24:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kRRWhBkeD_Q",
+          "start": 440.38,
+          "end": 689.42
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/054.mp3",
+      "startMs": 0,
+      "endMs": 646920,
+      "durationMs": 646920,
+      "recordingDurationMs": 646920,
+      "bytes": 7763720,
+      "sha256": "cef4f2ee4b7bec1817e4a86aa999c4b9b0e6cc8733325ee5eabf9f4afe7c12ef",
+      "sharedAyahs": [
+        "24:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kRRWhBkeD_Q",
+          "start": 689.42,
+          "end": 1336.3
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/055.mp3",
+      "startMs": 0,
+      "endMs": 1152410,
+      "durationMs": 1152410,
+      "recordingDurationMs": 1152410,
+      "bytes": 13829576,
+      "sha256": "342dab0b99d6be0d77ee76e2c63fa494e9006bc208649bd5b03917cfd1522bfe",
+      "sharedAyahs": [
+        "24:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kRRWhBkeD_Q",
+          "start": 1336.3,
+          "end": 2488.7
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 114600,
+      "durationMs": 114600,
+      "recordingDurationMs": 114600,
+      "bytes": 1375880,
+      "sha256": "6b077fc3ba84fea3e603c674bdf08fe1810414e2767f461849e54ce430ed9754",
+      "sharedAyahs": [
+        "24:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kRRWhBkeD_Q",
+          "start": 2488.7,
+          "end": 2603.3
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/057.mp3",
+      "startMs": 0,
+      "endMs": 622270,
+      "durationMs": 622270,
+      "recordingDurationMs": 622270,
+      "bytes": 7467944,
+      "sha256": "c5cbc278a8c1e41fd909a83aa5e8daca98f260d4859e3b09f36e19bee8585b49",
+      "sharedAyahs": [
+        "24:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RQd3ppQUvF8",
+          "start": 0.0,
+          "end": 622.24
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/058.mp3",
+      "startMs": 0,
+      "endMs": 690840,
+      "durationMs": 690840,
+      "recordingDurationMs": 690840,
+      "bytes": 8290760,
+      "sha256": "8dce67f92513826139170cb107389ba1da0130eebb6852340f0601ad3f85b9ae",
+      "sharedAyahs": [
+        "24:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RQd3ppQUvF8",
+          "start": 622.24,
+          "end": 1313.06
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 305660,
+      "durationMs": 305660,
+      "recordingDurationMs": 305660,
+      "bytes": 3668648,
+      "sha256": "dc1295dabaa4648eea1226627fda95ce6599a6d092a44e29e78ba85b5ee5dd19",
+      "sharedAyahs": [
+        "24:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RQd3ppQUvF8",
+          "start": 1313.06,
+          "end": 1618.7
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/060.mp3",
+      "startMs": 0,
+      "endMs": 119470,
+      "durationMs": 119470,
+      "recordingDurationMs": 119470,
+      "bytes": 1434344,
+      "sha256": "3efb60600d7f73a014ba798bb9fea4ffe2a0b51a2bdeedd745e6562e3032ec8e",
+      "sharedAyahs": [
+        "24:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RQd3ppQUvF8",
+          "start": 1618.7,
+          "end": 1738.13
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/061.mp3",
+      "startMs": 0,
+      "endMs": 668760,
+      "durationMs": 668760,
+      "recordingDurationMs": 668760,
+      "bytes": 8025800,
+      "sha256": "eb8e53f4c0540c664a8b4b2250ef0b18b432b0f8927be16f53551458bed8fae4",
+      "sharedAyahs": [
+        "24:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RQd3ppQUvF8",
+          "start": 1738.13,
+          "end": 2406.87
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/062.mp3",
+      "startMs": 0,
+      "endMs": 257020,
+      "durationMs": 257020,
+      "recordingDurationMs": 257020,
+      "bytes": 3084872,
+      "sha256": "98a75d9c681fac8bcf43cfb30a253c0f53ba6feaa90ea5658b2b7c64c08b53e2",
+      "sharedAyahs": [
+        "24:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "RQd3ppQUvF8",
+          "start": 2406.87,
+          "end": 2663.9
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/introduction-63.mp3",
+      "startMs": 0,
+      "endMs": 29350,
+      "durationMs": 29350,
+      "recordingDurationMs": 29350,
+      "bytes": 352902,
+      "sha256": "3240f5cc1c314662be04b7f17760da9add1c4d1bc6cad4680293010bd3f96b16",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "iB2fPaurG0s",
+          "start": 0.0,
+          "end": 29.31
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 865820,
+      "durationMs": 865820,
+      "recordingDurationMs": 865820,
+      "bytes": 10390568,
+      "sha256": "c2d65a6380ba82869dd6d843fe255f0b80dd1d959d8d93d7badc3fe329059340",
+      "sharedAyahs": [
+        "24:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "iB2fPaurG0s",
+          "start": 29.31,
+          "end": 895.12
+        }
+      ]
+    },
+    {
+      "file": "024-النور-youtube-v1/064.mp3",
+      "startMs": 0,
+      "endMs": 569570,
+      "durationMs": 569570,
+      "recordingDurationMs": 569570,
+      "bytes": 6835496,
+      "sha256": "83023af68bb0d24cac9513b05a5ef19c52ca88feb16c335959138b3bd031eda2",
+      "sharedAyahs": [
+        "24:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "iB2fPaurG0s",
+          "start": 895.12,
+          "end": 1464.7
+        }
+      ]
+    }
+  ]
+}
