@@ -1,0 +1,3497 @@
+{
+  "schemaVersion": 2,
+  "surah": 26,
+  "mode": "reused-clips",
+  "durationMs": 30491200,
+  "tracks": [
+    {
+      "file": "026-الشعراء-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 241460,
+      "durationMs": 241460,
+      "recordingDurationMs": 241460,
+      "bytes": 2898254,
+      "sha256": "32721200ee7f2c8d88e34b1c8696b58647de2f194ecbc0d9a445ca064146344e",
+      "sharedAyahs": [
+        "26:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NaZQUXke4BU",
+          "start": 0.0,
+          "end": 241.42
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 21530,
+      "durationMs": 21530,
+      "recordingDurationMs": 21530,
+      "bytes": 259022,
+      "sha256": "344d5be47233af094d80063eb58abb79ef2259d43a12adc3d3f07308da8ac608",
+      "sharedAyahs": [
+        "26:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NaZQUXke4BU",
+          "start": 241.42,
+          "end": 262.93
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 143710,
+      "durationMs": 143710,
+      "recordingDurationMs": 143710,
+      "bytes": 1725230,
+      "sha256": "bd7546b367b4e410d7861fc64335906e35f9d939f8d8bb665ce30fd872bad0f4",
+      "sharedAyahs": [
+        "26:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "NaZQUXke4BU",
+          "start": 262.93,
+          "end": 406.66
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-03.mp3",
+      "startMs": 0,
+      "endMs": 193800,
+      "durationMs": 193800,
+      "recordingDurationMs": 193800,
+      "bytes": 2326286,
+      "sha256": "96446ae062e345ebd30ea9db902637a75b4cad0d4152a9dd105e6da638a6e791",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 0.0,
+          "end": 193.77
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 270860,
+      "durationMs": 270860,
+      "recordingDurationMs": 270860,
+      "bytes": 3251054,
+      "sha256": "9780343ce23ca60724e3254f4035ec088a8cef0f103870a90a816c7722d317e1",
+      "sharedAyahs": [
+        "26:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 193.77,
+          "end": 464.6
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 164350,
+      "durationMs": 164350,
+      "recordingDurationMs": 164350,
+      "bytes": 1972910,
+      "sha256": "3ebc6acddde6f46ae39bfbe1413c029c413e003390ae6613e2abfa3b76af2b21",
+      "sharedAyahs": [
+        "26:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 464.6,
+          "end": 628.93
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 402100,
+      "durationMs": 402100,
+      "recordingDurationMs": 402100,
+      "bytes": 4825838,
+      "sha256": "9d84b45589e62b9fe9a38a3fecef868c0ff984d001e312d39e6049163ca43b87",
+      "sharedAyahs": [
+        "26:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 628.93,
+          "end": 1031.0
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 484490,
+      "durationMs": 484490,
+      "recordingDurationMs": 484490,
+      "bytes": 5814542,
+      "sha256": "f6798a6584621fe0ecf5010510f86b1af163b954749990256e5e1d93af3e945d",
+      "sharedAyahs": [
+        "26:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 1031.0,
+          "end": 1515.48
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 130900,
+      "durationMs": 130900,
+      "recordingDurationMs": 130900,
+      "bytes": 1571438,
+      "sha256": "611f6e42313ed7f9830730bdc631711e5f6f2acb7f1d6eeb97d2cb9045fe3ec5",
+      "sharedAyahs": [
+        "26:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 1515.48,
+          "end": 1646.34
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 319180,
+      "durationMs": 319180,
+      "recordingDurationMs": 319180,
+      "bytes": 3830798,
+      "sha256": "b376b3166acf1d44bcd4ef4f977f263f24f45a180da92a74a871656fb49ec5a2",
+      "sharedAyahs": [
+        "26:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 1646.34,
+          "end": 1965.49
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 219550,
+      "durationMs": 219550,
+      "recordingDurationMs": 219550,
+      "bytes": 2635312,
+      "sha256": "f3e0421c30c0f54cd166cf84dda4da90851ea84a0aea0940449784f9ab6bb3e9",
+      "sharedAyahs": [
+        "26:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 1965.49,
+          "end": 2185.02
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 92690,
+      "durationMs": 92690,
+      "recordingDurationMs": 92690,
+      "bytes": 1112944,
+      "sha256": "577786ab0b37c40c3fa28bf00e1a2e64615f901e6866ad801886d63e50474de0",
+      "sharedAyahs": [
+        "26:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 2185.02,
+          "end": 2277.68
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 172970,
+      "durationMs": 172970,
+      "recordingDurationMs": 172970,
+      "bytes": 2076304,
+      "sha256": "5a94c371102447ef9f4f26523ebb6de54aa6c6e5bd00d27b5d3fbae032c3d5ac",
+      "sharedAyahs": [
+        "26:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 2277.68,
+          "end": 2450.64
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 214700,
+      "durationMs": 214700,
+      "recordingDurationMs": 214700,
+      "bytes": 2577136,
+      "sha256": "a5a9e3538d0a04d37459f2709d5207a0a53ed3263e8c7813995525af2dd81e3a",
+      "sharedAyahs": [
+        "26:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 2450.64,
+          "end": 2665.32
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 91680,
+      "durationMs": 91680,
+      "recordingDurationMs": 91680,
+      "bytes": 1100853,
+      "sha256": "d711b147d30a0cec3d88fe35532e0499f49e66c28fe0990137685fb96e070cd2",
+      "sharedAyahs": [
+        "26:14",
+        "26:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "mX8SdIkL14A",
+          "start": 2665.32,
+          "end": 2757.0
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-15.mp3",
+      "startMs": 0,
+      "endMs": 458540,
+      "durationMs": 458540,
+      "recordingDurationMs": 458540,
+      "bytes": 5503214,
+      "sha256": "c88c2c3cd9ef126909e3b05671d4ed237e845e72ff40f743513e3b5594925518",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 0.0,
+          "end": 458.52
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 38930,
+      "durationMs": 38930,
+      "recordingDurationMs": 38930,
+      "bytes": 467824,
+      "sha256": "407b8c6bf6c5fe198c9d30fde04994a6073f54987a4fe3423263177ab6e3fb2d",
+      "sharedAyahs": [
+        "26:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 458.52,
+          "end": 497.41
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 319540,
+      "durationMs": 319540,
+      "recordingDurationMs": 319540,
+      "bytes": 3835120,
+      "sha256": "b3a215de369b464572111a69deb68cee3e1ddf4996ba2853186983673b6458ee",
+      "sharedAyahs": [
+        "26:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 497.41,
+          "end": 816.93
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 31010,
+      "durationMs": 31010,
+      "recordingDurationMs": 31010,
+      "bytes": 372784,
+      "sha256": "94d0292121a63c6c7b7d3717c015f88601473611969aea7536157dd545f915b7",
+      "sharedAyahs": [
+        "26:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 816.93,
+          "end": 847.92
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 9580,
+      "durationMs": 9580,
+      "recordingDurationMs": 9580,
+      "bytes": 115600,
+      "sha256": "2898f56331cc1fa9936a9d75a5b91beacd6ef4bccd18d565069532a98c001d8b",
+      "sharedAyahs": [
+        "26:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 847.92,
+          "end": 857.46
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 77060,
+      "durationMs": 77060,
+      "recordingDurationMs": 77060,
+      "bytes": 925456,
+      "sha256": "807945d8547e91b69801d11a91cd91c54d7a81e18d77b5e30ca906fafb91d147",
+      "sharedAyahs": [
+        "26:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 857.46,
+          "end": 934.51
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 54500,
+      "durationMs": 54500,
+      "recordingDurationMs": 54500,
+      "bytes": 654736,
+      "sha256": "5009b64c4380a8be2e5c9778d88e2ecf76b3e00d90d3f2d27a00c6fb687a464d",
+      "sharedAyahs": [
+        "26:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 934.51,
+          "end": 988.97
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 97560,
+      "durationMs": 97560,
+      "recordingDurationMs": 97560,
+      "bytes": 1171408,
+      "sha256": "09d85981b340fea415e56a525c121f39d9fbbbce408ce05ae83190a3baa20f45",
+      "sharedAyahs": [
+        "26:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 988.97,
+          "end": 1086.52
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 6820,
+      "durationMs": 6820,
+      "recordingDurationMs": 6820,
+      "bytes": 82480,
+      "sha256": "e4a2b89dd64e7fba7c152ab76a31c856fddf0f07f5023739cee923db5ea8a238",
+      "sharedAyahs": [
+        "26:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1086.52,
+          "end": 1093.32
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 176900,
+      "durationMs": 176900,
+      "recordingDurationMs": 176900,
+      "bytes": 2123536,
+      "sha256": "eeb4b98139e40fb07d82156828a0bee28fb487e0d376e5201f9d3244770142b9",
+      "sharedAyahs": [
+        "26:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1093.32,
+          "end": 1270.18
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/025.mp3",
+      "startMs": 0,
+      "endMs": 11740,
+      "durationMs": 11740,
+      "recordingDurationMs": 11740,
+      "bytes": 141520,
+      "sha256": "2ad30d90c9c594c3364dbda81d995e22735fbce47f3bd498a5c7f8dd98d8398b",
+      "sharedAyahs": [
+        "26:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1270.18,
+          "end": 1281.89
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 47540,
+      "durationMs": 47540,
+      "recordingDurationMs": 47540,
+      "bytes": 571216,
+      "sha256": "0f1075eb1879bd5a5fbe95aa7af45ad06dfacd8a1046efe1ee1eb4b4ed16664d",
+      "sharedAyahs": [
+        "26:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1281.89,
+          "end": 1329.43
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 27240,
+      "durationMs": 27240,
+      "recordingDurationMs": 27240,
+      "bytes": 327568,
+      "sha256": "3d6531f9e851c83c87115be2828e5ed6b6e822785c076d1db1dff2950d83b9cd",
+      "sharedAyahs": [
+        "26:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1329.43,
+          "end": 1356.63
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 84100,
+      "durationMs": 84100,
+      "recordingDurationMs": 84100,
+      "bytes": 1009840,
+      "sha256": "143175291b452ceec04a25525c0522bc17da5bac6656d036a04907dfffe77e5c",
+      "sharedAyahs": [
+        "26:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1356.63,
+          "end": 1440.71
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 13920,
+      "durationMs": 13920,
+      "recordingDurationMs": 13920,
+      "bytes": 167728,
+      "sha256": "2c1adb46f523583060ba4b419a6ffd474d4e7770090fc7c31cdd003c09f44090",
+      "sharedAyahs": [
+        "26:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1440.71,
+          "end": 1454.61
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 16270,
+      "durationMs": 16270,
+      "recordingDurationMs": 16270,
+      "bytes": 195952,
+      "sha256": "db6c0f2d13c3def291ed889c87dd7326ec7974e8608dcc6c145cade5ccf2331c",
+      "sharedAyahs": [
+        "26:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1454.61,
+          "end": 1470.86
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/031.mp3",
+      "startMs": 0,
+      "endMs": 47180,
+      "durationMs": 47180,
+      "recordingDurationMs": 47180,
+      "bytes": 566896,
+      "sha256": "1a869036717380f53c931960559af124d7acf01de00a2ca29d81c9da4abf3076",
+      "sharedAyahs": [
+        "26:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1470.86,
+          "end": 1518.01
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 310300,
+      "durationMs": 310300,
+      "recordingDurationMs": 310300,
+      "bytes": 3724240,
+      "sha256": "62128d1c612bc3bd9ab0f030a410f60ed416e9589ffb311ec608dfca4f65f47f",
+      "sharedAyahs": [
+        "26:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1518.01,
+          "end": 1828.28
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 121660,
+      "durationMs": 121660,
+      "recordingDurationMs": 121660,
+      "bytes": 1460560,
+      "sha256": "14bd17be371f664e32ce2caf032df08ea76b478e6ef6be09396fefefabed3692",
+      "sharedAyahs": [
+        "26:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1828.28,
+          "end": 1949.91
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/034.mp3",
+      "startMs": 0,
+      "endMs": 143810,
+      "durationMs": 143810,
+      "recordingDurationMs": 143810,
+      "bytes": 1726384,
+      "sha256": "1fb9de5fba58984ef2ed5b40497dae32a7e2ed490af54dfbceee6cce1df71dd8",
+      "sharedAyahs": [
+        "26:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 1949.91,
+          "end": 2093.71
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 123070,
+      "durationMs": 123070,
+      "recordingDurationMs": 123070,
+      "bytes": 1477557,
+      "sha256": "e2b139e31c77cce4e2cb460a0bb9dccbdf6d440fc3763992b6a281159ed29f17",
+      "sharedAyahs": [
+        "26:35",
+        "26:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2093.71,
+          "end": 2216.74
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 13010,
+      "durationMs": 13010,
+      "recordingDurationMs": 13010,
+      "bytes": 156784,
+      "sha256": "4fdd13c900b039584c88559a7b6be44dfe0475f707ba5d4ffff93db643d67367",
+      "sharedAyahs": [
+        "26:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2216.74,
+          "end": 2229.73
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 210670,
+      "durationMs": 210670,
+      "recordingDurationMs": 210670,
+      "bytes": 2528752,
+      "sha256": "9fbe1c5bf56af20a26687da7335ab13b6687637319dcc2c08fdb76431144e548",
+      "sharedAyahs": [
+        "26:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2229.73,
+          "end": 2440.38
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 9480,
+      "durationMs": 9480,
+      "recordingDurationMs": 9480,
+      "bytes": 114448,
+      "sha256": "4de6ca2dd571ca1965b83ebe617e42df3597c566f900188b3778ee9d3a9604fe",
+      "sharedAyahs": [
+        "26:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2440.38,
+          "end": 2449.84
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 6070,
+      "durationMs": 6070,
+      "recordingDurationMs": 6070,
+      "bytes": 73552,
+      "sha256": "858de5479926e539fef6442fe792401963b9cc491285bea322ebfefb8054ef0f",
+      "sharedAyahs": [
+        "26:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2449.84,
+          "end": 2455.89
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 85490,
+      "durationMs": 85490,
+      "recordingDurationMs": 85490,
+      "bytes": 1026544,
+      "sha256": "237fdca61513ce2c9863bbe05863b0c572f8d5cb9aed9274e034c3561316d8ad",
+      "sharedAyahs": [
+        "26:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2455.89,
+          "end": 2541.36
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 83330,
+      "durationMs": 83330,
+      "recordingDurationMs": 83330,
+      "bytes": 1000624,
+      "sha256": "be59d17664eee01c21d82ac43e4d2c6da1baf87a340d6e03331c3e3343182f37",
+      "sharedAyahs": [
+        "26:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2541.36,
+          "end": 2624.65
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 21650,
+      "durationMs": 21650,
+      "recordingDurationMs": 21650,
+      "bytes": 260464,
+      "sha256": "cd7b8c2e10c3299d4d7e62fbf02a89557c3ec4eb7cf04c4896ee2b5480f80748",
+      "sharedAyahs": [
+        "26:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2624.65,
+          "end": 2646.27
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 38950,
+      "durationMs": 38950,
+      "recordingDurationMs": 38950,
+      "bytes": 468112,
+      "sha256": "f4cb77b010788650dea9763d2302edac79476cf9ab6fed004f900a145f18383f",
+      "sharedAyahs": [
+        "26:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OGsD-wujmZs",
+          "start": 2646.27,
+          "end": 2685.2
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-44.mp3",
+      "startMs": 0,
+      "endMs": 536110,
+      "durationMs": 536110,
+      "recordingDurationMs": 536110,
+      "bytes": 6434030,
+      "sha256": "01c4efc76cc4a30396ddf9ac7a404caec02520506a2d9e8b7062693a522934bf",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 0.0,
+          "end": 536.08
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 114620,
+      "durationMs": 114620,
+      "recordingDurationMs": 114620,
+      "bytes": 1376181,
+      "sha256": "81c539baf9dc70ca2dfbe818cea1fd21474e1b0cd122e8c8476b2a7e752ca43d",
+      "sharedAyahs": [
+        "26:45",
+        "26:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 536.08,
+          "end": 650.67
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 103940,
+      "durationMs": 103940,
+      "recordingDurationMs": 103940,
+      "bytes": 1248016,
+      "sha256": "373fa321994a0c789df76186d80a5ca22375b1c37a8a6d3fe1048eff3c596f8b",
+      "sharedAyahs": [
+        "26:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 650.67,
+          "end": 754.6
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 25420,
+      "durationMs": 25420,
+      "recordingDurationMs": 25420,
+      "bytes": 305680,
+      "sha256": "422d28e5f77940772b52bcf4bee0e2e43792357645c10cefd875cac961628761",
+      "sharedAyahs": [
+        "26:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 754.6,
+          "end": 780.0
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 298180,
+      "durationMs": 298180,
+      "recordingDurationMs": 298180,
+      "bytes": 3578800,
+      "sha256": "5638e62e2cd4f8e1f6a5aaca3023d977fb236222596e15f8d51af81cc869a62f",
+      "sharedAyahs": [
+        "26:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 780.0,
+          "end": 1078.15
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 4630,
+      "durationMs": 4630,
+      "recordingDurationMs": 4630,
+      "bytes": 56272,
+      "sha256": "4616635c9dd3c8266cab3d36a141168b35f09ffa8edb6559f229888f5727a3b4",
+      "sharedAyahs": [
+        "26:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1078.15,
+          "end": 1082.74
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 380590,
+      "durationMs": 380590,
+      "recordingDurationMs": 380590,
+      "bytes": 4567792,
+      "sha256": "f1d0bbd47c5008d99dbaab8e3cd323e3bf60b3a0ccc0781700e714b3d2c7583c",
+      "sharedAyahs": [
+        "26:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1082.74,
+          "end": 1463.32
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 140520,
+      "durationMs": 140520,
+      "recordingDurationMs": 140520,
+      "bytes": 1686928,
+      "sha256": "471e95bed1af88df2f589bd008d3bd35dc4b8fff1b73f46d13aa42545a2efc98",
+      "sharedAyahs": [
+        "26:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1463.32,
+          "end": 1603.82
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 11710,
+      "durationMs": 11710,
+      "recordingDurationMs": 11710,
+      "bytes": 141237,
+      "sha256": "39bdab0da0acec3908b8af51f7b542db0dc7f669ee1d663dc06f96bd7ad77f9b",
+      "sharedAyahs": [
+        "26:53",
+        "26:54",
+        "26:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1603.82,
+          "end": 1615.5
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 8540,
+      "durationMs": 8540,
+      "recordingDurationMs": 8540,
+      "bytes": 103216,
+      "sha256": "35e9ac3715a6e779e87e549dbe14b091c89255978243308089e7d8146524e1b4",
+      "sharedAyahs": [
+        "26:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1615.5,
+          "end": 1624.03
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/057.mp3",
+      "startMs": 0,
+      "endMs": 27530,
+      "durationMs": 27530,
+      "recordingDurationMs": 27530,
+      "bytes": 331024,
+      "sha256": "a7fe6b1aa60dfd13f2cc04124982f53141c93cf080c3a0a5a6f4ce716c9e5015",
+      "sharedAyahs": [
+        "26:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1624.03,
+          "end": 1651.53
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/058.mp3",
+      "startMs": 0,
+      "endMs": 34870,
+      "durationMs": 34870,
+      "recordingDurationMs": 34870,
+      "bytes": 419152,
+      "sha256": "3e239ed9317d96ad08b318b3978c89e7f74a0d052b9101aaa90e66ea0c76b6e3",
+      "sharedAyahs": [
+        "26:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1651.53,
+          "end": 1686.38
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 4750,
+      "durationMs": 4750,
+      "recordingDurationMs": 4750,
+      "bytes": 57712,
+      "sha256": "eb57450dea467a07b59f968e8b3d9632eae856c4b4f3320c917679fc317bdad2",
+      "sharedAyahs": [
+        "26:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1686.38,
+          "end": 1691.1
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/060.mp3",
+      "startMs": 0,
+      "endMs": 34150,
+      "durationMs": 34150,
+      "recordingDurationMs": 34150,
+      "bytes": 410512,
+      "sha256": "be6fe76685f7801d91ccc64ae4ca55294c8da5d820738e1e9a2b7049d37c0b7b",
+      "sharedAyahs": [
+        "26:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1691.1,
+          "end": 1725.23
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/061.mp3",
+      "startMs": 0,
+      "endMs": 87360,
+      "durationMs": 87360,
+      "recordingDurationMs": 87360,
+      "bytes": 1049008,
+      "sha256": "1e39428ae5dc6179b78226b2ea8008078c5ea0df99225afc52012a23729eb22a",
+      "sharedAyahs": [
+        "26:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1725.23,
+          "end": 1812.56
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/062.mp3",
+      "startMs": 0,
+      "endMs": 5400,
+      "durationMs": 5400,
+      "recordingDurationMs": 5400,
+      "bytes": 65488,
+      "sha256": "b560a34e11f34ea00f30c6b409b634ffcc3d420de5b37020db5daddc2b5035bb",
+      "sharedAyahs": [
+        "26:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1812.56,
+          "end": 1817.94
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 424660,
+      "durationMs": 424660,
+      "recordingDurationMs": 424660,
+      "bytes": 5096560,
+      "sha256": "fa6ea81b2b7fe0057d7816687a7e181437122ba06f4465373db83210fcdc424d",
+      "sharedAyahs": [
+        "26:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 1817.94,
+          "end": 2242.58
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/064.mp3",
+      "startMs": 0,
+      "endMs": 45460,
+      "durationMs": 45460,
+      "recordingDurationMs": 45460,
+      "bytes": 546160,
+      "sha256": "b8ef254ffe4b4273e9da9f80b2281aa8c3096d1db5a190e648c0fae1d6500e6b",
+      "sharedAyahs": [
+        "26:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 2242.58,
+          "end": 2288.0
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/065.mp3",
+      "startMs": 0,
+      "endMs": 28540,
+      "durationMs": 28540,
+      "recordingDurationMs": 28540,
+      "bytes": 343120,
+      "sha256": "f30f8605b994de73bd46b9bb2798de3c77e870acb60b9c395a5b9f2621645c0d",
+      "sharedAyahs": [
+        "26:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 2288.0,
+          "end": 2316.51
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/066.mp3",
+      "startMs": 0,
+      "endMs": 56860,
+      "durationMs": 56860,
+      "recordingDurationMs": 56860,
+      "bytes": 682960,
+      "sha256": "71f7dbc8670ed9a18d5face4443daa26beeedc7c4e23321785e0ec6cc8ff4f88",
+      "sharedAyahs": [
+        "26:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 2316.51,
+          "end": 2373.35
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 191260,
+      "durationMs": 191260,
+      "recordingDurationMs": 191260,
+      "bytes": 2295760,
+      "sha256": "ef13164eb32193d8df0389363d80bac4ab33fbc42729e56e5f31596c46b54d40",
+      "sharedAyahs": [
+        "26:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 2373.35,
+          "end": 2564.58
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/068.mp3",
+      "startMs": 0,
+      "endMs": 7100,
+      "durationMs": 7100,
+      "recordingDurationMs": 7100,
+      "bytes": 85936,
+      "sha256": "b5570af5c2b398eda4f8a8b437b5abc149945307e330fd9c27065dbef43663bf",
+      "sharedAyahs": [
+        "26:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 2564.58,
+          "end": 2571.66
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/069.mp3",
+      "startMs": 0,
+      "endMs": 6170,
+      "durationMs": 6170,
+      "recordingDurationMs": 6170,
+      "bytes": 74704,
+      "sha256": "d64317019346c9040278b6734d553fef21f81855134788a4838a3823d61ab474",
+      "sharedAyahs": [
+        "26:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Bjm6VjU1mF8",
+          "start": 2571.66,
+          "end": 2577.84
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-67.mp3",
+      "startMs": 0,
+      "endMs": 730490,
+      "durationMs": 730490,
+      "recordingDurationMs": 730490,
+      "bytes": 8766542,
+      "sha256": "5968d232188a04fb5b12f7e562e8ebe6e77a063efff545bb31c93c62ab2305ac",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 0.0,
+          "end": 730.46
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/070.mp3",
+      "startMs": 0,
+      "endMs": 357960,
+      "durationMs": 357960,
+      "recordingDurationMs": 357960,
+      "bytes": 4296208,
+      "sha256": "adfef7770c81f5b208f481384fcc27df57aaee94c1f85197478446d51e694caf",
+      "sharedAyahs": [
+        "26:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 730.46,
+          "end": 1088.38
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/071.mp3",
+      "startMs": 0,
+      "endMs": 11260,
+      "durationMs": 11260,
+      "recordingDurationMs": 11260,
+      "bytes": 135765,
+      "sha256": "5dcf03de425b6f195d5a3f620080b7a096aeb75b787e4048fd0caf4234481274",
+      "sharedAyahs": [
+        "26:71",
+        "26:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1088.38,
+          "end": 1099.63
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/073.mp3",
+      "startMs": 0,
+      "endMs": 10540,
+      "durationMs": 10540,
+      "recordingDurationMs": 10540,
+      "bytes": 127120,
+      "sha256": "b18548f001aa240ac7f8f4959c3321884eaa08ce6d2c940f58a10e87c679cb27",
+      "sharedAyahs": [
+        "26:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1099.63,
+          "end": 1110.14
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/074.mp3",
+      "startMs": 0,
+      "endMs": 66910,
+      "durationMs": 66910,
+      "recordingDurationMs": 66910,
+      "bytes": 803632,
+      "sha256": "d7611e8385719755456efafdf078a8a66e01de1e225d6e8287e3325d260e703b",
+      "sharedAyahs": [
+        "26:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1110.14,
+          "end": 1177.03
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/075.mp3",
+      "startMs": 0,
+      "endMs": 126170,
+      "durationMs": 126170,
+      "recordingDurationMs": 126170,
+      "bytes": 1514704,
+      "sha256": "405cd6d4d9071fe126dc285365bf5fc931e8c616d657b0bb733121f75e454b92",
+      "sharedAyahs": [
+        "26:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1177.03,
+          "end": 1303.16
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/076.mp3",
+      "startMs": 0,
+      "endMs": 58370,
+      "durationMs": 58370,
+      "recordingDurationMs": 58370,
+      "bytes": 701104,
+      "sha256": "9b578b86ee72f560fca3021a8da7493ec3445293b3e1f356c59bb525bdb05fd5",
+      "sharedAyahs": [
+        "26:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1303.16,
+          "end": 1361.5
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/077.mp3",
+      "startMs": 0,
+      "endMs": 91080,
+      "durationMs": 91080,
+      "recordingDurationMs": 91080,
+      "bytes": 1093648,
+      "sha256": "78588341eed8f9e8bb1d43ab25547f105912ff7b5dbee237657c782115feb4e5",
+      "sharedAyahs": [
+        "26:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1361.5,
+          "end": 1452.56
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/078.mp3",
+      "startMs": 0,
+      "endMs": 16340,
+      "durationMs": 16340,
+      "recordingDurationMs": 16340,
+      "bytes": 196816,
+      "sha256": "6081d89154c18edf8c0350b141739e96d1c4a90ef85ad00533233012d800ec0c",
+      "sharedAyahs": [
+        "26:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1452.56,
+          "end": 1468.89
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/079.mp3",
+      "startMs": 0,
+      "endMs": 201050,
+      "durationMs": 201050,
+      "recordingDurationMs": 201050,
+      "bytes": 2413264,
+      "sha256": "b94ce0d93b075fa8abd7c8dc7a1f517d30fe440566bdf959c8d4e456e1044f97",
+      "sharedAyahs": [
+        "26:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1468.89,
+          "end": 1669.92
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/080.mp3",
+      "startMs": 0,
+      "endMs": 339310,
+      "durationMs": 339310,
+      "recordingDurationMs": 339310,
+      "bytes": 4072432,
+      "sha256": "9186edb3ab0d9e47e6c44a91ecbdd615356e6a8bda2f0e9f6064a372c9692bdd",
+      "sharedAyahs": [
+        "26:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 1669.92,
+          "end": 2009.2
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/081.mp3",
+      "startMs": 0,
+      "endMs": 54820,
+      "durationMs": 54820,
+      "recordingDurationMs": 54820,
+      "bytes": 658480,
+      "sha256": "a0dc264be6b80b4a612fe5f3145b34703a1304e1d9648918b5d3ca5738442606",
+      "sharedAyahs": [
+        "26:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 2009.2,
+          "end": 2063.99
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/082.mp3",
+      "startMs": 0,
+      "endMs": 257300,
+      "durationMs": 257300,
+      "recordingDurationMs": 257300,
+      "bytes": 3088336,
+      "sha256": "9c4daa7cb01f56dfb6521823cbd63b30269105b7a67604c78535aa275f67d8b7",
+      "sharedAyahs": [
+        "26:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 2063.99,
+          "end": 2321.26
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/083.mp3",
+      "startMs": 0,
+      "endMs": 352130,
+      "durationMs": 352130,
+      "recordingDurationMs": 352130,
+      "bytes": 4226224,
+      "sha256": "41fbc4cce75970deda7205a20a10ee2c592d4d4e51b00ed26bbcada50a30a488",
+      "sharedAyahs": [
+        "26:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "SnDjyOAn5fY",
+          "start": 2321.26,
+          "end": 2673.41
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-81.mp3",
+      "startMs": 0,
+      "endMs": 176980,
+      "durationMs": 176980,
+      "recordingDurationMs": 176980,
+      "bytes": 2124398,
+      "sha256": "979f227de788095da60083b0ddbb373428f28c3c697bd0723d7dfb89801932f8",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 0.0,
+          "end": 176.95
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/084.mp3",
+      "startMs": 0,
+      "endMs": 19800,
+      "durationMs": 19800,
+      "recordingDurationMs": 19800,
+      "bytes": 238288,
+      "sha256": "f731df5852e3ba1933b8d3be0e744b6a02471ec875b4131baa61639dce2eed47",
+      "sharedAyahs": [
+        "26:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 176.95,
+          "end": 196.72
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/085.mp3",
+      "startMs": 0,
+      "endMs": 43440,
+      "durationMs": 43440,
+      "recordingDurationMs": 43440,
+      "bytes": 521968,
+      "sha256": "086314cb3304b8cb999c6c2f05cf1b1a4c1878f228fba2e959052aad3400fb22",
+      "sharedAyahs": [
+        "26:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 196.72,
+          "end": 240.14
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/086.mp3",
+      "startMs": 0,
+      "endMs": 251140,
+      "durationMs": 251140,
+      "recordingDurationMs": 251140,
+      "bytes": 3014320,
+      "sha256": "493a844f9eb8971de1ae0bc603e210ec9b94574e88cb5eeabf708b7cdd5d994e",
+      "sharedAyahs": [
+        "26:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 240.14,
+          "end": 491.24
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/087.mp3",
+      "startMs": 0,
+      "endMs": 78460,
+      "durationMs": 78460,
+      "recordingDurationMs": 78460,
+      "bytes": 942160,
+      "sha256": "37252cb36b53bab7d3d7f84ea80b90c3e9defc29f249a1eeca27a416b794db9d",
+      "sharedAyahs": [
+        "26:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 491.24,
+          "end": 569.68
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/088.mp3",
+      "startMs": 0,
+      "endMs": 483910,
+      "durationMs": 483910,
+      "recordingDurationMs": 483910,
+      "bytes": 5807632,
+      "sha256": "44219bc40222b0dd4ed97f6ca589011479894a44046bac8400f348157ed46a4a",
+      "sharedAyahs": [
+        "26:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 569.68,
+          "end": 1053.57
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/089.mp3",
+      "startMs": 0,
+      "endMs": 16250,
+      "durationMs": 16250,
+      "recordingDurationMs": 16250,
+      "bytes": 195664,
+      "sha256": "c5f084d390ed268aac5134d907c1ab75813d4cfac4d79a5b12942795bec69647",
+      "sharedAyahs": [
+        "26:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 1053.57,
+          "end": 1069.78
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/090.mp3",
+      "startMs": 0,
+      "endMs": 122230,
+      "durationMs": 122230,
+      "recordingDurationMs": 122230,
+      "bytes": 1467472,
+      "sha256": "e31458d78c76c28c27e2975f9b7690124abca259de4b3692340fa91c14da991c",
+      "sharedAyahs": [
+        "26:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 1069.78,
+          "end": 1192.0
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/091.mp3",
+      "startMs": 0,
+      "endMs": 33070,
+      "durationMs": 33070,
+      "recordingDurationMs": 33070,
+      "bytes": 397552,
+      "sha256": "575414c8cd9df96a87fb03ac4ecdef7ec2bd8d73c6929d319aed97e63b3fc369",
+      "sharedAyahs": [
+        "26:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 1192.0,
+          "end": 1225.04
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/092.mp3",
+      "startMs": 0,
+      "endMs": 23450,
+      "durationMs": 23450,
+      "recordingDurationMs": 23450,
+      "bytes": 282064,
+      "sha256": "dd7e6a19a027f53e391be68b897083dc23bac521ce7c2ad633c5a1fb109ff361",
+      "sharedAyahs": [
+        "26:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 1225.04,
+          "end": 1248.48
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/093.mp3",
+      "startMs": 0,
+      "endMs": 160100,
+      "durationMs": 160100,
+      "recordingDurationMs": 160100,
+      "bytes": 1921936,
+      "sha256": "7e910d88c116c0b9b4ec7eae6607bbc3be55ccf3821ee954b80f99d34e6206c7",
+      "sharedAyahs": [
+        "26:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 1248.48,
+          "end": 1408.54
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/094.mp3",
+      "startMs": 0,
+      "endMs": 8060,
+      "durationMs": 8060,
+      "recordingDurationMs": 8060,
+      "bytes": 97456,
+      "sha256": "4d7cbc935357bc5b746d36142e688ae3178ff1fb1f82de215eeeab4dcd95343a",
+      "sharedAyahs": [
+        "26:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 1408.54,
+          "end": 1416.59
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/095.mp3",
+      "startMs": 0,
+      "endMs": 131740,
+      "durationMs": 131740,
+      "recordingDurationMs": 131740,
+      "bytes": 1581520,
+      "sha256": "ff5e31efc8022edd52a7ef1ed3b22e11f59f26159da3e254a34210c90795f606",
+      "sharedAyahs": [
+        "26:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 1416.59,
+          "end": 1548.31
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/096.mp3",
+      "startMs": 0,
+      "endMs": 644740,
+      "durationMs": 644740,
+      "recordingDurationMs": 644740,
+      "bytes": 7737520,
+      "sha256": "db5a8bdb34879f5e5d4ce15255b787a6032f5a19971a1236d65fec9b291dbc68",
+      "sharedAyahs": [
+        "26:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 1548.31,
+          "end": 2193.02
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/097.mp3",
+      "startMs": 0,
+      "endMs": 158520,
+      "durationMs": 158520,
+      "recordingDurationMs": 158520,
+      "bytes": 1902934,
+      "sha256": "989fe182bf4f2a799d476c7a7a916a4290a739aa36e3a6d4cfcbf6a350772969",
+      "sharedAyahs": [
+        "26:97",
+        "26:98",
+        "26:99",
+        "26:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 2193.02,
+          "end": 2351.52
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/101.mp3",
+      "startMs": 0,
+      "endMs": 23830,
+      "durationMs": 23830,
+      "recordingDurationMs": 23830,
+      "bytes": 286674,
+      "sha256": "5fc11c8adaed51f84543e9f86e43ba7801988d33ce78d33d4a2b29bb5cb1f6dc",
+      "sharedAyahs": [
+        "26:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 2351.52,
+          "end": 2375.32
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/102.mp3",
+      "startMs": 0,
+      "endMs": 128160,
+      "durationMs": 128160,
+      "recordingDurationMs": 128160,
+      "bytes": 1538610,
+      "sha256": "daac8d4e661c9f8cea8e9d69d682ba897ef58eaf724ee40446765ffffcdc1408",
+      "sharedAyahs": [
+        "26:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 2375.32,
+          "end": 2503.46
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/103.mp3",
+      "startMs": 0,
+      "endMs": 23040,
+      "durationMs": 23040,
+      "recordingDurationMs": 23040,
+      "bytes": 277170,
+      "sha256": "d23924e03d5b6a0d0833e617653940b9cee30fcd1d663b1054adcc37d45b08cb",
+      "sharedAyahs": [
+        "26:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 2503.46,
+          "end": 2526.46
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/104.mp3",
+      "startMs": 0,
+      "endMs": 96620,
+      "durationMs": 96620,
+      "recordingDurationMs": 96620,
+      "bytes": 1160184,
+      "sha256": "ed7a316f2a360e4b9bab10d765f259eee9886adf158a7b5f3843c629e6235d17",
+      "sharedAyahs": [
+        "26:104",
+        "26:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "C8sJMXssGh4",
+          "start": 2526.46,
+          "end": 2623.1
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-100.mp3",
+      "startMs": 0,
+      "endMs": 566040,
+      "durationMs": 566040,
+      "recordingDurationMs": 566040,
+      "bytes": 6793166,
+      "sha256": "a1040b9d60b8a60226d9e626733485af4362ea9244b77e2cfdde88ec40d1a7c3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "0J_inPoVogc",
+          "start": 0.0,
+          "end": 566.0
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/106.mp3",
+      "startMs": 0,
+      "endMs": 1832400,
+      "durationMs": 1832400,
+      "recordingDurationMs": 1832400,
+      "bytes": 21989490,
+      "sha256": "cc7cf6bd4895835c887ab5c980944131637c7a1c0a7992e4a4357f9cd3202cee",
+      "sharedAyahs": [
+        "26:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0J_inPoVogc",
+          "start": 566.0,
+          "end": 2398.39
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/107.mp3",
+      "startMs": 0,
+      "endMs": 24910,
+      "durationMs": 24910,
+      "recordingDurationMs": 24910,
+      "bytes": 299634,
+      "sha256": "7c27525836572d6a5604f8a473a1eed80333baaf55e67279adbdfcfcfc9bddd8",
+      "sharedAyahs": [
+        "26:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0J_inPoVogc",
+          "start": 2398.39,
+          "end": 2423.26
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/108.mp3",
+      "startMs": 0,
+      "endMs": 14060,
+      "durationMs": 14060,
+      "recordingDurationMs": 14060,
+      "bytes": 169464,
+      "sha256": "fe3a5cf2b7b0f6f74c1e84e603526ef9ea226a68619dab8502426d81752e37ba",
+      "sharedAyahs": [
+        "26:108",
+        "26:109",
+        "26:110",
+        "26:111",
+        "26:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0J_inPoVogc",
+          "start": 2423.26,
+          "end": 2437.31
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/113.mp3",
+      "startMs": 0,
+      "endMs": 66020,
+      "durationMs": 66020,
+      "recordingDurationMs": 66020,
+      "bytes": 792984,
+      "sha256": "899e7f6a312315cd80ec6574b51056ee50a1984c2e4a583ae3ff81de85e61054",
+      "sharedAyahs": [
+        "26:113",
+        "26:114",
+        "26:115",
+        "26:116",
+        "26:117",
+        "26:118",
+        "26:119",
+        "26:120",
+        "26:121",
+        "26:122",
+        "26:123",
+        "26:124",
+        "26:125",
+        "26:126",
+        "26:127"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0J_inPoVogc",
+          "start": 2437.31,
+          "end": 2503.3
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/128.mp3",
+      "startMs": 0,
+      "endMs": 207100,
+      "durationMs": 207100,
+      "recordingDurationMs": 207100,
+      "bytes": 2485848,
+      "sha256": "72a8a7d18203976c9761bd4606e45e7e4d03bccbfc58a8208c4915ab1a68dfc6",
+      "sharedAyahs": [
+        "26:128",
+        "26:129"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0J_inPoVogc",
+          "start": 2503.3,
+          "end": 2710.42
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-106.mp3",
+      "startMs": 0,
+      "endMs": 569660,
+      "durationMs": 569660,
+      "recordingDurationMs": 569660,
+      "bytes": 6836654,
+      "sha256": "5bc330222cfcb2edc9385f3756d0074cf377c4635dfdecbf621aae6cfb909e01",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 0.0,
+          "end": 569.62
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/130.mp3",
+      "startMs": 0,
+      "endMs": 322850,
+      "durationMs": 322850,
+      "recordingDurationMs": 322850,
+      "bytes": 3874866,
+      "sha256": "26b02171b55fd2c1021b1e5c0e1f144a46f780f8b0f69cfeb7c748e134d9a085",
+      "sharedAyahs": [
+        "26:130"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 569.62,
+          "end": 892.46
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/131.mp3",
+      "startMs": 0,
+      "endMs": 119180,
+      "durationMs": 119180,
+      "recordingDurationMs": 119180,
+      "bytes": 1430898,
+      "sha256": "1c7762c5699cf6af99f59e1536e49549238ee986858485a56c724f5e671f907c",
+      "sharedAyahs": [
+        "26:131"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 892.46,
+          "end": 1011.62
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/132.mp3",
+      "startMs": 0,
+      "endMs": 33380,
+      "durationMs": 33380,
+      "recordingDurationMs": 33380,
+      "bytes": 401298,
+      "sha256": "b6d7d37a7af473f5c2c31fa94b279f37919074db4e3578c40a658e8db505d6b9",
+      "sharedAyahs": [
+        "26:132"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 1011.62,
+          "end": 1044.98
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/133.mp3",
+      "startMs": 0,
+      "endMs": 16900,
+      "durationMs": 16900,
+      "recordingDurationMs": 16900,
+      "bytes": 203442,
+      "sha256": "1b9909c4e5b568e799fd9a2af2b8e1918392e092bebb419411e026066ce55b43",
+      "sharedAyahs": [
+        "26:133"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 1044.98,
+          "end": 1061.85
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/134.mp3",
+      "startMs": 0,
+      "endMs": 8710,
+      "durationMs": 8710,
+      "recordingDurationMs": 8710,
+      "bytes": 105234,
+      "sha256": "eb515f07d254ce2c4043334d6f5de6dfd4df2a449c9a042e5f9571f69b69d94d",
+      "sharedAyahs": [
+        "26:134"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 1061.85,
+          "end": 1070.54
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/135.mp3",
+      "startMs": 0,
+      "endMs": 435430,
+      "durationMs": 435430,
+      "recordingDurationMs": 435430,
+      "bytes": 5225880,
+      "sha256": "d929eeb617ff17e9c70a7f8f6f39bc435efc3eda208d52433b03727dc1d9eaea",
+      "sharedAyahs": [
+        "26:135",
+        "26:136"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 1070.54,
+          "end": 1505.93
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/137.mp3",
+      "startMs": 0,
+      "endMs": 81980,
+      "durationMs": 81980,
+      "recordingDurationMs": 81980,
+      "bytes": 984498,
+      "sha256": "fbb910a5c0e3bbe6134cd64cc4b84e37fcd547e4c89fe100263b617e6621264f",
+      "sharedAyahs": [
+        "26:137"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 1505.93,
+          "end": 1587.9
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/138.mp3",
+      "startMs": 0,
+      "endMs": 46390,
+      "durationMs": 46390,
+      "recordingDurationMs": 46390,
+      "bytes": 557394,
+      "sha256": "b827b04e6e582a5d01d8d681b4a4b6b75aae7f9d241ce8c38873b4b2f1881ce1",
+      "sharedAyahs": [
+        "26:138"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 1587.9,
+          "end": 1634.26
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/139.mp3",
+      "startMs": 0,
+      "endMs": 401620,
+      "durationMs": 401620,
+      "recordingDurationMs": 401620,
+      "bytes": 4820082,
+      "sha256": "814b13f4b923929d437c192bdb0c1f4224c72fc60d47ac18188defd534c6ea04",
+      "sharedAyahs": [
+        "26:139"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 1634.26,
+          "end": 2035.85
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/140.mp3",
+      "startMs": 0,
+      "endMs": 203860,
+      "durationMs": 203860,
+      "recordingDurationMs": 203860,
+      "bytes": 2446962,
+      "sha256": "091ce4b4b7ca996d47782498c500dafcea242f52c43a7ffa5985101bacf9400f",
+      "sharedAyahs": [
+        "26:140"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 2035.85,
+          "end": 2239.69
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/141.mp3",
+      "startMs": 0,
+      "endMs": 68470,
+      "durationMs": 68470,
+      "recordingDurationMs": 68470,
+      "bytes": 822354,
+      "sha256": "21d641f78f10efd78ec2a17808b440560e19d5530fced0e56ee240ed654845ea",
+      "sharedAyahs": [
+        "26:141"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 2239.69,
+          "end": 2308.13
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/142.mp3",
+      "startMs": 0,
+      "endMs": 19490,
+      "durationMs": 19490,
+      "recordingDurationMs": 19490,
+      "bytes": 234546,
+      "sha256": "5690bd81cbee68e9913beda671900cf2d244933c86d3f86789ec04c8c181f0b2",
+      "sharedAyahs": [
+        "26:142"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 2308.13,
+          "end": 2327.61
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/143.mp3",
+      "startMs": 0,
+      "endMs": 11090,
+      "durationMs": 11090,
+      "recordingDurationMs": 11090,
+      "bytes": 133746,
+      "sha256": "5ecdedf8f3cace5860e86d7c0c7fdcfadb21ae99e016a4158915faa90c525317",
+      "sharedAyahs": [
+        "26:143"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 2327.61,
+          "end": 2338.66
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/144.mp3",
+      "startMs": 0,
+      "endMs": 180460,
+      "durationMs": 180460,
+      "recordingDurationMs": 180460,
+      "bytes": 2166162,
+      "sha256": "31108d6bf7461ec83e1b7f27f832b81278b80dd7ef167f611737aa38577466d7",
+      "sharedAyahs": [
+        "26:144"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 2338.66,
+          "end": 2519.1
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/145.mp3",
+      "startMs": 0,
+      "endMs": 17330,
+      "durationMs": 17330,
+      "recordingDurationMs": 17330,
+      "bytes": 208626,
+      "sha256": "b19bd1691ff7411dbfcc152de10b51756ba543c19615338f95db57ddf3e3c157",
+      "sharedAyahs": [
+        "26:145"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 2519.1,
+          "end": 2536.41
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/146.mp3",
+      "startMs": 0,
+      "endMs": 6600,
+      "durationMs": 6600,
+      "recordingDurationMs": 6600,
+      "bytes": 79890,
+      "sha256": "adba1eb27945c2b35a750b784d41a0be2a43c5172654e7fb8ec8f52831b7ba13",
+      "sharedAyahs": [
+        "26:146"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 2536.41,
+          "end": 2542.98
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/147.mp3",
+      "startMs": 0,
+      "endMs": 54310,
+      "durationMs": 54310,
+      "recordingDurationMs": 54310,
+      "bytes": 652434,
+      "sha256": "ae45ccd33e7762e3fd52834be603ad9664a3efd18065773a2584ed122c3b9320",
+      "sharedAyahs": [
+        "26:147"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M8uTA6Cl9S4",
+          "start": 2542.98,
+          "end": 2597.3
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-124.mp3",
+      "startMs": 0,
+      "endMs": 61750,
+      "durationMs": 61750,
+      "recordingDurationMs": 61750,
+      "bytes": 741710,
+      "sha256": "0738dbe9e5138a2ff6fc411a0da8f66bbc8f4e5c68e848a3fb898dac2f3f9767",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 0.0,
+          "end": 61.71
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/148.mp3",
+      "startMs": 0,
+      "endMs": 409030,
+      "durationMs": 409030,
+      "recordingDurationMs": 409030,
+      "bytes": 4909074,
+      "sha256": "67b749e14cf9121b3140cb84008d1a84fad7b9aedefb7bf4b6d07c62756451cb",
+      "sharedAyahs": [
+        "26:148"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 61.71,
+          "end": 470.72
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/149.mp3",
+      "startMs": 0,
+      "endMs": 43220,
+      "durationMs": 43220,
+      "recordingDurationMs": 43220,
+      "bytes": 519378,
+      "sha256": "3a049d1bb6cbf57156d10de8cafcea652dd1bd574ee3abdaa84081cdf6d518dc",
+      "sharedAyahs": [
+        "26:149"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 470.72,
+          "end": 513.93
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/150.mp3",
+      "startMs": 0,
+      "endMs": 680590,
+      "durationMs": 680590,
+      "recordingDurationMs": 680590,
+      "bytes": 8167794,
+      "sha256": "28929de7cd5a04cf8682276c06a2eb1402a6c8e7949da5b7a95e819c478369cf",
+      "sharedAyahs": [
+        "26:150"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 513.93,
+          "end": 1194.5
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/151.mp3",
+      "startMs": 0,
+      "endMs": 10560,
+      "durationMs": 10560,
+      "recordingDurationMs": 10560,
+      "bytes": 127416,
+      "sha256": "d676c4fdea184bf9407ee972b830b51ee34e8fa256ad4197becadba485f44c68",
+      "sharedAyahs": [
+        "26:151",
+        "26:152"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 1194.5,
+          "end": 1205.04
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/153.mp3",
+      "startMs": 0,
+      "endMs": 245330,
+      "durationMs": 245330,
+      "recordingDurationMs": 245330,
+      "bytes": 2944626,
+      "sha256": "b3048171e9c35287783e8cbb50d8f8c5eed2ad693dc061c8f3c9c5e6107db0da",
+      "sharedAyahs": [
+        "26:153"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 1205.04,
+          "end": 1450.33
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/154.mp3",
+      "startMs": 0,
+      "endMs": 238440,
+      "durationMs": 238440,
+      "recordingDurationMs": 238440,
+      "bytes": 2861970,
+      "sha256": "42aadd590a78d2597f5034bd7fd551667210768634baf3d077fca50d5023aeaf",
+      "sharedAyahs": [
+        "26:154"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 1450.33,
+          "end": 1688.74
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/155.mp3",
+      "startMs": 0,
+      "endMs": 5140,
+      "durationMs": 5140,
+      "recordingDurationMs": 5140,
+      "bytes": 62322,
+      "sha256": "1f32bdc6036518f9c9e835700c25a5dbef9f26cc218fcf8b3f87fbdd4aa2e956",
+      "sharedAyahs": [
+        "26:155"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 1688.74,
+          "end": 1693.86
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/156.mp3",
+      "startMs": 0,
+      "endMs": 35090,
+      "durationMs": 35090,
+      "recordingDurationMs": 35090,
+      "bytes": 421746,
+      "sha256": "f8adac40f1de1707b29b0bfa79c687b08cce4561fcf6442a4650a63845a1ce23",
+      "sharedAyahs": [
+        "26:156"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IOPkvdNz4Ds",
+          "start": 1693.86,
+          "end": 1728.96
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-133.mp3",
+      "startMs": 0,
+      "endMs": 21740,
+      "durationMs": 21740,
+      "recordingDurationMs": 21740,
+      "bytes": 261614,
+      "sha256": "7960bdeb3a0f2dd5361a351a4d6b2d38dc0cc8bbb2d57b9f3d751dbe3756e7ef",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 0.0,
+          "end": 21.71
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/157.mp3",
+      "startMs": 0,
+      "endMs": 67630,
+      "durationMs": 67630,
+      "recordingDurationMs": 67630,
+      "bytes": 812274,
+      "sha256": "e9de8c3f2de29e09cfa8c56d35830727d96dce800a078bafb4ad8fc0a08f08b2",
+      "sharedAyahs": [
+        "26:157"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 21.71,
+          "end": 89.32
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/158.mp3",
+      "startMs": 0,
+      "endMs": 11260,
+      "durationMs": 11260,
+      "recordingDurationMs": 11260,
+      "bytes": 135762,
+      "sha256": "27ee47218e8fd23b69ac286d32416f2894d22616243365bdcd76655fdc90d62a",
+      "sharedAyahs": [
+        "26:158"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 89.32,
+          "end": 100.54
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/159.mp3",
+      "startMs": 0,
+      "endMs": 6980,
+      "durationMs": 6980,
+      "recordingDurationMs": 6980,
+      "bytes": 84498,
+      "sha256": "c5efdf9b1e305507d916f0992edb78c9f1cce6aef3a4c393d1c4455f0b6eb172",
+      "sharedAyahs": [
+        "26:159"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 100.54,
+          "end": 107.52
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/160.mp3",
+      "startMs": 0,
+      "endMs": 4300,
+      "durationMs": 4300,
+      "recordingDurationMs": 4300,
+      "bytes": 52242,
+      "sha256": "a122e108ea6e696691e901ffd56ede65e14f6848edf9ccfedb36a3522e907a5d",
+      "sharedAyahs": [
+        "26:160"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 107.52,
+          "end": 111.78
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/161.mp3",
+      "startMs": 0,
+      "endMs": 477720,
+      "durationMs": 477720,
+      "recordingDurationMs": 477720,
+      "bytes": 5733330,
+      "sha256": "65e813744bf496a36412069c539b942bfadb3b0831416871dc8e95eb0974df77",
+      "sharedAyahs": [
+        "26:161"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 111.78,
+          "end": 589.48
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/162.mp3",
+      "startMs": 0,
+      "endMs": 465650,
+      "durationMs": 465650,
+      "recordingDurationMs": 465650,
+      "bytes": 5588472,
+      "sha256": "187bc526c9563686478f573ab3a6f53d6b236f13e123042b7c0708a9c97b85d8",
+      "sharedAyahs": [
+        "26:162",
+        "26:163",
+        "26:164",
+        "26:165",
+        "26:166",
+        "26:167",
+        "26:168",
+        "26:169",
+        "26:170",
+        "26:171",
+        "26:172",
+        "26:173",
+        "26:174",
+        "26:175",
+        "26:176",
+        "26:177",
+        "26:178",
+        "26:179",
+        "26:180"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 589.48,
+          "end": 1055.11
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/181.mp3",
+      "startMs": 0,
+      "endMs": 177790,
+      "durationMs": 177790,
+      "recordingDurationMs": 177790,
+      "bytes": 2134194,
+      "sha256": "c670f01e799418ec3d7be3b7ed6d6202c4dba6fe58d5eaafd7e57141f1ad182c",
+      "sharedAyahs": [
+        "26:181"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 1055.11,
+          "end": 1232.88
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/182.mp3",
+      "startMs": 0,
+      "endMs": 34300,
+      "durationMs": 34300,
+      "recordingDurationMs": 34300,
+      "bytes": 412242,
+      "sha256": "288373b71791bbad72b58bec70e1828fa4b26b2451cb1bffc9856aae56b97a96",
+      "sharedAyahs": [
+        "26:182"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 1232.88,
+          "end": 1267.15
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/183.mp3",
+      "startMs": 0,
+      "endMs": 306170,
+      "durationMs": 306170,
+      "recordingDurationMs": 306170,
+      "bytes": 3674706,
+      "sha256": "a3a4bee5938d155c4a22c582c53d4bd12656d1e641fb4a160e14da19bcd795fa",
+      "sharedAyahs": [
+        "26:183"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HN66kZBxxgw",
+          "start": 1267.15,
+          "end": 1573.32
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-143.mp3",
+      "startMs": 0,
+      "endMs": 1245290,
+      "durationMs": 1245290,
+      "recordingDurationMs": 1245290,
+      "bytes": 14944142,
+      "sha256": "eeac3d02b3c28a4d47e5fcefeec8b150a039ce4af07cc9ec165f51d571e2d6d7",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Yu9uNf8mPMY",
+          "start": 0.0,
+          "end": 1245.26
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/184.mp3",
+      "startMs": 0,
+      "endMs": 7390,
+      "durationMs": 7390,
+      "recordingDurationMs": 7390,
+      "bytes": 89394,
+      "sha256": "f6ecc7d540a491795a975d41a6aba21c3fb8c4444a38d335135c381832168a46",
+      "sharedAyahs": [
+        "26:184"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Yu9uNf8mPMY",
+          "start": 1245.26,
+          "end": 1252.61
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/185.mp3",
+      "startMs": 0,
+      "endMs": 25440,
+      "durationMs": 25440,
+      "recordingDurationMs": 25440,
+      "bytes": 305970,
+      "sha256": "638d0f2dd3f4ca41be25004e910e3a138f192a93b7e5d628e092321e056d2f98",
+      "sharedAyahs": [
+        "26:185"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Yu9uNf8mPMY",
+          "start": 1252.61,
+          "end": 1278.03
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/186.mp3",
+      "startMs": 0,
+      "endMs": 60580,
+      "durationMs": 60580,
+      "recordingDurationMs": 60580,
+      "bytes": 727602,
+      "sha256": "c03dcf6f187cb1be72137d8ea78899db31636488ffe9ee8fde2d268edb823046",
+      "sharedAyahs": [
+        "26:186"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Yu9uNf8mPMY",
+          "start": 1278.03,
+          "end": 1338.6
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/187.mp3",
+      "startMs": 0,
+      "endMs": 101860,
+      "durationMs": 101860,
+      "recordingDurationMs": 101860,
+      "bytes": 1222962,
+      "sha256": "6febd84f073761e9a5f97b46bb9db0836e37b4dd8b5ae7878ec1f79b9b0b5013",
+      "sharedAyahs": [
+        "26:187"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Yu9uNf8mPMY",
+          "start": 1338.6,
+          "end": 1440.41
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/188.mp3",
+      "startMs": 0,
+      "endMs": 144500,
+      "durationMs": 144500,
+      "recordingDurationMs": 144500,
+      "bytes": 1734738,
+      "sha256": "6e24977859267a3b3c93bb0f246ad579473199f6fad9e19d03f9c7efc7be2bd3",
+      "sharedAyahs": [
+        "26:188"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Yu9uNf8mPMY",
+          "start": 1440.41,
+          "end": 1584.91
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/189.mp3",
+      "startMs": 0,
+      "endMs": 28420,
+      "durationMs": 28420,
+      "recordingDurationMs": 28420,
+      "bytes": 341682,
+      "sha256": "645a594bc82690a3ba0afffee854598d7f72f4af348c3320982ddf48380b0883",
+      "sharedAyahs": [
+        "26:189"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Yu9uNf8mPMY",
+          "start": 1584.91,
+          "end": 1613.3
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/190.mp3",
+      "startMs": 0,
+      "endMs": 20060,
+      "durationMs": 20060,
+      "recordingDurationMs": 20060,
+      "bytes": 241458,
+      "sha256": "fbd89e82074d737adbf84730199108441a8cda3334e0b5ce5ecf544ec7a7d1f4",
+      "sharedAyahs": [
+        "26:190"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Yu9uNf8mPMY",
+          "start": 1613.3,
+          "end": 1633.37
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-151.mp3",
+      "startMs": 0,
+      "endMs": 163800,
+      "durationMs": 163800,
+      "recordingDurationMs": 163800,
+      "bytes": 1966286,
+      "sha256": "157c90009f13148378d440ffc4ac59e931e60030a82dd59e6b17a715e58f1763",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "qjXLo1A-6aM",
+          "start": 0.0,
+          "end": 163.77
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/191.mp3",
+      "startMs": 0,
+      "endMs": 207840,
+      "durationMs": 207840,
+      "recordingDurationMs": 207840,
+      "bytes": 2494770,
+      "sha256": "320d7d27180af3d06f6a461d3734d3a41d9801fea1e02e8e48280b940078a69f",
+      "sharedAyahs": [
+        "26:191"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qjXLo1A-6aM",
+          "start": 163.77,
+          "end": 371.58
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/192.mp3",
+      "startMs": 0,
+      "endMs": 577490,
+      "durationMs": 577490,
+      "recordingDurationMs": 577490,
+      "bytes": 6930546,
+      "sha256": "ad5cb4924481b412c8d4ccc923d94059377f641a8d86f11b2b0a0263fb91a8ff",
+      "sharedAyahs": [
+        "26:192"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qjXLo1A-6aM",
+          "start": 371.58,
+          "end": 949.04
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/193.mp3",
+      "startMs": 0,
+      "endMs": 408310,
+      "durationMs": 408310,
+      "recordingDurationMs": 408310,
+      "bytes": 4900434,
+      "sha256": "0515e6b57aa4ae86df63ef65d565a9ba43099cade3f1034dfa0e9a7dffe4cb19",
+      "sharedAyahs": [
+        "26:193"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qjXLo1A-6aM",
+          "start": 949.04,
+          "end": 1357.33
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/194.mp3",
+      "startMs": 0,
+      "endMs": 40130,
+      "durationMs": 40130,
+      "recordingDurationMs": 40130,
+      "bytes": 482226,
+      "sha256": "956290786680d44533ae86f45f5547f5d6fcb4d675fc13b7234e5028dcb25757",
+      "sharedAyahs": [
+        "26:194"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qjXLo1A-6aM",
+          "start": 1357.33,
+          "end": 1397.43
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/195.mp3",
+      "startMs": 0,
+      "endMs": 269980,
+      "durationMs": 269980,
+      "recordingDurationMs": 269980,
+      "bytes": 3240402,
+      "sha256": "4a5dbe588fdb4efc10eb8626dbb64241ad0e7c90e468218299608609259874c0",
+      "sharedAyahs": [
+        "26:195"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "qjXLo1A-6aM",
+          "start": 1397.43,
+          "end": 1667.4
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-157.mp3",
+      "startMs": 0,
+      "endMs": 25700,
+      "durationMs": 25700,
+      "recordingDurationMs": 25700,
+      "bytes": 309134,
+      "sha256": "1c7f5cadaba3c9a584982e5ede1c732414158e439cccca8a49a617759bdca3a4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 0.0,
+          "end": 25.66
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/196.mp3",
+      "startMs": 0,
+      "endMs": 167620,
+      "durationMs": 167620,
+      "recordingDurationMs": 167620,
+      "bytes": 2012082,
+      "sha256": "5cfc234920d96b02940eee4a09b7fec7d129ea6567d0b21555a2c37e2d8ad979",
+      "sharedAyahs": [
+        "26:196"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 25.66,
+          "end": 193.27
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/197.mp3",
+      "startMs": 0,
+      "endMs": 65470,
+      "durationMs": 65470,
+      "recordingDurationMs": 65470,
+      "bytes": 786354,
+      "sha256": "b4e65b98f38945330a20136b166bcd1739ba1f0682126fa95bbbf810c8c665ff",
+      "sharedAyahs": [
+        "26:197"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 193.27,
+          "end": 258.72
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/198.mp3",
+      "startMs": 0,
+      "endMs": 246840,
+      "durationMs": 246840,
+      "recordingDurationMs": 246840,
+      "bytes": 2962770,
+      "sha256": "e6105c862fa84bd6765d8f78a57ea47a1f11405e1e275f57fdaeebb79b45dddd",
+      "sharedAyahs": [
+        "26:198"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 258.72,
+          "end": 505.53
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/199.mp3",
+      "startMs": 0,
+      "endMs": 10340,
+      "durationMs": 10340,
+      "recordingDurationMs": 10340,
+      "bytes": 124824,
+      "sha256": "e61a247c5faa8b2fac762685fe8e2fd0917801eb0e26dc39184715ff7521c3e3",
+      "sharedAyahs": [
+        "26:199",
+        "26:200"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 505.53,
+          "end": 515.84
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/201.mp3",
+      "startMs": 0,
+      "endMs": 15050,
+      "durationMs": 15050,
+      "recordingDurationMs": 15050,
+      "bytes": 181266,
+      "sha256": "6200dd8e0a2c0caceeabee7e031a73648f06cc58f2c52e0e25bd8db0e016e21d",
+      "sharedAyahs": [
+        "26:201"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 515.84,
+          "end": 530.87
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/202.mp3",
+      "startMs": 0,
+      "endMs": 56420,
+      "durationMs": 56420,
+      "recordingDurationMs": 56420,
+      "bytes": 677778,
+      "sha256": "09e1a720e48366355bf9fa57359be8d0f111c97a8cf0f7a43cd102351a3cc303",
+      "sharedAyahs": [
+        "26:202"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 530.87,
+          "end": 587.26
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/203.mp3",
+      "startMs": 0,
+      "endMs": 52900,
+      "durationMs": 52900,
+      "recordingDurationMs": 52900,
+      "bytes": 635448,
+      "sha256": "ebe0a8ce56a9abcc0d034787dd7301b42d12508617fcf26e917efbad5d255801",
+      "sharedAyahs": [
+        "26:203",
+        "26:204",
+        "26:205"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 587.26,
+          "end": 640.13
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/206.mp3",
+      "startMs": 0,
+      "endMs": 802100,
+      "durationMs": 802100,
+      "recordingDurationMs": 802100,
+      "bytes": 9625938,
+      "sha256": "ad62cd3a5f32639b3e2b5a113b4244953823db41e3ce94ee4f64e8bd10ef9998",
+      "sharedAyahs": [
+        "26:206"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 640.13,
+          "end": 1442.21
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/207.mp3",
+      "startMs": 0,
+      "endMs": 11300,
+      "durationMs": 11300,
+      "recordingDurationMs": 11300,
+      "bytes": 136344,
+      "sha256": "90dcf6f8f2cdb81e3cf0aba49292cdd4a3853541ca6db177a6e70fdc7ad1c9e4",
+      "sharedAyahs": [
+        "26:207",
+        "26:208",
+        "26:209",
+        "26:210",
+        "26:211",
+        "26:212",
+        "26:213"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 1442.21,
+          "end": 1453.51
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/214.mp3",
+      "startMs": 0,
+      "endMs": 191420,
+      "durationMs": 191420,
+      "recordingDurationMs": 191420,
+      "bytes": 2297784,
+      "sha256": "902e6bd7a5ad84b2462e490990a462019d9391dba113643393aa39cfd37684c6",
+      "sharedAyahs": [
+        "26:214",
+        "26:215"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "M_stcLN5GFk",
+          "start": 1453.51,
+          "end": 1644.94
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-168.mp3",
+      "startMs": 0,
+      "endMs": 122040,
+      "durationMs": 122040,
+      "recordingDurationMs": 122040,
+      "bytes": 1465166,
+      "sha256": "33ccf2b9c95d40a23c9fa7a8ce33eabaac102617ed5d7303dc23d02407edc2e4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 0.0,
+          "end": 122.0
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/216.mp3",
+      "startMs": 0,
+      "endMs": 118800,
+      "durationMs": 118800,
+      "recordingDurationMs": 118800,
+      "bytes": 1426290,
+      "sha256": "783deb47432668e181ba3491649eb7caf384811b94e5a010cc9ed30580981dbe",
+      "sharedAyahs": [
+        "26:216"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 122.0,
+          "end": 240.79
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/217.mp3",
+      "startMs": 0,
+      "endMs": 218860,
+      "durationMs": 218860,
+      "recordingDurationMs": 218860,
+      "bytes": 2626962,
+      "sha256": "b39b80978efad9f41a4ad38cd0c023f3e1e9f7a03bc077f711aaaaae59a3d799",
+      "sharedAyahs": [
+        "26:217"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 240.79,
+          "end": 459.62
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/218.mp3",
+      "startMs": 0,
+      "endMs": 44230,
+      "durationMs": 44230,
+      "recordingDurationMs": 44230,
+      "bytes": 531474,
+      "sha256": "892a168f91de245323d99dd2720878bdab49944cadb56f7c5137d561b068057d",
+      "sharedAyahs": [
+        "26:218"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 459.62,
+          "end": 503.82
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/219.mp3",
+      "startMs": 0,
+      "endMs": 35350,
+      "durationMs": 35350,
+      "recordingDurationMs": 35350,
+      "bytes": 424914,
+      "sha256": "76bcac73a16ad5ae96e7c1ccd1e67aa141af1af00c96f4b5593270789f388636",
+      "sharedAyahs": [
+        "26:219"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 503.82,
+          "end": 539.16
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/220.mp3",
+      "startMs": 0,
+      "endMs": 28080,
+      "durationMs": 28080,
+      "recordingDurationMs": 28080,
+      "bytes": 337650,
+      "sha256": "8e1f873f4e8782600e3feaf553152507d0c470e8ab58127ecb37ee97d22e1926",
+      "sharedAyahs": [
+        "26:220"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 539.16,
+          "end": 567.2
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/221.mp3",
+      "startMs": 0,
+      "endMs": 21290,
+      "durationMs": 21290,
+      "recordingDurationMs": 21290,
+      "bytes": 256146,
+      "sha256": "4a227b63e0d8042adee4c896615e7926712b5b005b980e319e4ac0b517b12958",
+      "sharedAyahs": [
+        "26:221"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 567.2,
+          "end": 588.46
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/222.mp3",
+      "startMs": 0,
+      "endMs": 67780,
+      "durationMs": 67780,
+      "recordingDurationMs": 67780,
+      "bytes": 814002,
+      "sha256": "8c20f272368c7554930c627f56a4fd99940f8067ba81d2b4f9e82c70b9f13103",
+      "sharedAyahs": [
+        "26:222"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 588.46,
+          "end": 656.23
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/223.mp3",
+      "startMs": 0,
+      "endMs": 122230,
+      "durationMs": 122230,
+      "recordingDurationMs": 122230,
+      "bytes": 1467474,
+      "sha256": "785e16aee7cf064d9d314dd0e3ba040337e95c399d7538c52a25323514cec0ea",
+      "sharedAyahs": [
+        "26:223"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 656.23,
+          "end": 778.44
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/224.mp3",
+      "startMs": 0,
+      "endMs": 8180,
+      "durationMs": 8180,
+      "recordingDurationMs": 8180,
+      "bytes": 98898,
+      "sha256": "52d5c67f7f3e68c2bb8e9d223dc2259d501053fa697127b075b063c94535f90c",
+      "sharedAyahs": [
+        "26:224"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 778.44,
+          "end": 786.6
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/225.mp3",
+      "startMs": 0,
+      "endMs": 772060,
+      "durationMs": 772060,
+      "recordingDurationMs": 772060,
+      "bytes": 9265362,
+      "sha256": "3c740a419e058e003943ef16e5c2f9f120071ea7e1ad0aa274ff34abe850d978",
+      "sharedAyahs": [
+        "26:225"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "UUlibwC82g0",
+          "start": 786.6,
+          "end": 1558.66
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/introduction-179.mp3",
+      "startMs": 0,
+      "endMs": 54410,
+      "durationMs": 54410,
+      "recordingDurationMs": 54410,
+      "bytes": 653582,
+      "sha256": "1dfee1f942b0d714e74faac1c8b92c2682e20d9c868dc2e40c223a76c8cd0a23",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "HGU-c_dF6R4",
+          "start": 0.0,
+          "end": 54.38
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/226.mp3",
+      "startMs": 0,
+      "endMs": 19200,
+      "durationMs": 19200,
+      "recordingDurationMs": 19200,
+      "bytes": 231090,
+      "sha256": "4d7d7abdd01d22ae3bb9a8137d2d90e21fc652680a7935e30cddaa12f780c4f7",
+      "sharedAyahs": [
+        "26:226"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HGU-c_dF6R4",
+          "start": 54.38,
+          "end": 73.54
+        }
+      ]
+    },
+    {
+      "file": "026-الشعراء-youtube-v1/227.mp3",
+      "startMs": 0,
+      "endMs": 1575980,
+      "durationMs": 1575980,
+      "recordingDurationMs": 1575980,
+      "bytes": 18912498,
+      "sha256": "40c4fb404441b9cdcf5d5e3a0ee442f072d7d39ee25538742d7aef1f63b88a50",
+      "sharedAyahs": [
+        "26:227"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "HGU-c_dF6R4",
+          "start": 73.54,
+          "end": 1649.54
+        }
+      ]
+    }
+  ]
+}
