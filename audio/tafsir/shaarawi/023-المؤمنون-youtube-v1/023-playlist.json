@@ -1,0 +1,2273 @@
+{
+  "schemaVersion": 2,
+  "surah": 23,
+  "mode": "reused-clips",
+  "durationMs": 37206550,
+  "tracks": [
+    {
+      "file": "023-المؤمنون-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 47280,
+      "durationMs": 47280,
+      "recordingDurationMs": 47280,
+      "bytes": 568050,
+      "sha256": "509e09d9a94a9cf086d6212800be83214a72cebf839ad1abc423725a0d2b7a20",
+      "sharedAyahs": [
+        "23:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 28.41,
+          "end": 75.65
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 132860,
+      "durationMs": 132860,
+      "recordingDurationMs": 132860,
+      "bytes": 1595058,
+      "sha256": "c7adc11be0bb046b32c27090dd96a409fd71d652985a695f97c5b515eceeb715",
+      "sharedAyahs": [
+        "23:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 75.65,
+          "end": 208.49
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 266710,
+      "durationMs": 266710,
+      "recordingDurationMs": 266710,
+      "bytes": 3201234,
+      "sha256": "8a1f4b9b73a93a8e903ac4657906ad13a584b4151edd220b531a073cb8f0686d",
+      "sharedAyahs": [
+        "23:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 208.49,
+          "end": 475.2
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 304540,
+      "durationMs": 304540,
+      "recordingDurationMs": 304540,
+      "bytes": 3655122,
+      "sha256": "429d2321fe631cc8783a83fb73713217bb64ad4cb77f7a99e3b62b8ff7e8af76",
+      "sharedAyahs": [
+        "23:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 475.2,
+          "end": 779.71
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 239230,
+      "durationMs": 239230,
+      "recordingDurationMs": 239230,
+      "bytes": 2871474,
+      "sha256": "de73a82cb57acf0972fb9c4ae75954747ce5cb6de9540e68d8618f64a965dde7",
+      "sharedAyahs": [
+        "23:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 779.71,
+          "end": 1018.9
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 264260,
+      "durationMs": 264260,
+      "recordingDurationMs": 264260,
+      "bytes": 3171858,
+      "sha256": "50f563e2c1ecb67d176f9b177ce6f98119377dda856f5c6501f391eb9be174c6",
+      "sharedAyahs": [
+        "23:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 1018.9,
+          "end": 1283.15
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 13420,
+      "durationMs": 13420,
+      "recordingDurationMs": 13420,
+      "bytes": 161682,
+      "sha256": "a5657a8be9c4dd0deee94919135f94adcd80d625d098523e27e675cf43d9b6f3",
+      "sharedAyahs": [
+        "23:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 1283.15,
+          "end": 1296.55
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 101280,
+      "durationMs": 101280,
+      "recordingDurationMs": 101280,
+      "bytes": 1216050,
+      "sha256": "bb75abaa42fb880eb681bcdd5776e431bef50efb526fec2a19668cd3ebf42085",
+      "sharedAyahs": [
+        "23:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 1296.55,
+          "end": 1397.79
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 100150,
+      "durationMs": 100150,
+      "recordingDurationMs": 100150,
+      "bytes": 1202514,
+      "sha256": "58ca3eadd41ca3a508d922a355f2547e2f7750f5ee006dc554241d00620997b1",
+      "sharedAyahs": [
+        "23:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 1397.79,
+          "end": 1497.92
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 239140,
+      "durationMs": 239140,
+      "recordingDurationMs": 239140,
+      "bytes": 2870324,
+      "sha256": "f48d7ec49a8ae793e48e138b1d4a95e2f5578ad2008a8cdd0c2e957cb3672280",
+      "sharedAyahs": [
+        "23:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "_VplX4lxuQc",
+          "start": 1497.92,
+          "end": 1737.07
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-10.mp3",
+      "startMs": 0,
+      "endMs": 569760,
+      "durationMs": 569760,
+      "recordingDurationMs": 569760,
+      "bytes": 6837810,
+      "sha256": "62e838ba0e1919f671222c2564d43092293352d0cdd7a7c3dda1ab37f027a524",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "LaSpiaEFjuE",
+          "start": 7.26,
+          "end": 576.99
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 248900,
+      "durationMs": 248900,
+      "recordingDurationMs": 248900,
+      "bytes": 2987540,
+      "sha256": "3f616f5ddf7081b4577d6d2a786b1d5c46f30cd4432e302d856b4cc8c4ce6663",
+      "sharedAyahs": [
+        "23:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LaSpiaEFjuE",
+          "start": 576.99,
+          "end": 825.87
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 343560,
+      "durationMs": 343560,
+      "recordingDurationMs": 343560,
+      "bytes": 4123412,
+      "sha256": "f10b0cbd87fbffa558b98d6573c61094e3ee9dfaeee14ea28f6a2e4b2b676342",
+      "sharedAyahs": [
+        "23:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LaSpiaEFjuE",
+          "start": 825.87,
+          "end": 1169.41
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 71020,
+      "durationMs": 71020,
+      "recordingDurationMs": 71020,
+      "bytes": 852884,
+      "sha256": "5347b07925eac913eeaac1d56719f5fe3fdb09d1474883f0ac41fa411779bc31",
+      "sharedAyahs": [
+        "23:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LaSpiaEFjuE",
+          "start": 1169.41,
+          "end": 1240.4
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 388490,
+      "durationMs": 388490,
+      "recordingDurationMs": 388490,
+      "bytes": 4662548,
+      "sha256": "efb8184e467db4f5763268d8a0b62cca7a6c12becff9f5de39ee68115fdc8f28",
+      "sharedAyahs": [
+        "23:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LaSpiaEFjuE",
+          "start": 1240.4,
+          "end": 1628.86
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/015.mp3",
+      "startMs": 0,
+      "endMs": 72340,
+      "durationMs": 72340,
+      "recordingDurationMs": 72340,
+      "bytes": 868724,
+      "sha256": "14a1ae339c2542d50ae8a8713d34c4fc8fcf8c9cc82649269984184608a067f6",
+      "sharedAyahs": [
+        "23:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "LaSpiaEFjuE",
+          "start": 1628.86,
+          "end": 1701.17
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-16.mp3",
+      "startMs": 0,
+      "endMs": 142300,
+      "durationMs": 142300,
+      "recordingDurationMs": 142300,
+      "bytes": 1708242,
+      "sha256": "74ed632389eb556233159b4483ab0a2a8a62bbd442d0cf2c03f8aebe7173b7e0",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "akMGsMOf-8Y",
+          "start": 0.0,
+          "end": 142.25
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 146810,
+      "durationMs": 146810,
+      "recordingDurationMs": 146810,
+      "bytes": 1762388,
+      "sha256": "9014683a889ea770945999565f8abec1fae43237e8f4747e934452231ec3d8c2",
+      "sharedAyahs": [
+        "23:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "akMGsMOf-8Y",
+          "start": 142.25,
+          "end": 289.05
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 197330,
+      "durationMs": 197330,
+      "recordingDurationMs": 197330,
+      "bytes": 2368628,
+      "sha256": "09e274a4b7514148b305a661ed94e5421d10a06d5e221286dd88f0c749a09a33",
+      "sharedAyahs": [
+        "23:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "akMGsMOf-8Y",
+          "start": 289.05,
+          "end": 486.35
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 623450,
+      "durationMs": 623450,
+      "recordingDurationMs": 623450,
+      "bytes": 7482068,
+      "sha256": "43ed091363505c8693daeec40b141e98cbaafec100097aa34fd88b3918716601",
+      "sharedAyahs": [
+        "23:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "akMGsMOf-8Y",
+          "start": 486.35,
+          "end": 1109.78
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 31940,
+      "durationMs": 31940,
+      "recordingDurationMs": 31940,
+      "bytes": 384020,
+      "sha256": "59ca5265d63833a627db79ef451bd335f77a0b6f937f3aacfb38297d6eb12abe",
+      "sharedAyahs": [
+        "23:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "akMGsMOf-8Y",
+          "start": 1109.78,
+          "end": 1141.69
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 72310,
+      "durationMs": 72310,
+      "recordingDurationMs": 72310,
+      "bytes": 868436,
+      "sha256": "0dd64cc89451687b2e736bf035e2bc525a0ee6f0ac07dc935ea10fdd37412550",
+      "sharedAyahs": [
+        "23:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "akMGsMOf-8Y",
+          "start": 1141.69,
+          "end": 1213.98
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 312340,
+      "durationMs": 312340,
+      "recordingDurationMs": 312340,
+      "bytes": 3748724,
+      "sha256": "d77c7d592f3b189279c139a8a37767d1b6e079eaf95f6e3a62204d29081ceb20",
+      "sharedAyahs": [
+        "23:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "akMGsMOf-8Y",
+          "start": 1213.98,
+          "end": 1526.3
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 396530,
+      "durationMs": 396530,
+      "recordingDurationMs": 396530,
+      "bytes": 4759028,
+      "sha256": "22939feb0f0da75e6c4c575f43421babd1fe81e4ea83b0a1f5ca42ac09c1d0fd",
+      "sharedAyahs": [
+        "23:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "akMGsMOf-8Y",
+          "start": 1526.3,
+          "end": 1922.8
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-24.mp3",
+      "startMs": 0,
+      "endMs": 308500,
+      "durationMs": 308500,
+      "recordingDurationMs": 308500,
+      "bytes": 3702642,
+      "sha256": "959a2458b40359c82af00f8b3ad9a1b128865ca6de480606f8b75f8bde831fa2",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Z6OSq0cGba4",
+          "start": 8.23,
+          "end": 316.7
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 1723180,
+      "durationMs": 1723180,
+      "recordingDurationMs": 1723180,
+      "bytes": 20678809,
+      "sha256": "6a353ba305fb7207624ab6f2ce0a6dd00ec05c46aa60a92484ebfc7f36c7a015",
+      "sharedAyahs": [
+        "23:23",
+        "23:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z6OSq0cGba4",
+          "start": 316.7,
+          "end": 2039.85
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/025.mp3",
+      "startMs": 0,
+      "endMs": 197020,
+      "durationMs": 197020,
+      "recordingDurationMs": 197020,
+      "bytes": 2364884,
+      "sha256": "aab8bd9fc9d47f526dcf2713c5e1b48ce19a569759fdfd32cd75b6dbc7286015",
+      "sharedAyahs": [
+        "23:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z6OSq0cGba4",
+          "start": 2039.85,
+          "end": 2236.83
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 4940,
+      "durationMs": 4940,
+      "recordingDurationMs": 4940,
+      "bytes": 60020,
+      "sha256": "038aeb25962bbc34596ccb612d7dde9824caf7f87cacbde500b5bcb8e0e8ac2f",
+      "sharedAyahs": [
+        "23:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z6OSq0cGba4",
+          "start": 2236.83,
+          "end": 2241.75
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 445940,
+      "durationMs": 445940,
+      "recordingDurationMs": 445940,
+      "bytes": 5352020,
+      "sha256": "e604148bdecd02ee73d0e5d7b161b3035d14d19989aa83330f0c05a4c3f6e93f",
+      "sharedAyahs": [
+        "23:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Z6OSq0cGba4",
+          "start": 2241.75,
+          "end": 2687.67
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-29.mp3",
+      "startMs": 0,
+      "endMs": 450580,
+      "durationMs": 450580,
+      "recordingDurationMs": 450580,
+      "bytes": 5407602,
+      "sha256": "2ba5e85d24ef1e726a858cc78eeec8fda2e50fe854c28631d8cb8d57e9a90b6d",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 8.73,
+          "end": 459.27
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 395280,
+      "durationMs": 395280,
+      "recordingDurationMs": 395280,
+      "bytes": 4744052,
+      "sha256": "65762100e8ab177e0153786251df9216d600da66e64708f3866dcf7cae8a9bce",
+      "sharedAyahs": [
+        "23:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 459.27,
+          "end": 854.53
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 430990,
+      "durationMs": 430990,
+      "recordingDurationMs": 430990,
+      "bytes": 5172601,
+      "sha256": "730649fe75619d4179b6311de9180461ef939507c85d26e66a4daa5663649fbe",
+      "sharedAyahs": [
+        "23:29",
+        "23:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 854.53,
+          "end": 1285.51
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/031.mp3",
+      "startMs": 0,
+      "endMs": 58580,
+      "durationMs": 58580,
+      "recordingDurationMs": 58580,
+      "bytes": 703700,
+      "sha256": "0ec27551cb45c3908315ee296fc73f40c3ad6917289d7d96a97b19b649ac0498",
+      "sharedAyahs": [
+        "23:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 1285.51,
+          "end": 1344.06
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 394610,
+      "durationMs": 394610,
+      "recordingDurationMs": 394610,
+      "bytes": 4735988,
+      "sha256": "f28d2c3f0db63baf93f43dcf51106ae3e42b363abde640a2fe5b1eb666ced518",
+      "sharedAyahs": [
+        "23:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 1344.06,
+          "end": 1738.64
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 169010,
+      "durationMs": 169010,
+      "recordingDurationMs": 169010,
+      "bytes": 2028793,
+      "sha256": "ca7e19d512abc8238af7d542d52555c1e2cf115e60090547db90058b81ec02de",
+      "sharedAyahs": [
+        "23:33",
+        "23:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 1738.64,
+          "end": 1907.62
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 339410,
+      "durationMs": 339410,
+      "recordingDurationMs": 339410,
+      "bytes": 4073593,
+      "sha256": "a2ee9886e179f53b0a8f6db972a468bc785bbe40107b1ca07f7d4a2e14671066",
+      "sharedAyahs": [
+        "23:35",
+        "23:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 1907.62,
+          "end": 2247.02
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 315820,
+      "durationMs": 315820,
+      "recordingDurationMs": 315820,
+      "bytes": 3790489,
+      "sha256": "f3434abbb2530eef75affed82202b6a29d2418428e8c389e78df3c047433b457",
+      "sharedAyahs": [
+        "23:37",
+        "23:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 2247.02,
+          "end": 2562.81
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 155760,
+      "durationMs": 155760,
+      "recordingDurationMs": 155760,
+      "bytes": 1869812,
+      "sha256": "b47c166d5092d882e35a59d8c41bdc972d41a2d603a690108bc285730040cdea",
+      "sharedAyahs": [
+        "23:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "uw_S3C9oucY",
+          "start": 2562.81,
+          "end": 2718.54
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-38.mp3",
+      "startMs": 0,
+      "endMs": 945000,
+      "durationMs": 945000,
+      "recordingDurationMs": 945000,
+      "bytes": 11340690,
+      "sha256": "77051f97f1b654a7837cab217133e4f43e583311368a636d347828f6cd8645c3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 0.0,
+          "end": 944.96
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 58700,
+      "durationMs": 58700,
+      "recordingDurationMs": 58700,
+      "bytes": 705140,
+      "sha256": "1eb9f98589047761d72a5f763619234253ac0f49836908e3ea4d1c91e3f4e032",
+      "sharedAyahs": [
+        "23:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 944.96,
+          "end": 1003.65
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 267550,
+      "durationMs": 267550,
+      "recordingDurationMs": 267550,
+      "bytes": 3211316,
+      "sha256": "6b906dc4fae22107c2a014bb3d4c2454d7d67ff0dc4d13da65c54b8436112686",
+      "sharedAyahs": [
+        "23:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 1003.65,
+          "end": 1271.18
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 33980,
+      "durationMs": 33980,
+      "recordingDurationMs": 33980,
+      "bytes": 408500,
+      "sha256": "48d266df028507680a54c2d66501bfa3ee4b33ac0c32def08b064155f0910975",
+      "sharedAyahs": [
+        "23:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 1271.18,
+          "end": 1305.13
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 205870,
+      "durationMs": 205870,
+      "recordingDurationMs": 205870,
+      "bytes": 2471156,
+      "sha256": "0fb8e65f3a98851bfbde23e89a23c23ee805403f553dedf792b3b8aefc23071e",
+      "sharedAyahs": [
+        "23:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 1305.13,
+          "end": 1510.97
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 245520,
+      "durationMs": 245520,
+      "recordingDurationMs": 245520,
+      "bytes": 2946932,
+      "sha256": "e9f6a0e93850c15864fc302a6b37b16e801e2c4c54415ccefb94c5e476426448",
+      "sharedAyahs": [
+        "23:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 1510.97,
+          "end": 1756.48
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 510600,
+      "durationMs": 510600,
+      "recordingDurationMs": 510600,
+      "bytes": 6127892,
+      "sha256": "823271981700d226535b5e5774f193a088702796e7c9742db65b68ac494d3612",
+      "sharedAyahs": [
+        "23:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 1756.48,
+          "end": 2267.05
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 64970,
+      "durationMs": 64970,
+      "recordingDurationMs": 64970,
+      "bytes": 780308,
+      "sha256": "f58483cca0fcec304cbdf12493e9f087cd560e4827d6a9e8b4944d0c80dcd6f9",
+      "sharedAyahs": [
+        "23:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 2267.05,
+          "end": 2332.0
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 97200,
+      "durationMs": 97200,
+      "recordingDurationMs": 97200,
+      "bytes": 1167092,
+      "sha256": "bd31d143d6633fd866e7849b0c860f6c2f5b57fe59fe869cc681c5ad7afebbf0",
+      "sharedAyahs": [
+        "23:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 2332.0,
+          "end": 2429.17
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/048.mp3",
+      "startMs": 0,
+      "endMs": 8830,
+      "durationMs": 8830,
+      "recordingDurationMs": 8830,
+      "bytes": 106676,
+      "sha256": "015199d173fd6b2b3f9db38a731dffd754f01bf09a17a96e406cf0341d7226cb",
+      "sharedAyahs": [
+        "23:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 2429.17,
+          "end": 2437.99
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 28700,
+      "durationMs": 28700,
+      "recordingDurationMs": 28700,
+      "bytes": 345140,
+      "sha256": "78a096707b90d94324b8642dd37e4844b7853c073cbfc54fc4732d2c73b3fce7",
+      "sharedAyahs": [
+        "23:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 2437.99,
+          "end": 2466.65
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 256780,
+      "durationMs": 256780,
+      "recordingDurationMs": 256780,
+      "bytes": 3082004,
+      "sha256": "f6189a8ac8cd2b435477e4baea90f0ce4e15733f976d7fa6c6503ea7e4d7adaf",
+      "sharedAyahs": [
+        "23:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "JhoSdHz353M",
+          "start": 2466.65,
+          "end": 2723.45
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-50.mp3",
+      "startMs": 0,
+      "endMs": 917210,
+      "durationMs": 917210,
+      "recordingDurationMs": 917210,
+      "bytes": 11007186,
+      "sha256": "c23b96af77b1704b31226f20dd119aa2ec1d6b1400cd9d641e10666ea0916fdd",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 8.19,
+          "end": 925.39
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 173810,
+      "durationMs": 173810,
+      "recordingDurationMs": 173810,
+      "bytes": 2086388,
+      "sha256": "9468c008752aac7fde7be6ee9b69d1673caf833e37caaaaffb8db30780dfca07",
+      "sharedAyahs": [
+        "23:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 925.39,
+          "end": 1099.17
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 397820,
+      "durationMs": 397820,
+      "recordingDurationMs": 397820,
+      "bytes": 4774580,
+      "sha256": "08775138838cb2fed6a3ef0d2e6d7b7a77f3e9c7ae59ebdc4e37ce4d097a5d63",
+      "sharedAyahs": [
+        "23:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 1099.17,
+          "end": 1496.97
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 409420,
+      "durationMs": 409420,
+      "recordingDurationMs": 409420,
+      "bytes": 4913684,
+      "sha256": "609ad13d80fe6159057975f57d029b186accb3f91f720d12e8d153d3855bcc8c",
+      "sharedAyahs": [
+        "23:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 1496.97,
+          "end": 1906.35
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/054.mp3",
+      "startMs": 0,
+      "endMs": 215690,
+      "durationMs": 215690,
+      "recordingDurationMs": 215690,
+      "bytes": 2588948,
+      "sha256": "d23996f4f9f8f03265377d2b03e6f16504a7c8072adb7022dcf5c917824be64b",
+      "sharedAyahs": [
+        "23:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 1906.35,
+          "end": 2122.01
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/055.mp3",
+      "startMs": 0,
+      "endMs": 4700,
+      "durationMs": 4700,
+      "recordingDurationMs": 4700,
+      "bytes": 57140,
+      "sha256": "b06cec9f459588134fe463a3992b777257d63e742f18b2ed34372a2a6a4a8979",
+      "sharedAyahs": [
+        "23:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 2122.01,
+          "end": 2126.71
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 198940,
+      "durationMs": 198940,
+      "recordingDurationMs": 198940,
+      "bytes": 2387924,
+      "sha256": "1b4a9cdcc0a2a849953b01cebd3d7104fbb60fcbbda53b923ffbedf125ad0878",
+      "sharedAyahs": [
+        "23:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 2126.71,
+          "end": 2325.62
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/057.mp3",
+      "startMs": 0,
+      "endMs": 18600,
+      "durationMs": 18600,
+      "recordingDurationMs": 18600,
+      "bytes": 223892,
+      "sha256": "b512c67aea23208399c3c85c55dde70ff89d02f8765ee24ce7da347b439adc17",
+      "sharedAyahs": [
+        "23:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 2325.62,
+          "end": 2344.18
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/058.mp3",
+      "startMs": 0,
+      "endMs": 90790,
+      "durationMs": 90790,
+      "recordingDurationMs": 90790,
+      "bytes": 1090201,
+      "sha256": "4d4da8d1785d045fd262a7b91fdbd54748aeafaeda4120a5d7dc9e503d286ccd",
+      "sharedAyahs": [
+        "23:58",
+        "23:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 2344.18,
+          "end": 2434.96
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/060.mp3",
+      "startMs": 0,
+      "endMs": 206210,
+      "durationMs": 206210,
+      "recordingDurationMs": 206210,
+      "bytes": 2475188,
+      "sha256": "5d83be09a4fee6d56474949b4f88974dadaa3b708aad8ea41345df154ea4db4d",
+      "sharedAyahs": [
+        "23:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IUXiyWeB3rw",
+          "start": 2434.96,
+          "end": 2641.13
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-60.mp3",
+      "startMs": 0,
+      "endMs": 468820,
+      "durationMs": 468820,
+      "recordingDurationMs": 468820,
+      "bytes": 5626482,
+      "sha256": "5234309ea5d1f4105bb9342bdb44481ba0f14008091452209a00cfa3adac4781",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "aUuDTagMiYU",
+          "start": 3.26,
+          "end": 472.04
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/061.mp3",
+      "startMs": 0,
+      "endMs": 257140,
+      "durationMs": 257140,
+      "recordingDurationMs": 257140,
+      "bytes": 3086324,
+      "sha256": "29d9a29e5677472d10c63b188d55b4d43a69afbde9be5dbf8fdd0669956bc224",
+      "sharedAyahs": [
+        "23:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aUuDTagMiYU",
+          "start": 472.04,
+          "end": 729.16
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/062.mp3",
+      "startMs": 0,
+      "endMs": 174260,
+      "durationMs": 174260,
+      "recordingDurationMs": 174260,
+      "bytes": 2091860,
+      "sha256": "ca98a6bcfc56d839bc346cc6f9c66f0e2cab51c7585fd176aa443e3b9220f0b7",
+      "sharedAyahs": [
+        "23:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aUuDTagMiYU",
+          "start": 729.16,
+          "end": 903.4
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 1222540,
+      "durationMs": 1222540,
+      "recordingDurationMs": 1222540,
+      "bytes": 14671124,
+      "sha256": "03c40bfaf42c24d555d8b402eb57bc3513270cd0a1df17359b328c61eccb0ee6",
+      "sharedAyahs": [
+        "23:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aUuDTagMiYU",
+          "start": 903.4,
+          "end": 2125.91
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/064.mp3",
+      "startMs": 0,
+      "endMs": 182140,
+      "durationMs": 182140,
+      "recordingDurationMs": 182140,
+      "bytes": 2186324,
+      "sha256": "48d2e6f18e4b80ee2466e4d36760fd989e23c1561036bc64c43a0c00649ccdf0",
+      "sharedAyahs": [
+        "23:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aUuDTagMiYU",
+          "start": 2125.91,
+          "end": 2308.03
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/065.mp3",
+      "startMs": 0,
+      "endMs": 53500,
+      "durationMs": 53500,
+      "recordingDurationMs": 53500,
+      "bytes": 642644,
+      "sha256": "a5c3f0c29bd3e0d89beb3ca1d424b11d118f4fd2bc4748a64416fc6dd1203fda",
+      "sharedAyahs": [
+        "23:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aUuDTagMiYU",
+          "start": 2308.03,
+          "end": 2361.49
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/066.mp3",
+      "startMs": 0,
+      "endMs": 146230,
+      "durationMs": 146230,
+      "recordingDurationMs": 146230,
+      "bytes": 1755476,
+      "sha256": "4a18858cf867866e5cb5d6e70ee3b8b49f2e422bf534d2818f0773fb3df177ce",
+      "sharedAyahs": [
+        "23:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aUuDTagMiYU",
+          "start": 2361.49,
+          "end": 2507.7
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 234410,
+      "durationMs": 234410,
+      "recordingDurationMs": 234410,
+      "bytes": 2813588,
+      "sha256": "852bfc7153420b45a90ca048ea45299907af917f732f5cc68465a98a0fee249f",
+      "sharedAyahs": [
+        "23:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aUuDTagMiYU",
+          "start": 2507.7,
+          "end": 2742.08
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-68.mp3",
+      "startMs": 0,
+      "endMs": 450740,
+      "durationMs": 450740,
+      "recordingDurationMs": 450740,
+      "bytes": 5409618,
+      "sha256": "b31a3c0cb9f6990dee207078a6d9ac631216bb8445a73ae6145a49b775df5f15",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "OW9f2cPGKIU",
+          "start": 2.75,
+          "end": 453.47
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/068.mp3",
+      "startMs": 0,
+      "endMs": 530400,
+      "durationMs": 530400,
+      "recordingDurationMs": 530400,
+      "bytes": 6365492,
+      "sha256": "81c5f13de6e03c4518dfa1b50a1c9053a8a7e361de159b84c1497c7573018072",
+      "sharedAyahs": [
+        "23:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OW9f2cPGKIU",
+          "start": 453.47,
+          "end": 983.85
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/069.mp3",
+      "startMs": 0,
+      "endMs": 250820,
+      "durationMs": 250820,
+      "recordingDurationMs": 250820,
+      "bytes": 3010580,
+      "sha256": "45380169170c255d24a252031b43b1b03f40dff0ce9a790fbae8ece7e7949cf1",
+      "sharedAyahs": [
+        "23:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OW9f2cPGKIU",
+          "start": 983.85,
+          "end": 1234.64
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/070.mp3",
+      "startMs": 0,
+      "endMs": 1068360,
+      "durationMs": 1068360,
+      "recordingDurationMs": 1068360,
+      "bytes": 12821017,
+      "sha256": "e389945ea7726a4fa4d1b7798f396b3eeedb89b6462feea81f5cb052baf8a573",
+      "sharedAyahs": [
+        "23:70",
+        "23:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OW9f2cPGKIU",
+          "start": 1234.64,
+          "end": 2302.99
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/072.mp3",
+      "startMs": 0,
+      "endMs": 162670,
+      "durationMs": 162670,
+      "recordingDurationMs": 162670,
+      "bytes": 1952756,
+      "sha256": "2e0efc93e28c0b46513aa47e8643358d4f059de388164cd61ae2927a30d4ef71",
+      "sharedAyahs": [
+        "23:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OW9f2cPGKIU",
+          "start": 2302.99,
+          "end": 2465.62
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/073.mp3",
+      "startMs": 0,
+      "endMs": 207700,
+      "durationMs": 207700,
+      "recordingDurationMs": 207700,
+      "bytes": 2493044,
+      "sha256": "9dc0e3236372772b3704d06c5006a2210836c0646e6021f76458dbd47253b8e5",
+      "sharedAyahs": [
+        "23:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "OW9f2cPGKIU",
+          "start": 2465.62,
+          "end": 2673.29
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-74.mp3",
+      "startMs": 0,
+      "endMs": 207700,
+      "durationMs": 207700,
+      "recordingDurationMs": 207700,
+      "bytes": 2493042,
+      "sha256": "406b4134e3c6dfa75115962690043b9ffaacea4ba204fb9e654c8ac4a94244a3",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kSqEQL2X5xI",
+          "start": 5.34,
+          "end": 213.02
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/074.mp3",
+      "startMs": 0,
+      "endMs": 99960,
+      "durationMs": 99960,
+      "recordingDurationMs": 99960,
+      "bytes": 1200212,
+      "sha256": "93783893c4af4264156c59521a5abfe8e893ff38ea10b843b05ae3fbdab7275e",
+      "sharedAyahs": [
+        "23:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kSqEQL2X5xI",
+          "start": 213.02,
+          "end": 312.94
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/075.mp3",
+      "startMs": 0,
+      "endMs": 194450,
+      "durationMs": 194450,
+      "recordingDurationMs": 194450,
+      "bytes": 2334068,
+      "sha256": "f19ea6ecd0125247452294ded95b10e022bb2b085661dfa9e07390dcf41e176c",
+      "sharedAyahs": [
+        "23:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kSqEQL2X5xI",
+          "start": 312.94,
+          "end": 507.38
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/076.mp3",
+      "startMs": 0,
+      "endMs": 312500,
+      "durationMs": 312500,
+      "recordingDurationMs": 312500,
+      "bytes": 3750740,
+      "sha256": "0e291a21b7788df0942db0c24b23ee2763c1b1b63e22438cf294f3c76b90f60f",
+      "sharedAyahs": [
+        "23:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kSqEQL2X5xI",
+          "start": 507.38,
+          "end": 819.86
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/077.mp3",
+      "startMs": 0,
+      "endMs": 467470,
+      "durationMs": 467470,
+      "recordingDurationMs": 467470,
+      "bytes": 5610356,
+      "sha256": "4eefb7a03dc30bca5cc92cd38e49d1b7d635b3e16eee8ecfd5aef6677fb5cf88",
+      "sharedAyahs": [
+        "23:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kSqEQL2X5xI",
+          "start": 819.86,
+          "end": 1287.31
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/078.mp3",
+      "startMs": 0,
+      "endMs": 1090850,
+      "durationMs": 1090850,
+      "recordingDurationMs": 1090850,
+      "bytes": 13090868,
+      "sha256": "747ef5ef74eb9ade9fa0fc99371954321db0b1648bdfe6ab463dac09770b349c",
+      "sharedAyahs": [
+        "23:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kSqEQL2X5xI",
+          "start": 1287.31,
+          "end": 2378.12
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/079.mp3",
+      "startMs": 0,
+      "endMs": 207960,
+      "durationMs": 207960,
+      "recordingDurationMs": 207960,
+      "bytes": 2496212,
+      "sha256": "bc684f12db712b18c82002fb4a84e5b4c945a7c89cd2adb1d868cd25009907e5",
+      "sharedAyahs": [
+        "23:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kSqEQL2X5xI",
+          "start": 2378.12,
+          "end": 2586.06
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/080.mp3",
+      "startMs": 0,
+      "endMs": 44950,
+      "durationMs": 44950,
+      "recordingDurationMs": 44950,
+      "bytes": 540116,
+      "sha256": "f40b1c7cba7dae8e9d86f60e3cbd2c3520f9d1869a8fc283753471fc36aaa349",
+      "sharedAyahs": [
+        "23:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kSqEQL2X5xI",
+          "start": 2586.06,
+          "end": 2630.99
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-82.mp3",
+      "startMs": 0,
+      "endMs": 1455120,
+      "durationMs": 1455120,
+      "recordingDurationMs": 1455120,
+      "bytes": 17462130,
+      "sha256": "3a733dfeaaa44715867ca72ffc32a5b0565a4d4a637004db01cacb31f5049b6f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "gE-yCYvAhXU",
+          "start": 5.63,
+          "end": 1460.72
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/081.mp3",
+      "startMs": 0,
+      "endMs": 8180,
+      "durationMs": 8180,
+      "recordingDurationMs": 8180,
+      "bytes": 98900,
+      "sha256": "36eac7444aac6f6dd09b27ee601e76ee14827d8f3e01592da998dd9e9f69a22d",
+      "sharedAyahs": [
+        "23:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gE-yCYvAhXU",
+          "start": 1460.72,
+          "end": 1468.88
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/082.mp3",
+      "startMs": 0,
+      "endMs": 293350,
+      "durationMs": 293350,
+      "recordingDurationMs": 293350,
+      "bytes": 3520916,
+      "sha256": "b79b55991cf8c6132d2bc66b4f447252f7dff5b521a4e3a7f98adb1a17e390e8",
+      "sharedAyahs": [
+        "23:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gE-yCYvAhXU",
+          "start": 1468.88,
+          "end": 1762.21
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/083.mp3",
+      "startMs": 0,
+      "endMs": 107950,
+      "durationMs": 107950,
+      "recordingDurationMs": 107950,
+      "bytes": 1296116,
+      "sha256": "9752c5665af26fef9c52a2ce7f07ef01a32765ca84912542a1ced4a06aee722f",
+      "sharedAyahs": [
+        "23:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gE-yCYvAhXU",
+          "start": 1762.21,
+          "end": 1870.14
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/084.mp3",
+      "startMs": 0,
+      "endMs": 248710,
+      "durationMs": 248710,
+      "recordingDurationMs": 248710,
+      "bytes": 2985236,
+      "sha256": "3ed938565226de939796f9715f8c0d27f5ada89a7facca4b50a608f2d4c38ff1",
+      "sharedAyahs": [
+        "23:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gE-yCYvAhXU",
+          "start": 1870.14,
+          "end": 2118.82
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/085.mp3",
+      "startMs": 0,
+      "endMs": 486550,
+      "durationMs": 486550,
+      "recordingDurationMs": 486550,
+      "bytes": 5839321,
+      "sha256": "5d92d6538ea35442c66dd6098efeab6bae0fbfc2e5b7ee95ce478871a24d67b9",
+      "sharedAyahs": [
+        "23:85",
+        "23:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gE-yCYvAhXU",
+          "start": 2118.82,
+          "end": 2605.35
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/087.mp3",
+      "startMs": 0,
+      "endMs": 10820,
+      "durationMs": 10820,
+      "recordingDurationMs": 10820,
+      "bytes": 130585,
+      "sha256": "f6b3c484fa4f3c63bfdb608c69142b248378547a7f0bc0ed2ccd07e0c76f8f69",
+      "sharedAyahs": [
+        "23:87",
+        "23:88",
+        "23:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "gE-yCYvAhXU",
+          "start": 2605.35,
+          "end": 2616.16
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/090.mp3",
+      "startMs": 0,
+      "endMs": 422900,
+      "durationMs": 422900,
+      "recordingDurationMs": 422900,
+      "bytes": 5075540,
+      "sha256": "f33cc162750b216204e3e9557e753396be4f4c6a703cec136038189e87015340",
+      "sharedAyahs": [
+        "23:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Oww30uHXJVg",
+          "start": 3.26,
+          "end": 426.13
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/091.mp3",
+      "startMs": 0,
+      "endMs": 2136120,
+      "durationMs": 2136120,
+      "recordingDurationMs": 2136120,
+      "bytes": 25634132,
+      "sha256": "4a19fe220bc507927e7d9e1eb1159fc4a843a453589e729398046e557609d030",
+      "sharedAyahs": [
+        "23:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Oww30uHXJVg",
+          "start": 426.13,
+          "end": 2562.23
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/092.mp3",
+      "startMs": 0,
+      "endMs": 59540,
+      "durationMs": 59540,
+      "recordingDurationMs": 59540,
+      "bytes": 715220,
+      "sha256": "ed3cf428d4140288c89052cbd84a1f340ba64b2a9d676ac57f295f5cbba343d1",
+      "sharedAyahs": [
+        "23:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Oww30uHXJVg",
+          "start": 2562.23,
+          "end": 2621.75
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/093.mp3",
+      "startMs": 0,
+      "endMs": 44380,
+      "durationMs": 44380,
+      "recordingDurationMs": 44380,
+      "bytes": 533209,
+      "sha256": "5ee7dd637bd66dffb3156e5e5c77a43629de4e9f3f0e9e0fece2da4c1e56ef85",
+      "sharedAyahs": [
+        "23:93",
+        "23:94"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Oww30uHXJVg",
+          "start": 2621.75,
+          "end": 2666.1
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-93.mp3",
+      "startMs": 0,
+      "endMs": 179420,
+      "durationMs": 179420,
+      "recordingDurationMs": 179420,
+      "bytes": 2153778,
+      "sha256": "cf32bc7872c6eb78e60654da546dbd7bdd9b1892ec36d409c0a3d562a8ebcd25",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "bpgMgLgH-vI",
+          "start": 2.27,
+          "end": 181.68
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/095.mp3",
+      "startMs": 0,
+      "endMs": 228070,
+      "durationMs": 228070,
+      "recordingDurationMs": 228070,
+      "bytes": 2737556,
+      "sha256": "3c8a846c62276cc8f183798669aabdf561efec264d82b603a6f7f1551fd1c118",
+      "sharedAyahs": [
+        "23:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bpgMgLgH-vI",
+          "start": 181.68,
+          "end": 409.71
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/096.mp3",
+      "startMs": 0,
+      "endMs": 495650,
+      "durationMs": 495650,
+      "recordingDurationMs": 495650,
+      "bytes": 5948468,
+      "sha256": "ba83be5cd585a7269005d7d1ef89324c51e5211a27ded2ba97a11a3897106c10",
+      "sharedAyahs": [
+        "23:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bpgMgLgH-vI",
+          "start": 409.71,
+          "end": 905.33
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/097.mp3",
+      "startMs": 0,
+      "endMs": 71420,
+      "durationMs": 71420,
+      "recordingDurationMs": 71420,
+      "bytes": 857780,
+      "sha256": "5cd2b17e3658325e17c129ed867c5283fe28a4e4ccae2c1a50ecf8563d4b7f43",
+      "sharedAyahs": [
+        "23:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bpgMgLgH-vI",
+          "start": 905.33,
+          "end": 976.74
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/098.mp3",
+      "startMs": 0,
+      "endMs": 6500,
+      "durationMs": 6500,
+      "recordingDurationMs": 6500,
+      "bytes": 78740,
+      "sha256": "c03b833da1e569155fc16973b152d1c1ab796184797ab508ea3f2c8bd101116a",
+      "sharedAyahs": [
+        "23:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bpgMgLgH-vI",
+          "start": 976.74,
+          "end": 983.21
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/099.mp3",
+      "startMs": 0,
+      "endMs": 225620,
+      "durationMs": 225620,
+      "recordingDurationMs": 225620,
+      "bytes": 2708180,
+      "sha256": "3a8bb89a283fa549f4e65c6d1d88899dba7d0c590766ec7dd7c94f499316244f",
+      "sharedAyahs": [
+        "23:99"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bpgMgLgH-vI",
+          "start": 983.21,
+          "end": 1208.83
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/100.mp3",
+      "startMs": 0,
+      "endMs": 790540,
+      "durationMs": 790540,
+      "recordingDurationMs": 790540,
+      "bytes": 9487126,
+      "sha256": "61af4eb6bf5b5711e2ae6e31d4c9fd4ed4045c063448da26fa4b2c0a784d0c2a",
+      "sharedAyahs": [
+        "23:100"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bpgMgLgH-vI",
+          "start": 1208.83,
+          "end": 1999.34
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/101.mp3",
+      "startMs": 0,
+      "endMs": 617350,
+      "durationMs": 617350,
+      "recordingDurationMs": 617350,
+      "bytes": 7408918,
+      "sha256": "3ad4667f3689432df72b3af3f65d9f9d0a019921128db85fc65dd491f69ad2e3",
+      "sharedAyahs": [
+        "23:101"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "bpgMgLgH-vI",
+          "start": 1999.34,
+          "end": 2616.66
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-101.mp3",
+      "startMs": 0,
+      "endMs": 1104190,
+      "durationMs": 1104190,
+      "recordingDurationMs": 1104190,
+      "bytes": 13250994,
+      "sha256": "c495b375d9d9aa813986578d2552fa1f3da677f21dfea7e90cdf600840758431",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 35.64,
+          "end": 1139.79
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/102.mp3",
+      "startMs": 0,
+      "endMs": 5540,
+      "durationMs": 5540,
+      "recordingDurationMs": 5540,
+      "bytes": 67222,
+      "sha256": "f9fcaa073a3b46368cbd0ed9e728d722d59913fb1e13aff4b421c100977b81d2",
+      "sharedAyahs": [
+        "23:102"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 1139.79,
+          "end": 1145.32
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/103.mp3",
+      "startMs": 0,
+      "endMs": 493900,
+      "durationMs": 493900,
+      "recordingDurationMs": 493900,
+      "bytes": 5927446,
+      "sha256": "900211ee21ca7fe13513ee4ce0d012703254ca8ff1cea9ddfe793ac511b1e458",
+      "sharedAyahs": [
+        "23:103"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 1145.32,
+          "end": 1639.2
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/104.mp3",
+      "startMs": 0,
+      "endMs": 115300,
+      "durationMs": 115300,
+      "recordingDurationMs": 115300,
+      "bytes": 1384246,
+      "sha256": "c77c5789a1334ae192136fb9344b3967e246df2063360f79710824ad19369f76",
+      "sharedAyahs": [
+        "23:104"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 1639.2,
+          "end": 1754.45
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/105.mp3",
+      "startMs": 0,
+      "endMs": 213530,
+      "durationMs": 213530,
+      "recordingDurationMs": 213530,
+      "bytes": 2563030,
+      "sha256": "1fbdcc293040f64434102ba2f3d598e7b2de5f5f02d97b713c99862c450d588b",
+      "sharedAyahs": [
+        "23:105"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 1754.45,
+          "end": 1967.97
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/106.mp3",
+      "startMs": 0,
+      "endMs": 86140,
+      "durationMs": 86140,
+      "recordingDurationMs": 86140,
+      "bytes": 1034326,
+      "sha256": "bf8f6f7369f474c2cf38763a23db5d1a7039760c074b1a082c021c1348056182",
+      "sharedAyahs": [
+        "23:106"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 1967.97,
+          "end": 2054.08
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/107.mp3",
+      "startMs": 0,
+      "endMs": 187370,
+      "durationMs": 187370,
+      "recordingDurationMs": 187370,
+      "bytes": 2249110,
+      "sha256": "154b6c6ca4510b4dab3ee7e7e2c9ac2958cf5a00e2277a6323bf335778424d10",
+      "sharedAyahs": [
+        "23:107"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 2054.08,
+          "end": 2241.42
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/108.mp3",
+      "startMs": 0,
+      "endMs": 10420,
+      "durationMs": 10420,
+      "recordingDurationMs": 10420,
+      "bytes": 125686,
+      "sha256": "f575fb8caa46c0a441c390c24eafeb40155f96364bebfd14a1c60389d307ef91",
+      "sharedAyahs": [
+        "23:108"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 2241.42,
+          "end": 2251.82
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/109.mp3",
+      "startMs": 0,
+      "endMs": 269570,
+      "durationMs": 269570,
+      "recordingDurationMs": 269570,
+      "bytes": 3235510,
+      "sha256": "8f13195edacd9745eb1daaff111d21c3993929b4458c2d72df87e41234dc21f3",
+      "sharedAyahs": [
+        "23:109"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 2251.82,
+          "end": 2521.36
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/110.mp3",
+      "startMs": 0,
+      "endMs": 46660,
+      "durationMs": 46660,
+      "recordingDurationMs": 46660,
+      "bytes": 560566,
+      "sha256": "f8ccf1e793b33a687cb63271525059cfeefa20e806ab7bc06f0355bcc0a2d7b0",
+      "sharedAyahs": [
+        "23:110"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 2521.36,
+          "end": 2568.0
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/111.mp3",
+      "startMs": 0,
+      "endMs": 47830,
+      "durationMs": 47830,
+      "recordingDurationMs": 47830,
+      "bytes": 574678,
+      "sha256": "27b1f8ba9de2da99ed843f2434fdb26bae84ca6ba915ae87abf43d0586ff1be0",
+      "sharedAyahs": [
+        "23:111"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 2568.0,
+          "end": 2615.79
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/112.mp3",
+      "startMs": 0,
+      "endMs": 28250,
+      "durationMs": 28250,
+      "recordingDurationMs": 28250,
+      "bytes": 339670,
+      "sha256": "7537476f453f1f3bc0ff2f0e444b20de68d226d64b9c7018e241a1e587aae7aa",
+      "sharedAyahs": [
+        "23:112"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "maGdkHxpRqM",
+          "start": 2615.79,
+          "end": 2644.03
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/introduction-113.mp3",
+      "startMs": 0,
+      "endMs": 254210,
+      "durationMs": 254210,
+      "recordingDurationMs": 254210,
+      "bytes": 3051186,
+      "sha256": "e1fafd05d10e32205983aa682058f8370656a361af5c13a168f33da4586cb38e",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "aolqh8AGK0A",
+          "start": 14.04,
+          "end": 268.22
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/113.mp3",
+      "startMs": 0,
+      "endMs": 5160,
+      "durationMs": 5160,
+      "recordingDurationMs": 5160,
+      "bytes": 62614,
+      "sha256": "3fb31d176d4238a79e25480c2226d5a249bba8c1caf28f996af749b0cc138699",
+      "sharedAyahs": [
+        "23:113"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aolqh8AGK0A",
+          "start": 268.22,
+          "end": 273.36
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/114.mp3",
+      "startMs": 0,
+      "endMs": 687530,
+      "durationMs": 687530,
+      "recordingDurationMs": 687530,
+      "bytes": 8251030,
+      "sha256": "21c0896ed037952862a167b41991146d90fd36cf14fd515541348efe4a829e09",
+      "sharedAyahs": [
+        "23:114"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aolqh8AGK0A",
+          "start": 273.36,
+          "end": 960.86
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/115.mp3",
+      "startMs": 0,
+      "endMs": 21480,
+      "durationMs": 21480,
+      "recordingDurationMs": 21480,
+      "bytes": 258454,
+      "sha256": "eab6a56f1112a1d8794d3b35e1e73ff3f4d484b781e4836ef20e30c516a1a7ce",
+      "sharedAyahs": [
+        "23:115"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aolqh8AGK0A",
+          "start": 960.86,
+          "end": 982.31
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/116.mp3",
+      "startMs": 0,
+      "endMs": 640320,
+      "durationMs": 640320,
+      "recordingDurationMs": 640320,
+      "bytes": 7684534,
+      "sha256": "ad569c67d6998a3d81875fac33eb0a28f1f12aadf8f4b73f3417fa056341003f",
+      "sharedAyahs": [
+        "23:116"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aolqh8AGK0A",
+          "start": 982.31,
+          "end": 1622.61
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/117.mp3",
+      "startMs": 0,
+      "endMs": 145010,
+      "durationMs": 145010,
+      "recordingDurationMs": 145010,
+      "bytes": 1740790,
+      "sha256": "0af87579e86a8327896e798603fd7dd02eda490b595e527efba8736b232ad019",
+      "sharedAyahs": [
+        "23:117"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aolqh8AGK0A",
+          "start": 1622.61,
+          "end": 1767.59
+        }
+      ]
+    },
+    {
+      "file": "023-المؤمنون-youtube-v1/118.mp3",
+      "startMs": 0,
+      "endMs": 847920,
+      "durationMs": 847920,
+      "recordingDurationMs": 847920,
+      "bytes": 10175734,
+      "sha256": "74a3d91fa711fbefc7735d678eb863e798f3ff53f4069fffacfa66e0c16ab3ad",
+      "sharedAyahs": [
+        "23:118"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "aolqh8AGK0A",
+          "start": 1767.59,
+          "end": 2615.49
+        }
+      ]
+    }
+  ]
+}
