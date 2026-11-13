@@ -1,0 +1,1845 @@
+{
+  "schemaVersion": 2,
+  "surah": 22,
+  "mode": "reused-clips",
+  "durationMs": 38465600,
+  "tracks": [
+    {
+      "file": "022-الحج-youtube-v1/introduction-00.mp3",
+      "startMs": 0,
+      "endMs": 30530,
+      "durationMs": 30530,
+      "recordingDurationMs": 30530,
+      "bytes": 367010,
+      "sha256": "a7b0a13e7ba29676ba87f6f0b8a13ccdb25a8a3b003b42558ea42a47ee46882b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "FvxwigUG47M",
+          "start": 2.56,
+          "end": 33.07
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 6380,
+      "durationMs": 6380,
+      "recordingDurationMs": 6380,
+      "bytes": 77282,
+      "sha256": "7552f4e6546a41c2b81382cea4d8570e33c337fe18df2aaf659c99e2ef24f720",
+      "sharedAyahs": [
+        "22:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FvxwigUG47M",
+          "start": 33.07,
+          "end": 39.42
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/002.mp3",
+      "startMs": 0,
+      "endMs": 694750,
+      "durationMs": 694750,
+      "recordingDurationMs": 694750,
+      "bytes": 8337698,
+      "sha256": "7d2d517198686962162d2a6f84dfcfb96a530573fd7f922ab6ac41c1ff1cdf93",
+      "sharedAyahs": [
+        "22:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FvxwigUG47M",
+          "start": 39.42,
+          "end": 734.14
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/003.mp3",
+      "startMs": 0,
+      "endMs": 915140,
+      "durationMs": 915140,
+      "recordingDurationMs": 915140,
+      "bytes": 10982402,
+      "sha256": "17b6a37fbf6b320abacf03d9bf6eb9386670f9183b9327a04e02e11741fdaaa2",
+      "sharedAyahs": [
+        "22:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "FvxwigUG47M",
+          "start": 734.14,
+          "end": 1649.27
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-04.mp3",
+      "startMs": 0,
+      "endMs": 321310,
+      "durationMs": 321310,
+      "recordingDurationMs": 321310,
+      "bytes": 3856418,
+      "sha256": "1d5809311aea2c8504a06c381cfd2d7e8ebcf591dedd551b472e78fdfdc17568",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "a_CyPg8WZZY",
+          "start": 13.15,
+          "end": 334.43
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/004.mp3",
+      "startMs": 0,
+      "endMs": 18240,
+      "durationMs": 18240,
+      "recordingDurationMs": 18240,
+      "bytes": 219554,
+      "sha256": "cae04636a714f77233601a3038fb233ff762e67ff755f72bf8045a5beebe2d76",
+      "sharedAyahs": [
+        "22:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a_CyPg8WZZY",
+          "start": 334.43,
+          "end": 352.64
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/005.mp3",
+      "startMs": 0,
+      "endMs": 1316690,
+      "durationMs": 1316690,
+      "recordingDurationMs": 1316690,
+      "bytes": 15800930,
+      "sha256": "f5209a80b6ab3e1663cccd28d7379fe29f4f107f9fe83619d434c82ba6fb2398",
+      "sharedAyahs": [
+        "22:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "a_CyPg8WZZY",
+          "start": 352.64,
+          "end": 1669.31
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-07.mp3",
+      "startMs": 0,
+      "endMs": 793510,
+      "durationMs": 793510,
+      "recordingDurationMs": 793510,
+      "bytes": 9522818,
+      "sha256": "02aa821f9db25c2b379c31da83a64c8c046d872b035da29fafc6d30a4aa13837",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "13BsXuIHmOg",
+          "start": 5.82,
+          "end": 799.3
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/006.mp3",
+      "startMs": 0,
+      "endMs": 202940,
+      "durationMs": 202940,
+      "recordingDurationMs": 202940,
+      "bytes": 2436002,
+      "sha256": "f8c154b75a722546228d0eb2041667680438054dbb72f738acb83eb517f4d9e7",
+      "sharedAyahs": [
+        "22:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "13BsXuIHmOg",
+          "start": 799.3,
+          "end": 1002.24
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/007.mp3",
+      "startMs": 0,
+      "endMs": 96340,
+      "durationMs": 96340,
+      "recordingDurationMs": 96340,
+      "bytes": 1156706,
+      "sha256": "90d3bd0a543334925e0f792fc119da7435644deddc077d12ef8604d344a65025",
+      "sharedAyahs": [
+        "22:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "13BsXuIHmOg",
+          "start": 1002.24,
+          "end": 1098.55
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/008.mp3",
+      "startMs": 0,
+      "endMs": 461540,
+      "durationMs": 461540,
+      "recordingDurationMs": 461540,
+      "bytes": 5539202,
+      "sha256": "79b3b7dc055f17dcf0423e94fbb4e17150bcffa8939869b5720fc35b917b08e6",
+      "sharedAyahs": [
+        "22:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "13BsXuIHmOg",
+          "start": 1098.55,
+          "end": 1560.06
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/009.mp3",
+      "startMs": 0,
+      "endMs": 128710,
+      "durationMs": 128710,
+      "recordingDurationMs": 128710,
+      "bytes": 1545218,
+      "sha256": "1722c1c77453a646825552f9536b52bbc619df5bf2484975ae64d169cb5cffbb",
+      "sharedAyahs": [
+        "22:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "13BsXuIHmOg",
+          "start": 1560.06,
+          "end": 1688.74
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/010.mp3",
+      "startMs": 0,
+      "endMs": 16850,
+      "durationMs": 16850,
+      "recordingDurationMs": 16850,
+      "bytes": 202852,
+      "sha256": "ebe81965ee5f21cab901cfea34935ccbc28cfb777f193fadcf86cffc5e3986d0",
+      "sharedAyahs": [
+        "22:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "13BsXuIHmOg",
+          "start": 1688.74,
+          "end": 1705.57
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-13.mp3",
+      "startMs": 0,
+      "endMs": 575330,
+      "durationMs": 575330,
+      "recordingDurationMs": 575330,
+      "bytes": 6904610,
+      "sha256": "a035fa6a775d37867012d56ff145737978df5d76179b3e039d8350848c12f63f",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "1u2IjxVe_tg",
+          "start": 4.28,
+          "end": 579.6
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/011.mp3",
+      "startMs": 0,
+      "endMs": 782860,
+      "durationMs": 782860,
+      "recordingDurationMs": 782860,
+      "bytes": 9394948,
+      "sha256": "b17558774ae8afb0af79c97c8399b602542fffabbfcba3ed25a67923fa91ba34",
+      "sharedAyahs": [
+        "22:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1u2IjxVe_tg",
+          "start": 579.6,
+          "end": 1362.41
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/012.mp3",
+      "startMs": 0,
+      "endMs": 227090,
+      "durationMs": 227090,
+      "recordingDurationMs": 227090,
+      "bytes": 2725732,
+      "sha256": "e306cb0b773d3c422a4c8a28298065f9deaaa6c5c2b502cf7eb36028ceeb5bcb",
+      "sharedAyahs": [
+        "22:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1u2IjxVe_tg",
+          "start": 1362.41,
+          "end": 1589.49
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/013.mp3",
+      "startMs": 0,
+      "endMs": 23860,
+      "durationMs": 23860,
+      "recordingDurationMs": 23860,
+      "bytes": 286948,
+      "sha256": "df29db5acc60352569823e5925a2ef3f7a5cb9d19fe5b032c8f52363643ed42c",
+      "sharedAyahs": [
+        "22:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "1u2IjxVe_tg",
+          "start": 1589.49,
+          "end": 1613.32
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-17.mp3",
+      "startMs": 0,
+      "endMs": 538850,
+      "durationMs": 538850,
+      "recordingDurationMs": 538850,
+      "bytes": 6466850,
+      "sha256": "793232846c816fa02aa28ab9d84b694f288abe45c68880556f50122278daed5a",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "6sfn_iEfg2c",
+          "start": 4.25,
+          "end": 543.09
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/014.mp3",
+      "startMs": 0,
+      "endMs": 350780,
+      "durationMs": 350780,
+      "recordingDurationMs": 350780,
+      "bytes": 4210084,
+      "sha256": "b083877f4a6f7b7d7b44b723c188644ca76dcaf43ec1e005de9d64cd6f2b6564",
+      "sharedAyahs": [
+        "22:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6sfn_iEfg2c",
+          "start": 543.09,
+          "end": 893.85
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/015.mp3",
+      "startMs": 0,
+      "endMs": 818060,
+      "durationMs": 818060,
+      "recordingDurationMs": 818060,
+      "bytes": 9817444,
+      "sha256": "667eb7e2d768148c551d2810b5d662fbc32ba64cb1d2599afb5f582d89474eaf",
+      "sharedAyahs": [
+        "22:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "6sfn_iEfg2c",
+          "start": 893.85,
+          "end": 1711.88
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-20.mp3",
+      "startMs": 0,
+      "endMs": 140950,
+      "durationMs": 140950,
+      "recordingDurationMs": 140950,
+      "bytes": 1692098,
+      "sha256": "b9cff0ee8e35bd550237ef1a220ba0703be104b4cbe0e77d499d38c18df65322",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "nswV3N5nBp0",
+          "start": 4.28,
+          "end": 145.22
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 536090,
+      "durationMs": 536090,
+      "recordingDurationMs": 536090,
+      "bytes": 6433732,
+      "sha256": "9799e081eead3c35ecf35fc1fdd839dd5320d12f2ab6c6075b23173408c62ef0",
+      "sharedAyahs": [
+        "22:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nswV3N5nBp0",
+          "start": 145.22,
+          "end": 681.28
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/017.mp3",
+      "startMs": 0,
+      "endMs": 900820,
+      "durationMs": 900820,
+      "recordingDurationMs": 900820,
+      "bytes": 10810468,
+      "sha256": "1948801f1bc8da2515abb45c44d92ffa03207b5a597586a796eddf58011547d7",
+      "sharedAyahs": [
+        "22:17"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nswV3N5nBp0",
+          "start": 681.28,
+          "end": 1582.06
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/018.mp3",
+      "startMs": 0,
+      "endMs": 100610,
+      "durationMs": 100610,
+      "recordingDurationMs": 100610,
+      "bytes": 1207972,
+      "sha256": "3519dfddc4569defc9a00b5b88775f9c1a9d6b0ce71e712a7c7484a89888210a",
+      "sharedAyahs": [
+        "22:18"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "nswV3N5nBp0",
+          "start": 1582.06,
+          "end": 1682.66
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-24.mp3",
+      "startMs": 0,
+      "endMs": 1386050,
+      "durationMs": 1386050,
+      "recordingDurationMs": 1386050,
+      "bytes": 16633250,
+      "sha256": "57d00b7061e2c516e07891fd4527dc665b74d336f34b3d32c88b5a967bc9ad8c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Zb1NKfq4wOc",
+          "start": 4.06,
+          "end": 1390.09
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/019.mp3",
+      "startMs": 0,
+      "endMs": 326350,
+      "durationMs": 326350,
+      "recordingDurationMs": 326350,
+      "bytes": 3916900,
+      "sha256": "b26be945c66440d6bacc7867f39e00337b37abab558f1e14994db60b58628c83",
+      "sharedAyahs": [
+        "22:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Zb1NKfq4wOc",
+          "start": 1390.09,
+          "end": 1716.42
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-26.mp3",
+      "startMs": 0,
+      "endMs": 121080,
+      "durationMs": 121080,
+      "recordingDurationMs": 121080,
+      "bytes": 1453634,
+      "sha256": "f9636879a8287987f0a1f8d7093d9fee0a9256165adba29f40a8e37588daf470",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "kFL5isGjx4A",
+          "start": 6.11,
+          "end": 127.16
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/020.mp3",
+      "startMs": 0,
+      "endMs": 20900,
+      "durationMs": 20900,
+      "recordingDurationMs": 20900,
+      "bytes": 251524,
+      "sha256": "893f7ae45583ba9f3891061d9eeda52f7bf909c24b9b82c485acf411b77b8647",
+      "sharedAyahs": [
+        "22:20"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kFL5isGjx4A",
+          "start": 127.16,
+          "end": 148.05
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/021.mp3",
+      "startMs": 0,
+      "endMs": 85750,
+      "durationMs": 85750,
+      "recordingDurationMs": 85750,
+      "bytes": 1029700,
+      "sha256": "13e5bcc558dbfdef49b7b066dd24b43de3f5390beb49a17203d9f87f9242d063",
+      "sharedAyahs": [
+        "22:21"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kFL5isGjx4A",
+          "start": 148.05,
+          "end": 233.77
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/022.mp3",
+      "startMs": 0,
+      "endMs": 142390,
+      "durationMs": 142390,
+      "recordingDurationMs": 142390,
+      "bytes": 1709380,
+      "sha256": "ec0b01d95ad98b6e5ba15be1ee3a055f0a82170ea1265122a78cf3dba57ce8af",
+      "sharedAyahs": [
+        "22:22"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kFL5isGjx4A",
+          "start": 233.77,
+          "end": 376.14
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/023.mp3",
+      "startMs": 0,
+      "endMs": 118030,
+      "durationMs": 118030,
+      "recordingDurationMs": 118030,
+      "bytes": 1417060,
+      "sha256": "846a5b635e8f85b2f5ee19a18bac17544b849065e53be88d0f7da8042919aea3",
+      "sharedAyahs": [
+        "22:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kFL5isGjx4A",
+          "start": 376.14,
+          "end": 494.16
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/024.mp3",
+      "startMs": 0,
+      "endMs": 89020,
+      "durationMs": 89020,
+      "recordingDurationMs": 89020,
+      "bytes": 1068868,
+      "sha256": "1c1884caabcbbc2561e05a60a91b475800b546f515384649096b97e5c7e9f62a",
+      "sharedAyahs": [
+        "22:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kFL5isGjx4A",
+          "start": 494.16,
+          "end": 583.14
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/025.mp3",
+      "startMs": 0,
+      "endMs": 1042100,
+      "durationMs": 1042100,
+      "recordingDurationMs": 1042100,
+      "bytes": 12505924,
+      "sha256": "13d230f9ea8fa1091f4d0d0f626a0cf6112cf6b3862c0c61a926df4df1e3c1ae",
+      "sharedAyahs": [
+        "22:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kFL5isGjx4A",
+          "start": 583.14,
+          "end": 1625.22
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/026.mp3",
+      "startMs": 0,
+      "endMs": 24940,
+      "durationMs": 24940,
+      "recordingDurationMs": 24940,
+      "bytes": 299908,
+      "sha256": "ddb31f2efee04c6b92a8512af667554c515e41bb6c440e5716d17cc5f3a90acd",
+      "sharedAyahs": [
+        "22:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "kFL5isGjx4A",
+          "start": 1625.22,
+          "end": 1650.13
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-34.mp3",
+      "startMs": 0,
+      "endMs": 518810,
+      "durationMs": 518810,
+      "recordingDurationMs": 518810,
+      "bytes": 6226370,
+      "sha256": "0d9c67a052f1cfb5fde85a5099ec90ac160f053b00cba7b9320fb7600310a7fe",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "pJ1j7mAwBvM",
+          "start": 26.78,
+          "end": 545.56
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/027.mp3",
+      "startMs": 0,
+      "endMs": 1067570,
+      "durationMs": 1067570,
+      "recordingDurationMs": 1067570,
+      "bytes": 12811492,
+      "sha256": "2d2a49cf18ca0acecf8376fb31f5beb7efd4ae376ad3895b553fec694f05928b",
+      "sharedAyahs": [
+        "22:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pJ1j7mAwBvM",
+          "start": 545.56,
+          "end": 1613.1
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/028.mp3",
+      "startMs": 0,
+      "endMs": 100440,
+      "durationMs": 100440,
+      "recordingDurationMs": 100440,
+      "bytes": 1205956,
+      "sha256": "d30df3644980d59c055642389fb8fd2254053e9abb8145a3a7756c21c7b838bd",
+      "sharedAyahs": [
+        "22:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pJ1j7mAwBvM",
+          "start": 1613.1,
+          "end": 1713.52
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-37.mp3",
+      "startMs": 0,
+      "endMs": 410880,
+      "durationMs": 410880,
+      "recordingDurationMs": 410880,
+      "bytes": 4931234,
+      "sha256": "9d5e626170ceea8df593aa5c82c5f57dad1591c98990510167855537e714bd92",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "3k8VGrFFMD4",
+          "start": 4.73,
+          "end": 415.6
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/029.mp3",
+      "startMs": 0,
+      "endMs": 445220,
+      "durationMs": 445220,
+      "recordingDurationMs": 445220,
+      "bytes": 5343364,
+      "sha256": "1c653783797331019230edf30fb65cad43334afe5d0b94a706305de03495eb10",
+      "sharedAyahs": [
+        "22:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3k8VGrFFMD4",
+          "start": 415.6,
+          "end": 860.8
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/030.mp3",
+      "startMs": 0,
+      "endMs": 816580,
+      "durationMs": 816580,
+      "recordingDurationMs": 816580,
+      "bytes": 9799588,
+      "sha256": "990b06b246a01659dceb7cee7da1bc1e0c40ce5ab86e0f022f298a184693f167",
+      "sharedAyahs": [
+        "22:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3k8VGrFFMD4",
+          "start": 860.8,
+          "end": 1677.34
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-40.mp3",
+      "startMs": 0,
+      "endMs": 33720,
+      "durationMs": 33720,
+      "recordingDurationMs": 33720,
+      "bytes": 405314,
+      "sha256": "b06c241266c2dba6af1e3dcb0dcf07435de396ba2059de9ce797003e533004b4",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "YChXeSW-Cag",
+          "start": 0.0,
+          "end": 33.69
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/031.mp3",
+      "startMs": 0,
+      "endMs": 1082160,
+      "durationMs": 1082160,
+      "recordingDurationMs": 1082160,
+      "bytes": 12986596,
+      "sha256": "d9c7974785af44074f9e14b77c25278d9bf6b044b48784eba25bd29bd75dc7ef",
+      "sharedAyahs": [
+        "22:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YChXeSW-Cag",
+          "start": 33.69,
+          "end": 1115.82
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/032.mp3",
+      "startMs": 0,
+      "endMs": 37610,
+      "durationMs": 37610,
+      "recordingDurationMs": 37610,
+      "bytes": 451972,
+      "sha256": "6ab968f69fd263163c1943c9ef19c42822d770b185ecb4ec46c9270426b5b6cf",
+      "sharedAyahs": [
+        "22:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YChXeSW-Cag",
+          "start": 1115.82,
+          "end": 1153.4
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/033.mp3",
+      "startMs": 0,
+      "endMs": 141860,
+      "durationMs": 141860,
+      "recordingDurationMs": 141860,
+      "bytes": 1703044,
+      "sha256": "65b6d8d8a86cf33f994ddd735ddaea1ed62f80a75117ebd1a0eb576aad5bff46",
+      "sharedAyahs": [
+        "22:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YChXeSW-Cag",
+          "start": 1153.4,
+          "end": 1295.24
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/034.mp3",
+      "startMs": 0,
+      "endMs": 425330,
+      "durationMs": 425330,
+      "recordingDurationMs": 425330,
+      "bytes": 5104612,
+      "sha256": "9579f07a5a4ede83a25d213138635019c1f26f99478a7e0cdc690b26ae70680b",
+      "sharedAyahs": [
+        "22:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "YChXeSW-Cag",
+          "start": 1295.24,
+          "end": 1720.54
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-45.mp3",
+      "startMs": 0,
+      "endMs": 265610,
+      "durationMs": 265610,
+      "recordingDurationMs": 265610,
+      "bytes": 3187970,
+      "sha256": "ebce3a44d93442f99447c6783e5589c747b50610edbaee7ba165e29c9d219478",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "0lF838iaNT8",
+          "start": 4.54,
+          "end": 270.13
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/035.mp3",
+      "startMs": 0,
+      "endMs": 724510,
+      "durationMs": 724510,
+      "recordingDurationMs": 724510,
+      "bytes": 8694820,
+      "sha256": "900309c7c3830f37be841e215eb4c1bb6709c781ca5f54e7601b2e7135ec18dc",
+      "sharedAyahs": [
+        "22:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0lF838iaNT8",
+          "start": 270.13,
+          "end": 994.62
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/036.mp3",
+      "startMs": 0,
+      "endMs": 215400,
+      "durationMs": 215400,
+      "recordingDurationMs": 215400,
+      "bytes": 2585476,
+      "sha256": "e3eba5e126ec7d37274c14eb1afed664d2b03c75673e47f6bd580fb09772a8da",
+      "sharedAyahs": [
+        "22:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0lF838iaNT8",
+          "start": 994.62,
+          "end": 1210.0
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/037.mp3",
+      "startMs": 0,
+      "endMs": 490440,
+      "durationMs": 490440,
+      "recordingDurationMs": 490440,
+      "bytes": 5885956,
+      "sha256": "ad428b282d0bee9c0dafc9c0205bf47c9305ba6030b0fa2f19e53a6609369a7c",
+      "sharedAyahs": [
+        "22:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "0lF838iaNT8",
+          "start": 1210.0,
+          "end": 1700.41
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-49.mp3",
+      "startMs": 0,
+      "endMs": 29090,
+      "durationMs": 29090,
+      "recordingDurationMs": 29090,
+      "bytes": 349730,
+      "sha256": "2d5ee569626f402778d3866cb093a48e76331b7fc77976a468902e513a065c37",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "pUinyJMLnrM",
+          "start": 3.68,
+          "end": 32.75
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/038.mp3",
+      "startMs": 0,
+      "endMs": 652030,
+      "durationMs": 652030,
+      "recordingDurationMs": 652030,
+      "bytes": 7825060,
+      "sha256": "1a38f25a2eac12162064090bec70e2203951c55d6eb0d834ec06bacb5189e621",
+      "sharedAyahs": [
+        "22:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pUinyJMLnrM",
+          "start": 32.75,
+          "end": 684.75
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/039.mp3",
+      "startMs": 0,
+      "endMs": 20040,
+      "durationMs": 20040,
+      "recordingDurationMs": 20040,
+      "bytes": 241156,
+      "sha256": "43ae6a2fe3db9a458c68ee9721611911708c039b70a54ec1ea77149ea7f5c534",
+      "sharedAyahs": [
+        "22:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pUinyJMLnrM",
+          "start": 684.75,
+          "end": 704.78
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/040.mp3",
+      "startMs": 0,
+      "endMs": 983900,
+      "durationMs": 983900,
+      "recordingDurationMs": 983900,
+      "bytes": 11807524,
+      "sha256": "a15433c4a215c53533c39a2adda0f49c22780a178d80ec7042976cc9f0c86c0f",
+      "sharedAyahs": [
+        "22:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "pUinyJMLnrM",
+          "start": 704.78,
+          "end": 1688.66
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-53.mp3",
+      "startMs": 0,
+      "endMs": 1132510,
+      "durationMs": 1132510,
+      "recordingDurationMs": 1132510,
+      "bytes": 13590818,
+      "sha256": "8bc91784bb9bcbf087a4cca4cd1f2bd8cbf1f4bdfba3ac2cb63b6bf9f7f15928",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "IWDEKrriZaU",
+          "start": 5.18,
+          "end": 1137.66
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 144140,
+      "durationMs": 144140,
+      "recordingDurationMs": 144140,
+      "bytes": 1730404,
+      "sha256": "caba1ee3978b1b101c10a405949cb5bb982d905de73f8096da15a74d0ffdc6a8",
+      "sharedAyahs": [
+        "22:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IWDEKrriZaU",
+          "start": 1137.66,
+          "end": 1281.78
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/042.mp3",
+      "startMs": 0,
+      "endMs": 12260,
+      "durationMs": 12260,
+      "recordingDurationMs": 12260,
+      "bytes": 147844,
+      "sha256": "87d16010396a9be22ac78ab1523aad23f4dfde568952151abd5e7f5044eba3da",
+      "sharedAyahs": [
+        "22:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IWDEKrriZaU",
+          "start": 1281.78,
+          "end": 1294.01
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/043.mp3",
+      "startMs": 0,
+      "endMs": 165770,
+      "durationMs": 165770,
+      "recordingDurationMs": 165770,
+      "bytes": 1989892,
+      "sha256": "b7a598b59386588b86d410e50ce13f004662700ad14199501284046a9c75590b",
+      "sharedAyahs": [
+        "22:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IWDEKrriZaU",
+          "start": 1294.01,
+          "end": 1459.76
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/044.mp3",
+      "startMs": 0,
+      "endMs": 136080,
+      "durationMs": 136080,
+      "recordingDurationMs": 136080,
+      "bytes": 1633636,
+      "sha256": "186e70e5ca5a6340f1019f658bba38b7206067d8d6e631d99d934eaa4ad9ce3a",
+      "sharedAyahs": [
+        "22:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IWDEKrriZaU",
+          "start": 1459.76,
+          "end": 1595.81
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/045.mp3",
+      "startMs": 0,
+      "endMs": 86280,
+      "durationMs": 86280,
+      "recordingDurationMs": 86280,
+      "bytes": 1036036,
+      "sha256": "fef4a05c0502fe8e6b42c47b4c3d265856aae2fbe6d93e1c9965eb115e93fa52",
+      "sharedAyahs": [
+        "22:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "IWDEKrriZaU",
+          "start": 1595.81,
+          "end": 1682.08
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-59.mp3",
+      "startMs": 0,
+      "endMs": 425690,
+      "durationMs": 425690,
+      "recordingDurationMs": 425690,
+      "bytes": 5108930,
+      "sha256": "9f1f3fa31d5c46670e3b3d7d1b79f1f1dd8f222421b9c6a5decceedaf35cd169",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Mwqx5oZPfbc",
+          "start": 0.0,
+          "end": 425.66
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/046.mp3",
+      "startMs": 0,
+      "endMs": 841510,
+      "durationMs": 841510,
+      "recordingDurationMs": 841510,
+      "bytes": 10098820,
+      "sha256": "a1b63201b508e5af56b87253e94711c2d1e5134ccfb2776a1b97ca548a763c27",
+      "sharedAyahs": [
+        "22:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Mwqx5oZPfbc",
+          "start": 425.66,
+          "end": 1267.14
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/047.mp3",
+      "startMs": 0,
+      "endMs": 397630,
+      "durationMs": 397630,
+      "recordingDurationMs": 397630,
+      "bytes": 4772265,
+      "sha256": "521a84d9577cc9c845dcc3d91601fb017c3e9cd4adf525fb3c4e0c147dc21104",
+      "sharedAyahs": [
+        "22:47",
+        "22:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Mwqx5oZPfbc",
+          "start": 1267.14,
+          "end": 1664.76
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-62.mp3",
+      "startMs": 0,
+      "endMs": 143060,
+      "durationMs": 143060,
+      "recordingDurationMs": 143060,
+      "bytes": 1717442,
+      "sha256": "d89d660c1dce98ce07af0385631a824530580cd78ecddf94595c053decf93b5b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "AmAFgR8Z6Do",
+          "start": 2.84,
+          "end": 145.89
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/049.mp3",
+      "startMs": 0,
+      "endMs": 59810,
+      "durationMs": 59810,
+      "recordingDurationMs": 59810,
+      "bytes": 718372,
+      "sha256": "0e26792aa5acfde074594355c926344694157b63fa060b41d05e8eff33d549f1",
+      "sharedAyahs": [
+        "22:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AmAFgR8Z6Do",
+          "start": 145.89,
+          "end": 205.68
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/050.mp3",
+      "startMs": 0,
+      "endMs": 83570,
+      "durationMs": 83570,
+      "recordingDurationMs": 83570,
+      "bytes": 1003492,
+      "sha256": "6734a1b13f9bb0363efd581f2a142f5afd03817568956c4cb57a0ed76289da07",
+      "sharedAyahs": [
+        "22:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AmAFgR8Z6Do",
+          "start": 205.68,
+          "end": 289.22
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 611060,
+      "durationMs": 611060,
+      "recordingDurationMs": 611060,
+      "bytes": 7333444,
+      "sha256": "aab3619300ba6de9ba3f79c9fb851db47cc0cf1f566f0facb3ebc60e0856e18c",
+      "sharedAyahs": [
+        "22:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AmAFgR8Z6Do",
+          "start": 289.22,
+          "end": 900.25
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/052.mp3",
+      "startMs": 0,
+      "endMs": 753120,
+      "durationMs": 753120,
+      "recordingDurationMs": 753120,
+      "bytes": 9038116,
+      "sha256": "19bd34047097b758af728ee21a6c4d0488541f70d044c66181e2726d9ae244c0",
+      "sharedAyahs": [
+        "22:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "AmAFgR8Z6Do",
+          "start": 900.25,
+          "end": 1653.36
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-67.mp3",
+      "startMs": 0,
+      "endMs": 656450,
+      "durationMs": 656450,
+      "recordingDurationMs": 656450,
+      "bytes": 7878050,
+      "sha256": "7b4b64ab03630b11fefcaa1745ddac8da1fd64f59f791e74d9a1377633bb90cf",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "3GK8_tXPtl0",
+          "start": 0.0,
+          "end": 656.42
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/053.mp3",
+      "startMs": 0,
+      "endMs": 182590,
+      "durationMs": 182590,
+      "recordingDurationMs": 182590,
+      "bytes": 2191780,
+      "sha256": "7d221ddccbf7f652a1bbed2bdf8f5a8e86bd8c2faced50fc24cc1544d4149438",
+      "sharedAyahs": [
+        "22:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3GK8_tXPtl0",
+          "start": 656.42,
+          "end": 838.98
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/054.mp3",
+      "startMs": 0,
+      "endMs": 551950,
+      "durationMs": 551950,
+      "recordingDurationMs": 551950,
+      "bytes": 6624100,
+      "sha256": "6c2898f536279669261fa8da49c01058bd68ecaa6c1035cb2b854506f0ec2f28",
+      "sharedAyahs": [
+        "22:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3GK8_tXPtl0",
+          "start": 838.98,
+          "end": 1390.92
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/055.mp3",
+      "startMs": 0,
+      "endMs": 317880,
+      "durationMs": 317880,
+      "recordingDurationMs": 317880,
+      "bytes": 3815236,
+      "sha256": "b907b2b1ccbe309b800bc228ed4c91cc3c3b162ed885b7bf199bb823509739a6",
+      "sharedAyahs": [
+        "22:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "3GK8_tXPtl0",
+          "start": 1390.92,
+          "end": 1708.77
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-71.mp3",
+      "startMs": 0,
+      "endMs": 764380,
+      "durationMs": 764380,
+      "recordingDurationMs": 764380,
+      "bytes": 9173186,
+      "sha256": "e02bfd9909b760d368709caffd690f9f91608efd7a98be90188b0f088b9ab629",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "N5c-luVM9SE",
+          "start": 0.0,
+          "end": 764.33
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/056.mp3",
+      "startMs": 0,
+      "endMs": 43560,
+      "durationMs": 43560,
+      "recordingDurationMs": 43560,
+      "bytes": 523396,
+      "sha256": "8506cf6f231a87c6fda41d3febfc9fa1242abec66bd0e5bafd2290375c6870c9",
+      "sharedAyahs": [
+        "22:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N5c-luVM9SE",
+          "start": 764.33,
+          "end": 807.87
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/057.mp3",
+      "startMs": 0,
+      "endMs": 563040,
+      "durationMs": 563040,
+      "recordingDurationMs": 563040,
+      "bytes": 6757161,
+      "sha256": "6d7e7dbcf4dce7589b4dc5556213694a8aa1296f863fba084ef7fe832a5e8319",
+      "sharedAyahs": [
+        "22:57",
+        "22:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N5c-luVM9SE",
+          "start": 807.87,
+          "end": 1370.89
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 193510,
+      "durationMs": 193510,
+      "recordingDurationMs": 193510,
+      "bytes": 2322820,
+      "sha256": "9c83a16b8043d3b9ccce71339c7d3626beaae1c7e4e140eef2069dab956decea",
+      "sharedAyahs": [
+        "22:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N5c-luVM9SE",
+          "start": 1370.89,
+          "end": 1564.38
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/060.mp3",
+      "startMs": 0,
+      "endMs": 30620,
+      "durationMs": 30620,
+      "recordingDurationMs": 30620,
+      "bytes": 368164,
+      "sha256": "18c7879cb9ff993f8a3332e426b8820bcd9fc0b4f305b837d6e2fcaa5418dce4",
+      "sharedAyahs": [
+        "22:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "N5c-luVM9SE",
+          "start": 1564.38,
+          "end": 1595.02
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-76.mp3",
+      "startMs": 0,
+      "endMs": 665740,
+      "durationMs": 665740,
+      "recordingDurationMs": 665740,
+      "bytes": 7989506,
+      "sha256": "fbf1247256a6a4fdda17903dc94e7a701ec4c9cdd40b982965594e7e12fe52ec",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "Nei0aPC6fhA",
+          "start": 5.08,
+          "end": 670.79
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/061.mp3",
+      "startMs": 0,
+      "endMs": 255820,
+      "durationMs": 255820,
+      "recordingDurationMs": 255820,
+      "bytes": 3070468,
+      "sha256": "ee3ca72894bd2aa48a2ca10ba03265ef7f5e68ed3bac5ff1182668b042623230",
+      "sharedAyahs": [
+        "22:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Nei0aPC6fhA",
+          "start": 670.79,
+          "end": 926.57
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/062.mp3",
+      "startMs": 0,
+      "endMs": 174580,
+      "durationMs": 174580,
+      "recordingDurationMs": 174580,
+      "bytes": 2095588,
+      "sha256": "2388db5356967ac10eeac173476a13e90adfd8d6f643b4e4188457eb2c4e5db6",
+      "sharedAyahs": [
+        "22:62"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Nei0aPC6fhA",
+          "start": 926.57,
+          "end": 1101.14
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/063.mp3",
+      "startMs": 0,
+      "endMs": 575980,
+      "durationMs": 575980,
+      "recordingDurationMs": 575980,
+      "bytes": 6912388,
+      "sha256": "1bae28345a67efcc14d144dfc85cd0709c1f92b8f188f95dca747966b13fa454",
+      "sharedAyahs": [
+        "22:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Nei0aPC6fhA",
+          "start": 1101.14,
+          "end": 1677.09
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/064.mp3",
+      "startMs": 0,
+      "endMs": 28920,
+      "durationMs": 28920,
+      "recordingDurationMs": 28920,
+      "bytes": 347716,
+      "sha256": "c96de035594de7b189102b734098f28c638203a905d7b549b68745298af43f6f",
+      "sharedAyahs": [
+        "22:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "Nei0aPC6fhA",
+          "start": 1677.09,
+          "end": 1706.02
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-81.mp3",
+      "startMs": 0,
+      "endMs": 179470,
+      "durationMs": 179470,
+      "recordingDurationMs": 179470,
+      "bytes": 2154338,
+      "sha256": "39c045cadf16e2623a236f2e4220fc6c37b8c44947fe9658843c5afe17beb8c9",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "EAzD8qb1cQ4",
+          "start": 5.56,
+          "end": 185.01
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/065.mp3",
+      "startMs": 0,
+      "endMs": 388820,
+      "durationMs": 388820,
+      "recordingDurationMs": 388820,
+      "bytes": 4666564,
+      "sha256": "24870ad7d0baebcfc7d68e88d3be464b6b2ae9ca53e6e2c927fdb67f8bcedd6b",
+      "sharedAyahs": [
+        "22:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EAzD8qb1cQ4",
+          "start": 185.01,
+          "end": 573.8
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/066.mp3",
+      "startMs": 0,
+      "endMs": 849670,
+      "durationMs": 849670,
+      "recordingDurationMs": 849670,
+      "bytes": 10196740,
+      "sha256": "381204aeaebff13691d120792e65887715fc9ca9ef8443b3c8ee60c280863830",
+      "sharedAyahs": [
+        "22:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EAzD8qb1cQ4",
+          "start": 573.8,
+          "end": 1423.46
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/067.mp3",
+      "startMs": 0,
+      "endMs": 116710,
+      "durationMs": 116710,
+      "recordingDurationMs": 116710,
+      "bytes": 1401220,
+      "sha256": "83009c2a286aa67693313471d93061e30e165ebd616c68e318e98492ecf4cc7b",
+      "sharedAyahs": [
+        "22:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EAzD8qb1cQ4",
+          "start": 1423.46,
+          "end": 1540.14
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/068.mp3",
+      "startMs": 0,
+      "endMs": 77810,
+      "durationMs": 77810,
+      "recordingDurationMs": 77810,
+      "bytes": 934372,
+      "sha256": "8750e136f84b9fecb378f567f95fa01dd2798817fa3dbaedebbd43f9638796a0",
+      "sharedAyahs": [
+        "22:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EAzD8qb1cQ4",
+          "start": 1540.14,
+          "end": 1617.93
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/069.mp3",
+      "startMs": 0,
+      "endMs": 82200,
+      "durationMs": 82200,
+      "recordingDurationMs": 82200,
+      "bytes": 987076,
+      "sha256": "b137d5cbf27d5d3b6712f8f944525c74f2892b6af839306e3c6e22653e76f3d7",
+      "sharedAyahs": [
+        "22:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "EAzD8qb1cQ4",
+          "start": 1617.93,
+          "end": 1700.14
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-87.mp3",
+      "startMs": 0,
+      "endMs": 28680,
+      "durationMs": 28680,
+      "recordingDurationMs": 28680,
+      "bytes": 344834,
+      "sha256": "47edd1d66249a003a3b114346886bfd08e0ba67ba0ae32fa12709ce976ef9a88",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "PORpAo01dP4",
+          "start": 3.74,
+          "end": 32.39
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/070.mp3",
+      "startMs": 0,
+      "endMs": 251660,
+      "durationMs": 251660,
+      "recordingDurationMs": 251660,
+      "bytes": 3020644,
+      "sha256": "170a86bedef7e23b7d538bdccf3060947bae1abb51f57c3112e4656ac17fbbd0",
+      "sharedAyahs": [
+        "22:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PORpAo01dP4",
+          "start": 32.39,
+          "end": 284.04
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/071.mp3",
+      "startMs": 0,
+      "endMs": 256100,
+      "durationMs": 256100,
+      "recordingDurationMs": 256100,
+      "bytes": 3073924,
+      "sha256": "821eb653291f1305e4b34f5b3cfe4fa6d9032d9bea131450370aa7b153b9c2ef",
+      "sharedAyahs": [
+        "22:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PORpAo01dP4",
+          "start": 284.04,
+          "end": 540.12
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/072.mp3",
+      "startMs": 0,
+      "endMs": 287280,
+      "durationMs": 287280,
+      "recordingDurationMs": 287280,
+      "bytes": 3448036,
+      "sha256": "2dd1df0c9ca8cd6f26e2dd9b6e35b1ddec1db01b99c52c9c5377eef897e6a82d",
+      "sharedAyahs": [
+        "22:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PORpAo01dP4",
+          "start": 540.12,
+          "end": 827.37
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/073.mp3",
+      "startMs": 0,
+      "endMs": 754320,
+      "durationMs": 754320,
+      "recordingDurationMs": 754320,
+      "bytes": 9052516,
+      "sha256": "d86c79e008c2132c529ea47337381ccc63629a0ac65be1be8c18d645e906eaab",
+      "sharedAyahs": [
+        "22:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PORpAo01dP4",
+          "start": 827.37,
+          "end": 1581.65
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/074.mp3",
+      "startMs": 0,
+      "endMs": 79200,
+      "durationMs": 79200,
+      "recordingDurationMs": 79200,
+      "bytes": 951076,
+      "sha256": "c4559ad619b989496838414b5c5a64bd1b1868a2e1671e419eba75765062b594",
+      "sharedAyahs": [
+        "22:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "PORpAo01dP4",
+          "start": 1581.65,
+          "end": 1660.87
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-93.mp3",
+      "startMs": 0,
+      "endMs": 566110,
+      "durationMs": 566110,
+      "recordingDurationMs": 566110,
+      "bytes": 6794018,
+      "sha256": "9130c5bf7af11e156c6db0b2a24ccf809853c04c7713f0c5e5282ab5795d27ea",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "u3iuIfYjo8c",
+          "start": 2.01,
+          "end": 568.1
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/075.mp3",
+      "startMs": 0,
+      "endMs": 275090,
+      "durationMs": 275090,
+      "recordingDurationMs": 275090,
+      "bytes": 3301732,
+      "sha256": "ed9994d7b96b526e363eeea299daf9939b0d06be821f1e2c0ff1bda1acb6c48d",
+      "sharedAyahs": [
+        "22:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "u3iuIfYjo8c",
+          "start": 568.1,
+          "end": 843.16
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/076.mp3",
+      "startMs": 0,
+      "endMs": 394060,
+      "durationMs": 394060,
+      "recordingDurationMs": 394060,
+      "bytes": 4729348,
+      "sha256": "085d947cc0d3eddc8f57331f561dece666a7d7c55492c4be890ae4f082b0fe46",
+      "sharedAyahs": [
+        "22:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "u3iuIfYjo8c",
+          "start": 843.16,
+          "end": 1237.19
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/077.mp3",
+      "startMs": 0,
+      "endMs": 402720,
+      "durationMs": 402720,
+      "recordingDurationMs": 402720,
+      "bytes": 4833316,
+      "sha256": "5da357af56b4d488441ce2ee6524b76fa925abf413f811bb9570cc629307a720",
+      "sharedAyahs": [
+        "22:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "u3iuIfYjo8c",
+          "start": 1237.19,
+          "end": 1639.89
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/introduction-97.mp3",
+      "startMs": 0,
+      "endMs": 375410,
+      "durationMs": 375410,
+      "recordingDurationMs": 375410,
+      "bytes": 4505570,
+      "sha256": "a1f5960c9069ee5adfde74586e4c6a388f2f29d8e8434a10c0e03a64b9dfd336",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "9CSR_HR8fow",
+          "start": 30.86,
+          "end": 406.24
+        }
+      ]
+    },
+    {
+      "file": "022-الحج-youtube-v1/078.mp3",
+      "startMs": 0,
+      "endMs": 1286740,
+      "durationMs": 1286740,
+      "recordingDurationMs": 1286740,
+      "bytes": 15441508,
+      "sha256": "9425198aa0f654bc38031b050cac99d0b1fce48df86b96d5619bf95e3573537e",
+      "sharedAyahs": [
+        "22:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9CSR_HR8fow",
+          "start": 406.24,
+          "end": 1692.95
+        }
+      ]
+    }
+  ]
+}
