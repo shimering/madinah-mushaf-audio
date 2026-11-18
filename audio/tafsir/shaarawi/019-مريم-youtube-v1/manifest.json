@@ -1,0 +1,3891 @@
+{
+  "schemaVersion": 2,
+  "collection": "shaarawi",
+  "speaker": "محمد متولي الشعراوي",
+  "source": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي ومصادر أرشيفية موثقة - YouTube",
+  "surah": 19,
+  "surahName": "مريم",
+  "ayahCount": 98,
+  "reviewStatus": "complete_verified_source_edition",
+  "editionStatus": "experimental",
+  "coverage": {
+    "complete": true,
+    "totalAyahCount": 98,
+    "mappedAyahCount": 98,
+    "missingAyahs": [],
+    "missingCommentary": []
+  },
+  "rights": "Source attribution does not constitute a redistribution license.",
+  "sources": {
+    "lEG1un6H7xY": {
+      "durationSeconds": 3083.16,
+      "bytes": 36998610,
+      "sha256": "b2be333e7cb2fe272bb9dcb8b986d5e9d1d3176194f8143952aae7b07346eab2",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "001_001-007_lEG1un6H7xY.mp3"
+    },
+    "DKGG5WNfifk": {
+      "durationSeconds": 2717.81,
+      "bytes": 32614388,
+      "sha256": "d1ca2f93cc1e25a60446e2f0af3201096ac2a9a64750076950c008ebf869e2a1",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "002_007-016_DKGG5WNfifk.mp3"
+    },
+    "p9MaaZ8tQcc": {
+      "durationSeconds": 2794.63,
+      "bytes": 33536278,
+      "sha256": "2100cf11afe600c9f469eb62258112d40001fac66e59c4b10870f94539468ade",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "003_016-023_p9MaaZ8tQcc.mp3"
+    },
+    "9JvJRbyzAvg": {
+      "durationSeconds": 2678.14,
+      "bytes": 32138347,
+      "sha256": "5d6bae191918ff1c6e7fb8729aab5a54e7cdb0a5fcc18cac8059a646f10ce02d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "004_023-037_9JvJRbyzAvg.mp3"
+    },
+    "VoovyO_-D8U": {
+      "durationSeconds": 2648.83,
+      "bytes": 31786698,
+      "sha256": "7e15c59513e8b41f4abf94d593363d1aa6c2699dcb9fb17558df6e40bee7cab0",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "005_037-046_VoovyO_-D8U.mp3"
+    },
+    "oEy8ZtFe6dk": {
+      "durationSeconds": 2682.96,
+      "bytes": 32196234,
+      "sha256": "3eee115fe1b64312e533614258363ade1974afbb8810a91858847b2668ae42f7",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "006_046-052_oEy8ZtFe6dk.mp3"
+    },
+    "XwE9BnatZfw": {
+      "durationSeconds": 2350.99,
+      "bytes": 28212619,
+      "sha256": "f978a9316ff132d80a59f79251a34cbd841b0609045f516de01d07af9f909986",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "007_051-061_XwE9BnatZfw.mp3"
+    },
+    "2FD6bDrcplA": {
+      "durationSeconds": 2701.99,
+      "bytes": 32424598,
+      "sha256": "b3c0ac6ec307a8b01b16817718a2789150f090bbab6cb529929329f84e9d4ad9",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "008_061-071_2FD6bDrcplA.mp3"
+    },
+    "eQYAOW9SVW4": {
+      "durationSeconds": 2806.27,
+      "bytes": 33675958,
+      "sha256": "67c70fb49e42c16700d4cb754f447011f9c2c23108c5bbb0199e8731b2559746",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "009_071-074_eQYAOW9SVW4.mp3"
+    },
+    "60uH4kSQvbE": {
+      "durationSeconds": 2465.83,
+      "bytes": 29590700,
+      "sha256": "097ecd43ff18f586e44302237bcde10746e83bfbedb56e54b65375ccccf44e52",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "010_074-083_60uH4kSQvbE.mp3"
+    },
+    "lWXnngWLi6I": {
+      "durationSeconds": 3713.35,
+      "bytes": 44560919,
+      "sha256": "fd954691ec43c22c9d53ee05eba22500ae64ed8979e1b9dd94d3ef0e82cbb09d",
+      "audioCodec": "mp3 (mp3float)",
+      "file": "011_083-098_lWXnngWLi6I.mp3"
+    }
+  },
+  "ayahs": {
+    "19:1": {
+      "file": "019-مريم-youtube-v1/001.mp3",
+      "durationMs": 536740,
+      "bytes": 6441506,
+      "sha256": "704d4a1df310b5ac74e4427b2784f35c43b042ab9b0e0de3b7ccbe510faa6404",
+      "sharedAyahs": [
+        "19:1"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lEG1un6H7xY",
+          "start": 42.04,
+          "end": 578.76
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:2": {
+      "file": "019-مريم-youtube-v1/002.mp3",
+      "durationMs": 566520,
+      "bytes": 6798914,
+      "sha256": "4be94c3e8947767908930d5c4ff86c95b05958c0be188cc06e4d895a70048893",
+      "sharedAyahs": [
+        "19:2"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lEG1un6H7xY",
+          "start": 578.76,
+          "end": 1145.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:3": {
+      "file": "019-مريم-youtube-v1/003.mp3",
+      "durationMs": 962690,
+      "bytes": 11552930,
+      "sha256": "e0a493441f0e6a0582b52fbc9d702078e3fdfe7841c9ca3c193dd94af0447f0c",
+      "sharedAyahs": [
+        "19:3"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lEG1un6H7xY",
+          "start": 1145.25,
+          "end": 2107.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:4": {
+      "file": "019-مريم-youtube-v1/004.mp3",
+      "durationMs": 99260,
+      "bytes": 1191842,
+      "sha256": "f2f48dc051372b37883eb5d6b53a4f0f22a92df55eb21f811e1953879487023f",
+      "sharedAyahs": [
+        "19:4"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lEG1un6H7xY",
+          "start": 2107.91,
+          "end": 2207.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:5": {
+      "file": "019-مريم-youtube-v1/005.mp3",
+      "durationMs": 504860,
+      "bytes": 6059042,
+      "sha256": "121b05a0d16ece39e5196f71323f0adc3c84cbd9225eebc6cf0cc83ccffe9f3a",
+      "sharedAyahs": [
+        "19:5"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lEG1un6H7xY",
+          "start": 2207.16,
+          "end": 2711.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:6": {
+      "file": "019-مريم-youtube-v1/006.mp3",
+      "durationMs": 125780,
+      "bytes": 1510082,
+      "sha256": "9fce81f82969915c4e08bfa9d823514e122d3553bc6af1fcb5a07930c9a6d959",
+      "sharedAyahs": [
+        "19:6"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lEG1un6H7xY",
+          "start": 2711.99,
+          "end": 2837.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:7": {
+      "file": "019-مريم-youtube-v1/007.mp3",
+      "durationMs": 188860,
+      "bytes": 2266946,
+      "sha256": "05d934b669b2d1b33641d7944c42fc5016cb839e10a5e5b61d48f81acb85f545",
+      "sharedAyahs": [
+        "19:7"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lEG1un6H7xY",
+          "start": 2837.75,
+          "end": 3026.57
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:8": {
+      "file": "019-مريم-youtube-v1/008.mp3",
+      "durationMs": 242300,
+      "bytes": 2908322,
+      "sha256": "81ece338d1230fb8d4cf1d5a97fd5eca4a29443f97d2ffa557c2d251adb296a6",
+      "sharedAyahs": [
+        "19:8"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 780.79,
+          "end": 1023.06
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:9": {
+      "file": "019-مريم-youtube-v1/009.mp3",
+      "durationMs": 44060,
+      "bytes": 529442,
+      "sha256": "646d36fb527f1bb280d15b2094e809e7a0e6343ecb51b58ad54c1e9c9cdcfe7b",
+      "sharedAyahs": [
+        "19:9"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 1023.06,
+          "end": 1067.09
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:10": {
+      "file": "019-مريم-youtube-v1/010.mp3",
+      "durationMs": 129980,
+      "bytes": 1560484,
+      "sha256": "33ad671114a35f286b355b2fe74a0828463b3d6943c211005c21243415ee006b",
+      "sharedAyahs": [
+        "19:10"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 1067.09,
+          "end": 1197.05
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:11": {
+      "file": "019-مريم-youtube-v1/011.mp3",
+      "durationMs": 706820,
+      "bytes": 8482564,
+      "sha256": "7949545bd54f6e7a4a8a244c5c94d70f4669ec4fb30d57923239571dd5d6cdb7",
+      "sharedAyahs": [
+        "19:11"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 1197.05,
+          "end": 1903.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:12": {
+      "file": "019-مريم-youtube-v1/012.mp3",
+      "durationMs": 87670,
+      "bytes": 1052740,
+      "sha256": "e687ccdafa201e8792d84410acd0398deccdb3dc20989589b03989e125c6ad1d",
+      "sharedAyahs": [
+        "19:12"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 1903.85,
+          "end": 1991.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:13": {
+      "file": "019-مريم-youtube-v1/013.mp3",
+      "durationMs": 142200,
+      "bytes": 1707076,
+      "sha256": "f77e8ae8941ff1955685af78052147fe57490b89eecd27a70230e42a2b081542",
+      "sharedAyahs": [
+        "19:13"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 1991.5,
+          "end": 2133.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:14": {
+      "file": "019-مريم-youtube-v1/014.mp3",
+      "durationMs": 20830,
+      "bytes": 250660,
+      "sha256": "02e1f3cf11620a2a70a94217c92e3991aa34649ab0b7d55dfefdd5a6c0875fd0",
+      "sharedAyahs": [
+        "19:14"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 2133.69,
+          "end": 2154.49
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:15": {
+      "file": "019-مريم-youtube-v1/015.mp3",
+      "durationMs": 71330,
+      "bytes": 856612,
+      "sha256": "5aaa0957a3c68041fe3531dfc32da90bf346a12d9de4cca490e37c8a86218976",
+      "sharedAyahs": [
+        "19:15"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 2154.49,
+          "end": 2225.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:16": {
+      "file": "019-مريم-youtube-v1/016.mp3",
+      "durationMs": 440210,
+      "bytes": 5283172,
+      "sha256": "c358a2913bc30519cc94af1df2558d0d649a3d7c740e9e7cba470f9b39e54aca",
+      "sharedAyahs": [
+        "19:16"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 2225.79,
+          "end": 2665.97
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:17": {
+      "file": "019-مريم-youtube-v1/017.mp3",
+      "durationMs": 2188250,
+      "bytes": 26259657,
+      "sha256": "58c64245f3479058660ea2494783808cc216aedd0264d14a0243061cdda49bd5",
+      "sharedAyahs": [
+        "19:17",
+        "19:18",
+        "19:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9MaaZ8tQcc",
+          "start": 42.46,
+          "end": 2230.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:18": {
+      "file": "019-مريم-youtube-v1/017.mp3",
+      "durationMs": 2188250,
+      "bytes": 26259657,
+      "sha256": "58c64245f3479058660ea2494783808cc216aedd0264d14a0243061cdda49bd5",
+      "sharedAyahs": [
+        "19:17",
+        "19:18",
+        "19:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9MaaZ8tQcc",
+          "start": 42.46,
+          "end": 2230.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:19": {
+      "file": "019-مريم-youtube-v1/017.mp3",
+      "durationMs": 2188250,
+      "bytes": 26259657,
+      "sha256": "58c64245f3479058660ea2494783808cc216aedd0264d14a0243061cdda49bd5",
+      "sharedAyahs": [
+        "19:17",
+        "19:18",
+        "19:19"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9MaaZ8tQcc",
+          "start": 42.46,
+          "end": 2230.69
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:20": {
+      "file": "019-مريم-youtube-v1/020.mp3",
+      "durationMs": 512040,
+      "bytes": 6145161,
+      "sha256": "c0623a927b3a761a7005f1259714ca9f3b29b02cccce4837e5e36e441d288a07",
+      "sharedAyahs": [
+        "19:20",
+        "19:21",
+        "19:22",
+        "19:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9MaaZ8tQcc",
+          "start": 2230.69,
+          "end": 2742.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:21": {
+      "file": "019-مريم-youtube-v1/020.mp3",
+      "durationMs": 512040,
+      "bytes": 6145161,
+      "sha256": "c0623a927b3a761a7005f1259714ca9f3b29b02cccce4837e5e36e441d288a07",
+      "sharedAyahs": [
+        "19:20",
+        "19:21",
+        "19:22",
+        "19:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9MaaZ8tQcc",
+          "start": 2230.69,
+          "end": 2742.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:22": {
+      "file": "019-مريم-youtube-v1/020.mp3",
+      "durationMs": 512040,
+      "bytes": 6145161,
+      "sha256": "c0623a927b3a761a7005f1259714ca9f3b29b02cccce4837e5e36e441d288a07",
+      "sharedAyahs": [
+        "19:20",
+        "19:21",
+        "19:22",
+        "19:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9MaaZ8tQcc",
+          "start": 2230.69,
+          "end": 2742.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:23": {
+      "file": "019-مريم-youtube-v1/020.mp3",
+      "durationMs": 512040,
+      "bytes": 6145161,
+      "sha256": "c0623a927b3a761a7005f1259714ca9f3b29b02cccce4837e5e36e441d288a07",
+      "sharedAyahs": [
+        "19:20",
+        "19:21",
+        "19:22",
+        "19:23"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "p9MaaZ8tQcc",
+          "start": 2230.69,
+          "end": 2742.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:24": {
+      "file": "019-مريم-youtube-v1/024.mp3",
+      "durationMs": 58080,
+      "bytes": 697636,
+      "sha256": "bc7d80ce17454f4410504367ba2cf485aa51358f66125d346c478acef370f262",
+      "sharedAyahs": [
+        "19:24"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 133.88,
+          "end": 191.94
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:25": {
+      "file": "019-مريم-youtube-v1/025.mp3",
+      "durationMs": 290900,
+      "bytes": 3491524,
+      "sha256": "9c1bdf8cc26366190e29dd5cfa2ae4a8f5cc9802525035ea8ec4f8b057f1dc7b",
+      "sharedAyahs": [
+        "19:25"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 191.94,
+          "end": 482.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:26": {
+      "file": "019-مريم-youtube-v1/026.mp3",
+      "durationMs": 832820,
+      "bytes": 9994564,
+      "sha256": "caeec8e3c06e879b0e200fb5c607f2c7aaf481d182aa4c87e6e19514be0711c2",
+      "sharedAyahs": [
+        "19:26"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 482.83,
+          "end": 1315.62
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:27": {
+      "file": "019-مريم-youtube-v1/027.mp3",
+      "durationMs": 123790,
+      "bytes": 1486180,
+      "sha256": "b3d948230fb091d28e7c2552fe8388ddeb2746e3d968e0071d85180be990f8f9",
+      "sharedAyahs": [
+        "19:27"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1315.62,
+          "end": 1439.39
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:28": {
+      "file": "019-مريم-youtube-v1/028.mp3",
+      "durationMs": 76610,
+      "bytes": 919972,
+      "sha256": "461a4cca9cf68b3383dba8dfb267ba7bc45f1c459cea22d0086b784ef48e0c07",
+      "sharedAyahs": [
+        "19:28"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1439.39,
+          "end": 1515.98
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:29": {
+      "file": "019-مريم-youtube-v1/029.mp3",
+      "durationMs": 68470,
+      "bytes": 822340,
+      "sha256": "01b8bd47e41522d2b49984ef25c921c6d36c35ae951df083106f0e4c55c95558",
+      "sharedAyahs": [
+        "19:29"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1515.98,
+          "end": 1584.41
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:30": {
+      "file": "019-مريم-youtube-v1/030.mp3",
+      "durationMs": 86110,
+      "bytes": 1034020,
+      "sha256": "eb13ef6086f97c74e134ec165db4c20d7ec29877f6ed27cfd5aefbf1b76cbd88",
+      "sharedAyahs": [
+        "19:30"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1584.41,
+          "end": 1670.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:31": {
+      "file": "019-مريم-youtube-v1/031.mp3",
+      "durationMs": 41400,
+      "bytes": 497476,
+      "sha256": "01a7bca6671e5c2d6a17a782d68e3036c596b5cfdafb2e8a2e91ad1bba4508b6",
+      "sharedAyahs": [
+        "19:31"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1670.5,
+          "end": 1711.89
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:32": {
+      "file": "019-مريم-youtube-v1/032.mp3",
+      "durationMs": 101760,
+      "bytes": 1221796,
+      "sha256": "0216ecffdc71a96c31cccbba77e4a33e0452cf95c2affd703a250a9e05960117",
+      "sharedAyahs": [
+        "19:32"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1711.89,
+          "end": 1813.62
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:33": {
+      "file": "019-مريم-youtube-v1/033.mp3",
+      "durationMs": 118630,
+      "bytes": 1424260,
+      "sha256": "b8656ed8b71da1fcfe53b056b5919474811c0dfaa5c021a179dcf9d5a84bdb74",
+      "sharedAyahs": [
+        "19:33"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1813.62,
+          "end": 1932.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:34": {
+      "file": "019-مريم-youtube-v1/034.mp3",
+      "durationMs": 60480,
+      "bytes": 726436,
+      "sha256": "5616105618713553e3146b600cdae3089a24f6e334e37155d6793b93719de419",
+      "sharedAyahs": [
+        "19:34"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1932.22,
+          "end": 1992.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:35": {
+      "file": "019-مريم-youtube-v1/035.mp3",
+      "durationMs": 475200,
+      "bytes": 5703076,
+      "sha256": "a0d5cb72f632f983991f5f07073cb2d57cde763d3c3f0ee0d5af4afcf40febf4",
+      "sharedAyahs": [
+        "19:35"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 1992.68,
+          "end": 2467.85
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:36": {
+      "file": "019-مريم-youtube-v1/036.mp3",
+      "durationMs": 114720,
+      "bytes": 1377316,
+      "sha256": "bab323e16e3282f437cb2c73cb9a967065d9ebe604cabf939995975179f07511",
+      "sharedAyahs": [
+        "19:36"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 2467.85,
+          "end": 2582.55
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:37": {
+      "file": "019-مريم-youtube-v1/037.mp3",
+      "durationMs": 95570,
+      "bytes": 1147492,
+      "sha256": "dce9e85de1c368f063e6afd013e7b815844f66959dc4d87b148d03bb4070bffd",
+      "sharedAyahs": [
+        "19:37"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 2582.55,
+          "end": 2678.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:38": {
+      "file": "019-مريم-youtube-v1/038.mp3",
+      "durationMs": 462170,
+      "bytes": 5546692,
+      "sha256": "23681f4754c849839300fe233be737e38ee2b0741634716bccc2455dc5891a8e",
+      "sharedAyahs": [
+        "19:38"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 270.63,
+          "end": 732.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:39": {
+      "file": "019-مريم-youtube-v1/039.mp3",
+      "durationMs": 185690,
+      "bytes": 2228932,
+      "sha256": "9fdfeb63ef4b21264cef8e6b9cab6317e210a6d0dca3f34d450c4ab4334f8d02",
+      "sharedAyahs": [
+        "19:39"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 732.79,
+          "end": 918.44
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:40": {
+      "file": "019-مريم-youtube-v1/040.mp3",
+      "durationMs": 39500,
+      "bytes": 474724,
+      "sha256": "87cc80e335bc391b5e222fc4e9f4039bb7f0423003dc76fe88d716c549bbd78f",
+      "sharedAyahs": [
+        "19:40"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 918.44,
+          "end": 957.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:41": {
+      "file": "019-مريم-youtube-v1/041.mp3",
+      "durationMs": 313660,
+      "bytes": 3764548,
+      "sha256": "bf558504b255978633472da68518994c5cd8328f320a2584be302699e8f1c9c4",
+      "sharedAyahs": [
+        "19:41"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 957.93,
+          "end": 1271.56
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:42": {
+      "file": "019-مريم-youtube-v1/042.mp3",
+      "durationMs": 925130,
+      "bytes": 11102212,
+      "sha256": "1c21becda7f4d4092bba5ea643d4a47d1f55a6574e051bd565ad878111e4d17e",
+      "sharedAyahs": [
+        "19:42"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 1271.56,
+          "end": 2196.67
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:43": {
+      "file": "019-مريم-youtube-v1/043.mp3",
+      "durationMs": 32930,
+      "bytes": 395812,
+      "sha256": "c72721ec61dd7d2c44c05deb4a11ddd0dc87ff619ea21e267219f1b62cb17235",
+      "sharedAyahs": [
+        "19:43"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 2196.67,
+          "end": 2229.57
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:44": {
+      "file": "019-مريم-youtube-v1/044.mp3",
+      "durationMs": 95210,
+      "bytes": 1143172,
+      "sha256": "879bc7f1bdc44f07e3e543b9de61b3a95bf05fc842fd3ec9aeea15cfcc20531c",
+      "sharedAyahs": [
+        "19:44"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 2229.57,
+          "end": 2324.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:45": {
+      "file": "019-مريم-youtube-v1/045.mp3",
+      "durationMs": 164060,
+      "bytes": 1969444,
+      "sha256": "a647894dd7a8b1d80c9a4a9d7a1d5e8abf17019b8fa2a0cae8ac878fcfe8e6ad",
+      "sharedAyahs": [
+        "19:45"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 2324.75,
+          "end": 2488.8
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:46": {
+      "file": "019-مريم-youtube-v1/046.mp3",
+      "durationMs": 160030,
+      "bytes": 1921060,
+      "sha256": "ad516024c23dc2e8bb0aaad34a2149c2a13d22c1a585b2d40b3f1b3318a43a09",
+      "sharedAyahs": [
+        "19:46"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 2488.8,
+          "end": 2648.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:47": {
+      "file": "019-مريم-youtube-v1/047.mp3",
+      "durationMs": 46270,
+      "bytes": 555940,
+      "sha256": "2f414c94f5472967f478049e12977b04ccc32cca395b553717b650cae73a6010",
+      "sharedAyahs": [
+        "19:47"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oEy8ZtFe6dk",
+          "start": 783.27,
+          "end": 829.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:48": {
+      "file": "019-مريم-youtube-v1/048.mp3",
+      "durationMs": 592560,
+      "bytes": 7111396,
+      "sha256": "e55ac4d7cd437c1aaf2e8806b0f4b1268cd3b03a1655c9b11467f55198d8c75f",
+      "sharedAyahs": [
+        "19:48"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oEy8ZtFe6dk",
+          "start": 829.53,
+          "end": 1422.06
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:49": {
+      "file": "019-مريم-youtube-v1/049.mp3",
+      "durationMs": 285310,
+      "bytes": 3424420,
+      "sha256": "07066b341ccb80bdc48c4934366465faec48d322698f23d5ede1a2753def1fa3",
+      "sharedAyahs": [
+        "19:49"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oEy8ZtFe6dk",
+          "start": 1422.06,
+          "end": 1707.36
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:50": {
+      "file": "019-مريم-youtube-v1/050.mp3",
+      "durationMs": 96720,
+      "bytes": 1161316,
+      "sha256": "11d4d639068b8015b98fca9d9367406e7a2207fa1d3a36bae7b580f9a277e67d",
+      "sharedAyahs": [
+        "19:50"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oEy8ZtFe6dk",
+          "start": 1707.36,
+          "end": 1804.05
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:51": {
+      "file": "019-مريم-youtube-v1/051.mp3",
+      "durationMs": 787300,
+      "bytes": 9448228,
+      "sha256": "74155b9a1f4277360a726e5d32e646e179f9626c767896c75e40210d908a9bfb",
+      "sharedAyahs": [
+        "19:51"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oEy8ZtFe6dk",
+          "start": 1804.05,
+          "end": 2591.31
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:52": {
+      "file": "019-مريم-youtube-v1/052.mp3",
+      "durationMs": 91630,
+      "bytes": 1100260,
+      "sha256": "33e0c93ebcaabfb30ef5b2e811d003ed94b2d193fb55f802ef24939a7df8bdfd",
+      "sharedAyahs": [
+        "19:52"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "oEy8ZtFe6dk",
+          "start": 2591.31,
+          "end": 2682.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:53": {
+      "file": "019-مريم-youtube-v1/053.mp3",
+      "durationMs": 35930,
+      "bytes": 431812,
+      "sha256": "64881ba210cc515de6a87d869d5b08bcb92ac0ae166c79fb1b8ee4f6fc00ff61",
+      "sharedAyahs": [
+        "19:53"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 377.25,
+          "end": 413.16
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:54": {
+      "file": "019-مريم-youtube-v1/054.mp3",
+      "durationMs": 311020,
+      "bytes": 3732868,
+      "sha256": "8b0c8ae659b4faced604392fb73ffb5113ce9651e3f0ecffad382fd39633483c",
+      "sharedAyahs": [
+        "19:54"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 413.16,
+          "end": 724.14
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:55": {
+      "file": "019-مريم-youtube-v1/055.mp3",
+      "durationMs": 283920,
+      "bytes": 3407716,
+      "sha256": "729ff21ab447353fe83c8ac12d2beb243e176ea6ed75250428430dd78ea7842a",
+      "sharedAyahs": [
+        "19:55"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 724.14,
+          "end": 1008.03
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:56": {
+      "file": "019-مريم-youtube-v1/056.mp3",
+      "durationMs": 167660,
+      "bytes": 2012644,
+      "sha256": "3ea0b36a592ad58d56c81a0f5272267ed59b3959280816eb48a1e8d5bd0a3ced",
+      "sharedAyahs": [
+        "19:56"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 1008.03,
+          "end": 1175.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:57": {
+      "file": "019-مريم-youtube-v1/057.mp3",
+      "durationMs": 26810,
+      "bytes": 322372,
+      "sha256": "dc5edbbb0f26371295926b39a50a319c2c3efa27f7c53def11af63ece4fddb8d",
+      "sharedAyahs": [
+        "19:57"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 1175.68,
+          "end": 1202.45
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:58": {
+      "file": "019-مريم-youtube-v1/058.mp3",
+      "durationMs": 462000,
+      "bytes": 5544676,
+      "sha256": "a2768461b1fcb1eccc42aa1c00809890e1e50f6abdcf0315dd082b480ad3e808",
+      "sharedAyahs": [
+        "19:58"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 1202.45,
+          "end": 1664.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:59": {
+      "file": "019-مريم-youtube-v1/059.mp3",
+      "durationMs": 512020,
+      "bytes": 6144868,
+      "sha256": "5cf6ecd50805db78325344c43a98f9ac7449f61097508ed7181a665ae8d5b100",
+      "sharedAyahs": [
+        "19:59"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 1664.43,
+          "end": 2176.43
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:60": {
+      "file": "019-مريم-youtube-v1/060.mp3",
+      "durationMs": 135530,
+      "bytes": 1627012,
+      "sha256": "1875dd79792e59dd90a26ee6ac9a2b7433d7e37de9e102e260deda0336d1d46f",
+      "sharedAyahs": [
+        "19:60"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 2176.43,
+          "end": 2311.93
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:61": {
+      "file": "019-مريم-youtube-v1/061.mp3",
+      "durationMs": 39050,
+      "bytes": 469252,
+      "sha256": "aebb7026dd16dccab246f03600ca7ace3fadb8f98335e41b2cdbac93cc2f7d2e",
+      "sharedAyahs": [
+        "19:61"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 2311.93,
+          "end": 2350.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:62": {
+      "file": "019-مريم-youtube-v1/062.mp3",
+      "durationMs": 559510,
+      "bytes": 6714825,
+      "sha256": "21fb0f40977fa137cba08528bf6df38f56ab6cb42730bd7817941c67859ee993",
+      "sharedAyahs": [
+        "19:62",
+        "19:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 306.68,
+          "end": 866.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:63": {
+      "file": "019-مريم-youtube-v1/062.mp3",
+      "durationMs": 559510,
+      "bytes": 6714825,
+      "sha256": "21fb0f40977fa137cba08528bf6df38f56ab6cb42730bd7817941c67859ee993",
+      "sharedAyahs": [
+        "19:62",
+        "19:63"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 306.68,
+          "end": 866.17
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:64": {
+      "file": "019-مريم-youtube-v1/064.mp3",
+      "durationMs": 577540,
+      "bytes": 6931108,
+      "sha256": "b33a6105fa343f67b91e9477fa06e93aac6044d7830f16e82231dd6d771fdb27",
+      "sharedAyahs": [
+        "19:64"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 866.17,
+          "end": 1443.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:65": {
+      "file": "019-مريم-youtube-v1/065.mp3",
+      "durationMs": 580180,
+      "bytes": 6962788,
+      "sha256": "8894383df8762b0c26fd25621a26d57883d42dd8579095074f2c9acf911c18f3",
+      "sharedAyahs": [
+        "19:65"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 1443.68,
+          "end": 2023.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:66": {
+      "file": "019-مريم-youtube-v1/066.mp3",
+      "durationMs": 10010,
+      "bytes": 120772,
+      "sha256": "615574840350396d0061565257bedfa3db5842e89c3fd78ee0e3b4a7085460e1",
+      "sharedAyahs": [
+        "19:66"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 2023.83,
+          "end": 2033.81
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:67": {
+      "file": "019-مريم-youtube-v1/067.mp3",
+      "durationMs": 133300,
+      "bytes": 1600228,
+      "sha256": "70fff045c5f757cee57bf3eb1a99ae912a7baff24a6de09c840279628d508c5d",
+      "sharedAyahs": [
+        "19:67"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 2033.81,
+          "end": 2167.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:68": {
+      "file": "019-مريم-youtube-v1/068.mp3",
+      "durationMs": 42580,
+      "bytes": 511588,
+      "sha256": "34046b92d4e7ddd95e9032848741c84e619d663de7e4029c1041806134ffde66",
+      "sharedAyahs": [
+        "19:68"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 2167.1,
+          "end": 2209.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:69": {
+      "file": "019-مريم-youtube-v1/069.mp3",
+      "durationMs": 269470,
+      "bytes": 3234340,
+      "sha256": "d5733c13682279b894234ca5538555cbeda6ecb1cb72a9d60300079258e149cf",
+      "sharedAyahs": [
+        "19:69"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 2209.65,
+          "end": 2479.1
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:70": {
+      "file": "019-مريم-youtube-v1/070.mp3",
+      "durationMs": 56710,
+      "bytes": 681220,
+      "sha256": "2cb5d9b9f36c95e4faf6453a7b85753a94b8bfba7ae5d1fea11b51b845852fa6",
+      "sharedAyahs": [
+        "19:70"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 2479.1,
+          "end": 2535.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:71": {
+      "file": "019-مريم-youtube-v1/071.mp3",
+      "durationMs": 114820,
+      "bytes": 1378468,
+      "sha256": "4280de69304e8d15ca65bc76ceaeabc0b8982162536f6ca00682e743d296b67e",
+      "sharedAyahs": [
+        "19:71"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 2535.78,
+          "end": 2650.58
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:72": {
+      "file": "019-مريم-youtube-v1/072.mp3",
+      "durationMs": 549650,
+      "bytes": 6596452,
+      "sha256": "9fc4698f783c9a89249a2e4e568b5b8c4b75c490b6adc6e34faff54f9780075e",
+      "sharedAyahs": [
+        "19:72"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eQYAOW9SVW4",
+          "start": 501.91,
+          "end": 1051.53
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:73": {
+      "file": "019-مريم-youtube-v1/073.mp3",
+      "durationMs": 1238760,
+      "bytes": 14865796,
+      "sha256": "ff5fa783b5407594526990dc40433b27db53c233d8c9078a9fab8defa7d72de7",
+      "sharedAyahs": [
+        "19:73"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eQYAOW9SVW4",
+          "start": 1051.53,
+          "end": 2290.26
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:74": {
+      "file": "019-مريم-youtube-v1/074.mp3",
+      "durationMs": 431760,
+      "bytes": 5181796,
+      "sha256": "9944c96594bc3f4b5a985305f12507b8ab73858ad9fed94f40b03b30b9bb9184",
+      "sharedAyahs": [
+        "19:74"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "eQYAOW9SVW4",
+          "start": 2290.26,
+          "end": 2721.99
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:75": {
+      "file": "019-مريم-youtube-v1/075.mp3",
+      "durationMs": 233060,
+      "bytes": 2797444,
+      "sha256": "4c3474b77d84d2adace13c56143ebdea8192e88e2824c32b6c3281501895d7b6",
+      "sharedAyahs": [
+        "19:75"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 603.83,
+          "end": 836.87
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:76": {
+      "file": "019-مريم-youtube-v1/076.mp3",
+      "durationMs": 102020,
+      "bytes": 1224964,
+      "sha256": "1134fed6cfaf721109681c743f5f8bb1b390cd210273ff152679e10ec20ad84b",
+      "sharedAyahs": [
+        "19:76"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 836.87,
+          "end": 938.86
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:77": {
+      "file": "019-مريم-youtube-v1/077.mp3",
+      "durationMs": 246430,
+      "bytes": 2957860,
+      "sha256": "769789f94bf1e1090e26cbc0a77eaa77d42b6da27f88a81ae2e54c3e1a8853d0",
+      "sharedAyahs": [
+        "19:77"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 938.86,
+          "end": 1185.27
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:78": {
+      "file": "019-مريم-youtube-v1/078.mp3",
+      "durationMs": 84500,
+      "bytes": 1014724,
+      "sha256": "3526dc5beece3559495f18bd491c754dea0b01c9197584d7fa9f558be12b2f6e",
+      "sharedAyahs": [
+        "19:78"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 1185.27,
+          "end": 1269.75
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:79": {
+      "file": "019-مريم-youtube-v1/079.mp3",
+      "durationMs": 164380,
+      "bytes": 1973188,
+      "sha256": "832a38a41c39eb48b8f1ed499c0a7fa8be432d9e03597ad5f2b50c3b5982778c",
+      "sharedAyahs": [
+        "19:79"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 1269.75,
+          "end": 1434.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:80": {
+      "file": "019-مريم-youtube-v1/080.mp3",
+      "durationMs": 29930,
+      "bytes": 359812,
+      "sha256": "857498738ae9adcd420e78b4fdd89fb460a13d27ee44aacb0b1de7ef8225e5c3",
+      "sharedAyahs": [
+        "19:80"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 1434.11,
+          "end": 1464.02
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:81": {
+      "file": "019-مريم-youtube-v1/081.mp3",
+      "durationMs": 582070,
+      "bytes": 6985540,
+      "sha256": "2abdd8813d3f9c202a8f1425384d0d16722489a417e24e31422665c3372f5a4b",
+      "sharedAyahs": [
+        "19:81"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 1464.02,
+          "end": 2046.07
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:82": {
+      "file": "019-مريم-youtube-v1/082.mp3",
+      "durationMs": 79970,
+      "bytes": 960292,
+      "sha256": "5cce4453b85cafc0c5332765c2b805c35f7db78d766e93999d92e1ad7acf241f",
+      "sharedAyahs": [
+        "19:82"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 2046.07,
+          "end": 2126.01
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:83": {
+      "file": "019-مريم-youtube-v1/083.mp3",
+      "durationMs": 337730,
+      "bytes": 4053412,
+      "sha256": "906621714a7f3c48747b810c960567a7beffb4ffc959b25b9f5d2b5aecb585a5",
+      "sharedAyahs": [
+        "19:83"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 2126.01,
+          "end": 2463.7
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:84": {
+      "file": "019-مريم-youtube-v1/084.mp3",
+      "durationMs": 206540,
+      "bytes": 2479204,
+      "sha256": "3bae84f7c4dc71807bd7649a8d79b89a0e15c308914ef9dab50dff8225900a52",
+      "sharedAyahs": [
+        "19:84"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 824.39,
+          "end": 1030.92
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:85": {
+      "file": "019-مريم-youtube-v1/085.mp3",
+      "durationMs": 91220,
+      "bytes": 1095364,
+      "sha256": "cf4c93324bac7629684fc102528c0a9dbc85a8ac86c66bafbb58f5be1dc174fc",
+      "sharedAyahs": [
+        "19:85"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 1030.92,
+          "end": 1122.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:86": {
+      "file": "019-مريم-youtube-v1/086.mp3",
+      "durationMs": 338520,
+      "bytes": 4062916,
+      "sha256": "7d94294f124a9851b8a025428939e71138079d97e854d7a5078feeba9e189ffe",
+      "sharedAyahs": [
+        "19:86"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 1122.11,
+          "end": 1460.6
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:87": {
+      "file": "019-مريم-youtube-v1/087.mp3",
+      "durationMs": 444100,
+      "bytes": 5329828,
+      "sha256": "d92ce92a5399d234e61d74bf75689e1363787ebf7040279331f8599c203ae716",
+      "sharedAyahs": [
+        "19:87"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 1460.6,
+          "end": 1904.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:88": {
+      "file": "019-مريم-youtube-v1/088.mp3",
+      "durationMs": 28390,
+      "bytes": 341380,
+      "sha256": "5d0df7a2a7a672ada68264f1a3472dc7c4ee80166f95abd622f465b11ffbf510",
+      "sharedAyahs": [
+        "19:88"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 1904.68,
+          "end": 1933.05
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:89": {
+      "file": "019-مريم-youtube-v1/089.mp3",
+      "durationMs": 88080,
+      "bytes": 1057636,
+      "sha256": "83f4ba06242e6614ceceb5cc21f1633b3aa729a55f931d2780f5543a9b216e1d",
+      "sharedAyahs": [
+        "19:89"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 1933.05,
+          "end": 2021.11
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:90": {
+      "file": "019-مريم-youtube-v1/090.mp3",
+      "durationMs": 10270,
+      "bytes": 123940,
+      "sha256": "9ff7639ba9abc22cd8d37ae2bb12d2dcc7b863b55c18905f652974be98ab39c1",
+      "sharedAyahs": [
+        "19:90"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 2021.11,
+          "end": 2031.34
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:91": {
+      "file": "019-مريم-youtube-v1/091.mp3",
+      "durationMs": 12890,
+      "bytes": 155332,
+      "sha256": "600223e7452cfe1a7a4fe46ba8b8fe70063419330ae565e206cc3fc82196a71b",
+      "sharedAyahs": [
+        "19:91"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 2031.34,
+          "end": 2044.22
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:92": {
+      "file": "019-مريم-youtube-v1/092.mp3",
+      "durationMs": 88460,
+      "bytes": 1062244,
+      "sha256": "776a6dc5c415c2de742e1b4db777b7114f16b5929ad39c81a56df1042b434e29",
+      "sharedAyahs": [
+        "19:92"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 2044.22,
+          "end": 2132.65
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:93": {
+      "file": "019-مريم-youtube-v1/093.mp3",
+      "durationMs": 289150,
+      "bytes": 3470500,
+      "sha256": "8faa220d5fc20d615a1abc77ab1079ed09ee67f0a2410831de7036b264416554",
+      "sharedAyahs": [
+        "19:93"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 2132.65,
+          "end": 2421.78
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:94": {
+      "file": "019-مريم-youtube-v1/094.mp3",
+      "durationMs": 304300,
+      "bytes": 3652233,
+      "sha256": "8917ac00ee711f4945d2d0de1d0d010be66d1f07d8dc81226cf543d091bcbeea",
+      "sharedAyahs": [
+        "19:94",
+        "19:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 2421.78,
+          "end": 2726.06
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:95": {
+      "file": "019-مريم-youtube-v1/094.mp3",
+      "durationMs": 304300,
+      "bytes": 3652233,
+      "sha256": "8917ac00ee711f4945d2d0de1d0d010be66d1f07d8dc81226cf543d091bcbeea",
+      "sharedAyahs": [
+        "19:94",
+        "19:95"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 2421.78,
+          "end": 2726.06
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:96": {
+      "file": "019-مريم-youtube-v1/096.mp3",
+      "durationMs": 286460,
+      "bytes": 3438244,
+      "sha256": "d8eebbcb92dbf7e2c9bc155a5c1bddcce5274d9a8931a4463a55ef7bc9a5e98f",
+      "sharedAyahs": [
+        "19:96"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 2726.06,
+          "end": 3012.5
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:97": {
+      "file": "019-مريم-youtube-v1/097.mp3",
+      "durationMs": 581500,
+      "bytes": 6978628,
+      "sha256": "7b8b67fd65bff8dec72694f4a50c5ff6bbadc094d72dcf1d2946ae1ae397669c",
+      "sharedAyahs": [
+        "19:97"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 3012.5,
+          "end": 3593.96
+        }
+      ],
+      "reviewNote": ""
+    },
+    "19:98": {
+      "file": "019-مريم-youtube-v1/098.mp3",
+      "durationMs": 109130,
+      "bytes": 1310212,
+      "sha256": "a77cfc0ac9fb6de3c303db37b98870185a93c3c3ba1ce3e9f76c2bce8935958f",
+      "sharedAyahs": [
+        "19:98"
+      ],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 3593.96,
+          "end": 3703.07
+        }
+      ],
+      "reviewNote": ""
+    }
+  },
+  "extraTracks": [
+    {
+      "file": "019-مريم-youtube-v1/introduction-07.mp3",
+      "kind": "introduction",
+      "durationMs": 739440,
+      "bytes": 8873954,
+      "sha256": "052f5d3ccbb779fefd40e489fafb8b2665339741b853fcd26a3034260ee64f5c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "DKGG5WNfifk",
+          "start": 41.37,
+          "end": 780.79
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "019-مريم-youtube-v1/introduction-19.mp3",
+      "kind": "introduction",
+      "durationMs": 133920,
+      "bytes": 1607714,
+      "sha256": "130b96f0844460f323c9f97d00489f1208525483bf83c868c46988394c27fb20",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "9JvJRbyzAvg",
+          "start": 0.0,
+          "end": 133.88
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "019-مريم-youtube-v1/introduction-34.mp3",
+      "kind": "introduction",
+      "durationMs": 270670,
+      "bytes": 3248738,
+      "sha256": "b748e18ca2fae95627e0f7d828189a4ec7ff775169672ed31e0ae00f7542be5b",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "VoovyO_-D8U",
+          "start": 0.0,
+          "end": 270.63
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "019-مريم-youtube-v1/introduction-44.mp3",
+      "kind": "introduction",
+      "durationMs": 783310,
+      "bytes": 9400418,
+      "sha256": "af7ef7f6218ae4a766a76214d7d9cfb1fcdabaf03f59ef7b28759b3902b04c44",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "oEy8ZtFe6dk",
+          "start": 0.0,
+          "end": 783.27
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "019-مريم-youtube-v1/introduction-51.mp3",
+      "kind": "introduction",
+      "durationMs": 377280,
+      "bytes": 4528034,
+      "sha256": "986fbee3f905e22a9e1f174475b60fa3b8539f53785de4ecf7eb4ef459d9ac53",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "XwE9BnatZfw",
+          "start": 0.0,
+          "end": 377.25
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "019-مريم-youtube-v1/introduction-61.mp3",
+      "kind": "introduction",
+      "durationMs": 267020,
+      "bytes": 3204962,
+      "sha256": "1566c26f32d6e545364cd693f0237f4fa8e97bcaeb532eadaf186dfc755cc68c",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "2FD6bDrcplA",
+          "start": 39.68,
+          "end": 306.68
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "019-مريم-youtube-v1/introduction-71.mp3",
+      "kind": "introduction",
+      "durationMs": 496780,
+      "bytes": 5961986,
+      "sha256": "e604b9f356bd2578c24ff483133dc5e968ce16e936f9905e267567c0136f9643",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "eQYAOW9SVW4",
+          "start": 5.15,
+          "end": 501.91
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "019-مريم-youtube-v1/introduction-75.mp3",
+      "kind": "introduction",
+      "durationMs": 603860,
+      "bytes": 7247042,
+      "sha256": "8422bd47b55e2e979ce9d21811011845db119f7dfac907b0c3040ee0e1b4a779",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "60uH4kSQvbE",
+          "start": 0.0,
+          "end": 603.83
+        }
+      ],
+      "reviewNote": ""
+    },
+    {
+      "file": "019-مريم-youtube-v1/introduction-85.mp3",
+      "kind": "introduction",
+      "durationMs": 767330,
+      "bytes": 9208610,
+      "sha256": "34a459a4fb62bc3ac3e545025ab6bd4ee2b542455ad96a0490e339bc3337de24",
+      "sharedAyahs": [],
+      "sourceIntervals": [
+        {
+          "source": "lWXnngWLi6I",
+          "start": 57.08,
+          "end": 824.39
+        }
+      ],
+      "reviewNote": ""
+    }
+  ],
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLf9dSQvwDWn_DSU-aK9C-EQVhKZc0JHnZ",
+  "alignmentMethod": "faster_whisper_large_v3_turbo_cuda_and_expert_review",
+  "topics": [
+    {
+      "id": "maryam-zakariyya-and-yahya",
+      "title": "قصة زكريا عليه السلام واستجابة الدعاء بالبشارة بيحيى",
+      "file": "019-مريم-youtube-v1/001.mp3",
+      "startMs": 0,
+      "endMs": 536740
+    },
+    {
+      "id": "maryam-birth-of-isa-and-monotheism",
+      "title": "معجزة مريم وولادة عيسى عليه السلام وبيان حقيقة التوحيد",
+      "file": "019-مريم-youtube-v1/016.mp3",
+      "startMs": 0,
+      "endMs": 440210
+    },
+    {
+      "id": "maryam-ibrahim-and-dawah",
+      "title": "دعوة إبراهيم عليه السلام لأبيه وأدب الحوار في التوحيد",
+      "file": "019-مريم-youtube-v1/041.mp3",
+      "startMs": 0,
+      "endMs": 313660
+    },
+    {
+      "id": "maryam-lineage-of-prophets",
+      "title": "اصطفاء الرسل والأنبياء وخشوعهم لآيات الرحمن",
+      "file": "019-مريم-youtube-v1/051.mp3",
+      "startMs": 0,
+      "endMs": 787300
+    },
+    {
+      "id": "maryam-loss-of-prayer-and-paradise",
+      "title": "خطر إضاعة الصلاة ونعيم التائبين في جنات عدن",
+      "file": "019-مريم-youtube-v1/059.mp3",
+      "startMs": 0,
+      "endMs": 512020
+    },
+    {
+      "id": "maryam-resurrection-and-refutation-of-shirk",
+      "title": "دلائل البعث والإنكار على من ادعى للرحمن ولدا",
+      "file": "019-مريم-youtube-v1/066.mp3",
+      "startMs": 0,
+      "endMs": 10010
+    }
+  ],
+  "fullSurah": {
+    "mode": "reused-clips",
+    "sourceOrder": [
+      "lEG1un6H7xY",
+      "DKGG5WNfifk",
+      "p9MaaZ8tQcc",
+      "9JvJRbyzAvg",
+      "VoovyO_-D8U",
+      "oEy8ZtFe6dk",
+      "XwE9BnatZfw",
+      "2FD6bDrcplA",
+      "eQYAOW9SVW4",
+      "60uH4kSQvbE",
+      "lWXnngWLi6I"
+    ],
+    "includesIntroductionsAndRecaps": true,
+    "tracks": [
+      {
+        "file": "019-مريم-youtube-v1/001.mp3",
+        "startMs": 0,
+        "endMs": 536740,
+        "durationMs": 536740,
+        "recordingDurationMs": 536740,
+        "bytes": 6441506,
+        "sha256": "704d4a1df310b5ac74e4427b2784f35c43b042ab9b0e0de3b7ccbe510faa6404",
+        "sharedAyahs": [
+          "19:1"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lEG1un6H7xY",
+            "start": 42.04,
+            "end": 578.76
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/002.mp3",
+        "startMs": 0,
+        "endMs": 566520,
+        "durationMs": 566520,
+        "recordingDurationMs": 566520,
+        "bytes": 6798914,
+        "sha256": "4be94c3e8947767908930d5c4ff86c95b05958c0be188cc06e4d895a70048893",
+        "sharedAyahs": [
+          "19:2"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lEG1un6H7xY",
+            "start": 578.76,
+            "end": 1145.25
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/003.mp3",
+        "startMs": 0,
+        "endMs": 962690,
+        "durationMs": 962690,
+        "recordingDurationMs": 962690,
+        "bytes": 11552930,
+        "sha256": "e0a493441f0e6a0582b52fbc9d702078e3fdfe7841c9ca3c193dd94af0447f0c",
+        "sharedAyahs": [
+          "19:3"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lEG1un6H7xY",
+            "start": 1145.25,
+            "end": 2107.91
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/004.mp3",
+        "startMs": 0,
+        "endMs": 99260,
+        "durationMs": 99260,
+        "recordingDurationMs": 99260,
+        "bytes": 1191842,
+        "sha256": "f2f48dc051372b37883eb5d6b53a4f0f22a92df55eb21f811e1953879487023f",
+        "sharedAyahs": [
+          "19:4"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lEG1un6H7xY",
+            "start": 2107.91,
+            "end": 2207.16
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/005.mp3",
+        "startMs": 0,
+        "endMs": 504860,
+        "durationMs": 504860,
+        "recordingDurationMs": 504860,
+        "bytes": 6059042,
+        "sha256": "121b05a0d16ece39e5196f71323f0adc3c84cbd9225eebc6cf0cc83ccffe9f3a",
+        "sharedAyahs": [
+          "19:5"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lEG1un6H7xY",
+            "start": 2207.16,
+            "end": 2711.99
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/006.mp3",
+        "startMs": 0,
+        "endMs": 125780,
+        "durationMs": 125780,
+        "recordingDurationMs": 125780,
+        "bytes": 1510082,
+        "sha256": "9fce81f82969915c4e08bfa9d823514e122d3553bc6af1fcb5a07930c9a6d959",
+        "sharedAyahs": [
+          "19:6"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lEG1un6H7xY",
+            "start": 2711.99,
+            "end": 2837.75
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/007.mp3",
+        "startMs": 0,
+        "endMs": 188860,
+        "durationMs": 188860,
+        "recordingDurationMs": 188860,
+        "bytes": 2266946,
+        "sha256": "05d934b669b2d1b33641d7944c42fc5016cb839e10a5e5b61d48f81acb85f545",
+        "sharedAyahs": [
+          "19:7"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lEG1un6H7xY",
+            "start": 2837.75,
+            "end": 3026.57
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-07.mp3",
+        "startMs": 0,
+        "endMs": 739440,
+        "durationMs": 739440,
+        "recordingDurationMs": 739440,
+        "bytes": 8873954,
+        "sha256": "052f5d3ccbb779fefd40e489fafb8b2665339741b853fcd26a3034260ee64f5c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 41.37,
+            "end": 780.79
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/008.mp3",
+        "startMs": 0,
+        "endMs": 242300,
+        "durationMs": 242300,
+        "recordingDurationMs": 242300,
+        "bytes": 2908322,
+        "sha256": "81ece338d1230fb8d4cf1d5a97fd5eca4a29443f97d2ffa557c2d251adb296a6",
+        "sharedAyahs": [
+          "19:8"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 780.79,
+            "end": 1023.06
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/009.mp3",
+        "startMs": 0,
+        "endMs": 44060,
+        "durationMs": 44060,
+        "recordingDurationMs": 44060,
+        "bytes": 529442,
+        "sha256": "646d36fb527f1bb280d15b2094e809e7a0e6343ecb51b58ad54c1e9c9cdcfe7b",
+        "sharedAyahs": [
+          "19:9"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 1023.06,
+            "end": 1067.09
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/010.mp3",
+        "startMs": 0,
+        "endMs": 129980,
+        "durationMs": 129980,
+        "recordingDurationMs": 129980,
+        "bytes": 1560484,
+        "sha256": "33ad671114a35f286b355b2fe74a0828463b3d6943c211005c21243415ee006b",
+        "sharedAyahs": [
+          "19:10"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 1067.09,
+            "end": 1197.05
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/011.mp3",
+        "startMs": 0,
+        "endMs": 706820,
+        "durationMs": 706820,
+        "recordingDurationMs": 706820,
+        "bytes": 8482564,
+        "sha256": "7949545bd54f6e7a4a8a244c5c94d70f4669ec4fb30d57923239571dd5d6cdb7",
+        "sharedAyahs": [
+          "19:11"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 1197.05,
+            "end": 1903.85
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/012.mp3",
+        "startMs": 0,
+        "endMs": 87670,
+        "durationMs": 87670,
+        "recordingDurationMs": 87670,
+        "bytes": 1052740,
+        "sha256": "e687ccdafa201e8792d84410acd0398deccdb3dc20989589b03989e125c6ad1d",
+        "sharedAyahs": [
+          "19:12"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 1903.85,
+            "end": 1991.5
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/013.mp3",
+        "startMs": 0,
+        "endMs": 142200,
+        "durationMs": 142200,
+        "recordingDurationMs": 142200,
+        "bytes": 1707076,
+        "sha256": "f77e8ae8941ff1955685af78052147fe57490b89eecd27a70230e42a2b081542",
+        "sharedAyahs": [
+          "19:13"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 1991.5,
+            "end": 2133.69
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/014.mp3",
+        "startMs": 0,
+        "endMs": 20830,
+        "durationMs": 20830,
+        "recordingDurationMs": 20830,
+        "bytes": 250660,
+        "sha256": "02e1f3cf11620a2a70a94217c92e3991aa34649ab0b7d55dfefdd5a6c0875fd0",
+        "sharedAyahs": [
+          "19:14"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 2133.69,
+            "end": 2154.49
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/015.mp3",
+        "startMs": 0,
+        "endMs": 71330,
+        "durationMs": 71330,
+        "recordingDurationMs": 71330,
+        "bytes": 856612,
+        "sha256": "5aaa0957a3c68041fe3531dfc32da90bf346a12d9de4cca490e37c8a86218976",
+        "sharedAyahs": [
+          "19:15"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 2154.49,
+            "end": 2225.79
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/016.mp3",
+        "startMs": 0,
+        "endMs": 440210,
+        "durationMs": 440210,
+        "recordingDurationMs": 440210,
+        "bytes": 5283172,
+        "sha256": "c358a2913bc30519cc94af1df2558d0d649a3d7c740e9e7cba470f9b39e54aca",
+        "sharedAyahs": [
+          "19:16"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "DKGG5WNfifk",
+            "start": 2225.79,
+            "end": 2665.97
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/017.mp3",
+        "startMs": 0,
+        "endMs": 2188250,
+        "durationMs": 2188250,
+        "recordingDurationMs": 2188250,
+        "bytes": 26259657,
+        "sha256": "58c64245f3479058660ea2494783808cc216aedd0264d14a0243061cdda49bd5",
+        "sharedAyahs": [
+          "19:17",
+          "19:18",
+          "19:19"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "p9MaaZ8tQcc",
+            "start": 42.46,
+            "end": 2230.69
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/020.mp3",
+        "startMs": 0,
+        "endMs": 512040,
+        "durationMs": 512040,
+        "recordingDurationMs": 512040,
+        "bytes": 6145161,
+        "sha256": "c0623a927b3a761a7005f1259714ca9f3b29b02cccce4837e5e36e441d288a07",
+        "sharedAyahs": [
+          "19:20",
+          "19:21",
+          "19:22",
+          "19:23"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "p9MaaZ8tQcc",
+            "start": 2230.69,
+            "end": 2742.7
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-19.mp3",
+        "startMs": 0,
+        "endMs": 133920,
+        "durationMs": 133920,
+        "recordingDurationMs": 133920,
+        "bytes": 1607714,
+        "sha256": "130b96f0844460f323c9f97d00489f1208525483bf83c868c46988394c27fb20",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 0.0,
+            "end": 133.88
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/024.mp3",
+        "startMs": 0,
+        "endMs": 58080,
+        "durationMs": 58080,
+        "recordingDurationMs": 58080,
+        "bytes": 697636,
+        "sha256": "bc7d80ce17454f4410504367ba2cf485aa51358f66125d346c478acef370f262",
+        "sharedAyahs": [
+          "19:24"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 133.88,
+            "end": 191.94
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/025.mp3",
+        "startMs": 0,
+        "endMs": 290900,
+        "durationMs": 290900,
+        "recordingDurationMs": 290900,
+        "bytes": 3491524,
+        "sha256": "9c1bdf8cc26366190e29dd5cfa2ae4a8f5cc9802525035ea8ec4f8b057f1dc7b",
+        "sharedAyahs": [
+          "19:25"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 191.94,
+            "end": 482.83
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/026.mp3",
+        "startMs": 0,
+        "endMs": 832820,
+        "durationMs": 832820,
+        "recordingDurationMs": 832820,
+        "bytes": 9994564,
+        "sha256": "caeec8e3c06e879b0e200fb5c607f2c7aaf481d182aa4c87e6e19514be0711c2",
+        "sharedAyahs": [
+          "19:26"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 482.83,
+            "end": 1315.62
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/027.mp3",
+        "startMs": 0,
+        "endMs": 123790,
+        "durationMs": 123790,
+        "recordingDurationMs": 123790,
+        "bytes": 1486180,
+        "sha256": "b3d948230fb091d28e7c2552fe8388ddeb2746e3d968e0071d85180be990f8f9",
+        "sharedAyahs": [
+          "19:27"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1315.62,
+            "end": 1439.39
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/028.mp3",
+        "startMs": 0,
+        "endMs": 76610,
+        "durationMs": 76610,
+        "recordingDurationMs": 76610,
+        "bytes": 919972,
+        "sha256": "461a4cca9cf68b3383dba8dfb267ba7bc45f1c459cea22d0086b784ef48e0c07",
+        "sharedAyahs": [
+          "19:28"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1439.39,
+            "end": 1515.98
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/029.mp3",
+        "startMs": 0,
+        "endMs": 68470,
+        "durationMs": 68470,
+        "recordingDurationMs": 68470,
+        "bytes": 822340,
+        "sha256": "01b8bd47e41522d2b49984ef25c921c6d36c35ae951df083106f0e4c55c95558",
+        "sharedAyahs": [
+          "19:29"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1515.98,
+            "end": 1584.41
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/030.mp3",
+        "startMs": 0,
+        "endMs": 86110,
+        "durationMs": 86110,
+        "recordingDurationMs": 86110,
+        "bytes": 1034020,
+        "sha256": "eb13ef6086f97c74e134ec165db4c20d7ec29877f6ed27cfd5aefbf1b76cbd88",
+        "sharedAyahs": [
+          "19:30"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1584.41,
+            "end": 1670.5
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/031.mp3",
+        "startMs": 0,
+        "endMs": 41400,
+        "durationMs": 41400,
+        "recordingDurationMs": 41400,
+        "bytes": 497476,
+        "sha256": "01a7bca6671e5c2d6a17a782d68e3036c596b5cfdafb2e8a2e91ad1bba4508b6",
+        "sharedAyahs": [
+          "19:31"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1670.5,
+            "end": 1711.89
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/032.mp3",
+        "startMs": 0,
+        "endMs": 101760,
+        "durationMs": 101760,
+        "recordingDurationMs": 101760,
+        "bytes": 1221796,
+        "sha256": "0216ecffdc71a96c31cccbba77e4a33e0452cf95c2affd703a250a9e05960117",
+        "sharedAyahs": [
+          "19:32"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1711.89,
+            "end": 1813.62
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/033.mp3",
+        "startMs": 0,
+        "endMs": 118630,
+        "durationMs": 118630,
+        "recordingDurationMs": 118630,
+        "bytes": 1424260,
+        "sha256": "b8656ed8b71da1fcfe53b056b5919474811c0dfaa5c021a179dcf9d5a84bdb74",
+        "sharedAyahs": [
+          "19:33"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1813.62,
+            "end": 1932.22
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/034.mp3",
+        "startMs": 0,
+        "endMs": 60480,
+        "durationMs": 60480,
+        "recordingDurationMs": 60480,
+        "bytes": 726436,
+        "sha256": "5616105618713553e3146b600cdae3089a24f6e334e37155d6793b93719de419",
+        "sharedAyahs": [
+          "19:34"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1932.22,
+            "end": 1992.68
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/035.mp3",
+        "startMs": 0,
+        "endMs": 475200,
+        "durationMs": 475200,
+        "recordingDurationMs": 475200,
+        "bytes": 5703076,
+        "sha256": "a0d5cb72f632f983991f5f07073cb2d57cde763d3c3f0ee0d5af4afcf40febf4",
+        "sharedAyahs": [
+          "19:35"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 1992.68,
+            "end": 2467.85
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/036.mp3",
+        "startMs": 0,
+        "endMs": 114720,
+        "durationMs": 114720,
+        "recordingDurationMs": 114720,
+        "bytes": 1377316,
+        "sha256": "bab323e16e3282f437cb2c73cb9a967065d9ebe604cabf939995975179f07511",
+        "sharedAyahs": [
+          "19:36"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 2467.85,
+            "end": 2582.55
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/037.mp3",
+        "startMs": 0,
+        "endMs": 95570,
+        "durationMs": 95570,
+        "recordingDurationMs": 95570,
+        "bytes": 1147492,
+        "sha256": "dce9e85de1c368f063e6afd013e7b815844f66959dc4d87b148d03bb4070bffd",
+        "sharedAyahs": [
+          "19:37"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "9JvJRbyzAvg",
+            "start": 2582.55,
+            "end": 2678.14
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-34.mp3",
+        "startMs": 0,
+        "endMs": 270670,
+        "durationMs": 270670,
+        "recordingDurationMs": 270670,
+        "bytes": 3248738,
+        "sha256": "b748e18ca2fae95627e0f7d828189a4ec7ff775169672ed31e0ae00f7542be5b",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 0.0,
+            "end": 270.63
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/038.mp3",
+        "startMs": 0,
+        "endMs": 462170,
+        "durationMs": 462170,
+        "recordingDurationMs": 462170,
+        "bytes": 5546692,
+        "sha256": "23681f4754c849839300fe233be737e38ee2b0741634716bccc2455dc5891a8e",
+        "sharedAyahs": [
+          "19:38"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 270.63,
+            "end": 732.79
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/039.mp3",
+        "startMs": 0,
+        "endMs": 185690,
+        "durationMs": 185690,
+        "recordingDurationMs": 185690,
+        "bytes": 2228932,
+        "sha256": "9fdfeb63ef4b21264cef8e6b9cab6317e210a6d0dca3f34d450c4ab4334f8d02",
+        "sharedAyahs": [
+          "19:39"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 732.79,
+            "end": 918.44
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/040.mp3",
+        "startMs": 0,
+        "endMs": 39500,
+        "durationMs": 39500,
+        "recordingDurationMs": 39500,
+        "bytes": 474724,
+        "sha256": "87cc80e335bc391b5e222fc4e9f4039bb7f0423003dc76fe88d716c549bbd78f",
+        "sharedAyahs": [
+          "19:40"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 918.44,
+            "end": 957.93
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/041.mp3",
+        "startMs": 0,
+        "endMs": 313660,
+        "durationMs": 313660,
+        "recordingDurationMs": 313660,
+        "bytes": 3764548,
+        "sha256": "bf558504b255978633472da68518994c5cd8328f320a2584be302699e8f1c9c4",
+        "sharedAyahs": [
+          "19:41"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 957.93,
+            "end": 1271.56
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/042.mp3",
+        "startMs": 0,
+        "endMs": 925130,
+        "durationMs": 925130,
+        "recordingDurationMs": 925130,
+        "bytes": 11102212,
+        "sha256": "1c21becda7f4d4092bba5ea643d4a47d1f55a6574e051bd565ad878111e4d17e",
+        "sharedAyahs": [
+          "19:42"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 1271.56,
+            "end": 2196.67
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/043.mp3",
+        "startMs": 0,
+        "endMs": 32930,
+        "durationMs": 32930,
+        "recordingDurationMs": 32930,
+        "bytes": 395812,
+        "sha256": "c72721ec61dd7d2c44c05deb4a11ddd0dc87ff619ea21e267219f1b62cb17235",
+        "sharedAyahs": [
+          "19:43"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 2196.67,
+            "end": 2229.57
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/044.mp3",
+        "startMs": 0,
+        "endMs": 95210,
+        "durationMs": 95210,
+        "recordingDurationMs": 95210,
+        "bytes": 1143172,
+        "sha256": "879bc7f1bdc44f07e3e543b9de61b3a95bf05fc842fd3ec9aeea15cfcc20531c",
+        "sharedAyahs": [
+          "19:44"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 2229.57,
+            "end": 2324.75
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/045.mp3",
+        "startMs": 0,
+        "endMs": 164060,
+        "durationMs": 164060,
+        "recordingDurationMs": 164060,
+        "bytes": 1969444,
+        "sha256": "a647894dd7a8b1d80c9a4a9d7a1d5e8abf17019b8fa2a0cae8ac878fcfe8e6ad",
+        "sharedAyahs": [
+          "19:45"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 2324.75,
+            "end": 2488.8
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/046.mp3",
+        "startMs": 0,
+        "endMs": 160030,
+        "durationMs": 160030,
+        "recordingDurationMs": 160030,
+        "bytes": 1921060,
+        "sha256": "ad516024c23dc2e8bb0aaad34a2149c2a13d22c1a585b2d40b3f1b3318a43a09",
+        "sharedAyahs": [
+          "19:46"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "VoovyO_-D8U",
+            "start": 2488.8,
+            "end": 2648.83
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-44.mp3",
+        "startMs": 0,
+        "endMs": 783310,
+        "durationMs": 783310,
+        "recordingDurationMs": 783310,
+        "bytes": 9400418,
+        "sha256": "af7ef7f6218ae4a766a76214d7d9cfb1fcdabaf03f59ef7b28759b3902b04c44",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "oEy8ZtFe6dk",
+            "start": 0.0,
+            "end": 783.27
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/047.mp3",
+        "startMs": 0,
+        "endMs": 46270,
+        "durationMs": 46270,
+        "recordingDurationMs": 46270,
+        "bytes": 555940,
+        "sha256": "2f414c94f5472967f478049e12977b04ccc32cca395b553717b650cae73a6010",
+        "sharedAyahs": [
+          "19:47"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oEy8ZtFe6dk",
+            "start": 783.27,
+            "end": 829.53
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/048.mp3",
+        "startMs": 0,
+        "endMs": 592560,
+        "durationMs": 592560,
+        "recordingDurationMs": 592560,
+        "bytes": 7111396,
+        "sha256": "e55ac4d7cd437c1aaf2e8806b0f4b1268cd3b03a1655c9b11467f55198d8c75f",
+        "sharedAyahs": [
+          "19:48"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oEy8ZtFe6dk",
+            "start": 829.53,
+            "end": 1422.06
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/049.mp3",
+        "startMs": 0,
+        "endMs": 285310,
+        "durationMs": 285310,
+        "recordingDurationMs": 285310,
+        "bytes": 3424420,
+        "sha256": "07066b341ccb80bdc48c4934366465faec48d322698f23d5ede1a2753def1fa3",
+        "sharedAyahs": [
+          "19:49"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oEy8ZtFe6dk",
+            "start": 1422.06,
+            "end": 1707.36
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/050.mp3",
+        "startMs": 0,
+        "endMs": 96720,
+        "durationMs": 96720,
+        "recordingDurationMs": 96720,
+        "bytes": 1161316,
+        "sha256": "11d4d639068b8015b98fca9d9367406e7a2207fa1d3a36bae7b580f9a277e67d",
+        "sharedAyahs": [
+          "19:50"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oEy8ZtFe6dk",
+            "start": 1707.36,
+            "end": 1804.05
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/051.mp3",
+        "startMs": 0,
+        "endMs": 787300,
+        "durationMs": 787300,
+        "recordingDurationMs": 787300,
+        "bytes": 9448228,
+        "sha256": "74155b9a1f4277360a726e5d32e646e179f9626c767896c75e40210d908a9bfb",
+        "sharedAyahs": [
+          "19:51"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oEy8ZtFe6dk",
+            "start": 1804.05,
+            "end": 2591.31
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/052.mp3",
+        "startMs": 0,
+        "endMs": 91630,
+        "durationMs": 91630,
+        "recordingDurationMs": 91630,
+        "bytes": 1100260,
+        "sha256": "33e0c93ebcaabfb30ef5b2e811d003ed94b2d193fb55f802ef24939a7df8bdfd",
+        "sharedAyahs": [
+          "19:52"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "oEy8ZtFe6dk",
+            "start": 2591.31,
+            "end": 2682.96
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-51.mp3",
+        "startMs": 0,
+        "endMs": 377280,
+        "durationMs": 377280,
+        "recordingDurationMs": 377280,
+        "bytes": 4528034,
+        "sha256": "986fbee3f905e22a9e1f174475b60fa3b8539f53785de4ecf7eb4ef459d9ac53",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 0.0,
+            "end": 377.25
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/053.mp3",
+        "startMs": 0,
+        "endMs": 35930,
+        "durationMs": 35930,
+        "recordingDurationMs": 35930,
+        "bytes": 431812,
+        "sha256": "64881ba210cc515de6a87d869d5b08bcb92ac0ae166c79fb1b8ee4f6fc00ff61",
+        "sharedAyahs": [
+          "19:53"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 377.25,
+            "end": 413.16
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/054.mp3",
+        "startMs": 0,
+        "endMs": 311020,
+        "durationMs": 311020,
+        "recordingDurationMs": 311020,
+        "bytes": 3732868,
+        "sha256": "8b0c8ae659b4faced604392fb73ffb5113ce9651e3f0ecffad382fd39633483c",
+        "sharedAyahs": [
+          "19:54"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 413.16,
+            "end": 724.14
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/055.mp3",
+        "startMs": 0,
+        "endMs": 283920,
+        "durationMs": 283920,
+        "recordingDurationMs": 283920,
+        "bytes": 3407716,
+        "sha256": "729ff21ab447353fe83c8ac12d2beb243e176ea6ed75250428430dd78ea7842a",
+        "sharedAyahs": [
+          "19:55"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 724.14,
+            "end": 1008.03
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/056.mp3",
+        "startMs": 0,
+        "endMs": 167660,
+        "durationMs": 167660,
+        "recordingDurationMs": 167660,
+        "bytes": 2012644,
+        "sha256": "3ea0b36a592ad58d56c81a0f5272267ed59b3959280816eb48a1e8d5bd0a3ced",
+        "sharedAyahs": [
+          "19:56"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 1008.03,
+            "end": 1175.68
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/057.mp3",
+        "startMs": 0,
+        "endMs": 26810,
+        "durationMs": 26810,
+        "recordingDurationMs": 26810,
+        "bytes": 322372,
+        "sha256": "dc5edbbb0f26371295926b39a50a319c2c3efa27f7c53def11af63ece4fddb8d",
+        "sharedAyahs": [
+          "19:57"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 1175.68,
+            "end": 1202.45
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/058.mp3",
+        "startMs": 0,
+        "endMs": 462000,
+        "durationMs": 462000,
+        "recordingDurationMs": 462000,
+        "bytes": 5544676,
+        "sha256": "a2768461b1fcb1eccc42aa1c00809890e1e50f6abdcf0315dd082b480ad3e808",
+        "sharedAyahs": [
+          "19:58"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 1202.45,
+            "end": 1664.43
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/059.mp3",
+        "startMs": 0,
+        "endMs": 512020,
+        "durationMs": 512020,
+        "recordingDurationMs": 512020,
+        "bytes": 6144868,
+        "sha256": "5cf6ecd50805db78325344c43a98f9ac7449f61097508ed7181a665ae8d5b100",
+        "sharedAyahs": [
+          "19:59"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 1664.43,
+            "end": 2176.43
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/060.mp3",
+        "startMs": 0,
+        "endMs": 135530,
+        "durationMs": 135530,
+        "recordingDurationMs": 135530,
+        "bytes": 1627012,
+        "sha256": "1875dd79792e59dd90a26ee6ac9a2b7433d7e37de9e102e260deda0336d1d46f",
+        "sharedAyahs": [
+          "19:60"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 2176.43,
+            "end": 2311.93
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/061.mp3",
+        "startMs": 0,
+        "endMs": 39050,
+        "durationMs": 39050,
+        "recordingDurationMs": 39050,
+        "bytes": 469252,
+        "sha256": "aebb7026dd16dccab246f03600ca7ace3fadb8f98335e41b2cdbac93cc2f7d2e",
+        "sharedAyahs": [
+          "19:61"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "XwE9BnatZfw",
+            "start": 2311.93,
+            "end": 2350.99
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-61.mp3",
+        "startMs": 0,
+        "endMs": 267020,
+        "durationMs": 267020,
+        "recordingDurationMs": 267020,
+        "bytes": 3204962,
+        "sha256": "1566c26f32d6e545364cd693f0237f4fa8e97bcaeb532eadaf186dfc755cc68c",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 39.68,
+            "end": 306.68
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/062.mp3",
+        "startMs": 0,
+        "endMs": 559510,
+        "durationMs": 559510,
+        "recordingDurationMs": 559510,
+        "bytes": 6714825,
+        "sha256": "21fb0f40977fa137cba08528bf6df38f56ab6cb42730bd7817941c67859ee993",
+        "sharedAyahs": [
+          "19:62",
+          "19:63"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 306.68,
+            "end": 866.17
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/064.mp3",
+        "startMs": 0,
+        "endMs": 577540,
+        "durationMs": 577540,
+        "recordingDurationMs": 577540,
+        "bytes": 6931108,
+        "sha256": "b33a6105fa343f67b91e9477fa06e93aac6044d7830f16e82231dd6d771fdb27",
+        "sharedAyahs": [
+          "19:64"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 866.17,
+            "end": 1443.68
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/065.mp3",
+        "startMs": 0,
+        "endMs": 580180,
+        "durationMs": 580180,
+        "recordingDurationMs": 580180,
+        "bytes": 6962788,
+        "sha256": "8894383df8762b0c26fd25621a26d57883d42dd8579095074f2c9acf911c18f3",
+        "sharedAyahs": [
+          "19:65"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 1443.68,
+            "end": 2023.83
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/066.mp3",
+        "startMs": 0,
+        "endMs": 10010,
+        "durationMs": 10010,
+        "recordingDurationMs": 10010,
+        "bytes": 120772,
+        "sha256": "615574840350396d0061565257bedfa3db5842e89c3fd78ee0e3b4a7085460e1",
+        "sharedAyahs": [
+          "19:66"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 2023.83,
+            "end": 2033.81
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/067.mp3",
+        "startMs": 0,
+        "endMs": 133300,
+        "durationMs": 133300,
+        "recordingDurationMs": 133300,
+        "bytes": 1600228,
+        "sha256": "70fff045c5f757cee57bf3eb1a99ae912a7baff24a6de09c840279628d508c5d",
+        "sharedAyahs": [
+          "19:67"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 2033.81,
+            "end": 2167.1
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/068.mp3",
+        "startMs": 0,
+        "endMs": 42580,
+        "durationMs": 42580,
+        "recordingDurationMs": 42580,
+        "bytes": 511588,
+        "sha256": "34046b92d4e7ddd95e9032848741c84e619d663de7e4029c1041806134ffde66",
+        "sharedAyahs": [
+          "19:68"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 2167.1,
+            "end": 2209.65
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/069.mp3",
+        "startMs": 0,
+        "endMs": 269470,
+        "durationMs": 269470,
+        "recordingDurationMs": 269470,
+        "bytes": 3234340,
+        "sha256": "d5733c13682279b894234ca5538555cbeda6ecb1cb72a9d60300079258e149cf",
+        "sharedAyahs": [
+          "19:69"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 2209.65,
+            "end": 2479.1
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/070.mp3",
+        "startMs": 0,
+        "endMs": 56710,
+        "durationMs": 56710,
+        "recordingDurationMs": 56710,
+        "bytes": 681220,
+        "sha256": "2cb5d9b9f36c95e4faf6453a7b85753a94b8bfba7ae5d1fea11b51b845852fa6",
+        "sharedAyahs": [
+          "19:70"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 2479.1,
+            "end": 2535.78
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/071.mp3",
+        "startMs": 0,
+        "endMs": 114820,
+        "durationMs": 114820,
+        "recordingDurationMs": 114820,
+        "bytes": 1378468,
+        "sha256": "4280de69304e8d15ca65bc76ceaeabc0b8982162536f6ca00682e743d296b67e",
+        "sharedAyahs": [
+          "19:71"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "2FD6bDrcplA",
+            "start": 2535.78,
+            "end": 2650.58
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-71.mp3",
+        "startMs": 0,
+        "endMs": 496780,
+        "durationMs": 496780,
+        "recordingDurationMs": 496780,
+        "bytes": 5961986,
+        "sha256": "e604b9f356bd2578c24ff483133dc5e968ce16e936f9905e267567c0136f9643",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "eQYAOW9SVW4",
+            "start": 5.15,
+            "end": 501.91
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/072.mp3",
+        "startMs": 0,
+        "endMs": 549650,
+        "durationMs": 549650,
+        "recordingDurationMs": 549650,
+        "bytes": 6596452,
+        "sha256": "9fc4698f783c9a89249a2e4e568b5b8c4b75c490b6adc6e34faff54f9780075e",
+        "sharedAyahs": [
+          "19:72"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eQYAOW9SVW4",
+            "start": 501.91,
+            "end": 1051.53
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/073.mp3",
+        "startMs": 0,
+        "endMs": 1238760,
+        "durationMs": 1238760,
+        "recordingDurationMs": 1238760,
+        "bytes": 14865796,
+        "sha256": "ff5fa783b5407594526990dc40433b27db53c233d8c9078a9fab8defa7d72de7",
+        "sharedAyahs": [
+          "19:73"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eQYAOW9SVW4",
+            "start": 1051.53,
+            "end": 2290.26
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/074.mp3",
+        "startMs": 0,
+        "endMs": 431760,
+        "durationMs": 431760,
+        "recordingDurationMs": 431760,
+        "bytes": 5181796,
+        "sha256": "9944c96594bc3f4b5a985305f12507b8ab73858ad9fed94f40b03b30b9bb9184",
+        "sharedAyahs": [
+          "19:74"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "eQYAOW9SVW4",
+            "start": 2290.26,
+            "end": 2721.99
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-75.mp3",
+        "startMs": 0,
+        "endMs": 603860,
+        "durationMs": 603860,
+        "recordingDurationMs": 603860,
+        "bytes": 7247042,
+        "sha256": "8422bd47b55e2e979ce9d21811011845db119f7dfac907b0c3040ee0e1b4a779",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 0.0,
+            "end": 603.83
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/075.mp3",
+        "startMs": 0,
+        "endMs": 233060,
+        "durationMs": 233060,
+        "recordingDurationMs": 233060,
+        "bytes": 2797444,
+        "sha256": "4c3474b77d84d2adace13c56143ebdea8192e88e2824c32b6c3281501895d7b6",
+        "sharedAyahs": [
+          "19:75"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 603.83,
+            "end": 836.87
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/076.mp3",
+        "startMs": 0,
+        "endMs": 102020,
+        "durationMs": 102020,
+        "recordingDurationMs": 102020,
+        "bytes": 1224964,
+        "sha256": "1134fed6cfaf721109681c743f5f8bb1b390cd210273ff152679e10ec20ad84b",
+        "sharedAyahs": [
+          "19:76"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 836.87,
+            "end": 938.86
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/077.mp3",
+        "startMs": 0,
+        "endMs": 246430,
+        "durationMs": 246430,
+        "recordingDurationMs": 246430,
+        "bytes": 2957860,
+        "sha256": "769789f94bf1e1090e26cbc0a77eaa77d42b6da27f88a81ae2e54c3e1a8853d0",
+        "sharedAyahs": [
+          "19:77"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 938.86,
+            "end": 1185.27
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/078.mp3",
+        "startMs": 0,
+        "endMs": 84500,
+        "durationMs": 84500,
+        "recordingDurationMs": 84500,
+        "bytes": 1014724,
+        "sha256": "3526dc5beece3559495f18bd491c754dea0b01c9197584d7fa9f558be12b2f6e",
+        "sharedAyahs": [
+          "19:78"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 1185.27,
+            "end": 1269.75
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/079.mp3",
+        "startMs": 0,
+        "endMs": 164380,
+        "durationMs": 164380,
+        "recordingDurationMs": 164380,
+        "bytes": 1973188,
+        "sha256": "832a38a41c39eb48b8f1ed499c0a7fa8be432d9e03597ad5f2b50c3b5982778c",
+        "sharedAyahs": [
+          "19:79"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 1269.75,
+            "end": 1434.11
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/080.mp3",
+        "startMs": 0,
+        "endMs": 29930,
+        "durationMs": 29930,
+        "recordingDurationMs": 29930,
+        "bytes": 359812,
+        "sha256": "857498738ae9adcd420e78b4fdd89fb460a13d27ee44aacb0b1de7ef8225e5c3",
+        "sharedAyahs": [
+          "19:80"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 1434.11,
+            "end": 1464.02
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/081.mp3",
+        "startMs": 0,
+        "endMs": 582070,
+        "durationMs": 582070,
+        "recordingDurationMs": 582070,
+        "bytes": 6985540,
+        "sha256": "2abdd8813d3f9c202a8f1425384d0d16722489a417e24e31422665c3372f5a4b",
+        "sharedAyahs": [
+          "19:81"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 1464.02,
+            "end": 2046.07
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/082.mp3",
+        "startMs": 0,
+        "endMs": 79970,
+        "durationMs": 79970,
+        "recordingDurationMs": 79970,
+        "bytes": 960292,
+        "sha256": "5cce4453b85cafc0c5332765c2b805c35f7db78d766e93999d92e1ad7acf241f",
+        "sharedAyahs": [
+          "19:82"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 2046.07,
+            "end": 2126.01
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/083.mp3",
+        "startMs": 0,
+        "endMs": 337730,
+        "durationMs": 337730,
+        "recordingDurationMs": 337730,
+        "bytes": 4053412,
+        "sha256": "906621714a7f3c48747b810c960567a7beffb4ffc959b25b9f5d2b5aecb585a5",
+        "sharedAyahs": [
+          "19:83"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "60uH4kSQvbE",
+            "start": 2126.01,
+            "end": 2463.7
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/introduction-85.mp3",
+        "startMs": 0,
+        "endMs": 767330,
+        "durationMs": 767330,
+        "recordingDurationMs": 767330,
+        "bytes": 9208610,
+        "sha256": "34a459a4fb62bc3ac3e545025ab6bd4ee2b542455ad96a0490e339bc3337de24",
+        "sharedAyahs": [],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 57.08,
+            "end": 824.39
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/084.mp3",
+        "startMs": 0,
+        "endMs": 206540,
+        "durationMs": 206540,
+        "recordingDurationMs": 206540,
+        "bytes": 2479204,
+        "sha256": "3bae84f7c4dc71807bd7649a8d79b89a0e15c308914ef9dab50dff8225900a52",
+        "sharedAyahs": [
+          "19:84"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 824.39,
+            "end": 1030.92
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/085.mp3",
+        "startMs": 0,
+        "endMs": 91220,
+        "durationMs": 91220,
+        "recordingDurationMs": 91220,
+        "bytes": 1095364,
+        "sha256": "cf4c93324bac7629684fc102528c0a9dbc85a8ac86c66bafbb58f5be1dc174fc",
+        "sharedAyahs": [
+          "19:85"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 1030.92,
+            "end": 1122.11
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/086.mp3",
+        "startMs": 0,
+        "endMs": 338520,
+        "durationMs": 338520,
+        "recordingDurationMs": 338520,
+        "bytes": 4062916,
+        "sha256": "7d94294f124a9851b8a025428939e71138079d97e854d7a5078feeba9e189ffe",
+        "sharedAyahs": [
+          "19:86"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 1122.11,
+            "end": 1460.6
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/087.mp3",
+        "startMs": 0,
+        "endMs": 444100,
+        "durationMs": 444100,
+        "recordingDurationMs": 444100,
+        "bytes": 5329828,
+        "sha256": "d92ce92a5399d234e61d74bf75689e1363787ebf7040279331f8599c203ae716",
+        "sharedAyahs": [
+          "19:87"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 1460.6,
+            "end": 1904.68
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/088.mp3",
+        "startMs": 0,
+        "endMs": 28390,
+        "durationMs": 28390,
+        "recordingDurationMs": 28390,
+        "bytes": 341380,
+        "sha256": "5d0df7a2a7a672ada68264f1a3472dc7c4ee80166f95abd622f465b11ffbf510",
+        "sharedAyahs": [
+          "19:88"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 1904.68,
+            "end": 1933.05
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/089.mp3",
+        "startMs": 0,
+        "endMs": 88080,
+        "durationMs": 88080,
+        "recordingDurationMs": 88080,
+        "bytes": 1057636,
+        "sha256": "83f4ba06242e6614ceceb5cc21f1633b3aa729a55f931d2780f5543a9b216e1d",
+        "sharedAyahs": [
+          "19:89"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 1933.05,
+            "end": 2021.11
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/090.mp3",
+        "startMs": 0,
+        "endMs": 10270,
+        "durationMs": 10270,
+        "recordingDurationMs": 10270,
+        "bytes": 123940,
+        "sha256": "9ff7639ba9abc22cd8d37ae2bb12d2dcc7b863b55c18905f652974be98ab39c1",
+        "sharedAyahs": [
+          "19:90"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 2021.11,
+            "end": 2031.34
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/091.mp3",
+        "startMs": 0,
+        "endMs": 12890,
+        "durationMs": 12890,
+        "recordingDurationMs": 12890,
+        "bytes": 155332,
+        "sha256": "600223e7452cfe1a7a4fe46ba8b8fe70063419330ae565e206cc3fc82196a71b",
+        "sharedAyahs": [
+          "19:91"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 2031.34,
+            "end": 2044.22
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/092.mp3",
+        "startMs": 0,
+        "endMs": 88460,
+        "durationMs": 88460,
+        "recordingDurationMs": 88460,
+        "bytes": 1062244,
+        "sha256": "776a6dc5c415c2de742e1b4db777b7114f16b5929ad39c81a56df1042b434e29",
+        "sharedAyahs": [
+          "19:92"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 2044.22,
+            "end": 2132.65
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/093.mp3",
+        "startMs": 0,
+        "endMs": 289150,
+        "durationMs": 289150,
+        "recordingDurationMs": 289150,
+        "bytes": 3470500,
+        "sha256": "8faa220d5fc20d615a1abc77ab1079ed09ee67f0a2410831de7036b264416554",
+        "sharedAyahs": [
+          "19:93"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 2132.65,
+            "end": 2421.78
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/094.mp3",
+        "startMs": 0,
+        "endMs": 304300,
+        "durationMs": 304300,
+        "recordingDurationMs": 304300,
+        "bytes": 3652233,
+        "sha256": "8917ac00ee711f4945d2d0de1d0d010be66d1f07d8dc81226cf543d091bcbeea",
+        "sharedAyahs": [
+          "19:94",
+          "19:95"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 2421.78,
+            "end": 2726.06
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/096.mp3",
+        "startMs": 0,
+        "endMs": 286460,
+        "durationMs": 286460,
+        "recordingDurationMs": 286460,
+        "bytes": 3438244,
+        "sha256": "d8eebbcb92dbf7e2c9bc155a5c1bddcce5274d9a8931a4463a55ef7bc9a5e98f",
+        "sharedAyahs": [
+          "19:96"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 2726.06,
+            "end": 3012.5
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/097.mp3",
+        "startMs": 0,
+        "endMs": 581500,
+        "durationMs": 581500,
+        "recordingDurationMs": 581500,
+        "bytes": 6978628,
+        "sha256": "7b8b67fd65bff8dec72694f4a50c5ff6bbadc094d72dcf1d2946ae1ae397669c",
+        "sharedAyahs": [
+          "19:97"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 3012.5,
+            "end": 3593.96
+          }
+        ]
+      },
+      {
+        "file": "019-مريم-youtube-v1/098.mp3",
+        "startMs": 0,
+        "endMs": 109130,
+        "durationMs": 109130,
+        "recordingDurationMs": 109130,
+        "bytes": 1310212,
+        "sha256": "a77cfc0ac9fb6de3c303db37b98870185a93c3c3ba1ce3e9f76c2bce8935958f",
+        "sharedAyahs": [
+          "19:98"
+        ],
+        "sourceIntervals": [
+          {
+            "source": "lWXnngWLi6I",
+            "start": 3593.96,
+            "end": 3703.07
+          }
+        ]
+      }
+    ],
+    "durationMs": 30110050,
+    "additionalAudioBytes": 0
+  },
+  "publicationStatus": "published"
+}
